@@ -1,0 +1,16 @@
+{
+  "name": "8-team double elimination (template)",
+  "teams": ["AMER_T1","EMEA_T1","PAC_T1","CN_T1","AMER_T2","EMEA_T2","PAC_T2","CN_T2"],
+  "matches": [
+    {"id":"UB1","a":"S1","b":"S8"}, {"id":"UB2","a":"S4","b":"S5"},
+    {"id":"UB3","a":"S2","b":"S7"}, {"id":"UB4","a":"S3","b":"S6"},
+    {"id":"LB1","a":"L:UB1","b":"L:UB2"}, {"id":"LB2","a":"L:UB3","b":"L:UB4"},
+    {"id":"UB5","a":"W:UB1","b":"W:UB2"}, {"id":"UB6","a":"W:UB3","b":"W:UB4"},
+    {"id":"LB3","a":"W:LB1","b":"L:UB6"}, {"id":"LB4","a":"W:LB2","b":"L:UB5"},
+    {"id":"UB7","a":"W:UB5","b":"W:UB6"},
+    {"id":"LB5","a":"W:LB3","b":"W:LB4"},
+    {"id":"LB6","a":"L:UB7","b":"W:LB5"},
+    {"id":"GF","a":"W:UB7","b":"W:LB6","best_of":5}
+  ],
+  "final": "GF"
+}
