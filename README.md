@@ -3,7 +3,7 @@
 VCT 지역리그·국제전 **선수 stat** 기반 파워포인트(PP)와 국제전 승부/대진 예측. 개인 사용 웹앱(아이폰 Safari 홈화면 추가).
 
 ```
-vlr.gg ──scrape──▶ data/rows/*.csv ──model──▶ web/public/data/model.json ──▶ Svelte PWA (Cloudflare Pages)
+vlr.gg ──scrape──▶ data/rows/*.csv ──model──▶ web/public/data/model.json ──▶ Svelte PWA (GitHub Pages)
                    (선수×맵 단위)      (Python)                              (대진 시뮬은 브라우저에서)
 ```
 
@@ -69,9 +69,10 @@ npm test                                 # 엔진(JS) 테스트: Python과 동�
 
 ## 배포
 
-- **Cloudflare Pages**: 저장소 연결 → Root directory `web`, Build command `npm run build`, Output `dist`.
-- **데이터 갱신**: `.github/workflows/update-data.yml` 이 3시간마다 수집 → 재적합 → `model.json` 커밋 → Pages 자동 재배포.
-  수동 실행(Actions 탭 → update-data → Run workflow)도 가능.
+- **GitHub Pages** (`.github/workflows/deploy-pages.yml`): Settings → Pages → Source를 **GitHub Actions**로 한 번 설정.
+  주소는 `https://<owner>.github.io/valopoint/` → iPhone Safari에서 열고 공유 → 홈 화면에 추가.
+- **데이터 갱신** (`.github/workflows/update-data.yml`): 3시간마다 수집 → 재적합 → `model.json` 커밋 → 끝나면 deploy-pages가 재배포.
+  수동 실행: Actions 탭 → update-data → Run workflow.
 
 ## 현재 상태
 
