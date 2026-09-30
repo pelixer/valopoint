@@ -1,0 +1,51 @@
+# Scrape vlr.gg, refit the model and commit web/public/data/model.json.
+# Cloudflare Pages redeploys automatically on every push to the branch it watches.
+name: update-data
+
+on:
+  workflow_dispatch:
+    inputs:
+      discover_events:
+        description: "Re-discover VCT events (overwrites data/events.json)"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "17 */3 * * *"   # every 3 hours; completed events are skipped
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -e .
+      - uses: actions/cache@v4
+        with:
+          path: data/cache
+          key: vlr-cache-${{ github.run_id }}
+          restore-keys: vlr-cache-
+      - name: Discover events
+        if: ${{ inputs.discover_events || hashFiles('data/events.json') == '' }}
+        run: valopoint events --years 2025 2026
+      - name: Scrape
+        run: valopoint scrape
+      - name: Export model
+        run: valopoint export --source vlr.gg
+      - name: Commit
+        run: |
+          git config user.name "valopoint-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/events.json data/rows web/public/data/model.json
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "data: update $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

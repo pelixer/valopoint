@@ -1,0 +1,145 @@
+// Prediction engine — mirrors valopoint/model.py + predict.py so the browser can
+// run "what if" scenarios and bracket Monte Carlo without a server.
+
+export function winFromQ(q) {
+  q = Math.min(0.98, Math.max(0.02, q));
+  const r = 1 - q;
+  let p = 0;
+  let c = 1; // C(12+k, k)
+  for (let k = 0; k < 12; k++) {
+    if (k > 0) c = (c * (12 + k)) / k;
+    p += c * q ** 13 * r ** k;
+  }
+  const tie = 2704156 * q ** 12 * r ** 12; // C(24,12)
+  return p + (tie * q * q) / (q * q + r * r);
+}
+
+export const logit = (p) => {
+  p = Math.min(1 - 1e-6, Math.max(1e-6, p));
+  return Math.log(p / (1 - p));
+};
+export const sigmoid = (x) => 1 / (1 + Math.exp(-x));
+
+export function createEngine(model) {
+  const teams = Object.fromEntries(model.teams.map((t) => [t.name, t]));
+  const beta = model.calib?.beta ?? 1;
+  const gamma = (r) => model.regions?.[r]?.gamma ?? 0;
+  const cache = new Map();
+
+  function mapProb(a, b, map) {
+    const A = teams[a], B = teams[b];
+    if (!A || !B) return 0.5;
+    const dS = (A.theta[map] ?? 0) - (B.theta[map] ?? 0);
+    return sigmoid(beta * logit(winFromQ(0.5 + dS)) + gamma(A.region) - gamma(B.region));
+  }
+
+  function series(a, b, bestOf = 3) {
+    const key = `${a}|${b}|${bestOf}`;
+    if (cache.has(key)) return cache.get(key);
+    const pmap = Object.fromEntries(model.maps.map((m) => [m, mapProb(a, b, m)]));
+    const vA = vetoMaps(pmap, bestOf, true);
+    const vB = vetoMaps(pmap, bestOf, false);
+    const p = (seriesOrdered(vA.map((m) => pmap[m])) + seriesOrdered(vB.map((m) => pmap[m]))) / 2;
+    const out = { p, pmap, veto: { aFirst: vA, bFirst: vB } };
+    cache.set(key, out);
+    return out;
+  }
+
+  return { teams, mapProb, series };
+}
+
+// uppercase = ban, lowercase = pick; A/a = team with first ban
+const VETO = { 1: 'ABABAB', 3: 'ABabAB', 5: 'ABabab' };
+
+export function vetoMaps(pmap, bestOf, aFirst = true) {
+  const order = VETO[bestOf] ?? VETO[3];
+  const left = Object.keys(pmap);
+  const picks = [];
+  for (const ch of order) {
+    if (left.length <= 1) break;
+    const aTurn = (ch.toUpperCase() === 'A') === aFirst;
+    const score = (m) => (aTurn ? pmap[m] : 1 - pmap[m]);
+    let best = left[0];
+    for (const m of left) {
+      if (ch === ch.toUpperCase() ? score(m) < score(best) : score(m) > score(best)) best = m;
+    }
+    left.splice(left.indexOf(best), 1);
+    if (ch !== ch.toUpperCase()) picks.push(best);
+  }
+  return [...picks, ...left.slice(0, 1)];
+}
+
+export function seriesOrdered(ps) {
+  const need = Math.floor(ps.length / 2) + 1;
+  let dist = new Map([['0,0', 1]]);
+  let win = 0;
+  for (const p of ps) {
+    const nd = new Map();
+    for (const [k, pr] of dist) {
+      const [a, b] = k.split(',').map(Number);
+      if (a + 1 === need) win += pr * p;
+      else nd.set(`${a + 1},${b}`, (nd.get(`${a + 1},${b}`) ?? 0) + pr * p);
+      if (b + 1 < need) nd.set(`${a},${b + 1}`, (nd.get(`${a},${b + 1}`) ?? 0) + pr * (1 - p));
+    }
+    dist = nd;
+  }
+  return win;
+}
+
+// ---------------------------------------------------------------- bracket
+
+function resolve(ref, seeds, res) {
+  if (ref.startsWith('W:')) return res[ref.slice(2)]?.[0];
+  if (ref.startsWith('L:')) return res[ref.slice(2)]?.[1];
+  const m = /^S(\d+)$/.exec(ref);
+  return m ? seeds[Number(m[1]) - 1] : ref;
+}
+
+// seeded PRNG so repeated runs are stable
+function mulberry32(a) {
+  return () => {
+    a |= 0; a = (a + 0x6d2b79f5) | 0;
+    let t = Math.imul(a ^ (a >>> 15), 1 | a);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+/**
+ * Monte Carlo over a bracket DAG. `locked` = {matchId: winnerName} fixes results
+ * that already happened (or "what if" choices).
+ * Returns champion probs, per-match participant/winner probs.
+ */
+export function simulateBracket(engine, bracket, locked = {}, n = 20000, seed = 1) {
+  const rnd = mulberry32(seed);
+  const seeds = bracket.teams;
+  const champ = {};
+  const slot = {}; // matchId -> {team: count}  (appearances)
+  const wins = {}; // matchId -> {team: count}
+  for (const m of bracket.matches) { slot[m.id] = {}; wins[m.id] = {}; }
+  const finalId = bracket.final ?? bracket.matches.at(-1).id;
+
+  for (let i = 0; i < n; i++) {
+    const res = {};
+    for (const m of bracket.matches) {
+      const a = resolve(m.a, seeds, res);
+      const b = resolve(m.b, seeds, res);
+      slot[m.id][a] = (slot[m.id][a] ?? 0) + 1;
+      slot[m.id][b] = (slot[m.id][b] ?? 0) + 1;
+      let w;
+      const lk = locked[m.id];
+      if (lk === a || lk === b) w = lk;
+      else w = rnd() < engine.series(a, b, m.best_of ?? 3).p ? a : b;
+      res[m.id] = [w, w === a ? b : a];
+      wins[m.id][w] = (wins[m.id][w] ?? 0) + 1;
+    }
+    const c = res[finalId][0];
+    champ[c] = (champ[c] ?? 0) + 1;
+  }
+  const norm = (o) => Object.fromEntries(Object.entries(o).map(([k, v]) => [k, v / n]).sort((x, y) => y[1] - x[1]));
+  return {
+    champion: norm(champ),
+    slot: Object.fromEntries(Object.entries(slot).map(([k, v]) => [k, norm(v)])),
+    wins: Object.fromEntries(Object.entries(wins).map(([k, v]) => [k, norm(v)])),
+  };
+}

@@ -1,4 +1,4 @@
-"""Two-level Elo: team rating + region rating.
+"""Baseline only: two-level Elo: team rating + region rating.
 
 Effective strength = team_rating + region_rating.
 - Domestic matches: region offsets cancel, only team ratings move.
@@ -13,7 +13,26 @@ import math
 from dataclasses import dataclass, field
 from datetime import date
 
-from .data import Match
+
+
+@dataclass(frozen=True)
+class Match:
+    date: date
+    event: str
+    region: str
+    team_a: str
+    team_b: str
+    region_a: str
+    region_b: str
+    score_a: int
+    score_b: int
+    best_of: int = 3
+    rounds_a: int | None = None
+    rounds_b: int | None = None
+
+    @property
+    def international(self) -> bool:
+        return self.region_a != self.region_b
 
 
 @dataclass
