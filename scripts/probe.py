@@ -1,45 +1,45 @@
-"""Dump the real structure of vlr.gg match pages so the parser can be fitted to it."""
+"""Dump the real structure around player stat cells on a vlr.gg match page."""
 import re
 import tempfile
 from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-from valopoint.scrape.vlr import Fetcher, event_match_ids, parse_match
+from valopoint.scrape.vlr import Fetcher
 
 f = Fetcher(delay=1.0, cache=Path(tempfile.mkdtemp()), max_seconds=30)
+html = f.get("/753455")  # Champions 2026, Team Liquid vs Paper Rex (finished)
 
 
-def show(label, el, n=1500):
-    html = str(el) if el is not None else "None"
-    html = re.sub(r"\s+", " ", html)
-    print(f"--- {label} ({len(html)} chars)\n{html[:n]}\n")
+def squash(s, n):
+    s = re.sub(r"\s+", " ", str(s))
+    return s[:n]
 
 
-# a finished international event (Masters London 2026) and Champions 2026
-for eid in (2765, 2766):
-    ids = event_match_ids(f, eid)
-    print(f"\n######## event {eid}: {len(ids)} matches, first {ids[:5]}, last {ids[-3:]}")
-    mid = ids[-1]  # usually earliest listed last? print both ends
-    for mid in (ids[0], ids[-1]):
-        html = f.get(f"/{mid}")
-        soup = BeautifulSoup(html, "html.parser")
-        print(f"\n==== match {mid}  rows={len(parse_match(html, mid, eid, 'x'))}")
-        for sel in [".match-header", ".match-header-link-name", ".wf-title-med", ".match-header-vs-note",
-                    ".match-header-event-series", ".moment-tz-convert", ".vm-stats", ".vm-stats-game",
-                    ".vm-stats-game-header", "table", "table.wf-table-inset", "table.mod-overview",
-                    "td.mod-player", "td.mod-agents", "td.mod-stat", ".mod-both", ".score", ".map"]:
-            print(f"  {sel:32s} {len(soup.select(sel))}")
-        show("match-header", soup.select_one(".match-header"), 2500)
-        games = soup.select(".vm-stats-game")
-        print("  game ids:", [g.get("data-game-id") for g in games])
-        g = next((g for g in games if g.get("data-game-id") not in (None, "all")), games[0] if games else None)
-        if g is not None:
-            show("game header", g.select_one(".vm-stats-game-header"), 2500)
-            t = g.select_one("table")
-            show("table attrs+thead", t.select_one("thead") if t else None, 1500)
-            if t:
-                print("  table classes:", t.get("class"))
-            show("first player row", g.select_one("tbody tr"), 4000)
-    if eid == 2765:
+print("raw '<table' occurrences:", html.count("<table"), " '<tr':", html.count("<tr"),
+      " 'mod-player':", html.count("mod-player"), " 'mod-agents':", html.count("mod-agents"))
+i = html.find("mod-both")
+print("\nRAW around first mod-both:\n", squash(html[max(0, i - 3000): i + 600], 4000))
+
+for parser in ("html.parser", "lxml"):
+    try:
+        soup = BeautifulSoup(html, parser)
+    except Exception as e:
+        print(parser, "unavailable:", e)
         continue
+    print(f"\n==== parser={parser}: tables={len(soup.select('table'))} "
+          f"td.mod-player={len(soup.select('td.mod-player'))} .mod-player={len(soup.select('.mod-player'))}")
+    game = next(g for g in soup.select(".vm-stats-game") if g.get("data-game-id") not in (None, "all"))
+    both = game.select_one(".mod-both")
+    chain = []
+    el = both
+    while el is not None and el is not game:
+        chain.append(f"{el.name}.{'.'.join(el.get('class') or [])}")
+        el = el.parent
+    print("ancestor chain of first .mod-both in game:", " < ".join(chain))
+    # the element that looks like one player's row: nearest ancestor containing a player link
+    row = both
+    while row is not None and row.select_one("a[href^='/player/']") is None:
+        row = row.parent
+    print("\nPLAYER ROW:\n", squash(row, 5000))
+    print("\nDIRECT CHILDREN OF GAME:", [f"{c.name}.{'.'.join(c.get('class') or [])}" for c in game.find_all(recursive=False)])

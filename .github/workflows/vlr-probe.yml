@@ -41,7 +41,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install -q -e .
+      - run: pip install -q -e . lxml
       - name: Python scraper + parser on real pages
         timeout-minutes: 4
         continue-on-error: true
