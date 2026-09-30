@@ -1,60 +1,105 @@
 from __future__ import annotations
 
 import argparse
+import json
+from pathlib import Path
 
-from .backtest import backtest
-from .bracket import load_bracket, match_forecast, simulate
-from .data import load_matches
-from .rating import fit, power_table
-from .synth import generate
+import pandas as pd
 
 
 def main(argv=None):
     ap = argparse.ArgumentParser(prog="valopoint")
+    ap.add_argument("--data", default="data", help="data dir with events.json and rows/")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
-    s = sub.add_parser("synth", help="write synthetic sample CSV")
+    s = sub.add_parser("events", help="discover VCT events from vlr.gg into events.json")
+    s.add_argument("--years", type=int, nargs="+", default=[2025, 2026])
+
+    s = sub.add_parser("scrape", help="scrape events listed in events.json")
+    s.add_argument("--event", type=int, nargs="*", help="only these event ids")
+    s.add_argument("--delay", type=float, default=1.5)
+    s.add_argument("--force", action="store_true", help="re-scrape events already stored")
+
+    s = sub.add_parser("synth", help="write a synthetic dataset (for testing)")
     s.add_argument("out")
 
-    s = sub.add_parser("rank", help="power ranking")
-    s.add_argument("csv")
-    s.add_argument("--top", type=int, default=20)
+    s = sub.add_parser("players", help="player power points")
+    s.add_argument("--top", type=int, default=25)
+    s.add_argument("--map"); s.add_argument("--agent")
 
-    s = sub.add_parser("backtest", help="walk-forward evaluation")
-    s.add_argument("csv")
+    sub.add_parser("backtest", help="walk-forward: live vs frozen vs Elo")
 
-    s = sub.add_parser("predict", help="single match forecast")
-    s.add_argument("csv"); s.add_argument("team_a"); s.add_argument("team_b")
-    s.add_argument("--bo", type=int, default=3)
+    s = sub.add_parser("tune", help="grid search Params on international maps")
+    s.add_argument("--grid", default='{"w_live":[1,2,4],"half_life_days":[90,180,365]}')
 
-    s = sub.add_parser("bracket", help="Monte Carlo bracket simulation")
-    s.add_argument("csv"); s.add_argument("bracket_json")
-    s.add_argument("--n", type=int, default=20000)
+    s = sub.add_parser("export", help="build web/public/data/model.json")
+    s.add_argument("--out", default="web/public/data/model.json")
+    s.add_argument("--source", default="vlr.gg")
+    s.add_argument("--as-of")
 
     a = ap.parse_args(argv)
-    if a.cmd == "synth":
-        generate(a.out); print("wrote", a.out); return
+    data = Path(a.data)
 
-    ms = load_matches(a.csv)
-    if a.cmd == "backtest":
-        r = backtest(ms)
-        print(f"INTL matches={r['n']} logloss={r['log_loss']:.4f} brier={r['brier']:.4f} acc={r['accuracy']:.3f}")
+    if a.cmd == "events":
+        from .scrape.events import discover
+        from .scrape.vlr import Fetcher
+        ev = discover(Fetcher(), a.years)
+        data.mkdir(exist_ok=True)
+        (data / "events.json").write_text(json.dumps(ev, indent=1, ensure_ascii=False), encoding="utf-8")
+        for e in ev:
+            print(e)
         return
-    book = fit(ms)
-    if a.cmd == "rank":
-        print(f"{'#':>3} {'team':<18}{'region':<7}{'rating':>8}{'power':>7}")
-        for i, (t, reg, s_, pw) in enumerate(power_table(book)[: a.top], 1):
-            print(f"{i:>3} {t:<18}{reg:<7}{s_:>8.0f}{pw:>7.1f}")
-        print("\nregion offsets:", {k: round(v) for k, v in sorted(book.region.items(), key=lambda x: -x[1])})
-    elif a.cmd == "predict":
-        f = match_forecast(book, a.team_a, a.team_b, a.bo)
-        print(f"{a.team_a} vs {a.team_b}: map {f['map']:.1%}, Bo{a.bo} {f['series']:.1%}")
-    elif a.cmd == "bracket":
-        br = load_bracket(a.bracket_json)
-        out = simulate(book, br, n=a.n)
-        print(br.get("name", "bracket"))
-        for t, p in sorted(out["champion"].items(), key=lambda x: -x[1]):
-            print(f"  {t:<18}{p:>7.1%}")
+    if a.cmd == "scrape":
+        from .scrape.vlr import Fetcher, scrape_event
+        f = Fetcher(delay=a.delay)
+        ev = json.loads((data / "events.json").read_text(encoding="utf-8"))
+        (data / "rows").mkdir(parents=True, exist_ok=True)
+        total = 0
+        for e in ev:
+            if a.event and e["event_id"] not in a.event:
+                continue
+            out = data / "rows" / f"{e['event_id']}.csv"
+            if out.exists() and not a.force and e.get("complete"):
+                continue
+            print(f"event {e['event_id']} {e['name']}")
+            rows, complete = scrape_event(f, e["event_id"])
+            total += len(rows)
+            if rows:
+                pd.DataFrame(rows).to_csv(out, index=False)
+            e["complete"] = complete
+            (data / "events.json").write_text(json.dumps(ev, indent=1, ensure_ascii=False), encoding="utf-8")
+        print(f"scraped {total} player-map rows")
+        return
+    if a.cmd == "synth":
+        from .synth import generate
+        generate(a.out)
+        print("wrote synthetic dataset to", a.out)
+        return
+
+    from .dataset import load
+    df = load(data)
+
+    if a.cmd == "players":
+        from .model import fit, pp
+        m = fit(df)
+        pl = m.player.copy()
+        pl["pp"] = [m.theta(k, a.map, a.agent) for k in pl.index]
+        pl["pp"] = pp(pl["pp"])
+        pl = pl[pl["rounds"] >= 200].sort_values("pp", ascending=False).head(a.top)
+        print(pl[["name", "team", "region", "rounds", "pp"]].round(1).to_string())
+        print("\nregion offsets (PP/player):", {k: round(v * 1000, 1) for k, v in m.region.items()})
+        print("learned stat weights:", {k: round(v, 5) for k, v in m.diag["weights"].items()})
+    elif a.cmd == "backtest":
+        from .backtest import compare
+        print(json.dumps(compare(df, log=print), indent=1))
+    elif a.cmd == "tune":
+        from .backtest import tune
+        print(tune(df, json.loads(a.grid)).to_string())
+    elif a.cmd == "export":
+        from .export import build, write
+        mj = build(df, as_of=a.as_of, source=a.source, brackets_dir=data / "brackets")
+        write(mj, a.out)
+        print(f"wrote {a.out}: {len(mj['teams'])} teams, {len(mj['players'])} players")
 
 
 if __name__ == "__main__":
