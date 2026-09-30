@@ -18,39 +18,69 @@ import requests
 from bs4 import BeautifulSoup
 
 BASE = "https://www.vlr.gg"
-UA = "Mozilla/5.0 (valopoint personal research; low-rate)"
+UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/128.0 Safari/537.36")
 CACHE = Path(os.environ.get("VALOPOINT_CACHE", "data/cache"))
 
 
 class Fetcher:
-    def __init__(self, delay: float = 1.5, cache: Path = CACHE):
+    def __init__(self, delay: float = 1.5, cache: Path = CACHE, max_seconds: float = 60.0):
         self.delay = delay
         self.cache = cache
+        self.max_seconds = max_seconds
         self.cache.mkdir(parents=True, exist_ok=True)
         self._last = 0.0
         self.s = requests.Session()
-        self.s.headers["User-Agent"] = UA
+        self.s.headers.update({
+            "User-Agent": UA,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+        })
 
     def get(self, path: str, refresh: bool = False) -> str:
         url = path if path.startswith("http") else BASE + path
         f = self.cache / (hashlib.sha1(url.encode()).hexdigest() + ".html")
         if f.exists() and not refresh:
             return f.read_text(encoding="utf-8")
-        wait = self.delay - (time.time() - self._last)
-        if wait > 0:
-            time.sleep(wait)
+        last_err = None
         for attempt in range(4):
-            r = self.s.get(url, timeout=30)
-            self._last = time.time()
-            if r.status_code == 200:
-                f.write_text(r.text, encoding="utf-8")
-                return r.text
-            if r.status_code in (429, 502, 503):
+            wait = self.delay - (time.time() - self._last)
+            if wait > 0:
+                time.sleep(wait)
+            t0 = time.time()
+            try:
+                text, status, headers = self._download(url)
+            except (requests.RequestException, TimeoutError) as e:
+                last_err = e
+                print(f"    GET {url} -> {type(e).__name__}: {e}", flush=True)
                 time.sleep(2 ** (attempt + 2))
                 continue
-            r.raise_for_status()
-        r.raise_for_status()
-        return ""
+            finally:
+                self._last = time.time()
+            print(f"    GET {url} -> {status} ({len(text)} B, {time.time() - t0:.1f}s)", flush=True)
+            if status == 200:
+                if "cf-mitigated" in headers or "<title>Just a moment" in text[:2000]:
+                    raise RuntimeError(f"Cloudflare challenge blocked {url}")
+                f.write_text(text, encoding="utf-8")
+                return text
+            last_err = RuntimeError(f"HTTP {status} for {url}")
+            if status in (429, 500, 502, 503, 504):
+                time.sleep(2 ** (attempt + 2))
+                continue
+            break
+        raise last_err or RuntimeError(f"failed {url}")
+
+    def _download(self, url: str) -> tuple[str, int, dict]:
+        """GET with a hard total deadline (requests' timeout is per socket read)."""
+        deadline = time.time() + self.max_seconds
+        with self.s.get(url, timeout=(10, 20), stream=True) as r:
+            chunks = []
+            for chunk in r.iter_content(65536):
+                chunks.append(chunk)
+                if time.time() > deadline:
+                    raise TimeoutError(f"download exceeded {self.max_seconds}s")
+            r.encoding = r.encoding or "utf-8"
+            return b"".join(chunks).decode(r.encoding, errors="replace"), r.status_code, dict(r.headers)
 
 
 def _txt(el) -> str:
@@ -193,10 +223,16 @@ def scrape_event(f: Fetcher, event_id: int, log=print) -> tuple[list[dict], bool
     """Returns (rows, complete). complete = every listed match is finished."""
     meta = event_meta(f, event_id)
     ids = event_match_ids(f, event_id)
+    log(f"  {meta['event']}: {len(ids)} matches")
     out: list[dict] = []
     complete = bool(ids)
     for i, mid in enumerate(ids, 1):
-        html = f.get(f"/{mid}")
+        try:
+            html = f.get(f"/{mid}")
+        except Exception as e:  # one bad page must not kill the whole event
+            log(f"  [{i}/{len(ids)}] match {mid}: FAILED {e}")
+            complete = False
+            continue
         rows = parse_match(html, mid, event_id, meta["event"])
         if not rows or not rows[0].completed:
             complete = False

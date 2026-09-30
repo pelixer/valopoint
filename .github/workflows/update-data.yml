@@ -1,5 +1,5 @@
 # Scrape vlr.gg, refit the model and commit web/public/data/model.json.
-# Cloudflare Pages redeploys automatically on every push to the branch it watches.
+# deploy-pages.yml then rebuilds the site when this workflow finishes.
 name: update-data
 
 on:
@@ -23,6 +23,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 300
+    env:
+      PYTHONUNBUFFERED: "1"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -36,8 +38,10 @@ jobs:
           restore-keys: vlr-cache-
       - name: Discover events
         if: ${{ inputs.discover_events || hashFiles('data/events.json') == '' }}
+        timeout-minutes: 10
         run: valopoint events --years 2025 2026
       - name: Scrape
+        timeout-minutes: 240
         run: valopoint scrape
       - name: Export model
         run: valopoint export --source vlr.gg
