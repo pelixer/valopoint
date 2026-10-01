@@ -159,6 +159,69 @@ class MapRow:
 STAT_COLS = ["rating", "acs", "k", "d", "a", "kd_diff", "kast", "adr", "hs", "fk", "fd", "fk_diff"]
 
 
+# vlr.gg data-col names (div layout, 2026) -> MapRow fields
+OVW_COLS = {"rating2": "rating", "rating": "rating", "acs": "acs", "kills": "k", "deaths": "d",
+            "assists": "a", "kast": "kast", "adr": "adr", "hsp": "hs", "fb": "fk", "fd": "fd"}
+
+
+def _player_identity(cell):
+    name_el = cell.select_one(".ovw-player-name, .text-of")
+    name = _txt(name_el) or (_txt(cell).split() or [""])[0]
+    pid = None
+    link = cell.select_one("a[href^='/player/']")
+    if link and (mm := re.match(r"^/player/(\d+)/", link.get("href", ""))):
+        pid = int(mm.group(1))
+    img = cell.select_one(".ovw-agents img, img[src*='/agents/']")
+    if img is None:
+        img = cell.find_parent().select_one("td.mod-agents img") if cell.find_parent() else None
+    agent = (img.get("title") or img.get("alt") or "").strip().lower() if img else ""
+    tag = _txt(cell.select_one(".ovw-player-tag"))
+    return name, pid, agent, tag
+
+
+def _player_sides(game) -> list[list[tuple]]:
+    """Two lists (left team, right team) of (name, player_id, agent, stats)."""
+    # current layout: div.ovw-table > div.ovw-row > div.ovw-cell[data-col]
+    rows = [r for r in game.select(".ovw-row") if "mod-head" not in (r.get("class") or [])
+            and r.select_one(".mod-player")]
+    if rows:
+        tables = game.select(".ovw-table")
+        entries = []
+        for r in rows:
+            name, pid, agent, tag = _player_identity(r.select_one(".mod-player"))
+            v = {}
+            for el in r.select("[data-col]"):
+                key = OVW_COLS.get(el.get("data-col"))
+                if key and key not in v:
+                    v[key] = _stat(el)
+            table = r.find_parent(class_="ovw-table")
+            entries.append((tables.index(table) if table in tables else 0, tag, (name, pid, agent, v)))
+        if len(tables) >= 2:
+            groups = [[e[2] for e in entries if e[0] == i] for i in range(2)]
+        else:
+            tags = list(dict.fromkeys(e[1] for e in entries))
+            if len(tags) == 2:
+                groups = [[e[2] for e in entries if e[1] == t] for t in tags]
+            else:
+                half = len(entries) // 2
+                groups = [[e[2] for e in entries[:half]], [e[2] for e in entries[half:]]]
+        return groups if all(groups) else []
+    # legacy layout: table.wf-table-inset.mod-overview (one table per team)
+    out = []
+    for tbl in game.select("table.wf-table-inset.mod-overview")[:2]:
+        players = []
+        for tr in tbl.select("tbody tr"):
+            pcell = tr.select_one("td.mod-player")
+            if pcell is None:
+                continue
+            name, pid, agent, _ = _player_identity(pcell)
+            vals = [_stat(td) for td in tr.select("td.mod-stat")]
+            vals += [None] * (len(STAT_COLS) - len(vals))
+            players.append((name, pid, agent, dict(zip(STAT_COLS, vals))))
+        out.append(players)
+    return out if len(out) == 2 and all(out) else []
+
+
 def parse_match(html: str, match_id: int, event_id: int, event: str) -> list[MapRow]:
     soup = BeautifulSoup(html, "html.parser")
     teams = [_txt(x) for x in soup.select(".match-header-link-name .wf-title-med")][:2]
@@ -186,25 +249,16 @@ def parse_match(html: str, match_id: int, event_id: int, event: str) -> list[Map
         scores = [_num(_txt(s)) for s in header.select(".score")]
         if len(scores) < 2 or scores[0] is None:
             continue
+        if not mname or mname.upper() == "TBD" or (scores[0] == 0 and (scores[1] or 0) == 0):
+            continue  # map not played (yet)
+        sides = _player_sides(game)
+        if len(sides) != 2:
+            continue
         order += 1
-        tables = game.select("table.wf-table-inset.mod-overview")
-        for ti, tbl in enumerate(tables[:2]):
+        for ti, players in enumerate(sides):
             team, opp = teams[ti], teams[1 - ti]
             tr_, or_ = (scores[0], scores[1]) if ti == 0 else (scores[1], scores[0])
-            for tr in tbl.select("tbody tr"):
-                pcell = tr.select_one("td.mod-player")
-                if pcell is None:
-                    continue
-                name = _txt(pcell.select_one(".text-of")) or _txt(pcell).split()[0]
-                link = pcell.select_one("a")
-                pid = None
-                if link and (mm := re.match(r"^/player/(\d+)/", link.get("href", ""))):
-                    pid = int(mm.group(1))
-                img = tr.select_one("td.mod-agents img")
-                agent = (img.get("title") or img.get("alt") or "").strip().lower() if img else ""
-                vals = [_stat(td) for td in tr.select("td.mod-stat")]
-                vals += [None] * (len(STAT_COLS) - len(vals))
-                v = dict(zip(STAT_COLS, vals))
+            for name, pid, agent, v in players:
                 rows.append(MapRow(
                     match_id=match_id, game_id=gid, event_id=event_id, event=event,
                     stage=stage, date=date, map=mname, map_order=order,
@@ -212,8 +266,8 @@ def parse_match(html: str, match_id: int, event_id: int, event: str) -> list[Map
                     team_rounds=int(tr_) if tr_ is not None else None,
                     opp_rounds=int(or_) if or_ is not None else None,
                     player=name, player_id=pid, agent=agent,
-                    rating=v["rating"], acs=v["acs"], k=v["k"], d=v["d"], a=v["a"],
-                    kast=v["kast"], adr=v["adr"], hs=v["hs"], fk=v["fk"], fd=v["fd"],
+                    rating=v.get("rating"), acs=v.get("acs"), k=v.get("k"), d=v.get("d"), a=v.get("a"),
+                    kast=v.get("kast"), adr=v.get("adr"), hs=v.get("hs"), fk=v.get("fk"), fd=v.get("fd"),
                     best_of=best_of, completed=completed,
                 ))
     return rows
