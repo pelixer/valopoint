@@ -1,6 +1,6 @@
 <script>
   import { app } from '../lib/store.svelte.js';
-  import { REGION_LABEL, fx } from '../lib/format.js';
+  import { REGION_LABEL, fx, kst } from '../lib/format.js';
 
   const m = app.model;
   const bt = m.meta.backtest_map ?? {};
@@ -12,7 +12,7 @@
 <h1>모델</h1>
 <div class="card small">
   <div>기준일 <b>{m.meta.as_of}</b> · 데이터 {m.meta.data_from} ~ · 출처 {m.meta.source}</div>
-  <div class="muted">생성 {m.meta.generated_at}</div>
+  <div class="muted">갱신 {kst(m.meta.generated_at)}</div>
   {#if m.meta.live_events?.length}<div>진행 중 국제전 반영: {m.meta.live_events.join(', ')}</div>{/if}
 </div>
 

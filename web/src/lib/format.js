@@ -13,3 +13,14 @@ export function heat(pp, lo = 80, hi = 130) {
   const h = 220 - 220 * t;
   return `hsl(${h} 70% ${28 + 10 * t}%)`;
 }
+
+// All times shown in Korea Standard Time.
+export function kst(iso) {
+  if (!iso) return '–';
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  return new Intl.DateTimeFormat('ko-KR', {
+    timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit', hour12: false,
+  }).format(d) + ' KST';
+}

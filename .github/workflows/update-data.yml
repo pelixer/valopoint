@@ -10,7 +10,7 @@ on:
         type: boolean
         default: false
   schedule:
-    - cron: "17 */3 * * *"   # every 3 hours; completed events are skipped
+    - cron: "17 */3 * * *"   # every 3 hours (cron is UTC; KST = UTC+9); completed events are skipped
 
 permissions:
   contents: write
@@ -50,7 +50,7 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data/events.json data/rows || true
           git diff --cached --quiet && echo "no new rows" && exit 0
-          git commit -m "data: scrape $(date -u +%Y-%m-%dT%H:%MZ)"
+          git commit -m "data: scrape $(TZ=Asia/Seoul date +%Y-%m-%d\ %H:%M\ KST)"
           git push
       - name: Export model
         run: valopoint export --source vlr.gg
@@ -58,5 +58,5 @@ jobs:
         run: |
           git add web/public/data/model.json
           git diff --cached --quiet && echo "no model change" && exit 0
-          git commit -m "data: model $(date -u +%Y-%m-%dT%H:%MZ)"
+          git commit -m "data: model $(TZ=Asia/Seoul date +%Y-%m-%d\ %H:%M\ KST)"
           git push
