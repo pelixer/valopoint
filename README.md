@@ -71,8 +71,9 @@ npm test                                 # 엔진(JS) 테스트: Python과 동�
 
 - **GitHub Pages** (`.github/workflows/deploy-pages.yml`): Settings → Pages → Source를 **GitHub Actions**로 한 번 설정.
   주소는 `https://<owner>.github.io/valopoint/` → iPhone Safari에서 열고 공유 → 홈 화면에 추가.
-- **데이터 갱신** (`.github/workflows/update-data.yml`): 3시간마다 수집 → 재적합 → `model.json` 커밋 → 끝나면 deploy-pages가 재배포.
-  수동 실행: Actions 탭 → update-data → Run workflow.
+- **데이터 갱신** (`update-data.yml`, 매일 00:00 KST): 이벤트 탐색 → stat 수집 → 대진 갱신 → 모델 재적합 → 재배포.
+- **대진 갱신** (`update-bracket.yml`, 매일 12:00 KST): 진행 중인 가장 중요한 대회(국제전 > 퍼시픽 > 아메리카스 > EMEA > CN)의 대진·결과만 갱신.
+  수동 실행: Actions 탭 → 워크플로 선택 → Run workflow.
 
 ## 현재 상태
 

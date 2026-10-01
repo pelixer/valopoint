@@ -78,6 +78,17 @@ def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: st
         for f in sorted(Path(brackets_dir).glob("*.json")):
             brackets.append(json.loads(f.read_text(encoding="utf-8")))
 
+    # accuracy check on the current international event (pre-event for each team's
+    # first match, live afterwards)
+    event_eval = None
+    intl_now = df[df["intl"] & (df["date"] >= as_of - pd.Timedelta(days=60))]
+    if not intl_now.empty:
+        from .evaluate import evaluate_event
+        eid = int(intl_now.sort_values("date")["event_id"].iloc[-1])
+        log(f"evaluating event {eid}...")
+        event_eval = evaluate_event(df[df["date"] < as_of], eid, p)
+        event_eval["name"] = str(df.loc[df["event_id"] == eid, "event"].iloc[0])
+
     bt = metrics(rec)
     return {
         "meta": {"generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -92,6 +103,7 @@ def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: st
         "teams": teams,
         "players": players,
         "brackets": brackets,
+        "event_eval": event_eval,
     }
 
 

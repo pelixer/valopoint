@@ -1,6 +1,6 @@
 import { createEngine } from './engine.js';
 
-export const app = $state({ model: null, engine: null, error: null, route: parse() });
+export const app = $state({ model: null, engine: null, brackets: [], bracketsAt: null, error: null, route: parse() });
 
 function parse() {
   const h = location.hash.replace(/^#\/?/, '');
@@ -20,6 +20,15 @@ export async function loadModel() {
     const model = await res.json();
     app.model = model;
     app.engine = createEngine(model);
+    app.brackets = model.brackets ?? [];
+    // live bracket (refreshed twice a day, independently of the model)
+    try {
+      const b = await fetch(`./data/brackets.json?t=${Date.now()}`);
+      if (b.ok) {
+        const bj = await b.json();
+        if (bj.brackets?.length) { app.brackets = bj.brackets; app.bracketsAt = bj.generated_at; }
+      }
+    } catch {}
   } catch (e) {
     app.error = String(e);
   }
