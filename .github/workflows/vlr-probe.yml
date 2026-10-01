@@ -1,0 +1,48 @@
+# Diagnostic: can GitHub-hosted runners reach vlr.gg, and does the parser work?
+name: vlr-probe
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["claude/**"]
+    paths: [".github/workflows/vlr-probe.yml", "valopoint/scrape/**", "scripts/probe.py"]
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - name: Runner egress IP / DNS
+        run: |
+          curl -sS --max-time 10 https://api.ipify.org; echo
+          getent hosts www.vlr.gg || true
+      - name: curl vlr.gg (browser UA)
+        continue-on-error: true
+        run: |
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"
+          for u in https://www.vlr.gg/ https://www.vlr.gg/vct-2026 "https://www.vlr.gg/event/matches/2766/?series_id=all" https://www.vlr.gg/event/stats/2766/valorant-champions-2026; do
+            echo "=== $u"
+            curl -sS -A "$UA" -o body.html -D headers.txt --max-time 25 \
+              -w 'http=%{http_code} ip=%{remote_ip} connect=%{time_connect}s ttfb=%{time_starttransfer}s total=%{time_total}s size=%{size_download}\n' "$u" || echo "curl exit $?"
+            grep -iE '^(server|cf-|content-type|retry-after|location)' headers.txt || true
+            grep -o '<title>[^<]*' body.html | head -1 || true
+          done
+      - name: curl vlr.gg (default curl UA)
+        continue-on-error: true
+        run: |
+          curl -sS -o /dev/null --max-time 25 -w 'http=%{http_code} total=%{time_total}s size=%{size_download}\n' https://www.vlr.gg/vct-2026 || echo "curl exit $?"
+      - name: Alternative source (vlrggapi)
+        continue-on-error: true
+        run: |
+          curl -sS --max-time 25 -w '\nhttp=%{http_code} total=%{time_total}s\n' "https://vlrggapi.vercel.app/match?q=results" | head -c 600; echo
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -q -e . lxml
+      - name: Python scraper + parser on real pages
+        timeout-minutes: 4
+        continue-on-error: true
+        run: python scripts/probe.py

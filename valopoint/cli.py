@@ -62,7 +62,7 @@ def main(argv=None):
             if out.exists() and not a.force and e.get("complete"):
                 continue
             print(f"event {e['event_id']} {e['name']}")
-            rows, complete = scrape_event(f, e["event_id"])
+            rows, complete = scrape_event(f, e["event_id"], name=e["name"])
             total += len(rows)
             if rows:
                 pd.DataFrame(rows).to_csv(out, index=False)
