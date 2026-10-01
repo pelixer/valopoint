@@ -64,15 +64,28 @@ def _decay(dates: pd.Series, as_of: pd.Timestamp, half_life: float) -> np.ndarra
     return 0.5 ** (age / half_life)
 
 
-def _eb_shrink(codes: np.ndarray, ng: int, resid: np.ndarray, w: np.ndarray,
-               sigma2: float, k_mult: float, min_w: float = 20.0):
-    """Precision-weighted group means shrunk toward 0 (empirical Bayes)."""
+def _eb_shrink(codes: np.ndarray, ng: int, resid: np.ndarray, w: np.ndarray, R: np.ndarray,
+               k_mult: float, min_w: float = 100.0):
+    """Precision-weighted group means shrunk toward 0 (empirical Bayes).
+
+    One-way random-effects variance components: the per-round noise variance is
+    the pooled WITHIN-group variance (residuals around each group's own mean), and
+    the between-group variance tau2 = E[mean^2] - E[sampling var of mean], using
+    the exact sampling variance of a decay-weighted mean. k = sigma2 / tau2 is the
+    shrinkage strength in rounds.
+    """
     sw = np.bincount(codes, weights=w, minlength=ng)
     swr = np.bincount(codes, weights=w * resid, minlength=ng)
+    mean = swr / np.maximum(sw, 1e-12)
+    e = resid - mean[codes]
+    dec = w / R
+    n_obs = np.bincount(codes, minlength=ng)
+    dof = max(len(resid) - int((n_obs > 0).sum()), 1)
+    sigma2 = float(np.sum(dec * R * e * e) / np.sum(dec) * len(resid) / dof)
     ok = sw >= min_w
     if ok.sum() >= 3:
-        mean = swr[ok] / sw[ok]
-        tau2 = np.mean(mean ** 2) - np.mean(sigma2 / sw[ok])
+        var_mean = sigma2 * np.bincount(codes, weights=w * w / R, minlength=ng)[ok] / sw[ok] ** 2
+        tau2 = float(np.mean(mean[ok] ** 2 - var_mean))
     else:
         tau2 = 0.0
     tau2 = max(tau2, 1e-7)
@@ -263,21 +276,21 @@ def fit(df: pd.DataFrame, params: Params | None = None, as_of=None,
         # player level, then centred within region: region level lives in delta only
         # (otherwise delta and the mean of u drift against each other, unidentified)
         res = t - delta[rc] - dpa[pac] - dpm[pmc]
-        u, ks["player"], _ = _eb_shrink(pc, len(pk_uni), res, w, sigma2, p.k_mult)
+        u, ks["player"], _ = _eb_shrink(pc, len(pk_uni), res, w, R, p.k_mult)
         u -= _group_mean(u[pc], rc, w, len(reg_uni))[preg]
         # region offsets: identified by international maps only
         if intl.any():
             res = (t - u[pc] - dpa[pac] - dpm[pmc])[intl]
-            d_new, ks["region"], _ = _eb_shrink(rc[intl], len(reg_uni), res, w[intl], sigma2, p.k_mult, min_w=100)
+            d_new, ks["region"], _ = _eb_shrink(rc[intl], len(reg_uni), res, w[intl], R[intl], p.k_mult, min_w=100)
             if main_mask.any():
                 d_new = d_new - d_new[main_mask].mean()
             delta = d_new
         # player x agent / player x map deviations, centred per player
         res = t - delta[rc] - u[pc] - dpm[pmc]
-        dpa, ks["player_agent"], _ = _eb_shrink(pac, len(pa_uni), res, w, sigma2, p.k_mult)
+        dpa, ks["player_agent"], _ = _eb_shrink(pac, len(pa_uni), res, w, R, p.k_mult, min_w=60)
         dpa -= _group_mean(dpa[pac], pc, w, len(pk_uni))[pa_player]
         res = t - delta[rc] - u[pc] - dpa[pac]
-        dpm, ks["player_map"], _ = _eb_shrink(pmc, len(pm_uni), res, w, sigma2, p.k_mult)
+        dpm, ks["player_map"], _ = _eb_shrink(pmc, len(pm_uni), res, w, R, p.k_mult, min_w=60)
         dpm -= _group_mean(dpm[pmc], pc, w, len(pk_uni))[pm_player]
 
     # ---- tables
