@@ -94,3 +94,10 @@ def test_pick_event_priority():
     assert pick_event(ev)["event_id"] == 2
     ev.append({"event_id": 5, "region": "INTL", "complete": False})
     assert pick_event(ev)["event_id"] == 5
+
+
+def test_playoff_labels_are_matched_by_shape():
+    html = (_playoff_html().replace("Lower Round 1", "Lower Bracket Round 1").replace("Lower Round 2", "LB Round 2")
+            .replace("Lower Semifinal", "Lower Bracket Semifinals").replace("Lower Final", "LB Final"))
+    br = build_bracket({"event_id": 1, "name": "x"}, {"/g": parse_bracket_page(_group_html()), "/p": parse_bracket_page(html)})
+    assert br["kind"] == "full" and len(br["matches"]) == 34

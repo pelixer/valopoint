@@ -98,6 +98,7 @@ def build_bracket(event: dict, pages: dict[str, list[dict]]) -> dict:
     matches, results, assumed = [], {}, []
     groups: dict[str, dict] = {}
     playoff: dict[str, list] = {}
+    pcols: dict[str, list[list]] = {"upper": [], "lower": []}   # playoff columns in page order
 
     def add(mid, a, b, rnd, item, bo=3):
         # vlr names win over feeding rules once both are known
@@ -117,6 +118,8 @@ def build_bracket(event: dict, pages: dict[str, list[dict]]) -> dict:
         for cont in conts:
             for col in cont["cols"]:
                 lab = col["label"].lower()
+                if col["items"] and not any(k in lab for k in ("opening", "winner", "elimination", "decider")):
+                    pcols[cont["side"]].append(col["items"])
                 for i, it in enumerate(col["items"]):
                     g = re.search(r"-([a-h])$", it["slug"])
                     if any(k in lab for k in ("opening", "winner", "elimination", "decider")) and g:
@@ -155,6 +158,13 @@ def build_bracket(event: dict, pages: dict[str, list[dict]]) -> dict:
     uf, gf = col(("upper", "final")), col(("grand",))
     lr1, lr2 = col(("lower", "round 1")), col(("lower", "round 2"))
     lsf, lf = col(("lower", "semi")), col(("lower", "final"))
+    # positional fallback: labels vary between events, column shapes do not
+    up, lo = pcols["upper"], pcols["lower"]
+    shape_u, shape_l = [len(c) for c in up], [len(c) for c in lo]
+    if shape_u[:3] == [4, 2, 1] and shape_l == [2, 2, 1, 1] and (len(up) >= 4 or gf):
+        uqf, usf, uf = up[0], up[1], up[2]
+        gf = up[3] if len(up) >= 4 else gf
+        lr1, lr2, lsf, lf = lo
     std8 = len(uqf) == 4 and len(usf) == 2 and uf and gf and len(lr1) == 2 and len(lr2) == 2 and lsf and lf
     if std8:
         G = sorted(groups)
