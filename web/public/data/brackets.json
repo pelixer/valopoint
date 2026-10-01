@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-01T14:43:00+00:00",
+ "generated_at": "2026-10-01T14:58:36+00:00",
  "brackets": [
   {
    "id": "vlr-2766",
    "event_id": 2766,
    "name": "Valorant Champions 2026",
    "region": "INTL",
-   "kind": "groups",
+   "kind": "full",
    "teams": [
     "100 Thieves",
     "EDward Gaming",
@@ -205,9 +205,135 @@
      "round": "그룹 D 최종전",
      "vlr_id": 753463,
      "time": "2026-10-03T12:00:00+00:00"
+    },
+    {
+     "id": "UQF1",
+     "a": "W:A-W",
+     "b": "W:B-D",
+     "best_of": 3,
+     "round": "상위 8강",
+     "vlr_id": 754730,
+     "time": "2026-10-07T09:00:00+00:00"
+    },
+    {
+     "id": "UQF2",
+     "a": "W:B-W",
+     "b": "W:A-D",
+     "best_of": 3,
+     "round": "상위 8강",
+     "vlr_id": 754731,
+     "time": "2026-10-07T12:00:00+00:00"
+    },
+    {
+     "id": "UQF3",
+     "a": "W:C-W",
+     "b": "W:D-D",
+     "best_of": 3,
+     "round": "상위 8강",
+     "vlr_id": 754732,
+     "time": "2026-10-08T09:00:00+00:00"
+    },
+    {
+     "id": "UQF4",
+     "a": "W:D-W",
+     "b": "W:C-D",
+     "best_of": 3,
+     "round": "상위 8강",
+     "vlr_id": 754733,
+     "time": "2026-10-08T12:00:00+00:00"
+    },
+    {
+     "id": "USF1",
+     "a": "W:UQF1",
+     "b": "W:UQF2",
+     "best_of": 3,
+     "round": "상위 4강",
+     "vlr_id": 754734,
+     "time": "2026-10-10T09:00:00+00:00"
+    },
+    {
+     "id": "USF2",
+     "a": "W:UQF3",
+     "b": "W:UQF4",
+     "best_of": 3,
+     "round": "상위 4강",
+     "vlr_id": 754735,
+     "time": "2026-10-10T12:00:00+00:00"
+    },
+    {
+     "id": "LR1-1",
+     "a": "L:UQF1",
+     "b": "L:UQF2",
+     "best_of": 3,
+     "round": "하위 1R",
+     "vlr_id": 754738,
+     "time": "2026-10-09T09:00:00+00:00"
+    },
+    {
+     "id": "LR1-2",
+     "a": "L:UQF3",
+     "b": "L:UQF4",
+     "best_of": 3,
+     "round": "하위 1R",
+     "vlr_id": 754739,
+     "time": "2026-10-09T12:00:00+00:00"
+    },
+    {
+     "id": "UF",
+     "a": "W:USF1",
+     "b": "W:USF2",
+     "best_of": 3,
+     "round": "상위 결승",
+     "vlr_id": 754736,
+     "time": "2026-10-16T06:00:00+00:00"
+    },
+    {
+     "id": "LR2-1",
+     "a": "L:USF2",
+     "b": "W:LR1-1",
+     "best_of": 3,
+     "round": "하위 2R",
+     "vlr_id": 754740,
+     "time": "2026-10-11T09:00:00+00:00"
+    },
+    {
+     "id": "LR2-2",
+     "a": "L:USF1",
+     "b": "W:LR1-2",
+     "best_of": 3,
+     "round": "하위 2R",
+     "vlr_id": 754741,
+     "time": "2026-10-11T12:00:00+00:00"
+    },
+    {
+     "id": "LSF",
+     "a": "W:LR2-1",
+     "b": "W:LR2-2",
+     "best_of": 3,
+     "round": "하위 4강",
+     "vlr_id": 754742,
+     "time": "2026-10-16T09:00:00+00:00"
+    },
+    {
+     "id": "LF",
+     "a": "L:UF",
+     "b": "W:LSF",
+     "best_of": 5,
+     "round": "하위 결승",
+     "vlr_id": 754743,
+     "time": "2026-10-17T07:00:00+00:00"
+    },
+    {
+     "id": "GF",
+     "a": "W:UF",
+     "b": "W:LF",
+     "best_of": 5,
+     "round": "결승",
+     "vlr_id": 754737,
+     "time": "2026-10-18T06:00:00+00:00"
     }
    ],
-   "final": "D-D",
+   "final": "GF",
    "results": {
     "A-O1": "100 Thieves",
     "A-O2": "FUT Esports",
@@ -224,7 +350,12 @@
     "D-W": "NRG",
     "D-E": "Nongshim RedForce"
    },
-   "assumed": []
+   "assumed": [
+    "UQF1",
+    "UQF2",
+    "UQF3",
+    "UQF4"
+   ]
   }
  ]
 }
