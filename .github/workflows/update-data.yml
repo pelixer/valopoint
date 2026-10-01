@@ -43,13 +43,20 @@ jobs:
       - name: Scrape
         timeout-minutes: 240
         run: valopoint scrape
-      - name: Export model
-        run: valopoint export --source vlr.gg
-      - name: Commit
+      - name: Commit scraped rows
+        if: always()
         run: |
           git config user.name "valopoint-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/events.json data/rows web/public/data/model.json
-          git diff --cached --quiet && echo "no changes" && exit 0
-          git commit -m "data: update $(date -u +%Y-%m-%dT%H:%MZ)"
+          git add data/events.json data/rows || true
+          git diff --cached --quiet && echo "no new rows" && exit 0
+          git commit -m "data: scrape $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+      - name: Export model
+        run: valopoint export --source vlr.gg
+      - name: Commit model
+        run: |
+          git add web/public/data/model.json
+          git diff --cached --quiet && echo "no model change" && exit 0
+          git commit -m "data: model $(date -u +%Y-%m-%dT%H:%MZ)"
           git push

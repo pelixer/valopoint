@@ -84,7 +84,7 @@ class Fetcher:
 
 
 def _txt(el) -> str:
-    return el.get_text(" ", strip=True) if el else ""
+    return re.sub(r"\s+", " ", el.get_text(" ", strip=True)) if el else ""
 
 
 def _num(s: str) -> float | None:
@@ -273,9 +273,9 @@ def parse_match(html: str, match_id: int, event_id: int, event: str) -> list[Map
     return rows
 
 
-def scrape_event(f: Fetcher, event_id: int, log=print) -> tuple[list[dict], bool]:
+def scrape_event(f: Fetcher, event_id: int, log=print, name: str | None = None) -> tuple[list[dict], bool]:
     """Returns (rows, complete). complete = every listed match is finished."""
-    meta = event_meta(f, event_id)
+    meta = {"event_id": event_id, "event": name} if name else event_meta(f, event_id)
     ids = event_match_ids(f, event_id)
     log(f"  {meta['event']}: {len(ids)} matches")
     out: list[dict] = []
