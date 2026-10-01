@@ -1,0 +1,881 @@
+match_id,game_id,event_id,event,stage,date,map,map_order,team,opp,team_rounds,opp_rounds,player,player_id,agent,rating,acs,k,d,a,kast,adr,hs,fk,fd,best_of,completed
+542195,233397,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Bind,1,Paper Rex,Xi Lai Gaming,13,9,something,17086,yoru,1.63,258.0,21.0,12.0,12.0,91.0,167.0,15.0,4.0,0.0,3,True
+542195,233397,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Bind,1,Paper Rex,Xi Lai Gaming,13,9,Jinggg,7378,raze,1.52,315.0,24.0,14.0,7.0,82.0,207.0,18.0,5.0,2.0,3,True
+542195,233397,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Bind,1,Paper Rex,Xi Lai Gaming,13,9,f0rsakeN,9801,brimstone,1.17,217.0,18.0,13.0,13.0,77.0,150.0,36.0,2.0,5.0,3,True
+542195,233397,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Bind,1,Paper Rex,Xi Lai Gaming,13,9,d4v41,9803,viper,0.94,176.0,14.0,14.0,5.0,82.0,129.0,21.0,1.0,1.0,3,True
+542195,233397,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Bind,1,Paper Rex,Xi Lai Gaming,13,9,PatMen,13744,fade,0.88,161.0,12.0,13.0,5.0,68.0,110.0,34.0,0.0,2.0,3,True
+542195,233397,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Bind,1,Xi Lai Gaming,Paper Rex,9,13,Rarga,22047,raze,0.98,183.0,14.0,16.0,3.0,64.0,130.0,24.0,3.0,1.0,3,True
+542195,233397,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Bind,1,Xi Lai Gaming,Paper Rex,9,13,Viva,36415,brimstone,0.92,178.0,14.0,16.0,5.0,55.0,112.0,41.0,0.0,3.0,3,True
+542195,233397,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Bind,1,Xi Lai Gaming,Paper Rex,9,13,NoMan,11527,skye,0.84,221.0,17.0,20.0,1.0,64.0,139.0,35.0,3.0,1.0,3,True
+542195,233397,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Bind,1,Xi Lai Gaming,Paper Rex,9,13,coconut,12365,gekko,0.57,169.0,13.0,19.0,3.0,59.0,100.0,38.0,3.0,3.0,3,True
+542195,233397,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Bind,1,Xi Lai Gaming,Paper Rex,9,13,happywei,37927,viper,0.49,118.0,8.0,18.0,7.0,50.0,85.0,25.0,1.0,4.0,3,True
+542195,233398,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Paper Rex,Xi Lai Gaming,13,5,f0rsakeN,9801,omen,1.59,319.0,23.0,12.0,4.0,78.0,183.0,39.0,4.0,2.0,3,True
+542195,233398,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Paper Rex,Xi Lai Gaming,13,5,something,17086,sova,1.57,308.0,19.0,11.0,9.0,83.0,212.0,26.0,2.0,1.0,3,True
+542195,233398,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Paper Rex,Xi Lai Gaming,13,5,Jinggg,7378,raze,1.08,257.0,15.0,13.0,5.0,72.0,153.0,14.0,1.0,3.0,3,True
+542195,233398,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Paper Rex,Xi Lai Gaming,13,5,d4v41,9803,sage,0.87,139.0,11.0,11.0,7.0,61.0,81.0,22.0,1.0,2.0,3,True
+542195,233398,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Paper Rex,Xi Lai Gaming,13,5,PatMen,13744,viper,0.39,95.0,6.0,13.0,2.0,61.0,64.0,38.0,2.0,0.0,3,True
+542195,233398,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Xi Lai Gaming,Paper Rex,5,13,NoMan,11527,neon,1.31,285.0,18.0,14.0,4.0,78.0,184.0,33.0,3.0,3.0,3,True
+542195,233398,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Xi Lai Gaming,Paper Rex,5,13,happywei,37927,cypher,0.97,212.0,13.0,14.0,6.0,61.0,168.0,45.0,2.0,4.0,3,True
+542195,233398,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Xi Lai Gaming,Paper Rex,5,13,Rarga,22047,yoru,0.94,202.0,13.0,16.0,6.0,72.0,118.0,31.0,2.0,2.0,3,True
+542195,233398,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Xi Lai Gaming,Paper Rex,5,13,coconut,12365,omen,0.7,161.0,10.0,16.0,9.0,72.0,103.0,35.0,1.0,1.0,3,True
+542195,233398,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Xi Lai Gaming,Paper Rex,5,13,Viva,36415,sova,0.5,106.0,6.0,14.0,6.0,61.0,77.0,28.0,0.0,0.0,3,True
+542196,233400,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Corrode,1,GIANTX,Sentinels,6,13,ara,11332,yoru,0.85,166.0,10.0,12.0,1.0,58.0,100.0,36.0,1.0,3.0,3,True
+542196,233400,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Corrode,1,GIANTX,Sentinels,6,13,Cloud,4181,fade,0.78,149.0,9.0,14.0,4.0,58.0,99.0,19.0,2.0,3.0,3,True
+542196,233400,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Corrode,1,GIANTX,Sentinels,6,13,westside,34684,vyse,0.74,162.0,10.0,16.0,0.0,37.0,99.0,50.0,2.0,0.0,3,True
+542196,233400,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Corrode,1,GIANTX,Sentinels,6,13,Flickless,6959,viper,0.61,106.0,7.0,13.0,4.0,63.0,67.0,24.0,1.0,3.0,3,True
+542196,233400,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Corrode,1,GIANTX,Sentinels,6,13,grubinho,5550,omen,0.55,126.0,8.0,16.0,2.0,47.0,91.0,30.0,2.0,2.0,3,True
+542196,233400,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Corrode,1,Sentinels,GIANTX,13,6,N4RRATE,36245,fade,1.58,238.0,15.0,8.0,15.0,79.0,143.0,32.0,1.0,1.0,3,True
+542196,233400,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Corrode,1,Sentinels,GIANTX,13,6,johnqt,1265,viper,1.32,188.0,13.0,7.0,6.0,84.0,106.0,33.0,2.0,1.0,3,True
+542196,233400,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Corrode,1,Sentinels,GIANTX,13,6,bang,3880,omen,1.27,177.0,14.0,8.0,8.0,84.0,97.0,30.0,3.0,2.0,3,True
+542196,233400,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Corrode,1,Sentinels,GIANTX,13,6,zekken,4004,neon,1.18,305.0,20.0,13.0,9.0,74.0,186.0,32.0,4.0,4.0,3,True
+542196,233400,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Corrode,1,Sentinels,GIANTX,13,6,Zellsis,729,vyse,0.96,125.0,9.0,8.0,5.0,84.0,76.0,16.0,1.0,0.0,3,True
+542196,233401,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,GIANTX,Sentinels,13,4,Cloud,4181,sova,2.05,362.0,23.0,9.0,5.0,94.0,224.0,33.0,4.0,0.0,3,True
+542196,233401,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,GIANTX,Sentinels,13,4,westside,34684,cypher,1.42,235.0,15.0,8.0,4.0,76.0,163.0,53.0,1.0,1.0,3,True
+542196,233401,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,GIANTX,Sentinels,13,4,Flickless,6959,breach,1.31,207.0,13.0,8.0,11.0,94.0,137.0,31.0,0.0,1.0,3,True
+542196,233401,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,GIANTX,Sentinels,13,4,ara,11332,neon,0.85,161.0,11.0,11.0,3.0,71.0,101.0,30.0,2.0,4.0,3,True
+542196,233401,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,GIANTX,Sentinels,13,4,grubinho,5550,omen,0.84,198.0,11.0,12.0,11.0,88.0,124.0,19.0,4.0,0.0,3,True
+542196,233401,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Sentinels,GIANTX,4,13,johnqt,1265,cypher,1.37,245.0,16.0,14.0,6.0,76.0,139.0,30.0,1.0,0.0,3,True
+542196,233401,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Sentinels,GIANTX,4,13,N4RRATE,36245,fade,1.08,212.0,12.0,13.0,7.0,82.0,131.0,21.0,2.0,2.0,3,True
+542196,233401,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Sentinels,GIANTX,4,13,Zellsis,729,breach,0.53,125.0,7.0,15.0,6.0,59.0,88.0,17.0,1.0,2.0,3,True
+542196,233401,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Sentinels,GIANTX,4,13,zekken,4004,neon,0.42,146.0,8.0,16.0,2.0,53.0,112.0,18.0,1.0,5.0,3,True
+542196,233401,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Sunset,2,Sentinels,GIANTX,4,13,bang,3880,omen,0.26,82.0,5.0,15.0,4.0,41.0,54.0,31.0,1.0,2.0,3,True
+542196,233402,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Haven,3,GIANTX,Sentinels,13,9,Cloud,4181,sova,1.28,250.0,19.0,13.0,6.0,64.0,158.0,23.0,0.0,2.0,3,True
+542196,233402,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Haven,3,GIANTX,Sentinels,13,9,ara,11332,neon,1.13,286.0,22.0,17.0,4.0,91.0,184.0,32.0,10.0,2.0,3,True
+542196,233402,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Haven,3,GIANTX,Sentinels,13,9,Flickless,6959,breach,1.04,164.0,12.0,11.0,12.0,95.0,115.0,24.0,0.0,1.0,3,True
+542196,233402,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Haven,3,GIANTX,Sentinels,13,9,grubinho,5550,omen,0.99,196.0,17.0,14.0,7.0,82.0,119.0,30.0,1.0,3.0,3,True
+542196,233402,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Haven,3,GIANTX,Sentinels,13,9,westside,34684,cypher,0.74,147.0,12.0,13.0,3.0,64.0,100.0,44.0,0.0,3.0,3,True
+542196,233402,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Haven,3,Sentinels,GIANTX,9,13,zekken,4004,neon,1.17,260.0,18.0,17.0,7.0,82.0,178.0,25.0,5.0,4.0,3,True
+542196,233402,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Haven,3,Sentinels,GIANTX,9,13,johnqt,1265,viper,1.11,188.0,17.0,14.0,5.0,82.0,123.0,36.0,1.0,2.0,3,True
+542196,233402,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Haven,3,Sentinels,GIANTX,9,13,Zellsis,729,killjoy,0.75,166.0,12.0,16.0,5.0,45.0,108.0,10.0,4.0,1.0,3,True
+542196,233402,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Haven,3,Sentinels,GIANTX,9,13,bang,3880,omen,0.7,136.0,10.0,16.0,3.0,68.0,92.0,37.0,0.0,2.0,3,True
+542196,233402,2283,Valorant Champions 2025,Group Stage: Opening (A),2025-09-12,Haven,3,Sentinels,GIANTX,9,13,N4RRATE,36245,sova,0.57,162.0,11.0,19.0,5.0,55.0,125.0,44.0,1.0,2.0,3,True
+542207,233430,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,NRG,EDward Gaming,17,15,mada,5132,yoru,1.23,279.0,31.0,24.0,4.0,72.0,191.0,27.0,5.0,4.0,3,True
+542207,233430,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,NRG,EDward Gaming,17,15,skuba,11118,vyse,1.15,230.0,28.0,21.0,5.0,75.0,139.0,28.0,2.0,0.0,3,True
+542207,233430,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,NRG,EDward Gaming,17,15,brawk,2172,sova,1.02,200.0,21.0,20.0,7.0,66.0,148.0,21.0,5.0,2.0,3,True
+542207,233430,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,NRG,EDward Gaming,17,15,Ethan,11225,omen,1.02,205.0,20.0,22.0,15.0,66.0,145.0,42.0,2.0,6.0,3,True
+542207,233430,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,NRG,EDward Gaming,17,15,s0m,4164,harbor,0.81,167.0,18.0,24.0,10.0,66.0,110.0,28.0,2.0,4.0,3,True
+542207,233430,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,EDward Gaming,NRG,15,17,Smoggy,4742,omen,1.33,208.0,26.0,17.0,11.0,78.0,138.0,31.0,1.0,0.0,3,True
+542207,233430,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,EDward Gaming,NRG,15,17,nobody,3017,sova,0.97,176.0,20.0,22.0,5.0,72.0,122.0,38.0,2.0,1.0,3,True
+542207,233430,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,EDward Gaming,NRG,15,17,ZmjjKK,3520,yoru,0.89,212.0,23.0,26.0,7.0,69.0,131.0,29.0,8.0,7.0,3,True
+542207,233430,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,EDward Gaming,NRG,15,17,CHICHOO,15559,sage,0.85,191.0,21.0,25.0,12.0,66.0,130.0,28.0,3.0,4.0,3,True
+542207,233430,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,EDward Gaming,NRG,15,17,Jieni7,51244,neon,0.74,191.0,21.0,28.0,8.0,69.0,123.0,28.0,2.0,4.0,3,True
+542207,233431,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Corrode,2,NRG,EDward Gaming,13,11,Ethan,11225,kayo,1.3,236.0,19.0,16.0,17.0,71.0,155.0,21.0,2.0,2.0,3,True
+542207,233431,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Corrode,2,NRG,EDward Gaming,13,11,s0m,4164,omen,1.3,253.0,23.0,17.0,12.0,79.0,166.0,24.0,1.0,2.0,3,True
+542207,233431,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Corrode,2,NRG,EDward Gaming,13,11,skuba,11118,viper,1.29,244.0,19.0,15.0,9.0,83.0,168.0,43.0,2.0,4.0,3,True
+542207,233431,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Corrode,2,NRG,EDward Gaming,13,11,brawk,2172,sova,0.7,166.0,10.0,19.0,12.0,75.0,116.0,13.0,1.0,2.0,3,True
+542207,233431,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Corrode,2,NRG,EDward Gaming,13,11,mada,5132,waylay,0.69,152.0,15.0,18.0,5.0,58.0,102.0,26.0,3.0,5.0,3,True
+542207,233431,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Corrode,2,EDward Gaming,NRG,11,13,ZmjjKK,3520,yoru,1.36,282.0,23.0,17.0,6.0,71.0,185.0,35.0,4.0,2.0,3,True
+542207,233431,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Corrode,2,EDward Gaming,NRG,11,13,Smoggy,4742,omen,1.09,237.0,20.0,17.0,10.0,75.0,151.0,34.0,1.0,0.0,3,True
+542207,233431,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Corrode,2,EDward Gaming,NRG,11,13,nobody,3017,fade,0.97,175.0,15.0,17.0,5.0,75.0,118.0,26.0,2.0,2.0,3,True
+542207,233431,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Corrode,2,EDward Gaming,NRG,11,13,CHICHOO,15559,viper,0.94,165.0,14.0,16.0,4.0,75.0,122.0,16.0,2.0,3.0,3,True
+542207,233431,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Corrode,2,EDward Gaming,NRG,11,13,Jieni7,51244,neon,0.67,144.0,13.0,19.0,2.0,71.0,91.0,14.0,6.0,2.0,3,True
+542205,233427,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,Team Liquid,KIWOOM DRX,8,13,keiko,11494,omen,1.15,238.0,17.0,17.0,8.0,67.0,147.0,53.0,4.0,1.0,3,True
+542205,233427,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,Team Liquid,KIWOOM DRX,8,13,trexx,2168,sova,1.0,177.0,12.0,14.0,5.0,62.0,107.0,22.0,1.0,2.0,3,True
+542205,233427,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,Team Liquid,KIWOOM DRX,8,13,kamo,14681,jett,0.95,220.0,17.0,16.0,2.0,71.0,146.0,41.0,4.0,6.0,3,True
+542205,233427,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,Team Liquid,KIWOOM DRX,8,13,paTiTek,309,kayo,0.94,175.0,12.0,16.0,10.0,57.0,118.0,23.0,1.0,1.0,3,True
+542205,233427,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,Team Liquid,KIWOOM DRX,8,13,nAts,457,cypher,0.52,52.0,3.0,12.0,3.0,76.0,40.0,25.0,0.0,1.0,3,True
+542205,233427,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,KIWOOM DRX,Team Liquid,13,8,MaKo,4462,omen,1.4,210.0,17.0,10.0,10.0,81.0,139.0,47.0,2.0,2.0,3,True
+542205,233427,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,KIWOOM DRX,Team Liquid,13,8,Flashback,35013,yoru,1.37,252.0,21.0,12.0,5.0,76.0,164.0,32.0,2.0,3.0,3,True
+542205,233427,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,KIWOOM DRX,Team Liquid,13,8,free1ng,1916,cypher,0.94,177.0,13.0,14.0,8.0,86.0,128.0,38.0,3.0,1.0,3,True
+542205,233427,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,KIWOOM DRX,Team Liquid,13,8,BeYN,4678,sova,0.81,151.0,9.0,13.0,12.0,95.0,104.0,24.0,1.0,1.0,3,True
+542205,233427,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Abyss,1,KIWOOM DRX,Team Liquid,13,8,HYUNMIN,28400,waylay,0.78,138.0,11.0,12.0,2.0,67.0,98.0,52.0,3.0,3.0,3,True
+542205,233428,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Bind,2,Team Liquid,KIWOOM DRX,10,13,keiko,11494,brimstone,1.14,191.0,15.0,15.0,8.0,70.0,125.0,52.0,2.0,0.0,3,True
+542205,233428,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Bind,2,Team Liquid,KIWOOM DRX,10,13,nAts,457,viper,1.11,187.0,14.0,13.0,5.0,61.0,118.0,47.0,3.0,2.0,3,True
+542205,233428,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Bind,2,Team Liquid,KIWOOM DRX,10,13,paTiTek,309,skye,0.79,152.0,13.0,16.0,4.0,52.0,95.0,35.0,0.0,4.0,3,True
+542205,233428,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Bind,2,Team Liquid,KIWOOM DRX,10,13,kamo,14681,raze,0.73,180.0,13.0,19.0,1.0,43.0,114.0,14.0,3.0,5.0,3,True
+542205,233428,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Bind,2,Team Liquid,KIWOOM DRX,10,13,trexx,2168,gekko,0.51,109.0,6.0,19.0,7.0,39.0,82.0,10.0,1.0,3.0,3,True
+542205,233428,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Bind,2,KIWOOM DRX,Team Liquid,13,10,MaKo,4462,brimstone,1.23,205.0,17.0,10.0,9.0,91.0,129.0,36.0,1.0,1.0,3,True
+542205,233428,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Bind,2,KIWOOM DRX,Team Liquid,13,10,BeYN,4678,fade,1.2,224.0,19.0,13.0,7.0,70.0,143.0,35.0,3.0,3.0,3,True
+542205,233428,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Bind,2,KIWOOM DRX,Team Liquid,13,10,HYUNMIN,28400,waylay,1.18,202.0,18.0,11.0,3.0,78.0,121.0,46.0,4.0,1.0,3,True
+542205,233428,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Bind,2,KIWOOM DRX,Team Liquid,13,10,Flashback,35013,yoru,1.0,214.0,16.0,14.0,5.0,65.0,142.0,15.0,4.0,3.0,3,True
+542205,233428,2283,Valorant Champions 2025,Group Stage: Opening (C),2025-09-13,Bind,2,KIWOOM DRX,Team Liquid,13,10,free1ng,1916,viper,0.84,147.0,12.0,13.0,8.0,74.0,107.0,25.0,2.0,1.0,3,True
+542212,233445,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,1,Dragon Ranger Gaming,T1,13,15,SpiritZ1,31753,yoru,1.39,301.0,26.0,21.0,14.0,86.0,205.0,29.0,6.0,1.0,3,True
+542212,233445,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,1,Dragon Ranger Gaming,T1,13,15,Nicc,11524,breach,1.29,239.0,25.0,18.0,8.0,89.0,156.0,33.0,0.0,0.0,3,True
+542212,233445,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,1,Dragon Ranger Gaming,T1,13,15,Demon1,26171,vyse,1.07,185.0,21.0,16.0,0.0,71.0,119.0,35.0,1.0,1.0,3,True
+542212,233445,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,1,Dragon Ranger Gaming,T1,13,15,Akeman,52904,waylay,0.78,184.0,19.0,22.0,5.0,61.0,111.0,31.0,6.0,8.0,3,True
+542212,233445,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,1,Dragon Ranger Gaming,T1,13,15,Flex1n,4705,omen,0.58,125.0,12.0,21.0,12.0,71.0,80.0,17.0,1.0,4.0,3,True
+542212,233445,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,1,T1,Dragon Ranger Gaming,15,13,DH,43057,omen,1.49,276.0,27.0,18.0,13.0,82.0,170.0,27.0,3.0,2.0,3,True
+542212,233445,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,1,T1,Dragon Ranger Gaming,15,13,iZu,29833,yoru,0.95,216.0,22.0,22.0,6.0,71.0,125.0,28.0,7.0,4.0,3,True
+542212,233445,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,1,T1,Dragon Ranger Gaming,15,13,BuZz,804,neon,0.92,192.0,17.0,20.0,10.0,64.0,136.0,17.0,2.0,4.0,3,True
+542212,233445,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,1,T1,Dragon Ranger Gaming,15,13,stax,485,fade,0.91,170.0,16.0,20.0,14.0,71.0,105.0,39.0,1.0,1.0,3,True
+542212,233445,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,1,T1,Dragon Ranger Gaming,15,13,Meteor,13039,vyse,0.75,173.0,16.0,23.0,3.0,61.0,122.0,29.0,1.0,3.0,3,True
+542212,233446,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Sunset,2,Dragon Ranger Gaming,T1,14,16,SpiritZ1,31753,yoru,1.19,248.0,27.0,23.0,10.0,87.0,155.0,34.0,7.0,3.0,3,True
+542212,233446,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Sunset,2,Dragon Ranger Gaming,T1,14,16,Nicc,11524,fade,1.11,215.0,24.0,19.0,7.0,77.0,129.0,35.0,2.0,1.0,3,True
+542212,233446,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Sunset,2,Dragon Ranger Gaming,T1,14,16,Demon1,26171,cypher,1.0,166.0,18.0,21.0,7.0,67.0,117.0,34.0,1.0,1.0,3,True
+542212,233446,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Sunset,2,Dragon Ranger Gaming,T1,14,16,Flex1n,4705,omen,0.92,193.0,20.0,22.0,11.0,73.0,134.0,33.0,4.0,6.0,3,True
+542212,233446,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Sunset,2,Dragon Ranger Gaming,T1,14,16,Akeman,52904,neon,0.77,180.0,18.0,24.0,8.0,60.0,124.0,15.0,2.0,3.0,3,True
+542212,233446,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Sunset,2,T1,Dragon Ranger Gaming,16,14,Meteor,13039,cypher,1.34,275.0,29.0,20.0,6.0,77.0,172.0,49.0,3.0,2.0,3,True
+542212,233446,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Sunset,2,T1,Dragon Ranger Gaming,16,14,BuZz,804,neon,1.16,269.0,31.0,23.0,4.0,80.0,170.0,27.0,2.0,7.0,3,True
+542212,233446,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Sunset,2,T1,Dragon Ranger Gaming,16,14,iZu,29833,yoru,0.9,154.0,16.0,19.0,7.0,70.0,95.0,24.0,4.0,1.0,3,True
+542212,233446,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Sunset,2,T1,Dragon Ranger Gaming,16,14,stax,485,sova,0.79,172.0,16.0,21.0,8.0,73.0,112.0,44.0,2.0,4.0,3,True
+542212,233446,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Sunset,2,T1,Dragon Ranger Gaming,16,14,DH,43057,omen,0.78,167.0,17.0,24.0,10.0,67.0,105.0,29.0,3.0,2.0,3,True
+542211,233442,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Corrode,1,G2 Esports,Team Heretics,10,13,leaf,7873,cypher,1.03,178.0,15.0,15.0,3.0,65.0,115.0,25.0,1.0,1.0,3,True
+542211,233442,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Corrode,1,G2 Esports,Team Heretics,10,13,trent,15500,fade,0.99,154.0,14.0,14.0,5.0,65.0,91.0,24.0,0.0,2.0,3,True
+542211,233442,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Corrode,1,G2 Esports,Team Heretics,10,13,valyn,3885,omen,0.93,222.0,16.0,20.0,11.0,65.0,139.0,20.0,4.0,3.0,3,True
+542211,233442,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Corrode,1,G2 Esports,Team Heretics,10,13,JonahP,4581,sage,0.61,130.0,11.0,17.0,5.0,52.0,84.0,26.0,1.0,4.0,3,True
+542211,233442,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Corrode,1,G2 Esports,Team Heretics,10,13,jawgemo,3993,raze,0.6,141.0,9.0,18.0,6.0,61.0,101.0,15.0,2.0,5.0,3,True
+542211,233442,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Corrode,1,Team Heretics,G2 Esports,13,10,benjyfishy,29873,vyse,1.59,315.0,25.0,13.0,8.0,87.0,202.0,29.0,3.0,2.0,3,True
+542211,233442,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Corrode,1,Team Heretics,G2 Esports,13,10,RieNs,10971,fade,1.44,270.0,21.0,14.0,11.0,91.0,169.0,28.0,2.0,0.0,3,True
+542211,233442,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Corrode,1,Team Heretics,G2 Esports,13,10,MiniBoo,18350,yoru,1.25,267.0,23.0,17.0,5.0,74.0,168.0,40.0,9.0,3.0,3,True
+542211,233442,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Corrode,1,Team Heretics,G2 Esports,13,10,Boo,1144,astra,1.11,127.0,10.0,10.0,21.0,83.0,78.0,32.0,1.0,0.0,3,True
+542211,233442,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Corrode,1,Team Heretics,G2 Esports,13,10,Wo0t,21328,viper,0.6,65.0,5.0,11.0,4.0,78.0,52.0,33.0,0.0,3.0,3,True
+542211,233443,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,2,G2 Esports,Team Heretics,10,13,valyn,3885,omen,1.42,273.0,21.0,17.0,10.0,74.0,179.0,32.0,4.0,1.0,3,True
+542211,233443,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,2,G2 Esports,Team Heretics,10,13,leaf,7873,viper,1.18,255.0,21.0,18.0,7.0,65.0,172.0,16.0,0.0,6.0,3,True
+542211,233443,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,2,G2 Esports,Team Heretics,10,13,trent,15500,tejo,0.8,153.0,12.0,16.0,4.0,74.0,100.0,40.0,0.0,1.0,3,True
+542211,233443,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,2,G2 Esports,Team Heretics,10,13,jawgemo,3993,yoru,0.74,165.0,14.0,18.0,6.0,52.0,95.0,30.0,3.0,4.0,3,True
+542211,233443,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,2,G2 Esports,Team Heretics,10,13,JonahP,4581,fade,0.58,136.0,9.0,18.0,12.0,74.0,89.0,11.0,2.0,2.0,3,True
+542211,233443,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,2,Team Heretics,G2 Esports,13,10,Wo0t,21328,chamber,1.35,285.0,23.0,16.0,4.0,70.0,196.0,35.0,3.0,1.0,3,True
+542211,233443,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,2,Team Heretics,G2 Esports,13,10,RieNs,10971,fade,1.21,213.0,20.0,15.0,8.0,78.0,159.0,44.0,2.0,2.0,3,True
+542211,233443,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,2,Team Heretics,G2 Esports,13,10,MiniBoo,18350,raze,1.1,219.0,17.0,15.0,5.0,74.0,153.0,26.0,7.0,3.0,3,True
+542211,233443,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,2,Team Heretics,G2 Esports,13,10,Boo,1144,omen,1.08,173.0,13.0,15.0,20.0,74.0,107.0,23.0,1.0,2.0,3,True
+542211,233443,2283,Valorant Champions 2025,Group Stage: Opening (D),2025-09-14,Lotus,2,Team Heretics,G2 Esports,13,10,benjyfishy,29873,deadlock,0.95,186.0,14.0,16.0,10.0,74.0,133.0,18.0,1.0,1.0,3,True
+542200,233412,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Haven,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),MIBR,2,13,Knight,4774,sova,1.0,246.0,12.0,14.0,5.0,67.0,173.0,29.0,2.0,2.0,3,True
+542200,233412,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Haven,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),MIBR,2,13,whzy,4885,neon,0.45,131.0,6.0,14.0,3.0,47.0,83.0,24.0,2.0,2.0,3,True
+542200,233412,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Haven,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),MIBR,2,13,nephh,10698,breach,0.43,120.0,5.0,12.0,5.0,67.0,84.0,17.0,0.0,2.0,3,True
+542200,233412,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Haven,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),MIBR,2,13,Levius,40845,cypher,0.42,77.0,5.0,10.0,1.0,47.0,43.0,30.0,1.0,3.0,3,True
+542200,233412,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Haven,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),MIBR,2,13,rushia,48878,omen,0.38,107.0,4.0,13.0,4.0,67.0,77.0,17.0,0.0,1.0,3,True
+542200,233412,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Haven,1,MIBR,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,2,Verno,21668,sova,2.0,274.0,18.0,3.0,3.0,93.0,188.0,26.0,1.0,1.0,3,True
+542200,233412,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Haven,1,MIBR,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,2,aspas,8480,neon,1.56,265.0,13.0,6.0,7.0,87.0,189.0,33.0,1.0,0.0,3,True
+542200,233412,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Haven,1,MIBR,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,2,cortezia,5395,killjoy,1.24,207.0,12.0,7.0,2.0,87.0,150.0,40.0,3.0,0.0,3,True
+542200,233412,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Haven,1,MIBR,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,2,artzin,5957,viper,1.09,213.0,12.0,8.0,1.0,80.0,138.0,34.0,2.0,2.0,3,True
+542200,233412,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Haven,1,MIBR,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,2,xenom,20240,omen,0.96,142.0,8.0,8.0,6.0,93.0,83.0,20.0,3.0,2.0,3,True
+542200,233413,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Corrode,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),MIBR,9,13,Knight,4774,sova,1.07,172.0,12.0,15.0,6.0,64.0,125.0,23.0,3.0,1.0,3,True
+542200,233413,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Corrode,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),MIBR,9,13,nephh,10698,deadlock,1.06,162.0,13.0,12.0,3.0,73.0,104.0,20.0,1.0,0.0,3,True
+542200,233413,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Corrode,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),MIBR,9,13,Levius,40845,viper,1.01,193.0,14.0,16.0,4.0,50.0,125.0,20.0,3.0,1.0,3,True
+542200,233413,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Corrode,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),MIBR,9,13,rushia,48878,omen,0.75,173.0,12.0,18.0,9.0,55.0,109.0,13.0,0.0,4.0,3,True
+542200,233413,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Corrode,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),MIBR,9,13,whzy,4885,neon,0.57,160.0,12.0,19.0,2.0,59.0,95.0,38.0,3.0,6.0,3,True
+542200,233413,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Corrode,2,MIBR,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,9,aspas,8480,waylay,1.52,276.0,22.0,11.0,3.0,77.0,177.0,27.0,5.0,1.0,3,True
+542200,233413,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Corrode,2,MIBR,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,9,artzin,5957,kayo,1.08,211.0,16.0,14.0,9.0,73.0,146.0,27.0,1.0,1.0,3,True
+542200,233413,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Corrode,2,MIBR,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,9,Verno,21668,sova,1.06,215.0,17.0,13.0,7.0,82.0,134.0,21.0,4.0,1.0,3,True
+542200,233413,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Corrode,2,MIBR,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,9,cortezia,5395,viper,1.04,202.0,16.0,14.0,7.0,73.0,133.0,22.0,2.0,4.0,3,True
+542200,233413,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Corrode,2,MIBR,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,9,xenom,20240,omen,0.92,135.0,9.0,11.0,15.0,77.0,81.0,21.0,0.0,3.0,3,True
+542201,233415,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Ascent,1,Rex Regum Qeon,FNATIC,10,13,Kushy,4866,sova,1.35,264.0,20.0,15.0,6.0,70.0,189.0,46.0,4.0,2.0,3,True
+542201,233415,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Ascent,1,Rex Regum Qeon,FNATIC,10,13,Jemkin,24895,yoru,1.05,256.0,20.0,17.0,3.0,70.0,146.0,28.0,7.0,4.0,3,True
+542201,233415,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Ascent,1,Rex Regum Qeon,FNATIC,10,13,xffero,4871,cypher,0.89,178.0,14.0,15.0,2.0,57.0,130.0,20.0,2.0,1.0,3,True
+542201,233415,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Ascent,1,Rex Regum Qeon,FNATIC,10,13,crazyguy,1430,tejo,0.55,129.0,9.0,16.0,4.0,70.0,87.0,10.0,0.0,2.0,3,True
+542201,233415,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Ascent,1,Rex Regum Qeon,FNATIC,10,13,Monyet,8497,omen,0.55,84.0,7.0,14.0,8.0,61.0,55.0,41.0,0.0,1.0,3,True
+542201,233415,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Ascent,1,FNATIC,Rex Regum Qeon,13,10,Chronicle,458,vyse,1.86,295.0,25.0,11.0,10.0,78.0,205.0,36.0,4.0,2.0,3,True
+542201,233415,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Ascent,1,FNATIC,Rex Regum Qeon,13,10,Alfajer,9810,sage,1.24,230.0,18.0,15.0,7.0,74.0,148.0,34.0,3.0,1.0,3,True
+542201,233415,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Ascent,1,FNATIC,Rex Regum Qeon,13,10,Boaster,438,omen,0.98,136.0,12.0,14.0,8.0,65.0,90.0,50.0,0.0,1.0,3,True
+542201,233415,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Ascent,1,FNATIC,Rex Regum Qeon,13,10,crashies,4,sova,0.94,175.0,13.0,15.0,7.0,65.0,117.0,24.0,2.0,2.0,3,True
+542201,233415,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Ascent,1,FNATIC,Rex Regum Qeon,13,10,kaajak,9554,yoru,0.61,122.0,9.0,15.0,3.0,65.0,84.0,23.0,1.0,7.0,3,True
+542201,233416,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Abyss,2,Rex Regum Qeon,FNATIC,7,13,Kushy,4866,kayo,1.05,244.0,17.0,16.0,3.0,65.0,159.0,53.0,2.0,3.0,3,True
+542201,233416,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Abyss,2,Rex Regum Qeon,FNATIC,7,13,crazyguy,1430,sova,0.87,179.0,12.0,15.0,5.0,75.0,128.0,38.0,0.0,2.0,3,True
+542201,233416,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Abyss,2,Rex Regum Qeon,FNATIC,7,13,Monyet,8497,omen,0.68,151.0,11.0,18.0,7.0,70.0,85.0,24.0,0.0,2.0,3,True
+542201,233416,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Abyss,2,Rex Regum Qeon,FNATIC,7,13,Jemkin,24895,jett,0.61,158.0,10.0,15.0,4.0,55.0,97.0,20.0,1.0,4.0,3,True
+542201,233416,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Abyss,2,Rex Regum Qeon,FNATIC,7,13,xffero,4871,cypher,0.34,111.0,7.0,17.0,5.0,65.0,68.0,50.0,1.0,4.0,3,True
+542201,233416,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Abyss,2,FNATIC,Rex Regum Qeon,13,7,Boaster,438,astra,1.96,306.0,24.0,8.0,5.0,90.0,187.0,53.0,1.0,0.0,3,True
+542201,233416,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Abyss,2,FNATIC,Rex Regum Qeon,13,7,Chronicle,458,breach,1.4,244.0,19.0,10.0,4.0,90.0,164.0,32.0,2.0,0.0,3,True
+542201,233416,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Abyss,2,FNATIC,Rex Regum Qeon,13,7,Alfajer,9810,cypher,1.29,263.0,20.0,12.0,4.0,85.0,167.0,41.0,6.0,0.0,3,True
+542201,233416,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Abyss,2,FNATIC,Rex Regum Qeon,13,7,crashies,4,sova,0.6,105.0,5.0,14.0,12.0,85.0,84.0,30.0,0.0,2.0,3,True
+542201,233416,2283,Valorant Champions 2025,Group Stage: Opening (B),2025-09-15,Abyss,2,FNATIC,Rex Regum Qeon,13,7,kaajak,9554,waylay,0.59,185.0,13.0,18.0,1.0,70.0,113.0,41.0,6.0,2.0,3,True
+542197,233403,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Ascent,1,Paper Rex,GIANTX,11,13,f0rsakeN,9801,omen,1.0,204.0,17.0,19.0,14.0,75.0,118.0,26.0,2.0,2.0,3,True
+542197,233403,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Ascent,1,Paper Rex,GIANTX,11,13,something,17086,yoru,0.89,218.0,19.0,19.0,5.0,67.0,135.0,30.0,4.0,5.0,3,True
+542197,233403,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Ascent,1,Paper Rex,GIANTX,11,13,d4v41,9803,vyse,0.89,173.0,14.0,17.0,9.0,71.0,115.0,28.0,1.0,0.0,3,True
+542197,233403,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Ascent,1,Paper Rex,GIANTX,11,13,Jinggg,7378,sage,0.87,154.0,14.0,16.0,5.0,75.0,104.0,33.0,4.0,1.0,3,True
+542197,233403,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Ascent,1,Paper Rex,GIANTX,11,13,PatMen,13744,sova,0.86,188.0,14.0,18.0,7.0,75.0,131.0,47.0,3.0,2.0,3,True
+542197,233403,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Ascent,1,GIANTX,Paper Rex,13,11,ara,11332,jett,1.54,300.0,26.0,14.0,3.0,67.0,189.0,37.0,5.0,5.0,3,True
+542197,233403,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Ascent,1,GIANTX,Paper Rex,13,11,Cloud,4181,sova,1.2,224.0,18.0,14.0,8.0,83.0,154.0,32.0,2.0,1.0,3,True
+542197,233403,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Ascent,1,GIANTX,Paper Rex,13,11,westside,34684,cypher,1.19,212.0,20.0,15.0,5.0,71.0,143.0,48.0,1.0,4.0,3,True
+542197,233403,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Ascent,1,GIANTX,Paper Rex,13,11,Flickless,6959,kayo,0.94,151.0,10.0,16.0,22.0,75.0,104.0,20.0,0.0,3.0,3,True
+542197,233403,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Ascent,1,GIANTX,Paper Rex,13,11,grubinho,5550,omen,0.9,180.0,15.0,19.0,12.0,92.0,101.0,21.0,2.0,1.0,3,True
+542197,233404,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Lotus,2,Paper Rex,GIANTX,13,10,something,17086,yoru,1.39,275.0,23.0,14.0,6.0,70.0,168.0,28.0,5.0,2.0,3,True
+542197,233404,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Lotus,2,Paper Rex,GIANTX,13,10,d4v41,9803,vyse,1.2,203.0,19.0,11.0,3.0,70.0,145.0,26.0,0.0,3.0,3,True
+542197,233404,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Lotus,2,Paper Rex,GIANTX,13,10,Jinggg,7378,raze,1.17,241.0,18.0,15.0,5.0,78.0,157.0,25.0,2.0,6.0,3,True
+542197,233404,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Lotus,2,Paper Rex,GIANTX,13,10,PatMen,13744,fade,0.97,132.0,10.0,12.0,9.0,83.0,91.0,27.0,0.0,0.0,3,True
+542197,233404,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Lotus,2,Paper Rex,GIANTX,13,10,f0rsakeN,9801,omen,0.7,151.0,12.0,17.0,8.0,83.0,95.0,31.0,1.0,4.0,3,True
+542197,233404,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Lotus,2,GIANTX,Paper Rex,10,13,westside,34684,cypher,1.16,222.0,18.0,16.0,4.0,74.0,134.0,44.0,4.0,2.0,3,True
+542197,233404,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Lotus,2,GIANTX,Paper Rex,10,13,Cloud,4181,fade,0.88,149.0,11.0,16.0,8.0,61.0,102.0,24.0,0.0,1.0,3,True
+542197,233404,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Lotus,2,GIANTX,Paper Rex,10,13,Flickless,6959,viper,0.85,173.0,12.0,16.0,4.0,61.0,121.0,37.0,3.0,1.0,3,True
+542197,233404,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Lotus,2,GIANTX,Paper Rex,10,13,grubinho,5550,omen,0.84,166.0,13.0,17.0,6.0,74.0,115.0,29.0,3.0,0.0,3,True
+542197,233404,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Lotus,2,GIANTX,Paper Rex,10,13,ara,11332,raze,0.75,168.0,15.0,17.0,1.0,65.0,109.0,19.0,5.0,4.0,3,True
+542197,233405,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Sunset,3,Paper Rex,GIANTX,13,6,something,17086,sova,1.59,277.0,21.0,8.0,7.0,89.0,158.0,33.0,3.0,1.0,3,True
+542197,233405,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Sunset,3,Paper Rex,GIANTX,13,6,Jinggg,7378,raze,1.48,318.0,23.0,13.0,3.0,84.0,200.0,24.0,3.0,2.0,3,True
+542197,233405,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Sunset,3,Paper Rex,GIANTX,13,6,d4v41,9803,sage,1.06,141.0,10.0,8.0,3.0,74.0,103.0,35.0,1.0,0.0,3,True
+542197,233405,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Sunset,3,Paper Rex,GIANTX,13,6,PatMen,13744,viper,1.02,194.0,14.0,10.0,0.0,79.0,113.0,28.0,2.0,3.0,3,True
+542197,233405,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Sunset,3,Paper Rex,GIANTX,13,6,f0rsakeN,9801,omen,0.82,166.0,11.0,12.0,12.0,74.0,122.0,20.0,1.0,3.0,3,True
+542197,233405,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Sunset,3,GIANTX,Paper Rex,6,13,grubinho,5550,omen,0.9,177.0,12.0,15.0,3.0,53.0,123.0,28.0,1.0,5.0,3,True
+542197,233405,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Sunset,3,GIANTX,Paper Rex,6,13,Flickless,6959,breach,0.87,196.0,12.0,17.0,4.0,53.0,131.0,18.0,3.0,1.0,3,True
+542197,233405,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Sunset,3,GIANTX,Paper Rex,6,13,westside,34684,cypher,0.74,154.0,8.0,15.0,6.0,63.0,107.0,41.0,3.0,4.0,3,True
+542197,233405,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Sunset,3,GIANTX,Paper Rex,6,13,ara,11332,neon,0.72,162.0,11.0,16.0,2.0,53.0,109.0,43.0,0.0,0.0,3,True
+542197,233405,2283,Valorant Champions 2025,Group Stage: Winner's (A),2025-09-17,Sunset,3,GIANTX,Paper Rex,6,13,Cloud,4181,sova,0.71,151.0,8.0,16.0,4.0,58.0,111.0,43.0,2.0,0.0,3,True
+542208,233433,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Haven,1,KIWOOM DRX,NRG,13,4,free1ng,1916,cypher,1.35,199.0,14.0,7.0,4.0,82.0,127.0,33.0,1.0,1.0,3,True
+542208,233433,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Haven,1,KIWOOM DRX,NRG,13,4,Flashback,35013,neon,1.22,229.0,15.0,11.0,3.0,53.0,159.0,28.0,3.0,4.0,3,True
+542208,233433,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Haven,1,KIWOOM DRX,NRG,13,4,HYUNMIN,28400,waylay,1.21,281.0,18.0,12.0,4.0,76.0,170.0,34.0,5.0,1.0,3,True
+542208,233433,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Haven,1,KIWOOM DRX,NRG,13,4,BeYN,4678,sova,1.04,188.0,12.0,11.0,4.0,71.0,125.0,46.0,0.0,1.0,3,True
+542208,233433,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Haven,1,KIWOOM DRX,NRG,13,4,MaKo,4462,omen,1.03,117.0,7.0,8.0,11.0,82.0,65.0,22.0,0.0,1.0,3,True
+542208,233433,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Haven,1,NRG,KIWOOM DRX,4,13,skuba,11118,killjoy,1.05,227.0,15.0,13.0,2.0,53.0,131.0,30.0,1.0,1.0,3,True
+542208,233433,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Haven,1,NRG,KIWOOM DRX,4,13,mada,5132,neon,0.96,235.0,14.0,15.0,4.0,47.0,153.0,25.0,3.0,6.0,3,True
+542208,233433,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Haven,1,NRG,KIWOOM DRX,4,13,s0m,4164,viper,0.75,163.0,8.0,13.0,9.0,76.0,94.0,26.0,0.0,1.0,3,True
+542208,233433,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Haven,1,NRG,KIWOOM DRX,4,13,brawk,2172,sova,0.71,138.0,6.0,12.0,6.0,71.0,104.0,11.0,2.0,0.0,3,True
+542208,233433,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Haven,1,NRG,KIWOOM DRX,4,13,Ethan,11225,omen,0.66,127.0,6.0,13.0,4.0,76.0,81.0,17.0,2.0,1.0,3,True
+542208,233434,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Corrode,2,KIWOOM DRX,NRG,11,13,Flashback,35013,yoru,1.39,305.0,26.0,17.0,3.0,79.0,190.0,34.0,7.0,2.0,3,True
+542208,233434,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Corrode,2,KIWOOM DRX,NRG,11,13,HYUNMIN,28400,waylay,0.99,201.0,17.0,16.0,6.0,71.0,131.0,50.0,2.0,0.0,3,True
+542208,233434,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Corrode,2,KIWOOM DRX,NRG,11,13,BeYN,4678,fade,0.94,201.0,16.0,17.0,8.0,67.0,120.0,48.0,2.0,3.0,3,True
+542208,233434,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Corrode,2,KIWOOM DRX,NRG,11,13,MaKo,4462,omen,0.85,125.0,11.0,15.0,8.0,75.0,82.0,17.0,1.0,1.0,3,True
+542208,233434,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Corrode,2,KIWOOM DRX,NRG,11,13,free1ng,1916,viper,0.73,147.0,13.0,16.0,3.0,75.0,111.0,48.0,4.0,2.0,3,True
+542208,233434,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Corrode,2,NRG,KIWOOM DRX,13,11,mada,5132,waylay,1.17,239.0,22.0,17.0,4.0,75.0,152.0,33.0,4.0,8.0,3,True
+542208,233434,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Corrode,2,NRG,KIWOOM DRX,13,11,s0m,4164,omen,1.13,210.0,18.0,17.0,9.0,67.0,135.0,39.0,3.0,1.0,3,True
+542208,233434,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Corrode,2,NRG,KIWOOM DRX,13,11,skuba,11118,viper,1.09,211.0,18.0,16.0,6.0,75.0,140.0,49.0,0.0,1.0,3,True
+542208,233434,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Corrode,2,NRG,KIWOOM DRX,13,11,brawk,2172,sova,0.98,178.0,13.0,15.0,8.0,75.0,121.0,14.0,1.0,2.0,3,True
+542208,233434,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Corrode,2,NRG,KIWOOM DRX,13,11,Ethan,11225,kayo,0.64,139.0,10.0,18.0,14.0,67.0,72.0,14.0,0.0,4.0,3,True
+542208,233435,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Lotus,3,KIWOOM DRX,NRG,11,13,Flashback,35013,yoru,1.29,292.0,25.0,19.0,3.0,83.0,190.0,25.0,5.0,4.0,3,True
+542208,233435,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Lotus,3,KIWOOM DRX,NRG,11,13,BeYN,4678,fade,1.21,227.0,21.0,15.0,4.0,63.0,152.0,33.0,0.0,2.0,3,True
+542208,233435,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Lotus,3,KIWOOM DRX,NRG,11,13,HYUNMIN,28400,waylay,1.0,210.0,19.0,17.0,1.0,71.0,136.0,30.0,2.0,3.0,3,True
+542208,233435,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Lotus,3,KIWOOM DRX,NRG,11,13,MaKo,4462,omen,0.57,105.0,8.0,17.0,9.0,67.0,76.0,19.0,0.0,2.0,3,True
+542208,233435,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Lotus,3,KIWOOM DRX,NRG,11,13,free1ng,1916,vyse,0.49,115.0,8.0,18.0,5.0,54.0,85.0,14.0,2.0,4.0,3,True
+542208,233435,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Lotus,3,NRG,KIWOOM DRX,13,11,brawk,2172,vyse,1.65,304.0,28.0,15.0,4.0,75.0,194.0,17.0,1.0,0.0,3,True
+542208,233435,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Lotus,3,NRG,KIWOOM DRX,13,11,Ethan,11225,fade,1.07,169.0,14.0,13.0,9.0,67.0,116.0,27.0,3.0,3.0,3,True
+542208,233435,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Lotus,3,NRG,KIWOOM DRX,13,11,s0m,4164,omen,1.03,190.0,15.0,17.0,18.0,79.0,112.0,13.0,4.0,2.0,3,True
+542208,233435,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Lotus,3,NRG,KIWOOM DRX,13,11,mada,5132,raze,0.96,246.0,19.0,22.0,9.0,79.0,164.0,12.0,6.0,4.0,3,True
+542208,233435,2283,Valorant Champions 2025,Group Stage: Winner's (C),2025-09-17,Lotus,3,NRG,KIWOOM DRX,13,11,skuba,11118,viper,0.91,118.0,10.0,14.0,15.0,88.0,74.0,17.0,1.0,0.0,3,True
+542213,233448,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Lotus,1,Team Heretics,T1,13,10,RieNs,10971,fade,1.45,275.0,23.0,14.0,9.0,87.0,171.0,34.0,0.0,0.0,3,True
+542213,233448,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Lotus,1,Team Heretics,T1,13,10,Wo0t,21328,chamber,1.23,277.0,23.0,14.0,3.0,74.0,178.0,28.0,7.0,3.0,3,True
+542213,233448,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Lotus,1,Team Heretics,T1,13,10,Boo,1144,omen,1.0,138.0,12.0,14.0,18.0,87.0,82.0,44.0,1.0,1.0,3,True
+542213,233448,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Lotus,1,Team Heretics,T1,13,10,benjyfishy,29873,deadlock,0.99,192.0,15.0,15.0,6.0,78.0,126.0,31.0,1.0,2.0,3,True
+542213,233448,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Lotus,1,Team Heretics,T1,13,10,MiniBoo,18350,raze,0.94,217.0,17.0,16.0,5.0,78.0,135.0,12.0,4.0,4.0,3,True
+542213,233448,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Lotus,1,T1,Team Heretics,10,13,BuZz,804,neon,1.09,214.0,18.0,17.0,10.0,78.0,139.0,26.0,1.0,3.0,3,True
+542213,233448,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Lotus,1,T1,Team Heretics,10,13,DH,43057,omen,1.08,201.0,16.0,17.0,6.0,65.0,128.0,50.0,1.0,3.0,3,True
+542213,233448,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Lotus,1,T1,Team Heretics,10,13,iZu,29833,yoru,1.07,237.0,19.0,18.0,4.0,61.0,145.0,24.0,3.0,5.0,3,True
+542213,233448,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Lotus,1,T1,Team Heretics,10,13,Meteor,13039,vyse,0.76,156.0,13.0,18.0,3.0,61.0,92.0,38.0,4.0,1.0,3,True
+542213,233448,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Lotus,1,T1,Team Heretics,10,13,stax,485,fade,0.41,107.0,7.0,20.0,9.0,57.0,67.0,35.0,1.0,1.0,3,True
+542213,233449,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Sunset,2,Team Heretics,T1,13,11,RieNs,10971,sova,1.15,238.0,19.0,16.0,5.0,63.0,151.0,41.0,1.0,1.0,3,True
+542213,233449,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Sunset,2,Team Heretics,T1,13,11,Wo0t,21328,raze,1.09,244.0,19.0,19.0,6.0,83.0,175.0,19.0,1.0,1.0,3,True
+542213,233449,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Sunset,2,Team Heretics,T1,13,11,Boo,1144,omen,1.03,160.0,14.0,15.0,13.0,79.0,106.0,18.0,1.0,2.0,3,True
+542213,233449,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Sunset,2,Team Heretics,T1,13,11,MiniBoo,18350,yoru,0.96,196.0,17.0,16.0,1.0,67.0,120.0,31.0,6.0,4.0,3,True
+542213,233449,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Sunset,2,Team Heretics,T1,13,11,benjyfishy,29873,cypher,0.56,119.0,10.0,19.0,7.0,50.0,76.0,38.0,1.0,6.0,3,True
+542213,233449,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Sunset,2,T1,Team Heretics,11,13,Meteor,13039,cypher,1.45,292.0,24.0,17.0,7.0,88.0,190.0,34.0,6.0,1.0,3,True
+542213,233449,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Sunset,2,T1,Team Heretics,11,13,iZu,29833,yoru,1.19,230.0,21.0,16.0,3.0,79.0,124.0,33.0,4.0,1.0,3,True
+542213,233449,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Sunset,2,T1,Team Heretics,11,13,DH,43057,omen,0.96,202.0,16.0,16.0,12.0,67.0,144.0,35.0,2.0,1.0,3,True
+542213,233449,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Sunset,2,T1,Team Heretics,11,13,stax,485,sova,0.86,126.0,10.0,13.0,6.0,71.0,96.0,33.0,0.0,0.0,3,True
+542213,233449,2283,Valorant Champions 2025,Group Stage: Winner's (D),2025-09-18,Sunset,2,T1,Team Heretics,11,13,BuZz,804,neon,0.64,156.0,14.0,17.0,4.0,54.0,100.0,19.0,2.0,7.0,3,True
+542202,233418,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Bind,1,MIBR,FNATIC,13,5,aspas,8480,raze,1.39,267.0,19.0,10.0,4.0,83.0,183.0,15.0,4.0,0.0,3,True
+542202,233418,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Bind,1,MIBR,FNATIC,13,5,cortezia,5395,viper,1.32,228.0,16.0,9.0,2.0,78.0,139.0,34.0,2.0,0.0,3,True
+542202,233418,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Bind,1,MIBR,FNATIC,13,5,Verno,21668,fade,1.15,213.0,13.0,11.0,9.0,89.0,132.0,19.0,1.0,1.0,3,True
+542202,233418,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Bind,1,MIBR,FNATIC,13,5,artzin,5957,yoru,1.14,225.0,15.0,10.0,4.0,83.0,121.0,33.0,3.0,6.0,3,True
+542202,233418,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Bind,1,MIBR,FNATIC,13,5,xenom,20240,brimstone,0.89,182.0,11.0,13.0,12.0,78.0,123.0,20.0,0.0,1.0,3,True
+542202,233418,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Bind,1,FNATIC,MIBR,5,13,Alfajer,9810,tejo,1.0,186.0,12.0,14.0,2.0,67.0,121.0,57.0,2.0,2.0,3,True
+542202,233418,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Bind,1,FNATIC,MIBR,5,13,Chronicle,458,viper,0.96,206.0,11.0,15.0,7.0,78.0,142.0,27.0,3.0,1.0,3,True
+542202,233418,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Bind,1,FNATIC,MIBR,5,13,kaajak,9554,yoru,0.94,173.0,12.0,13.0,1.0,56.0,122.0,28.0,2.0,0.0,3,True
+542202,233418,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Bind,1,FNATIC,MIBR,5,13,crashies,4,fade,0.93,224.0,14.0,16.0,3.0,61.0,137.0,30.0,0.0,2.0,3,True
+542202,233418,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Bind,1,FNATIC,MIBR,5,13,Boaster,438,astra,0.18,80.0,4.0,16.0,2.0,39.0,68.0,35.0,1.0,5.0,3,True
+542202,233419,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Abyss,2,MIBR,FNATIC,7,13,aspas,8480,jett,1.23,297.0,21.0,15.0,1.0,75.0,189.0,28.0,5.0,2.0,3,True
+542202,233419,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Abyss,2,MIBR,FNATIC,7,13,Verno,21668,sova,1.08,236.0,16.0,13.0,5.0,80.0,144.0,25.0,1.0,1.0,3,True
+542202,233419,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Abyss,2,MIBR,FNATIC,7,13,xenom,20240,astra,0.61,89.0,6.0,13.0,9.0,70.0,51.0,11.0,0.0,0.0,3,True
+542202,233419,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Abyss,2,MIBR,FNATIC,7,13,cortezia,5395,cypher,0.55,153.0,11.0,17.0,3.0,60.0,96.0,41.0,1.0,4.0,3,True
+542202,233419,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Abyss,2,MIBR,FNATIC,7,13,artzin,5957,kayo,0.42,125.0,7.0,17.0,8.0,45.0,82.0,25.0,1.0,4.0,3,True
+542202,233419,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Abyss,2,FNATIC,MIBR,13,7,Boaster,438,astra,1.42,185.0,12.0,10.0,13.0,80.0,126.0,16.0,1.0,1.0,3,True
+542202,233419,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Abyss,2,FNATIC,MIBR,13,7,crashies,4,sova,1.26,222.0,13.0,12.0,13.0,80.0,170.0,37.0,3.0,1.0,3,True
+542202,233419,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Abyss,2,FNATIC,MIBR,13,7,Alfajer,9810,cypher,1.25,267.0,20.0,13.0,2.0,80.0,178.0,31.0,2.0,3.0,3,True
+542202,233419,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Abyss,2,FNATIC,MIBR,13,7,kaajak,9554,waylay,1.11,202.0,15.0,14.0,6.0,60.0,131.0,39.0,3.0,2.0,3,True
+542202,233419,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Abyss,2,FNATIC,MIBR,13,7,Chronicle,458,breach,0.71,115.0,9.0,12.0,3.0,70.0,90.0,28.0,2.0,1.0,3,True
+542202,233420,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Haven,3,MIBR,FNATIC,10,13,xenom,20240,omen,1.16,219.0,18.0,15.0,4.0,74.0,130.0,29.0,5.0,2.0,3,True
+542202,233420,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Haven,3,MIBR,FNATIC,10,13,artzin,5957,viper,1.15,228.0,17.0,13.0,6.0,70.0,153.0,24.0,1.0,2.0,3,True
+542202,233420,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Haven,3,MIBR,FNATIC,10,13,aspas,8480,neon,0.74,171.0,14.0,18.0,2.0,70.0,114.0,24.0,4.0,4.0,3,True
+542202,233420,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Haven,3,MIBR,FNATIC,10,13,cortezia,5395,killjoy,0.63,107.0,10.0,14.0,3.0,74.0,85.0,26.0,0.0,2.0,3,True
+542202,233420,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Haven,3,MIBR,FNATIC,10,13,Verno,21668,sova,0.61,122.0,8.0,16.0,7.0,65.0,77.0,38.0,1.0,2.0,3,True
+542202,233420,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Haven,3,FNATIC,MIBR,13,10,kaajak,9554,yoru,1.17,231.0,20.0,14.0,2.0,70.0,135.0,33.0,6.0,2.0,3,True
+542202,233420,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Haven,3,FNATIC,MIBR,13,10,Chronicle,458,viper,1.17,192.0,15.0,13.0,8.0,83.0,137.0,28.0,0.0,1.0,3,True
+542202,233420,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Haven,3,FNATIC,MIBR,13,10,crashies,4,sova,1.06,202.0,16.0,13.0,5.0,74.0,127.0,31.0,2.0,1.0,3,True
+542202,233420,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Haven,3,FNATIC,MIBR,13,10,Alfajer,9810,killjoy,0.91,176.0,15.0,15.0,3.0,70.0,123.0,31.0,3.0,2.0,3,True
+542202,233420,2283,Valorant Champions 2025,Group Stage: Winner's (B),2025-09-18,Haven,3,FNATIC,MIBR,13,10,Boaster,438,omen,0.89,137.0,10.0,12.0,10.0,74.0,94.0,24.0,1.0,5.0,3,True
+542209,233436,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Sunset,1,Team Liquid,EDward Gaming,3,13,trexx,2168,fade,0.86,171.0,10.0,13.0,2.0,63.0,132.0,16.0,0.0,1.0,3,True
+542209,233436,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Sunset,1,Team Liquid,EDward Gaming,3,13,paTiTek,309,omen,0.86,187.0,9.0,14.0,7.0,69.0,124.0,31.0,1.0,1.0,3,True
+542209,233436,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Sunset,1,Team Liquid,EDward Gaming,3,13,keiko,11494,raze,0.62,143.0,8.0,14.0,1.0,56.0,94.0,22.0,3.0,1.0,3,True
+542209,233436,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Sunset,1,Team Liquid,EDward Gaming,3,13,kamo,14681,yoru,0.48,107.0,6.0,14.0,2.0,63.0,66.0,38.0,1.0,6.0,3,True
+542209,233436,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Sunset,1,Team Liquid,EDward Gaming,3,13,nAts,457,cypher,0.48,129.0,6.0,13.0,5.0,69.0,88.0,20.0,1.0,1.0,3,True
+542209,233436,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Sunset,1,EDward Gaming,Team Liquid,13,3,ZmjjKK,3520,neon,1.75,358.0,22.0,9.0,1.0,63.0,210.0,12.0,4.0,4.0,3,True
+542209,233436,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Sunset,1,EDward Gaming,Team Liquid,13,3,nobody,3017,sova,1.6,213.0,15.0,5.0,3.0,81.0,143.0,54.0,1.0,0.0,3,True
+542209,233436,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Sunset,1,EDward Gaming,Team Liquid,13,3,Jieni7,51244,breach,1.28,259.0,14.0,9.0,12.0,81.0,154.0,33.0,1.0,1.0,3,True
+542209,233436,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Sunset,1,EDward Gaming,Team Liquid,13,3,CHICHOO,15559,cypher,1.18,143.0,9.0,5.0,3.0,88.0,101.0,12.0,0.0,0.0,3,True
+542209,233436,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Sunset,1,EDward Gaming,Team Liquid,13,3,Smoggy,4742,omen,0.81,163.0,8.0,11.0,7.0,88.0,102.0,9.0,4.0,1.0,3,True
+542209,233437,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Abyss,2,Team Liquid,EDward Gaming,13,6,nAts,457,cypher,1.94,349.0,27.0,7.0,0.0,89.0,218.0,24.0,1.0,1.0,3,True
+542209,233437,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Abyss,2,Team Liquid,EDward Gaming,13,6,kamo,14681,jett,1.05,262.0,17.0,14.0,3.0,74.0,175.0,38.0,6.0,2.0,3,True
+542209,233437,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Abyss,2,Team Liquid,EDward Gaming,13,6,paTiTek,309,kayo,1.04,183.0,13.0,11.0,13.0,84.0,115.0,19.0,0.0,1.0,3,True
+542209,233437,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Abyss,2,Team Liquid,EDward Gaming,13,6,trexx,2168,sova,0.91,138.0,9.0,9.0,5.0,84.0,98.0,17.0,1.0,1.0,3,True
+542209,233437,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Abyss,2,Team Liquid,EDward Gaming,13,6,keiko,11494,omen,0.9,178.0,11.0,10.0,5.0,79.0,114.0,52.0,4.0,2.0,3,True
+542209,233437,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Abyss,2,EDward Gaming,Team Liquid,6,13,Smoggy,4742,omen,1.03,173.0,12.0,15.0,8.0,68.0,103.0,30.0,1.0,2.0,3,True
+542209,233437,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Abyss,2,EDward Gaming,Team Liquid,6,13,Jieni7,51244,waylay,0.71,185.0,11.0,16.0,1.0,58.0,112.0,23.0,3.0,1.0,3,True
+542209,233437,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Abyss,2,EDward Gaming,Team Liquid,6,13,nobody,3017,sova,0.62,146.0,8.0,15.0,3.0,47.0,102.0,28.0,0.0,3.0,3,True
+542209,233437,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Abyss,2,EDward Gaming,Team Liquid,6,13,CHICHOO,15559,astra,0.59,109.0,7.0,15.0,6.0,47.0,81.0,20.0,0.0,2.0,3,True
+542209,233437,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Abyss,2,EDward Gaming,Team Liquid,6,13,ZmjjKK,3520,yoru,0.53,138.0,10.0,18.0,1.0,47.0,83.0,37.0,3.0,4.0,3,True
+542209,233438,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Bind,3,Team Liquid,EDward Gaming,15,13,nAts,457,viper,1.45,270.0,27.0,17.0,4.0,68.0,162.0,24.0,4.0,2.0,3,True
+542209,233438,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Bind,3,Team Liquid,EDward Gaming,15,13,kamo,14681,yoru,1.21,220.0,22.0,17.0,5.0,64.0,144.0,29.0,4.0,7.0,3,True
+542209,233438,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Bind,3,Team Liquid,EDward Gaming,15,13,paTiTek,309,fade,0.91,168.0,16.0,18.0,9.0,75.0,107.0,24.0,1.0,1.0,3,True
+542209,233438,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Bind,3,Team Liquid,EDward Gaming,15,13,trexx,2168,brimstone,0.9,186.0,17.0,21.0,12.0,71.0,122.0,25.0,3.0,1.0,3,True
+542209,233438,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Bind,3,Team Liquid,EDward Gaming,15,13,keiko,11494,raze,0.69,163.0,14.0,21.0,5.0,64.0,117.0,17.0,1.0,4.0,3,True
+542209,233438,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Bind,3,EDward Gaming,Team Liquid,13,15,Smoggy,4742,brimstone,1.18,249.0,22.0,21.0,12.0,79.0,161.0,18.0,4.0,2.0,3,True
+542209,233438,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Bind,3,EDward Gaming,Team Liquid,13,15,nobody,3017,fade,0.96,145.0,16.0,17.0,3.0,68.0,99.0,18.0,0.0,2.0,3,True
+542209,233438,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Bind,3,EDward Gaming,Team Liquid,13,15,CHICHOO,15559,viper,0.92,183.0,19.0,17.0,5.0,71.0,116.0,21.0,3.0,1.0,3,True
+542209,233438,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Bind,3,EDward Gaming,Team Liquid,13,15,ZmjjKK,3520,yoru,0.86,197.0,19.0,20.0,7.0,57.0,125.0,19.0,6.0,6.0,3,True
+542209,233438,2283,Valorant Champions 2025,Group Stage: Elimination (C),2025-09-19,Bind,3,EDward Gaming,Team Liquid,13,15,Jieni7,51244,tejo,0.85,180.0,18.0,21.0,4.0,61.0,119.0,31.0,2.0,2.0,3,True
+542198,233406,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Abyss,1,Xi Lai Gaming,Sentinels,10,13,Viva,36415,sova,1.0,169.0,13.0,16.0,6.0,70.0,130.0,30.0,2.0,3.0,3,True
+542198,233406,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Abyss,1,Xi Lai Gaming,Sentinels,10,13,coconut,12365,astra,0.97,160.0,13.0,16.0,12.0,65.0,108.0,52.0,1.0,0.0,3,True
+542198,233406,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Abyss,1,Xi Lai Gaming,Sentinels,10,13,happywei,37927,omen,0.96,201.0,16.0,18.0,14.0,83.0,131.0,49.0,1.0,2.0,3,True
+542198,233406,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Abyss,1,Xi Lai Gaming,Sentinels,10,13,Rarga,22047,yoru,0.85,169.0,14.0,17.0,3.0,74.0,97.0,30.0,4.0,4.0,3,True
+542198,233406,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Abyss,1,Xi Lai Gaming,Sentinels,10,13,NoMan,11527,jett,0.76,134.0,10.0,14.0,2.0,70.0,95.0,28.0,2.0,4.0,3,True
+542198,233406,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Abyss,1,Sentinels,Xi Lai Gaming,13,10,N4RRATE,36245,omen,1.26,234.0,19.0,14.0,7.0,87.0,139.0,25.0,2.0,1.0,3,True
+542198,233406,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Abyss,1,Sentinels,Xi Lai Gaming,13,10,Zellsis,729,kayo,1.07,195.0,16.0,14.0,13.0,78.0,121.0,30.0,4.0,2.0,3,True
+542198,233406,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Abyss,1,Sentinels,Xi Lai Gaming,13,10,johnqt,1265,sova,1.02,143.0,13.0,12.0,5.0,83.0,103.0,38.0,1.0,0.0,3,True
+542198,233406,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Abyss,1,Sentinels,Xi Lai Gaming,13,10,bang,3880,astra,0.91,175.0,15.0,13.0,5.0,74.0,117.0,36.0,2.0,1.0,3,True
+542198,233406,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Abyss,1,Sentinels,Xi Lai Gaming,13,10,zekken,4004,jett,0.88,207.0,14.0,17.0,9.0,74.0,143.0,25.0,4.0,6.0,3,True
+542198,233407,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Lotus,2,Xi Lai Gaming,Sentinels,13,11,happywei,37927,cypher,1.49,270.0,23.0,13.0,6.0,88.0,172.0,35.0,4.0,1.0,3,True
+542198,233407,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Lotus,2,Xi Lai Gaming,Sentinels,13,11,Rarga,22047,sage,1.07,210.0,18.0,14.0,6.0,79.0,127.0,47.0,2.0,4.0,3,True
+542198,233407,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Lotus,2,Xi Lai Gaming,Sentinels,13,11,Viva,36415,fade,0.94,158.0,14.0,15.0,10.0,88.0,104.0,38.0,4.0,3.0,3,True
+542198,233407,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Lotus,2,Xi Lai Gaming,Sentinels,13,11,coconut,12365,omen,0.92,189.0,16.0,16.0,14.0,79.0,106.0,26.0,4.0,0.0,3,True
+542198,233407,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Lotus,2,Xi Lai Gaming,Sentinels,13,11,NoMan,11527,deadlock,0.87,185.0,15.0,15.0,7.0,67.0,130.0,42.0,0.0,2.0,3,True
+542198,233407,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Lotus,2,Sentinels,Xi Lai Gaming,11,13,zekken,4004,raze,1.43,290.0,23.0,18.0,8.0,71.0,190.0,24.0,4.0,0.0,3,True
+542198,233407,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Lotus,2,Sentinels,Xi Lai Gaming,11,13,johnqt,1265,viper,0.96,163.0,11.0,15.0,9.0,79.0,114.0,27.0,0.0,1.0,3,True
+542198,233407,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Lotus,2,Sentinels,Xi Lai Gaming,11,13,bang,3880,omen,0.81,118.0,11.0,16.0,9.0,75.0,85.0,50.0,0.0,2.0,3,True
+542198,233407,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Lotus,2,Sentinels,Xi Lai Gaming,11,13,Zellsis,729,vyse,0.77,178.0,15.0,19.0,4.0,67.0,119.0,24.0,4.0,5.0,3,True
+542198,233407,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Lotus,2,Sentinels,Xi Lai Gaming,11,13,N4RRATE,36245,fade,0.74,156.0,13.0,18.0,9.0,67.0,98.0,22.0,2.0,6.0,3,True
+542198,233408,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Haven,3,Xi Lai Gaming,Sentinels,13,8,happywei,37927,viper,1.59,314.0,24.0,11.0,7.0,71.0,207.0,35.0,4.0,0.0,3,True
+542198,233408,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Haven,3,Xi Lai Gaming,Sentinels,13,8,NoMan,11527,killjoy,1.48,294.0,23.0,11.0,1.0,86.0,193.0,32.0,3.0,0.0,3,True
+542198,233408,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Haven,3,Xi Lai Gaming,Sentinels,13,8,Rarga,22047,neon,1.14,237.0,19.0,14.0,2.0,86.0,158.0,47.0,5.0,2.0,3,True
+542198,233408,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Haven,3,Xi Lai Gaming,Sentinels,13,8,coconut,12365,omen,0.98,134.0,8.0,10.0,16.0,76.0,77.0,27.0,2.0,4.0,3,True
+542198,233408,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Haven,3,Xi Lai Gaming,Sentinels,13,8,Viva,36415,sova,0.97,129.0,10.0,10.0,6.0,86.0,86.0,26.0,1.0,0.0,3,True
+542198,233408,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Haven,3,Sentinels,Xi Lai Gaming,8,13,johnqt,1265,viper,1.16,195.0,15.0,13.0,3.0,67.0,132.0,36.0,0.0,1.0,3,True
+542198,233408,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Haven,3,Sentinels,Xi Lai Gaming,8,13,bang,3880,omen,0.74,157.0,12.0,17.0,8.0,57.0,101.0,29.0,1.0,2.0,3,True
+542198,233408,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Haven,3,Sentinels,Xi Lai Gaming,8,13,zekken,4004,neon,0.65,168.0,11.0,19.0,4.0,52.0,128.0,28.0,2.0,7.0,3,True
+542198,233408,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Haven,3,Sentinels,Xi Lai Gaming,8,13,Zellsis,729,killjoy,0.63,125.0,9.0,16.0,1.0,67.0,76.0,21.0,3.0,4.0,3,True
+542198,233408,2283,Valorant Champions 2025,Group Stage: Elimination (A),2025-09-19,Haven,3,Sentinels,Xi Lai Gaming,8,13,N4RRATE,36245,sova,0.58,139.0,9.0,19.0,6.0,52.0,97.0,11.0,0.0,1.0,3,True
+542203,233421,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Sunset,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,13,7,Knight,4774,sova,1.62,253.0,20.0,10.0,4.0,85.0,168.0,36.0,2.0,1.0,3,True
+542203,233421,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Sunset,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,13,7,Levius,40845,cypher,1.45,345.0,26.0,15.0,5.0,70.0,196.0,35.0,6.0,2.0,3,True
+542203,233421,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Sunset,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,13,7,rushia,48878,omen,1.23,134.0,9.0,7.0,9.0,85.0,95.0,21.0,1.0,0.0,3,True
+542203,233421,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Sunset,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,13,7,whzy,4885,neon,0.98,190.0,13.0,14.0,8.0,90.0,128.0,35.0,2.0,3.0,3,True
+542203,233421,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Sunset,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,13,7,nephh,10698,breach,0.91,110.0,7.0,10.0,11.0,75.0,70.0,32.0,1.0,2.0,3,True
+542203,233421,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Sunset,1,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),7,13,Monyet,8497,omen,0.96,178.0,12.0,15.0,9.0,65.0,111.0,31.0,3.0,1.0,3,True
+542203,233421,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Sunset,1,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),7,13,crazyguy,1430,breach,0.91,166.0,12.0,13.0,4.0,55.0,123.0,40.0,2.0,3.0,3,True
+542203,233421,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Sunset,1,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),7,13,Jemkin,24895,waylay,0.76,165.0,12.0,14.0,2.0,65.0,101.0,23.0,1.0,2.0,3,True
+542203,233421,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Sunset,1,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),7,13,xffero,4871,cypher,0.58,147.0,9.0,15.0,9.0,65.0,96.0,18.0,2.0,3.0,3,True
+542203,233421,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Sunset,1,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),7,13,Kushy,4866,fade,0.49,145.0,11.0,18.0,0.0,50.0,95.0,39.0,0.0,3.0,3,True
+542203,233422,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Lotus,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,8,13,nephh,10698,omen,1.27,245.0,18.0,14.0,6.0,71.0,144.0,21.0,3.0,3.0,3,True
+542203,233422,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Lotus,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,8,13,Knight,4774,fade,1.06,174.0,13.0,14.0,10.0,71.0,125.0,35.0,0.0,2.0,3,True
+542203,233422,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Lotus,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,8,13,whzy,4885,raze,0.83,181.0,13.0,17.0,4.0,67.0,117.0,33.0,2.0,2.0,3,True
+542203,233422,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Lotus,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,8,13,Levius,40845,vyse,0.83,177.0,13.0,16.0,4.0,71.0,120.0,27.0,1.0,1.0,3,True
+542203,233422,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Lotus,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,8,13,rushia,48878,viper,0.54,165.0,10.0,19.0,5.0,62.0,104.0,25.0,4.0,3.0,3,True
+542203,233422,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Lotus,2,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,8,Monyet,8497,raze,1.31,284.0,21.0,14.0,5.0,76.0,181.0,21.0,2.0,2.0,3,True
+542203,233422,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Lotus,2,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,8,crazyguy,1430,omen,1.16,203.0,15.0,13.0,11.0,76.0,149.0,26.0,2.0,2.0,3,True
+542203,233422,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Lotus,2,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,8,xffero,4871,viper,1.14,218.0,16.0,13.0,5.0,71.0,127.0,22.0,4.0,3.0,3,True
+542203,233422,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Lotus,2,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,8,Kushy,4866,fade,0.98,176.0,15.0,14.0,3.0,76.0,120.0,37.0,1.0,2.0,3,True
+542203,233422,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Lotus,2,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,8,Jemkin,24895,yoru,0.78,149.0,13.0,13.0,1.0,62.0,93.0,32.0,2.0,1.0,3,True
+542203,233423,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Abyss,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,4,13,nephh,10698,omen,0.85,183.0,10.0,12.0,3.0,47.0,117.0,16.0,0.0,1.0,3,True
+542203,233423,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Abyss,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,4,13,Levius,40845,vyse,0.8,148.0,9.0,11.0,2.0,53.0,104.0,43.0,1.0,2.0,3,True
+542203,233423,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Abyss,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,4,13,Knight,4774,sova,0.67,139.0,8.0,14.0,2.0,47.0,90.0,8.0,1.0,3.0,3,True
+542203,233423,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Abyss,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,4,13,rushia,48878,harbor,0.62,159.0,8.0,16.0,4.0,53.0,123.0,31.0,1.0,2.0,3,True
+542203,233423,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Abyss,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Rex Regum Qeon,4,13,whzy,4885,yoru,0.24,110.0,5.0,16.0,4.0,53.0,78.0,14.0,1.0,5.0,3,True
+542203,233423,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Abyss,3,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,4,Jemkin,24895,jett,2.08,424.0,26.0,10.0,4.0,94.0,277.0,53.0,8.0,0.0,3,True
+542203,233423,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Abyss,3,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,4,xffero,4871,cypher,1.45,203.0,14.0,6.0,3.0,76.0,131.0,36.0,1.0,1.0,3,True
+542203,233423,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Abyss,3,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,4,Monyet,8497,omen,1.35,207.0,13.0,7.0,12.0,82.0,131.0,34.0,1.0,1.0,3,True
+542203,233423,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Abyss,3,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,4,Kushy,4866,kayo,1.24,187.0,9.0,9.0,20.0,88.0,110.0,23.0,3.0,2.0,3,True
+542203,233423,2283,Valorant Champions 2025,Group Stage: Elimination (B),2025-09-20,Abyss,3,Rex Regum Qeon,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,4,crazyguy,1430,sova,1.01,125.0,7.0,8.0,8.0,76.0,87.0,12.0,0.0,0.0,3,True
+542214,233451,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Lotus,1,G2 Esports,Dragon Ranger Gaming,13,7,leaf,7873,viper,1.59,305.0,23.0,12.0,6.0,75.0,193.0,27.0,2.0,1.0,3,True
+542214,233451,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Lotus,1,G2 Esports,Dragon Ranger Gaming,13,7,JonahP,4581,fade,1.13,213.0,15.0,13.0,5.0,80.0,125.0,16.0,1.0,1.0,3,True
+542214,233451,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Lotus,1,G2 Esports,Dragon Ranger Gaming,13,7,jawgemo,3993,yoru,1.1,238.0,16.0,14.0,6.0,75.0,155.0,38.0,6.0,3.0,3,True
+542214,233451,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Lotus,1,G2 Esports,Dragon Ranger Gaming,13,7,valyn,3885,omen,1.06,153.0,11.0,10.0,6.0,85.0,104.0,33.0,0.0,2.0,3,True
+542214,233451,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Lotus,1,G2 Esports,Dragon Ranger Gaming,13,7,trent,15500,tejo,0.74,115.0,7.0,12.0,8.0,75.0,93.0,26.0,0.0,4.0,3,True
+542214,233451,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Lotus,1,Dragon Ranger Gaming,G2 Esports,7,13,Akeman,52904,waylay,1.21,269.0,20.0,15.0,0.0,70.0,159.0,34.0,5.0,0.0,3,True
+542214,233451,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Lotus,1,Dragon Ranger Gaming,G2 Esports,7,13,Flex1n,4705,omen,0.84,188.0,12.0,14.0,10.0,75.0,122.0,36.0,2.0,2.0,3,True
+542214,233451,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Lotus,1,Dragon Ranger Gaming,G2 Esports,7,13,Demon1,26171,vyse,0.78,143.0,11.0,13.0,2.0,80.0,89.0,35.0,1.0,1.0,3,True
+542214,233451,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Lotus,1,Dragon Ranger Gaming,G2 Esports,7,13,SpiritZ1,31753,yoru,0.7,200.0,13.0,17.0,5.0,65.0,128.0,24.0,3.0,2.0,3,True
+542214,233451,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Lotus,1,Dragon Ranger Gaming,G2 Esports,7,13,Nicc,11524,breach,0.49,89.0,5.0,13.0,7.0,60.0,68.0,33.0,0.0,4.0,3,True
+542214,233452,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Abyss,2,G2 Esports,Dragon Ranger Gaming,13,7,jawgemo,3993,yoru,1.55,317.0,23.0,13.0,9.0,80.0,197.0,33.0,3.0,6.0,3,True
+542214,233452,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Abyss,2,G2 Esports,Dragon Ranger Gaming,13,7,trent,15500,tejo,1.43,232.0,19.0,10.0,7.0,75.0,164.0,30.0,1.0,1.0,3,True
+542214,233452,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Abyss,2,G2 Esports,Dragon Ranger Gaming,13,7,JonahP,4581,sova,1.15,187.0,14.0,13.0,10.0,75.0,136.0,32.0,3.0,2.0,3,True
+542214,233452,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Abyss,2,G2 Esports,Dragon Ranger Gaming,13,7,leaf,7873,deadlock,0.8,153.0,12.0,15.0,3.0,75.0,114.0,14.0,1.0,1.0,3,True
+542214,233452,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Abyss,2,G2 Esports,Dragon Ranger Gaming,13,7,valyn,3885,astra,0.75,165.0,11.0,15.0,7.0,70.0,107.0,26.0,1.0,1.0,3,True
+542214,233452,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Abyss,2,Dragon Ranger Gaming,G2 Esports,7,13,Demon1,26171,cypher,1.19,205.0,14.0,13.0,7.0,80.0,141.0,53.0,1.0,1.0,3,True
+542214,233452,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Abyss,2,Dragon Ranger Gaming,G2 Esports,7,13,Flex1n,4705,omen,1.12,233.0,17.0,15.0,6.0,85.0,148.0,31.0,3.0,0.0,3,True
+542214,233452,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Abyss,2,Dragon Ranger Gaming,G2 Esports,7,13,SpiritZ1,31753,yoru,0.78,199.0,14.0,17.0,3.0,70.0,116.0,30.0,5.0,5.0,3,True
+542214,233452,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Abyss,2,Dragon Ranger Gaming,G2 Esports,7,13,Akeman,52904,waylay,0.72,154.0,11.0,16.0,3.0,60.0,109.0,26.0,2.0,2.0,3,True
+542214,233452,2283,Valorant Champions 2025,Group Stage: Elimination (D),2025-09-20,Abyss,2,Dragon Ranger Gaming,G2 Esports,7,13,Nicc,11524,sova,0.58,151.0,10.0,18.0,5.0,75.0,115.0,33.0,0.0,1.0,3,True
+542210,233439,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Corrode,1,KIWOOM DRX,Team Liquid,13,8,MaKo,4462,omen,1.33,259.0,20.0,12.0,6.0,76.0,177.0,34.0,2.0,0.0,3,True
+542210,233439,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Corrode,1,KIWOOM DRX,Team Liquid,13,8,Flashback,35013,yoru,1.26,282.0,22.0,14.0,2.0,71.0,188.0,38.0,6.0,3.0,3,True
+542210,233439,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Corrode,1,KIWOOM DRX,Team Liquid,13,8,HYUNMIN,28400,waylay,0.86,183.0,13.0,14.0,5.0,81.0,116.0,39.0,2.0,1.0,3,True
+542210,233439,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Corrode,1,KIWOOM DRX,Team Liquid,13,8,BeYN,4678,fade,0.85,134.0,10.0,11.0,4.0,76.0,88.0,23.0,3.0,1.0,3,True
+542210,233439,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Corrode,1,KIWOOM DRX,Team Liquid,13,8,free1ng,1916,vyse,0.82,110.0,9.0,11.0,3.0,76.0,84.0,55.0,1.0,2.0,3,True
+542210,233439,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Corrode,1,Team Liquid,KIWOOM DRX,8,13,keiko,11494,omen,1.27,234.0,18.0,16.0,5.0,76.0,156.0,38.0,0.0,2.0,3,True
+542210,233439,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Corrode,1,Team Liquid,KIWOOM DRX,8,13,trexx,2168,vyse,1.05,164.0,10.0,13.0,8.0,57.0,114.0,24.0,0.0,1.0,3,True
+542210,233439,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Corrode,1,Team Liquid,KIWOOM DRX,8,13,kamo,14681,neon,0.88,135.0,9.0,12.0,4.0,71.0,99.0,33.0,2.0,6.0,3,True
+542210,233439,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Corrode,1,Team Liquid,KIWOOM DRX,8,13,nAts,457,waylay,0.77,195.0,14.0,17.0,3.0,62.0,126.0,17.0,4.0,5.0,3,True
+542210,233439,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Corrode,1,Team Liquid,KIWOOM DRX,8,13,paTiTek,309,fade,0.76,161.0,11.0,16.0,6.0,67.0,100.0,26.0,1.0,0.0,3,True
+542210,233440,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Abyss,2,KIWOOM DRX,Team Liquid,13,7,HYUNMIN,28400,waylay,1.47,324.0,24.0,14.0,5.0,65.0,222.0,45.0,5.0,4.0,3,True
+542210,233440,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Abyss,2,KIWOOM DRX,Team Liquid,13,7,Flashback,35013,yoru,1.35,257.0,18.0,12.0,3.0,70.0,171.0,29.0,3.0,2.0,3,True
+542210,233440,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Abyss,2,KIWOOM DRX,Team Liquid,13,7,MaKo,4462,omen,1.05,166.0,11.0,11.0,8.0,75.0,97.0,25.0,2.0,2.0,3,True
+542210,233440,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Abyss,2,KIWOOM DRX,Team Liquid,13,7,free1ng,1916,cypher,0.93,169.0,13.0,13.0,3.0,70.0,110.0,47.0,0.0,0.0,3,True
+542210,233440,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Abyss,2,KIWOOM DRX,Team Liquid,13,7,BeYN,4678,sova,0.86,127.0,10.0,11.0,2.0,75.0,82.0,32.0,1.0,1.0,3,True
+542210,233440,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Abyss,2,Team Liquid,KIWOOM DRX,7,13,keiko,11494,omen,1.21,255.0,18.0,15.0,6.0,80.0,160.0,30.0,5.0,2.0,3,True
+542210,233440,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Abyss,2,Team Liquid,KIWOOM DRX,7,13,kamo,14681,jett,1.08,208.0,16.0,14.0,1.0,55.0,141.0,45.0,1.0,4.0,3,True
+542210,233440,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Abyss,2,Team Liquid,KIWOOM DRX,7,13,trexx,2168,sova,0.89,176.0,12.0,15.0,0.0,65.0,116.0,26.0,0.0,1.0,3,True
+542210,233440,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Abyss,2,Team Liquid,KIWOOM DRX,7,13,nAts,457,cypher,0.65,179.0,11.0,17.0,7.0,60.0,122.0,31.0,3.0,4.0,3,True
+542210,233440,2283,Valorant Champions 2025,Group Stage: Decider (C),2025-09-21,Abyss,2,Team Liquid,KIWOOM DRX,7,13,paTiTek,309,kayo,0.33,72.0,4.0,15.0,5.0,60.0,52.0,50.0,0.0,0.0,3,True
+542199,233409,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Bind,1,GIANTX,Xi Lai Gaming,14,12,ara,11332,raze,1.46,297.0,27.0,19.0,3.0,62.0,184.0,33.0,7.0,1.0,3,True
+542199,233409,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Bind,1,GIANTX,Xi Lai Gaming,14,12,westside,34684,deadlock,0.98,196.0,18.0,20.0,7.0,69.0,124.0,33.0,3.0,1.0,3,True
+542199,233409,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Bind,1,GIANTX,Xi Lai Gaming,14,12,grubinho,5550,astra,0.98,179.0,16.0,19.0,10.0,69.0,124.0,36.0,4.0,4.0,3,True
+542199,233409,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Bind,1,GIANTX,Xi Lai Gaming,14,12,Cloud,4181,gekko,0.83,184.0,16.0,21.0,6.0,62.0,133.0,44.0,0.0,2.0,3,True
+542199,233409,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Bind,1,GIANTX,Xi Lai Gaming,14,12,Flickless,6959,viper,0.57,109.0,9.0,19.0,9.0,62.0,78.0,21.0,1.0,3.0,3,True
+542199,233409,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Bind,1,Xi Lai Gaming,GIANTX,12,14,Viva,36415,brimstone,1.38,247.0,23.0,15.0,9.0,81.0,180.0,38.0,1.0,2.0,3,True
+542199,233409,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Bind,1,Xi Lai Gaming,GIANTX,12,14,happywei,37927,viper,1.09,266.0,24.0,19.0,4.0,73.0,169.0,44.0,2.0,4.0,3,True
+542199,233409,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Bind,1,Xi Lai Gaming,GIANTX,12,14,NoMan,11527,skye,1.02,177.0,19.0,14.0,6.0,73.0,114.0,23.0,1.0,5.0,3,True
+542199,233409,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Bind,1,Xi Lai Gaming,GIANTX,12,14,Rarga,22047,waylay,0.94,232.0,21.0,20.0,8.0,73.0,137.0,28.0,7.0,3.0,3,True
+542199,233409,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Bind,1,Xi Lai Gaming,GIANTX,12,14,coconut,12365,gekko,0.72,133.0,11.0,18.0,8.0,73.0,88.0,19.0,0.0,1.0,3,True
+542199,233410,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Ascent,2,GIANTX,Xi Lai Gaming,13,10,ara,11332,jett,1.62,311.0,27.0,12.0,1.0,74.0,190.0,19.0,6.0,5.0,3,True
+542199,233410,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Ascent,2,GIANTX,Xi Lai Gaming,13,10,Flickless,6959,kayo,1.34,223.0,16.0,11.0,18.0,83.0,142.0,27.0,1.0,1.0,3,True
+542199,233410,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Ascent,2,GIANTX,Xi Lai Gaming,13,10,Cloud,4181,sova,1.14,225.0,17.0,15.0,9.0,78.0,156.0,28.0,0.0,2.0,3,True
+542199,233410,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Ascent,2,GIANTX,Xi Lai Gaming,13,10,westside,34684,cypher,0.99,150.0,14.0,14.0,3.0,78.0,92.0,50.0,2.0,3.0,3,True
+542199,233410,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Ascent,2,GIANTX,Xi Lai Gaming,13,10,grubinho,5550,omen,0.61,130.0,9.0,17.0,16.0,65.0,78.0,48.0,2.0,1.0,3,True
+542199,233410,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Ascent,2,Xi Lai Gaming,GIANTX,10,13,NoMan,11527,kayo,1.34,254.0,21.0,16.0,9.0,78.0,149.0,34.0,4.0,1.0,3,True
+542199,233410,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Ascent,2,Xi Lai Gaming,GIANTX,10,13,Viva,36415,sova,1.2,179.0,14.0,12.0,4.0,70.0,128.0,30.0,2.0,0.0,3,True
+542199,233410,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Ascent,2,Xi Lai Gaming,GIANTX,10,13,Rarga,22047,jett,0.8,227.0,16.0,20.0,5.0,65.0,141.0,36.0,4.0,0.0,3,True
+542199,233410,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Ascent,2,Xi Lai Gaming,GIANTX,10,13,happywei,37927,cypher,0.6,134.0,10.0,18.0,6.0,61.0,92.0,46.0,1.0,8.0,3,True
+542199,233410,2283,Valorant Champions 2025,Group Stage: Decider (A),2025-09-21,Ascent,2,Xi Lai Gaming,GIANTX,10,13,coconut,12365,omen,0.49,101.0,8.0,17.0,7.0,70.0,67.0,21.0,1.0,2.0,3,True
+542215,233454,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Lotus,1,T1,G2 Esports,9,13,iZu,29833,yoru,1.42,248.0,21.0,12.0,1.0,86.0,160.0,23.0,2.0,0.0,3,True
+542215,233454,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Lotus,1,T1,G2 Esports,9,13,Meteor,13039,vyse,1.03,227.0,16.0,18.0,6.0,68.0,148.0,29.0,7.0,1.0,3,True
+542215,233454,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Lotus,1,T1,G2 Esports,9,13,stax,485,fade,0.64,136.0,12.0,16.0,6.0,64.0,86.0,23.0,0.0,4.0,3,True
+542215,233454,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Lotus,1,T1,G2 Esports,9,13,BuZz,804,neon,0.63,195.0,15.0,18.0,2.0,68.0,126.0,46.0,1.0,2.0,3,True
+542215,233454,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Lotus,1,T1,G2 Esports,9,13,DH,43057,omen,0.56,121.0,8.0,16.0,8.0,59.0,79.0,32.0,1.0,4.0,3,True
+542215,233454,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Lotus,1,G2 Esports,T1,13,9,valyn,3885,omen,1.44,284.0,21.0,15.0,10.0,86.0,183.0,32.0,4.0,2.0,3,True
+542215,233454,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Lotus,1,G2 Esports,T1,13,9,leaf,7873,viper,1.21,202.0,16.0,12.0,6.0,77.0,147.0,20.0,1.0,2.0,3,True
+542215,233454,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Lotus,1,G2 Esports,T1,13,9,jawgemo,3993,yoru,1.2,278.0,23.0,17.0,1.0,68.0,163.0,34.0,4.0,2.0,3,True
+542215,233454,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Lotus,1,G2 Esports,T1,13,9,trent,15500,tejo,0.96,156.0,12.0,13.0,8.0,82.0,109.0,25.0,1.0,3.0,3,True
+542215,233454,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Lotus,1,G2 Esports,T1,13,9,JonahP,4581,fade,0.81,131.0,8.0,15.0,13.0,77.0,87.0,18.0,1.0,2.0,3,True
+542215,233455,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Corrode,2,T1,G2 Esports,8,13,stax,485,fade,0.91,168.0,12.0,16.0,3.0,57.0,123.0,48.0,0.0,0.0,3,True
+542215,233455,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Corrode,2,T1,G2 Esports,8,13,DH,43057,omen,0.81,149.0,11.0,15.0,8.0,67.0,98.0,36.0,0.0,4.0,3,True
+542215,233455,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Corrode,2,T1,G2 Esports,8,13,iZu,29833,waylay,0.74,188.0,14.0,17.0,1.0,52.0,109.0,26.0,1.0,4.0,3,True
+542215,233455,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Corrode,2,T1,G2 Esports,8,13,Meteor,13039,vyse,0.71,191.0,12.0,18.0,1.0,52.0,135.0,38.0,4.0,3.0,3,True
+542215,233455,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Corrode,2,T1,G2 Esports,8,13,BuZz,804,neon,0.53,116.0,8.0,17.0,7.0,67.0,76.0,23.0,1.0,4.0,3,True
+542215,233455,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Corrode,2,G2 Esports,T1,13,8,trent,15500,tejo,1.47,231.0,18.0,11.0,6.0,81.0,145.0,36.0,1.0,1.0,3,True
+542215,233455,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Corrode,2,G2 Esports,T1,13,8,jawgemo,3993,yoru,1.35,241.0,19.0,12.0,6.0,76.0,140.0,27.0,7.0,2.0,3,True
+542215,233455,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Corrode,2,G2 Esports,T1,13,8,leaf,7873,viper,1.2,243.0,19.0,12.0,5.0,71.0,163.0,19.0,2.0,0.0,3,True
+542215,233455,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Corrode,2,G2 Esports,T1,13,8,valyn,3885,omen,1.11,208.0,14.0,12.0,8.0,90.0,139.0,24.0,4.0,2.0,3,True
+542215,233455,2283,Valorant Champions 2025,Group Stage: Decider (D),2025-09-22,Corrode,2,G2 Esports,T1,13,8,JonahP,4581,fade,1.08,161.0,13.0,10.0,10.0,76.0,87.0,14.0,1.0,1.0,3,True
+542204,233424,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Corrode,1,MIBR,Rex Regum Qeon,13,5,artzin,5957,kayo,1.78,345.0,21.0,9.0,9.0,78.0,213.0,23.0,4.0,1.0,3,True
+542204,233424,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Corrode,1,MIBR,Rex Regum Qeon,13,5,aspas,8480,waylay,1.51,262.0,19.0,8.0,2.0,94.0,165.0,32.0,4.0,0.0,3,True
+542204,233424,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Corrode,1,MIBR,Rex Regum Qeon,13,5,cortezia,5395,viper,1.34,203.0,13.0,8.0,10.0,78.0,129.0,44.0,1.0,1.0,3,True
+542204,233424,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Corrode,1,MIBR,Rex Regum Qeon,13,5,Verno,21668,sova,0.98,147.0,9.0,9.0,6.0,78.0,95.0,26.0,2.0,1.0,3,True
+542204,233424,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Corrode,1,MIBR,Rex Regum Qeon,13,5,xenom,20240,omen,0.85,135.0,8.0,8.0,8.0,89.0,85.0,44.0,2.0,2.0,3,True
+542204,233424,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Corrode,1,Rex Regum Qeon,MIBR,5,13,Monyet,8497,neon,0.94,197.0,12.0,14.0,7.0,67.0,118.0,26.0,1.0,4.0,3,True
+542204,233424,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Corrode,1,Rex Regum Qeon,MIBR,5,13,Kushy,4866,fade,0.82,158.0,10.0,13.0,3.0,61.0,103.0,48.0,0.0,3.0,3,True
+542204,233424,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Corrode,1,Rex Regum Qeon,MIBR,5,13,crazyguy,1430,omen,0.59,114.0,6.0,15.0,5.0,61.0,81.0,42.0,1.0,1.0,3,True
+542204,233424,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Corrode,1,Rex Regum Qeon,MIBR,5,13,Jemkin,24895,waylay,0.53,106.0,6.0,14.0,2.0,50.0,72.0,32.0,1.0,3.0,3,True
+542204,233424,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Corrode,1,Rex Regum Qeon,MIBR,5,13,xffero,4871,viper,0.52,119.0,8.0,14.0,1.0,61.0,88.0,20.0,2.0,2.0,3,True
+542204,233425,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Abyss,2,MIBR,Rex Regum Qeon,13,5,xenom,20240,astra,1.44,193.0,15.0,8.0,5.0,83.0,124.0,46.0,0.0,0.0,3,True
+542204,233425,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Abyss,2,MIBR,Rex Regum Qeon,13,5,aspas,8480,jett,1.43,247.0,17.0,6.0,2.0,83.0,161.0,24.0,3.0,1.0,3,True
+542204,233425,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Abyss,2,MIBR,Rex Regum Qeon,13,5,Verno,21668,sova,1.19,208.0,13.0,10.0,5.0,78.0,155.0,20.0,2.0,0.0,3,True
+542204,233425,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Abyss,2,MIBR,Rex Regum Qeon,13,5,cortezia,5395,cypher,1.15,219.0,14.0,11.0,5.0,83.0,133.0,34.0,2.0,2.0,3,True
+542204,233425,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Abyss,2,MIBR,Rex Regum Qeon,13,5,artzin,5957,kayo,0.78,167.0,9.0,13.0,12.0,67.0,99.0,22.0,4.0,4.0,3,True
+542204,233425,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Abyss,2,Rex Regum Qeon,MIBR,5,13,Jemkin,24895,jett,1.15,252.0,15.0,13.0,2.0,44.0,163.0,48.0,3.0,4.0,3,True
+542204,233425,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Abyss,2,Rex Regum Qeon,MIBR,5,13,xffero,4871,cypher,1.08,228.0,15.0,14.0,2.0,72.0,156.0,38.0,4.0,2.0,3,True
+542204,233425,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Abyss,2,Rex Regum Qeon,MIBR,5,13,Monyet,8497,omen,0.72,123.0,8.0,14.0,7.0,61.0,92.0,36.0,0.0,1.0,3,True
+542204,233425,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Abyss,2,Rex Regum Qeon,MIBR,5,13,crazyguy,1430,sova,0.65,148.0,6.0,14.0,8.0,61.0,108.0,11.0,0.0,2.0,3,True
+542204,233425,2283,Valorant Champions 2025,Group Stage: Decider (B),2025-09-22,Abyss,2,Rex Regum Qeon,MIBR,5,13,Kushy,4866,kayo,0.33,78.0,4.0,16.0,5.0,50.0,48.0,31.0,0.0,2.0,3,True
+542265,233460,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,1,Paper Rex,G2 Esports,13,11,something,17086,yoru,1.21,218.0,20.0,15.0,3.0,67.0,136.0,21.0,3.0,5.0,3,True
+542265,233460,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,1,Paper Rex,G2 Esports,13,11,Jinggg,7378,raze,1.2,247.0,20.0,17.0,6.0,71.0,158.0,18.0,4.0,3.0,3,True
+542265,233460,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,1,Paper Rex,G2 Esports,13,11,d4v41,9803,vyse,1.01,192.0,15.0,15.0,8.0,75.0,137.0,36.0,1.0,1.0,3,True
+542265,233460,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,1,Paper Rex,G2 Esports,13,11,f0rsakeN,9801,omen,0.85,178.0,14.0,18.0,12.0,71.0,114.0,32.0,1.0,5.0,3,True
+542265,233460,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,1,Paper Rex,G2 Esports,13,11,PatMen,13744,fade,0.8,176.0,16.0,17.0,3.0,54.0,111.0,31.0,0.0,1.0,3,True
+542265,233460,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,1,G2 Esports,Paper Rex,11,13,jawgemo,3993,yoru,1.37,296.0,25.0,17.0,2.0,75.0,183.0,20.0,8.0,2.0,3,True
+542265,233460,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,1,G2 Esports,Paper Rex,11,13,JonahP,4581,fade,1.08,215.0,17.0,17.0,5.0,71.0,130.0,26.0,1.0,2.0,3,True
+542265,233460,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,1,G2 Esports,Paper Rex,11,13,leaf,7873,viper,1.05,231.0,19.0,18.0,8.0,75.0,150.0,12.0,4.0,1.0,3,True
+542265,233460,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,1,G2 Esports,Paper Rex,11,13,valyn,3885,omen,0.85,169.0,14.0,17.0,3.0,71.0,121.0,27.0,2.0,1.0,3,True
+542265,233460,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,1,G2 Esports,Paper Rex,11,13,trent,15500,tejo,0.46,72.0,7.0,16.0,2.0,63.0,56.0,33.0,0.0,3.0,3,True
+542265,233461,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Corrode,2,Paper Rex,G2 Esports,13,15,something,17086,yoru,1.35,285.0,28.0,19.0,5.0,82.0,175.0,37.0,6.0,3.0,3,True
+542265,233461,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Corrode,2,Paper Rex,G2 Esports,13,15,PatMen,13744,fade,1.1,209.0,21.0,17.0,6.0,71.0,132.0,33.0,0.0,0.0,3,True
+542265,233461,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Corrode,2,Paper Rex,G2 Esports,13,15,Jinggg,7378,raze,0.93,207.0,18.0,19.0,4.0,82.0,137.0,9.0,3.0,4.0,3,True
+542265,233461,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Corrode,2,Paper Rex,G2 Esports,13,15,f0rsakeN,9801,omen,0.89,186.0,20.0,22.0,11.0,71.0,126.0,24.0,0.0,6.0,3,True
+542265,233461,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Corrode,2,Paper Rex,G2 Esports,13,15,d4v41,9803,vyse,0.72,148.0,13.0,20.0,8.0,54.0,99.0,34.0,2.0,4.0,3,True
+542265,233461,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Corrode,2,G2 Esports,Paper Rex,15,13,JonahP,4581,fade,1.23,280.0,26.0,22.0,9.0,79.0,164.0,24.0,9.0,3.0,3,True
+542265,233461,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Corrode,2,G2 Esports,Paper Rex,15,13,leaf,7873,viper,1.15,225.0,22.0,19.0,5.0,71.0,157.0,32.0,5.0,0.0,3,True
+542265,233461,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Corrode,2,G2 Esports,Paper Rex,15,13,trent,15500,tejo,1.08,227.0,21.0,20.0,8.0,68.0,146.0,28.0,1.0,1.0,3,True
+542265,233461,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Corrode,2,G2 Esports,Paper Rex,15,13,jawgemo,3993,yoru,0.8,143.0,14.0,20.0,3.0,61.0,96.0,32.0,2.0,3.0,3,True
+542265,233461,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Corrode,2,G2 Esports,Paper Rex,15,13,valyn,3885,omen,0.75,140.0,14.0,19.0,11.0,75.0,97.0,16.0,0.0,4.0,3,True
+542265,233462,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,3,Paper Rex,G2 Esports,13,11,f0rsakeN,9801,omen,1.73,310.0,28.0,14.0,7.0,75.0,199.0,35.0,5.0,1.0,3,True
+542265,233462,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,3,Paper Rex,G2 Esports,13,11,something,17086,yoru,1.31,233.0,20.0,14.0,6.0,79.0,152.0,34.0,4.0,5.0,3,True
+542265,233462,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,3,Paper Rex,G2 Esports,13,11,Jinggg,7378,sage,0.81,193.0,16.0,18.0,9.0,71.0,119.0,26.0,2.0,1.0,3,True
+542265,233462,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,3,Paper Rex,G2 Esports,13,11,d4v41,9803,vyse,0.8,208.0,16.0,19.0,7.0,79.0,151.0,26.0,0.0,3.0,3,True
+542265,233462,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,3,Paper Rex,G2 Esports,13,11,PatMen,13744,sova,0.54,105.0,9.0,17.0,3.0,63.0,78.0,13.0,0.0,3.0,3,True
+542265,233462,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,3,G2 Esports,Paper Rex,11,13,leaf,7873,chamber,1.61,362.0,30.0,19.0,3.0,79.0,238.0,24.0,8.0,4.0,3,True
+542265,233462,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,3,G2 Esports,Paper Rex,11,13,trent,15500,sova,0.97,156.0,13.0,15.0,6.0,71.0,106.0,15.0,1.0,1.0,3,True
+542265,233462,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,3,G2 Esports,Paper Rex,11,13,valyn,3885,omen,0.82,142.0,11.0,16.0,11.0,63.0,97.0,22.0,0.0,1.0,3,True
+542265,233462,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,3,G2 Esports,Paper Rex,11,13,JonahP,4581,vyse,0.76,184.0,14.0,20.0,6.0,63.0,116.0,20.0,1.0,3.0,3,True
+542265,233462,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,3,G2 Esports,Paper Rex,11,13,jawgemo,3993,yoru,0.75,176.0,14.0,19.0,3.0,67.0,122.0,26.0,3.0,2.0,3,True
+542264,233457,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Haven,1,FNATIC,KIWOOM DRX,13,11,kaajak,9554,yoru,1.5,264.0,22.0,12.0,5.0,75.0,184.0,31.0,3.0,2.0,3,True
+542264,233457,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Haven,1,FNATIC,KIWOOM DRX,13,11,Alfajer,9810,killjoy,1.48,283.0,25.0,12.0,2.0,75.0,206.0,37.0,4.0,3.0,3,True
+542264,233457,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Haven,1,FNATIC,KIWOOM DRX,13,11,crashies,4,sova,1.04,185.0,16.0,14.0,5.0,67.0,126.0,23.0,1.0,0.0,3,True
+542264,233457,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Haven,1,FNATIC,KIWOOM DRX,13,11,Boaster,438,omen,0.67,125.0,10.0,17.0,6.0,71.0,71.0,29.0,2.0,2.0,3,True
+542264,233457,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Haven,1,FNATIC,KIWOOM DRX,13,11,Chronicle,458,viper,0.62,123.0,9.0,17.0,7.0,67.0,94.0,19.0,2.0,5.0,3,True
+542264,233457,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Haven,1,KIWOOM DRX,FNATIC,11,13,BeYN,4678,sova,1.18,182.0,15.0,13.0,7.0,75.0,128.0,19.0,1.0,0.0,3,True
+542264,233457,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Haven,1,KIWOOM DRX,FNATIC,11,13,MaKo,4462,omen,1.03,196.0,15.0,14.0,6.0,67.0,128.0,22.0,1.0,4.0,3,True
+542264,233457,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Haven,1,KIWOOM DRX,FNATIC,11,13,HYUNMIN,28400,waylay,0.87,179.0,14.0,17.0,8.0,71.0,124.0,36.0,2.0,2.0,3,True
+542264,233457,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Haven,1,KIWOOM DRX,FNATIC,11,13,Flashback,35013,neon,0.79,196.0,16.0,19.0,1.0,71.0,121.0,22.0,8.0,3.0,3,True
+542264,233457,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Haven,1,KIWOOM DRX,FNATIC,11,13,free1ng,1916,cypher,0.61,135.0,12.0,19.0,3.0,54.0,90.0,38.0,0.0,3.0,3,True
+542264,233458,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,2,FNATIC,KIWOOM DRX,8,13,Chronicle,458,vyse,1.29,252.0,17.0,14.0,8.0,67.0,162.0,28.0,3.0,2.0,3,True
+542264,233458,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,2,FNATIC,KIWOOM DRX,8,13,Alfajer,9810,sage,1.19,226.0,19.0,14.0,4.0,67.0,142.0,41.0,2.0,4.0,3,True
+542264,233458,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,2,FNATIC,KIWOOM DRX,8,13,kaajak,9554,yoru,1.1,215.0,16.0,14.0,5.0,71.0,144.0,32.0,4.0,3.0,3,True
+542264,233458,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,2,FNATIC,KIWOOM DRX,8,13,Boaster,438,omen,0.73,145.0,8.0,15.0,11.0,62.0,83.0,18.0,1.0,1.0,3,True
+542264,233458,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,2,FNATIC,KIWOOM DRX,8,13,crashies,4,sova,0.65,105.0,8.0,14.0,4.0,62.0,80.0,17.0,0.0,1.0,3,True
+542264,233458,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,2,KIWOOM DRX,FNATIC,13,8,MaKo,4462,omen,1.24,212.0,16.0,11.0,9.0,71.0,129.0,20.0,3.0,3.0,3,True
+542264,233458,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,2,KIWOOM DRX,FNATIC,13,8,Flashback,35013,yoru,1.19,248.0,18.0,14.0,4.0,76.0,166.0,24.0,4.0,1.0,3,True
+542264,233458,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,2,KIWOOM DRX,FNATIC,13,8,BeYN,4678,sova,1.03,173.0,11.0,12.0,7.0,71.0,134.0,24.0,1.0,0.0,3,True
+542264,233458,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,2,KIWOOM DRX,FNATIC,13,8,HYUNMIN,28400,waylay,0.94,223.0,16.0,15.0,3.0,86.0,143.0,37.0,2.0,5.0,3,True
+542264,233458,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Ascent,2,KIWOOM DRX,FNATIC,13,8,free1ng,1916,vyse,0.7,134.0,10.0,16.0,2.0,57.0,88.0,28.0,1.0,1.0,3,True
+542264,233459,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,3,FNATIC,KIWOOM DRX,13,5,Alfajer,9810,killjoy,1.76,326.0,20.0,10.0,9.0,89.0,223.0,37.0,3.0,1.0,3,True
+542264,233459,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,3,FNATIC,KIWOOM DRX,13,5,kaajak,9554,raze,1.39,203.0,14.0,7.0,5.0,78.0,129.0,27.0,2.0,2.0,3,True
+542264,233459,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,3,FNATIC,KIWOOM DRX,13,5,crashies,4,fade,1.06,183.0,13.0,11.0,4.0,72.0,109.0,42.0,2.0,1.0,3,True
+542264,233459,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,3,FNATIC,KIWOOM DRX,13,5,Boaster,438,omen,0.99,144.0,9.0,10.0,9.0,83.0,86.0,9.0,2.0,4.0,3,True
+542264,233459,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,3,FNATIC,KIWOOM DRX,13,5,Chronicle,458,viper,0.85,156.0,10.0,13.0,8.0,78.0,125.0,24.0,1.0,0.0,3,True
+542264,233459,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,3,KIWOOM DRX,FNATIC,5,13,HYUNMIN,28400,waylay,0.99,187.0,13.0,12.0,0.0,72.0,115.0,39.0,1.0,1.0,3,True
+542264,233459,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,3,KIWOOM DRX,FNATIC,5,13,Flashback,35013,yoru,0.93,240.0,15.0,14.0,4.0,61.0,152.0,17.0,2.0,3.0,3,True
+542264,233459,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,3,KIWOOM DRX,FNATIC,5,13,free1ng,1916,vyse,0.77,134.0,8.0,12.0,4.0,61.0,98.0,43.0,1.0,1.0,3,True
+542264,233459,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,3,KIWOOM DRX,FNATIC,5,13,BeYN,4678,fade,0.71,140.0,9.0,13.0,2.0,61.0,86.0,25.0,2.0,3.0,3,True
+542264,233459,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-25,Lotus,3,KIWOOM DRX,FNATIC,5,13,MaKo,4462,omen,0.49,116.0,6.0,15.0,2.0,72.0,77.0,29.0,2.0,2.0,3,True
+542266,233463,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Corrode,1,Team Heretics,MIBR,12,14,RieNs,10971,fade,1.21,219.0,18.0,16.0,10.0,81.0,147.0,23.0,2.0,1.0,3,True
+542266,233463,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Corrode,1,Team Heretics,MIBR,12,14,MiniBoo,18350,yoru,0.96,197.0,18.0,19.0,2.0,58.0,139.0,36.0,5.0,3.0,3,True
+542266,233463,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Corrode,1,Team Heretics,MIBR,12,14,Wo0t,21328,viper,0.82,196.0,16.0,22.0,3.0,65.0,136.0,32.0,4.0,4.0,3,True
+542266,233463,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Corrode,1,Team Heretics,MIBR,12,14,Boo,1144,astra,0.68,129.0,11.0,18.0,4.0,69.0,89.0,44.0,3.0,3.0,3,True
+542266,233463,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Corrode,1,Team Heretics,MIBR,12,14,benjyfishy,29873,vyse,0.65,127.0,11.0,19.0,9.0,65.0,94.0,26.0,1.0,0.0,3,True
+542266,233463,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Corrode,1,MIBR,Team Heretics,14,12,artzin,5957,kayo,1.61,280.0,24.0,12.0,15.0,77.0,185.0,23.0,4.0,3.0,3,True
+542266,233463,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Corrode,1,MIBR,Team Heretics,14,12,xenom,20240,omen,1.03,188.0,17.0,16.0,13.0,81.0,121.0,30.0,0.0,4.0,3,True
+542266,233463,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Corrode,1,MIBR,Team Heretics,14,12,aspas,8480,waylay,0.99,192.0,19.0,15.0,4.0,85.0,116.0,28.0,4.0,4.0,3,True
+542266,233463,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Corrode,1,MIBR,Team Heretics,14,12,Verno,21668,sova,0.94,214.0,19.0,17.0,12.0,73.0,148.0,28.0,1.0,1.0,3,True
+542266,233463,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Corrode,1,MIBR,Team Heretics,14,12,cortezia,5395,viper,0.8,135.0,15.0,14.0,3.0,77.0,87.0,20.0,2.0,3.0,3,True
+542266,233464,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Sunset,2,Team Heretics,MIBR,6,13,RieNs,10971,sova,1.02,220.0,12.0,16.0,5.0,58.0,142.0,28.0,1.0,1.0,3,True
+542266,233464,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Sunset,2,Team Heretics,MIBR,6,13,benjyfishy,29873,vyse,0.82,181.0,12.0,18.0,2.0,58.0,106.0,37.0,0.0,1.0,3,True
+542266,233464,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Sunset,2,Team Heretics,MIBR,6,13,Wo0t,21328,viper,0.71,178.0,11.0,17.0,3.0,68.0,108.0,20.0,2.0,0.0,3,True
+542266,233464,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Sunset,2,Team Heretics,MIBR,6,13,Boo,1144,omen,0.46,98.0,6.0,15.0,5.0,42.0,55.0,37.0,1.0,5.0,3,True
+542266,233464,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Sunset,2,Team Heretics,MIBR,6,13,MiniBoo,18350,yoru,0.39,110.0,8.0,16.0,0.0,32.0,83.0,29.0,0.0,8.0,3,True
+542266,233464,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Sunset,2,MIBR,Team Heretics,13,6,aspas,8480,neon,1.45,284.0,19.0,10.0,5.0,89.0,185.0,25.0,4.0,0.0,3,True
+542266,233464,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Sunset,2,MIBR,Team Heretics,13,6,cortezia,5395,cypher,1.42,224.0,18.0,8.0,4.0,84.0,163.0,44.0,2.0,1.0,3,True
+542266,233464,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Sunset,2,MIBR,Team Heretics,13,6,Verno,21668,sova,1.26,234.0,17.0,10.0,5.0,84.0,154.0,24.0,2.0,3.0,3,True
+542266,233464,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Sunset,2,MIBR,Team Heretics,13,6,artzin,5957,viper,1.18,244.0,15.0,12.0,10.0,84.0,152.0,20.0,4.0,0.0,3,True
+542266,233464,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Sunset,2,MIBR,Team Heretics,13,6,xenom,20240,omen,1.06,174.0,13.0,9.0,9.0,79.0,112.0,21.0,3.0,0.0,3,True
+542267,233466,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Haven,1,NRG,GIANTX,13,1,brawk,2172,sova,2.4,324.0,18.0,1.0,8.0,93.0,198.0,15.0,1.0,0.0,3,True
+542267,233466,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Haven,1,NRG,GIANTX,13,1,mada,5132,neon,1.52,272.0,15.0,6.0,2.0,79.0,164.0,23.0,3.0,1.0,3,True
+542267,233466,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Haven,1,NRG,GIANTX,13,1,s0m,4164,viper,1.38,321.0,15.0,11.0,5.0,93.0,223.0,26.0,3.0,3.0,3,True
+542267,233466,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Haven,1,NRG,GIANTX,13,1,Ethan,11225,omen,1.03,129.0,7.0,5.0,7.0,93.0,85.0,17.0,0.0,2.0,3,True
+542267,233466,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Haven,1,NRG,GIANTX,13,1,skuba,11118,killjoy,0.83,87.0,4.0,4.0,3.0,79.0,61.0,26.0,0.0,1.0,3,True
+542267,233466,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Haven,1,GIANTX,NRG,1,13,grubinho,5550,omen,0.77,181.0,10.0,12.0,4.0,57.0,116.0,40.0,3.0,0.0,3,True
+542267,233466,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Haven,1,GIANTX,NRG,1,13,Cloud,4181,sova,0.56,123.0,4.0,11.0,10.0,71.0,88.0,24.0,0.0,2.0,3,True
+542267,233466,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Haven,1,GIANTX,NRG,1,13,westside,34684,cypher,0.51,118.0,5.0,13.0,1.0,43.0,84.0,22.0,2.0,1.0,3,True
+542267,233466,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Haven,1,GIANTX,NRG,1,13,Flickless,6959,breach,0.47,120.0,4.0,11.0,7.0,71.0,93.0,35.0,0.0,1.0,3,True
+542267,233466,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Haven,1,GIANTX,NRG,1,13,ara,11332,neon,0.25,80.0,4.0,12.0,0.0,64.0,46.0,50.0,2.0,3.0,3,True
+542267,233467,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Lotus,2,NRG,GIANTX,13,6,skuba,11118,viper,1.51,226.0,17.0,9.0,8.0,89.0,133.0,35.0,2.0,3.0,3,True
+542267,233467,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Lotus,2,NRG,GIANTX,13,6,mada,5132,raze,1.5,269.0,19.0,11.0,4.0,84.0,177.0,14.0,3.0,0.0,3,True
+542267,233467,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Lotus,2,NRG,GIANTX,13,6,s0m,4164,omen,1.16,202.0,14.0,10.0,11.0,95.0,120.0,21.0,1.0,1.0,3,True
+542267,233467,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Lotus,2,NRG,GIANTX,13,6,brawk,2172,vyse,1.15,257.0,17.0,12.0,3.0,74.0,161.0,12.0,3.0,3.0,3,True
+542267,233467,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Lotus,2,NRG,GIANTX,13,6,Ethan,11225,fade,0.91,150.0,8.0,11.0,7.0,74.0,97.0,28.0,3.0,0.0,3,True
+542267,233467,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Lotus,2,GIANTX,NRG,6,13,Cloud,4181,fade,1.14,217.0,14.0,13.0,7.0,89.0,135.0,23.0,2.0,1.0,3,True
+542267,233467,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Lotus,2,GIANTX,NRG,6,13,westside,34684,cypher,1.13,203.0,15.0,14.0,2.0,68.0,142.0,43.0,1.0,2.0,3,True
+542267,233467,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Lotus,2,GIANTX,NRG,6,13,grubinho,5550,omen,0.76,200.0,14.0,17.0,3.0,63.0,120.0,34.0,3.0,4.0,3,True
+542267,233467,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Lotus,2,GIANTX,NRG,6,13,Flickless,6959,viper,0.54,128.0,8.0,16.0,4.0,58.0,95.0,19.0,1.0,0.0,3,True
+542267,233467,2283,Valorant Champions 2025,Playoffs: Upper Quarterfinals,2025-09-26,Lotus,2,GIANTX,NRG,6,13,ara,11332,raze,0.1,43.0,2.0,15.0,2.0,53.0,38.0,9.0,0.0,5.0,3,True
+542273,233483,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,1,KIWOOM DRX,G2 Esports,7,13,MaKo,4462,omen,1.25,243.0,18.0,14.0,5.0,65.0,141.0,29.0,3.0,4.0,3,True
+542273,233483,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,1,KIWOOM DRX,G2 Esports,7,13,free1ng,1916,vyse,0.97,224.0,15.0,15.0,4.0,55.0,137.0,26.0,1.0,2.0,3,True
+542273,233483,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,1,KIWOOM DRX,G2 Esports,7,13,Flashback,35013,yoru,0.64,151.0,10.0,17.0,2.0,50.0,98.0,24.0,2.0,4.0,3,True
+542273,233483,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,1,KIWOOM DRX,G2 Esports,7,13,HYUNMIN,28400,waylay,0.62,115.0,6.0,15.0,8.0,65.0,87.0,36.0,0.0,3.0,3,True
+542273,233483,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,1,KIWOOM DRX,G2 Esports,7,13,BeYN,4678,fade,0.53,71.0,5.0,14.0,3.0,55.0,53.0,18.0,0.0,1.0,3,True
+542273,233483,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,1,G2 Esports,KIWOOM DRX,13,7,jawgemo,3993,yoru,1.74,365.0,28.0,13.0,5.0,75.0,230.0,29.0,6.0,1.0,3,True
+542273,233483,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,1,G2 Esports,KIWOOM DRX,13,7,JonahP,4581,fade,1.17,193.0,11.0,9.0,10.0,80.0,118.0,14.0,2.0,2.0,3,True
+542273,233483,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,1,G2 Esports,KIWOOM DRX,13,7,valyn,3885,omen,1.16,149.0,10.0,8.0,13.0,80.0,80.0,27.0,2.0,2.0,3,True
+542273,233483,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,1,G2 Esports,KIWOOM DRX,13,7,leaf,7873,viper,0.99,179.0,11.0,13.0,11.0,75.0,118.0,27.0,2.0,0.0,3,True
+542273,233483,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,1,G2 Esports,KIWOOM DRX,13,7,trent,15500,tejo,0.99,208.0,15.0,12.0,2.0,65.0,151.0,42.0,2.0,1.0,3,True
+542273,233484,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Abyss,2,KIWOOM DRX,G2 Esports,13,10,HYUNMIN,28400,waylay,1.84,357.0,30.0,14.0,10.0,87.0,224.0,50.0,3.0,2.0,3,True
+542273,233484,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Abyss,2,KIWOOM DRX,G2 Esports,13,10,Flashback,35013,yoru,1.25,255.0,22.0,16.0,4.0,74.0,156.0,27.0,4.0,1.0,3,True
+542273,233484,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Abyss,2,KIWOOM DRX,G2 Esports,13,10,MaKo,4462,omen,1.03,213.0,18.0,16.0,9.0,70.0,123.0,29.0,3.0,3.0,3,True
+542273,233484,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Abyss,2,KIWOOM DRX,G2 Esports,13,10,BeYN,4678,sova,0.73,146.0,9.0,16.0,11.0,74.0,98.0,31.0,3.0,1.0,3,True
+542273,233484,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Abyss,2,KIWOOM DRX,G2 Esports,13,10,free1ng,1916,cypher,0.41,62.0,6.0,14.0,3.0,61.0,35.0,17.0,1.0,2.0,3,True
+542273,233484,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Abyss,2,G2 Esports,KIWOOM DRX,10,13,trent,15500,tejo,1.14,213.0,16.0,16.0,5.0,78.0,156.0,47.0,0.0,1.0,3,True
+542273,233484,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Abyss,2,G2 Esports,KIWOOM DRX,10,13,leaf,7873,chamber,0.99,210.0,17.0,18.0,6.0,70.0,147.0,20.0,4.0,2.0,3,True
+542273,233484,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Abyss,2,G2 Esports,KIWOOM DRX,10,13,JonahP,4581,sova,0.94,181.0,15.0,15.0,8.0,70.0,103.0,14.0,0.0,3.0,3,True
+542273,233484,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Abyss,2,G2 Esports,KIWOOM DRX,10,13,valyn,3885,astra,0.85,170.0,14.0,16.0,5.0,74.0,105.0,24.0,1.0,1.0,3,True
+542273,233484,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Abyss,2,G2 Esports,KIWOOM DRX,10,13,jawgemo,3993,yoru,0.67,183.0,14.0,20.0,4.0,61.0,114.0,36.0,4.0,7.0,3,True
+542273,233485,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,KIWOOM DRX,G2 Esports,13,7,MaKo,4462,brimstone,1.6,261.0,21.0,10.0,11.0,85.0,160.0,23.0,3.0,0.0,3,True
+542273,233485,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,KIWOOM DRX,G2 Esports,13,7,Flashback,35013,yoru,1.36,234.0,18.0,9.0,3.0,70.0,129.0,15.0,5.0,3.0,3,True
+542273,233485,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,KIWOOM DRX,G2 Esports,13,7,HYUNMIN,28400,waylay,1.12,178.0,11.0,10.0,5.0,75.0,127.0,24.0,1.0,2.0,3,True
+542273,233485,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,KIWOOM DRX,G2 Esports,13,7,free1ng,1916,viper,1.07,198.0,14.0,11.0,7.0,80.0,127.0,41.0,3.0,1.0,3,True
+542273,233485,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,KIWOOM DRX,G2 Esports,13,7,BeYN,4678,fade,0.81,169.0,12.0,13.0,8.0,75.0,99.0,21.0,1.0,1.0,3,True
+542273,233485,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,G2 Esports,KIWOOM DRX,7,13,valyn,3885,brimstone,1.29,233.0,16.0,14.0,5.0,75.0,142.0,32.0,2.0,0.0,3,True
+542273,233485,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,G2 Esports,KIWOOM DRX,7,13,jawgemo,3993,yoru,0.94,222.0,15.0,15.0,3.0,70.0,133.0,18.0,5.0,1.0,3,True
+542273,233485,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,G2 Esports,KIWOOM DRX,7,13,trent,15500,tejo,0.81,165.0,12.0,15.0,2.0,70.0,99.0,29.0,0.0,3.0,3,True
+542273,233485,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,G2 Esports,KIWOOM DRX,7,13,leaf,7873,deadlock,0.44,130.0,8.0,17.0,6.0,55.0,86.0,19.0,0.0,6.0,3,True
+542273,233485,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,G2 Esports,KIWOOM DRX,7,13,JonahP,4581,fade,0.36,62.0,2.0,15.0,6.0,50.0,44.0,18.0,0.0,3.0,3,True
+542274,233486,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Ascent,1,Team Heretics,GIANTX,13,4,RieNs,10971,sova,1.84,350.0,23.0,8.0,4.0,88.0,224.0,32.0,3.0,0.0,3,True
+542274,233486,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Ascent,1,Team Heretics,GIANTX,13,4,MiniBoo,18350,yoru,1.26,271.0,17.0,11.0,4.0,76.0,192.0,23.0,5.0,3.0,3,True
+542274,233486,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Ascent,1,Team Heretics,GIANTX,13,4,Wo0t,21328,jett,1.12,188.0,13.0,8.0,0.0,82.0,96.0,27.0,1.0,1.0,3,True
+542274,233486,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Ascent,1,Team Heretics,GIANTX,13,4,benjyfishy,29873,cypher,1.06,170.0,11.0,8.0,4.0,94.0,109.0,26.0,1.0,0.0,3,True
+542274,233486,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Ascent,1,Team Heretics,GIANTX,13,4,Boo,1144,omen,1.02,157.0,9.0,10.0,16.0,88.0,96.0,26.0,1.0,2.0,3,True
+542274,233486,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Ascent,1,GIANTX,Team Heretics,4,13,Flickless,6959,kayo,0.99,203.0,13.0,15.0,8.0,88.0,117.0,26.0,1.0,1.0,3,True
+542274,233486,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Ascent,1,GIANTX,Team Heretics,4,13,ara,11332,jett,0.94,185.0,10.0,14.0,4.0,65.0,137.0,25.0,1.0,4.0,3,True
+542274,233486,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Ascent,1,GIANTX,Team Heretics,4,13,westside,34684,cypher,0.76,169.0,10.0,15.0,4.0,65.0,114.0,42.0,1.0,3.0,3,True
+542274,233486,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Ascent,1,GIANTX,Team Heretics,4,13,Cloud,4181,sova,0.69,150.0,8.0,14.0,4.0,47.0,98.0,24.0,3.0,0.0,3,True
+542274,233486,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Ascent,1,GIANTX,Team Heretics,4,13,grubinho,5550,omen,0.37,81.0,4.0,15.0,9.0,65.0,44.0,56.0,0.0,3.0,3,True
+542274,233487,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,2,Team Heretics,GIANTX,3,13,Wo0t,21328,chamber,0.92,182.0,10.0,11.0,1.0,50.0,105.0,31.0,3.0,5.0,3,True
+542274,233487,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,2,Team Heretics,GIANTX,3,13,MiniBoo,18350,raze,0.72,183.0,11.0,14.0,1.0,56.0,121.0,26.0,2.0,2.0,3,True
+542274,233487,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,2,Team Heretics,GIANTX,3,13,benjyfishy,29873,deadlock,0.65,154.0,9.0,15.0,2.0,63.0,97.0,29.0,0.0,0.0,3,True
+542274,233487,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,2,Team Heretics,GIANTX,3,13,Boo,1144,omen,0.39,46.0,2.0,12.0,5.0,31.0,35.0,18.0,0.0,1.0,3,True
+542274,233487,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,2,Team Heretics,GIANTX,3,13,RieNs,10971,fade,0.38,135.0,6.0,16.0,3.0,50.0,90.0,43.0,0.0,3.0,3,True
+542274,233487,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,2,GIANTX,Team Heretics,13,3,Flickless,6959,viper,1.48,249.0,13.0,6.0,11.0,94.0,160.0,32.0,1.0,1.0,3,True
+542274,233487,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,2,GIANTX,Team Heretics,13,3,ara,11332,raze,1.35,271.0,14.0,11.0,5.0,75.0,183.0,28.0,5.0,0.0,3,True
+542274,233487,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,2,GIANTX,Team Heretics,13,3,westside,34684,cypher,1.34,223.0,16.0,7.0,3.0,81.0,127.0,31.0,1.0,1.0,3,True
+542274,233487,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,2,GIANTX,Team Heretics,13,3,Cloud,4181,fade,1.34,236.0,14.0,7.0,5.0,69.0,144.0,31.0,2.0,1.0,3,True
+542274,233487,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Lotus,2,GIANTX,Team Heretics,13,3,grubinho,5550,omen,1.21,175.0,11.0,7.0,6.0,75.0,119.0,23.0,2.0,2.0,3,True
+542274,233488,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,Team Heretics,GIANTX,13,9,MiniBoo,18350,waylay,1.14,243.0,19.0,17.0,4.0,64.0,140.0,36.0,2.0,4.0,3,True
+542274,233488,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,Team Heretics,GIANTX,13,9,Boo,1144,brimstone,1.08,176.0,16.0,14.0,7.0,77.0,111.0,37.0,1.0,1.0,3,True
+542274,233488,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,Team Heretics,GIANTX,13,9,RieNs,10971,fade,0.98,171.0,14.0,17.0,8.0,68.0,117.0,38.0,1.0,1.0,3,True
+542274,233488,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,Team Heretics,GIANTX,13,9,benjyfishy,29873,viper,0.89,199.0,12.0,17.0,9.0,64.0,133.0,25.0,4.0,3.0,3,True
+542274,233488,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,Team Heretics,GIANTX,13,9,Wo0t,21328,yoru,0.85,200.0,16.0,18.0,5.0,77.0,125.0,38.0,1.0,4.0,3,True
+542274,233488,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,GIANTX,Team Heretics,9,13,Cloud,4181,gekko,1.26,213.0,18.0,13.0,9.0,77.0,142.0,29.0,1.0,1.0,3,True
+542274,233488,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,GIANTX,Team Heretics,9,13,westside,34684,deadlock,1.23,241.0,20.0,15.0,7.0,64.0,139.0,35.0,2.0,2.0,3,True
+542274,233488,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,GIANTX,Team Heretics,9,13,Flickless,6959,viper,1.02,229.0,17.0,16.0,8.0,77.0,153.0,26.0,3.0,0.0,3,True
+542274,233488,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,GIANTX,Team Heretics,9,13,grubinho,5550,astra,1.0,209.0,16.0,16.0,13.0,73.0,126.0,18.0,3.0,2.0,3,True
+542274,233488,2283,Valorant Champions 2025,Playoffs: Lower Round 1,2025-09-27,Bind,3,GIANTX,Team Heretics,9,13,ara,11332,raze,0.58,153.0,10.0,17.0,6.0,59.0,106.0,23.0,4.0,4.0,3,True
+542268,233469,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Bind,1,FNATIC,Paper Rex,10,13,kaajak,9554,yoru,1.68,369.0,30.0,17.0,8.0,83.0,228.0,33.0,8.0,1.0,3,True
+542268,233469,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Bind,1,FNATIC,Paper Rex,10,13,doma,1369,tejo,1.0,159.0,13.0,14.0,4.0,65.0,118.0,32.0,1.0,0.0,3,True
+542268,233469,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Bind,1,FNATIC,Paper Rex,10,13,Boaster,438,astra,0.83,134.0,9.0,14.0,6.0,70.0,103.0,25.0,1.0,0.0,3,True
+542268,233469,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Bind,1,FNATIC,Paper Rex,10,13,crashies,4,fade,0.78,165.0,14.0,16.0,7.0,78.0,106.0,19.0,2.0,3.0,3,True
+542268,233469,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Bind,1,FNATIC,Paper Rex,10,13,Chronicle,458,viper,0.55,129.0,10.0,18.0,3.0,52.0,96.0,35.0,1.0,6.0,3,True
+542268,233469,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Bind,1,Paper Rex,FNATIC,13,10,d4v41,9803,viper,1.25,190.0,18.0,12.0,3.0,74.0,127.0,29.0,1.0,3.0,3,True
+542268,233469,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Bind,1,Paper Rex,FNATIC,13,10,f0rsakeN,9801,brimstone,1.13,218.0,17.0,15.0,8.0,74.0,152.0,44.0,0.0,1.0,3,True
+542268,233469,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Bind,1,Paper Rex,FNATIC,13,10,PatMen,13744,fade,1.08,184.0,15.0,14.0,3.0,61.0,129.0,30.0,2.0,2.0,3,True
+542268,233469,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Bind,1,Paper Rex,FNATIC,13,10,something,17086,yoru,0.9,189.0,16.0,17.0,2.0,70.0,119.0,18.0,5.0,2.0,3,True
+542268,233469,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Bind,1,Paper Rex,FNATIC,13,10,Jinggg,7378,raze,0.81,184.0,13.0,18.0,8.0,78.0,140.0,19.0,2.0,5.0,3,True
+542268,233470,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,FNATIC,Paper Rex,13,4,kaajak,9554,yoru,1.69,325.0,20.0,9.0,3.0,88.0,206.0,30.0,4.0,0.0,3,True
+542268,233470,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,FNATIC,Paper Rex,13,4,Chronicle,458,viper,1.46,293.0,18.0,9.0,4.0,82.0,192.0,27.0,3.0,2.0,3,True
+542268,233470,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,FNATIC,Paper Rex,13,4,crashies,4,sova,1.3,171.0,12.0,7.0,0.0,71.0,117.0,33.0,1.0,2.0,3,True
+542268,233470,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,FNATIC,Paper Rex,13,4,Boaster,438,omen,0.95,125.0,8.0,9.0,8.0,82.0,68.0,44.0,1.0,0.0,3,True
+542268,233470,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,FNATIC,Paper Rex,13,4,doma,1369,killjoy,0.84,186.0,11.0,11.0,2.0,59.0,123.0,29.0,2.0,2.0,3,True
+542268,233470,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,Paper Rex,FNATIC,4,13,d4v41,9803,vyse,0.84,154.0,11.0,12.0,1.0,53.0,95.0,28.0,0.0,3.0,3,True
+542268,233470,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,Paper Rex,FNATIC,4,13,Jinggg,7378,omen,0.71,150.0,9.0,13.0,2.0,53.0,93.0,32.0,0.0,0.0,3,True
+542268,233470,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,Paper Rex,FNATIC,4,13,f0rsakeN,9801,waylay,0.63,208.0,12.0,16.0,3.0,53.0,127.0,26.0,2.0,5.0,3,True
+542268,233470,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,Paper Rex,FNATIC,4,13,PatMen,13744,fade,0.58,136.0,7.0,15.0,5.0,59.0,85.0,25.0,1.0,1.0,3,True
+542268,233470,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,Paper Rex,FNATIC,4,13,something,17086,yoru,0.53,135.0,6.0,13.0,4.0,47.0,83.0,21.0,3.0,2.0,3,True
+542268,233471,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Lotus,3,FNATIC,Paper Rex,13,9,Chronicle,458,viper,1.86,376.0,31.0,14.0,7.0,86.0,246.0,39.0,3.0,0.0,3,True
+542268,233471,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Lotus,3,FNATIC,Paper Rex,13,9,Boaster,438,omen,1.06,202.0,14.0,14.0,10.0,64.0,137.0,10.0,0.0,3.0,3,True
+542268,233471,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Lotus,3,FNATIC,Paper Rex,13,9,kaajak,9554,raze,1.04,250.0,19.0,18.0,8.0,77.0,153.0,16.0,5.0,6.0,3,True
+542268,233471,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Lotus,3,FNATIC,Paper Rex,13,9,doma,1369,killjoy,0.95,157.0,12.0,15.0,7.0,91.0,119.0,26.0,2.0,2.0,3,True
+542268,233471,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Lotus,3,FNATIC,Paper Rex,13,9,crashies,4,fade,0.8,110.0,9.0,14.0,7.0,77.0,79.0,41.0,0.0,1.0,3,True
+542268,233471,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Lotus,3,Paper Rex,FNATIC,9,13,Jinggg,7378,raze,1.07,232.0,19.0,17.0,6.0,82.0,164.0,23.0,3.0,2.0,3,True
+542268,233471,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Lotus,3,Paper Rex,FNATIC,9,13,d4v41,9803,vyse,1.01,211.0,17.0,17.0,5.0,91.0,133.0,26.0,2.0,0.0,3,True
+542268,233471,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Lotus,3,Paper Rex,FNATIC,9,13,f0rsakeN,9801,omen,0.93,219.0,15.0,18.0,7.0,77.0,137.0,21.0,4.0,0.0,3,True
+542268,233471,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Lotus,3,Paper Rex,FNATIC,9,13,PatMen,13744,fade,0.77,143.0,11.0,16.0,4.0,73.0,105.0,32.0,0.0,0.0,3,True
+542268,233471,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Lotus,3,Paper Rex,FNATIC,9,13,something,17086,yoru,0.7,163.0,13.0,17.0,3.0,59.0,132.0,22.0,3.0,8.0,3,True
+542269,233472,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Abyss,1,MIBR,NRG,14,16,aspas,8480,jett,1.45,285.0,32.0,15.0,2.0,77.0,175.0,20.0,6.0,3.0,3,True
+542269,233472,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Abyss,1,MIBR,NRG,14,16,cortezia,5395,cypher,1.18,230.0,25.0,17.0,2.0,73.0,164.0,41.0,4.0,1.0,3,True
+542269,233472,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Abyss,1,MIBR,NRG,14,16,xenom,20240,astra,0.97,146.0,16.0,15.0,16.0,80.0,90.0,22.0,2.0,1.0,3,True
+542269,233472,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Abyss,1,MIBR,NRG,14,16,Verno,21668,sova,0.88,141.0,12.0,15.0,12.0,77.0,91.0,16.0,3.0,0.0,3,True
+542269,233472,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Abyss,1,MIBR,NRG,14,16,artzin,5957,kayo,0.78,158.0,16.0,19.0,16.0,70.0,107.0,29.0,1.0,8.0,3,True
+542269,233472,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Abyss,1,NRG,MIBR,16,14,mada,5132,yoru,1.08,193.0,20.0,19.0,7.0,60.0,114.0,31.0,3.0,5.0,3,True
+542269,233472,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Abyss,1,NRG,MIBR,16,14,brawk,2172,sova,0.95,148.0,15.0,19.0,6.0,63.0,96.0,17.0,2.0,2.0,3,True
+542269,233472,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Abyss,1,NRG,MIBR,16,14,Ethan,11225,omen,0.88,177.0,16.0,22.0,11.0,63.0,113.0,21.0,4.0,5.0,3,True
+542269,233472,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Abyss,1,NRG,MIBR,16,14,s0m,4164,harbor,0.79,162.0,18.0,23.0,5.0,70.0,101.0,20.0,2.0,3.0,3,True
+542269,233472,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Abyss,1,NRG,MIBR,16,14,skuba,11118,vyse,0.73,140.0,12.0,23.0,12.0,63.0,98.0,15.0,2.0,1.0,3,True
+542269,233473,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,MIBR,NRG,13,4,aspas,8480,neon,1.73,318.0,23.0,8.0,1.0,94.0,172.0,25.0,6.0,0.0,3,True
+542269,233473,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,MIBR,NRG,13,4,cortezia,5395,killjoy,1.56,230.0,15.0,5.0,4.0,82.0,147.0,17.0,3.0,0.0,3,True
+542269,233473,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,MIBR,NRG,13,4,Verno,21668,sova,1.36,237.0,13.0,9.0,8.0,88.0,165.0,36.0,5.0,1.0,3,True
+542269,233473,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,MIBR,NRG,13,4,artzin,5957,viper,1.2,235.0,16.0,10.0,6.0,76.0,159.0,16.0,0.0,1.0,3,True
+542269,233473,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,MIBR,NRG,13,4,xenom,20240,omen,1.12,119.0,6.0,6.0,19.0,82.0,58.0,13.0,1.0,0.0,3,True
+542269,233473,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,NRG,MIBR,4,13,brawk,2172,sova,0.95,210.0,9.0,14.0,9.0,65.0,147.0,17.0,1.0,2.0,3,True
+542269,233473,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,NRG,MIBR,4,13,skuba,11118,killjoy,0.64,130.0,8.0,15.0,1.0,53.0,102.0,20.0,0.0,2.0,3,True
+542269,233473,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,NRG,MIBR,4,13,s0m,4164,viper,0.61,189.0,11.0,15.0,0.0,47.0,121.0,30.0,1.0,6.0,3,True
+542269,233473,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,NRG,MIBR,4,13,Ethan,11225,omen,0.43,89.0,4.0,14.0,3.0,47.0,64.0,26.0,0.0,1.0,3,True
+542269,233473,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Haven,2,NRG,MIBR,4,13,mada,5132,neon,0.42,101.0,6.0,15.0,3.0,41.0,75.0,19.0,0.0,4.0,3,True
+542269,233474,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Corrode,3,MIBR,NRG,14,16,aspas,8480,waylay,1.08,212.0,25.0,19.0,3.0,60.0,129.0,33.0,3.0,4.0,3,True
+542269,233474,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Corrode,3,MIBR,NRG,14,16,Verno,21668,sova,1.01,215.0,22.0,19.0,6.0,77.0,140.0,30.0,5.0,2.0,3,True
+542269,233474,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Corrode,3,MIBR,NRG,14,16,xenom,20240,omen,0.86,147.0,16.0,20.0,16.0,73.0,89.0,19.0,0.0,0.0,3,True
+542269,233474,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Corrode,3,MIBR,NRG,14,16,cortezia,5395,viper,0.84,160.0,15.0,19.0,7.0,70.0,102.0,36.0,6.0,2.0,3,True
+542269,233474,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Corrode,3,MIBR,NRG,14,16,artzin,5957,kayo,0.76,159.0,17.0,21.0,8.0,63.0,89.0,26.0,4.0,4.0,3,True
+542269,233474,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Corrode,3,NRG,MIBR,16,14,s0m,4164,omen,1.24,192.0,22.0,18.0,8.0,70.0,136.0,30.0,2.0,2.0,3,True
+542269,233474,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Corrode,3,NRG,MIBR,16,14,skuba,11118,viper,1.15,181.0,20.0,16.0,7.0,77.0,134.0,38.0,0.0,2.0,3,True
+542269,233474,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Corrode,3,NRG,MIBR,16,14,Ethan,11225,kayo,1.06,186.0,18.0,19.0,17.0,83.0,126.0,21.0,2.0,4.0,3,True
+542269,233474,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Corrode,3,NRG,MIBR,16,14,brawk,2172,sova,1.01,228.0,20.0,21.0,12.0,73.0,157.0,15.0,1.0,3.0,3,True
+542269,233474,2283,Valorant Champions 2025,Playoffs: Upper Semifinals,2025-09-28,Corrode,3,NRG,MIBR,16,14,mada,5132,waylay,0.85,175.0,18.0,21.0,3.0,70.0,114.0,29.0,7.0,7.0,3,True
+542277,233492,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,1,Paper Rex,Team Heretics,13,11,d4v41,9803,vyse,1.38,233.0,20.0,13.0,11.0,75.0,152.0,19.0,4.0,3.0,3,True
+542277,233492,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,1,Paper Rex,Team Heretics,13,11,something,17086,yoru,1.25,279.0,22.0,17.0,9.0,88.0,168.0,18.0,6.0,2.0,3,True
+542277,233492,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,1,Paper Rex,Team Heretics,13,11,f0rsakeN,9801,omen,1.03,211.0,18.0,17.0,12.0,67.0,122.0,25.0,3.0,2.0,3,True
+542277,233492,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,1,Paper Rex,Team Heretics,13,11,PatMen,13744,sova,0.85,169.0,13.0,15.0,9.0,71.0,112.0,30.0,0.0,1.0,3,True
+542277,233492,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,1,Paper Rex,Team Heretics,13,11,Jinggg,7378,sage,0.76,150.0,13.0,16.0,10.0,75.0,94.0,27.0,0.0,3.0,3,True
+542277,233492,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,1,Team Heretics,Paper Rex,11,13,Wo0t,21328,jett,1.27,282.0,24.0,19.0,3.0,67.0,181.0,30.0,5.0,4.0,3,True
+542277,233492,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,1,Team Heretics,Paper Rex,11,13,RieNs,10971,sova,1.16,224.0,19.0,17.0,7.0,75.0,155.0,47.0,3.0,2.0,3,True
+542277,233492,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,1,Team Heretics,Paper Rex,11,13,Boo,1144,omen,0.97,172.0,13.0,17.0,10.0,71.0,111.0,47.0,0.0,2.0,3,True
+542277,233492,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,1,Team Heretics,Paper Rex,11,13,MiniBoo,18350,yoru,0.85,166.0,13.0,17.0,4.0,67.0,115.0,18.0,3.0,3.0,3,True
+542277,233492,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,1,Team Heretics,Paper Rex,11,13,benjyfishy,29873,cypher,0.64,101.0,9.0,16.0,3.0,67.0,70.0,18.0,0.0,2.0,3,True
+542277,233493,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,2,Paper Rex,Team Heretics,9,13,f0rsakeN,9801,brimstone,1.2,284.0,21.0,17.0,9.0,82.0,181.0,40.0,3.0,1.0,3,True
+542277,233493,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,2,Paper Rex,Team Heretics,9,13,d4v41,9803,viper,0.91,198.0,15.0,16.0,8.0,59.0,132.0,34.0,1.0,4.0,3,True
+542277,233493,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,2,Paper Rex,Team Heretics,9,13,Jinggg,7378,raze,0.89,213.0,16.0,16.0,4.0,73.0,136.0,11.0,2.0,4.0,3,True
+542277,233493,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,2,Paper Rex,Team Heretics,9,13,something,17086,yoru,0.86,147.0,12.0,14.0,5.0,64.0,91.0,21.0,3.0,2.0,3,True
+542277,233493,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,2,Paper Rex,Team Heretics,9,13,PatMen,13744,fade,0.86,184.0,16.0,15.0,5.0,73.0,120.0,32.0,1.0,1.0,3,True
+542277,233493,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,2,Team Heretics,Paper Rex,13,9,Wo0t,21328,yoru,1.55,292.0,25.0,16.0,4.0,86.0,169.0,40.0,4.0,2.0,3,True
+542277,233493,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,2,Team Heretics,Paper Rex,13,9,RieNs,10971,fade,1.1,184.0,14.0,15.0,9.0,73.0,121.0,34.0,2.0,0.0,3,True
+542277,233493,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,2,Team Heretics,Paper Rex,13,9,benjyfishy,29873,viper,0.9,161.0,13.0,14.0,5.0,68.0,97.0,28.0,2.0,0.0,3,True
+542277,233493,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,2,Team Heretics,Paper Rex,13,9,Boo,1144,brimstone,0.88,176.0,13.0,17.0,9.0,77.0,119.0,39.0,2.0,3.0,3,True
+542277,233493,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,2,Team Heretics,Paper Rex,13,9,MiniBoo,18350,waylay,0.76,173.0,13.0,18.0,6.0,55.0,109.0,27.0,2.0,5.0,3,True
+542277,233494,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Lotus,3,Paper Rex,Team Heretics,13,4,PatMen,13744,fade,1.61,238.0,15.0,8.0,11.0,88.0,156.0,31.0,0.0,1.0,3,True
+542277,233494,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Lotus,3,Paper Rex,Team Heretics,13,4,f0rsakeN,9801,omen,1.51,239.0,14.0,10.0,13.0,88.0,159.0,40.0,2.0,2.0,3,True
+542277,233494,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Lotus,3,Paper Rex,Team Heretics,13,4,d4v41,9803,vyse,1.4,273.0,17.0,10.0,2.0,71.0,186.0,35.0,3.0,1.0,3,True
+542277,233494,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Lotus,3,Paper Rex,Team Heretics,13,4,something,17086,yoru,1.06,217.0,13.0,11.0,9.0,76.0,149.0,25.0,0.0,4.0,3,True
+542277,233494,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Lotus,3,Paper Rex,Team Heretics,13,4,Jinggg,7378,raze,0.89,190.0,12.0,13.0,4.0,65.0,114.0,14.0,1.0,3.0,3,True
+542277,233494,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Lotus,3,Team Heretics,Paper Rex,4,13,benjyfishy,29873,deadlock,1.02,196.0,11.0,14.0,6.0,88.0,142.0,38.0,2.0,0.0,3,True
+542277,233494,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Lotus,3,Team Heretics,Paper Rex,4,13,RieNs,10971,fade,0.92,214.0,14.0,14.0,6.0,59.0,136.0,42.0,1.0,1.0,3,True
+542277,233494,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Lotus,3,Team Heretics,Paper Rex,4,13,Wo0t,21328,chamber,0.73,130.0,8.0,12.0,4.0,47.0,98.0,47.0,3.0,2.0,3,True
+542277,233494,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Lotus,3,Team Heretics,Paper Rex,4,13,Boo,1144,omen,0.66,172.0,9.0,15.0,7.0,59.0,112.0,16.0,2.0,1.0,3,True
+542277,233494,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Lotus,3,Team Heretics,Paper Rex,4,13,MiniBoo,18350,raze,0.66,211.0,10.0,16.0,4.0,76.0,150.0,15.0,3.0,2.0,3,True
+542276,233489,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Sunset,1,MIBR,KIWOOM DRX,13,10,aspas,8480,neon,1.45,296.0,25.0,15.0,4.0,83.0,198.0,27.0,5.0,0.0,3,True
+542276,233489,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Sunset,1,MIBR,KIWOOM DRX,13,10,cortezia,5395,cypher,1.27,217.0,18.0,11.0,3.0,74.0,148.0,37.0,3.0,0.0,3,True
+542276,233489,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Sunset,1,MIBR,KIWOOM DRX,13,10,Verno,21668,sova,1.04,212.0,16.0,13.0,5.0,70.0,138.0,37.0,2.0,2.0,3,True
+542276,233489,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Sunset,1,MIBR,KIWOOM DRX,13,10,artzin,5957,viper,1.02,190.0,16.0,15.0,1.0,78.0,132.0,26.0,5.0,3.0,3,True
+542276,233489,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Sunset,1,MIBR,KIWOOM DRX,13,10,xenom,20240,omen,0.92,130.0,10.0,13.0,9.0,78.0,85.0,27.0,1.0,2.0,3,True
+542276,233489,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Sunset,1,KIWOOM DRX,MIBR,10,13,BeYN,4678,sova,0.99,177.0,15.0,16.0,5.0,65.0,116.0,32.0,0.0,2.0,3,True
+542276,233489,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Sunset,1,KIWOOM DRX,MIBR,10,13,free1ng,1916,cypher,0.98,175.0,14.0,15.0,3.0,65.0,115.0,38.0,1.0,3.0,3,True
+542276,233489,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Sunset,1,KIWOOM DRX,MIBR,10,13,MaKo,4462,omen,0.94,156.0,13.0,16.0,7.0,61.0,107.0,21.0,2.0,1.0,3,True
+542276,233489,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Sunset,1,KIWOOM DRX,MIBR,10,13,HYUNMIN,28400,waylay,0.71,150.0,13.0,17.0,2.0,43.0,105.0,34.0,2.0,1.0,3,True
+542276,233489,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Sunset,1,KIWOOM DRX,MIBR,10,13,Flashback,35013,neon,0.47,157.0,12.0,21.0,3.0,43.0,104.0,22.0,2.0,9.0,3,True
+542276,233490,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,2,MIBR,KIWOOM DRX,13,15,aspas,8480,jett,1.38,268.0,28.0,19.0,3.0,75.0,170.0,22.0,8.0,2.0,3,True
+542276,233490,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,2,MIBR,KIWOOM DRX,13,15,cortezia,5395,vyse,1.16,223.0,22.0,18.0,5.0,64.0,152.0,40.0,4.0,2.0,3,True
+542276,233490,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,2,MIBR,KIWOOM DRX,13,15,Verno,21668,sova,0.96,179.0,16.0,19.0,9.0,54.0,126.0,24.0,0.0,2.0,3,True
+542276,233490,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,2,MIBR,KIWOOM DRX,13,15,xenom,20240,omen,0.95,179.0,17.0,20.0,14.0,71.0,109.0,20.0,0.0,2.0,3,True
+542276,233490,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,2,MIBR,KIWOOM DRX,13,15,artzin,5957,kayo,0.5,116.0,8.0,22.0,16.0,79.0,76.0,13.0,3.0,5.0,3,True
+542276,233490,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,2,KIWOOM DRX,MIBR,15,13,BeYN,4678,sova,1.37,242.0,24.0,14.0,6.0,71.0,162.0,24.0,2.0,1.0,3,True
+542276,233490,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,2,KIWOOM DRX,MIBR,15,13,free1ng,1916,vyse,1.14,224.0,23.0,17.0,9.0,71.0,145.0,36.0,4.0,4.0,3,True
+542276,233490,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,2,KIWOOM DRX,MIBR,15,13,Flashback,35013,yoru,0.9,218.0,20.0,22.0,10.0,68.0,148.0,22.0,5.0,5.0,3,True
+542276,233490,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,2,KIWOOM DRX,MIBR,15,13,MaKo,4462,omen,0.77,139.0,13.0,18.0,10.0,68.0,89.0,20.0,0.0,2.0,3,True
+542276,233490,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Ascent,2,KIWOOM DRX,MIBR,15,13,HYUNMIN,28400,waylay,0.76,182.0,18.0,20.0,3.0,61.0,118.0,54.0,2.0,3.0,3,True
+542276,233491,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,3,MIBR,KIWOOM DRX,10,13,aspas,8480,raze,1.36,284.0,23.0,17.0,1.0,78.0,181.0,25.0,5.0,2.0,3,True
+542276,233491,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,3,MIBR,KIWOOM DRX,10,13,cortezia,5395,viper,1.07,208.0,17.0,14.0,8.0,78.0,139.0,32.0,0.0,0.0,3,True
+542276,233491,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,3,MIBR,KIWOOM DRX,10,13,xenom,20240,brimstone,0.88,148.0,10.0,15.0,20.0,74.0,88.0,21.0,1.0,1.0,3,True
+542276,233491,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,3,MIBR,KIWOOM DRX,10,13,Verno,21668,fade,0.84,142.0,11.0,14.0,11.0,78.0,95.0,19.0,2.0,1.0,3,True
+542276,233491,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,3,MIBR,KIWOOM DRX,10,13,artzin,5957,yoru,0.76,136.0,10.0,14.0,3.0,78.0,97.0,34.0,4.0,6.0,3,True
+542276,233491,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,3,KIWOOM DRX,MIBR,13,10,Flashback,35013,yoru,1.39,258.0,23.0,13.0,1.0,57.0,159.0,23.0,5.0,3.0,3,True
+542276,233491,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,3,KIWOOM DRX,MIBR,13,10,MaKo,4462,brimstone,1.03,162.0,11.0,11.0,8.0,83.0,112.0,19.0,0.0,3.0,3,True
+542276,233491,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,3,KIWOOM DRX,MIBR,13,10,BeYN,4678,fade,0.93,156.0,12.0,13.0,10.0,74.0,97.0,14.0,1.0,1.0,3,True
+542276,233491,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,3,KIWOOM DRX,MIBR,13,10,HYUNMIN,28400,waylay,0.8,173.0,14.0,18.0,4.0,61.0,118.0,37.0,0.0,2.0,3,True
+542276,233491,2283,Valorant Champions 2025,Playoffs: Lower Round 2,2025-09-29,Bind,3,KIWOOM DRX,MIBR,13,10,free1ng,1916,viper,0.79,181.0,14.0,16.0,3.0,65.0,119.0,24.0,4.0,3.0,3,True
+542270,233475,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Ascent,1,FNATIC,NRG,12,14,kaajak,9554,yoru,1.21,244.0,23.0,22.0,5.0,69.0,160.0,40.0,5.0,5.0,3,True
+542270,233475,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Ascent,1,FNATIC,NRG,12,14,Boaster,438,omen,1.16,185.0,18.0,16.0,14.0,69.0,119.0,21.0,1.0,3.0,3,True
+542270,233475,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Ascent,1,FNATIC,NRG,12,14,Chronicle,458,vyse,1.05,182.0,18.0,16.0,5.0,62.0,120.0,25.0,4.0,0.0,3,True
+542270,233475,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Ascent,1,FNATIC,NRG,12,14,crashies,4,sova,0.87,171.0,14.0,18.0,6.0,62.0,118.0,25.0,1.0,0.0,3,True
+542270,233475,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Ascent,1,FNATIC,NRG,12,14,Alfajer,9810,sage,0.73,173.0,15.0,21.0,12.0,73.0,110.0,33.0,5.0,2.0,3,True
+542270,233475,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Ascent,1,NRG,FNATIC,14,12,brawk,2172,sova,1.22,263.0,22.0,18.0,11.0,85.0,163.0,11.0,1.0,1.0,3,True
+542270,233475,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Ascent,1,NRG,FNATIC,14,12,s0m,4164,omen,1.19,217.0,19.0,17.0,10.0,85.0,136.0,22.0,1.0,0.0,3,True
+542270,233475,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Ascent,1,NRG,FNATIC,14,12,skuba,11118,vyse,1.18,229.0,22.0,15.0,4.0,73.0,146.0,31.0,1.0,0.0,3,True
+542270,233475,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Ascent,1,NRG,FNATIC,14,12,Ethan,11225,kayo,0.88,170.0,15.0,18.0,13.0,77.0,105.0,18.0,3.0,3.0,3,True
+542270,233475,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Ascent,1,NRG,FNATIC,14,12,mada,5132,jett,0.66,176.0,15.0,20.0,2.0,46.0,119.0,42.0,4.0,12.0,3,True
+542270,233476,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Abyss,2,FNATIC,NRG,5,13,Chronicle,458,breach,0.92,173.0,11.0,14.0,3.0,78.0,120.0,29.0,2.0,0.0,3,True
+542270,233476,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Abyss,2,FNATIC,NRG,5,13,crashies,4,sova,0.89,182.0,12.0,15.0,5.0,67.0,125.0,25.0,3.0,3.0,3,True
+542270,233476,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Abyss,2,FNATIC,NRG,5,13,kaajak,9554,waylay,0.74,154.0,10.0,14.0,1.0,61.0,104.0,35.0,4.0,2.0,3,True
+542270,233476,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Abyss,2,FNATIC,NRG,5,13,Alfajer,9810,cypher,0.59,129.0,9.0,15.0,0.0,50.0,89.0,30.0,1.0,1.0,3,True
+542270,233476,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Abyss,2,FNATIC,NRG,5,13,Boaster,438,astra,0.4,78.0,3.0,13.0,5.0,44.0,58.0,10.0,1.0,1.0,3,True
+542270,233476,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Abyss,2,NRG,FNATIC,13,5,skuba,11118,vyse,1.52,251.0,17.0,7.0,6.0,83.0,158.0,45.0,1.0,3.0,3,True
+542270,233476,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Abyss,2,NRG,FNATIC,13,5,mada,5132,yoru,1.23,246.0,16.0,11.0,2.0,67.0,158.0,30.0,3.0,2.0,3,True
+542270,233476,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Abyss,2,NRG,FNATIC,13,5,brawk,2172,sova,1.12,181.0,12.0,9.0,2.0,83.0,119.0,31.0,0.0,1.0,3,True
+542270,233476,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Abyss,2,NRG,FNATIC,13,5,s0m,4164,harbor,1.07,201.0,14.0,11.0,6.0,78.0,144.0,39.0,1.0,2.0,3,True
+542270,233476,2283,Valorant Champions 2025,Playoffs: Upper Final,2025-10-03,Abyss,2,NRG,FNATIC,13,5,Ethan,11225,omen,1.03,174.0,11.0,10.0,5.0,78.0,114.0,29.0,2.0,3.0,3,True
+542278,233495,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Ascent,1,KIWOOM DRX,Paper Rex,15,13,HYUNMIN,28400,waylay,1.55,345.0,36.0,19.0,1.0,64.0,220.0,41.0,8.0,1.0,3,True
+542278,233495,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Ascent,1,KIWOOM DRX,Paper Rex,15,13,free1ng,1916,vyse,0.97,176.0,16.0,17.0,7.0,75.0,110.0,62.0,3.0,4.0,3,True
+542278,233495,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Ascent,1,KIWOOM DRX,Paper Rex,15,13,MaKo,4462,omen,0.97,149.0,15.0,16.0,8.0,75.0,106.0,31.0,1.0,3.0,3,True
+542278,233495,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Ascent,1,KIWOOM DRX,Paper Rex,15,13,BeYN,4678,sova,0.95,172.0,16.0,18.0,7.0,71.0,119.0,18.0,1.0,0.0,3,True
+542278,233495,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Ascent,1,KIWOOM DRX,Paper Rex,15,13,Flashback,35013,yoru,0.84,186.0,17.0,20.0,7.0,68.0,121.0,19.0,2.0,5.0,3,True
+542278,233495,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Ascent,1,Paper Rex,KIWOOM DRX,13,15,Jinggg,7378,sage,1.26,276.0,28.0,19.0,5.0,64.0,175.0,42.0,7.0,6.0,3,True
+542278,233495,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Ascent,1,Paper Rex,KIWOOM DRX,13,15,d4v41,9803,vyse,0.95,195.0,16.0,21.0,10.0,79.0,143.0,19.0,1.0,2.0,3,True
+542278,233495,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Ascent,1,Paper Rex,KIWOOM DRX,13,15,PatMen,13744,sova,0.87,151.0,13.0,18.0,3.0,71.0,113.0,36.0,1.0,2.0,3,True
+542278,233495,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Ascent,1,Paper Rex,KIWOOM DRX,13,15,f0rsakeN,9801,omen,0.83,137.0,15.0,21.0,11.0,61.0,97.0,37.0,1.0,2.0,3,True
+542278,233495,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Ascent,1,Paper Rex,KIWOOM DRX,13,15,something,17086,yoru,0.78,179.0,18.0,21.0,3.0,57.0,109.0,14.0,3.0,3.0,3,True
+542278,233496,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Lotus,2,KIWOOM DRX,Paper Rex,13,8,MaKo,4462,omen,1.58,205.0,17.0,8.0,14.0,81.0,114.0,21.0,3.0,0.0,3,True
+542278,233496,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Lotus,2,KIWOOM DRX,Paper Rex,13,8,free1ng,1916,vyse,1.26,211.0,16.0,11.0,5.0,76.0,137.0,31.0,3.0,1.0,3,True
+542278,233496,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Lotus,2,KIWOOM DRX,Paper Rex,13,8,BeYN,4678,fade,1.23,193.0,14.0,10.0,4.0,76.0,124.0,39.0,4.0,0.0,3,True
+542278,233496,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Lotus,2,KIWOOM DRX,Paper Rex,13,8,HYUNMIN,28400,raze,1.13,246.0,19.0,13.0,3.0,57.0,173.0,37.0,1.0,3.0,3,True
+542278,233496,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Lotus,2,KIWOOM DRX,Paper Rex,13,8,Flashback,35013,yoru,1.02,188.0,14.0,15.0,8.0,71.0,134.0,25.0,1.0,5.0,3,True
+542278,233496,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Lotus,2,Paper Rex,KIWOOM DRX,8,13,Jinggg,7378,raze,1.26,261.0,20.0,15.0,1.0,71.0,181.0,35.0,4.0,2.0,3,True
+542278,233496,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Lotus,2,Paper Rex,KIWOOM DRX,8,13,d4v41,9803,vyse,0.99,157.0,12.0,14.0,3.0,62.0,102.0,24.0,0.0,1.0,3,True
+542278,233496,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Lotus,2,Paper Rex,KIWOOM DRX,8,13,f0rsakeN,9801,omen,0.63,163.0,11.0,16.0,5.0,67.0,106.0,30.0,0.0,3.0,3,True
+542278,233496,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Lotus,2,Paper Rex,KIWOOM DRX,8,13,something,17086,yoru,0.55,145.0,10.0,18.0,6.0,67.0,100.0,30.0,3.0,3.0,3,True
+542278,233496,2283,Valorant Champions 2025,Playoffs: Lower Round 3,2025-10-03,Lotus,2,Paper Rex,KIWOOM DRX,8,13,PatMen,13744,fade,0.24,59.0,4.0,17.0,1.0,33.0,42.0,24.0,2.0,3.0,3,True
+542279,233498,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Sunset,1,FNATIC,KIWOOM DRX,8,13,Alfajer,9810,vyse,1.25,258.0,19.0,15.0,3.0,67.0,169.0,44.0,3.0,5.0,5,True
+542279,233498,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Sunset,1,FNATIC,KIWOOM DRX,8,13,crashies,4,fade,1.14,171.0,12.0,12.0,4.0,67.0,122.0,41.0,1.0,0.0,5,True
+542279,233498,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Sunset,1,FNATIC,KIWOOM DRX,8,13,kaajak,9554,neon,0.92,198.0,14.0,16.0,4.0,62.0,131.0,44.0,4.0,4.0,5,True
+542279,233498,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Sunset,1,FNATIC,KIWOOM DRX,8,13,Boaster,438,omen,0.7,111.0,9.0,15.0,5.0,67.0,66.0,38.0,1.0,2.0,5,True
+542279,233498,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Sunset,1,FNATIC,KIWOOM DRX,8,13,Chronicle,458,breach,0.4,95.0,6.0,18.0,5.0,52.0,70.0,19.0,0.0,1.0,5,True
+542279,233498,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Sunset,1,KIWOOM DRX,FNATIC,13,8,free1ng,1916,cypher,1.33,211.0,15.0,9.0,2.0,67.0,144.0,39.0,3.0,0.0,5,True
+542279,233498,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Sunset,1,KIWOOM DRX,FNATIC,13,8,HYUNMIN,28400,waylay,1.24,280.0,22.0,15.0,4.0,67.0,185.0,43.0,4.0,2.0,5,True
+542279,233498,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Sunset,1,KIWOOM DRX,FNATIC,13,8,Flashback,35013,yoru,1.2,255.0,20.0,13.0,1.0,86.0,161.0,20.0,3.0,3.0,5,True
+542279,233498,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Sunset,1,KIWOOM DRX,FNATIC,13,8,BeYN,4678,sova,0.82,150.0,11.0,13.0,3.0,76.0,101.0,18.0,1.0,2.0,5,True
+542279,233498,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Sunset,1,KIWOOM DRX,FNATIC,13,8,MaKo,4462,omen,0.73,100.0,8.0,10.0,4.0,62.0,65.0,39.0,1.0,2.0,5,True
+542279,233499,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Corrode,2,FNATIC,KIWOOM DRX,13,3,crashies,4,fade,1.78,290.0,18.0,6.0,2.0,75.0,186.0,48.0,1.0,1.0,5,True
+542279,233499,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Corrode,2,FNATIC,KIWOOM DRX,13,3,Chronicle,458,viper,1.6,298.0,18.0,9.0,4.0,81.0,189.0,34.0,1.0,0.0,5,True
+542279,233499,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Corrode,2,FNATIC,KIWOOM DRX,13,3,Alfajer,9810,vyse,1.33,214.0,14.0,8.0,3.0,81.0,156.0,38.0,5.0,1.0,5,True
+542279,233499,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Corrode,2,FNATIC,KIWOOM DRX,13,3,Boaster,438,astra,1.26,158.0,10.0,5.0,3.0,81.0,106.0,25.0,0.0,1.0,5,True
+542279,233499,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Corrode,2,FNATIC,KIWOOM DRX,13,3,kaajak,9554,yoru,0.95,175.0,8.0,10.0,6.0,81.0,126.0,29.0,4.0,2.0,5,True
+542279,233499,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Corrode,2,KIWOOM DRX,FNATIC,3,13,BeYN,4678,fade,0.76,161.0,10.0,13.0,2.0,50.0,97.0,48.0,1.0,1.0,5,True
+542279,233499,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Corrode,2,KIWOOM DRX,FNATIC,3,13,HYUNMIN,28400,waylay,0.63,177.0,9.0,14.0,4.0,63.0,128.0,31.0,0.0,1.0,5,True
+542279,233499,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Corrode,2,KIWOOM DRX,FNATIC,3,13,Flashback,35013,yoru,0.62,187.0,10.0,15.0,0.0,56.0,102.0,35.0,3.0,4.0,5,True
+542279,233499,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Corrode,2,KIWOOM DRX,FNATIC,3,13,free1ng,1916,vyse,0.57,123.0,7.0,12.0,1.0,50.0,77.0,39.0,0.0,2.0,5,True
+542279,233499,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Corrode,2,KIWOOM DRX,FNATIC,3,13,MaKo,4462,omen,0.23,63.0,2.0,14.0,5.0,50.0,52.0,21.0,1.0,3.0,5,True
+542279,233500,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Haven,3,FNATIC,KIWOOM DRX,13,11,crashies,4,sova,1.4,215.0,20.0,11.0,5.0,83.0,140.0,53.0,2.0,0.0,5,True
+542279,233500,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Haven,3,FNATIC,KIWOOM DRX,13,11,kaajak,9554,yoru,1.3,243.0,20.0,14.0,5.0,71.0,146.0,24.0,6.0,4.0,5,True
+542279,233500,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Haven,3,FNATIC,KIWOOM DRX,13,11,Chronicle,458,viper,1.01,203.0,16.0,16.0,8.0,71.0,142.0,30.0,2.0,4.0,5,True
+542279,233500,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Haven,3,FNATIC,KIWOOM DRX,13,11,Alfajer,9810,killjoy,0.84,186.0,15.0,16.0,0.0,54.0,120.0,34.0,1.0,4.0,5,True
+542279,233500,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Haven,3,FNATIC,KIWOOM DRX,13,11,Boaster,438,omen,0.73,124.0,10.0,17.0,14.0,71.0,78.0,34.0,0.0,1.0,5,True
+542279,233500,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Haven,3,KIWOOM DRX,FNATIC,11,13,BeYN,4678,sova,1.27,242.0,20.0,14.0,7.0,75.0,156.0,37.0,1.0,0.0,5,True
+542279,233500,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Haven,3,KIWOOM DRX,FNATIC,11,13,HYUNMIN,28400,waylay,0.91,169.0,12.0,16.0,7.0,67.0,122.0,41.0,3.0,2.0,5,True
+542279,233500,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Haven,3,KIWOOM DRX,FNATIC,11,13,MaKo,4462,omen,0.91,197.0,16.0,17.0,11.0,75.0,116.0,16.0,3.0,2.0,5,True
+542279,233500,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Haven,3,KIWOOM DRX,FNATIC,11,13,Flashback,35013,yoru,0.86,172.0,16.0,17.0,3.0,54.0,108.0,31.0,3.0,4.0,5,True
+542279,233500,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Haven,3,KIWOOM DRX,FNATIC,11,13,free1ng,1916,cypher,0.72,132.0,10.0,17.0,7.0,71.0,84.0,42.0,3.0,3.0,5,True
+542279,233501,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Bind,4,FNATIC,KIWOOM DRX,13,4,Chronicle,458,viper,1.5,278.0,17.0,8.0,3.0,76.0,186.0,32.0,4.0,1.0,5,True
+542279,233501,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Bind,4,FNATIC,KIWOOM DRX,13,4,kaajak,9554,yoru,1.4,279.0,17.0,9.0,8.0,82.0,172.0,38.0,5.0,3.0,5,True
+542279,233501,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Bind,4,FNATIC,KIWOOM DRX,13,4,Boaster,438,astra,1.34,189.0,12.0,7.0,4.0,76.0,107.0,10.0,0.0,0.0,5,True
+542279,233501,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Bind,4,FNATIC,KIWOOM DRX,13,4,crashies,4,fade,1.11,235.0,15.0,10.0,4.0,82.0,144.0,45.0,1.0,1.0,5,True
+542279,233501,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Bind,4,FNATIC,KIWOOM DRX,13,4,Alfajer,9810,tejo,0.72,100.0,6.0,8.0,4.0,59.0,70.0,19.0,0.0,2.0,5,True
+542279,233501,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Bind,4,KIWOOM DRX,FNATIC,4,13,MaKo,4462,brimstone,1.04,178.0,11.0,11.0,7.0,53.0,94.0,23.0,2.0,1.0,5,True
+542279,233501,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Bind,4,KIWOOM DRX,FNATIC,4,13,BeYN,4678,fade,0.84,133.0,8.0,11.0,3.0,71.0,87.0,33.0,1.0,2.0,5,True
+542279,233501,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Bind,4,KIWOOM DRX,FNATIC,4,13,HYUNMIN,28400,waylay,0.65,180.0,9.0,16.0,4.0,47.0,109.0,39.0,1.0,1.0,5,True
+542279,233501,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Bind,4,KIWOOM DRX,FNATIC,4,13,free1ng,1916,viper,0.64,144.0,8.0,15.0,3.0,53.0,91.0,19.0,2.0,2.0,5,True
+542279,233501,2283,Valorant Champions 2025,Playoffs: Lower Final,2025-10-04,Bind,4,KIWOOM DRX,FNATIC,4,13,Flashback,35013,yoru,0.47,135.0,6.0,14.0,3.0,47.0,98.0,11.0,1.0,4.0,5,True
+542272,233478,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Corrode,1,NRG,FNATIC,13,3,brawk,2172,sova,1.93,375.0,24.0,7.0,2.0,94.0,212.0,19.0,1.0,1.0,5,True
+542272,233478,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Corrode,1,NRG,FNATIC,13,3,mada,5132,waylay,1.41,295.0,17.0,10.0,6.0,81.0,169.0,19.0,6.0,3.0,5,True
+542272,233478,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Corrode,1,NRG,FNATIC,13,3,Ethan,11225,kayo,1.22,178.0,11.0,7.0,4.0,75.0,121.0,37.0,2.0,1.0,5,True
+542272,233478,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Corrode,1,NRG,FNATIC,13,3,s0m,4164,omen,1.11,190.0,10.0,8.0,10.0,88.0,116.0,19.0,1.0,0.0,5,True
+542272,233478,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Corrode,1,NRG,FNATIC,13,3,skuba,11118,viper,0.98,162.0,10.0,8.0,4.0,94.0,116.0,24.0,0.0,1.0,5,True
+542272,233478,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Corrode,1,FNATIC,NRG,3,13,kaajak,9554,yoru,1.03,184.0,11.0,13.0,0.0,56.0,128.0,59.0,1.0,1.0,5,True
+542272,233478,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Corrode,1,FNATIC,NRG,3,13,crashies,4,fade,0.75,168.0,9.0,13.0,6.0,63.0,114.0,23.0,1.0,4.0,5,True
+542272,233478,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Corrode,1,FNATIC,NRG,3,13,Chronicle,458,viper,0.54,112.0,6.0,15.0,3.0,38.0,74.0,32.0,1.0,1.0,5,True
+542272,233478,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Corrode,1,FNATIC,NRG,3,13,Boaster,438,astra,0.44,121.0,6.0,15.0,4.0,56.0,73.0,9.0,2.0,2.0,5,True
+542272,233478,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Corrode,1,FNATIC,NRG,3,13,Alfajer,9810,vyse,0.41,144.0,8.0,16.0,2.0,50.0,102.0,45.0,1.0,2.0,5,True
+542272,233479,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Lotus,2,NRG,FNATIC,13,6,mada,5132,raze,1.27,275.0,20.0,13.0,4.0,79.0,170.0,40.0,5.0,4.0,5,True
+542272,233479,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Lotus,2,NRG,FNATIC,13,6,skuba,11118,viper,1.2,175.0,13.0,9.0,4.0,84.0,103.0,39.0,1.0,2.0,5,True
+542272,233479,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Lotus,2,NRG,FNATIC,13,6,brawk,2172,vyse,1.04,203.0,14.0,13.0,8.0,74.0,117.0,8.0,1.0,2.0,5,True
+542272,233479,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Lotus,2,NRG,FNATIC,13,6,Ethan,11225,fade,0.89,158.0,13.0,12.0,4.0,74.0,93.0,19.0,0.0,0.0,5,True
+542272,233479,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Lotus,2,NRG,FNATIC,13,6,s0m,4164,omen,0.88,160.0,10.0,13.0,6.0,68.0,101.0,15.0,2.0,2.0,5,True
+542272,233479,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Lotus,2,FNATIC,NRG,6,13,kaajak,9554,raze,1.34,313.0,21.0,15.0,4.0,79.0,198.0,38.0,6.0,4.0,5,True
+542272,233479,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Lotus,2,FNATIC,NRG,6,13,Chronicle,458,viper,1.05,186.0,12.0,12.0,5.0,58.0,131.0,30.0,1.0,2.0,5,True
+542272,233479,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Lotus,2,FNATIC,NRG,6,13,Alfajer,9810,killjoy,0.88,173.0,11.0,13.0,1.0,58.0,117.0,27.0,1.0,1.0,5,True
+542272,233479,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Lotus,2,FNATIC,NRG,6,13,Boaster,438,omen,0.82,163.0,9.0,14.0,7.0,79.0,110.0,12.0,1.0,0.0,5,True
+542272,233479,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Lotus,2,FNATIC,NRG,6,13,crashies,4,fade,0.49,107.0,7.0,16.0,7.0,58.0,78.0,28.0,1.0,2.0,5,True
+542272,233480,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Abyss,3,NRG,FNATIC,13,15,skuba,11118,vyse,1.2,216.0,22.0,15.0,4.0,75.0,131.0,32.0,3.0,2.0,5,True
+542272,233480,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Abyss,3,NRG,FNATIC,13,15,brawk,2172,sova,1.18,222.0,20.0,17.0,9.0,71.0,151.0,26.0,3.0,1.0,5,True
+542272,233480,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Abyss,3,NRG,FNATIC,13,15,Ethan,11225,omen,1.0,183.0,17.0,16.0,10.0,71.0,118.0,25.0,1.0,2.0,5,True
+542272,233480,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Abyss,3,NRG,FNATIC,13,15,mada,5132,yoru,0.82,153.0,15.0,18.0,3.0,64.0,113.0,41.0,5.0,5.0,5,True
+542272,233480,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Abyss,3,NRG,FNATIC,13,15,s0m,4164,harbor,0.53,129.0,13.0,22.0,5.0,64.0,87.0,28.0,0.0,6.0,5,True
+542272,233480,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Abyss,3,FNATIC,NRG,15,13,crashies,4,sova,1.38,221.0,22.0,15.0,7.0,61.0,139.0,29.0,3.0,3.0,5,True
+542272,233480,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Abyss,3,FNATIC,NRG,15,13,kaajak,9554,waylay,1.12,247.0,24.0,19.0,4.0,64.0,160.0,30.0,7.0,4.0,5,True
+542272,233480,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Abyss,3,FNATIC,NRG,15,13,Chronicle,458,breach,0.91,167.0,17.0,19.0,8.0,61.0,117.0,27.0,2.0,1.0,5,True
+542272,233480,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Abyss,3,FNATIC,NRG,15,13,Alfajer,9810,cypher,0.86,136.0,14.0,17.0,5.0,61.0,87.0,18.0,3.0,2.0,5,True
+542272,233480,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Abyss,3,FNATIC,NRG,15,13,Boaster,438,astra,0.85,130.0,11.0,17.0,10.0,71.0,87.0,28.0,1.0,2.0,5,True
+542272,233481,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Ascent,4,NRG,FNATIC,8,13,brawk,2172,sova,1.22,218.0,15.0,13.0,10.0,76.0,140.0,26.0,2.0,1.0,5,True
+542272,233481,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Ascent,4,NRG,FNATIC,8,13,s0m,4164,omen,1.0,246.0,17.0,18.0,7.0,76.0,146.0,25.0,4.0,2.0,5,True
+542272,233481,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Ascent,4,NRG,FNATIC,8,13,Ethan,11225,kayo,0.91,164.0,13.0,15.0,8.0,71.0,96.0,14.0,0.0,4.0,5,True
+542272,233481,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Ascent,4,NRG,FNATIC,8,13,skuba,11118,vyse,0.81,204.0,16.0,19.0,2.0,71.0,119.0,29.0,2.0,1.0,5,True
+542272,233481,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Ascent,4,NRG,FNATIC,8,13,mada,5132,jett,0.8,145.0,10.0,14.0,4.0,62.0,94.0,16.0,1.0,4.0,5,True
+542272,233481,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Ascent,4,FNATIC,NRG,13,8,Alfajer,9810,sage,1.44,299.0,23.0,14.0,4.0,76.0,200.0,46.0,5.0,1.0,5,True
+542272,233481,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Ascent,4,FNATIC,NRG,13,8,kaajak,9554,yoru,1.18,222.0,18.0,13.0,4.0,71.0,138.0,40.0,6.0,2.0,5,True
+542272,233481,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Ascent,4,FNATIC,NRG,13,8,crashies,4,sova,1.04,202.0,14.0,16.0,10.0,76.0,137.0,23.0,1.0,2.0,5,True
+542272,233481,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Ascent,4,FNATIC,NRG,13,8,Chronicle,458,vyse,0.98,221.0,18.0,16.0,7.0,71.0,137.0,21.0,0.0,2.0,5,True
+542272,233481,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Ascent,4,FNATIC,NRG,13,8,Boaster,438,omen,0.66,103.0,6.0,12.0,9.0,76.0,76.0,17.0,0.0,2.0,5,True
+542272,233482,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Sunset,5,NRG,FNATIC,13,5,Ethan,11225,breach,1.71,355.0,23.0,12.0,9.0,83.0,223.0,27.0,2.0,2.0,5,True
+542272,233482,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Sunset,5,NRG,FNATIC,13,5,skuba,11118,cypher,1.19,201.0,15.0,9.0,2.0,83.0,140.0,18.0,3.0,0.0,5,True
+542272,233482,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Sunset,5,NRG,FNATIC,13,5,brawk,2172,sova,1.12,203.0,11.0,11.0,11.0,100.0,145.0,31.0,0.0,0.0,5,True
+542272,233482,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Sunset,5,NRG,FNATIC,13,5,s0m,4164,omen,1.0,160.0,13.0,12.0,9.0,83.0,103.0,17.0,2.0,2.0,5,True
+542272,233482,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Sunset,5,NRG,FNATIC,13,5,mada,5132,neon,0.74,191.0,12.0,14.0,5.0,67.0,126.0,26.0,4.0,3.0,5,True
+542272,233482,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Sunset,5,FNATIC,NRG,5,13,kaajak,9554,yoru,1.12,227.0,16.0,15.0,2.0,67.0,152.0,27.0,3.0,1.0,5,True
+542272,233482,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Sunset,5,FNATIC,NRG,5,13,Alfajer,9810,neon,1.04,253.0,16.0,15.0,5.0,72.0,160.0,19.0,3.0,4.0,5,True
+542272,233482,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Sunset,5,FNATIC,NRG,5,13,Chronicle,458,cypher,1.0,197.0,13.0,15.0,5.0,78.0,131.0,24.0,1.0,3.0,5,True
+542272,233482,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Sunset,5,FNATIC,NRG,5,13,crashies,4,fade,0.57,141.0,7.0,14.0,6.0,72.0,98.0,40.0,0.0,3.0,5,True
+542272,233482,2283,Valorant Champions 2025,Playoffs: Grand Final,2025-10-05,Sunset,5,FNATIC,NRG,5,13,Boaster,438,omen,0.49,113.0,6.0,15.0,9.0,61.0,65.0,10.0,0.0,0.0,5,True

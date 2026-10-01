@@ -1,0 +1,1041 @@
+match_id,game_id,event_id,event,stage,date,map,map_order,team,opp,team_rounds,opp_rounds,player,player_id,agent,rating,acs,k,d,a,kast,adr,hs,fk,fd,best_of,completed
+459826,207147,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Split,1,Team Vitality,GIANTX,13,9,Sayf,312,tejo,1.42,272.0,21.0,13.0,4.0,82.0,183.0,26.0,2.0,0.0,3,True
+459826,207147,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Split,1,Team Vitality,GIANTX,13,9,CyvOph,13258,omen,1.31,225.0,18.0,12.0,11.0,77.0,138.0,50.0,1.0,4.0,3,True
+459826,207147,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Split,1,Team Vitality,GIANTX,13,9,Less,8447,cypher,0.86,166.0,13.0,14.0,5.0,68.0,114.0,32.0,1.0,1.0,3,True
+459826,207147,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Split,1,Team Vitality,GIANTX,13,9,Kicks,11134,breach,0.83,152.0,11.0,14.0,7.0,68.0,99.0,18.0,0.0,1.0,3,True
+459826,207147,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Split,1,Team Vitality,GIANTX,13,9,Derke,5022,yoru,0.75,161.0,12.0,18.0,4.0,59.0,127.0,38.0,7.0,5.0,3,True
+459826,207147,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Split,1,GIANTX,Team Vitality,9,13,westside,34684,cypher,1.5,271.0,23.0,14.0,3.0,77.0,160.0,53.0,2.0,2.0,3,True
+459826,207147,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Split,1,GIANTX,Team Vitality,9,13,Cloud,4181,tejo,1.27,215.0,17.0,13.0,5.0,77.0,162.0,30.0,2.0,2.0,3,True
+459826,207147,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Split,1,GIANTX,Team Vitality,9,13,runneR,21610,breach,1.16,210.0,16.0,14.0,9.0,77.0,136.0,26.0,1.0,0.0,3,True
+459826,207147,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Split,1,GIANTX,Team Vitality,9,13,purp0,1885,yoru,0.56,148.0,10.0,17.0,4.0,59.0,103.0,20.0,4.0,7.0,3,True
+459826,207147,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Split,1,GIANTX,Team Vitality,9,13,tomaszy,19691,omen,0.47,95.0,5.0,17.0,14.0,68.0,53.0,27.0,2.0,0.0,3,True
+459826,207148,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Lotus,2,Team Vitality,GIANTX,13,2,CyvOph,13258,omen,1.91,384.0,23.0,8.0,7.0,93.0,240.0,35.0,2.0,0.0,3,True
+459826,207148,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Lotus,2,Team Vitality,GIANTX,13,2,Derke,5022,yoru,1.44,306.0,16.0,9.0,6.0,87.0,176.0,28.0,6.0,0.0,3,True
+459826,207148,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Lotus,2,Team Vitality,GIANTX,13,2,Less,8447,viper,1.35,229.0,14.0,6.0,3.0,87.0,135.0,35.0,3.0,0.0,3,True
+459826,207148,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Lotus,2,Team Vitality,GIANTX,13,2,Kicks,11134,breach,1.26,167.0,10.0,6.0,6.0,93.0,101.0,21.0,2.0,0.0,3,True
+459826,207148,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Lotus,2,Team Vitality,GIANTX,13,2,Sayf,312,tejo,0.92,112.0,6.0,6.0,5.0,100.0,86.0,26.0,1.0,1.0,3,True
+459826,207148,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Lotus,2,GIANTX,Team Vitality,2,13,purp0,1885,raze,0.97,226.0,11.0,13.0,1.0,53.0,148.0,20.0,1.0,2.0,3,True
+459826,207148,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Lotus,2,GIANTX,Team Vitality,2,13,westside,34684,viper,0.75,158.0,7.0,13.0,2.0,53.0,100.0,33.0,0.0,2.0,3,True
+459826,207148,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Lotus,2,GIANTX,Team Vitality,2,13,Cloud,4181,fade,0.61,147.0,7.0,14.0,3.0,40.0,97.0,17.0,0.0,2.0,3,True
+459826,207148,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Lotus,2,GIANTX,Team Vitality,2,13,runneR,21610,vyse,0.44,142.0,6.0,15.0,6.0,60.0,105.0,28.0,0.0,5.0,3,True
+459826,207148,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Lotus,2,GIANTX,Team Vitality,2,13,tomaszy,19691,omen,0.31,92.0,4.0,14.0,3.0,60.0,71.0,28.0,0.0,3.0,3,True
+459827,207150,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Icebox,1,BBL Esports,Karmine Corp,3,13,LewN,20144,chamber,0.95,248.0,13.0,14.0,2.0,69.0,175.0,31.0,7.0,2.0,3,True
+459827,207150,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Icebox,1,BBL Esports,Karmine Corp,3,13,Jamppi,9780,tejo,0.74,164.0,9.0,13.0,4.0,63.0,108.0,26.0,0.0,0.0,3,True
+459827,207150,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Icebox,1,BBL Esports,Karmine Corp,3,13,MAGNUM,2173,viper,0.59,105.0,7.0,13.0,4.0,56.0,59.0,47.0,1.0,1.0,3,True
+459827,207150,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Icebox,1,BBL Esports,Karmine Corp,3,13,sociablEE,5568,sova,0.44,126.0,5.0,14.0,3.0,56.0,95.0,29.0,0.0,1.0,3,True
+459827,207150,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Icebox,1,BBL Esports,Karmine Corp,3,13,PROFEK,5554,clove,0.07,85.0,3.0,16.0,3.0,38.0,66.0,4.0,1.0,3.0,3,True
+459827,207150,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Icebox,1,Karmine Corp,BBL Esports,13,3,Elite,16459,killjoy,2.27,318.0,20.0,2.0,2.0,94.0,203.0,38.0,0.0,0.0,3,True
+459827,207150,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Icebox,1,Karmine Corp,BBL Esports,13,3,Avez,5654,tejo,1.57,306.0,17.0,9.0,6.0,75.0,206.0,28.0,0.0,0.0,3,True
+459827,207150,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Icebox,1,Karmine Corp,BBL Esports,13,3,marteen,10307,omen,1.43,248.0,15.0,8.0,4.0,75.0,157.0,28.0,4.0,4.0,3,True
+459827,207150,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Icebox,1,Karmine Corp,BBL Esports,13,3,SUYGETSU,2858,viper,1.21,150.0,9.0,5.0,3.0,81.0,112.0,33.0,2.0,3.0,3,True
+459827,207150,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Icebox,1,Karmine Corp,BBL Esports,13,3,saadhak,727,kayo,0.64,162.0,9.0,13.0,2.0,69.0,107.0,31.0,1.0,2.0,3,True
+459827,207151,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Pearl,2,BBL Esports,Karmine Corp,13,11,LewN,20144,yoru,1.2,241.0,20.0,15.0,4.0,75.0,157.0,34.0,5.0,5.0,3,True
+459827,207151,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Pearl,2,BBL Esports,Karmine Corp,13,11,MAGNUM,2173,vyse,1.14,206.0,18.0,16.0,7.0,71.0,134.0,28.0,2.0,3.0,3,True
+459827,207151,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Pearl,2,BBL Esports,Karmine Corp,13,11,Jamppi,9780,sova,1.11,215.0,17.0,15.0,4.0,63.0,154.0,34.0,3.0,4.0,3,True
+459827,207151,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Pearl,2,BBL Esports,Karmine Corp,13,11,PROFEK,5554,astra,1.06,181.0,15.0,15.0,8.0,79.0,139.0,23.0,0.0,0.0,3,True
+459827,207151,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Pearl,2,BBL Esports,Karmine Corp,13,11,sociablEE,5568,chamber,0.86,164.0,16.0,16.0,2.0,75.0,99.0,35.0,2.0,0.0,3,True
+459827,207151,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Pearl,2,Karmine Corp,BBL Esports,11,13,marteen,10307,yoru,1.04,196.0,16.0,16.0,3.0,63.0,134.0,28.0,5.0,3.0,3,True
+459827,207151,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Pearl,2,Karmine Corp,BBL Esports,11,13,SUYGETSU,2858,astra,1.02,210.0,19.0,18.0,5.0,75.0,144.0,53.0,2.0,1.0,3,True
+459827,207151,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Pearl,2,Karmine Corp,BBL Esports,11,13,Elite,16459,vyse,1.02,183.0,16.0,17.0,6.0,63.0,117.0,29.0,3.0,1.0,3,True
+459827,207151,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Pearl,2,Karmine Corp,BBL Esports,11,13,saadhak,727,harbor,0.81,207.0,16.0,20.0,9.0,71.0,141.0,28.0,2.0,2.0,3,True
+459827,207151,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Pearl,2,Karmine Corp,BBL Esports,11,13,Avez,5654,fade,0.68,111.0,10.0,15.0,6.0,63.0,76.0,42.0,0.0,5.0,3,True
+459827,207152,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Fracture,3,BBL Esports,Karmine Corp,13,8,sociablEE,5568,tejo,1.52,255.0,21.0,12.0,3.0,81.0,176.0,29.0,3.0,1.0,3,True
+459827,207152,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Fracture,3,BBL Esports,Karmine Corp,13,8,PROFEK,5554,astra,1.23,246.0,19.0,15.0,16.0,81.0,136.0,26.0,1.0,2.0,3,True
+459827,207152,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Fracture,3,BBL Esports,Karmine Corp,13,8,MAGNUM,2173,cypher,1.15,199.0,15.0,11.0,2.0,76.0,138.0,18.0,0.0,1.0,3,True
+459827,207152,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Fracture,3,BBL Esports,Karmine Corp,13,8,LewN,20144,yoru,0.88,237.0,17.0,16.0,5.0,71.0,139.0,17.0,7.0,5.0,3,True
+459827,207152,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Fracture,3,BBL Esports,Karmine Corp,13,8,Jamppi,9780,breach,0.83,150.0,13.0,14.0,1.0,71.0,93.0,23.0,1.0,0.0,3,True
+459827,207152,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Fracture,3,Karmine Corp,BBL Esports,8,13,SUYGETSU,2858,astra,1.11,242.0,18.0,16.0,5.0,76.0,163.0,50.0,1.0,2.0,3,True
+459827,207152,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Fracture,3,Karmine Corp,BBL Esports,8,13,marteen,10307,jett,1.07,231.0,18.0,17.0,2.0,57.0,159.0,25.0,2.0,1.0,3,True
+459827,207152,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Fracture,3,Karmine Corp,BBL Esports,8,13,Avez,5654,tejo,1.02,184.0,14.0,15.0,4.0,71.0,121.0,23.0,1.0,2.0,3,True
+459827,207152,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Fracture,3,Karmine Corp,BBL Esports,8,13,saadhak,727,breach,0.59,150.0,11.0,18.0,6.0,67.0,98.0,31.0,3.0,5.0,3,True
+459827,207152,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-26,Fracture,3,Karmine Corp,BBL Esports,8,13,Elite,16459,cypher,0.35,114.0,7.0,19.0,5.0,62.0,71.0,23.0,2.0,2.0,3,True
+459828,207153,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Ascent,1,Team Heretics,Apeks,5,13,MiniBoo,18350,waylay,0.94,229.0,14.0,14.0,1.0,61.0,141.0,30.0,5.0,5.0,3,True
+459828,207153,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Ascent,1,Team Heretics,Apeks,5,13,Boo,1144,omen,0.88,148.0,9.0,13.0,11.0,72.0,97.0,42.0,0.0,1.0,3,True
+459828,207153,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Ascent,1,Team Heretics,Apeks,5,13,RieNs,10971,sova,0.85,233.0,14.0,16.0,8.0,94.0,152.0,48.0,0.0,1.0,3,True
+459828,207153,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Ascent,1,Team Heretics,Apeks,5,13,benjyfishy,29873,cypher,0.66,177.0,12.0,17.0,3.0,72.0,107.0,34.0,1.0,0.0,3,True
+459828,207153,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Ascent,1,Team Heretics,Apeks,5,13,Wo0t,21328,kayo,0.55,135.0,8.0,16.0,7.0,61.0,91.0,28.0,1.0,4.0,3,True
+459828,207153,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Ascent,1,Apeks,Team Heretics,13,5,AvovA,1507,omen,1.97,275.0,19.0,6.0,16.0,94.0,167.0,33.0,2.0,0.0,3,True
+459828,207153,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Ascent,1,Apeks,Team Heretics,13,5,MOLSI,1281,deadlock,1.16,221.0,15.0,13.0,7.0,83.0,134.0,24.0,1.0,2.0,3,True
+459828,207153,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Ascent,1,Apeks,Team Heretics,13,5,Governor,3980,sova,1.09,223.0,14.0,12.0,5.0,67.0,148.0,33.0,4.0,3.0,3,True
+459828,207153,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Ascent,1,Apeks,Team Heretics,13,5,florescent,17976,yoru,0.94,231.0,15.0,13.0,3.0,78.0,149.0,28.0,2.0,0.0,3,True
+459828,207153,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Ascent,1,Apeks,Team Heretics,13,5,batujnax,18615,cypher,0.85,195.0,13.0,13.0,5.0,78.0,131.0,32.0,2.0,2.0,3,True
+459828,207154,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Split,2,Team Heretics,Apeks,13,8,MiniBoo,18350,raze,1.42,275.0,23.0,15.0,4.0,76.0,169.0,27.0,3.0,3.0,3,True
+459828,207154,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Split,2,Team Heretics,Apeks,13,8,Wo0t,21328,iso,1.3,235.0,18.0,13.0,5.0,71.0,163.0,31.0,3.0,2.0,3,True
+459828,207154,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Split,2,Team Heretics,Apeks,13,8,RieNs,10971,fade,1.27,224.0,17.0,12.0,3.0,76.0,152.0,58.0,2.0,1.0,3,True
+459828,207154,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Split,2,Team Heretics,Apeks,13,8,benjyfishy,29873,viper,0.99,201.0,16.0,13.0,6.0,71.0,143.0,26.0,2.0,2.0,3,True
+459828,207154,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Split,2,Team Heretics,Apeks,13,8,Boo,1144,omen,0.83,153.0,11.0,13.0,6.0,81.0,87.0,33.0,2.0,1.0,3,True
+459828,207154,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Split,2,Apeks,Team Heretics,8,13,AvovA,1507,omen,1.12,234.0,16.0,16.0,9.0,81.0,157.0,35.0,1.0,0.0,3,True
+459828,207154,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Split,2,Apeks,Team Heretics,8,13,MOLSI,1281,breach,0.95,198.0,13.0,17.0,14.0,76.0,133.0,26.0,0.0,2.0,3,True
+459828,207154,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Split,2,Apeks,Team Heretics,8,13,batujnax,18615,viper,0.78,203.0,13.0,17.0,4.0,52.0,127.0,15.0,2.0,5.0,3,True
+459828,207154,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Split,2,Apeks,Team Heretics,8,13,florescent,17976,yoru,0.74,221.0,16.0,19.0,0.0,52.0,139.0,43.0,5.0,3.0,3,True
+459828,207154,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Split,2,Apeks,Team Heretics,8,13,Governor,3980,tejo,0.45,105.0,8.0,16.0,2.0,43.0,71.0,17.0,1.0,2.0,3,True
+459828,207155,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Icebox,3,Team Heretics,Apeks,13,6,MiniBoo,18350,neon,1.36,300.0,20.0,12.0,3.0,68.0,183.0,30.0,6.0,3.0,3,True
+459828,207155,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Icebox,3,Team Heretics,Apeks,13,6,Wo0t,21328,tejo,1.28,221.0,17.0,10.0,5.0,84.0,133.0,23.0,1.0,0.0,3,True
+459828,207155,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Icebox,3,Team Heretics,Apeks,13,6,Boo,1144,viper,1.28,193.0,13.0,9.0,9.0,84.0,126.0,20.0,1.0,0.0,3,True
+459828,207155,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Icebox,3,Team Heretics,Apeks,13,6,RieNs,10971,sova,1.23,199.0,13.0,10.0,3.0,79.0,139.0,26.0,4.0,2.0,3,True
+459828,207155,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Icebox,3,Team Heretics,Apeks,13,6,benjyfishy,29873,vyse,1.21,196.0,15.0,11.0,7.0,79.0,156.0,32.0,0.0,2.0,3,True
+459828,207155,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Icebox,3,Apeks,Team Heretics,6,13,MOLSI,1281,breach,0.99,176.0,12.0,15.0,7.0,53.0,97.0,50.0,1.0,0.0,3,True
+459828,207155,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Icebox,3,Apeks,Team Heretics,6,13,AvovA,1507,viper,0.79,157.0,9.0,15.0,4.0,53.0,104.0,41.0,2.0,0.0,3,True
+459828,207155,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Icebox,3,Apeks,Team Heretics,6,13,batujnax,18615,killjoy,0.76,184.0,13.0,15.0,2.0,63.0,119.0,26.0,0.0,2.0,3,True
+459828,207155,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Icebox,3,Apeks,Team Heretics,6,13,Governor,3980,tejo,0.48,129.0,9.0,16.0,3.0,58.0,87.0,45.0,2.0,4.0,3,True
+459828,207155,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Icebox,3,Apeks,Team Heretics,6,13,florescent,17976,waylay,0.45,158.0,9.0,17.0,3.0,47.0,112.0,28.0,2.0,6.0,3,True
+459829,207156,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Pearl,1,FUT Esports,Movistar KOI (KOI),13,4,xeus,12793,yoru,2.08,361.0,24.0,7.0,6.0,88.0,238.0,46.0,3.0,1.0,3,True
+459829,207156,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Pearl,1,FUT Esports,Movistar KOI (KOI),13,4,MrFaliN,8044,tejo,1.57,291.0,18.0,9.0,7.0,94.0,166.0,30.0,7.0,0.0,3,True
+459829,207156,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Pearl,1,FUT Esports,Movistar KOI (KOI),13,4,AtaKaptan,6510,astra,1.19,174.0,10.0,8.0,15.0,88.0,99.0,32.0,1.0,0.0,3,True
+459829,207156,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Pearl,1,FUT Esports,Movistar KOI (KOI),13,4,yetujey,8369,cypher,1.12,207.0,13.0,10.0,6.0,94.0,127.0,41.0,2.0,1.0,3,True
+459829,207156,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Pearl,1,FUT Esports,Movistar KOI (KOI),13,4,qRaxs,1139,fade,0.26,86.0,4.0,14.0,6.0,88.0,64.0,33.0,1.0,1.0,3,True
+459829,207156,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Pearl,1,Movistar KOI (KOI),FUT Esports,4,13,Filu,4544,yoru,0.97,179.0,12.0,13.0,2.0,53.0,102.0,44.0,2.0,4.0,3,True
+459829,207156,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Pearl,1,Movistar KOI (KOI),FUT Esports,4,13,flyuh,3685,sova,0.8,216.0,10.0,15.0,7.0,76.0,158.0,21.0,0.0,2.0,3,True
+459829,207156,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Pearl,1,Movistar KOI (KOI),FUT Esports,4,13,soulcas,101,vyse,0.77,138.0,8.0,12.0,3.0,76.0,90.0,42.0,0.0,0.0,3,True
+459829,207156,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Pearl,1,Movistar KOI (KOI),FUT Esports,4,13,grubinho,5550,astra,0.62,130.0,9.0,14.0,4.0,65.0,71.0,40.0,1.0,5.0,3,True
+459829,207156,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Pearl,1,Movistar KOI (KOI),FUT Esports,4,13,sheydos,1428,chamber,0.6,157.0,9.0,15.0,1.0,59.0,110.0,23.0,0.0,3.0,3,True
+459829,207157,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Lotus,2,FUT Esports,Movistar KOI (KOI),14,12,xeus,12793,jett,1.46,338.0,33.0,18.0,3.0,73.0,198.0,41.0,10.0,7.0,3,True
+459829,207157,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Lotus,2,FUT Esports,Movistar KOI (KOI),14,12,MrFaliN,8044,breach,1.41,231.0,21.0,14.0,18.0,85.0,135.0,27.0,2.0,0.0,3,True
+459829,207157,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Lotus,2,FUT Esports,Movistar KOI (KOI),14,12,yetujey,8369,cypher,1.29,225.0,22.0,13.0,6.0,73.0,141.0,15.0,2.0,0.0,3,True
+459829,207157,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Lotus,2,FUT Esports,Movistar KOI (KOI),14,12,AtaKaptan,6510,omen,0.93,159.0,14.0,17.0,18.0,81.0,106.0,17.0,1.0,1.0,3,True
+459829,207157,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Lotus,2,FUT Esports,Movistar KOI (KOI),14,12,qRaxs,1139,fade,0.68,133.0,12.0,17.0,10.0,81.0,89.0,18.0,1.0,2.0,3,True
+459829,207157,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Lotus,2,Movistar KOI (KOI),FUT Esports,12,14,sheydos,1428,tejo,1.16,221.0,21.0,19.0,2.0,62.0,147.0,23.0,2.0,1.0,3,True
+459829,207157,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Lotus,2,Movistar KOI (KOI),FUT Esports,12,14,Filu,4544,yoru,0.98,188.0,18.0,19.0,7.0,54.0,108.0,21.0,3.0,5.0,3,True
+459829,207157,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Lotus,2,Movistar KOI (KOI),FUT Esports,12,14,grubinho,5550,omen,0.87,176.0,15.0,21.0,8.0,50.0,119.0,43.0,3.0,6.0,3,True
+459829,207157,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Lotus,2,Movistar KOI (KOI),FUT Esports,12,14,soulcas,101,vyse,0.7,147.0,10.0,21.0,10.0,62.0,110.0,26.0,0.0,0.0,3,True
+459829,207157,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-27,Lotus,2,Movistar KOI (KOI),FUT Esports,12,14,flyuh,3685,cypher,0.53,154.0,15.0,22.0,1.0,62.0,103.0,30.0,2.0,4.0,3,True
+459830,207159,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,FNATIC,Natus Vincere,13,5,crashies,4,fade,1.97,297.0,20.0,5.0,11.0,89.0,210.0,42.0,2.0,0.0,3,True
+459830,207159,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,FNATIC,Natus Vincere,13,5,Chronicle,458,viper,1.36,201.0,16.0,8.0,3.0,72.0,125.0,20.0,3.0,1.0,3,True
+459830,207159,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,FNATIC,Natus Vincere,13,5,kaajak,9554,yoru,1.13,223.0,15.0,11.0,4.0,89.0,145.0,26.0,0.0,1.0,3,True
+459830,207159,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,FNATIC,Natus Vincere,13,5,Boaster,438,astra,1.08,182.0,12.0,9.0,4.0,61.0,112.0,52.0,2.0,3.0,3,True
+459830,207159,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,FNATIC,Natus Vincere,13,5,Alfajer,9810,raze,0.76,182.0,12.0,12.0,4.0,72.0,108.0,19.0,3.0,3.0,3,True
+459830,207159,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Natus Vincere,FNATIC,5,13,koalanoob,3722,raze,1.23,283.0,16.0,16.0,2.0,72.0,183.0,18.0,7.0,3.0,3,True
+459830,207159,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Natus Vincere,FNATIC,5,13,Shao,384,astra,1.08,202.0,12.0,14.0,8.0,61.0,146.0,41.0,0.0,0.0,3,True
+459830,207159,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Natus Vincere,FNATIC,5,13,Ruxic,18677,omen,0.64,134.0,7.0,15.0,8.0,56.0,85.0,32.0,1.0,1.0,3,True
+459830,207159,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Natus Vincere,FNATIC,5,13,hiro,29867,vyse,0.35,100.0,6.0,16.0,1.0,39.0,71.0,21.0,0.0,3.0,3,True
+459830,207159,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Natus Vincere,FNATIC,5,13,ANGE1,109,fade,0.3,70.0,4.0,14.0,3.0,61.0,54.0,19.0,0.0,3.0,3,True
+459830,207160,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Fracture,2,FNATIC,Natus Vincere,13,11,crashies,4,tejo,1.42,299.0,26.0,17.0,3.0,88.0,195.0,37.0,2.0,1.0,3,True
+459830,207160,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Fracture,2,FNATIC,Natus Vincere,13,11,Boaster,438,brimstone,1.0,150.0,11.0,13.0,9.0,63.0,96.0,29.0,3.0,1.0,3,True
+459830,207160,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Fracture,2,FNATIC,Natus Vincere,13,11,Chronicle,458,breach,0.95,172.0,13.0,16.0,11.0,67.0,115.0,25.0,2.0,2.0,3,True
+459830,207160,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Fracture,2,FNATIC,Natus Vincere,13,11,Alfajer,9810,cypher,0.86,169.0,14.0,15.0,5.0,63.0,125.0,26.0,2.0,1.0,3,True
+459830,207160,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Fracture,2,FNATIC,Natus Vincere,13,11,kaajak,9554,neon,0.62,143.0,13.0,19.0,4.0,46.0,96.0,17.0,5.0,5.0,3,True
+459830,207160,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Fracture,2,Natus Vincere,FNATIC,11,13,koalanoob,3722,raze,1.32,261.0,22.0,14.0,2.0,79.0,146.0,13.0,6.0,2.0,3,True
+459830,207160,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Fracture,2,Natus Vincere,FNATIC,11,13,Shao,384,breach,1.2,194.0,16.0,12.0,10.0,83.0,130.0,55.0,0.0,1.0,3,True
+459830,207160,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Fracture,2,Natus Vincere,FNATIC,11,13,hiro,29867,cypher,0.92,191.0,17.0,16.0,1.0,71.0,127.0,33.0,1.0,5.0,3,True
+459830,207160,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Fracture,2,Natus Vincere,FNATIC,11,13,Ruxic,18677,brimstone,0.84,158.0,12.0,15.0,13.0,75.0,108.0,18.0,2.0,4.0,3,True
+459830,207160,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Fracture,2,Natus Vincere,FNATIC,11,13,ANGE1,109,fade,0.66,153.0,13.0,20.0,8.0,67.0,105.0,44.0,1.0,2.0,3,True
+459831,207162,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Team Liquid,Gentle Mates,13,6,keiko,11494,raze,1.43,316.0,21.0,12.0,4.0,79.0,200.0,28.0,6.0,0.0,3,True
+459831,207162,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Team Liquid,Gentle Mates,13,6,nAts,457,viper,1.32,222.0,16.0,10.0,5.0,74.0,134.0,20.0,2.0,2.0,3,True
+459831,207162,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Team Liquid,Gentle Mates,13,6,paTiTek,309,fade,1.26,214.0,14.0,10.0,4.0,68.0,144.0,20.0,4.0,1.0,3,True
+459831,207162,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Team Liquid,Gentle Mates,13,6,kamo,14681,yoru,0.99,169.0,12.0,11.0,2.0,79.0,124.0,24.0,2.0,1.0,3,True
+459831,207162,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Team Liquid,Gentle Mates,13,6,Serial,18162,astra,0.88,125.0,8.0,10.0,8.0,79.0,103.0,36.0,1.0,0.0,3,True
+459831,207162,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Gentle Mates,Team Liquid,6,13,Minny,23169,viper,1.53,238.0,16.0,11.0,2.0,63.0,144.0,48.0,1.0,1.0,3,True
+459831,207162,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Gentle Mates,Team Liquid,6,13,Kada,20871,omen,0.87,156.0,10.0,13.0,8.0,84.0,89.0,27.0,1.0,0.0,3,True
+459831,207162,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Gentle Mates,Team Liquid,6,13,Zyppan,11,tejo,0.68,199.0,12.0,16.0,4.0,68.0,135.0,29.0,1.0,2.0,3,True
+459831,207162,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Gentle Mates,Team Liquid,6,13,kamyk,1475,breach,0.63,126.0,9.0,15.0,5.0,68.0,83.0,14.0,1.0,4.0,3,True
+459831,207162,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Split,1,Gentle Mates,Team Liquid,6,13,Click,7866,raze,0.29,101.0,6.0,16.0,1.0,47.0,70.0,19.0,0.0,8.0,3,True
+459831,207163,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Haven,2,Team Liquid,Gentle Mates,12,14,keiko,11494,omen,1.34,261.0,25.0,18.0,11.0,81.0,154.0,48.0,1.0,2.0,3,True
+459831,207163,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Haven,2,Team Liquid,Gentle Mates,12,14,paTiTek,309,breach,1.05,195.0,18.0,18.0,8.0,65.0,132.0,45.0,2.0,1.0,3,True
+459831,207163,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Haven,2,Team Liquid,Gentle Mates,12,14,kamo,14681,jett,0.99,194.0,18.0,17.0,4.0,69.0,123.0,37.0,3.0,4.0,3,True
+459831,207163,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Haven,2,Team Liquid,Gentle Mates,12,14,nAts,457,cypher,0.93,198.0,18.0,19.0,3.0,62.0,132.0,30.0,5.0,4.0,3,True
+459831,207163,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Haven,2,Team Liquid,Gentle Mates,12,14,Serial,18162,tejo,0.55,117.0,10.0,20.0,5.0,62.0,83.0,24.0,2.0,2.0,3,True
+459831,207163,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Haven,2,Gentle Mates,Team Liquid,14,12,Minny,23169,cypher,1.54,263.0,25.0,14.0,5.0,81.0,186.0,39.0,4.0,2.0,3,True
+459831,207163,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Haven,2,Gentle Mates,Team Liquid,14,12,kamyk,1475,breach,1.16,256.0,23.0,20.0,12.0,77.0,161.0,40.0,0.0,1.0,3,True
+459831,207163,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Haven,2,Gentle Mates,Team Liquid,14,12,Zyppan,11,sova,1.12,189.0,18.0,15.0,5.0,69.0,126.0,40.0,2.0,2.0,3,True
+459831,207163,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Haven,2,Gentle Mates,Team Liquid,14,12,Kada,20871,omen,0.89,167.0,15.0,18.0,16.0,85.0,108.0,33.0,2.0,1.0,3,True
+459831,207163,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Haven,2,Gentle Mates,Team Liquid,14,12,Click,7866,neon,0.35,119.0,11.0,22.0,3.0,50.0,80.0,36.0,5.0,7.0,3,True
+459831,207164,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Icebox,3,Team Liquid,Gentle Mates,6,13,Serial,18162,killjoy,0.97,202.0,13.0,16.0,3.0,58.0,157.0,27.0,1.0,3.0,3,True
+459831,207164,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Icebox,3,Team Liquid,Gentle Mates,6,13,nAts,457,viper,0.92,168.0,12.0,14.0,2.0,63.0,127.0,30.0,1.0,3.0,3,True
+459831,207164,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Icebox,3,Team Liquid,Gentle Mates,6,13,keiko,11494,omen,0.84,192.0,11.0,17.0,4.0,53.0,138.0,35.0,1.0,3.0,3,True
+459831,207164,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Icebox,3,Team Liquid,Gentle Mates,6,13,kamo,14681,waylay,0.8,169.0,11.0,15.0,4.0,58.0,100.0,15.0,2.0,2.0,3,True
+459831,207164,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Icebox,3,Team Liquid,Gentle Mates,6,13,paTiTek,309,tejo,0.47,138.0,7.0,17.0,4.0,68.0,89.0,22.0,3.0,0.0,3,True
+459831,207164,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Icebox,3,Gentle Mates,Team Liquid,13,6,Zyppan,11,tejo,1.4,264.0,18.0,10.0,6.0,95.0,185.0,26.0,4.0,1.0,3,True
+459831,207164,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Icebox,3,Gentle Mates,Team Liquid,13,6,Minny,23169,killjoy,1.23,211.0,15.0,10.0,1.0,74.0,145.0,32.0,2.0,0.0,3,True
+459831,207164,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Icebox,3,Gentle Mates,Team Liquid,13,6,kamyk,1475,kayo,1.22,235.0,16.0,11.0,10.0,79.0,144.0,18.0,1.0,3.0,3,True
+459831,207164,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Icebox,3,Gentle Mates,Team Liquid,13,6,Kada,20871,viper,1.19,187.0,13.0,9.0,11.0,79.0,125.0,16.0,2.0,1.0,3,True
+459831,207164,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 1,2025-03-28,Icebox,3,Gentle Mates,Team Liquid,13,6,Click,7866,waylay,0.94,229.0,17.0,14.0,3.0,74.0,129.0,45.0,2.0,3.0,3,True
+459832,207165,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Fracture,1,Team Liquid,BBL Esports,13,7,paTiTek,309,breach,1.59,305.0,23.0,11.0,6.0,75.0,195.0,30.0,2.0,0.0,3,True
+459832,207165,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Fracture,1,Team Liquid,BBL Esports,13,7,nAts,457,vyse,1.26,278.0,20.0,13.0,5.0,80.0,174.0,27.0,3.0,0.0,3,True
+459832,207165,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Fracture,1,Team Liquid,BBL Esports,13,7,Serial,18162,tejo,1.22,196.0,14.0,11.0,8.0,70.0,131.0,32.0,2.0,2.0,3,True
+459832,207165,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Fracture,1,Team Liquid,BBL Esports,13,7,keiko,11494,brimstone,1.11,209.0,16.0,14.0,5.0,80.0,152.0,50.0,1.0,1.0,3,True
+459832,207165,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Fracture,1,Team Liquid,BBL Esports,13,7,kamo,14681,neon,0.44,104.0,8.0,16.0,3.0,45.0,75.0,31.0,4.0,5.0,3,True
+459832,207165,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Fracture,1,BBL Esports,Team Liquid,7,13,sociablEE,5568,tejo,1.2,226.0,17.0,15.0,1.0,55.0,157.0,33.0,0.0,2.0,3,True
+459832,207165,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Fracture,1,BBL Esports,Team Liquid,7,13,PROFEK,5554,astra,0.97,215.0,16.0,15.0,3.0,65.0,148.0,36.0,1.0,2.0,3,True
+459832,207165,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Fracture,1,BBL Esports,Team Liquid,7,13,MAGNUM,2173,cypher,0.97,184.0,11.0,16.0,8.0,85.0,126.0,31.0,2.0,1.0,3,True
+459832,207165,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Fracture,1,BBL Esports,Team Liquid,7,13,LewN,20144,yoru,0.69,165.0,11.0,16.0,5.0,60.0,107.0,41.0,3.0,6.0,3,True
+459832,207165,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Fracture,1,BBL Esports,Team Liquid,7,13,Jamppi,9780,breach,0.55,141.0,10.0,19.0,8.0,60.0,91.0,29.0,2.0,1.0,3,True
+459832,207166,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Team Liquid,BBL Esports,4,13,keiko,11494,iso,1.0,235.0,14.0,13.0,1.0,53.0,150.0,44.0,0.0,2.0,3,True
+459832,207166,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Team Liquid,BBL Esports,4,13,kamo,14681,neon,0.71,195.0,11.0,15.0,1.0,47.0,112.0,17.0,3.0,2.0,3,True
+459832,207166,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Team Liquid,BBL Esports,4,13,nAts,457,cypher,0.61,168.0,9.0,15.0,2.0,47.0,111.0,23.0,2.0,3.0,3,True
+459832,207166,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Team Liquid,BBL Esports,4,13,paTiTek,309,sova,0.49,95.0,5.0,14.0,1.0,47.0,75.0,35.0,0.0,1.0,3,True
+459832,207166,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Team Liquid,BBL Esports,4,13,Serial,18162,astra,0.24,96.0,5.0,14.0,1.0,41.0,58.0,36.0,1.0,3.0,3,True
+459832,207166,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,BBL Esports,Team Liquid,13,4,MAGNUM,2173,cypher,1.92,318.0,18.0,8.0,10.0,88.0,193.0,18.0,4.0,1.0,3,True
+459832,207166,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,BBL Esports,Team Liquid,13,4,Jamppi,9780,breach,1.67,253.0,19.0,7.0,2.0,82.0,157.0,27.0,0.0,0.0,3,True
+459832,207166,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,BBL Esports,Team Liquid,13,4,PROFEK,5554,omen,1.64,247.0,18.0,7.0,4.0,88.0,149.0,26.0,3.0,0.0,3,True
+459832,207166,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,BBL Esports,Team Liquid,13,4,sociablEE,5568,sova,0.84,156.0,9.0,11.0,6.0,71.0,114.0,26.0,1.0,1.0,3,True
+459832,207166,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,BBL Esports,Team Liquid,13,4,LewN,20144,jett,0.53,121.0,7.0,11.0,3.0,59.0,86.0,22.0,3.0,4.0,3,True
+459832,207167,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Ascent,3,Team Liquid,BBL Esports,13,4,nAts,457,cypher,1.68,254.0,18.0,6.0,1.0,82.0,159.0,49.0,1.0,3.0,3,True
+459832,207167,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Ascent,3,Team Liquid,BBL Esports,13,4,keiko,11494,omen,1.38,243.0,14.0,10.0,6.0,76.0,164.0,59.0,3.0,2.0,3,True
+459832,207167,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Ascent,3,Team Liquid,BBL Esports,13,4,kamo,14681,jett,1.3,269.0,17.0,11.0,2.0,88.0,195.0,24.0,4.0,0.0,3,True
+459832,207167,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Ascent,3,Team Liquid,BBL Esports,13,4,Serial,18162,deadlock,1.26,207.0,15.0,8.0,4.0,76.0,140.0,42.0,3.0,1.0,3,True
+459832,207167,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Ascent,3,Team Liquid,BBL Esports,13,4,paTiTek,309,tejo,0.93,190.0,9.0,11.0,8.0,76.0,132.0,17.0,0.0,0.0,3,True
+459832,207167,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Ascent,3,BBL Esports,Team Liquid,4,13,PROFEK,5554,astra,0.85,199.0,12.0,15.0,5.0,76.0,120.0,23.0,2.0,1.0,3,True
+459832,207167,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Ascent,3,BBL Esports,Team Liquid,4,13,Jamppi,9780,tejo,0.77,153.0,8.0,14.0,6.0,59.0,115.0,13.0,2.0,2.0,3,True
+459832,207167,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Ascent,3,BBL Esports,Team Liquid,4,13,sociablEE,5568,fade,0.69,171.0,10.0,15.0,4.0,59.0,114.0,31.0,1.0,1.0,3,True
+459832,207167,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Ascent,3,BBL Esports,Team Liquid,4,13,MAGNUM,2173,kayo,0.69,173.0,10.0,15.0,6.0,59.0,105.0,11.0,1.0,4.0,3,True
+459832,207167,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Ascent,3,BBL Esports,Team Liquid,4,13,LewN,20144,yoru,0.48,104.0,6.0,14.0,2.0,53.0,72.0,30.0,0.0,3.0,3,True
+459833,207168,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Lotus,1,Apeks,Natus Vincere,13,10,florescent,17976,yoru,1.24,241.0,22.0,16.0,4.0,78.0,151.0,38.0,3.0,3.0,3,True
+459833,207168,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Lotus,1,Apeks,Natus Vincere,13,10,batujnax,18615,viper,1.2,187.0,16.0,12.0,8.0,83.0,118.0,23.0,4.0,2.0,3,True
+459833,207168,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Lotus,1,Apeks,Natus Vincere,13,10,MOLSI,1281,breach,1.15,231.0,19.0,14.0,7.0,74.0,158.0,25.0,0.0,2.0,3,True
+459833,207168,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Lotus,1,Apeks,Natus Vincere,13,10,AvovA,1507,omen,0.93,158.0,11.0,14.0,8.0,78.0,102.0,31.0,2.0,1.0,3,True
+459833,207168,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Lotus,1,Apeks,Natus Vincere,13,10,Governor,3980,tejo,0.91,213.0,17.0,17.0,5.0,65.0,139.0,22.0,1.0,5.0,3,True
+459833,207168,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Lotus,1,Natus Vincere,Apeks,10,13,hiro,29867,raze,1.3,286.0,23.0,18.0,8.0,70.0,186.0,20.0,4.0,1.0,3,True
+459833,207168,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Lotus,1,Natus Vincere,Apeks,10,13,Shao,384,astra,1.02,207.0,17.0,16.0,5.0,74.0,137.0,42.0,1.0,0.0,3,True
+459833,207168,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Lotus,1,Natus Vincere,Apeks,10,13,ANGE1,109,fade,0.93,172.0,14.0,17.0,7.0,70.0,118.0,40.0,5.0,2.0,3,True
+459833,207168,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Lotus,1,Natus Vincere,Apeks,10,13,koalanoob,3722,chamber,0.74,121.0,11.0,16.0,4.0,57.0,95.0,30.0,1.0,4.0,3,True
+459833,207168,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Lotus,1,Natus Vincere,Apeks,10,13,Ruxic,18677,omen,0.52,118.0,8.0,19.0,7.0,78.0,89.0,23.0,2.0,3.0,3,True
+459833,207169,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Apeks,Natus Vincere,11,13,florescent,17976,neon,1.45,288.0,26.0,15.0,5.0,71.0,174.0,33.0,6.0,6.0,3,True
+459833,207169,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Apeks,Natus Vincere,11,13,MOLSI,1281,breach,0.88,169.0,14.0,19.0,13.0,79.0,104.0,20.0,0.0,1.0,3,True
+459833,207169,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Apeks,Natus Vincere,11,13,Governor,3980,sova,0.79,138.0,11.0,17.0,6.0,63.0,90.0,39.0,1.0,4.0,3,True
+459833,207169,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Apeks,Natus Vincere,11,13,batujnax,18615,cypher,0.75,148.0,13.0,17.0,5.0,58.0,90.0,26.0,2.0,3.0,3,True
+459833,207169,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Apeks,Natus Vincere,11,13,AvovA,1507,omen,0.69,141.0,11.0,18.0,7.0,67.0,91.0,21.0,0.0,1.0,3,True
+459833,207169,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Natus Vincere,Apeks,13,11,Shao,384,sova,1.32,221.0,20.0,13.0,5.0,83.0,145.0,38.0,3.0,0.0,3,True
+459833,207169,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Natus Vincere,Apeks,13,11,koalanoob,3722,yoru,1.18,244.0,22.0,17.0,3.0,75.0,171.0,23.0,7.0,3.0,3,True
+459833,207169,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Natus Vincere,Apeks,13,11,Ruxic,18677,omen,1.1,181.0,15.0,14.0,11.0,83.0,119.0,37.0,2.0,1.0,3,True
+459833,207169,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Natus Vincere,Apeks,13,11,hiro,29867,cypher,1.09,228.0,20.0,16.0,4.0,71.0,144.0,45.0,2.0,4.0,3,True
+459833,207169,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Haven,2,Natus Vincere,Apeks,13,11,ANGE1,109,vyse,0.72,131.0,9.0,15.0,9.0,75.0,98.0,37.0,1.0,1.0,3,True
+459833,207170,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Split,3,Apeks,Natus Vincere,6,13,florescent,17976,yoru,1.65,318.0,22.0,13.0,6.0,74.0,201.0,38.0,3.0,1.0,3,True
+459833,207170,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Split,3,Apeks,Natus Vincere,6,13,MOLSI,1281,breach,0.8,174.0,10.0,15.0,10.0,79.0,126.0,20.0,2.0,3.0,3,True
+459833,207170,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Split,3,Apeks,Natus Vincere,6,13,AvovA,1507,omen,0.76,182.0,11.0,16.0,5.0,58.0,114.0,24.0,2.0,1.0,3,True
+459833,207170,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Split,3,Apeks,Natus Vincere,6,13,batujnax,18615,viper,0.61,151.0,9.0,16.0,3.0,79.0,98.0,20.0,2.0,3.0,3,True
+459833,207170,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Split,3,Apeks,Natus Vincere,6,13,Governor,3980,tejo,0.44,94.0,6.0,14.0,2.0,53.0,64.0,19.0,1.0,1.0,3,True
+459833,207170,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Split,3,Natus Vincere,Apeks,13,6,Ruxic,18677,omen,1.71,342.0,24.0,11.0,8.0,89.0,219.0,37.0,2.0,3.0,3,True
+459833,207170,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Split,3,Natus Vincere,Apeks,13,6,Shao,384,astra,1.3,281.0,19.0,13.0,2.0,89.0,182.0,25.0,2.0,1.0,3,True
+459833,207170,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Split,3,Natus Vincere,Apeks,13,6,hiro,29867,vyse,0.96,142.0,9.0,11.0,5.0,58.0,109.0,39.0,0.0,1.0,3,True
+459833,207170,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Split,3,Natus Vincere,Apeks,13,6,koalanoob,3722,raze,0.92,200.0,14.0,14.0,2.0,84.0,149.0,31.0,5.0,3.0,3,True
+459833,207170,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-02,Split,3,Natus Vincere,Apeks,13,6,ANGE1,109,fade,0.86,107.0,8.0,9.0,2.0,68.0,73.0,41.0,0.0,2.0,3,True
+459834,207171,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Icebox,1,FUT Esports,Gentle Mates,10,13,MrFaliN,8044,sova,1.22,240.0,17.0,15.0,7.0,57.0,163.0,33.0,2.0,2.0,3,True
+459834,207171,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Icebox,1,FUT Esports,Gentle Mates,10,13,xeus,12793,jett,1.1,253.0,19.0,18.0,3.0,74.0,152.0,33.0,5.0,6.0,3,True
+459834,207171,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Icebox,1,FUT Esports,Gentle Mates,10,13,qRaxs,1139,kayo,0.94,153.0,13.0,15.0,11.0,78.0,91.0,15.0,0.0,2.0,3,True
+459834,207171,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Icebox,1,FUT Esports,Gentle Mates,10,13,AtaKaptan,6510,viper,0.68,152.0,13.0,18.0,6.0,65.0,94.0,23.0,3.0,1.0,3,True
+459834,207171,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Icebox,1,FUT Esports,Gentle Mates,10,13,yetujey,8369,tejo,0.64,133.0,11.0,19.0,7.0,65.0,92.0,19.0,0.0,2.0,3,True
+459834,207171,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Icebox,1,Gentle Mates,FUT Esports,13,10,kamyk,1475,kayo,1.4,286.0,22.0,15.0,16.0,83.0,185.0,26.0,2.0,1.0,3,True
+459834,207171,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Icebox,1,Gentle Mates,FUT Esports,13,10,Kada,20871,viper,1.15,208.0,17.0,14.0,7.0,83.0,159.0,39.0,3.0,2.0,3,True
+459834,207171,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Icebox,1,Gentle Mates,FUT Esports,13,10,Minny,23169,killjoy,1.09,184.0,16.0,13.0,1.0,78.0,116.0,36.0,1.0,1.0,3,True
+459834,207171,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Icebox,1,Gentle Mates,FUT Esports,13,10,Zyppan,11,tejo,0.95,138.0,11.0,13.0,5.0,78.0,106.0,27.0,1.0,1.0,3,True
+459834,207171,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Icebox,1,Gentle Mates,FUT Esports,13,10,Click,7866,waylay,0.92,233.0,19.0,18.0,2.0,70.0,148.0,59.0,6.0,5.0,3,True
+459834,207172,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Fracture,2,FUT Esports,Gentle Mates,18,16,AtaKaptan,6510,brimstone,1.21,220.0,23.0,24.0,28.0,88.0,144.0,31.0,4.0,4.0,3,True
+459834,207172,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Fracture,2,FUT Esports,Gentle Mates,18,16,xeus,12793,neon,1.2,256.0,29.0,24.0,8.0,76.0,161.0,34.0,5.0,5.0,3,True
+459834,207172,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Fracture,2,FUT Esports,Gentle Mates,18,16,MrFaliN,8044,breach,1.12,209.0,28.0,24.0,12.0,85.0,115.0,12.0,2.0,2.0,3,True
+459834,207172,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Fracture,2,FUT Esports,Gentle Mates,18,16,yetujey,8369,cypher,1.01,224.0,26.0,25.0,7.0,74.0,150.0,18.0,5.0,3.0,3,True
+459834,207172,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Fracture,2,FUT Esports,Gentle Mates,18,16,qRaxs,1139,kayo,0.95,184.0,20.0,24.0,20.0,88.0,114.0,25.0,3.0,1.0,3,True
+459834,207172,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Fracture,2,Gentle Mates,FUT Esports,16,18,kamyk,1475,breach,1.26,268.0,34.0,26.0,8.0,71.0,166.0,31.0,2.0,3.0,3,True
+459834,207172,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Fracture,2,Gentle Mates,FUT Esports,16,18,Kada,20871,brimstone,1.06,218.0,25.0,25.0,15.0,82.0,133.0,22.0,7.0,2.0,3,True
+459834,207172,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Fracture,2,Gentle Mates,FUT Esports,16,18,Zyppan,11,tejo,1.0,186.0,22.0,24.0,12.0,71.0,135.0,25.0,3.0,3.0,3,True
+459834,207172,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Fracture,2,Gentle Mates,FUT Esports,16,18,Minny,23169,cypher,0.89,197.0,25.0,25.0,7.0,65.0,137.0,29.0,3.0,6.0,3,True
+459834,207172,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Fracture,2,Gentle Mates,FUT Esports,16,18,Click,7866,neon,0.57,140.0,15.0,26.0,7.0,74.0,94.0,31.0,0.0,5.0,3,True
+459834,207173,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,FUT Esports,Gentle Mates,13,4,qRaxs,1139,fade,1.84,315.0,22.0,7.0,7.0,94.0,193.0,25.0,0.0,0.0,3,True
+459834,207173,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,FUT Esports,Gentle Mates,13,4,yetujey,8369,cypher,1.51,269.0,16.0,9.0,8.0,94.0,198.0,31.0,4.0,2.0,3,True
+459834,207173,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,FUT Esports,Gentle Mates,13,4,AtaKaptan,6510,omen,1.45,235.0,15.0,8.0,10.0,82.0,144.0,52.0,2.0,0.0,3,True
+459834,207173,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,FUT Esports,Gentle Mates,13,4,MrFaliN,8044,breach,1.14,163.0,11.0,8.0,5.0,82.0,89.0,25.0,1.0,2.0,3,True
+459834,207173,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,FUT Esports,Gentle Mates,13,4,xeus,12793,jett,0.77,187.0,10.0,12.0,4.0,65.0,116.0,34.0,4.0,2.0,3,True
+459834,207173,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,Gentle Mates,FUT Esports,4,13,kamyk,1475,fade,0.81,173.0,10.0,14.0,2.0,53.0,109.0,39.0,1.0,2.0,3,True
+459834,207173,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,Gentle Mates,FUT Esports,4,13,Minny,23169,vyse,0.76,182.0,10.0,15.0,3.0,47.0,130.0,43.0,1.0,1.0,3,True
+459834,207173,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,Gentle Mates,FUT Esports,4,13,Click,7866,yoru,0.72,215.0,12.0,16.0,3.0,65.0,135.0,46.0,2.0,6.0,3,True
+459834,207173,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,Gentle Mates,FUT Esports,4,13,Kada,20871,viper,0.53,135.0,8.0,15.0,2.0,71.0,103.0,38.0,1.0,1.0,3,True
+459834,207173,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,Gentle Mates,FUT Esports,4,13,Zyppan,11,omen,0.51,97.0,4.0,14.0,5.0,59.0,68.0,19.0,1.0,1.0,3,True
+459835,207174,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Haven,1,Team Heretics,GIANTX,13,3,Wo0t,21328,iso,1.68,320.0,20.0,11.0,4.0,81.0,190.0,40.0,5.0,0.0,3,True
+459835,207174,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Haven,1,Team Heretics,GIANTX,13,3,MiniBoo,18350,yoru,1.46,265.0,16.0,7.0,4.0,88.0,163.0,31.0,2.0,0.0,3,True
+459835,207174,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Haven,1,Team Heretics,GIANTX,13,3,benjyfishy,29873,cypher,1.33,246.0,15.0,10.0,5.0,94.0,170.0,29.0,2.0,1.0,3,True
+459835,207174,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Haven,1,Team Heretics,GIANTX,13,3,RieNs,10971,sova,1.26,215.0,13.0,8.0,9.0,94.0,143.0,32.0,2.0,1.0,3,True
+459835,207174,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Haven,1,Team Heretics,GIANTX,13,3,Boo,1144,omen,1.14,147.0,9.0,7.0,7.0,94.0,97.0,41.0,1.0,2.0,3,True
+459835,207174,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Haven,1,GIANTX,Team Heretics,3,13,runneR,21610,tejo,0.87,202.0,10.0,14.0,4.0,75.0,133.0,21.0,0.0,0.0,3,True
+459835,207174,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Haven,1,GIANTX,Team Heretics,3,13,purp0,1885,iso,0.82,193.0,11.0,14.0,2.0,63.0,124.0,50.0,1.0,5.0,3,True
+459835,207174,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Haven,1,GIANTX,Team Heretics,3,13,tomaszy,19691,omen,0.69,175.0,9.0,14.0,4.0,56.0,113.0,48.0,0.0,1.0,3,True
+459835,207174,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Haven,1,GIANTX,Team Heretics,3,13,westside,34684,cypher,0.39,116.0,7.0,16.0,1.0,38.0,79.0,53.0,2.0,2.0,3,True
+459835,207174,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Haven,1,GIANTX,Team Heretics,3,13,Cloud,4181,yoru,0.31,115.0,6.0,15.0,4.0,38.0,80.0,23.0,1.0,4.0,3,True
+459835,207175,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Split,2,Team Heretics,GIANTX,11,13,Boo,1144,omen,1.27,237.0,23.0,15.0,5.0,75.0,152.0,36.0,1.0,0.0,3,True
+459835,207175,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Split,2,Team Heretics,GIANTX,11,13,Wo0t,21328,iso,1.18,256.0,19.0,19.0,6.0,63.0,175.0,28.0,4.0,1.0,3,True
+459835,207175,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Split,2,Team Heretics,GIANTX,11,13,RieNs,10971,fade,1.1,213.0,17.0,15.0,10.0,88.0,144.0,27.0,3.0,3.0,3,True
+459835,207175,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Split,2,Team Heretics,GIANTX,11,13,MiniBoo,18350,raze,0.94,219.0,18.0,17.0,3.0,67.0,136.0,21.0,6.0,3.0,3,True
+459835,207175,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Split,2,Team Heretics,GIANTX,11,13,benjyfishy,29873,viper,0.71,140.0,13.0,16.0,4.0,71.0,100.0,41.0,1.0,2.0,3,True
+459835,207175,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Split,2,GIANTX,Team Heretics,13,11,runneR,21610,breach,1.12,195.0,15.0,17.0,13.0,75.0,129.0,24.0,1.0,2.0,3,True
+459835,207175,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Split,2,GIANTX,Team Heretics,13,11,westside,34684,cypher,1.05,201.0,17.0,16.0,10.0,54.0,129.0,29.0,1.0,3.0,3,True
+459835,207175,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Split,2,GIANTX,Team Heretics,13,11,purp0,1885,omen,1.04,190.0,16.0,20.0,11.0,75.0,132.0,38.0,2.0,2.0,3,True
+459835,207175,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Split,2,GIANTX,Team Heretics,13,11,Cloud,4181,tejo,0.88,228.0,21.0,20.0,3.0,75.0,145.0,28.0,3.0,3.0,3,True
+459835,207175,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Split,2,GIANTX,Team Heretics,13,11,tomaszy,19691,yoru,0.76,152.0,13.0,18.0,5.0,63.0,104.0,35.0,2.0,5.0,3,True
+459835,207176,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,Team Heretics,GIANTX,13,8,RieNs,10971,breach,1.69,276.0,21.0,12.0,23.0,90.0,178.0,41.0,1.0,0.0,3,True
+459835,207176,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,Team Heretics,GIANTX,13,8,Wo0t,21328,tejo,1.29,241.0,18.0,13.0,10.0,81.0,167.0,30.0,1.0,0.0,3,True
+459835,207176,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,Team Heretics,GIANTX,13,8,benjyfishy,29873,vyse,1.14,233.0,17.0,16.0,7.0,81.0,144.0,31.0,4.0,0.0,3,True
+459835,207176,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,Team Heretics,GIANTX,13,8,Boo,1144,omen,0.9,128.0,11.0,12.0,5.0,67.0,83.0,33.0,1.0,2.0,3,True
+459835,207176,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,Team Heretics,GIANTX,13,8,MiniBoo,18350,neon,0.76,199.0,15.0,16.0,3.0,71.0,134.0,28.0,6.0,6.0,3,True
+459835,207176,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,GIANTX,Team Heretics,8,13,Cloud,4181,fade,1.49,300.0,23.0,17.0,8.0,86.0,187.0,34.0,5.0,3.0,3,True
+459835,207176,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,GIANTX,Team Heretics,8,13,tomaszy,19691,raze,0.98,207.0,16.0,16.0,3.0,57.0,148.0,36.0,2.0,4.0,3,True
+459835,207176,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,GIANTX,Team Heretics,8,13,purp0,1885,omen,0.81,175.0,12.0,18.0,9.0,76.0,123.0,38.0,0.0,2.0,3,True
+459835,207176,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,GIANTX,Team Heretics,8,13,runneR,21610,vyse,0.72,150.0,8.0,16.0,9.0,67.0,100.0,18.0,0.0,0.0,3,True
+459835,207176,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-03,Lotus,3,GIANTX,Team Heretics,8,13,westside,34684,viper,0.53,128.0,10.0,16.0,5.0,67.0,78.0,32.0,1.0,4.0,3,True
+459836,207177,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Split,1,Team Vitality,FNATIC,18,16,Kicks,11134,breach,1.16,204.0,26.0,22.0,9.0,76.0,126.0,31.0,1.0,3.0,3,True
+459836,207177,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Split,1,Team Vitality,FNATIC,18,16,Less,8447,cypher,1.15,206.0,26.0,20.0,4.0,65.0,132.0,31.0,2.0,2.0,3,True
+459836,207177,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Split,1,Team Vitality,FNATIC,18,16,Derke,5022,yoru,0.89,178.0,20.0,24.0,8.0,65.0,116.0,25.0,5.0,7.0,3,True
+459836,207177,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Split,1,Team Vitality,FNATIC,18,16,Sayf,312,tejo,0.86,201.0,24.0,28.0,6.0,59.0,127.0,35.0,5.0,4.0,3,True
+459836,207177,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Split,1,Team Vitality,FNATIC,18,16,CyvOph,13258,omen,0.81,162.0,19.0,25.0,13.0,62.0,104.0,33.0,3.0,2.0,3,True
+459836,207177,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Split,1,FNATIC,Team Vitality,16,18,Boaster,438,astra,1.45,237.0,29.0,18.0,17.0,97.0,158.0,16.0,4.0,0.0,3,True
+459836,207177,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Split,1,FNATIC,Team Vitality,16,18,kaajak,9554,yoru,1.04,243.0,28.0,25.0,9.0,68.0,152.0,24.0,5.0,4.0,3,True
+459836,207177,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Split,1,FNATIC,Team Vitality,16,18,Chronicle,458,viper,0.87,181.0,23.0,24.0,5.0,62.0,116.0,27.0,3.0,5.0,3,True
+459836,207177,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Split,1,FNATIC,Team Vitality,16,18,Alfajer,9810,raze,0.87,176.0,19.0,23.0,5.0,62.0,118.0,23.0,4.0,4.0,3,True
+459836,207177,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Split,1,FNATIC,Team Vitality,16,18,crashies,4,fade,0.78,177.0,20.0,25.0,10.0,76.0,116.0,33.0,2.0,3.0,3,True
+459836,207178,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,2,Team Vitality,FNATIC,6,13,CyvOph,13258,omen,0.99,181.0,12.0,12.0,6.0,74.0,112.0,38.0,2.0,2.0,3,True
+459836,207178,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,2,Team Vitality,FNATIC,6,13,Less,8447,viper,0.84,167.0,12.0,12.0,3.0,58.0,110.0,32.0,2.0,4.0,3,True
+459836,207178,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,2,Team Vitality,FNATIC,6,13,Derke,5022,yoru,0.83,181.0,12.0,14.0,4.0,68.0,121.0,21.0,3.0,4.0,3,True
+459836,207178,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,2,Team Vitality,FNATIC,6,13,Kicks,11134,breach,0.77,156.0,11.0,15.0,4.0,74.0,108.0,23.0,1.0,1.0,3,True
+459836,207178,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,2,Team Vitality,FNATIC,6,13,Sayf,312,tejo,0.73,150.0,9.0,14.0,5.0,68.0,103.0,31.0,0.0,0.0,3,True
+459836,207178,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,2,FNATIC,Team Vitality,13,6,Chronicle,458,viper,1.36,295.0,20.0,12.0,8.0,84.0,172.0,29.0,4.0,3.0,3,True
+459836,207178,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,2,FNATIC,Team Vitality,13,6,kaajak,9554,raze,1.07,207.0,14.0,11.0,1.0,74.0,132.0,20.0,4.0,3.0,3,True
+459836,207178,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,2,FNATIC,Team Vitality,13,6,crashies,4,fade,1.05,155.0,12.0,10.0,2.0,63.0,104.0,29.0,0.0,0.0,3,True
+459836,207178,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,2,FNATIC,Team Vitality,13,6,Boaster,438,omen,0.94,139.0,8.0,10.0,12.0,74.0,91.0,18.0,1.0,0.0,3,True
+459836,207178,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,2,FNATIC,Team Vitality,13,6,Alfajer,9810,killjoy,0.84,181.0,13.0,13.0,1.0,58.0,125.0,39.0,2.0,2.0,3,True
+459836,207179,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Haven,3,Team Vitality,FNATIC,10,13,CyvOph,13258,iso,1.5,267.0,22.0,14.0,7.0,78.0,158.0,23.0,1.0,1.0,3,True
+459836,207179,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Haven,3,Team Vitality,FNATIC,10,13,Less,8447,cypher,0.9,180.0,15.0,16.0,4.0,70.0,124.0,44.0,0.0,4.0,3,True
+459836,207179,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Haven,3,Team Vitality,FNATIC,10,13,Sayf,312,sova,0.89,185.0,14.0,17.0,8.0,57.0,131.0,21.0,1.0,4.0,3,True
+459836,207179,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Haven,3,Team Vitality,FNATIC,10,13,Kicks,11134,omen,0.79,120.0,10.0,14.0,5.0,65.0,82.0,7.0,0.0,0.0,3,True
+459836,207179,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Haven,3,Team Vitality,FNATIC,10,13,Derke,5022,yoru,0.59,137.0,10.0,18.0,6.0,48.0,89.0,23.0,4.0,8.0,3,True
+459836,207179,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Haven,3,FNATIC,Team Vitality,13,10,Boaster,438,omen,1.26,191.0,17.0,12.0,10.0,74.0,107.0,35.0,2.0,4.0,3,True
+459836,207179,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Haven,3,FNATIC,Team Vitality,13,10,kaajak,9554,yoru,1.25,262.0,22.0,14.0,4.0,91.0,157.0,30.0,7.0,0.0,3,True
+459836,207179,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Haven,3,FNATIC,Team Vitality,13,10,Chronicle,458,cypher,0.96,175.0,13.0,13.0,4.0,78.0,107.0,18.0,6.0,1.0,3,True
+459836,207179,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Haven,3,FNATIC,Team Vitality,13,10,crashies,4,sova,0.83,154.0,13.0,15.0,2.0,61.0,99.0,38.0,1.0,0.0,3,True
+459836,207179,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Haven,3,FNATIC,Team Vitality,13,10,Alfajer,9810,iso,0.62,168.0,14.0,17.0,3.0,61.0,116.0,62.0,1.0,1.0,3,True
+459837,207180,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,1,Movistar KOI (KOI),Karmine Corp,2,13,sheydos,1428,tejo,0.78,158.0,8.0,11.0,3.0,67.0,94.0,21.0,2.0,0.0,3,True
+459837,207180,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,1,Movistar KOI (KOI),Karmine Corp,2,13,soulcas,101,vyse,0.76,147.0,7.0,12.0,3.0,60.0,107.0,29.0,0.0,1.0,3,True
+459837,207180,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,1,Movistar KOI (KOI),Karmine Corp,2,13,grubinho,5550,omen,0.47,71.0,3.0,11.0,7.0,80.0,43.0,19.0,1.0,3.0,3,True
+459837,207180,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,1,Movistar KOI (KOI),Karmine Corp,2,13,Filu,4544,yoru,0.36,108.0,5.0,11.0,2.0,47.0,81.0,38.0,1.0,3.0,3,True
+459837,207180,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,1,Movistar KOI (KOI),Karmine Corp,2,13,flyuh,3685,cypher,0.34,104.0,4.0,13.0,1.0,47.0,74.0,44.0,1.0,3.0,3,True
+459837,207180,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,1,Karmine Corp,Movistar KOI (KOI),13,2,Elite,16459,vyse,1.72,213.0,12.0,3.0,6.0,87.0,144.0,70.0,1.0,1.0,3,True
+459837,207180,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,1,Karmine Corp,Movistar KOI (KOI),13,2,marteen,10307,yoru,1.72,304.0,17.0,5.0,4.0,80.0,201.0,32.0,2.0,1.0,3,True
+459837,207180,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,1,Karmine Corp,Movistar KOI (KOI),13,2,Avez,5654,fade,1.5,240.0,14.0,6.0,3.0,93.0,155.0,39.0,2.0,0.0,3,True
+459837,207180,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,1,Karmine Corp,Movistar KOI (KOI),13,2,SUYGETSU,2858,omen,1.31,134.0,8.0,4.0,6.0,87.0,85.0,50.0,2.0,0.0,3,True
+459837,207180,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Lotus,1,Karmine Corp,Movistar KOI (KOI),13,2,saadhak,727,harbor,0.94,157.0,7.0,9.0,7.0,87.0,100.0,18.0,3.0,3.0,3,True
+459837,207181,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Icebox,2,Movistar KOI (KOI),Karmine Corp,12,14,flyuh,3685,sova,1.34,266.0,21.0,16.0,11.0,77.0,190.0,28.0,3.0,1.0,3,True
+459837,207181,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Icebox,2,Movistar KOI (KOI),Karmine Corp,12,14,grubinho,5550,viper,1.05,200.0,19.0,20.0,7.0,73.0,128.0,30.0,5.0,3.0,3,True
+459837,207181,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Icebox,2,Movistar KOI (KOI),Karmine Corp,12,14,Filu,4544,iso,0.87,206.0,21.0,20.0,4.0,65.0,121.0,16.0,3.0,5.0,3,True
+459837,207181,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Icebox,2,Movistar KOI (KOI),Karmine Corp,12,14,soulcas,101,tejo,0.87,146.0,15.0,16.0,4.0,69.0,100.0,22.0,1.0,1.0,3,True
+459837,207181,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Icebox,2,Movistar KOI (KOI),Karmine Corp,12,14,sheydos,1428,killjoy,0.76,125.0,12.0,15.0,4.0,73.0,88.0,32.0,2.0,2.0,3,True
+459837,207181,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Icebox,2,Karmine Corp,Movistar KOI (KOI),14,12,Avez,5654,tejo,1.34,255.0,25.0,16.0,3.0,81.0,151.0,28.0,3.0,2.0,3,True
+459837,207181,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Icebox,2,Karmine Corp,Movistar KOI (KOI),14,12,saadhak,727,kayo,1.07,179.0,15.0,17.0,16.0,69.0,116.0,46.0,2.0,5.0,3,True
+459837,207181,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Icebox,2,Karmine Corp,Movistar KOI (KOI),14,12,Elite,16459,killjoy,1.0,223.0,20.0,20.0,3.0,77.0,158.0,44.0,3.0,1.0,3,True
+459837,207181,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Icebox,2,Karmine Corp,Movistar KOI (KOI),14,12,marteen,10307,omen,0.89,153.0,11.0,17.0,10.0,81.0,105.0,14.0,3.0,2.0,3,True
+459837,207181,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 2,2025-04-04,Icebox,2,Karmine Corp,Movistar KOI (KOI),14,12,SUYGETSU,2858,viper,0.76,160.0,16.0,18.0,3.0,69.0,101.0,60.0,1.0,4.0,3,True
+459839,207183,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,1,Movistar KOI (KOI),BBL Esports,6,13,sheydos,1428,sova,1.21,244.0,18.0,13.0,0.0,63.0,152.0,56.0,2.0,2.0,3,True
+459839,207183,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,1,Movistar KOI (KOI),BBL Esports,6,13,Filu,4544,yoru,1.1,277.0,16.0,17.0,8.0,79.0,167.0,44.0,8.0,2.0,3,True
+459839,207183,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,1,Movistar KOI (KOI),BBL Esports,6,13,soulcas,101,tejo,1.09,182.0,13.0,14.0,4.0,63.0,105.0,25.0,1.0,0.0,3,True
+459839,207183,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,1,Movistar KOI (KOI),BBL Esports,6,13,grubinho,5550,astra,0.86,131.0,9.0,13.0,10.0,79.0,95.0,27.0,0.0,1.0,3,True
+459839,207183,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,1,Movistar KOI (KOI),BBL Esports,6,13,flyuh,3685,vyse,0.29,108.0,5.0,18.0,5.0,53.0,81.0,13.0,1.0,2.0,3,True
+459839,207183,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,1,BBL Esports,Movistar KOI (KOI),13,6,LewN,20144,yoru,1.48,291.0,20.0,12.0,6.0,79.0,197.0,41.0,1.0,3.0,3,True
+459839,207183,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,1,BBL Esports,Movistar KOI (KOI),13,6,MAGNUM,2173,vyse,1.25,270.0,19.0,13.0,7.0,79.0,166.0,21.0,3.0,2.0,3,True
+459839,207183,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,1,BBL Esports,Movistar KOI (KOI),13,6,Jamppi,9780,sova,1.16,215.0,16.0,11.0,1.0,68.0,131.0,24.0,0.0,2.0,3,True
+459839,207183,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,1,BBL Esports,Movistar KOI (KOI),13,6,sociablEE,5568,chamber,0.82,180.0,13.0,14.0,2.0,74.0,131.0,29.0,2.0,3.0,3,True
+459839,207183,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,1,BBL Esports,Movistar KOI (KOI),13,6,PROFEK,5554,astra,0.79,127.0,7.0,11.0,12.0,79.0,82.0,35.0,1.0,2.0,3,True
+459839,207184,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Icebox,2,Movistar KOI (KOI),BBL Esports,9,13,Filu,4544,iso,0.98,256.0,17.0,20.0,3.0,55.0,162.0,33.0,3.0,2.0,3,True
+459839,207184,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Icebox,2,Movistar KOI (KOI),BBL Esports,9,13,soulcas,101,tejo,0.94,186.0,14.0,17.0,6.0,68.0,143.0,37.0,0.0,0.0,3,True
+459839,207184,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Icebox,2,Movistar KOI (KOI),BBL Esports,9,13,flyuh,3685,sova,0.76,196.0,15.0,20.0,2.0,68.0,120.0,41.0,1.0,5.0,3,True
+459839,207184,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Icebox,2,Movistar KOI (KOI),BBL Esports,9,13,sheydos,1428,killjoy,0.67,151.0,10.0,17.0,2.0,55.0,115.0,28.0,1.0,5.0,3,True
+459839,207184,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Icebox,2,Movistar KOI (KOI),BBL Esports,9,13,grubinho,5550,viper,0.53,110.0,8.0,19.0,6.0,55.0,73.0,29.0,1.0,4.0,3,True
+459839,207184,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Icebox,2,BBL Esports,Movistar KOI (KOI),13,9,LewN,20144,jett,1.5,332.0,26.0,14.0,5.0,82.0,211.0,31.0,5.0,1.0,3,True
+459839,207184,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Icebox,2,BBL Esports,Movistar KOI (KOI),13,9,sociablEE,5568,tejo,1.4,233.0,22.0,11.0,1.0,77.0,142.0,24.0,3.0,1.0,3,True
+459839,207184,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Icebox,2,BBL Esports,Movistar KOI (KOI),13,9,PROFEK,5554,viper,1.11,252.0,20.0,16.0,3.0,86.0,169.0,38.0,3.0,0.0,3,True
+459839,207184,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Icebox,2,BBL Esports,Movistar KOI (KOI),13,9,Jamppi,9780,kayo,0.92,155.0,12.0,11.0,9.0,64.0,97.0,25.0,2.0,1.0,3,True
+459839,207184,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Icebox,2,BBL Esports,Movistar KOI (KOI),13,9,MAGNUM,2173,killjoy,0.82,158.0,13.0,12.0,2.0,68.0,105.0,22.0,3.0,3.0,3,True
+459840,207186,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Fracture,1,Natus Vincere,GIANTX,9,13,Ruxic,18677,brimstone,1.39,300.0,23.0,18.0,7.0,82.0,196.0,32.0,2.0,3.0,3,True
+459840,207186,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Fracture,1,Natus Vincere,GIANTX,9,13,hiro,29867,cypher,1.0,180.0,14.0,15.0,6.0,59.0,122.0,42.0,1.0,2.0,3,True
+459840,207186,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Fracture,1,Natus Vincere,GIANTX,9,13,Shao,384,breach,0.85,145.0,13.0,16.0,12.0,68.0,84.0,36.0,0.0,0.0,3,True
+459840,207186,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Fracture,1,Natus Vincere,GIANTX,9,13,ANGE1,109,fade,0.62,158.0,12.0,18.0,7.0,73.0,107.0,35.0,2.0,4.0,3,True
+459840,207186,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Fracture,1,Natus Vincere,GIANTX,9,13,koalanoob,3722,raze,0.48,143.0,10.0,18.0,3.0,55.0,84.0,7.0,3.0,5.0,3,True
+459840,207186,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Fracture,1,GIANTX,Natus Vincere,13,9,purp0,1885,brimstone,1.3,212.0,17.0,12.0,14.0,91.0,138.0,45.0,1.0,0.0,3,True
+459840,207186,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Fracture,1,GIANTX,Natus Vincere,13,9,westside,34684,cypher,1.24,251.0,21.0,14.0,2.0,77.0,142.0,31.0,5.0,0.0,3,True
+459840,207186,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Fracture,1,GIANTX,Natus Vincere,13,9,Cloud,4181,tejo,1.19,207.0,16.0,14.0,5.0,82.0,131.0,21.0,3.0,1.0,3,True
+459840,207186,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Fracture,1,GIANTX,Natus Vincere,13,9,runneR,21610,breach,1.19,224.0,17.0,16.0,12.0,77.0,156.0,22.0,1.0,1.0,3,True
+459840,207186,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Fracture,1,GIANTX,Natus Vincere,13,9,tomaszy,19691,neon,0.83,175.0,14.0,16.0,6.0,73.0,117.0,35.0,4.0,6.0,3,True
+459840,207187,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,2,Natus Vincere,GIANTX,13,7,Ruxic,18677,astra,1.43,235.0,18.0,10.0,7.0,90.0,168.0,37.0,0.0,2.0,3,True
+459840,207187,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,2,Natus Vincere,GIANTX,13,7,hiro,29867,killjoy,1.32,291.0,23.0,15.0,1.0,80.0,171.0,37.0,3.0,2.0,3,True
+459840,207187,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,2,Natus Vincere,GIANTX,13,7,Shao,384,tejo,1.18,181.0,14.0,11.0,2.0,80.0,131.0,37.0,2.0,1.0,3,True
+459840,207187,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,2,Natus Vincere,GIANTX,13,7,ANGE1,109,sova,1.09,220.0,15.0,13.0,7.0,80.0,160.0,55.0,3.0,1.0,3,True
+459840,207187,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,2,Natus Vincere,GIANTX,13,7,koalanoob,3722,yoru,0.72,189.0,12.0,16.0,5.0,65.0,128.0,28.0,3.0,3.0,3,True
+459840,207187,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,2,GIANTX,Natus Vincere,7,13,westside,34684,vyse,1.1,237.0,18.0,17.0,3.0,60.0,149.0,36.0,1.0,1.0,3,True
+459840,207187,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,2,GIANTX,Natus Vincere,7,13,purp0,1885,astra,0.96,161.0,13.0,16.0,9.0,70.0,105.0,48.0,2.0,2.0,3,True
+459840,207187,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,2,GIANTX,Natus Vincere,7,13,runneR,21610,tejo,0.81,192.0,11.0,16.0,5.0,65.0,132.0,24.0,2.0,1.0,3,True
+459840,207187,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,2,GIANTX,Natus Vincere,7,13,Cloud,4181,sova,0.73,181.0,12.0,16.0,7.0,70.0,115.0,18.0,0.0,3.0,3,True
+459840,207187,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Pearl,2,GIANTX,Natus Vincere,7,13,tomaszy,19691,yoru,0.55,159.0,11.0,17.0,4.0,60.0,95.0,25.0,4.0,4.0,3,True
+459840,207188,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Split,3,Natus Vincere,GIANTX,13,0,hiro,29867,vyse,2.66,397.0,22.0,2.0,7.0,100.0,262.0,26.0,1.0,0.0,3,True
+459840,207188,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Split,3,Natus Vincere,GIANTX,13,0,koalanoob,3722,raze,1.75,359.0,16.0,7.0,5.0,85.0,233.0,10.0,5.0,0.0,3,True
+459840,207188,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Split,3,Natus Vincere,GIANTX,13,0,Ruxic,18677,omen,1.5,214.0,10.0,4.0,10.0,92.0,124.0,19.0,2.0,0.0,3,True
+459840,207188,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Split,3,Natus Vincere,GIANTX,13,0,ANGE1,109,fade,1.15,183.0,9.0,6.0,3.0,85.0,132.0,29.0,2.0,0.0,3,True
+459840,207188,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Split,3,Natus Vincere,GIANTX,13,0,Shao,384,astra,0.83,137.0,6.0,7.0,2.0,77.0,83.0,43.0,3.0,0.0,3,True
+459840,207188,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Split,3,GIANTX,Natus Vincere,0,13,westside,34684,cypher,0.6,164.0,6.0,12.0,0.0,46.0,107.0,57.0,0.0,1.0,3,True
+459840,207188,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Split,3,GIANTX,Natus Vincere,0,13,purp0,1885,omen,0.56,162.0,7.0,13.0,2.0,69.0,99.0,13.0,0.0,3.0,3,True
+459840,207188,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Split,3,GIANTX,Natus Vincere,0,13,Cloud,4181,tejo,0.51,168.0,7.0,13.0,2.0,62.0,109.0,15.0,0.0,1.0,3,True
+459840,207188,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Split,3,GIANTX,Natus Vincere,0,13,tomaszy,19691,yoru,0.36,113.0,4.0,12.0,3.0,46.0,83.0,35.0,0.0,3.0,3,True
+459840,207188,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-09,Split,3,GIANTX,Natus Vincere,0,13,runneR,21610,breach,0.13,75.0,2.0,13.0,3.0,23.0,52.0,11.0,0.0,5.0,3,True
+459841,207189,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Lotus,1,Team Liquid,FUT Esports,13,1,kamo,14681,waylay,2.22,471.0,23.0,7.0,5.0,86.0,300.0,26.0,7.0,1.0,3,True
+459841,207189,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Lotus,1,Team Liquid,FUT Esports,13,1,keiko,11494,omen,1.6,220.0,13.0,5.0,8.0,93.0,145.0,36.0,1.0,1.0,3,True
+459841,207189,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Lotus,1,Team Liquid,FUT Esports,13,1,nAts,457,cypher,1.48,264.0,16.0,6.0,2.0,93.0,162.0,34.0,1.0,0.0,3,True
+459841,207189,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Lotus,1,Team Liquid,FUT Esports,13,1,Serial,18162,deadlock,1.15,148.0,9.0,5.0,6.0,86.0,100.0,35.0,1.0,1.0,3,True
+459841,207189,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Lotus,1,Team Liquid,FUT Esports,13,1,paTiTek,309,tejo,1.07,125.0,5.0,5.0,5.0,79.0,86.0,10.0,1.0,0.0,3,True
+459841,207189,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Lotus,1,FUT Esports,Team Liquid,1,13,MrFaliN,8044,breach,0.76,152.0,6.0,13.0,6.0,57.0,103.0,14.0,0.0,2.0,3,True
+459841,207189,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Lotus,1,FUT Esports,Team Liquid,1,13,AtaKaptan,6510,omen,0.65,164.0,7.0,13.0,5.0,50.0,96.0,32.0,1.0,2.0,3,True
+459841,207189,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Lotus,1,FUT Esports,Team Liquid,1,13,xeus,12793,jett,0.56,168.0,7.0,13.0,2.0,57.0,116.0,27.0,2.0,5.0,3,True
+459841,207189,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Lotus,1,FUT Esports,Team Liquid,1,13,qRaxs,1139,fade,0.55,172.0,7.0,14.0,4.0,57.0,120.0,26.0,0.0,0.0,3,True
+459841,207189,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Lotus,1,FUT Esports,Team Liquid,1,13,yetujey,8369,cypher,0.08,28.0,1.0,13.0,2.0,29.0,20.0,0.0,0.0,2.0,3,True
+459841,207190,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Split,2,Team Liquid,FUT Esports,13,9,Serial,18162,astra,1.26,182.0,14.0,11.0,13.0,82.0,135.0,45.0,2.0,0.0,3,True
+459841,207190,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Split,2,Team Liquid,FUT Esports,13,9,kamo,14681,yoru,1.19,245.0,20.0,14.0,4.0,77.0,158.0,45.0,0.0,5.0,3,True
+459841,207190,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Split,2,Team Liquid,FUT Esports,13,9,nAts,457,viper,1.09,239.0,16.0,16.0,5.0,68.0,152.0,18.0,4.0,0.0,3,True
+459841,207190,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Split,2,Team Liquid,FUT Esports,13,9,paTiTek,309,fade,1.01,157.0,11.0,13.0,6.0,68.0,97.0,17.0,3.0,1.0,3,True
+459841,207190,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Split,2,Team Liquid,FUT Esports,13,9,keiko,11494,raze,0.97,209.0,18.0,17.0,2.0,68.0,137.0,41.0,3.0,4.0,3,True
+459841,207190,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Split,2,FUT Esports,Team Liquid,9,13,AtaKaptan,6510,omen,1.07,204.0,16.0,16.0,10.0,77.0,121.0,32.0,1.0,0.0,3,True
+459841,207190,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Split,2,FUT Esports,Team Liquid,9,13,xeus,12793,chamber,1.07,234.0,20.0,17.0,2.0,68.0,156.0,35.0,3.0,2.0,3,True
+459841,207190,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Split,2,FUT Esports,Team Liquid,9,13,yetujey,8369,viper,1.03,193.0,15.0,14.0,6.0,64.0,126.0,32.0,2.0,1.0,3,True
+459841,207190,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Split,2,FUT Esports,Team Liquid,9,13,MrFaliN,8044,skye,0.76,143.0,9.0,14.0,7.0,64.0,97.0,24.0,1.0,4.0,3,True
+459841,207190,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Split,2,FUT Esports,Team Liquid,9,13,qRaxs,1139,raze,0.64,156.0,11.0,18.0,7.0,68.0,117.0,27.0,3.0,5.0,3,True
+459842,207192,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Haven,1,Team Vitality,Team Heretics,10,13,Sayf,312,sova,1.24,191.0,18.0,13.0,5.0,74.0,125.0,33.0,0.0,1.0,3,True
+459842,207192,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Haven,1,Team Vitality,Team Heretics,10,13,Kicks,11134,omen,1.05,203.0,15.0,16.0,12.0,74.0,132.0,32.0,1.0,0.0,3,True
+459842,207192,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Haven,1,Team Vitality,Team Heretics,10,13,Derke,5022,yoru,0.92,225.0,17.0,18.0,7.0,74.0,152.0,28.0,5.0,4.0,3,True
+459842,207192,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Haven,1,Team Vitality,Team Heretics,10,13,Less,8447,cypher,0.74,153.0,11.0,15.0,5.0,78.0,90.0,32.0,2.0,3.0,3,True
+459842,207192,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Haven,1,Team Vitality,Team Heretics,10,13,CyvOph,13258,iso,0.46,141.0,10.0,20.0,4.0,39.0,89.0,25.0,4.0,2.0,3,True
+459842,207192,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Haven,1,Team Heretics,Team Vitality,13,10,Wo0t,21328,iso,1.38,271.0,22.0,14.0,1.0,65.0,174.0,53.0,5.0,3.0,3,True
+459842,207192,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Haven,1,Team Heretics,Team Vitality,13,10,MiniBoo,18350,yoru,1.1,248.0,20.0,16.0,6.0,65.0,160.0,31.0,1.0,3.0,3,True
+459842,207192,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Haven,1,Team Heretics,Team Vitality,13,10,Boo,1144,omen,0.98,145.0,12.0,12.0,8.0,70.0,91.0,38.0,2.0,3.0,3,True
+459842,207192,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Haven,1,Team Heretics,Team Vitality,13,10,RieNs,10971,sova,0.91,193.0,15.0,16.0,6.0,78.0,124.0,56.0,1.0,1.0,3,True
+459842,207192,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Haven,1,Team Heretics,Team Vitality,13,10,benjyfishy,29873,cypher,0.87,153.0,13.0,13.0,2.0,83.0,90.0,42.0,1.0,2.0,3,True
+459842,207193,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Icebox,2,Team Vitality,Team Heretics,6,13,Less,8447,viper,1.17,243.0,15.0,12.0,4.0,74.0,150.0,34.0,1.0,0.0,3,True
+459842,207193,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Icebox,2,Team Vitality,Team Heretics,6,13,CyvOph,13258,killjoy,1.08,204.0,15.0,16.0,2.0,68.0,135.0,31.0,1.0,2.0,3,True
+459842,207193,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Icebox,2,Team Vitality,Team Heretics,6,13,Derke,5022,jett,0.93,198.0,12.0,14.0,4.0,47.0,136.0,22.0,3.0,8.0,3,True
+459842,207193,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Icebox,2,Team Vitality,Team Heretics,6,13,Sayf,312,sova,0.79,155.0,10.0,15.0,5.0,68.0,109.0,29.0,0.0,0.0,3,True
+459842,207193,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Icebox,2,Team Vitality,Team Heretics,6,13,Kicks,11134,kayo,0.37,96.0,4.0,16.0,6.0,53.0,71.0,10.0,0.0,4.0,3,True
+459842,207193,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Icebox,2,Team Heretics,Team Vitality,13,6,MiniBoo,18350,neon,1.77,301.0,22.0,10.0,3.0,89.0,202.0,39.0,6.0,1.0,3,True
+459842,207193,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Icebox,2,Team Heretics,Team Vitality,13,6,Wo0t,21328,tejo,1.38,290.0,20.0,12.0,5.0,89.0,176.0,34.0,3.0,1.0,3,True
+459842,207193,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Icebox,2,Team Heretics,Team Vitality,13,6,Boo,1144,viper,0.87,128.0,8.0,10.0,4.0,74.0,77.0,19.0,3.0,0.0,3,True
+459842,207193,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Icebox,2,Team Heretics,Team Vitality,13,6,RieNs,10971,sova,0.8,177.0,12.0,12.0,6.0,79.0,120.0,63.0,2.0,1.0,3,True
+459842,207193,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-10,Icebox,2,Team Heretics,Team Vitality,13,6,benjyfishy,29873,vyse,0.71,152.0,11.0,12.0,3.0,68.0,114.0,50.0,0.0,2.0,3,True
+459843,207195,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Lotus,1,Apeks,FNATIC,5,13,batujnax,18615,viper,1.16,252.0,15.0,14.0,4.0,78.0,160.0,41.0,2.0,1.0,3,True
+459843,207195,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Lotus,1,Apeks,FNATIC,5,13,Governor,3980,tejo,0.85,171.0,9.0,13.0,3.0,56.0,119.0,12.0,0.0,2.0,3,True
+459843,207195,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Lotus,1,Apeks,FNATIC,5,13,AvovA,1507,omen,0.77,162.0,9.0,14.0,9.0,67.0,107.0,44.0,2.0,3.0,3,True
+459843,207195,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Lotus,1,Apeks,FNATIC,5,13,MOLSI,1281,breach,0.6,122.0,7.0,13.0,4.0,50.0,86.0,27.0,0.0,2.0,3,True
+459843,207195,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Lotus,1,Apeks,FNATIC,5,13,florescent,17976,yoru,0.59,130.0,8.0,15.0,2.0,56.0,80.0,26.0,4.0,2.0,3,True
+459843,207195,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Lotus,1,FNATIC,Apeks,13,5,kaajak,9554,raze,1.62,332.0,22.0,11.0,2.0,83.0,235.0,27.0,4.0,3.0,3,True
+459843,207195,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Lotus,1,FNATIC,Apeks,13,5,crashies,4,fade,1.37,236.0,16.0,10.0,10.0,89.0,163.0,37.0,1.0,2.0,3,True
+459843,207195,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Lotus,1,FNATIC,Apeks,13,5,Alfajer,9810,killjoy,1.09,190.0,14.0,10.0,1.0,78.0,126.0,24.0,2.0,1.0,3,True
+459843,207195,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Lotus,1,FNATIC,Apeks,13,5,Chronicle,458,viper,0.98,149.0,9.0,9.0,3.0,78.0,105.0,28.0,2.0,0.0,3,True
+459843,207195,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Lotus,1,FNATIC,Apeks,13,5,Boaster,438,omen,0.89,110.0,8.0,8.0,2.0,83.0,67.0,22.0,1.0,2.0,3,True
+459843,207196,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Split,2,Apeks,FNATIC,14,16,batujnax,18615,yoru,1.32,250.0,27.0,21.0,7.0,73.0,159.0,33.0,7.0,3.0,3,True
+459843,207196,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Split,2,Apeks,FNATIC,14,16,florescent,17976,raze,1.18,238.0,25.0,20.0,5.0,60.0,169.0,31.0,2.0,6.0,3,True
+459843,207196,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Split,2,Apeks,FNATIC,14,16,MOLSI,1281,viper,0.95,184.0,18.0,18.0,7.0,63.0,125.0,24.0,2.0,1.0,3,True
+459843,207196,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Split,2,Apeks,FNATIC,14,16,Governor,3980,fade,0.77,131.0,13.0,21.0,8.0,70.0,88.0,24.0,3.0,6.0,3,True
+459843,207196,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Split,2,Apeks,FNATIC,14,16,AvovA,1507,astra,0.77,159.0,16.0,22.0,10.0,70.0,102.0,30.0,0.0,0.0,3,True
+459843,207196,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Split,2,FNATIC,Apeks,16,14,kaajak,9554,yoru,1.26,256.0,27.0,19.0,5.0,67.0,172.0,44.0,7.0,6.0,3,True
+459843,207196,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Split,2,FNATIC,Apeks,16,14,Chronicle,458,viper,1.15,234.0,25.0,19.0,6.0,80.0,155.0,38.0,4.0,1.0,3,True
+459843,207196,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Split,2,FNATIC,Apeks,16,14,Alfajer,9810,raze,1.0,237.0,25.0,21.0,4.0,70.0,160.0,18.0,3.0,2.0,3,True
+459843,207196,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Split,2,FNATIC,Apeks,16,14,crashies,4,fade,0.74,103.0,11.0,20.0,10.0,53.0,79.0,24.0,0.0,2.0,3,True
+459843,207196,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Split,2,FNATIC,Apeks,16,14,Boaster,438,astra,0.69,137.0,14.0,21.0,8.0,67.0,88.0,23.0,2.0,3.0,3,True
+459844,207198,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Haven,1,Karmine Corp,Gentle Mates,14,12,marteen,10307,yoru,1.45,302.0,27.0,16.0,7.0,81.0,196.0,51.0,6.0,5.0,3,True
+459844,207198,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Haven,1,Karmine Corp,Gentle Mates,14,12,SUYGETSU,2858,omen,1.18,188.0,18.0,15.0,12.0,85.0,136.0,57.0,2.0,1.0,3,True
+459844,207198,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Haven,1,Karmine Corp,Gentle Mates,14,12,saadhak,727,sova,0.98,181.0,14.0,17.0,12.0,69.0,136.0,29.0,2.0,1.0,3,True
+459844,207198,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Haven,1,Karmine Corp,Gentle Mates,14,12,Avez,5654,phoenix,0.86,216.0,20.0,20.0,4.0,58.0,152.0,39.0,2.0,5.0,3,True
+459844,207198,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Haven,1,Karmine Corp,Gentle Mates,14,12,Elite,16459,cypher,0.61,93.0,9.0,18.0,3.0,77.0,58.0,19.0,2.0,0.0,3,True
+459844,207198,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Haven,1,Gentle Mates,Karmine Corp,12,14,kamyk,1475,breach,1.55,304.0,29.0,16.0,10.0,81.0,188.0,48.0,2.0,0.0,3,True
+459844,207198,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Haven,1,Gentle Mates,Karmine Corp,12,14,Minny,23169,cypher,1.07,187.0,17.0,17.0,5.0,77.0,138.0,40.0,5.0,1.0,3,True
+459844,207198,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Haven,1,Gentle Mates,Karmine Corp,12,14,Zyppan,11,sova,0.86,154.0,14.0,18.0,8.0,73.0,108.0,27.0,1.0,4.0,3,True
+459844,207198,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Haven,1,Gentle Mates,Karmine Corp,12,14,Kada,20871,omen,0.85,136.0,12.0,17.0,13.0,69.0,95.0,28.0,2.0,1.0,3,True
+459844,207198,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Haven,1,Gentle Mates,Karmine Corp,12,14,Click,7866,neon,0.66,170.0,14.0,20.0,6.0,65.0,116.0,20.0,2.0,8.0,3,True
+459844,207199,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Pearl,2,Karmine Corp,Gentle Mates,13,2,Avez,5654,fade,1.84,312.0,16.0,6.0,13.0,93.0,194.0,32.0,2.0,1.0,3,True
+459844,207199,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Pearl,2,Karmine Corp,Gentle Mates,13,2,marteen,10307,yoru,1.53,277.0,17.0,8.0,6.0,93.0,180.0,38.0,1.0,0.0,3,True
+459844,207199,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Pearl,2,Karmine Corp,Gentle Mates,13,2,SUYGETSU,2858,astra,1.51,217.0,12.0,5.0,11.0,87.0,141.0,59.0,3.0,1.0,3,True
+459844,207199,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Pearl,2,Karmine Corp,Gentle Mates,13,2,Elite,16459,vyse,1.42,246.0,14.0,7.0,3.0,87.0,166.0,48.0,1.0,2.0,3,True
+459844,207199,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Pearl,2,Karmine Corp,Gentle Mates,13,2,saadhak,727,harbor,1.26,200.0,10.0,8.0,11.0,87.0,117.0,30.0,2.0,2.0,3,True
+459844,207199,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Pearl,2,Gentle Mates,Karmine Corp,2,13,Click,7866,yoru,1.32,289.0,14.0,12.0,3.0,60.0,167.0,50.0,5.0,4.0,3,True
+459844,207199,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Pearl,2,Gentle Mates,Karmine Corp,2,13,Kada,20871,astra,0.55,158.0,9.0,15.0,2.0,53.0,99.0,21.0,0.0,2.0,3,True
+459844,207199,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Pearl,2,Gentle Mates,Karmine Corp,2,13,Zyppan,11,sova,0.43,119.0,6.0,14.0,3.0,47.0,75.0,28.0,0.0,2.0,3,True
+459844,207199,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Pearl,2,Gentle Mates,Karmine Corp,2,13,kamyk,1475,tejo,0.2,85.0,3.0,14.0,2.0,40.0,56.0,38.0,0.0,1.0,3,True
+459844,207199,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 3,2025-04-11,Pearl,2,Gentle Mates,Karmine Corp,2,13,Minny,23169,killjoy,0.1,50.0,2.0,14.0,0.0,40.0,42.0,20.0,1.0,0.0,3,True
+459845,207201,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Ascent,1,Team Vitality,Apeks,13,5,Kicks,11134,kayo,1.98,318.0,22.0,11.0,15.0,94.0,190.0,38.0,1.0,2.0,3,True
+459845,207201,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Ascent,1,Team Vitality,Apeks,13,5,Sayf,312,tejo,1.32,254.0,16.0,11.0,7.0,89.0,169.0,17.0,1.0,0.0,3,True
+459845,207201,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Ascent,1,Team Vitality,Apeks,13,5,CyvOph,13258,omen,1.16,208.0,13.0,10.0,13.0,100.0,132.0,26.0,1.0,0.0,3,True
+459845,207201,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Ascent,1,Team Vitality,Apeks,13,5,Derke,5022,yoru,1.15,195.0,14.0,10.0,4.0,72.0,129.0,19.0,6.0,5.0,3,True
+459845,207201,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Ascent,1,Team Vitality,Apeks,13,5,Less,8447,cypher,0.71,177.0,12.0,14.0,3.0,56.0,130.0,46.0,0.0,2.0,3,True
+459845,207201,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Ascent,1,Apeks,Team Vitality,5,13,AvovA,1507,omen,0.97,164.0,10.0,13.0,5.0,72.0,114.0,31.0,1.0,0.0,3,True
+459845,207201,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Ascent,1,Apeks,Team Vitality,5,13,MOLSI,1281,deadlock,0.93,212.0,14.0,14.0,1.0,72.0,146.0,32.0,2.0,3.0,3,True
+459845,207201,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Ascent,1,Apeks,Team Vitality,5,13,batujnax,18615,cypher,0.66,183.0,11.0,16.0,5.0,67.0,131.0,18.0,0.0,1.0,3,True
+459845,207201,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Ascent,1,Apeks,Team Vitality,5,13,florescent,17976,yoru,0.66,216.0,13.0,18.0,4.0,78.0,137.0,34.0,4.0,4.0,3,True
+459845,207201,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Ascent,1,Apeks,Team Vitality,5,13,Governor,3980,sova,0.6,133.0,8.0,16.0,4.0,56.0,90.0,38.0,2.0,1.0,3,True
+459845,207202,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Team Vitality,Apeks,13,10,Kicks,11134,breach,1.64,240.0,20.0,11.0,19.0,83.0,142.0,18.0,1.0,1.0,3,True
+459845,207202,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Team Vitality,Apeks,13,10,Less,8447,viper,1.4,251.0,20.0,14.0,8.0,78.0,167.0,23.0,2.0,0.0,3,True
+459845,207202,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Team Vitality,Apeks,13,10,CyvOph,13258,omen,1.0,191.0,18.0,16.0,4.0,70.0,115.0,25.0,1.0,4.0,3,True
+459845,207202,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Team Vitality,Apeks,13,10,Derke,5022,neon,0.89,228.0,19.0,19.0,2.0,74.0,137.0,13.0,6.0,4.0,3,True
+459845,207202,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Team Vitality,Apeks,13,10,Sayf,312,tejo,0.39,100.0,6.0,18.0,6.0,61.0,77.0,16.0,1.0,2.0,3,True
+459845,207202,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Apeks,Team Vitality,10,13,MOLSI,1281,breach,1.34,296.0,25.0,16.0,4.0,83.0,175.0,39.0,6.0,0.0,3,True
+459845,207202,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Apeks,Team Vitality,10,13,batujnax,18615,viper,1.12,259.0,21.0,19.0,9.0,78.0,159.0,25.0,3.0,2.0,3,True
+459845,207202,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Apeks,Team Vitality,10,13,florescent,17976,yoru,0.88,177.0,16.0,16.0,6.0,70.0,107.0,30.0,1.0,5.0,3,True
+459845,207202,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Apeks,Team Vitality,10,13,AvovA,1507,omen,0.6,97.0,7.0,16.0,9.0,70.0,61.0,29.0,1.0,3.0,3,True
+459845,207202,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Apeks,Team Vitality,10,13,Governor,3980,tejo,0.5,125.0,9.0,17.0,5.0,70.0,86.0,20.0,0.0,1.0,3,True
+459846,212700,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Split,1,Team Liquid,Movistar KOI (KOI),13,5,kamo,14681,yoru,1.48,261.0,18.0,9.0,4.0,83.0,175.0,26.0,1.0,2.0,3,True
+459846,212700,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Split,1,Team Liquid,Movistar KOI (KOI),13,5,keiko,11494,raze,1.29,260.0,17.0,13.0,3.0,83.0,170.0,27.0,3.0,1.0,3,True
+459846,212700,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Split,1,Team Liquid,Movistar KOI (KOI),13,5,paTiTek,309,fade,1.08,191.0,12.0,11.0,10.0,89.0,124.0,17.0,2.0,0.0,3,True
+459846,212700,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Split,1,Team Liquid,Movistar KOI (KOI),13,5,nAts,457,viper,1.05,261.0,18.0,14.0,0.0,72.0,167.0,37.0,3.0,5.0,3,True
+459846,212700,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Split,1,Team Liquid,Movistar KOI (KOI),13,5,Serial,18162,astra,0.88,171.0,10.0,12.0,13.0,89.0,106.0,33.0,1.0,0.0,3,True
+459846,212700,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Split,1,Movistar KOI (KOI),Team Liquid,5,13,sheydos,1428,breach,1.09,219.0,12.0,14.0,8.0,72.0,156.0,43.0,1.0,0.0,3,True
+459846,212700,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Split,1,Movistar KOI (KOI),Team Liquid,5,13,soulcas,101,tejo,0.97,209.0,14.0,14.0,2.0,78.0,138.0,39.0,3.0,3.0,3,True
+459846,212700,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Split,1,Movistar KOI (KOI),Team Liquid,5,13,flyuh,3685,viper,0.87,223.0,14.0,15.0,6.0,67.0,139.0,15.0,1.0,4.0,3,True
+459846,212700,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Split,1,Movistar KOI (KOI),Team Liquid,5,13,Filu,4544,yoru,0.59,169.0,11.0,16.0,2.0,56.0,105.0,25.0,3.0,1.0,3,True
+459846,212700,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Split,1,Movistar KOI (KOI),Team Liquid,5,13,grubinho,5550,omen,0.57,135.0,8.0,16.0,8.0,72.0,84.0,42.0,0.0,2.0,3,True
+459846,212701,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Team Liquid,Movistar KOI (KOI),13,9,keiko,11494,omen,1.37,248.0,21.0,16.0,8.0,77.0,170.0,40.0,0.0,0.0,3,True
+459846,212701,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Team Liquid,Movistar KOI (KOI),13,9,nAts,457,cypher,1.17,186.0,16.0,12.0,7.0,82.0,126.0,20.0,1.0,0.0,3,True
+459846,212701,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Team Liquid,Movistar KOI (KOI),13,9,kamo,14681,waylay,0.86,174.0,19.0,15.0,1.0,82.0,115.0,37.0,5.0,5.0,3,True
+459846,212701,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Team Liquid,Movistar KOI (KOI),13,9,Serial,18162,deadlock,0.63,133.0,14.0,15.0,6.0,64.0,91.0,41.0,0.0,3.0,3,True
+459846,212701,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Team Liquid,Movistar KOI (KOI),13,9,paTiTek,309,tejo,0.61,101.0,11.0,14.0,6.0,68.0,61.0,26.0,3.0,2.0,3,True
+459846,212701,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Movistar KOI (KOI),Team Liquid,9,13,soulcas,101,killjoy,1.33,228.0,19.0,14.0,1.0,82.0,150.0,47.0,1.0,0.0,3,True
+459846,212701,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Movistar KOI (KOI),Team Liquid,9,13,sheydos,1428,fade,1.07,151.0,12.0,14.0,5.0,73.0,114.0,25.0,0.0,2.0,3,True
+459846,212701,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Movistar KOI (KOI),Team Liquid,9,13,Filu,4544,raze,0.89,220.0,19.0,20.0,3.0,68.0,138.0,27.0,5.0,1.0,3,True
+459846,212701,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Movistar KOI (KOI),Team Liquid,9,13,flyuh,3685,viper,0.83,155.0,11.0,16.0,6.0,73.0,97.0,30.0,3.0,4.0,3,True
+459846,212701,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-16,Lotus,2,Movistar KOI (KOI),Team Liquid,9,13,grubinho,5550,omen,0.8,137.0,11.0,17.0,4.0,82.0,90.0,19.0,1.0,2.0,3,True
+459847,207207,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,1,Gentle Mates,BBL Esports,12,14,Kada,20871,omen,1.44,289.0,26.0,18.0,7.0,85.0,187.0,32.0,3.0,2.0,3,True
+459847,207207,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,1,Gentle Mates,BBL Esports,12,14,kamyk,1475,breach,1.25,240.0,24.0,15.0,2.0,77.0,164.0,45.0,1.0,1.0,3,True
+459847,207207,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,1,Gentle Mates,BBL Esports,12,14,Click,7866,yoru,1.0,205.0,18.0,17.0,2.0,73.0,122.0,46.0,4.0,2.0,3,True
+459847,207207,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,1,Gentle Mates,BBL Esports,12,14,Minny,23169,viper,0.94,170.0,14.0,16.0,11.0,69.0,108.0,31.0,3.0,4.0,3,True
+459847,207207,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,1,Gentle Mates,BBL Esports,12,14,Zyppan,11,tejo,0.35,94.0,7.0,21.0,3.0,62.0,68.0,26.0,2.0,4.0,3,True
+459847,207207,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,1,BBL Esports,Gentle Mates,14,12,LewN,20144,jett,1.34,277.0,24.0,18.0,4.0,65.0,171.0,27.0,7.0,7.0,3,True
+459847,207207,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,1,BBL Esports,Gentle Mates,14,12,Jamppi,9780,breach,1.28,216.0,20.0,15.0,10.0,81.0,134.0,16.0,0.0,0.0,3,True
+459847,207207,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,1,BBL Esports,Gentle Mates,14,12,sociablEE,5568,tejo,0.94,169.0,16.0,17.0,6.0,77.0,113.0,21.0,1.0,1.0,3,True
+459847,207207,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,1,BBL Esports,Gentle Mates,14,12,PROFEK,5554,omen,0.78,171.0,15.0,19.0,10.0,85.0,115.0,16.0,4.0,3.0,3,True
+459847,207207,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,1,BBL Esports,Gentle Mates,14,12,MAGNUM,2173,cypher,0.58,124.0,12.0,20.0,6.0,65.0,75.0,17.0,1.0,2.0,3,True
+459847,207208,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,2,Gentle Mates,BBL Esports,2,13,Minny,23169,cypher,0.89,189.0,10.0,13.0,1.0,53.0,115.0,42.0,1.0,3.0,3,True
+459847,207208,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,2,Gentle Mates,BBL Esports,2,13,Kada,20871,omen,0.78,161.0,9.0,13.0,5.0,67.0,101.0,53.0,1.0,1.0,3,True
+459847,207208,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,2,Gentle Mates,BBL Esports,2,13,Click,7866,jett,0.62,172.0,9.0,14.0,2.0,53.0,115.0,43.0,1.0,1.0,3,True
+459847,207208,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,2,Gentle Mates,BBL Esports,2,13,kamyk,1475,breach,0.54,115.0,4.0,14.0,7.0,67.0,77.0,20.0,0.0,1.0,3,True
+459847,207208,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,2,Gentle Mates,BBL Esports,2,13,Zyppan,11,sova,0.19,73.0,3.0,15.0,3.0,47.0,57.0,21.0,1.0,5.0,3,True
+459847,207208,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,2,BBL Esports,Gentle Mates,13,2,sociablEE,5568,sova,2.61,421.0,26.0,4.0,7.0,93.0,282.0,38.0,2.0,0.0,3,True
+459847,207208,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,2,BBL Esports,Gentle Mates,13,2,Jamppi,9780,breach,1.43,177.0,11.0,4.0,10.0,87.0,105.0,26.0,1.0,1.0,3,True
+459847,207208,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,2,BBL Esports,Gentle Mates,13,2,MAGNUM,2173,cypher,1.38,239.0,11.0,7.0,7.0,80.0,166.0,21.0,3.0,0.0,3,True
+459847,207208,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,2,BBL Esports,Gentle Mates,13,2,PROFEK,5554,omen,0.99,198.0,10.0,9.0,10.0,80.0,122.0,15.0,1.0,0.0,3,True
+459847,207208,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,2,BBL Esports,Gentle Mates,13,2,LewN,20144,jett,0.81,218.0,11.0,11.0,4.0,73.0,139.0,32.0,4.0,3.0,3,True
+459848,207210,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Ascent,1,GIANTX,FNATIC,13,10,ara,11332,jett,1.19,244.0,21.0,15.0,2.0,74.0,160.0,21.0,5.0,6.0,3,True
+459848,207210,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Ascent,1,GIANTX,FNATIC,13,10,Cloud,4181,sova,1.14,215.0,18.0,15.0,2.0,65.0,137.0,33.0,4.0,0.0,3,True
+459848,207210,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Ascent,1,GIANTX,FNATIC,13,10,Flickless,6959,kayo,1.0,203.0,16.0,15.0,4.0,65.0,135.0,34.0,1.0,5.0,3,True
+459848,207210,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Ascent,1,GIANTX,FNATIC,13,10,westside,34684,cypher,1.0,172.0,15.0,14.0,5.0,87.0,126.0,45.0,0.0,0.0,3,True
+459848,207210,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Ascent,1,GIANTX,FNATIC,13,10,purp0,1885,omen,0.95,131.0,10.0,12.0,11.0,65.0,89.0,38.0,0.0,2.0,3,True
+459848,207210,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Ascent,1,FNATIC,GIANTX,10,13,kaajak,9554,yoru,1.17,256.0,20.0,17.0,7.0,74.0,174.0,29.0,4.0,3.0,3,True
+459848,207210,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Ascent,1,FNATIC,GIANTX,10,13,Alfajer,9810,vyse,1.02,219.0,18.0,18.0,4.0,65.0,148.0,27.0,5.0,3.0,3,True
+459848,207210,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Ascent,1,FNATIC,GIANTX,10,13,Boaster,438,omen,1.02,198.0,17.0,16.0,6.0,57.0,131.0,30.0,3.0,1.0,3,True
+459848,207210,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Ascent,1,FNATIC,GIANTX,10,13,Chronicle,458,sova,0.89,139.0,10.0,13.0,7.0,65.0,103.0,19.0,0.0,2.0,3,True
+459848,207210,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Ascent,1,FNATIC,GIANTX,10,13,crashies,4,tejo,0.52,90.0,6.0,16.0,5.0,61.0,66.0,17.0,1.0,1.0,3,True
+459848,207211,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,2,GIANTX,FNATIC,5,13,ara,11332,neon,0.99,226.0,13.0,14.0,4.0,78.0,145.0,38.0,3.0,4.0,3,True
+459848,207211,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,2,GIANTX,FNATIC,5,13,westside,34684,vyse,0.96,228.0,15.0,14.0,5.0,72.0,145.0,52.0,3.0,1.0,3,True
+459848,207211,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,2,GIANTX,FNATIC,5,13,purp0,1885,omen,0.89,163.0,12.0,13.0,3.0,72.0,119.0,58.0,1.0,0.0,3,True
+459848,207211,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,2,GIANTX,FNATIC,5,13,Flickless,6959,breach,0.61,135.0,8.0,14.0,6.0,61.0,89.0,28.0,0.0,2.0,3,True
+459848,207211,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,2,GIANTX,FNATIC,5,13,Cloud,4181,tejo,0.56,133.0,9.0,16.0,4.0,67.0,83.0,29.0,2.0,2.0,3,True
+459848,207211,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,2,FNATIC,GIANTX,13,5,crashies,4,fade,1.41,197.0,14.0,8.0,7.0,78.0,140.0,56.0,1.0,1.0,3,True
+459848,207211,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,2,FNATIC,GIANTX,13,5,Alfajer,9810,killjoy,1.19,234.0,17.0,13.0,3.0,67.0,165.0,29.0,0.0,1.0,3,True
+459848,207211,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,2,FNATIC,GIANTX,13,5,kaajak,9554,raze,1.17,254.0,16.0,12.0,1.0,67.0,147.0,21.0,3.0,3.0,3,True
+459848,207211,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,2,FNATIC,GIANTX,13,5,Boaster,438,omen,1.14,191.0,11.0,9.0,9.0,78.0,127.0,13.0,1.0,1.0,3,True
+459848,207211,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Lotus,2,FNATIC,GIANTX,13,5,Chronicle,458,viper,0.93,216.0,13.0,15.0,7.0,89.0,137.0,21.0,4.0,3.0,3,True
+459848,207212,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,3,GIANTX,FNATIC,10,13,Flickless,6959,breach,1.25,209.0,19.0,15.0,9.0,74.0,138.0,30.0,3.0,2.0,3,True
+459848,207212,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,3,GIANTX,FNATIC,10,13,Cloud,4181,tejo,1.18,272.0,22.0,17.0,3.0,78.0,173.0,33.0,2.0,2.0,3,True
+459848,207212,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,3,GIANTX,FNATIC,10,13,westside,34684,cypher,0.8,150.0,13.0,17.0,4.0,57.0,97.0,57.0,0.0,1.0,3,True
+459848,207212,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,3,GIANTX,FNATIC,10,13,purp0,1885,omen,0.7,143.0,11.0,18.0,11.0,52.0,99.0,32.0,2.0,4.0,3,True
+459848,207212,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,3,GIANTX,FNATIC,10,13,ara,11332,jett,0.46,155.0,12.0,21.0,2.0,70.0,99.0,32.0,5.0,2.0,3,True
+459848,207212,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,3,FNATIC,GIANTX,13,10,crashies,4,sova,1.52,282.0,23.0,14.0,6.0,83.0,185.0,43.0,2.0,2.0,3,True
+459848,207212,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,3,FNATIC,GIANTX,13,10,kaajak,9554,yoru,1.25,241.0,20.0,16.0,7.0,78.0,157.0,22.0,4.0,3.0,3,True
+459848,207212,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,3,FNATIC,GIANTX,13,10,Alfajer,9810,iso,1.16,273.0,22.0,18.0,8.0,91.0,186.0,30.0,3.0,3.0,3,True
+459848,207212,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,3,FNATIC,GIANTX,13,10,Boaster,438,omen,0.86,150.0,13.0,15.0,10.0,65.0,109.0,23.0,0.0,1.0,3,True
+459848,207212,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-17,Haven,3,FNATIC,GIANTX,13,10,Chronicle,458,cypher,0.83,144.0,10.0,14.0,7.0,70.0,102.0,24.0,2.0,3.0,3,True
+459849,207214,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Lotus,1,Karmine Corp,FUT Esports,5,13,saadhak,727,harbor,1.1,226.0,13.0,14.0,7.0,72.0,141.0,23.0,1.0,3.0,3,True
+459849,207214,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Lotus,1,Karmine Corp,FUT Esports,5,13,marteen,10307,yoru,1.06,260.0,16.0,15.0,2.0,67.0,165.0,28.0,6.0,4.0,3,True
+459849,207214,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Lotus,1,Karmine Corp,FUT Esports,5,13,SUYGETSU,2858,omen,0.98,190.0,13.0,13.0,8.0,83.0,124.0,34.0,0.0,1.0,3,True
+459849,207214,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Lotus,1,Karmine Corp,FUT Esports,5,13,Avez,5654,fade,0.47,135.0,8.0,16.0,1.0,67.0,98.0,38.0,1.0,0.0,3,True
+459849,207214,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Lotus,1,Karmine Corp,FUT Esports,5,13,Elite,16459,vyse,0.3,80.0,4.0,16.0,4.0,44.0,65.0,27.0,0.0,2.0,3,True
+459849,207214,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Lotus,1,FUT Esports,Karmine Corp,13,5,xeus,12793,waylay,1.57,359.0,24.0,12.0,2.0,78.0,228.0,52.0,5.0,3.0,3,True
+459849,207214,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Lotus,1,FUT Esports,Karmine Corp,13,5,MrFaliN,8044,breach,1.5,196.0,12.0,8.0,12.0,72.0,130.0,32.0,1.0,2.0,3,True
+459849,207214,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Lotus,1,FUT Esports,Karmine Corp,13,5,AtaKaptan,6510,omen,1.14,222.0,14.0,12.0,11.0,89.0,154.0,43.0,0.0,1.0,3,True
+459849,207214,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Lotus,1,FUT Esports,Karmine Corp,13,5,yetujey,8369,cypher,1.07,210.0,14.0,11.0,6.0,83.0,123.0,24.0,4.0,1.0,3,True
+459849,207214,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Lotus,1,FUT Esports,Karmine Corp,13,5,qRaxs,1139,fade,0.94,152.0,10.0,11.0,7.0,72.0,99.0,17.0,0.0,1.0,3,True
+459849,207215,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Ascent,2,Karmine Corp,FUT Esports,11,13,SUYGETSU,2858,omen,1.53,312.0,26.0,13.0,6.0,88.0,197.0,40.0,3.0,1.0,3,True
+459849,207215,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Ascent,2,Karmine Corp,FUT Esports,11,13,marteen,10307,jett,1.05,202.0,18.0,16.0,3.0,75.0,129.0,20.0,4.0,2.0,3,True
+459849,207215,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Ascent,2,Karmine Corp,FUT Esports,11,13,saadhak,727,sova,0.91,166.0,12.0,16.0,7.0,71.0,114.0,39.0,1.0,0.0,3,True
+459849,207215,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Ascent,2,Karmine Corp,FUT Esports,11,13,Avez,5654,raze,0.68,173.0,14.0,18.0,4.0,71.0,123.0,28.0,3.0,7.0,3,True
+459849,207215,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Ascent,2,Karmine Corp,FUT Esports,11,13,Elite,16459,deadlock,0.54,91.0,8.0,18.0,7.0,63.0,60.0,23.0,1.0,2.0,3,True
+459849,207215,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Ascent,2,FUT Esports,Karmine Corp,13,11,xeus,12793,jett,1.47,327.0,27.0,17.0,4.0,67.0,210.0,29.0,6.0,4.0,3,True
+459849,207215,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Ascent,2,FUT Esports,Karmine Corp,13,11,MrFaliN,8044,sova,1.12,224.0,15.0,15.0,13.0,75.0,161.0,36.0,3.0,1.0,3,True
+459849,207215,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Ascent,2,FUT Esports,Karmine Corp,13,11,qRaxs,1139,kayo,1.06,156.0,15.0,13.0,10.0,75.0,102.0,29.0,0.0,1.0,3,True
+459849,207215,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Ascent,2,FUT Esports,Karmine Corp,13,11,yetujey,8369,killjoy,0.83,130.0,11.0,15.0,2.0,46.0,95.0,13.0,0.0,2.0,3,True
+459849,207215,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Ascent,2,FUT Esports,Karmine Corp,13,11,AtaKaptan,6510,omen,0.82,166.0,13.0,18.0,15.0,79.0,99.0,43.0,3.0,4.0,3,True
+459849,212913,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,3,Karmine Corp,FUT Esports,14,12,marteen,10307,yoru,1.37,279.0,26.0,16.0,5.0,62.0,189.0,31.0,5.0,2.0,3,True
+459849,212913,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,3,Karmine Corp,FUT Esports,14,12,SUYGETSU,2858,astra,1.27,233.0,23.0,15.0,10.0,88.0,129.0,32.0,3.0,1.0,3,True
+459849,212913,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,3,Karmine Corp,FUT Esports,14,12,Avez,5654,fade,1.17,230.0,19.0,17.0,12.0,77.0,138.0,39.0,0.0,0.0,3,True
+459849,212913,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,3,Karmine Corp,FUT Esports,14,12,saadhak,727,harbor,0.94,192.0,18.0,16.0,6.0,73.0,111.0,30.0,6.0,6.0,3,True
+459849,212913,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,3,Karmine Corp,FUT Esports,14,12,Elite,16459,vyse,0.89,123.0,10.0,15.0,11.0,77.0,88.0,40.0,1.0,2.0,3,True
+459849,212913,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,3,FUT Esports,Karmine Corp,12,14,AtaKaptan,6510,astra,1.31,238.0,23.0,18.0,9.0,77.0,144.0,30.0,1.0,2.0,3,True
+459849,212913,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,3,FUT Esports,Karmine Corp,12,14,MrFaliN,8044,tejo,0.87,236.0,20.0,24.0,9.0,62.0,146.0,9.0,4.0,1.0,3,True
+459849,212913,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,3,FUT Esports,Karmine Corp,12,14,yetujey,8369,cypher,0.83,126.0,10.0,16.0,6.0,54.0,90.0,16.0,1.0,5.0,3,True
+459849,212913,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,3,FUT Esports,Karmine Corp,12,14,qRaxs,1139,fade,0.81,157.0,13.0,17.0,4.0,65.0,100.0,17.0,1.0,2.0,3,True
+459849,212913,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,3,FUT Esports,Karmine Corp,12,14,xeus,12793,yoru,0.49,130.0,13.0,21.0,5.0,58.0,85.0,42.0,4.0,5.0,3,True
+459850,207216,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Haven,1,Natus Vincere,Team Heretics,3,13,ANGE1,109,vyse,0.94,186.0,10.0,14.0,1.0,56.0,120.0,37.0,1.0,2.0,3,True
+459850,207216,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Haven,1,Natus Vincere,Team Heretics,3,13,koalanoob,3722,yoru,0.66,184.0,10.0,16.0,2.0,44.0,108.0,25.0,2.0,5.0,3,True
+459850,207216,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Haven,1,Natus Vincere,Team Heretics,3,13,Ruxic,18677,omen,0.62,142.0,7.0,14.0,4.0,56.0,99.0,21.0,1.0,2.0,3,True
+459850,207216,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Haven,1,Natus Vincere,Team Heretics,3,13,Shao,384,sova,0.52,125.0,6.0,14.0,3.0,44.0,105.0,30.0,0.0,2.0,3,True
+459850,207216,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Haven,1,Natus Vincere,Team Heretics,3,13,hiro,29867,cypher,0.1,67.0,3.0,16.0,2.0,38.0,54.0,24.0,0.0,1.0,3,True
+459850,207216,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Haven,1,Team Heretics,Natus Vincere,13,3,MiniBoo,18350,yoru,1.75,341.0,21.0,8.0,6.0,100.0,194.0,18.0,3.0,0.0,3,True
+459850,207216,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Haven,1,Team Heretics,Natus Vincere,13,3,RieNs,10971,sova,1.62,248.0,15.0,5.0,4.0,100.0,134.0,56.0,4.0,0.0,3,True
+459850,207216,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Haven,1,Team Heretics,Natus Vincere,13,3,benjyfishy,29873,cypher,1.25,166.0,12.0,6.0,2.0,88.0,112.0,50.0,0.0,1.0,3,True
+459850,207216,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Haven,1,Team Heretics,Natus Vincere,13,3,Wo0t,21328,iso,1.22,286.0,17.0,9.0,5.0,88.0,176.0,40.0,3.0,1.0,3,True
+459850,207216,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Haven,1,Team Heretics,Natus Vincere,13,3,Boo,1144,omen,1.14,188.0,9.0,8.0,10.0,88.0,124.0,42.0,2.0,2.0,3,True
+459850,207217,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,2,Natus Vincere,Team Heretics,8,13,Shao,384,tejo,1.55,314.0,25.0,12.0,4.0,71.0,188.0,33.0,0.0,2.0,3,True
+459850,207217,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,2,Natus Vincere,Team Heretics,8,13,Ruxic,18677,astra,0.89,151.0,11.0,15.0,5.0,57.0,99.0,43.0,1.0,3.0,3,True
+459850,207217,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,2,Natus Vincere,Team Heretics,8,13,koalanoob,3722,yoru,0.79,146.0,11.0,15.0,5.0,67.0,90.0,16.0,2.0,3.0,3,True
+459850,207217,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,2,Natus Vincere,Team Heretics,8,13,ANGE1,109,sova,0.62,133.0,9.0,16.0,4.0,57.0,88.0,26.0,0.0,4.0,3,True
+459850,207217,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,2,Natus Vincere,Team Heretics,8,13,hiro,29867,killjoy,0.58,134.0,9.0,17.0,3.0,48.0,100.0,31.0,1.0,5.0,3,True
+459850,207217,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,2,Team Heretics,Natus Vincere,13,8,MiniBoo,18350,yoru,1.41,274.0,20.0,13.0,9.0,76.0,172.0,43.0,5.0,0.0,3,True
+459850,207217,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,2,Team Heretics,Natus Vincere,13,8,benjyfishy,29873,cypher,1.04,188.0,14.0,13.0,4.0,71.0,130.0,45.0,2.0,0.0,3,True
+459850,207217,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,2,Team Heretics,Natus Vincere,13,8,RieNs,10971,sova,0.98,177.0,13.0,12.0,5.0,81.0,114.0,54.0,3.0,1.0,3,True
+459850,207217,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,2,Team Heretics,Natus Vincere,13,8,Wo0t,21328,jett,0.97,212.0,17.0,15.0,1.0,76.0,123.0,43.0,6.0,1.0,3,True
+459850,207217,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 4,2025-04-18,Pearl,2,Team Heretics,Natus Vincere,13,8,Boo,1144,astra,0.92,142.0,11.0,12.0,10.0,67.0,97.0,35.0,1.0,2.0,3,True
+459852,207219,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,1,BBL Esports,FUT Esports,25,23,PROFEK,5554,omen,1.26,215.0,37.0,29.0,27.0,77.0,141.0,28.0,2.0,3.0,3,True
+459852,207219,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,1,BBL Esports,FUT Esports,25,23,MAGNUM,2173,fade,1.2,226.0,38.0,33.0,24.0,81.0,150.0,26.0,3.0,5.0,3,True
+459852,207219,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,1,BBL Esports,FUT Esports,25,23,sociablEE,5568,tejo,1.17,235.0,40.0,31.0,9.0,75.0,147.0,26.0,7.0,2.0,3,True
+459852,207219,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,1,BBL Esports,FUT Esports,25,23,LewN,20144,jett,1.17,260.0,42.0,37.0,9.0,69.0,178.0,39.0,10.0,7.0,3,True
+459852,207219,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,1,BBL Esports,FUT Esports,25,23,Jamppi,9780,kayo,0.55,128.0,18.0,39.0,23.0,67.0,94.0,22.0,3.0,6.0,3,True
+459852,207219,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,1,FUT Esports,BBL Esports,23,25,MrFaliN,8044,sova,1.37,265.0,38.0,33.0,24.0,71.0,190.0,23.0,7.0,4.0,3,True
+459852,207219,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,1,FUT Esports,BBL Esports,23,25,qRaxs,1139,kayo,1.19,218.0,40.0,31.0,20.0,69.0,143.0,31.0,3.0,3.0,3,True
+459852,207219,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,1,FUT Esports,BBL Esports,23,25,yetujey,8369,killjoy,1.12,225.0,38.0,33.0,6.0,67.0,148.0,19.0,5.0,6.0,3,True
+459852,207219,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,1,FUT Esports,BBL Esports,23,25,AtaKaptan,6510,omen,0.91,191.0,31.0,37.0,21.0,71.0,135.0,31.0,2.0,2.0,3,True
+459852,207219,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,1,FUT Esports,BBL Esports,23,25,xeus,12793,jett,0.43,132.0,22.0,41.0,6.0,54.0,93.0,30.0,6.0,10.0,3,True
+459852,207220,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Icebox,2,BBL Esports,FUT Esports,13,11,Jamppi,9780,kayo,1.25,227.0,20.0,15.0,18.0,83.0,124.0,22.0,0.0,2.0,3,True
+459852,207220,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Icebox,2,BBL Esports,FUT Esports,13,11,PROFEK,5554,viper,1.09,219.0,19.0,15.0,5.0,75.0,144.0,37.0,2.0,3.0,3,True
+459852,207220,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Icebox,2,BBL Esports,FUT Esports,13,11,MAGNUM,2173,killjoy,1.07,247.0,20.0,17.0,4.0,75.0,155.0,17.0,4.0,0.0,3,True
+459852,207220,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Icebox,2,BBL Esports,FUT Esports,13,11,sociablEE,5568,tejo,1.02,223.0,19.0,16.0,6.0,79.0,169.0,22.0,1.0,1.0,3,True
+459852,207220,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Icebox,2,BBL Esports,FUT Esports,13,11,LewN,20144,jett,1.01,235.0,20.0,17.0,7.0,79.0,157.0,37.0,6.0,5.0,3,True
+459852,207220,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Icebox,2,FUT Esports,BBL Esports,11,13,yetujey,8369,deadlock,1.54,267.0,23.0,16.0,9.0,79.0,164.0,46.0,1.0,3.0,3,True
+459852,207220,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Icebox,2,FUT Esports,BBL Esports,11,13,qRaxs,1139,kayo,1.2,234.0,19.0,19.0,15.0,83.0,139.0,22.0,1.0,1.0,3,True
+459852,207220,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Icebox,2,FUT Esports,BBL Esports,11,13,AtaKaptan,6510,viper,0.71,164.0,14.0,21.0,2.0,46.0,113.0,30.0,1.0,1.0,3,True
+459852,207220,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Icebox,2,FUT Esports,BBL Esports,11,13,xeus,12793,waylay,0.6,175.0,14.0,22.0,2.0,50.0,109.0,39.0,8.0,5.0,3,True
+459852,207220,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Icebox,2,FUT Esports,BBL Esports,11,13,MrFaliN,8044,tejo,0.53,128.0,10.0,20.0,4.0,46.0,88.0,21.0,0.0,3.0,3,True
+459853,207222,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Lotus,1,GIANTX,Apeks,13,7,westside,34684,vyse,1.61,258.0,20.0,9.0,5.0,85.0,173.0,55.0,3.0,1.0,3,True
+459853,207222,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Lotus,1,GIANTX,Apeks,13,7,ara,11332,neon,1.37,231.0,17.0,10.0,3.0,70.0,144.0,22.0,1.0,4.0,3,True
+459853,207222,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Lotus,1,GIANTX,Apeks,13,7,Cloud,4181,tejo,1.33,242.0,18.0,12.0,9.0,80.0,157.0,27.0,2.0,2.0,3,True
+459853,207222,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Lotus,1,GIANTX,Apeks,13,7,Flickless,6959,breach,0.94,175.0,11.0,13.0,10.0,75.0,117.0,32.0,1.0,2.0,3,True
+459853,207222,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Lotus,1,GIANTX,Apeks,13,7,runneR,21610,omen,0.88,141.0,11.0,11.0,7.0,70.0,90.0,29.0,0.0,4.0,3,True
+459853,207222,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Lotus,1,Apeks,GIANTX,7,13,florescent,17976,yoru,1.33,261.0,17.0,14.0,6.0,65.0,162.0,35.0,4.0,2.0,3,True
+459853,207222,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Lotus,1,Apeks,GIANTX,7,13,MOLSI,1281,breach,0.94,162.0,13.0,15.0,10.0,80.0,99.0,46.0,2.0,1.0,3,True
+459853,207222,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Lotus,1,Apeks,GIANTX,7,13,AvovA,1507,omen,0.65,125.0,8.0,16.0,6.0,60.0,101.0,21.0,1.0,1.0,3,True
+459853,207222,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Lotus,1,Apeks,GIANTX,7,13,Governor,3980,tejo,0.53,155.0,10.0,16.0,2.0,60.0,116.0,38.0,4.0,2.0,3,True
+459853,207222,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Lotus,1,Apeks,GIANTX,7,13,batujnax,18615,viper,0.51,111.0,7.0,16.0,2.0,50.0,81.0,30.0,2.0,1.0,3,True
+459853,207223,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,2,GIANTX,Apeks,13,9,Cloud,4181,sova,1.41,265.0,22.0,12.0,6.0,91.0,157.0,44.0,5.0,1.0,3,True
+459853,207223,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,2,GIANTX,Apeks,13,9,runneR,21610,omen,1.31,206.0,18.0,12.0,7.0,73.0,137.0,28.0,1.0,2.0,3,True
+459853,207223,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,2,GIANTX,Apeks,13,9,ara,11332,jett,1.22,293.0,22.0,18.0,5.0,95.0,188.0,16.0,7.0,1.0,3,True
+459853,207223,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,2,GIANTX,Apeks,13,9,Flickless,6959,kayo,0.8,140.0,11.0,15.0,11.0,91.0,96.0,42.0,0.0,2.0,3,True
+459853,207223,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,2,GIANTX,Apeks,13,9,westside,34684,cypher,0.79,165.0,14.0,15.0,3.0,64.0,113.0,42.0,1.0,2.0,3,True
+459853,207223,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,2,Apeks,GIANTX,9,13,florescent,17976,yoru,1.5,350.0,27.0,19.0,7.0,82.0,220.0,42.0,5.0,2.0,3,True
+459853,207223,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,2,Apeks,GIANTX,9,13,MOLSI,1281,deadlock,1.07,188.0,17.0,14.0,5.0,68.0,115.0,25.0,0.0,3.0,3,True
+459853,207223,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,2,Apeks,GIANTX,9,13,AvovA,1507,omen,0.81,150.0,11.0,16.0,11.0,68.0,98.0,21.0,1.0,2.0,3,True
+459853,207223,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,2,Apeks,GIANTX,9,13,batujnax,18615,cypher,0.52,130.0,9.0,18.0,6.0,73.0,83.0,39.0,1.0,4.0,3,True
+459853,207223,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-23,Ascent,2,Apeks,GIANTX,9,13,Governor,3980,sova,0.32,125.0,8.0,20.0,5.0,59.0,86.0,26.0,1.0,3.0,3,True
+459854,207225,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Split,1,Gentle Mates,Movistar KOI (KOI),13,11,Minny,23169,viper,1.38,248.0,22.0,14.0,2.0,83.0,167.0,31.0,2.0,0.0,3,True
+459854,207225,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Split,1,Gentle Mates,Movistar KOI (KOI),13,11,kamyk,1475,breach,1.2,202.0,18.0,14.0,5.0,79.0,143.0,38.0,1.0,1.0,3,True
+459854,207225,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Split,1,Gentle Mates,Movistar KOI (KOI),13,11,Zyppan,11,tejo,0.92,163.0,14.0,14.0,4.0,75.0,116.0,23.0,2.0,3.0,3,True
+459854,207225,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Split,1,Gentle Mates,Movistar KOI (KOI),13,11,Kada,20871,omen,0.68,163.0,13.0,19.0,3.0,50.0,109.0,42.0,2.0,3.0,3,True
+459854,207225,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Split,1,Gentle Mates,Movistar KOI (KOI),13,11,Click,7866,yoru,0.46,123.0,10.0,18.0,1.0,54.0,79.0,35.0,4.0,6.0,3,True
+459854,207225,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Split,1,Movistar KOI (KOI),Gentle Mates,11,13,flyuh,3685,viper,1.32,264.0,21.0,16.0,7.0,79.0,156.0,24.0,5.0,3.0,3,True
+459854,207225,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Split,1,Movistar KOI (KOI),Gentle Mates,11,13,soulcas,101,tejo,1.04,190.0,17.0,15.0,2.0,71.0,123.0,48.0,4.0,2.0,3,True
+459854,207225,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Split,1,Movistar KOI (KOI),Gentle Mates,11,13,grubinho,5550,omen,0.99,167.0,15.0,15.0,6.0,67.0,123.0,39.0,3.0,1.0,3,True
+459854,207225,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Split,1,Movistar KOI (KOI),Gentle Mates,11,13,Filu,4544,yoru,0.91,197.0,15.0,17.0,6.0,79.0,119.0,24.0,1.0,4.0,3,True
+459854,207225,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Split,1,Movistar KOI (KOI),Gentle Mates,11,13,sheydos,1428,breach,0.72,109.0,11.0,14.0,0.0,71.0,77.0,43.0,0.0,1.0,3,True
+459854,207226,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Gentle Mates,Movistar KOI (KOI),6,13,Kada,20871,viper,0.95,193.0,12.0,14.0,5.0,58.0,119.0,43.0,3.0,6.0,3,True
+459854,207226,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Gentle Mates,Movistar KOI (KOI),6,13,kamyk,1475,kayo,0.89,151.0,10.0,16.0,8.0,53.0,107.0,44.0,2.0,1.0,3,True
+459854,207226,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Gentle Mates,Movistar KOI (KOI),6,13,Minny,23169,killjoy,0.74,155.0,10.0,16.0,2.0,53.0,99.0,19.0,0.0,1.0,3,True
+459854,207226,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Gentle Mates,Movistar KOI (KOI),6,13,Click,7866,waylay,0.57,171.0,11.0,17.0,4.0,58.0,120.0,29.0,1.0,3.0,3,True
+459854,207226,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Gentle Mates,Movistar KOI (KOI),6,13,Zyppan,11,tejo,0.53,129.0,8.0,15.0,1.0,63.0,83.0,38.0,0.0,2.0,3,True
+459854,207226,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Movistar KOI (KOI),Gentle Mates,13,6,soulcas,101,tejo,1.43,262.0,20.0,11.0,3.0,79.0,175.0,50.0,2.0,0.0,3,True
+459854,207226,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Movistar KOI (KOI),Gentle Mates,13,6,Filu,4544,jett,1.4,265.0,20.0,11.0,3.0,79.0,180.0,26.0,4.0,2.0,3,True
+459854,207226,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Movistar KOI (KOI),Gentle Mates,13,6,grubinho,5550,viper,1.36,198.0,14.0,8.0,5.0,84.0,133.0,38.0,5.0,1.0,3,True
+459854,207226,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Movistar KOI (KOI),Gentle Mates,13,6,sheydos,1428,killjoy,1.28,175.0,14.0,6.0,3.0,79.0,135.0,21.0,0.0,1.0,3,True
+459854,207226,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Movistar KOI (KOI),Gentle Mates,13,6,flyuh,3685,sova,0.74,169.0,10.0,15.0,9.0,84.0,110.0,32.0,2.0,2.0,3,True
+459854,207227,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Fracture,3,Gentle Mates,Movistar KOI (KOI),9,13,Click,7866,waylay,1.23,276.0,22.0,17.0,3.0,73.0,164.0,29.0,5.0,6.0,3,True
+459854,207227,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Fracture,3,Gentle Mates,Movistar KOI (KOI),9,13,Minny,23169,cypher,1.04,205.0,16.0,16.0,8.0,77.0,133.0,38.0,2.0,2.0,3,True
+459854,207227,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Fracture,3,Gentle Mates,Movistar KOI (KOI),9,13,kamyk,1475,breach,0.91,226.0,16.0,20.0,5.0,86.0,153.0,34.0,1.0,2.0,3,True
+459854,207227,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Fracture,3,Gentle Mates,Movistar KOI (KOI),9,13,Zyppan,11,tejo,0.78,152.0,13.0,15.0,3.0,64.0,118.0,25.0,0.0,2.0,3,True
+459854,207227,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Fracture,3,Gentle Mates,Movistar KOI (KOI),9,13,Kada,20871,brimstone,0.5,140.0,10.0,20.0,9.0,64.0,87.0,39.0,0.0,2.0,3,True
+459854,207227,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Fracture,3,Movistar KOI (KOI),Gentle Mates,13,9,soulcas,101,tejo,1.44,262.0,23.0,14.0,7.0,91.0,162.0,25.0,4.0,0.0,3,True
+459854,207227,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Fracture,3,Movistar KOI (KOI),Gentle Mates,13,9,flyuh,3685,cypher,1.15,232.0,18.0,15.0,6.0,86.0,155.0,30.0,3.0,1.0,3,True
+459854,207227,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Fracture,3,Movistar KOI (KOI),Gentle Mates,13,9,grubinho,5550,brimstone,1.11,235.0,18.0,17.0,7.0,59.0,152.0,24.0,4.0,1.0,3,True
+459854,207227,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Fracture,3,Movistar KOI (KOI),Gentle Mates,13,9,Filu,4544,raze,1.03,211.0,15.0,16.0,8.0,64.0,139.0,17.0,3.0,6.0,3,True
+459854,207227,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Fracture,3,Movistar KOI (KOI),Gentle Mates,13,9,sheydos,1428,breach,0.83,153.0,14.0,15.0,6.0,73.0,98.0,27.0,0.0,0.0,3,True
+459855,207228,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Haven,1,Team Vitality,Natus Vincere,5,13,Derke,5022,neon,1.12,271.0,16.0,16.0,3.0,61.0,176.0,35.0,1.0,6.0,3,True
+459855,207228,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Haven,1,Team Vitality,Natus Vincere,5,13,CyvOph,13258,omen,0.91,179.0,11.0,15.0,7.0,72.0,112.0,43.0,0.0,3.0,3,True
+459855,207228,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Haven,1,Team Vitality,Natus Vincere,5,13,Sayf,312,tejo,0.87,166.0,11.0,15.0,3.0,61.0,101.0,17.0,1.0,1.0,3,True
+459855,207228,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Haven,1,Team Vitality,Natus Vincere,5,13,Less,8447,cypher,0.6,184.0,11.0,16.0,5.0,67.0,125.0,26.0,0.0,3.0,3,True
+459855,207228,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Haven,1,Team Vitality,Natus Vincere,5,13,Kicks,11134,breach,0.28,88.0,5.0,16.0,5.0,61.0,59.0,43.0,0.0,3.0,3,True
+459855,207228,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Haven,1,Natus Vincere,Team Vitality,13,5,Ruxic,18677,omen,1.84,436.0,29.0,12.0,4.0,100.0,242.0,38.0,9.0,0.0,3,True
+459855,207228,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Haven,1,Natus Vincere,Team Vitality,13,5,koalanoob,3722,yoru,1.22,226.0,16.0,12.0,6.0,83.0,138.0,36.0,3.0,2.0,3,True
+459855,207228,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Haven,1,Natus Vincere,Team Vitality,13,5,ANGE1,109,vyse,0.98,173.0,12.0,10.0,5.0,83.0,105.0,28.0,2.0,0.0,3,True
+459855,207228,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Haven,1,Natus Vincere,Team Vitality,13,5,Shao,384,sova,0.97,145.0,10.0,9.0,3.0,83.0,106.0,20.0,1.0,0.0,3,True
+459855,207228,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Haven,1,Natus Vincere,Team Vitality,13,5,hiro,29867,cypher,0.96,158.0,11.0,11.0,5.0,83.0,111.0,21.0,1.0,0.0,3,True
+459855,207229,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Team Vitality,Natus Vincere,11,13,Kicks,11134,kayo,1.01,173.0,16.0,17.0,8.0,63.0,132.0,29.0,0.0,4.0,3,True
+459855,207229,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Team Vitality,Natus Vincere,11,13,Derke,5022,jett,0.95,184.0,15.0,17.0,2.0,54.0,128.0,16.0,6.0,5.0,3,True
+459855,207229,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Team Vitality,Natus Vincere,11,13,CyvOph,13258,killjoy,0.9,156.0,14.0,16.0,1.0,67.0,99.0,41.0,0.0,2.0,3,True
+459855,207229,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Team Vitality,Natus Vincere,11,13,Less,8447,viper,0.81,167.0,13.0,20.0,6.0,54.0,101.0,31.0,3.0,3.0,3,True
+459855,207229,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Team Vitality,Natus Vincere,11,13,Sayf,312,tejo,0.68,139.0,9.0,14.0,4.0,71.0,122.0,11.0,0.0,0.0,3,True
+459855,207229,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Natus Vincere,Team Vitality,13,11,koalanoob,3722,omen,1.57,285.0,24.0,13.0,11.0,92.0,182.0,28.0,7.0,3.0,3,True
+459855,207229,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Natus Vincere,Team Vitality,13,11,hiro,29867,killjoy,1.03,176.0,16.0,12.0,3.0,75.0,120.0,19.0,1.0,1.0,3,True
+459855,207229,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Natus Vincere,Team Vitality,13,11,Ruxic,18677,viper,0.92,154.0,13.0,12.0,7.0,79.0,101.0,21.0,1.0,1.0,3,True
+459855,207229,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Natus Vincere,Team Vitality,13,11,ANGE1,109,tejo,0.92,171.0,13.0,15.0,2.0,67.0,119.0,28.0,4.0,1.0,3,True
+459855,207229,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-04-24,Icebox,2,Natus Vincere,Team Vitality,13,11,Shao,384,gekko,0.86,151.0,13.0,15.0,6.0,79.0,111.0,28.0,1.0,3.0,3,True
+459856,207232,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Icebox,1,Team Liquid,Karmine Corp,9,13,nAts,457,viper,1.4,292.0,21.0,15.0,8.0,77.0,198.0,18.0,5.0,2.0,3,True
+459856,207232,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Icebox,1,Team Liquid,Karmine Corp,9,13,kamo,14681,gekko,0.84,160.0,13.0,16.0,2.0,59.0,116.0,46.0,1.0,1.0,3,True
+459856,207232,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Icebox,1,Team Liquid,Karmine Corp,9,13,paTiTek,309,kayo,0.83,125.0,9.0,13.0,10.0,86.0,77.0,16.0,0.0,1.0,3,True
+459856,207232,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Icebox,1,Team Liquid,Karmine Corp,9,13,Serial,18162,killjoy,0.65,132.0,10.0,16.0,1.0,50.0,96.0,48.0,2.0,1.0,3,True
+459856,207232,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Icebox,1,Team Liquid,Karmine Corp,9,13,keiko,11494,jett,0.53,161.0,11.0,21.0,4.0,64.0,104.0,40.0,6.0,3.0,3,True
+459856,207232,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Icebox,1,Karmine Corp,Team Liquid,13,9,marteen,10307,omen,1.67,311.0,26.0,12.0,5.0,73.0,193.0,38.0,2.0,3.0,3,True
+459856,207232,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Icebox,1,Karmine Corp,Team Liquid,13,9,SUYGETSU,2858,viper,1.14,188.0,16.0,11.0,4.0,68.0,118.0,38.0,0.0,5.0,3,True
+459856,207232,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Icebox,1,Karmine Corp,Team Liquid,13,9,Elite,16459,killjoy,1.11,182.0,13.0,12.0,5.0,77.0,140.0,28.0,2.0,0.0,3,True
+459856,207232,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Icebox,1,Karmine Corp,Team Liquid,13,9,saadhak,727,kayo,0.95,207.0,14.0,16.0,10.0,82.0,125.0,30.0,2.0,2.0,3,True
+459856,207232,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Icebox,1,Karmine Corp,Team Liquid,13,9,Avez,5654,tejo,0.87,149.0,12.0,13.0,5.0,59.0,91.0,19.0,2.0,4.0,3,True
+459856,207233,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Team Liquid,Karmine Corp,13,6,keiko,11494,omen,1.47,266.0,20.0,10.0,7.0,95.0,177.0,38.0,2.0,0.0,3,True
+459856,207233,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Team Liquid,Karmine Corp,13,6,nAts,457,cypher,1.12,149.0,13.0,7.0,2.0,74.0,102.0,22.0,2.0,2.0,3,True
+459856,207233,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Team Liquid,Karmine Corp,13,6,kamo,14681,waylay,1.05,248.0,16.0,16.0,3.0,74.0,150.0,40.0,6.0,2.0,3,True
+459856,207233,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Team Liquid,Karmine Corp,13,6,Serial,18162,deadlock,1.03,174.0,12.0,11.0,6.0,74.0,120.0,60.0,2.0,1.0,3,True
+459856,207233,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Team Liquid,Karmine Corp,13,6,paTiTek,309,tejo,1.03,197.0,13.0,13.0,10.0,84.0,139.0,22.0,2.0,0.0,3,True
+459856,207233,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Karmine Corp,Team Liquid,6,13,marteen,10307,yoru,1.15,227.0,15.0,14.0,5.0,79.0,159.0,47.0,2.0,4.0,3,True
+459856,207233,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Karmine Corp,Team Liquid,6,13,Avez,5654,fade,0.95,186.0,11.0,14.0,6.0,68.0,130.0,41.0,1.0,2.0,3,True
+459856,207233,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Karmine Corp,Team Liquid,6,13,SUYGETSU,2858,omen,0.76,144.0,10.0,14.0,1.0,58.0,101.0,30.0,0.0,1.0,3,True
+459856,207233,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Karmine Corp,Team Liquid,6,13,saadhak,727,harbor,0.71,187.0,12.0,17.0,8.0,79.0,111.0,17.0,2.0,5.0,3,True
+459856,207233,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Karmine Corp,Team Liquid,6,13,Elite,16459,vyse,0.59,142.0,9.0,15.0,5.0,68.0,106.0,33.0,0.0,2.0,3,True
+459856,214836,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Split,3,Team Liquid,Karmine Corp,13,6,nAts,457,viper,,,21.0,14.0,4.0,,,,,,3,True
+459856,214836,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Split,3,Team Liquid,Karmine Corp,13,6,Serial,18162,astra,,,21.0,13.0,9.0,,,,,,3,True
+459856,214836,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Split,3,Team Liquid,Karmine Corp,13,6,keiko,11494,raze,,,18.0,16.0,4.0,,,,,,3,True
+459856,214836,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Split,3,Team Liquid,Karmine Corp,13,6,kamo,14681,yoru,,,14.0,12.0,1.0,,,,,,3,True
+459856,214836,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Split,3,Team Liquid,Karmine Corp,13,6,paTiTek,309,fade,,,7.0,14.0,6.0,,,,,,3,True
+459856,214836,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Split,3,Karmine Corp,Team Liquid,6,13,Elite,16459,cypher,,,22.0,17.0,2.0,,,,,,3,True
+459856,214836,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Split,3,Karmine Corp,Team Liquid,6,13,marteen,10307,yoru,,,14.0,15.0,5.0,,,,,,3,True
+459856,214836,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Split,3,Karmine Corp,Team Liquid,6,13,Avez,5654,tejo,,,13.0,16.0,2.0,,,,,,3,True
+459856,214836,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Split,3,Karmine Corp,Team Liquid,6,13,SUYGETSU,2858,omen,,,12.0,17.0,7.0,,,,,,3,True
+459856,214836,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Split,3,Karmine Corp,Team Liquid,6,13,saadhak,727,breach,,,8.0,16.0,8.0,,,,,,3,True
+459857,207235,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Haven,1,FNATIC,Team Heretics,5,13,kaajak,9554,yoru,1.18,262.0,16.0,13.0,6.0,72.0,170.0,34.0,3.0,2.0,3,True
+459857,207235,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Haven,1,FNATIC,Team Heretics,5,13,crashies,4,sova,1.07,185.0,12.0,12.0,6.0,83.0,134.0,55.0,0.0,2.0,3,True
+459857,207235,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Haven,1,FNATIC,Team Heretics,5,13,Chronicle,458,cypher,1.03,201.0,12.0,12.0,2.0,72.0,140.0,21.0,0.0,1.0,3,True
+459857,207235,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Haven,1,FNATIC,Team Heretics,5,13,Boaster,438,omen,0.55,118.0,7.0,13.0,5.0,67.0,74.0,12.0,2.0,3.0,3,True
+459857,207235,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Haven,1,FNATIC,Team Heretics,5,13,Alfajer,9810,iso,0.25,97.0,6.0,15.0,2.0,67.0,67.0,30.0,1.0,4.0,3,True
+459857,207235,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Haven,1,Team Heretics,FNATIC,13,5,MiniBoo,18350,yoru,1.49,283.0,19.0,10.0,2.0,72.0,194.0,42.0,3.0,1.0,3,True
+459857,207235,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Haven,1,Team Heretics,FNATIC,13,5,benjyfishy,29873,cypher,1.48,278.0,19.0,11.0,6.0,83.0,173.0,42.0,4.0,0.0,3,True
+459857,207235,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Haven,1,Team Heretics,FNATIC,13,5,Boo,1144,omen,1.07,127.0,8.0,8.0,6.0,78.0,82.0,17.0,1.0,0.0,3,True
+459857,207235,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Haven,1,Team Heretics,FNATIC,13,5,Wo0t,21328,iso,0.94,176.0,12.0,13.0,4.0,78.0,108.0,46.0,3.0,3.0,3,True
+459857,207235,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Haven,1,Team Heretics,FNATIC,13,5,RieNs,10971,sova,0.81,141.0,7.0,11.0,6.0,83.0,103.0,32.0,1.0,2.0,3,True
+459857,215378,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,FNATIC,Team Heretics,10,13,kaajak,9554,raze,1.37,274.0,20.0,16.0,5.0,78.0,188.0,30.0,4.0,1.0,3,True
+459857,215378,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,FNATIC,Team Heretics,10,13,crashies,4,fade,1.19,221.0,19.0,16.0,6.0,52.0,135.0,30.0,2.0,2.0,3,True
+459857,215378,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,FNATIC,Team Heretics,10,13,Alfajer,9810,killjoy,0.9,207.0,17.0,19.0,3.0,61.0,144.0,29.0,2.0,3.0,3,True
+459857,215378,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,FNATIC,Team Heretics,10,13,Chronicle,458,viper,0.82,169.0,12.0,16.0,6.0,61.0,114.0,13.0,0.0,4.0,3,True
+459857,215378,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,FNATIC,Team Heretics,10,13,Boaster,438,omen,0.44,107.0,8.0,18.0,6.0,48.0,67.0,23.0,3.0,2.0,3,True
+459857,215378,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Team Heretics,FNATIC,13,10,RieNs,10971,breach,1.36,254.0,23.0,15.0,12.0,87.0,154.0,36.0,0.0,1.0,3,True
+459857,215378,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Team Heretics,FNATIC,13,10,Boo,1144,omen,1.28,242.0,19.0,14.0,9.0,78.0,143.0,49.0,5.0,2.0,3,True
+459857,215378,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Team Heretics,FNATIC,13,10,MiniBoo,18350,neon,0.99,238.0,20.0,17.0,1.0,78.0,166.0,38.0,6.0,3.0,3,True
+459857,215378,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Team Heretics,FNATIC,13,10,Wo0t,21328,tejo,0.86,165.0,15.0,15.0,2.0,70.0,108.0,29.0,0.0,4.0,3,True
+459857,215378,2380,VCT 2025: EMEA Stage 1,Group Stage: Week 5,2025-05-02,Lotus,2,Team Heretics,FNATIC,13,10,benjyfishy,29873,vyse,0.56,110.0,8.0,16.0,6.0,57.0,79.0,23.0,1.0,1.0,3,True
+482503,215379,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,1,BBL Esports,Natus Vincere,13,9,sociablEE,5568,tejo,1.39,240.0,20.0,12.0,5.0,64.0,152.0,21.0,4.0,2.0,3,True
+482503,215379,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,1,BBL Esports,Natus Vincere,13,9,MAGNUM,2173,cypher,1.16,227.0,17.0,14.0,6.0,77.0,137.0,24.0,2.0,0.0,3,True
+482503,215379,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,1,BBL Esports,Natus Vincere,13,9,Jamppi,9780,breach,1.05,201.0,17.0,14.0,4.0,77.0,112.0,41.0,2.0,1.0,3,True
+482503,215379,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,1,BBL Esports,Natus Vincere,13,9,LewN,20144,jett,1.03,253.0,19.0,16.0,3.0,82.0,156.0,22.0,5.0,6.0,3,True
+482503,215379,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,1,BBL Esports,Natus Vincere,13,9,PROFEK,5554,omen,0.72,116.0,9.0,13.0,7.0,73.0,75.0,11.0,0.0,0.0,3,True
+482503,215379,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,1,Natus Vincere,BBL Esports,9,13,Shao,384,tejo,1.47,229.0,17.0,12.0,5.0,82.0,174.0,33.0,0.0,0.0,3,True
+482503,215379,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,1,Natus Vincere,BBL Esports,9,13,koalanoob,3722,raze,1.24,262.0,19.0,17.0,2.0,68.0,157.0,19.0,5.0,2.0,3,True
+482503,215379,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,1,Natus Vincere,BBL Esports,9,13,Ruxic,18677,omen,1.02,211.0,17.0,17.0,9.0,77.0,136.0,30.0,1.0,1.0,3,True
+482503,215379,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,1,Natus Vincere,BBL Esports,9,13,hiro,29867,cypher,0.39,89.0,7.0,17.0,3.0,45.0,70.0,30.0,2.0,4.0,3,True
+482503,215379,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,1,Natus Vincere,BBL Esports,9,13,ANGE1,109,deadlock,0.28,115.0,9.0,19.0,3.0,59.0,77.0,35.0,1.0,6.0,3,True
+482503,215380,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Fracture,2,BBL Esports,Natus Vincere,13,10,sociablEE,5568,tejo,1.27,224.0,18.0,14.0,8.0,70.0,163.0,24.0,3.0,2.0,3,True
+482503,215380,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Fracture,2,BBL Esports,Natus Vincere,13,10,PROFEK,5554,brimstone,1.22,210.0,17.0,13.0,11.0,74.0,135.0,25.0,1.0,3.0,3,True
+482503,215380,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Fracture,2,BBL Esports,Natus Vincere,13,10,MAGNUM,2173,cypher,1.15,248.0,19.0,14.0,4.0,74.0,158.0,19.0,3.0,2.0,3,True
+482503,215380,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Fracture,2,BBL Esports,Natus Vincere,13,10,LewN,20144,jett,0.85,199.0,17.0,16.0,1.0,70.0,138.0,24.0,3.0,2.0,3,True
+482503,215380,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Fracture,2,BBL Esports,Natus Vincere,13,10,Jamppi,9780,breach,0.8,143.0,10.0,16.0,10.0,70.0,112.0,29.0,1.0,3.0,3,True
+482503,215380,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Fracture,2,Natus Vincere,BBL Esports,10,13,hiro,29867,cypher,1.45,293.0,25.0,15.0,3.0,78.0,186.0,45.0,4.0,1.0,3,True
+482503,215380,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Fracture,2,Natus Vincere,BBL Esports,10,13,Ruxic,18677,brimstone,1.18,211.0,18.0,14.0,4.0,78.0,141.0,33.0,2.0,2.0,3,True
+482503,215380,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Fracture,2,Natus Vincere,BBL Esports,10,13,koalanoob,3722,raze,1.02,213.0,16.0,16.0,4.0,78.0,133.0,11.0,5.0,1.0,3,True
+482503,215380,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Fracture,2,Natus Vincere,BBL Esports,10,13,Shao,384,breach,0.63,102.0,5.0,15.0,13.0,74.0,73.0,14.0,0.0,1.0,3,True
+482503,215380,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Fracture,2,Natus Vincere,BBL Esports,10,13,ANGE1,109,fade,0.39,130.0,9.0,21.0,5.0,61.0,84.0,24.0,1.0,6.0,3,True
+482504,215383,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Split,1,FNATIC,FUT Esports,13,8,Alfajer,9810,raze,1.89,339.0,26.0,10.0,2.0,90.0,234.0,35.0,7.0,1.0,3,True
+482504,215383,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Split,1,FNATIC,FUT Esports,13,8,crashies,4,fade,1.18,204.0,16.0,11.0,10.0,81.0,135.0,48.0,1.0,2.0,3,True
+482504,215383,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Split,1,FNATIC,FUT Esports,13,8,kaajak,9554,yoru,1.08,165.0,13.0,11.0,0.0,71.0,112.0,33.0,3.0,3.0,3,True
+482504,215383,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Split,1,FNATIC,FUT Esports,13,8,Chronicle,458,viper,1.02,211.0,14.0,13.0,8.0,81.0,120.0,16.0,1.0,0.0,3,True
+482504,215383,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Split,1,FNATIC,FUT Esports,13,8,Boaster,438,astra,0.81,130.0,8.0,12.0,11.0,81.0,91.0,18.0,0.0,3.0,3,True
+482504,215383,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Split,1,FUT Esports,FNATIC,8,13,xeus,12793,yoru,1.21,246.0,19.0,14.0,1.0,57.0,158.0,50.0,1.0,4.0,3,True
+482504,215383,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Split,1,FUT Esports,FNATIC,8,13,yetujey,8369,viper,0.95,187.0,13.0,15.0,5.0,57.0,120.0,19.0,2.0,1.0,3,True
+482504,215383,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Split,1,FUT Esports,FNATIC,8,13,AtaKaptan,6510,omen,0.78,142.0,11.0,15.0,5.0,67.0,79.0,22.0,2.0,1.0,3,True
+482504,215383,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Split,1,FUT Esports,FNATIC,8,13,qRaxs,1139,fade,0.7,153.0,11.0,16.0,5.0,62.0,101.0,30.0,4.0,2.0,3,True
+482504,215383,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Split,1,FUT Esports,FNATIC,8,13,MrFaliN,8044,tejo,0.33,72.0,3.0,17.0,7.0,52.0,54.0,10.0,0.0,4.0,3,True
+482504,216517,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,2,FNATIC,FUT Esports,13,6,Chronicle,458,viper,1.44,280.0,19.0,10.0,7.0,79.0,174.0,28.0,1.0,4.0,3,True
+482504,216517,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,2,FNATIC,FUT Esports,13,6,Alfajer,9810,killjoy,1.23,244.0,18.0,13.0,3.0,84.0,150.0,42.0,1.0,2.0,3,True
+482504,216517,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,2,FNATIC,FUT Esports,13,6,crashies,4,fade,1.04,160.0,11.0,9.0,8.0,79.0,111.0,41.0,0.0,1.0,3,True
+482504,216517,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,2,FNATIC,FUT Esports,13,6,kaajak,9554,raze,0.98,249.0,17.0,15.0,2.0,58.0,155.0,30.0,5.0,5.0,3,True
+482504,216517,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,2,FNATIC,FUT Esports,13,6,Boaster,438,omen,0.98,157.0,9.0,11.0,10.0,79.0,101.0,20.0,0.0,0.0,3,True
+482504,216517,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,2,FUT Esports,FNATIC,6,13,MrFaliN,8044,breach,1.27,215.0,13.0,13.0,7.0,68.0,139.0,43.0,1.0,0.0,3,True
+482504,216517,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,2,FUT Esports,FNATIC,6,13,qRaxs,1139,fade,0.86,189.0,14.0,16.0,0.0,63.0,112.0,32.0,3.0,0.0,3,True
+482504,216517,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,2,FUT Esports,FNATIC,6,13,yetujey,8369,cypher,0.64,118.0,8.0,12.0,3.0,58.0,73.0,16.0,1.0,2.0,3,True
+482504,216517,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,2,FUT Esports,FNATIC,6,13,AtaKaptan,6510,omen,0.62,149.0,10.0,15.0,3.0,53.0,110.0,50.0,2.0,2.0,3,True
+482504,216517,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Round 1,2025-05-08,Lotus,2,FUT Esports,FNATIC,6,13,xeus,12793,waylay,0.61,183.0,13.0,18.0,2.0,63.0,105.0,60.0,5.0,3.0,3,True
+482505,215385,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Icebox,1,Natus Vincere,Karmine Corp,12,14,hiro,29867,killjoy,1.08,216.0,22.0,17.0,4.0,77.0,148.0,31.0,1.0,2.0,3,True
+482505,215385,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Icebox,1,Natus Vincere,Karmine Corp,12,14,ANGE1,109,tejo,1.02,184.0,18.0,17.0,2.0,73.0,122.0,33.0,2.0,2.0,3,True
+482505,215385,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Icebox,1,Natus Vincere,Karmine Corp,12,14,koalanoob,3722,omen,0.97,182.0,18.0,18.0,9.0,58.0,109.0,31.0,1.0,2.0,3,True
+482505,215385,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Icebox,1,Natus Vincere,Karmine Corp,12,14,Shao,384,gekko,0.92,170.0,14.0,16.0,5.0,73.0,127.0,25.0,3.0,4.0,3,True
+482505,215385,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Icebox,1,Natus Vincere,Karmine Corp,12,14,Ruxic,18677,viper,0.75,216.0,17.0,23.0,7.0,65.0,142.0,31.0,5.0,4.0,3,True
+482505,215385,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Icebox,1,Karmine Corp,Natus Vincere,14,12,marteen,10307,omen,1.27,272.0,26.0,20.0,6.0,77.0,163.0,43.0,2.0,3.0,3,True
+482505,215385,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Icebox,1,Karmine Corp,Natus Vincere,14,12,saadhak,727,kayo,1.13,217.0,18.0,15.0,10.0,81.0,144.0,25.0,5.0,2.0,3,True
+482505,215385,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Icebox,1,Karmine Corp,Natus Vincere,14,12,SUYGETSU,2858,viper,0.96,199.0,17.0,19.0,6.0,65.0,142.0,22.0,4.0,3.0,3,True
+482505,215385,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Icebox,1,Karmine Corp,Natus Vincere,14,12,Elite,16459,killjoy,0.91,172.0,15.0,18.0,3.0,69.0,120.0,29.0,3.0,1.0,3,True
+482505,215385,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Icebox,1,Karmine Corp,Natus Vincere,14,12,Avez,5654,tejo,0.81,138.0,15.0,17.0,1.0,65.0,101.0,63.0,0.0,3.0,3,True
+482505,215386,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,2,Natus Vincere,Karmine Corp,13,11,Ruxic,18677,omen,1.55,295.0,26.0,16.0,5.0,79.0,186.0,38.0,2.0,2.0,3,True
+482505,215386,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,2,Natus Vincere,Karmine Corp,13,11,Shao,384,astra,1.27,272.0,26.0,17.0,3.0,83.0,187.0,46.0,4.0,1.0,3,True
+482505,215386,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,2,Natus Vincere,Karmine Corp,13,11,hiro,29867,vyse,0.92,168.0,16.0,16.0,4.0,79.0,119.0,30.0,1.0,4.0,3,True
+482505,215386,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,2,Natus Vincere,Karmine Corp,13,11,ANGE1,109,fade,0.66,124.0,9.0,17.0,10.0,71.0,96.0,24.0,1.0,0.0,3,True
+482505,215386,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,2,Natus Vincere,Karmine Corp,13,11,koalanoob,3722,raze,0.64,164.0,14.0,19.0,2.0,54.0,114.0,32.0,4.0,5.0,3,True
+482505,215386,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,2,Karmine Corp,Natus Vincere,11,13,Avez,5654,raze,1.12,240.0,19.0,17.0,3.0,71.0,163.0,19.0,5.0,2.0,3,True
+482505,215386,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,2,Karmine Corp,Natus Vincere,11,13,Elite,16459,viper,1.04,195.0,20.0,18.0,4.0,75.0,131.0,25.0,1.0,1.0,3,True
+482505,215386,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,2,Karmine Corp,Natus Vincere,11,13,marteen,10307,yoru,0.92,212.0,17.0,19.0,9.0,71.0,143.0,40.0,4.0,6.0,3,True
+482505,215386,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,2,Karmine Corp,Natus Vincere,11,13,SUYGETSU,2858,omen,0.84,187.0,17.0,18.0,6.0,75.0,124.0,43.0,1.0,1.0,3,True
+482505,215386,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,2,Karmine Corp,Natus Vincere,11,13,saadhak,727,fade,0.75,165.0,12.0,19.0,12.0,83.0,119.0,12.0,1.0,2.0,3,True
+482505,216537,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Ascent,3,Natus Vincere,Karmine Corp,13,11,hiro,29867,cypher,1.31,262.0,23.0,14.0,4.0,83.0,171.0,45.0,3.0,0.0,3,True
+482505,216537,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Ascent,3,Natus Vincere,Karmine Corp,13,11,Ruxic,18677,omen,1.18,189.0,17.0,15.0,11.0,75.0,134.0,27.0,3.0,3.0,3,True
+482505,216537,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Ascent,3,Natus Vincere,Karmine Corp,13,11,koalanoob,3722,yoru,1.13,211.0,20.0,14.0,2.0,71.0,129.0,22.0,4.0,4.0,3,True
+482505,216537,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Ascent,3,Natus Vincere,Karmine Corp,13,11,Shao,384,tejo,0.82,185.0,13.0,16.0,7.0,67.0,130.0,22.0,3.0,2.0,3,True
+482505,216537,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Ascent,3,Natus Vincere,Karmine Corp,13,11,ANGE1,109,deadlock,0.61,119.0,9.0,17.0,7.0,58.0,81.0,19.0,2.0,0.0,3,True
+482505,216537,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Ascent,3,Karmine Corp,Natus Vincere,11,13,SUYGETSU,2858,omen,1.2,176.0,15.0,14.0,19.0,79.0,108.0,43.0,1.0,4.0,3,True
+482505,216537,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Ascent,3,Karmine Corp,Natus Vincere,11,13,Elite,16459,cypher,1.14,208.0,17.0,15.0,8.0,58.0,141.0,29.0,1.0,1.0,3,True
+482505,216537,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Ascent,3,Karmine Corp,Natus Vincere,11,13,Avez,5654,kayo,1.07,191.0,15.0,16.0,15.0,67.0,135.0,36.0,0.0,5.0,3,True
+482505,216537,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Ascent,3,Karmine Corp,Natus Vincere,11,13,marteen,10307,jett,1.02,206.0,18.0,17.0,2.0,88.0,140.0,38.0,4.0,2.0,3,True
+482505,216537,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Ascent,3,Karmine Corp,Natus Vincere,11,13,saadhak,727,sova,0.6,151.0,11.0,20.0,7.0,71.0,99.0,19.0,3.0,3.0,3,True
+482506,215389,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,1,FUT Esports,Team Vitality,13,6,yetujey,8369,viper,1.59,281.0,19.0,11.0,6.0,79.0,200.0,25.0,2.0,0.0,3,True
+482506,215389,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,1,FUT Esports,Team Vitality,13,6,xeus,12793,yoru,1.39,290.0,20.0,13.0,4.0,79.0,190.0,50.0,6.0,2.0,3,True
+482506,215389,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,1,FUT Esports,Team Vitality,13,6,AtaKaptan,6510,omen,1.39,217.0,17.0,10.0,7.0,89.0,142.0,24.0,1.0,0.0,3,True
+482506,215389,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,1,FUT Esports,Team Vitality,13,6,qRaxs,1139,fade,0.77,165.0,12.0,15.0,6.0,68.0,100.0,45.0,3.0,0.0,3,True
+482506,215389,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,1,FUT Esports,Team Vitality,13,6,MrFaliN,8044,tejo,0.67,92.0,6.0,10.0,3.0,58.0,76.0,20.0,1.0,4.0,3,True
+482506,215389,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,1,Team Vitality,FUT Esports,6,13,CyvOph,13258,omen,1.04,195.0,12.0,14.0,7.0,79.0,122.0,22.0,1.0,1.0,3,True
+482506,215389,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,1,Team Vitality,FUT Esports,6,13,Derke,5022,raze,0.96,233.0,15.0,15.0,5.0,58.0,139.0,22.0,3.0,6.0,3,True
+482506,215389,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,1,Team Vitality,FUT Esports,6,13,Sayf,312,yoru,0.79,154.0,12.0,14.0,3.0,58.0,90.0,18.0,1.0,2.0,3,True
+482506,215389,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,1,Team Vitality,FUT Esports,6,13,Less,8447,viper,0.75,152.0,11.0,14.0,0.0,68.0,92.0,23.0,0.0,0.0,3,True
+482506,215389,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Split,1,Team Vitality,FUT Esports,6,13,Kicks,11134,fade,0.52,151.0,9.0,17.0,9.0,68.0,93.0,23.0,1.0,4.0,3,True
+482506,216584,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Fracture,2,FUT Esports,Team Vitality,13,7,AtaKaptan,6510,brimstone,1.5,243.0,17.0,9.0,8.0,80.0,164.0,41.0,2.0,2.0,3,True
+482506,216584,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Fracture,2,FUT Esports,Team Vitality,13,7,yetujey,8369,cypher,1.35,244.0,18.0,11.0,6.0,85.0,170.0,27.0,2.0,1.0,3,True
+482506,216584,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Fracture,2,FUT Esports,Team Vitality,13,7,qRaxs,1139,kayo,1.25,205.0,15.0,10.0,11.0,80.0,134.0,27.0,2.0,0.0,3,True
+482506,216584,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Fracture,2,FUT Esports,Team Vitality,13,7,MrFaliN,8044,breach,0.95,142.0,8.0,11.0,15.0,85.0,90.0,16.0,0.0,1.0,3,True
+482506,216584,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Fracture,2,FUT Esports,Team Vitality,13,7,xeus,12793,neon,0.86,187.0,15.0,13.0,2.0,70.0,113.0,24.0,3.0,7.0,3,True
+482506,216584,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Fracture,2,Team Vitality,FUT Esports,7,13,CyvOph,13258,brimstone,1.34,231.0,16.0,13.0,9.0,60.0,157.0,31.0,4.0,0.0,3,True
+482506,216584,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Fracture,2,Team Vitality,FUT Esports,7,13,Less,8447,cypher,0.99,185.0,15.0,14.0,0.0,70.0,140.0,42.0,0.0,1.0,3,True
+482506,216584,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Fracture,2,Team Vitality,FUT Esports,7,13,Derke,5022,neon,0.89,214.0,14.0,17.0,6.0,75.0,141.0,19.0,4.0,5.0,3,True
+482506,216584,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Fracture,2,Team Vitality,FUT Esports,7,13,Kicks,11134,breach,0.75,111.0,6.0,13.0,13.0,60.0,73.0,11.0,2.0,0.0,3,True
+482506,216584,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 1,2025-05-09,Fracture,2,Team Vitality,FUT Esports,7,13,Sayf,312,tejo,0.28,69.0,3.0,16.0,6.0,50.0,50.0,20.0,1.0,3.0,3,True
+482507,215392,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,1,Team Heretics,BBL Esports,14,12,benjyfishy,29873,killjoy,1.59,279.0,26.0,16.0,1.0,85.0,195.0,38.0,3.0,1.0,3,True
+482507,215392,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,1,Team Heretics,BBL Esports,14,12,RieNs,10971,gekko,0.95,195.0,17.0,19.0,10.0,65.0,145.0,34.0,2.0,2.0,3,True
+482507,215392,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,1,Team Heretics,BBL Esports,14,12,Boo,1144,viper,0.93,190.0,17.0,20.0,11.0,73.0,119.0,27.0,4.0,2.0,3,True
+482507,215392,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,1,Team Heretics,BBL Esports,14,12,MiniBoo,18350,neon,0.78,183.0,18.0,23.0,4.0,73.0,114.0,38.0,5.0,3.0,3,True
+482507,215392,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,1,Team Heretics,BBL Esports,14,12,Wo0t,21328,tejo,0.77,166.0,15.0,20.0,8.0,69.0,118.0,26.0,1.0,3.0,3,True
+482507,215392,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,1,BBL Esports,Team Heretics,12,14,LewN,20144,jett,1.26,289.0,26.0,18.0,4.0,77.0,183.0,38.0,4.0,4.0,3,True
+482507,215392,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,1,BBL Esports,Team Heretics,12,14,PROFEK,5554,viper,1.0,235.0,21.0,21.0,9.0,62.0,150.0,25.0,3.0,1.0,3,True
+482507,215392,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,1,BBL Esports,Team Heretics,12,14,sociablEE,5568,tejo,1.0,186.0,19.0,16.0,3.0,73.0,132.0,29.0,0.0,0.0,3,True
+482507,215392,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,1,BBL Esports,Team Heretics,12,14,Jamppi,9780,kayo,1.0,187.0,18.0,17.0,9.0,65.0,119.0,18.0,1.0,5.0,3,True
+482507,215392,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,1,BBL Esports,Team Heretics,12,14,MAGNUM,2173,killjoy,0.68,168.0,14.0,21.0,5.0,69.0,113.0,27.0,3.0,5.0,3,True
+482507,216644,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Ascent,2,Team Heretics,BBL Esports,13,10,RieNs,10971,sova,1.29,231.0,17.0,15.0,10.0,78.0,163.0,31.0,2.0,1.0,3,True
+482507,216644,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Ascent,2,Team Heretics,BBL Esports,13,10,benjyfishy,29873,cypher,1.12,235.0,19.0,16.0,4.0,78.0,155.0,38.0,2.0,0.0,3,True
+482507,216644,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Ascent,2,Team Heretics,BBL Esports,13,10,Boo,1144,omen,0.98,137.0,11.0,13.0,14.0,74.0,91.0,24.0,0.0,0.0,3,True
+482507,216644,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Ascent,2,Team Heretics,BBL Esports,13,10,Wo0t,21328,jett,0.92,207.0,19.0,19.0,1.0,87.0,123.0,31.0,6.0,3.0,3,True
+482507,216644,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Ascent,2,Team Heretics,BBL Esports,13,10,MiniBoo,18350,yoru,0.86,197.0,17.0,16.0,6.0,61.0,124.0,42.0,4.0,5.0,3,True
+482507,216644,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Ascent,2,BBL Esports,Team Heretics,10,13,PROFEK,5554,omen,1.36,273.0,22.0,16.0,7.0,83.0,166.0,34.0,3.0,1.0,3,True
+482507,216644,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Ascent,2,BBL Esports,Team Heretics,10,13,Jamppi,9780,kayo,1.22,198.0,16.0,15.0,8.0,83.0,137.0,20.0,1.0,1.0,3,True
+482507,216644,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Ascent,2,BBL Esports,Team Heretics,10,13,sociablEE,5568,tejo,0.99,196.0,16.0,17.0,6.0,61.0,144.0,24.0,2.0,2.0,3,True
+482507,216644,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Ascent,2,BBL Esports,Team Heretics,10,13,LewN,20144,jett,0.76,174.0,16.0,17.0,4.0,61.0,114.0,28.0,3.0,6.0,3,True
+482507,216644,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Ascent,2,BBL Esports,Team Heretics,10,13,MAGNUM,2173,fade,0.67,137.0,9.0,18.0,12.0,70.0,103.0,19.0,0.0,4.0,3,True
+482508,215394,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Split,1,Team Liquid,FNATIC,10,13,nAts,457,viper,1.24,253.0,20.0,16.0,5.0,78.0,161.0,24.0,4.0,0.0,3,True
+482508,215394,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Split,1,Team Liquid,FNATIC,10,13,kamo,14681,yoru,0.97,208.0,16.0,17.0,5.0,70.0,135.0,33.0,3.0,5.0,3,True
+482508,215394,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Split,1,Team Liquid,FNATIC,10,13,keiko,11494,raze,0.97,178.0,16.0,16.0,4.0,70.0,126.0,40.0,2.0,4.0,3,True
+482508,215394,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Split,1,Team Liquid,FNATIC,10,13,Serial,18162,astra,0.83,110.0,8.0,14.0,12.0,83.0,77.0,39.0,1.0,1.0,3,True
+482508,215394,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Split,1,Team Liquid,FNATIC,10,13,paTiTek,309,fade,0.76,117.0,10.0,16.0,2.0,65.0,76.0,28.0,1.0,2.0,3,True
+482508,215394,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Split,1,FNATIC,Team Liquid,13,10,Chronicle,458,viper,1.2,242.0,20.0,14.0,5.0,74.0,167.0,30.0,3.0,2.0,3,True
+482508,215394,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Split,1,FNATIC,Team Liquid,13,10,crashies,4,fade,1.1,170.0,11.0,12.0,11.0,91.0,121.0,39.0,1.0,2.0,3,True
+482508,215394,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Split,1,FNATIC,Team Liquid,13,10,Alfajer,9810,raze,1.09,226.0,20.0,15.0,1.0,70.0,141.0,28.0,5.0,5.0,3,True
+482508,215394,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Split,1,FNATIC,Team Liquid,13,10,kaajak,9554,yoru,0.93,170.0,16.0,15.0,4.0,78.0,106.0,41.0,3.0,2.0,3,True
+482508,215394,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Split,1,FNATIC,Team Liquid,13,10,Boaster,438,astra,0.77,147.0,12.0,14.0,6.0,61.0,82.0,35.0,0.0,0.0,3,True
+482508,215395,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,2,Team Liquid,FNATIC,13,11,nAts,457,viper,1.43,264.0,21.0,14.0,15.0,79.0,164.0,22.0,7.0,1.0,3,True
+482508,215395,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,2,Team Liquid,FNATIC,13,11,keiko,11494,jett,1.3,253.0,22.0,14.0,2.0,71.0,152.0,36.0,3.0,2.0,3,True
+482508,215395,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,2,Team Liquid,FNATIC,13,11,kamo,14681,gekko,0.92,227.0,21.0,19.0,5.0,71.0,155.0,35.0,4.0,4.0,3,True
+482508,215395,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,2,Team Liquid,FNATIC,13,11,Serial,18162,killjoy,0.81,201.0,18.0,20.0,4.0,75.0,127.0,33.0,1.0,2.0,3,True
+482508,215395,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,2,Team Liquid,FNATIC,13,11,paTiTek,309,kayo,0.75,155.0,13.0,19.0,5.0,71.0,114.0,31.0,0.0,0.0,3,True
+482508,215395,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,2,FNATIC,Team Liquid,11,13,kaajak,9554,sage,1.5,298.0,27.0,17.0,6.0,83.0,196.0,39.0,2.0,2.0,3,True
+482508,215395,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,2,FNATIC,Team Liquid,11,13,crashies,4,tejo,1.18,199.0,18.0,16.0,7.0,83.0,138.0,27.0,1.0,1.0,3,True
+482508,215395,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,2,FNATIC,Team Liquid,11,13,Boaster,438,viper,0.88,174.0,12.0,16.0,10.0,83.0,122.0,37.0,1.0,1.0,3,True
+482508,215395,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,2,FNATIC,Team Liquid,11,13,Alfajer,9810,killjoy,0.6,191.0,16.0,24.0,3.0,63.0,127.0,27.0,2.0,6.0,3,True
+482508,215395,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Icebox,2,FNATIC,Team Liquid,11,13,Chronicle,458,gekko,0.55,162.0,13.0,22.0,5.0,67.0,101.0,19.0,3.0,5.0,3,True
+482508,215396,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Fracture,3,Team Liquid,FNATIC,12,14,paTiTek,309,breach,1.07,210.0,20.0,17.0,6.0,77.0,138.0,19.0,0.0,0.0,3,True
+482508,215396,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Fracture,3,Team Liquid,FNATIC,12,14,keiko,11494,brimstone,0.97,172.0,16.0,17.0,6.0,81.0,118.0,50.0,2.0,1.0,3,True
+482508,215396,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Fracture,3,Team Liquid,FNATIC,12,14,kamo,14681,neon,0.93,251.0,21.0,21.0,5.0,58.0,157.0,19.0,4.0,5.0,3,True
+482508,215396,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Fracture,3,Team Liquid,FNATIC,12,14,nAts,457,vyse,0.91,188.0,17.0,18.0,2.0,62.0,116.0,23.0,6.0,2.0,3,True
+482508,215396,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Fracture,3,Team Liquid,FNATIC,12,14,Serial,18162,tejo,0.68,142.0,12.0,20.0,5.0,65.0,91.0,38.0,1.0,5.0,3,True
+482508,215396,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Fracture,3,FNATIC,Team Liquid,14,12,Chronicle,458,breach,1.4,267.0,24.0,17.0,12.0,92.0,170.0,30.0,2.0,2.0,3,True
+482508,215396,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Fracture,3,FNATIC,Team Liquid,14,12,crashies,4,tejo,1.17,206.0,19.0,16.0,7.0,85.0,146.0,25.0,0.0,2.0,3,True
+482508,215396,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Fracture,3,FNATIC,Team Liquid,14,12,Alfajer,9810,cypher,1.07,214.0,22.0,18.0,6.0,69.0,144.0,41.0,1.0,2.0,3,True
+482508,215396,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Fracture,3,FNATIC,Team Liquid,14,12,kaajak,9554,neon,1.05,208.0,18.0,17.0,5.0,73.0,138.0,34.0,7.0,3.0,3,True
+482508,215396,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Semifinals,2025-05-10,Fracture,3,FNATIC,Team Liquid,14,12,Boaster,438,brimstone,0.74,122.0,10.0,18.0,10.0,73.0,85.0,18.0,3.0,4.0,3,True
+482510,215402,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,1,BBL Esports,FUT Esports,13,10,PROFEK,5554,omen,1.61,275.0,23.0,14.0,10.0,87.0,166.0,34.0,3.0,1.0,3,True
+482510,215402,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,1,BBL Esports,FUT Esports,13,10,LewN,20144,jett,1.25,204.0,16.0,12.0,6.0,61.0,139.0,39.0,4.0,3.0,3,True
+482510,215402,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,1,BBL Esports,FUT Esports,13,10,MAGNUM,2173,fade,1.01,209.0,18.0,17.0,8.0,74.0,125.0,21.0,3.0,1.0,3,True
+482510,215402,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,1,BBL Esports,FUT Esports,13,10,sociablEE,5568,tejo,0.97,172.0,14.0,14.0,8.0,83.0,131.0,20.0,0.0,2.0,3,True
+482510,215402,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,1,BBL Esports,FUT Esports,13,10,Jamppi,9780,kayo,0.66,147.0,10.0,19.0,17.0,78.0,86.0,14.0,1.0,5.0,3,True
+482510,215402,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,1,FUT Esports,BBL Esports,10,13,MrFaliN,8044,sova,1.11,198.0,18.0,13.0,2.0,74.0,129.0,27.0,3.0,2.0,3,True
+482510,215402,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,1,FUT Esports,BBL Esports,10,13,yetujey,8369,killjoy,1.04,226.0,15.0,16.0,5.0,70.0,167.0,19.0,3.0,1.0,3,True
+482510,215402,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,1,FUT Esports,BBL Esports,10,13,xeus,12793,yoru,0.95,223.0,19.0,19.0,2.0,70.0,128.0,55.0,3.0,2.0,3,True
+482510,215402,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,1,FUT Esports,BBL Esports,10,13,qRaxs,1139,kayo,0.81,193.0,14.0,19.0,8.0,61.0,139.0,27.0,1.0,2.0,3,True
+482510,215402,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,1,FUT Esports,BBL Esports,10,13,AtaKaptan,6510,omen,0.8,132.0,10.0,14.0,11.0,65.0,91.0,21.0,2.0,4.0,3,True
+482510,216645,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,BBL Esports,FUT Esports,13,2,Jamppi,9780,breach,1.69,203.0,12.0,3.0,4.0,87.0,125.0,29.0,0.0,0.0,3,True
+482510,216645,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,BBL Esports,FUT Esports,13,2,sociablEE,5568,tejo,1.53,281.0,18.0,6.0,1.0,80.0,177.0,23.0,1.0,2.0,3,True
+482510,216645,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,BBL Esports,FUT Esports,13,2,PROFEK,5554,omen,1.49,285.0,14.0,8.0,9.0,73.0,196.0,29.0,3.0,1.0,3,True
+482510,216645,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,BBL Esports,FUT Esports,13,2,LewN,20144,raze,1.28,207.0,12.0,7.0,2.0,80.0,131.0,25.0,4.0,1.0,3,True
+482510,216645,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,BBL Esports,FUT Esports,13,2,MAGNUM,2173,cypher,1.03,163.0,8.0,7.0,4.0,93.0,110.0,30.0,3.0,0.0,3,True
+482510,216645,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,FUT Esports,BBL Esports,2,13,xeus,12793,yoru,0.79,145.0,7.0,13.0,4.0,53.0,104.0,32.0,3.0,2.0,3,True
+482510,216645,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,FUT Esports,BBL Esports,2,13,MrFaliN,8044,tejo,0.64,152.0,8.0,12.0,3.0,60.0,92.0,32.0,0.0,2.0,3,True
+482510,216645,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,FUT Esports,BBL Esports,2,13,AtaKaptan,6510,omen,0.62,157.0,8.0,13.0,0.0,47.0,110.0,25.0,0.0,1.0,3,True
+482510,216645,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,FUT Esports,BBL Esports,2,13,yetujey,8369,viper,0.5,118.0,5.0,13.0,3.0,60.0,83.0,16.0,1.0,3.0,3,True
+482510,216645,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,FUT Esports,BBL Esports,2,13,qRaxs,1139,fade,0.24,71.0,3.0,13.0,3.0,33.0,48.0,31.0,0.0,3.0,3,True
+482510,216646,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Haven,3,BBL Esports,FUT Esports,12,14,MAGNUM,2173,cypher,,,28.0,16.0,3.0,78.0,,31.0,,,3,True
+482510,216646,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Haven,3,BBL Esports,FUT Esports,12,14,Jamppi,9780,breach,,,20.0,19.0,17.0,91.0,,17.0,,,3,True
+482510,216646,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Haven,3,BBL Esports,FUT Esports,12,14,sociablEE,5568,sova,,,19.0,17.0,4.0,87.0,,18.0,,,3,True
+482510,216646,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Haven,3,BBL Esports,FUT Esports,12,14,PROFEK,5554,omen,,,16.0,21.0,19.0,74.0,,29.0,,,3,True
+482510,216646,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Haven,3,BBL Esports,FUT Esports,12,14,LewN,20144,jett,,,15.0,21.0,1.0,78.0,,36.0,,,3,True
+482510,216646,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Haven,3,FUT Esports,BBL Esports,14,12,yetujey,8369,cypher,,,30.0,16.0,6.0,78.0,,36.0,,,3,True
+482510,216646,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Haven,3,FUT Esports,BBL Esports,14,12,xeus,12793,chamber,,,24.0,21.0,4.0,78.0,,34.0,,,3,True
+482510,216646,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Haven,3,FUT Esports,BBL Esports,14,12,qRaxs,1139,neon,,,18.0,21.0,2.0,70.0,,41.0,,,3,True
+482510,216646,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Haven,3,FUT Esports,BBL Esports,14,12,MrFaliN,8044,sova,,,12.0,17.0,10.0,83.0,,23.0,,,3,True
+482510,216646,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Haven,3,FUT Esports,BBL Esports,14,12,AtaKaptan,6510,omen,,,10.0,23.0,16.0,52.0,,27.0,,,3,True
+482509,215397,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Icebox,1,Team Liquid,Natus Vincere,11,13,keiko,11494,jett,1.3,238.0,22.0,15.0,1.0,75.0,175.0,40.0,3.0,0.0,3,True
+482509,215397,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Icebox,1,Team Liquid,Natus Vincere,11,13,kamo,14681,gekko,1.05,233.0,18.0,19.0,5.0,75.0,143.0,38.0,5.0,2.0,3,True
+482509,215397,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Icebox,1,Team Liquid,Natus Vincere,11,13,nAts,457,viper,0.9,153.0,13.0,16.0,4.0,75.0,117.0,25.0,3.0,3.0,3,True
+482509,215397,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Icebox,1,Team Liquid,Natus Vincere,11,13,Serial,18162,killjoy,0.76,141.0,11.0,16.0,5.0,67.0,105.0,31.0,1.0,1.0,3,True
+482509,215397,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Icebox,1,Team Liquid,Natus Vincere,11,13,paTiTek,309,kayo,0.59,133.0,8.0,18.0,12.0,75.0,88.0,28.0,1.0,5.0,3,True
+482509,215397,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Icebox,1,Natus Vincere,Team Liquid,13,11,hiro,29867,killjoy,1.43,298.0,26.0,14.0,2.0,79.0,180.0,29.0,0.0,2.0,3,True
+482509,215397,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Icebox,1,Natus Vincere,Team Liquid,13,11,Ruxic,18677,viper,1.04,199.0,16.0,15.0,4.0,88.0,137.0,40.0,4.0,2.0,3,True
+482509,215397,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Icebox,1,Natus Vincere,Team Liquid,13,11,koalanoob,3722,omen,0.95,195.0,15.0,16.0,13.0,71.0,138.0,26.0,5.0,3.0,3,True
+482509,215397,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Icebox,1,Natus Vincere,Team Liquid,13,11,ANGE1,109,tejo,0.94,130.0,13.0,13.0,3.0,75.0,94.0,57.0,2.0,4.0,3,True
+482509,215397,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Icebox,1,Natus Vincere,Team Liquid,13,11,Shao,384,gekko,0.85,160.0,14.0,14.0,4.0,71.0,103.0,35.0,0.0,2.0,3,True
+482509,215398,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,Team Liquid,Natus Vincere,13,4,nAts,457,viper,1.56,311.0,21.0,10.0,3.0,94.0,198.0,35.0,4.0,1.0,3,True
+482509,215398,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,Team Liquid,Natus Vincere,13,4,keiko,11494,raze,1.46,288.0,18.0,12.0,5.0,94.0,204.0,29.0,3.0,1.0,3,True
+482509,215398,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,Team Liquid,Natus Vincere,13,4,Serial,18162,astra,1.45,212.0,13.0,8.0,12.0,82.0,146.0,30.0,0.0,0.0,3,True
+482509,215398,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,Team Liquid,Natus Vincere,13,4,paTiTek,309,fade,1.16,190.0,13.0,9.0,2.0,88.0,134.0,28.0,0.0,1.0,3,True
+482509,215398,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,Team Liquid,Natus Vincere,13,4,kamo,14681,yoru,0.47,136.0,7.0,13.0,3.0,53.0,97.0,25.0,3.0,4.0,3,True
+482509,215398,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,Natus Vincere,Team Liquid,4,13,Shao,384,astra,1.19,219.0,13.0,12.0,3.0,71.0,130.0,50.0,2.0,1.0,3,True
+482509,215398,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,Natus Vincere,Team Liquid,4,13,Ruxic,18677,omen,0.92,210.0,13.0,14.0,8.0,65.0,124.0,34.0,0.0,3.0,3,True
+482509,215398,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,Natus Vincere,Team Liquid,4,13,koalanoob,3722,raze,0.74,171.0,10.0,15.0,1.0,71.0,104.0,21.0,5.0,3.0,3,True
+482509,215398,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,Natus Vincere,Team Liquid,4,13,hiro,29867,vyse,0.63,172.0,8.0,15.0,7.0,71.0,130.0,27.0,0.0,1.0,3,True
+482509,215398,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Split,2,Natus Vincere,Team Liquid,4,13,ANGE1,109,fade,0.48,134.0,8.0,16.0,5.0,76.0,79.0,42.0,0.0,2.0,3,True
+482509,215399,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,3,Team Liquid,Natus Vincere,13,8,keiko,11494,omen,1.4,221.0,19.0,10.0,8.0,76.0,155.0,42.0,1.0,0.0,3,True
+482509,215399,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,3,Team Liquid,Natus Vincere,13,8,paTiTek,309,tejo,1.37,259.0,21.0,11.0,3.0,86.0,172.0,16.0,1.0,0.0,3,True
+482509,215399,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,3,Team Liquid,Natus Vincere,13,8,Serial,18162,deadlock,1.3,230.0,16.0,12.0,7.0,81.0,153.0,43.0,1.0,1.0,3,True
+482509,215399,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,3,Team Liquid,Natus Vincere,13,8,kamo,14681,jett,1.2,262.0,20.0,14.0,4.0,90.0,159.0,22.0,10.0,5.0,3,True
+482509,215399,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,3,Team Liquid,Natus Vincere,13,8,nAts,457,cypher,0.62,151.0,12.0,15.0,1.0,67.0,106.0,15.0,2.0,0.0,3,True
+482509,215399,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,3,Natus Vincere,Team Liquid,8,13,Shao,384,tejo,1.4,253.0,18.0,17.0,6.0,71.0,185.0,24.0,0.0,2.0,3,True
+482509,215399,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,3,Natus Vincere,Team Liquid,8,13,ANGE1,109,deadlock,0.82,143.0,12.0,15.0,0.0,57.0,96.0,50.0,2.0,1.0,3,True
+482509,215399,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,3,Natus Vincere,Team Liquid,8,13,hiro,29867,cypher,0.79,210.0,15.0,19.0,2.0,48.0,134.0,24.0,1.0,5.0,3,True
+482509,215399,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,3,Natus Vincere,Team Liquid,8,13,koalanoob,3722,yoru,0.67,167.0,10.0,18.0,3.0,67.0,122.0,20.0,1.0,3.0,3,True
+482509,215399,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 2,2025-05-11,Ascent,3,Natus Vincere,Team Liquid,8,13,Ruxic,18677,omen,0.35,111.0,7.0,19.0,6.0,52.0,89.0,36.0,2.0,4.0,3,True
+482515,215416,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Fracture,1,Team Heretics,FNATIC,6,13,RieNs,10971,breach,1.03,223.0,15.0,15.0,6.0,74.0,145.0,31.0,2.0,2.0,3,True
+482515,215416,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Fracture,1,Team Heretics,FNATIC,6,13,Boo,1144,brimstone,0.86,203.0,13.0,17.0,8.0,63.0,130.0,46.0,0.0,2.0,3,True
+482515,215416,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Fracture,1,Team Heretics,FNATIC,6,13,MiniBoo,18350,neon,0.74,182.0,13.0,16.0,4.0,68.0,100.0,28.0,4.0,3.0,3,True
+482515,215416,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Fracture,1,Team Heretics,FNATIC,6,13,benjyfishy,29873,cypher,0.58,171.0,11.0,17.0,3.0,58.0,117.0,42.0,0.0,1.0,3,True
+482515,215416,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Fracture,1,Team Heretics,FNATIC,6,13,Wo0t,21328,tejo,0.47,131.0,8.0,15.0,2.0,47.0,93.0,35.0,2.0,3.0,3,True
+482515,215416,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Fracture,1,FNATIC,Team Heretics,13,6,kaajak,9554,neon,1.55,274.0,20.0,12.0,2.0,89.0,170.0,39.0,5.0,1.0,3,True
+482515,215416,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Fracture,1,FNATIC,Team Heretics,13,6,Chronicle,458,breach,1.45,240.0,16.0,9.0,13.0,95.0,156.0,24.0,1.0,1.0,3,True
+482515,215416,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Fracture,1,FNATIC,Team Heretics,13,6,Alfajer,9810,cypher,1.38,279.0,20.0,15.0,2.0,74.0,174.0,43.0,4.0,1.0,3,True
+482515,215416,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Fracture,1,FNATIC,Team Heretics,13,6,Boaster,438,brimstone,1.06,219.0,15.0,13.0,8.0,79.0,146.0,23.0,0.0,5.0,3,True
+482515,215416,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Fracture,1,FNATIC,Team Heretics,13,6,crashies,4,tejo,0.81,130.0,9.0,11.0,8.0,89.0,100.0,23.0,1.0,0.0,3,True
+482515,217080,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Icebox,2,Team Heretics,FNATIC,8,13,RieNs,10971,sova,1.08,209.0,15.0,17.0,5.0,57.0,153.0,36.0,0.0,2.0,3,True
+482515,217080,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Icebox,2,Team Heretics,FNATIC,8,13,benjyfishy,29873,killjoy,0.96,212.0,17.0,17.0,0.0,71.0,128.0,47.0,4.0,3.0,3,True
+482515,217080,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Icebox,2,Team Heretics,FNATIC,8,13,Boo,1144,viper,0.85,164.0,11.0,16.0,9.0,76.0,115.0,46.0,1.0,1.0,3,True
+482515,217080,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Icebox,2,Team Heretics,FNATIC,8,13,Wo0t,21328,gekko,0.73,154.0,12.0,17.0,2.0,57.0,116.0,21.0,0.0,0.0,3,True
+482515,217080,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Icebox,2,Team Heretics,FNATIC,8,13,MiniBoo,18350,neon,0.56,176.0,11.0,20.0,6.0,67.0,118.0,34.0,4.0,6.0,3,True
+482515,217080,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Icebox,2,FNATIC,Team Heretics,13,8,crashies,4,tejo,1.19,271.0,22.0,13.0,5.0,90.0,174.0,23.0,5.0,1.0,3,True
+482515,217080,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Icebox,2,FNATIC,Team Heretics,13,8,kaajak,9554,sage,1.18,232.0,18.0,12.0,4.0,86.0,149.0,39.0,2.0,2.0,3,True
+482515,217080,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Icebox,2,FNATIC,Team Heretics,13,8,Boaster,438,viper,1.17,199.0,15.0,11.0,4.0,67.0,126.0,21.0,2.0,2.0,3,True
+482515,217080,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Icebox,2,FNATIC,Team Heretics,13,8,Alfajer,9810,killjoy,1.15,253.0,20.0,16.0,5.0,76.0,187.0,45.0,2.0,3.0,3,True
+482515,217080,2380,VCT 2025: EMEA Stage 1,Playoffs: Upper Final,2025-05-16,Icebox,2,FNATIC,Team Heretics,13,8,Chronicle,458,gekko,0.91,157.0,12.0,14.0,8.0,71.0,114.0,18.0,1.0,1.0,3,True
+482511,215403,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Haven,1,Team Liquid,BBL Esports,13,11,nAts,457,cypher,1.4,269.0,23.0,15.0,2.0,71.0,175.0,35.0,2.0,3.0,3,True
+482511,215403,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Haven,1,Team Liquid,BBL Esports,13,11,paTiTek,309,tejo,1.08,201.0,19.0,16.0,1.0,79.0,141.0,35.0,4.0,2.0,3,True
+482511,215403,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Haven,1,Team Liquid,BBL Esports,13,11,kamo,14681,yoru,1.05,230.0,20.0,15.0,3.0,75.0,138.0,40.0,3.0,2.0,3,True
+482511,215403,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Haven,1,Team Liquid,BBL Esports,13,11,Serial,18162,deadlock,0.8,151.0,14.0,18.0,5.0,63.0,111.0,54.0,2.0,3.0,3,True
+482511,215403,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Haven,1,Team Liquid,BBL Esports,13,11,keiko,11494,omen,0.58,137.0,10.0,19.0,9.0,67.0,96.0,30.0,2.0,1.0,3,True
+482511,215403,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Haven,1,BBL Esports,Team Liquid,11,13,LewN,20144,iso,1.25,244.0,22.0,16.0,3.0,71.0,169.0,42.0,2.0,3.0,3,True
+482511,215403,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Haven,1,BBL Esports,Team Liquid,11,13,PROFEK,5554,omen,1.1,217.0,18.0,19.0,16.0,79.0,142.0,36.0,2.0,2.0,3,True
+482511,215403,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Haven,1,BBL Esports,Team Liquid,11,13,MAGNUM,2173,cypher,1.04,159.0,14.0,15.0,4.0,67.0,115.0,33.0,0.0,1.0,3,True
+482511,215403,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Haven,1,BBL Esports,Team Liquid,11,13,Jamppi,9780,sova,0.88,182.0,12.0,19.0,10.0,67.0,142.0,29.0,1.0,3.0,3,True
+482511,215403,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Haven,1,BBL Esports,Team Liquid,11,13,sociablEE,5568,yoru,0.85,200.0,17.0,17.0,5.0,67.0,118.0,23.0,6.0,4.0,3,True
+482511,215404,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Split,2,Team Liquid,BBL Esports,7,13,nAts,457,viper,1.34,279.0,18.0,15.0,10.0,70.0,192.0,27.0,2.0,2.0,3,True
+482511,215404,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Split,2,Team Liquid,BBL Esports,7,13,Serial,18162,astra,0.89,126.0,8.0,12.0,7.0,75.0,89.0,30.0,0.0,1.0,3,True
+482511,215404,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Split,2,Team Liquid,BBL Esports,7,13,paTiTek,309,fade,0.86,207.0,14.0,16.0,3.0,60.0,140.0,18.0,2.0,2.0,3,True
+482511,215404,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Split,2,Team Liquid,BBL Esports,7,13,kamo,14681,yoru,0.8,176.0,12.0,16.0,3.0,70.0,122.0,39.0,4.0,3.0,3,True
+482511,215404,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Split,2,Team Liquid,BBL Esports,7,13,keiko,11494,raze,0.63,121.0,8.0,15.0,1.0,50.0,74.0,36.0,4.0,0.0,3,True
+482511,215404,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Split,2,BBL Esports,Team Liquid,13,7,sociablEE,5568,sage,1.39,266.0,19.0,11.0,6.0,65.0,174.0,23.0,0.0,3.0,3,True
+482511,215404,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Split,2,BBL Esports,Team Liquid,13,7,Jamppi,9780,breach,1.2,242.0,18.0,12.0,9.0,75.0,134.0,17.0,3.0,0.0,3,True
+482511,215404,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Split,2,BBL Esports,Team Liquid,13,7,MAGNUM,2173,deadlock,1.08,169.0,13.0,11.0,11.0,80.0,98.0,39.0,1.0,3.0,3,True
+482511,215404,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Split,2,BBL Esports,Team Liquid,13,7,PROFEK,5554,omen,1.03,169.0,10.0,12.0,10.0,60.0,115.0,24.0,0.0,2.0,3,True
+482511,215404,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Split,2,BBL Esports,Team Liquid,13,7,LewN,20144,raze,0.92,194.0,14.0,14.0,3.0,60.0,121.0,23.0,4.0,4.0,3,True
+482511,215405,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Fracture,3,Team Liquid,BBL Esports,13,8,keiko,11494,brimstone,1.47,251.0,19.0,12.0,8.0,90.0,159.0,47.0,2.0,2.0,3,True
+482511,215405,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Fracture,3,Team Liquid,BBL Esports,13,8,paTiTek,309,breach,1.25,172.0,14.0,10.0,13.0,86.0,99.0,23.0,0.0,0.0,3,True
+482511,215405,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Fracture,3,Team Liquid,BBL Esports,13,8,Serial,18162,tejo,1.13,199.0,15.0,12.0,3.0,71.0,140.0,40.0,0.0,1.0,3,True
+482511,215405,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Fracture,3,Team Liquid,BBL Esports,13,8,nAts,457,vyse,1.04,207.0,15.0,14.0,6.0,76.0,134.0,29.0,2.0,2.0,3,True
+482511,215405,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Fracture,3,Team Liquid,BBL Esports,13,8,kamo,14681,neon,0.81,195.0,13.0,14.0,4.0,67.0,129.0,29.0,4.0,7.0,3,True
+482511,215405,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Fracture,3,BBL Esports,Team Liquid,8,13,PROFEK,5554,brimstone,1.17,271.0,20.0,15.0,4.0,71.0,175.0,31.0,1.0,0.0,3,True
+482511,215405,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Fracture,3,BBL Esports,Team Liquid,8,13,MAGNUM,2173,cypher,1.08,210.0,14.0,14.0,8.0,71.0,128.0,22.0,3.0,1.0,3,True
+482511,215405,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Fracture,3,BBL Esports,Team Liquid,8,13,sociablEE,5568,tejo,0.65,140.0,11.0,16.0,1.0,62.0,98.0,30.0,2.0,2.0,3,True
+482511,215405,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Fracture,3,BBL Esports,Team Liquid,8,13,Jamppi,9780,breach,0.62,100.0,7.0,14.0,11.0,67.0,68.0,24.0,1.0,0.0,3,True
+482511,215405,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Round 3,2025-05-16,Fracture,3,BBL Esports,Team Liquid,8,13,LewN,20144,jett,0.55,149.0,10.0,17.0,4.0,57.0,94.0,42.0,5.0,5.0,3,True
+482512,215406,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Haven,1,Team Heretics,Team Liquid,13,3,benjyfishy,29873,cypher,2.17,329.0,22.0,5.0,1.0,81.0,225.0,53.0,0.0,1.0,5,True
+482512,215406,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Haven,1,Team Heretics,Team Liquid,13,3,MiniBoo,18350,yoru,1.54,299.0,17.0,10.0,5.0,81.0,204.0,37.0,3.0,2.0,5,True
+482512,215406,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Haven,1,Team Heretics,Team Liquid,13,3,Boo,1144,omen,1.34,257.0,16.0,9.0,3.0,94.0,149.0,52.0,4.0,1.0,5,True
+482512,215406,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Haven,1,Team Heretics,Team Liquid,13,3,Wo0t,21328,iso,0.8,152.0,7.0,10.0,7.0,75.0,104.0,28.0,2.0,3.0,5,True
+482512,215406,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Haven,1,Team Heretics,Team Liquid,13,3,RieNs,10971,sova,0.73,103.0,6.0,9.0,5.0,75.0,75.0,35.0,0.0,0.0,5,True
+482512,215406,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Haven,1,Team Liquid,Team Heretics,3,13,paTiTek,309,tejo,0.82,216.0,11.0,15.0,3.0,69.0,142.0,35.0,1.0,1.0,5,True
+482512,215406,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Haven,1,Team Liquid,Team Heretics,3,13,nAts,457,cypher,0.71,200.0,10.0,13.0,3.0,56.0,119.0,34.0,3.0,2.0,5,True
+482512,215406,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Haven,1,Team Liquid,Team Heretics,3,13,Serial,18162,deadlock,0.56,143.0,9.0,15.0,2.0,50.0,85.0,30.0,0.0,3.0,5,True
+482512,215406,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Haven,1,Team Liquid,Team Heretics,3,13,kamo,14681,yoru,0.46,145.0,7.0,12.0,0.0,56.0,91.0,32.0,3.0,3.0,5,True
+482512,215406,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Haven,1,Team Liquid,Team Heretics,3,13,keiko,11494,omen,0.46,119.0,6.0,13.0,2.0,44.0,87.0,38.0,0.0,0.0,5,True
+482512,215407,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Ascent,2,Team Heretics,Team Liquid,13,10,RieNs,10971,sova,1.45,331.0,29.0,14.0,5.0,78.0,204.0,43.0,3.0,0.0,5,True
+482512,215407,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Ascent,2,Team Heretics,Team Liquid,13,10,MiniBoo,18350,yoru,1.12,246.0,20.0,17.0,6.0,70.0,160.0,38.0,3.0,7.0,5,True
+482512,215407,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Ascent,2,Team Heretics,Team Liquid,13,10,Wo0t,21328,jett,1.08,226.0,19.0,12.0,2.0,78.0,145.0,38.0,3.0,1.0,5,True
+482512,215407,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Ascent,2,Team Heretics,Team Liquid,13,10,benjyfishy,29873,cypher,1.06,182.0,16.0,12.0,5.0,83.0,130.0,29.0,2.0,1.0,5,True
+482512,215407,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Ascent,2,Team Heretics,Team Liquid,13,10,Boo,1144,omen,0.73,128.0,8.0,14.0,13.0,83.0,87.0,29.0,2.0,1.0,5,True
+482512,215407,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Ascent,2,Team Liquid,Team Heretics,10,13,Serial,18162,deadlock,1.18,225.0,18.0,17.0,3.0,70.0,147.0,32.0,0.0,1.0,5,True
+482512,215407,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Ascent,2,Team Liquid,Team Heretics,10,13,paTiTek,309,tejo,0.92,144.0,13.0,15.0,4.0,65.0,95.0,37.0,0.0,2.0,5,True
+482512,215407,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Ascent,2,Team Liquid,Team Heretics,10,13,kamo,14681,jett,0.87,224.0,17.0,21.0,5.0,65.0,136.0,33.0,5.0,5.0,5,True
+482512,215407,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Ascent,2,Team Liquid,Team Heretics,10,13,nAts,457,cypher,0.68,177.0,12.0,20.0,9.0,57.0,113.0,22.0,3.0,1.0,5,True
+482512,215407,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Ascent,2,Team Liquid,Team Heretics,10,13,keiko,11494,omen,0.63,119.0,9.0,19.0,7.0,57.0,79.0,35.0,2.0,4.0,5,True
+482512,215408,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Icebox,3,Team Heretics,Team Liquid,13,2,Wo0t,21328,gekko,2.34,421.0,26.0,6.0,2.0,93.0,253.0,38.0,1.0,0.0,5,True
+482512,215408,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Icebox,3,Team Heretics,Team Liquid,13,2,RieNs,10971,sova,1.33,201.0,12.0,7.0,8.0,93.0,148.0,40.0,0.0,2.0,5,True
+482512,215408,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Icebox,3,Team Heretics,Team Liquid,13,2,benjyfishy,29873,killjoy,1.16,168.0,10.0,6.0,1.0,93.0,122.0,18.0,0.0,0.0,5,True
+482512,215408,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Icebox,3,Team Heretics,Team Liquid,13,2,MiniBoo,18350,neon,1.12,264.0,13.0,11.0,8.0,93.0,176.0,33.0,5.0,2.0,5,True
+482512,215408,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Icebox,3,Team Heretics,Team Liquid,13,2,Boo,1144,viper,1.08,195.0,10.0,8.0,7.0,87.0,112.0,33.0,3.0,2.0,5,True
+482512,215408,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Icebox,3,Team Liquid,Team Heretics,2,13,Serial,18162,killjoy,1.21,244.0,13.0,12.0,0.0,67.0,166.0,43.0,0.0,1.0,5,True
+482512,215408,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Icebox,3,Team Liquid,Team Heretics,2,13,keiko,11494,jett,0.78,215.0,11.0,15.0,0.0,60.0,136.0,63.0,3.0,1.0,5,True
+482512,215408,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Icebox,3,Team Liquid,Team Heretics,2,13,paTiTek,309,kayo,0.65,194.0,10.0,15.0,2.0,53.0,116.0,38.0,3.0,2.0,5,True
+482512,215408,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Icebox,3,Team Liquid,Team Heretics,2,13,kamo,14681,gekko,0.27,78.0,3.0,14.0,3.0,40.0,58.0,24.0,0.0,2.0,5,True
+482512,215408,2380,VCT 2025: EMEA Stage 1,Playoffs: Lower Final,2025-05-17,Icebox,3,Team Liquid,Team Heretics,2,13,nAts,457,viper,0.03,54.0,1.0,15.0,4.0,20.0,54.0,6.0,0.0,3.0,5,True
+482513,215411,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Split,1,FNATIC,Team Heretics,13,4,kaajak,9554,yoru,2.47,419.0,28.0,5.0,2.0,94.0,272.0,43.0,4.0,2.0,5,True
+482513,215411,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Split,1,FNATIC,Team Heretics,13,4,Chronicle,458,viper,1.48,269.0,18.0,7.0,2.0,88.0,174.0,24.0,1.0,1.0,5,True
+482513,215411,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Split,1,FNATIC,Team Heretics,13,4,Alfajer,9810,raze,0.96,228.0,11.0,12.0,8.0,82.0,153.0,20.0,4.0,1.0,5,True
+482513,215411,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Split,1,FNATIC,Team Heretics,13,4,crashies,4,fade,0.86,108.0,7.0,7.0,5.0,76.0,67.0,29.0,0.0,1.0,5,True
+482513,215411,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Split,1,FNATIC,Team Heretics,13,4,Boaster,438,astra,0.71,100.0,7.0,9.0,2.0,82.0,71.0,27.0,1.0,2.0,5,True
+482513,215411,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Split,1,Team Heretics,FNATIC,4,13,RieNs,10971,fade,1.1,173.0,11.0,12.0,1.0,47.0,110.0,56.0,2.0,3.0,5,True
+482513,215411,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Split,1,Team Heretics,FNATIC,4,13,Wo0t,21328,raze,0.88,203.0,11.0,14.0,3.0,65.0,144.0,24.0,3.0,3.0,5,True
+482513,215411,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Split,1,Team Heretics,FNATIC,4,13,MiniBoo,18350,yoru,0.55,163.0,8.0,16.0,4.0,47.0,111.0,27.0,1.0,3.0,5,True
+482513,215411,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Split,1,Team Heretics,FNATIC,4,13,benjyfishy,29873,viper,0.54,124.0,7.0,14.0,1.0,47.0,95.0,47.0,0.0,1.0,5,True
+482513,215411,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Split,1,Team Heretics,FNATIC,4,13,Boo,1144,omen,0.22,67.0,3.0,15.0,2.0,35.0,41.0,27.0,1.0,0.0,5,True
+482513,215412,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Icebox,2,FNATIC,Team Heretics,13,9,kaajak,9554,sage,1.29,219.0,17.0,11.0,9.0,77.0,150.0,31.0,3.0,0.0,5,True
+482513,215412,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Icebox,2,FNATIC,Team Heretics,13,9,Boaster,438,viper,1.16,232.0,18.0,14.0,4.0,73.0,142.0,41.0,4.0,3.0,5,True
+482513,215412,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Icebox,2,FNATIC,Team Heretics,13,9,Alfajer,9810,killjoy,1.08,218.0,17.0,15.0,3.0,86.0,140.0,32.0,4.0,1.0,5,True
+482513,215412,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Icebox,2,FNATIC,Team Heretics,13,9,Chronicle,458,gekko,1.06,228.0,16.0,16.0,13.0,86.0,145.0,17.0,4.0,0.0,5,True
+482513,215412,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Icebox,2,FNATIC,Team Heretics,13,9,crashies,4,tejo,1.03,181.0,15.0,14.0,8.0,68.0,129.0,32.0,1.0,2.0,5,True
+482513,215412,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Icebox,2,Team Heretics,FNATIC,9,13,MiniBoo,18350,neon,1.24,248.0,19.0,15.0,5.0,64.0,157.0,50.0,2.0,4.0,5,True
+482513,215412,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Icebox,2,Team Heretics,FNATIC,9,13,benjyfishy,29873,killjoy,1.17,227.0,18.0,15.0,2.0,68.0,163.0,42.0,1.0,4.0,5,True
+482513,215412,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Icebox,2,Team Heretics,FNATIC,9,13,Wo0t,21328,gekko,0.91,173.0,15.0,17.0,3.0,68.0,114.0,57.0,1.0,3.0,5,True
+482513,215412,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Icebox,2,Team Heretics,FNATIC,9,13,Boo,1144,viper,0.74,142.0,9.0,16.0,11.0,73.0,100.0,39.0,1.0,1.0,5,True
+482513,215412,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Icebox,2,Team Heretics,FNATIC,9,13,RieNs,10971,sova,0.47,139.0,9.0,20.0,6.0,64.0,105.0,44.0,1.0,4.0,5,True
+482513,215413,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Fracture,3,FNATIC,Team Heretics,14,12,kaajak,9554,neon,1.54,311.0,28.0,17.0,6.0,81.0,194.0,20.0,7.0,5.0,5,True
+482513,215413,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Fracture,3,FNATIC,Team Heretics,14,12,Chronicle,458,breach,0.97,151.0,13.0,16.0,11.0,81.0,99.0,17.0,2.0,1.0,5,True
+482513,215413,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Fracture,3,FNATIC,Team Heretics,14,12,crashies,4,tejo,0.96,168.0,14.0,17.0,11.0,73.0,111.0,21.0,2.0,1.0,5,True
+482513,215413,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Fracture,3,FNATIC,Team Heretics,14,12,Alfajer,9810,cypher,0.94,169.0,17.0,18.0,3.0,50.0,108.0,22.0,3.0,1.0,5,True
+482513,215413,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Fracture,3,FNATIC,Team Heretics,14,12,Boaster,438,brimstone,0.79,168.0,15.0,18.0,10.0,73.0,121.0,24.0,0.0,4.0,5,True
+482513,215413,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Fracture,3,Team Heretics,FNATIC,12,14,Wo0t,21328,raze,1.12,242.0,21.0,18.0,5.0,69.0,155.0,22.0,4.0,5.0,5,True
+482513,215413,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Fracture,3,Team Heretics,FNATIC,12,14,benjyfishy,29873,cypher,1.1,178.0,18.0,15.0,4.0,65.0,116.0,49.0,1.0,2.0,5,True
+482513,215413,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Fracture,3,Team Heretics,FNATIC,12,14,Boo,1144,brimstone,0.93,144.0,14.0,16.0,9.0,88.0,79.0,16.0,1.0,1.0,5,True
+482513,215413,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Fracture,3,Team Heretics,FNATIC,12,14,RieNs,10971,fade,0.84,201.0,18.0,20.0,10.0,73.0,134.0,24.0,0.0,1.0,5,True
+482513,215413,2380,VCT 2025: EMEA Stage 1,Playoffs: Grand Final,2025-05-18,Fracture,3,Team Heretics,FNATIC,12,14,MiniBoo,18350,yoru,0.74,173.0,15.0,18.0,6.0,62.0,104.0,36.0,6.0,5.0,5,True

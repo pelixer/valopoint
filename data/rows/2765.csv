@@ -1,0 +1,651 @@
+match_id,game_id,event_id,event,stage,date,map,map_order,team,opp,team_rounds,opp_rounds,player,player_id,agent,rating,acs,k,d,a,kast,adr,hs,fk,fd,best_of,completed
+684613,270746,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Pearl,1,Xi Lai Gaming,NRG,6,13,NoMan,11527,jett,1.17,236.0,15.0,14.0,2.0,68.0,139.0,52.0,2.0,3.0,3,True
+684613,270746,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Pearl,1,Xi Lai Gaming,NRG,6,13,Lysoar,37489,astra,0.88,173.0,12.0,15.0,8.0,68.0,116.0,23.0,0.0,1.0,3,True
+684613,270746,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Pearl,1,Xi Lai Gaming,NRG,6,13,happywei,37927,vyse,0.8,168.0,12.0,16.0,2.0,68.0,110.0,38.0,2.0,1.0,3,True
+684613,270746,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Pearl,1,Xi Lai Gaming,NRG,6,13,Rarga,22047,phoenix,0.76,172.0,11.0,15.0,5.0,68.0,116.0,50.0,3.0,2.0,3,True
+684613,270746,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Pearl,1,Xi Lai Gaming,NRG,6,13,WsLeo,24308,fade,0.59,148.0,8.0,15.0,7.0,68.0,104.0,16.0,1.0,4.0,3,True
+684613,270746,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Pearl,1,NRG,Xi Lai Gaming,13,6,keiko,11494,vyse,1.69,352.0,26.0,14.0,3.0,84.0,211.0,25.0,2.0,0.0,3,True
+684613,270746,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Pearl,1,NRG,Xi Lai Gaming,13,6,brawk,2172,sova,1.33,215.0,11.0,9.0,12.0,89.0,173.0,25.0,1.0,0.0,3,True
+684613,270746,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Pearl,1,NRG,Xi Lai Gaming,13,6,mada,5132,waylay,1.04,211.0,17.0,11.0,2.0,63.0,143.0,34.0,4.0,4.0,3,True
+684613,270746,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Pearl,1,NRG,Xi Lai Gaming,13,6,Ethan,11225,tejo,0.92,196.0,13.0,13.0,4.0,84.0,126.0,26.0,3.0,4.0,3,True
+684613,270746,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Pearl,1,NRG,Xi Lai Gaming,13,6,skuba,11118,astra,0.89,140.0,8.0,11.0,8.0,68.0,94.0,19.0,1.0,0.0,3,True
+684613,270747,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,2,Xi Lai Gaming,NRG,11,13,happywei,37927,cypher,1.17,252.0,22.0,17.0,4.0,79.0,159.0,31.0,4.0,0.0,3,True
+684613,270747,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,2,Xi Lai Gaming,NRG,11,13,WsLeo,24308,fade,1.06,233.0,18.0,19.0,10.0,71.0,156.0,24.0,3.0,3.0,3,True
+684613,270747,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,2,Xi Lai Gaming,NRG,11,13,Rarga,22047,sage,0.86,148.0,14.0,16.0,7.0,79.0,89.0,34.0,1.0,3.0,3,True
+684613,270747,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,2,Xi Lai Gaming,NRG,11,13,Lysoar,37489,omen,0.82,160.0,14.0,18.0,11.0,75.0,111.0,22.0,2.0,0.0,3,True
+684613,270747,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,2,Xi Lai Gaming,NRG,11,13,NoMan,11527,deadlock,0.67,147.0,12.0,16.0,6.0,63.0,90.0,24.0,3.0,4.0,3,True
+684613,270747,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,2,NRG,Xi Lai Gaming,13,11,keiko,11494,omen,1.97,388.0,34.0,15.0,5.0,75.0,244.0,36.0,5.0,1.0,3,True
+684613,270747,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,2,NRG,Xi Lai Gaming,13,11,skuba,11118,viper,0.93,150.0,12.0,14.0,9.0,75.0,107.0,20.0,1.0,3.0,3,True
+684613,270747,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,2,NRG,Xi Lai Gaming,13,11,Ethan,11225,fade,0.79,171.0,14.0,18.0,11.0,67.0,110.0,18.0,1.0,4.0,3,True
+684613,270747,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,2,NRG,Xi Lai Gaming,13,11,mada,5132,raze,0.78,157.0,13.0,16.0,6.0,75.0,105.0,19.0,2.0,4.0,3,True
+684613,270747,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,2,NRG,Xi Lai Gaming,13,11,brawk,2172,vyse,0.75,173.0,13.0,17.0,9.0,58.0,119.0,11.0,1.0,1.0,3,True
+684610,270737,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,1,Team Vitality,Dragon Ranger Gaming,13,5,Derke,5022,raze,1.51,276.0,19.0,10.0,3.0,78.0,180.0,38.0,5.0,1.0,3,True
+684610,270737,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,1,Team Vitality,Dragon Ranger Gaming,13,5,Sayonara,33902,viper,1.42,294.0,19.0,10.0,6.0,78.0,180.0,19.0,4.0,1.0,3,True
+684610,270737,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,1,Team Vitality,Dragon Ranger Gaming,13,5,PROFEK,5554,omen,1.24,213.0,14.0,8.0,5.0,72.0,141.0,25.0,3.0,0.0,3,True
+684610,270737,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,1,Team Vitality,Dragon Ranger Gaming,13,5,Jamppi,9780,fade,1.22,207.0,13.0,9.0,7.0,94.0,151.0,24.0,2.0,1.0,3,True
+684610,270737,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,1,Team Vitality,Dragon Ranger Gaming,13,5,Chronicle,458,vyse,1.0,177.0,13.0,8.0,4.0,78.0,111.0,25.0,0.0,1.0,3,True
+684610,270737,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,1,Dragon Ranger Gaming,Team Vitality,5,13,vo0kashu,3741,cypher,0.93,216.0,11.0,16.0,4.0,50.0,147.0,30.0,2.0,2.0,3,True
+684610,270737,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,1,Dragon Ranger Gaming,Team Vitality,5,13,Life,3028,chamber,0.9,205.0,14.0,16.0,1.0,39.0,119.0,63.0,1.0,6.0,3,True
+684610,270737,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,1,Dragon Ranger Gaming,Team Vitality,5,13,Nicc,11524,skye,0.81,116.0,9.0,13.0,3.0,50.0,76.0,46.0,0.0,1.0,3,True
+684610,270737,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,1,Dragon Ranger Gaming,Team Vitality,5,13,SpiritZ1,31753,waylay,0.41,136.0,8.0,17.0,2.0,56.0,89.0,41.0,1.0,3.0,3,True
+684610,270737,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Lotus,1,Dragon Ranger Gaming,Team Vitality,5,13,Flex1n,4705,omen,0.3,82.0,3.0,16.0,6.0,44.0,64.0,14.0,0.0,2.0,3,True
+684610,270738,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Breeze,2,Team Vitality,Dragon Ranger Gaming,13,3,Chronicle,458,viper,1.47,189.0,13.0,6.0,3.0,88.0,139.0,21.0,1.0,1.0,3,True
+684610,270738,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Breeze,2,Team Vitality,Dragon Ranger Gaming,13,3,PROFEK,5554,harbor,1.37,189.0,14.0,8.0,5.0,75.0,117.0,42.0,1.0,0.0,3,True
+684610,270738,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Breeze,2,Team Vitality,Dragon Ranger Gaming,13,3,Derke,5022,jett,1.31,294.0,18.0,10.0,2.0,69.0,181.0,36.0,6.0,4.0,3,True
+684610,270738,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Breeze,2,Team Vitality,Dragon Ranger Gaming,13,3,Sayonara,33902,sova,1.31,309.0,17.0,11.0,3.0,75.0,208.0,38.0,1.0,0.0,3,True
+684610,270738,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Breeze,2,Team Vitality,Dragon Ranger Gaming,13,3,Jamppi,9780,kayo,0.68,117.0,6.0,10.0,8.0,69.0,77.0,35.0,1.0,1.0,3,True
+684610,270738,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Breeze,2,Dragon Ranger Gaming,Team Vitality,3,13,Life,3028,chamber,1.01,210.0,12.0,14.0,1.0,56.0,121.0,44.0,4.0,3.0,3,True
+684610,270738,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Breeze,2,Dragon Ranger Gaming,Team Vitality,3,13,Nicc,11524,sova,0.91,187.0,11.0,13.0,2.0,63.0,134.0,26.0,0.0,1.0,3,True
+684610,270738,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Breeze,2,Dragon Ranger Gaming,Team Vitality,3,13,vo0kashu,3741,viper,0.78,184.0,8.0,13.0,10.0,75.0,126.0,23.0,0.0,1.0,3,True
+684610,270738,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Breeze,2,Dragon Ranger Gaming,Team Vitality,3,13,SpiritZ1,31753,jett,0.67,170.0,8.0,13.0,1.0,44.0,125.0,35.0,1.0,3.0,3,True
+684610,270738,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-06,Breeze,2,Dragon Ranger Gaming,Team Vitality,3,13,Flex1n,4705,astra,0.41,101.0,6.0,15.0,3.0,50.0,77.0,38.0,1.0,2.0,3,True
+684611,270740,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,1,FULL SENSE,FUT Esports,3,13,primmie,25255,phoenix,0.83,205.0,11.0,14.0,1.0,56.0,124.0,26.0,0.0,0.0,3,True
+684611,270740,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,1,FULL SENSE,FUT Esports,3,13,Crws,3977,brimstone,0.71,162.0,8.0,15.0,8.0,56.0,106.0,16.0,1.0,2.0,3,True
+684611,270740,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,1,FULL SENSE,FUT Esports,3,13,Killua,13784,fade,0.56,132.0,8.0,15.0,1.0,44.0,91.0,41.0,1.0,1.0,3,True
+684611,270740,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,1,FULL SENSE,FUT Esports,3,13,Leviathan,27254,cypher,0.54,122.0,6.0,15.0,4.0,38.0,85.0,33.0,1.0,3.0,3,True
+684611,270740,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,1,FULL SENSE,FUT Esports,3,13,JitBoyS,13788,neon,0.03,61.0,3.0,16.0,0.0,31.0,38.0,33.0,1.0,6.0,3,True
+684611,270740,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,1,FUT Esports,FULL SENSE,13,3,s0pp,39357,jett,1.96,401.0,22.0,8.0,6.0,100.0,254.0,31.0,4.0,0.0,3,True
+684611,270740,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,1,FUT Esports,FULL SENSE,13,3,yetujey,8369,cypher,1.61,251.0,15.0,6.0,6.0,81.0,190.0,27.0,2.0,0.0,3,True
+684611,270740,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,1,FUT Esports,FULL SENSE,13,3,xeus,12793,raze,1.4,233.0,16.0,7.0,1.0,75.0,138.0,36.0,4.0,1.0,3,True
+684611,270740,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,1,FUT Esports,FULL SENSE,13,3,sociablEE,5568,brimstone,1.2,191.0,12.0,8.0,8.0,94.0,112.0,30.0,1.0,2.0,3,True
+684611,270740,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,1,FUT Esports,FULL SENSE,13,3,KROSTALY,15735,fade,1.06,157.0,10.0,7.0,4.0,88.0,105.0,16.0,1.0,1.0,3,True
+684611,270741,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Haven,2,FULL SENSE,FUT Esports,7,13,primmie,25255,phoenix,1.3,282.0,19.0,15.0,7.0,70.0,176.0,29.0,1.0,2.0,3,True
+684611,270741,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Haven,2,FULL SENSE,FUT Esports,7,13,Killua,13784,fade,0.9,174.0,13.0,16.0,2.0,65.0,101.0,25.0,2.0,2.0,3,True
+684611,270741,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Haven,2,FULL SENSE,FUT Esports,7,13,Crws,3977,omen,0.66,103.0,7.0,14.0,5.0,55.0,70.0,25.0,0.0,1.0,3,True
+684611,270741,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Haven,2,FULL SENSE,FUT Esports,7,13,Leviathan,27254,chamber,0.5,146.0,9.0,16.0,2.0,45.0,103.0,14.0,1.0,4.0,3,True
+684611,270741,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Haven,2,FULL SENSE,FUT Esports,7,13,JitBoyS,13788,neon,0.48,124.0,9.0,16.0,2.0,55.0,94.0,38.0,1.0,6.0,3,True
+684611,270741,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Haven,2,FUT Esports,FULL SENSE,13,7,xeus,12793,waylay,1.4,287.0,22.0,12.0,1.0,80.0,187.0,53.0,2.0,0.0,3,True
+684611,270741,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Haven,2,FUT Esports,FULL SENSE,13,7,KROSTALY,15735,sova,1.33,215.0,14.0,10.0,9.0,70.0,152.0,26.0,1.0,0.0,3,True
+684611,270741,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Haven,2,FUT Esports,FULL SENSE,13,7,sociablEE,5568,omen,1.32,202.0,15.0,10.0,10.0,85.0,139.0,22.0,1.0,0.0,3,True
+684611,270741,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Haven,2,FUT Esports,FULL SENSE,13,7,s0pp,39357,jett,1.32,263.0,19.0,13.0,4.0,70.0,159.0,19.0,9.0,4.0,3,True
+684611,270741,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Haven,2,FUT Esports,FULL SENSE,13,7,yetujey,8369,cypher,0.67,99.0,7.0,12.0,5.0,70.0,64.0,15.0,2.0,1.0,3,True
+684612,270743,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Pearl,1,LEVIATÁN,Global Esports,4,13,Neon,29243,chamber,1.35,263.0,15.0,11.0,1.0,59.0,202.0,45.0,3.0,3.0,3,True
+684612,270743,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Pearl,1,LEVIATÁN,Global Esports,4,13,kiNgg,8549,astra,1.04,196.0,12.0,11.0,1.0,65.0,114.0,23.0,1.0,0.0,3,True
+684612,270743,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Pearl,1,LEVIATÁN,Global Esports,4,13,blowz,21251,sova,0.78,107.0,6.0,11.0,5.0,47.0,75.0,31.0,1.0,0.0,3,True
+684612,270743,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Pearl,1,LEVIATÁN,Global Esports,4,13,spike,21661,neon,0.55,176.0,9.0,16.0,2.0,65.0,120.0,41.0,4.0,2.0,3,True
+684612,270743,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Pearl,1,LEVIATÁN,Global Esports,4,13,Sato,21659,phoenix,0.53,157.0,8.0,16.0,6.0,65.0,99.0,33.0,1.0,2.0,3,True
+684612,270743,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Pearl,1,Global Esports,LEVIATÁN,13,4,Kr1stal,5796,killjoy,1.79,350.0,21.0,10.0,4.0,88.0,224.0,33.0,3.0,3.0,3,True
+684612,270743,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Pearl,1,Global Esports,LEVIATÁN,13,4,Autumn,872,phoenix,1.26,232.0,15.0,9.0,3.0,82.0,136.0,44.0,2.0,1.0,3,True
+684612,270743,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Pearl,1,Global Esports,LEVIATÁN,13,4,UdoTan,4428,neon,1.2,225.0,13.0,9.0,3.0,76.0,146.0,27.0,2.0,2.0,3,True
+684612,270743,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Pearl,1,Global Esports,LEVIATÁN,13,4,xavi8k,7754,astra,0.79,134.0,7.0,10.0,10.0,88.0,90.0,12.0,0.0,1.0,3,True
+684612,270743,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Pearl,1,Global Esports,LEVIATÁN,13,4,PatMen,13744,fade,0.61,131.0,9.0,12.0,2.0,82.0,77.0,23.0,0.0,3.0,3,True
+684612,270744,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,2,LEVIATÁN,Global Esports,13,11,Sato,21659,waylay,1.64,304.0,27.0,14.0,6.0,79.0,186.0,27.0,8.0,3.0,3,True
+684612,270744,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,2,LEVIATÁN,Global Esports,13,11,Neon,29243,brimstone,1.19,236.0,17.0,13.0,17.0,75.0,160.0,21.0,1.0,2.0,3,True
+684612,270744,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,2,LEVIATÁN,Global Esports,13,11,kiNgg,8549,breach,1.07,143.0,14.0,13.0,9.0,67.0,91.0,26.0,0.0,2.0,3,True
+684612,270744,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,2,LEVIATÁN,Global Esports,13,11,blowz,21251,tejo,0.96,139.0,10.0,14.0,8.0,71.0,110.0,24.0,0.0,0.0,3,True
+684612,270744,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,2,LEVIATÁN,Global Esports,13,11,spike,21661,neon,0.88,179.0,16.0,18.0,10.0,71.0,113.0,33.0,4.0,4.0,3,True
+684612,270744,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,2,Global Esports,LEVIATÁN,11,13,UdoTan,4428,chamber,1.32,301.0,24.0,16.0,3.0,67.0,184.0,39.0,5.0,4.0,3,True
+684612,270744,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,2,Global Esports,LEVIATÁN,11,13,xavi8k,7754,astra,0.88,154.0,14.0,16.0,6.0,58.0,103.0,29.0,1.0,2.0,3,True
+684612,270744,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,2,Global Esports,LEVIATÁN,11,13,Autumn,872,phoenix,0.82,156.0,14.0,16.0,4.0,63.0,110.0,35.0,2.0,1.0,3,True
+684612,270744,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,2,Global Esports,LEVIATÁN,11,13,PatMen,13744,waylay,0.67,157.0,12.0,19.0,2.0,42.0,107.0,23.0,2.0,3.0,3,True
+684612,270744,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Fracture,2,Global Esports,LEVIATÁN,11,13,Kr1stal,5796,fade,0.51,95.0,8.0,17.0,4.0,67.0,63.0,17.0,1.0,3.0,3,True
+684612,270745,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Split,3,LEVIATÁN,Global Esports,13,9,Sato,21659,phoenix,1.43,271.0,19.0,13.0,6.0,86.0,183.0,44.0,2.0,3.0,3,True
+684612,270745,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Split,3,LEVIATÁN,Global Esports,13,9,kiNgg,8549,viper,1.28,199.0,15.0,10.0,5.0,73.0,127.0,29.0,2.0,2.0,3,True
+684612,270745,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Split,3,LEVIATÁN,Global Esports,13,9,Neon,29243,omen,1.15,182.0,15.0,10.0,6.0,77.0,108.0,27.0,3.0,1.0,3,True
+684612,270745,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Split,3,LEVIATÁN,Global Esports,13,9,spike,21661,neon,1.11,257.0,19.0,17.0,4.0,73.0,156.0,38.0,4.0,3.0,3,True
+684612,270745,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Split,3,LEVIATÁN,Global Esports,13,9,blowz,21251,fade,0.97,122.0,11.0,10.0,4.0,77.0,88.0,73.0,1.0,1.0,3,True
+684612,270745,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Split,3,Global Esports,LEVIATÁN,9,13,UdoTan,4428,raze,0.91,230.0,19.0,17.0,1.0,68.0,154.0,36.0,0.0,1.0,3,True
+684612,270745,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Split,3,Global Esports,LEVIATÁN,9,13,Kr1stal,5796,fade,0.82,127.0,9.0,13.0,4.0,68.0,79.0,27.0,5.0,0.0,3,True
+684612,270745,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Split,3,Global Esports,LEVIATÁN,9,13,xavi8k,7754,sage,0.71,124.0,10.0,15.0,8.0,64.0,80.0,26.0,1.0,4.0,3,True
+684612,270745,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Split,3,Global Esports,LEVIATÁN,9,13,Autumn,872,viper,0.68,156.0,11.0,16.0,6.0,59.0,113.0,31.0,1.0,2.0,3,True
+684612,270745,2765,Valorant Masters London 2026,Swiss Stage: Round 1,2026-06-07,Split,3,Global Esports,LEVIATÁN,9,13,PatMen,13744,omen,0.64,170.0,11.0,18.0,7.0,68.0,139.0,30.0,3.0,5.0,3,True
+684614,270749,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,1,Team Vitality,FUT Esports,13,11,Jamppi,9780,kayo,1.24,291.0,23.0,19.0,13.0,88.0,186.0,19.0,2.0,3.0,3,True
+684614,270749,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,1,Team Vitality,FUT Esports,13,11,Chronicle,458,chamber,1.17,239.0,20.0,16.0,6.0,58.0,163.0,25.0,4.0,4.0,3,True
+684614,270749,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,1,Team Vitality,FUT Esports,13,11,Sayonara,33902,sova,1.05,192.0,17.0,16.0,7.0,71.0,118.0,20.0,2.0,3.0,3,True
+684614,270749,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,1,Team Vitality,FUT Esports,13,11,PROFEK,5554,astra,0.99,133.0,13.0,14.0,12.0,83.0,82.0,21.0,0.0,0.0,3,True
+684614,270749,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,1,Team Vitality,FUT Esports,13,11,Derke,5022,neon,0.71,171.0,13.0,19.0,6.0,58.0,110.0,35.0,3.0,3.0,3,True
+684614,270749,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,1,FUT Esports,Team Vitality,11,13,s0pp,39357,chamber,1.37,250.0,23.0,16.0,4.0,75.0,160.0,21.0,6.0,2.0,3,True
+684614,270749,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,1,FUT Esports,Team Vitality,11,13,yetujey,8369,astra,1.09,236.0,20.0,16.0,5.0,83.0,135.0,27.0,2.0,1.0,3,True
+684614,270749,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,1,FUT Esports,Team Vitality,11,13,xeus,12793,jett,0.95,214.0,19.0,19.0,5.0,63.0,137.0,43.0,3.0,5.0,3,True
+684614,270749,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,1,FUT Esports,Team Vitality,11,13,KROSTALY,15735,kayo,0.8,144.0,10.0,17.0,15.0,75.0,94.0,33.0,1.0,1.0,3,True
+684614,270749,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,1,FUT Esports,Team Vitality,11,13,sociablEE,5568,fade,0.71,139.0,12.0,18.0,5.0,67.0,98.0,22.0,1.0,2.0,3,True
+684614,270750,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Haven,2,Team Vitality,FUT Esports,4,13,Sayonara,33902,phoenix,1.37,278.0,15.0,13.0,8.0,76.0,202.0,27.0,1.0,4.0,3,True
+684614,270750,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Haven,2,Team Vitality,FUT Esports,4,13,Jamppi,9780,sova,0.88,198.0,12.0,15.0,3.0,71.0,113.0,15.0,3.0,2.0,3,True
+684614,270750,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Haven,2,Team Vitality,FUT Esports,4,13,Derke,5022,jett,0.76,173.0,11.0,14.0,3.0,59.0,119.0,27.0,1.0,1.0,3,True
+684614,270750,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Haven,2,Team Vitality,FUT Esports,4,13,Chronicle,458,cypher,0.62,134.0,7.0,13.0,7.0,76.0,103.0,15.0,0.0,2.0,3,True
+684614,270750,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Haven,2,Team Vitality,FUT Esports,4,13,PROFEK,5554,omen,0.57,139.0,6.0,14.0,8.0,71.0,102.0,9.0,1.0,2.0,3,True
+684614,270750,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Haven,2,FUT Esports,Team Vitality,13,4,yetujey,8369,cypher,1.5,212.0,14.0,7.0,3.0,88.0,147.0,31.0,1.0,3.0,3,True
+684614,270750,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Haven,2,FUT Esports,Team Vitality,13,4,KROSTALY,15735,sova,1.39,244.0,16.0,9.0,4.0,88.0,163.0,45.0,0.0,0.0,3,True
+684614,270750,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Haven,2,FUT Esports,Team Vitality,13,4,s0pp,39357,jett,1.12,262.0,16.0,13.0,5.0,76.0,171.0,24.0,6.0,2.0,3,True
+684614,270750,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Haven,2,FUT Esports,Team Vitality,13,4,sociablEE,5568,omen,1.07,195.0,13.0,10.0,6.0,65.0,125.0,61.0,3.0,1.0,3,True
+684614,270750,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Haven,2,FUT Esports,Team Vitality,13,4,xeus,12793,waylay,0.87,187.0,10.0,12.0,8.0,76.0,139.0,34.0,1.0,0.0,3,True
+684614,270751,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Fracture,3,Team Vitality,FUT Esports,13,10,PROFEK,5554,brimstone,1.47,259.0,23.0,12.0,9.0,65.0,164.0,25.0,2.0,0.0,3,True
+684614,270751,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Fracture,3,Team Vitality,FUT Esports,13,10,Derke,5022,raze,1.33,268.0,21.0,16.0,4.0,78.0,171.0,21.0,1.0,2.0,3,True
+684614,270751,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Fracture,3,Team Vitality,FUT Esports,13,10,Chronicle,458,cypher,1.33,259.0,21.0,14.0,4.0,83.0,167.0,25.0,4.0,3.0,3,True
+684614,270751,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Fracture,3,Team Vitality,FUT Esports,13,10,Sayonara,33902,phoenix,0.77,183.0,14.0,17.0,5.0,74.0,125.0,17.0,4.0,3.0,3,True
+684614,270751,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Fracture,3,Team Vitality,FUT Esports,13,10,Jamppi,9780,fade,0.64,128.0,11.0,15.0,5.0,74.0,85.0,36.0,0.0,4.0,3,True
+684614,270751,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Fracture,3,FUT Esports,Team Vitality,10,13,xeus,12793,raze,1.1,251.0,19.0,19.0,6.0,78.0,157.0,35.0,6.0,2.0,3,True
+684614,270751,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Fracture,3,FUT Esports,Team Vitality,10,13,yetujey,8369,cypher,0.95,200.0,17.0,17.0,3.0,78.0,137.0,32.0,2.0,1.0,3,True
+684614,270751,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Fracture,3,FUT Esports,Team Vitality,10,13,sociablEE,5568,brimstone,0.79,178.0,14.0,18.0,10.0,70.0,105.0,11.0,2.0,4.0,3,True
+684614,270751,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Fracture,3,FUT Esports,Team Vitality,10,13,s0pp,39357,jett,0.72,182.0,16.0,20.0,3.0,70.0,105.0,17.0,2.0,3.0,3,True
+684614,270751,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Fracture,3,FUT Esports,Team Vitality,10,13,KROSTALY,15735,fade,0.69,124.0,8.0,16.0,3.0,65.0,90.0,16.0,0.0,1.0,3,True
+684615,270752,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Ascent,1,NRG,LEVIATÁN,7,13,Ethan,11225,astra,1.31,210.0,15.0,13.0,5.0,70.0,160.0,25.0,1.0,1.0,3,True
+684615,270752,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Ascent,1,NRG,LEVIATÁN,7,13,skuba,11118,vyse,1.12,221.0,16.0,15.0,7.0,70.0,140.0,34.0,2.0,1.0,3,True
+684615,270752,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Ascent,1,NRG,LEVIATÁN,7,13,brawk,2172,sova,0.85,191.0,12.0,16.0,3.0,65.0,139.0,19.0,1.0,2.0,3,True
+684615,270752,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Ascent,1,NRG,LEVIATÁN,7,13,keiko,11494,phoenix,0.56,156.0,10.0,17.0,4.0,60.0,111.0,38.0,1.0,4.0,3,True
+684615,270752,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Ascent,1,NRG,LEVIATÁN,7,13,mada,5132,jett,0.42,155.0,10.0,19.0,5.0,60.0,101.0,47.0,3.0,4.0,3,True
+684615,270752,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Ascent,1,LEVIATÁN,NRG,13,7,Sato,21659,phoenix,1.66,317.0,23.0,12.0,6.0,80.0,208.0,31.0,3.0,0.0,3,True
+684615,270752,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Ascent,1,LEVIATÁN,NRG,13,7,Neon,29243,chamber,1.3,216.0,17.0,11.0,3.0,90.0,147.0,15.0,2.0,2.0,3,True
+684615,270752,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Ascent,1,LEVIATÁN,NRG,13,7,blowz,21251,sova,1.12,218.0,15.0,14.0,11.0,85.0,140.0,29.0,2.0,0.0,3,True
+684615,270752,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Ascent,1,LEVIATÁN,NRG,13,7,kiNgg,8549,omen,0.97,132.0,10.0,10.0,9.0,80.0,81.0,19.0,1.0,3.0,3,True
+684615,270752,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Ascent,1,LEVIATÁN,NRG,13,7,spike,21661,neon,0.73,186.0,15.0,16.0,6.0,70.0,101.0,22.0,4.0,3.0,3,True
+684615,270753,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Lotus,2,NRG,LEVIATÁN,13,5,Ethan,11225,fade,1.32,222.0,14.0,9.0,7.0,78.0,156.0,38.0,0.0,1.0,3,True
+684615,270753,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Lotus,2,NRG,LEVIATÁN,13,5,skuba,11118,viper,1.29,200.0,13.0,8.0,3.0,83.0,135.0,26.0,1.0,0.0,3,True
+684615,270753,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Lotus,2,NRG,LEVIATÁN,13,5,mada,5132,raze,1.26,244.0,17.0,11.0,2.0,67.0,160.0,16.0,4.0,3.0,3,True
+684615,270753,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Lotus,2,NRG,LEVIATÁN,13,5,keiko,11494,omen,1.25,167.0,13.0,9.0,14.0,78.0,98.0,32.0,1.0,3.0,3,True
+684615,270753,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Lotus,2,NRG,LEVIATÁN,13,5,brawk,2172,vyse,1.17,213.0,13.0,12.0,9.0,83.0,148.0,15.0,3.0,2.0,3,True
+684615,270753,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Lotus,2,LEVIATÁN,NRG,5,13,spike,21661,omen,1.12,191.0,13.0,13.0,6.0,67.0,131.0,24.0,0.0,0.0,3,True
+684615,270753,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Lotus,2,LEVIATÁN,NRG,5,13,blowz,21251,skye,0.83,152.0,10.0,13.0,5.0,61.0,103.0,50.0,3.0,2.0,3,True
+684615,270753,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Lotus,2,LEVIATÁN,NRG,5,13,Neon,29243,jett,0.83,214.0,13.0,15.0,2.0,61.0,139.0,50.0,5.0,4.0,3,True
+684615,270753,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Lotus,2,LEVIATÁN,NRG,5,13,kiNgg,8549,vyse,0.69,146.0,9.0,14.0,3.0,56.0,105.0,27.0,1.0,2.0,3,True
+684615,270753,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Lotus,2,LEVIATÁN,NRG,5,13,Sato,21659,raze,0.31,86.0,4.0,15.0,1.0,44.0,75.0,10.0,0.0,1.0,3,True
+684615,270754,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,3,NRG,LEVIATÁN,8,13,skuba,11118,astra,0.98,161.0,13.0,15.0,3.0,57.0,102.0,20.0,2.0,0.0,3,True
+684615,270754,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,3,NRG,LEVIATÁN,8,13,keiko,11494,vyse,0.88,220.0,16.0,20.0,6.0,52.0,147.0,37.0,2.0,2.0,3,True
+684615,270754,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,3,NRG,LEVIATÁN,8,13,brawk,2172,sova,0.65,150.0,10.0,19.0,8.0,52.0,114.0,29.0,2.0,2.0,3,True
+684615,270754,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,3,NRG,LEVIATÁN,8,13,Ethan,11225,tejo,0.64,169.0,9.0,19.0,10.0,57.0,129.0,12.0,1.0,1.0,3,True
+684615,270754,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,3,NRG,LEVIATÁN,8,13,mada,5132,waylay,0.34,126.0,9.0,19.0,5.0,48.0,71.0,35.0,3.0,6.0,3,True
+684615,270754,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,3,LEVIATÁN,NRG,13,8,spike,21661,neon,1.52,303.0,24.0,13.0,5.0,86.0,198.0,33.0,3.0,1.0,3,True
+684615,270754,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,3,LEVIATÁN,NRG,13,8,kiNgg,8549,astra,1.45,256.0,22.0,10.0,9.0,86.0,157.0,45.0,1.0,1.0,3,True
+684615,270754,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,3,LEVIATÁN,NRG,13,8,blowz,21251,sova,1.28,200.0,16.0,9.0,4.0,81.0,149.0,34.0,0.0,0.0,3,True
+684615,270754,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,3,LEVIATÁN,NRG,13,8,Neon,29243,chamber,1.19,205.0,15.0,12.0,7.0,76.0,133.0,14.0,4.0,4.0,3,True
+684615,270754,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (1-0),2026-06-08,Pearl,3,LEVIATÁN,NRG,13,8,Sato,21659,phoenix,0.99,192.0,15.0,13.0,8.0,71.0,135.0,32.0,3.0,4.0,3,True
+684616,270755,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Haven,1,Dragon Ranger Gaming,Xi Lai Gaming,13,4,Nicc,11524,skye,1.91,278.0,18.0,6.0,10.0,88.0,177.0,26.0,2.0,0.0,3,True
+684616,270755,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Haven,1,Dragon Ranger Gaming,Xi Lai Gaming,13,4,vo0kashu,3741,cypher,1.71,337.0,20.0,11.0,10.0,100.0,225.0,17.0,4.0,0.0,3,True
+684616,270755,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Haven,1,Dragon Ranger Gaming,Xi Lai Gaming,13,4,Flex1n,4705,omen,1.25,224.0,13.0,11.0,16.0,82.0,129.0,22.0,3.0,1.0,3,True
+684616,270755,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Haven,1,Dragon Ranger Gaming,Xi Lai Gaming,13,4,SpiritZ1,31753,waylay,1.08,235.0,15.0,12.0,5.0,82.0,150.0,44.0,2.0,3.0,3,True
+684616,270755,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Haven,1,Dragon Ranger Gaming,Xi Lai Gaming,13,4,Life,3028,neon,0.77,163.0,10.0,12.0,3.0,88.0,113.0,38.0,1.0,1.0,3,True
+684616,270755,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Haven,1,Xi Lai Gaming,Dragon Ranger Gaming,4,13,happywei,37927,cypher,0.97,180.0,11.0,14.0,2.0,71.0,122.0,48.0,1.0,1.0,3,True
+684616,270755,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Haven,1,Xi Lai Gaming,Dragon Ranger Gaming,4,13,WsLeo,24308,sova,0.84,234.0,13.0,16.0,5.0,59.0,151.0,37.0,0.0,2.0,3,True
+684616,270755,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Haven,1,Xi Lai Gaming,Dragon Ranger Gaming,4,13,Rarga,22047,phoenix,0.77,196.0,11.0,15.0,3.0,71.0,131.0,27.0,3.0,2.0,3,True
+684616,270755,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Haven,1,Xi Lai Gaming,Dragon Ranger Gaming,4,13,Lysoar,37489,omen,0.71,153.0,10.0,15.0,6.0,76.0,111.0,32.0,0.0,1.0,3,True
+684616,270755,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Haven,1,Xi Lai Gaming,Dragon Ranger Gaming,4,13,NoMan,11527,jett,0.3,120.0,7.0,16.0,3.0,53.0,81.0,23.0,1.0,6.0,3,True
+684616,270756,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Fracture,2,Dragon Ranger Gaming,Xi Lai Gaming,9,13,vo0kashu,3741,cypher,1.48,286.0,24.0,15.0,3.0,82.0,193.0,24.0,2.0,1.0,3,True
+684616,270756,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Fracture,2,Dragon Ranger Gaming,Xi Lai Gaming,9,13,Flex1n,4705,brimstone,1.2,212.0,15.0,16.0,12.0,82.0,139.0,32.0,2.0,2.0,3,True
+684616,270756,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Fracture,2,Dragon Ranger Gaming,Xi Lai Gaming,9,13,Nicc,11524,fade,1.05,232.0,18.0,16.0,5.0,68.0,157.0,41.0,1.0,1.0,3,True
+684616,270756,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Fracture,2,Dragon Ranger Gaming,Xi Lai Gaming,9,13,SpiritZ1,31753,waylay,0.62,146.0,11.0,17.0,5.0,55.0,110.0,22.0,1.0,1.0,3,True
+684616,270756,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Fracture,2,Dragon Ranger Gaming,Xi Lai Gaming,9,13,Life,3028,phoenix,0.17,80.0,6.0,20.0,4.0,68.0,51.0,43.0,4.0,7.0,3,True
+684616,270756,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Fracture,2,Xi Lai Gaming,Dragon Ranger Gaming,13,9,Rarga,22047,waylay,1.38,268.0,22.0,16.0,5.0,82.0,176.0,40.0,5.0,2.0,3,True
+684616,270756,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Fracture,2,Xi Lai Gaming,Dragon Ranger Gaming,13,9,Lysoar,37489,brimstone,1.34,257.0,20.0,13.0,12.0,68.0,164.0,38.0,2.0,1.0,3,True
+684616,270756,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Fracture,2,Xi Lai Gaming,Dragon Ranger Gaming,13,9,happywei,37927,cypher,1.21,244.0,18.0,14.0,7.0,77.0,177.0,38.0,3.0,3.0,3,True
+684616,270756,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Fracture,2,Xi Lai Gaming,Dragon Ranger Gaming,13,9,NoMan,11527,tejo,1.13,204.0,15.0,15.0,7.0,64.0,154.0,26.0,2.0,2.0,3,True
+684616,270756,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Fracture,2,Xi Lai Gaming,Dragon Ranger Gaming,13,9,WsLeo,24308,skye,0.5,102.0,9.0,16.0,5.0,73.0,63.0,25.0,0.0,2.0,3,True
+684616,270757,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,3,Dragon Ranger Gaming,Xi Lai Gaming,11,13,SpiritZ1,31753,jett,1.31,280.0,22.0,16.0,2.0,71.0,169.0,38.0,6.0,1.0,3,True
+684616,270757,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,3,Dragon Ranger Gaming,Xi Lai Gaming,11,13,vo0kashu,3741,vyse,1.09,204.0,16.0,15.0,4.0,83.0,143.0,38.0,2.0,1.0,3,True
+684616,270757,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,3,Dragon Ranger Gaming,Xi Lai Gaming,11,13,Life,3028,phoenix,0.99,213.0,17.0,15.0,7.0,63.0,150.0,44.0,1.0,3.0,3,True
+684616,270757,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,3,Dragon Ranger Gaming,Xi Lai Gaming,11,13,Nicc,11524,fade,0.83,149.0,13.0,17.0,5.0,79.0,98.0,22.0,1.0,3.0,3,True
+684616,270757,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,3,Dragon Ranger Gaming,Xi Lai Gaming,11,13,Flex1n,4705,astra,0.75,128.0,10.0,14.0,5.0,63.0,76.0,21.0,3.0,3.0,3,True
+684616,270757,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,3,Xi Lai Gaming,Dragon Ranger Gaming,13,11,happywei,37927,viper,2.28,397.0,35.0,12.0,5.0,79.0,268.0,39.0,4.0,1.0,3,True
+684616,270757,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,3,Xi Lai Gaming,Dragon Ranger Gaming,13,11,WsLeo,24308,skye,0.86,142.0,8.0,16.0,14.0,75.0,108.0,24.0,1.0,1.0,3,True
+684616,270757,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,3,Xi Lai Gaming,Dragon Ranger Gaming,13,11,Lysoar,37489,omen,0.69,133.0,10.0,16.0,12.0,75.0,89.0,7.0,0.0,0.0,3,True
+684616,270757,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,3,Xi Lai Gaming,Dragon Ranger Gaming,13,11,NoMan,11527,raze,0.65,143.0,11.0,17.0,5.0,63.0,104.0,24.0,2.0,2.0,3,True
+684616,270757,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,3,Xi Lai Gaming,Dragon Ranger Gaming,13,11,Rarga,22047,waylay,0.61,148.0,13.0,17.0,2.0,58.0,90.0,30.0,4.0,9.0,3,True
+684617,270758,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,1,Global Esports,FULL SENSE,9,13,Kr1stal,5796,fade,1.04,155.0,13.0,14.0,6.0,64.0,100.0,21.0,2.0,1.0,3,True
+684617,270758,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,1,Global Esports,FULL SENSE,9,13,PatMen,13744,omen,0.91,188.0,12.0,18.0,10.0,68.0,121.0,29.0,2.0,0.0,3,True
+684617,270758,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,1,Global Esports,FULL SENSE,9,13,xavi8k,7754,sage,0.84,150.0,10.0,15.0,7.0,55.0,101.0,19.0,0.0,3.0,3,True
+684617,270758,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,1,Global Esports,FULL SENSE,9,13,UdoTan,4428,raze,0.74,179.0,12.0,18.0,4.0,64.0,125.0,18.0,3.0,8.0,3,True
+684617,270758,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,1,Global Esports,FULL SENSE,9,13,Autumn,872,viper,0.62,119.0,10.0,16.0,4.0,55.0,78.0,25.0,0.0,3.0,3,True
+684617,270758,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,1,FULL SENSE,Global Esports,13,9,primmie,25255,jett,1.69,335.0,27.0,11.0,1.0,86.0,193.0,40.0,7.0,3.0,3,True
+684617,270758,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,1,FULL SENSE,Global Esports,13,9,JitBoyS,13788,sage,1.28,204.0,16.0,10.0,13.0,86.0,127.0,30.0,2.0,1.0,3,True
+684617,270758,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,1,FULL SENSE,Global Esports,13,9,Killua,13784,fade,1.11,196.0,15.0,9.0,4.0,86.0,132.0,52.0,2.0,0.0,3,True
+684617,270758,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,1,FULL SENSE,Global Esports,13,9,Crws,3977,viper,0.96,198.0,14.0,15.0,10.0,82.0,133.0,24.0,4.0,2.0,3,True
+684617,270758,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Split,1,FULL SENSE,Global Esports,13,9,Leviathan,27254,omen,0.69,117.0,9.0,12.0,9.0,73.0,77.0,47.0,0.0,1.0,3,True
+684617,270759,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Breeze,2,Global Esports,FULL SENSE,13,8,Autumn,872,chamber,1.36,236.0,19.0,11.0,3.0,81.0,165.0,31.0,3.0,1.0,3,True
+684617,270759,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Breeze,2,Global Esports,FULL SENSE,13,8,Kr1stal,5796,sova,1.31,238.0,18.0,12.0,9.0,86.0,152.0,24.0,1.0,1.0,3,True
+684617,270759,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Breeze,2,Global Esports,FULL SENSE,13,8,UdoTan,4428,neon,1.28,305.0,24.0,17.0,5.0,76.0,180.0,47.0,4.0,3.0,3,True
+684617,270759,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Breeze,2,Global Esports,FULL SENSE,13,8,xavi8k,7754,sage,0.84,172.0,12.0,13.0,7.0,86.0,108.0,31.0,2.0,1.0,3,True
+684617,270759,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Breeze,2,Global Esports,FULL SENSE,13,8,PatMen,13744,viper,0.66,143.0,9.0,14.0,4.0,81.0,105.0,28.0,3.0,2.0,3,True
+684617,270759,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Breeze,2,FULL SENSE,Global Esports,8,13,primmie,25255,jett,1.37,250.0,20.0,14.0,3.0,81.0,155.0,31.0,3.0,2.0,3,True
+684617,270759,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Breeze,2,FULL SENSE,Global Esports,8,13,JitBoyS,13788,sage,0.92,224.0,15.0,17.0,7.0,76.0,154.0,35.0,1.0,4.0,3,True
+684617,270759,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Breeze,2,FULL SENSE,Global Esports,8,13,Crws,3977,viper,0.77,135.0,10.0,14.0,1.0,57.0,101.0,26.0,2.0,1.0,3,True
+684617,270759,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Breeze,2,FULL SENSE,Global Esports,8,13,Leviathan,27254,omen,0.71,177.0,13.0,20.0,3.0,57.0,108.0,37.0,1.0,1.0,3,True
+684617,270759,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Breeze,2,FULL SENSE,Global Esports,8,13,Killua,13784,sova,0.59,130.0,9.0,17.0,3.0,52.0,87.0,35.0,1.0,5.0,3,True
+684617,270760,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Pearl,3,Global Esports,FULL SENSE,13,8,Kr1stal,5796,killjoy,1.74,334.0,25.0,10.0,2.0,76.0,208.0,26.0,3.0,0.0,3,True
+684617,270760,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Pearl,3,Global Esports,FULL SENSE,13,8,Autumn,872,phoenix,1.04,218.0,17.0,15.0,3.0,71.0,137.0,30.0,2.0,5.0,3,True
+684617,270760,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Pearl,3,Global Esports,FULL SENSE,13,8,xavi8k,7754,astra,0.91,153.0,12.0,11.0,7.0,76.0,94.0,25.0,1.0,2.0,3,True
+684617,270760,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Pearl,3,Global Esports,FULL SENSE,13,8,PatMen,13744,fade,0.8,211.0,16.0,16.0,2.0,67.0,133.0,43.0,0.0,0.0,3,True
+684617,270760,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Pearl,3,Global Esports,FULL SENSE,13,8,UdoTan,4428,neon,0.65,166.0,12.0,16.0,4.0,71.0,103.0,30.0,4.0,4.0,3,True
+684617,270760,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Pearl,3,FULL SENSE,Global Esports,8,13,primmie,25255,jett,1.63,313.0,26.0,14.0,2.0,71.0,186.0,26.0,4.0,2.0,3,True
+684617,270760,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Pearl,3,FULL SENSE,Global Esports,8,13,Crws,3977,vyse,0.94,201.0,13.0,17.0,8.0,67.0,154.0,25.0,1.0,2.0,3,True
+684617,270760,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Pearl,3,FULL SENSE,Global Esports,8,13,Leviathan,27254,astra,0.77,164.0,11.0,17.0,8.0,71.0,114.0,33.0,1.0,2.0,3,True
+684617,270760,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Pearl,3,FULL SENSE,Global Esports,8,13,JitBoyS,13788,phoenix,0.65,160.0,10.0,17.0,12.0,67.0,119.0,28.0,3.0,2.0,3,True
+684617,270760,2765,Valorant Masters London 2026,Swiss Stage: Round 2 (0-1),2026-06-09,Pearl,3,FULL SENSE,Global Esports,8,13,Killua,13784,fade,0.55,120.0,8.0,17.0,5.0,71.0,82.0,32.0,2.0,2.0,3,True
+684619,270764,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,1,FUT Esports,NRG,11,13,KROSTALY,15735,fade,0.97,137.0,11.0,13.0,6.0,83.0,91.0,31.0,0.0,1.0,3,True
+684619,270764,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,1,FUT Esports,NRG,11,13,sociablEE,5568,omen,0.91,174.0,14.0,18.0,11.0,63.0,116.0,20.0,1.0,3.0,3,True
+684619,270764,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,1,FUT Esports,NRG,11,13,xeus,12793,raze,0.87,192.0,17.0,19.0,2.0,58.0,122.0,32.0,5.0,2.0,3,True
+684619,270764,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,1,FUT Esports,NRG,11,13,s0pp,39357,neon,0.78,192.0,17.0,18.0,5.0,67.0,114.0,27.0,4.0,6.0,3,True
+684619,270764,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,1,FUT Esports,NRG,11,13,yetujey,8369,vyse,0.75,176.0,13.0,19.0,4.0,54.0,126.0,24.0,1.0,1.0,3,True
+684619,270764,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,1,NRG,FUT Esports,13,11,keiko,11494,omen,1.46,228.0,21.0,12.0,10.0,79.0,153.0,40.0,2.0,0.0,3,True
+684619,270764,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,1,NRG,FUT Esports,13,11,skuba,11118,viper,1.24,202.0,17.0,12.0,8.0,63.0,121.0,25.0,2.0,1.0,3,True
+684619,270764,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,1,NRG,FUT Esports,13,11,brawk,2172,vyse,1.18,195.0,17.0,13.0,5.0,79.0,127.0,14.0,0.0,2.0,3,True
+684619,270764,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,1,NRG,FUT Esports,13,11,Ethan,11225,fade,1.0,202.0,14.0,16.0,17.0,75.0,130.0,25.0,5.0,5.0,3,True
+684619,270764,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,1,NRG,FUT Esports,13,11,mada,5132,raze,0.87,203.0,18.0,19.0,4.0,83.0,125.0,20.0,4.0,3.0,3,True
+684619,270765,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,2,FUT Esports,NRG,14,12,KROSTALY,15735,sova,1.34,225.0,22.0,13.0,9.0,77.0,161.0,28.0,0.0,3.0,3,True
+684619,270765,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,2,FUT Esports,NRG,14,12,yetujey,8369,cypher,1.27,221.0,20.0,16.0,10.0,77.0,149.0,33.0,3.0,2.0,3,True
+684619,270765,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,2,FUT Esports,NRG,14,12,xeus,12793,waylay,1.23,262.0,26.0,18.0,7.0,65.0,191.0,44.0,2.0,4.0,3,True
+684619,270765,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,2,FUT Esports,NRG,14,12,sociablEE,5568,omen,1.08,198.0,18.0,17.0,16.0,77.0,123.0,18.0,3.0,1.0,3,True
+684619,270765,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,2,FUT Esports,NRG,14,12,s0pp,39357,jett,0.81,191.0,16.0,20.0,4.0,73.0,134.0,30.0,4.0,4.0,3,True
+684619,270765,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,2,NRG,FUT Esports,12,14,skuba,11118,cypher,1.06,201.0,19.0,19.0,8.0,77.0,131.0,24.0,1.0,0.0,3,True
+684619,270765,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,2,NRG,FUT Esports,12,14,brawk,2172,sova,0.95,191.0,17.0,19.0,6.0,65.0,136.0,21.0,2.0,3.0,3,True
+684619,270765,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,2,NRG,FUT Esports,12,14,keiko,11494,phoenix,0.94,178.0,17.0,20.0,6.0,65.0,130.0,38.0,1.0,1.0,3,True
+684619,270765,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,2,NRG,FUT Esports,12,14,mada,5132,jett,0.79,192.0,19.0,22.0,2.0,77.0,112.0,40.0,5.0,3.0,3,True
+684619,270765,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,2,NRG,FUT Esports,12,14,Ethan,11225,omen,0.66,155.0,12.0,22.0,10.0,62.0,103.0,26.0,5.0,5.0,3,True
+684619,270766,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Fracture,3,FUT Esports,NRG,13,11,sociablEE,5568,brimstone,1.35,218.0,17.0,12.0,12.0,88.0,140.0,20.0,1.0,1.0,3,True
+684619,270766,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Fracture,3,FUT Esports,NRG,13,11,xeus,12793,raze,1.21,252.0,23.0,16.0,1.0,67.0,155.0,37.0,4.0,7.0,3,True
+684619,270766,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Fracture,3,FUT Esports,NRG,13,11,s0pp,39357,jett,0.92,185.0,15.0,18.0,6.0,63.0,116.0,12.0,3.0,2.0,3,True
+684619,270766,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Fracture,3,FUT Esports,NRG,13,11,yetujey,8369,cypher,0.87,189.0,16.0,18.0,5.0,63.0,128.0,25.0,2.0,3.0,3,True
+684619,270766,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Fracture,3,FUT Esports,NRG,13,11,KROSTALY,15735,fade,0.69,116.0,9.0,15.0,5.0,67.0,93.0,15.0,0.0,1.0,3,True
+684619,270766,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Fracture,3,NRG,FUT Esports,11,13,skuba,11118,cypher,1.06,187.0,16.0,14.0,8.0,75.0,115.0,24.0,3.0,0.0,3,True
+684619,270766,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Fracture,3,NRG,FUT Esports,11,13,keiko,11494,phoenix,1.06,198.0,17.0,14.0,6.0,63.0,141.0,35.0,2.0,0.0,3,True
+684619,270766,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Fracture,3,NRG,FUT Esports,11,13,mada,5132,waylay,0.92,216.0,17.0,17.0,6.0,79.0,139.0,17.0,3.0,6.0,3,True
+684619,270766,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Fracture,3,NRG,FUT Esports,11,13,Ethan,11225,fade,0.9,181.0,14.0,17.0,5.0,75.0,123.0,11.0,3.0,3.0,3,True
+684619,270766,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Fracture,3,NRG,FUT Esports,11,13,brawk,2172,brimstone,0.85,180.0,15.0,18.0,16.0,71.0,101.0,18.0,3.0,1.0,3,True
+684618,270761,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,1,Global Esports,Xi Lai Gaming,13,10,PatMen,13744,omen,1.23,255.0,22.0,13.0,12.0,70.0,163.0,37.0,1.0,4.0,3,True
+684618,270761,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,1,Global Esports,Xi Lai Gaming,13,10,xavi8k,7754,sova,1.19,243.0,19.0,15.0,6.0,78.0,177.0,31.0,2.0,1.0,3,True
+684618,270761,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,1,Global Esports,Xi Lai Gaming,13,10,Kr1stal,5796,deadlock,1.08,174.0,14.0,12.0,6.0,70.0,128.0,53.0,3.0,1.0,3,True
+684618,270761,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,1,Global Esports,Xi Lai Gaming,13,10,UdoTan,4428,neon,0.97,189.0,15.0,14.0,2.0,78.0,116.0,41.0,3.0,1.0,3,True
+684618,270761,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,1,Global Esports,Xi Lai Gaming,13,10,Autumn,872,cypher,0.91,204.0,17.0,16.0,6.0,65.0,121.0,38.0,4.0,3.0,3,True
+684618,270761,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,1,Xi Lai Gaming,Global Esports,10,13,NoMan,11527,jett,1.04,185.0,16.0,16.0,3.0,57.0,136.0,34.0,3.0,3.0,3,True
+684618,270761,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,1,Xi Lai Gaming,Global Esports,10,13,happywei,37927,cypher,0.95,180.0,15.0,17.0,2.0,61.0,118.0,39.0,3.0,1.0,3,True
+684618,270761,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,1,Xi Lai Gaming,Global Esports,10,13,WsLeo,24308,sova,0.91,160.0,10.0,16.0,10.0,65.0,114.0,21.0,2.0,4.0,3,True
+684618,270761,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,1,Xi Lai Gaming,Global Esports,10,13,Lysoar,37489,omen,0.91,182.0,15.0,18.0,6.0,65.0,106.0,34.0,0.0,1.0,3,True
+684618,270761,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Haven,1,Xi Lai Gaming,Global Esports,10,13,Rarga,22047,phoenix,0.79,184.0,14.0,20.0,3.0,57.0,124.0,36.0,2.0,4.0,3,True
+684618,270762,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,2,Global Esports,Xi Lai Gaming,9,13,Autumn,872,jett,1.18,221.0,19.0,12.0,1.0,77.0,134.0,33.0,5.0,3.0,3,True
+684618,270762,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,2,Global Esports,Xi Lai Gaming,9,13,UdoTan,4428,raze,1.11,252.0,17.0,16.0,10.0,82.0,163.0,16.0,5.0,2.0,3,True
+684618,270762,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,2,Global Esports,Xi Lai Gaming,9,13,Kr1stal,5796,vyse,0.99,209.0,16.0,14.0,3.0,68.0,142.0,18.0,0.0,1.0,3,True
+684618,270762,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,2,Global Esports,Xi Lai Gaming,9,13,PatMen,13744,omen,0.61,157.0,11.0,17.0,6.0,64.0,105.0,26.0,0.0,2.0,3,True
+684618,270762,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,2,Global Esports,Xi Lai Gaming,9,13,xavi8k,7754,skye,0.41,118.0,9.0,19.0,4.0,64.0,73.0,19.0,1.0,3.0,3,True
+684618,270762,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,2,Xi Lai Gaming,Global Esports,13,9,Rarga,22047,sage,1.65,305.0,23.0,14.0,11.0,82.0,199.0,36.0,3.0,1.0,3,True
+684618,270762,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,2,Xi Lai Gaming,Global Esports,13,9,Lysoar,37489,omen,1.17,185.0,14.0,13.0,13.0,82.0,119.0,32.0,0.0,2.0,3,True
+684618,270762,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,2,Xi Lai Gaming,Global Esports,13,9,NoMan,11527,deadlock,1.17,246.0,20.0,17.0,6.0,59.0,152.0,51.0,3.0,2.0,3,True
+684618,270762,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,2,Xi Lai Gaming,Global Esports,13,9,WsLeo,24308,fade,0.91,129.0,10.0,12.0,4.0,73.0,99.0,35.0,2.0,3.0,3,True
+684618,270762,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Lotus,2,Xi Lai Gaming,Global Esports,13,9,happywei,37927,cypher,0.66,134.0,11.0,16.0,2.0,64.0,93.0,46.0,3.0,3.0,3,True
+684618,270763,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Breeze,3,Global Esports,Xi Lai Gaming,10,13,UdoTan,4428,neon,1.24,247.0,20.0,17.0,5.0,74.0,156.0,24.0,1.0,4.0,3,True
+684618,270763,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Breeze,3,Global Esports,Xi Lai Gaming,10,13,Kr1stal,5796,sova,1.13,228.0,16.0,16.0,7.0,70.0,156.0,45.0,1.0,0.0,3,True
+684618,270763,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Breeze,3,Global Esports,Xi Lai Gaming,10,13,xavi8k,7754,sage,0.88,158.0,14.0,16.0,10.0,70.0,97.0,25.0,1.0,0.0,3,True
+684618,270763,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Breeze,3,Global Esports,Xi Lai Gaming,10,13,PatMen,13744,viper,0.61,191.0,15.0,20.0,4.0,57.0,116.0,31.0,3.0,5.0,3,True
+684618,270763,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Breeze,3,Global Esports,Xi Lai Gaming,10,13,Autumn,872,chamber,0.55,126.0,10.0,19.0,0.0,61.0,73.0,33.0,3.0,5.0,3,True
+684618,270763,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Breeze,3,Xi Lai Gaming,Global Esports,13,10,Lysoar,37489,omen,1.56,305.0,25.0,14.0,5.0,91.0,200.0,27.0,2.0,1.0,3,True
+684618,270763,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Breeze,3,Xi Lai Gaming,Global Esports,13,10,WsLeo,24308,sova,1.06,188.0,15.0,13.0,6.0,70.0,122.0,23.0,1.0,0.0,3,True
+684618,270763,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Breeze,3,Xi Lai Gaming,Global Esports,13,10,happywei,37927,viper,1.05,213.0,17.0,16.0,6.0,70.0,148.0,24.0,3.0,3.0,3,True
+684618,270763,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Breeze,3,Xi Lai Gaming,Global Esports,13,10,Rarga,22047,phoenix,0.94,195.0,17.0,17.0,3.0,78.0,137.0,40.0,4.0,2.0,3,True
+684618,270763,2765,Valorant Masters London 2026,Swiss Stage: Round 3 (1-1),2026-06-10,Breeze,3,Xi Lai Gaming,Global Esports,13,10,NoMan,11527,jett,0.91,190.0,14.0,15.0,4.0,65.0,130.0,23.0,4.0,3.0,3,True
+670466,267804,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Ascent,1,Paper Rex,LEVIATÁN,13,1,d4v41,9803,vyse,2.05,273.0,16.0,1.0,3.0,93.0,197.0,54.0,1.0,0.0,3,True
+670466,267804,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Ascent,1,Paper Rex,LEVIATÁN,13,1,something,17086,yoru,1.53,270.0,14.0,5.0,5.0,93.0,164.0,16.0,3.0,0.0,3,True
+670466,267804,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Ascent,1,Paper Rex,LEVIATÁN,13,1,invy,8504,sova,1.53,329.0,16.0,8.0,4.0,86.0,220.0,15.0,4.0,0.0,3,True
+670466,267804,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Ascent,1,Paper Rex,LEVIATÁN,13,1,Jinggg,7378,sage,1.24,200.0,11.0,6.0,7.0,86.0,128.0,28.0,1.0,2.0,3,True
+670466,267804,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Ascent,1,Paper Rex,LEVIATÁN,13,1,f0rsakeN,9801,omen,1.15,178.0,9.0,8.0,9.0,93.0,102.0,27.0,2.0,1.0,3,True
+670466,267804,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Ascent,1,LEVIATÁN,Paper Rex,1,13,Sato,21659,phoenix,0.75,175.0,8.0,13.0,2.0,50.0,122.0,31.0,1.0,4.0,3,True
+670466,267804,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Ascent,1,LEVIATÁN,Paper Rex,1,13,blowz,21251,sova,0.71,134.0,5.0,13.0,4.0,50.0,109.0,26.0,0.0,0.0,3,True
+670466,267804,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Ascent,1,LEVIATÁN,Paper Rex,1,13,Neon,29243,chamber,0.44,119.0,6.0,13.0,2.0,43.0,77.0,33.0,0.0,2.0,3,True
+670466,267804,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Ascent,1,LEVIATÁN,Paper Rex,1,13,spike,21661,neon,0.43,133.0,6.0,14.0,4.0,57.0,87.0,12.0,2.0,3.0,3,True
+670466,267804,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Ascent,1,LEVIATÁN,Paper Rex,1,13,kiNgg,8549,omen,0.36,102.0,3.0,13.0,5.0,64.0,69.0,14.0,0.0,2.0,3,True
+670466,267805,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Paper Rex,LEVIATÁN,13,10,invy,8504,skye,1.11,207.0,16.0,17.0,15.0,78.0,147.0,37.0,0.0,5.0,3,True
+670466,267805,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Paper Rex,LEVIATÁN,13,10,something,17086,jett,1.08,207.0,16.0,17.0,8.0,87.0,153.0,25.0,2.0,4.0,3,True
+670466,267805,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Paper Rex,LEVIATÁN,13,10,d4v41,9803,vyse,1.0,209.0,19.0,19.0,5.0,83.0,132.0,34.0,1.0,0.0,3,True
+670466,267805,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Paper Rex,LEVIATÁN,13,10,Jinggg,7378,raze,0.94,182.0,16.0,17.0,5.0,65.0,133.0,14.0,1.0,3.0,3,True
+670466,267805,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Paper Rex,LEVIATÁN,13,10,f0rsakeN,9801,omen,0.82,207.0,17.0,20.0,9.0,65.0,129.0,15.0,2.0,5.0,3,True
+670466,267805,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,LEVIATÁN,Paper Rex,10,13,Neon,29243,jett,1.6,328.0,28.0,16.0,4.0,87.0,221.0,38.0,9.0,0.0,3,True
+670466,267805,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,LEVIATÁN,Paper Rex,10,13,spike,21661,omen,1.52,320.0,27.0,18.0,10.0,91.0,193.0,32.0,5.0,0.0,3,True
+670466,267805,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,LEVIATÁN,Paper Rex,10,13,blowz,21251,skye,0.87,169.0,13.0,16.0,14.0,74.0,117.0,22.0,0.0,1.0,3,True
+670466,267805,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,LEVIATÁN,Paper Rex,10,13,kiNgg,8549,vyse,0.86,167.0,13.0,16.0,14.0,87.0,114.0,18.0,2.0,2.0,3,True
+670466,267805,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,LEVIATÁN,Paper Rex,10,13,Sato,21659,raze,0.52,117.0,9.0,18.0,2.0,70.0,79.0,29.0,1.0,3.0,3,True
+670467,267807,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Breeze,1,Team Heretics,Team Vitality,6,13,Boo,1144,sage,0.98,187.0,13.0,14.0,2.0,68.0,114.0,56.0,0.0,0.0,3,True
+670467,267807,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Breeze,1,Team Heretics,Team Vitality,6,13,Wo0t,21328,chamber,0.86,208.0,13.0,15.0,2.0,63.0,133.0,23.0,2.0,4.0,3,True
+670467,267807,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Breeze,1,Team Heretics,Team Vitality,6,13,koshmaras,23365,neon,0.81,198.0,12.0,14.0,2.0,58.0,129.0,42.0,2.0,6.0,3,True
+670467,267807,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Breeze,1,Team Heretics,Team Vitality,6,13,RieNs,10971,sova,0.68,150.0,9.0,14.0,3.0,42.0,106.0,22.0,0.0,4.0,3,True
+670467,267807,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Breeze,1,Team Heretics,Team Vitality,6,13,benjyfishy,29873,viper,0.45,138.0,8.0,16.0,2.0,53.0,91.0,50.0,0.0,1.0,3,True
+670467,267807,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Breeze,1,Team Vitality,Team Heretics,13,6,Derke,5022,jett,1.68,319.0,21.0,10.0,5.0,79.0,215.0,23.0,8.0,1.0,3,True
+670467,267807,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Breeze,1,Team Vitality,Team Heretics,13,6,Chronicle,458,viper,1.2,260.0,16.0,13.0,7.0,74.0,166.0,12.0,4.0,1.0,3,True
+670467,267807,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Breeze,1,Team Vitality,Team Heretics,13,6,PROFEK,5554,harbor,1.13,175.0,14.0,11.0,8.0,74.0,108.0,19.0,3.0,1.0,3,True
+670467,267807,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Breeze,1,Team Vitality,Team Heretics,13,6,Jamppi,9780,kayo,1.09,166.0,11.0,10.0,10.0,74.0,112.0,34.0,0.0,1.0,3,True
+670467,267807,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Breeze,1,Team Vitality,Team Heretics,13,6,Sayonara,33902,sova,0.97,149.0,11.0,11.0,5.0,68.0,114.0,40.0,0.0,0.0,3,True
+670467,267808,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Team Heretics,Team Vitality,7,13,koshmaras,23365,neon,1.18,246.0,16.0,16.0,5.0,70.0,163.0,22.0,4.0,2.0,3,True
+670467,267808,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Team Heretics,Team Vitality,7,13,benjyfishy,29873,vyse,0.84,174.0,12.0,16.0,4.0,70.0,116.0,39.0,3.0,2.0,3,True
+670467,267808,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Team Heretics,Team Vitality,7,13,Wo0t,21328,raze,0.74,177.0,13.0,16.0,1.0,65.0,116.0,20.0,2.0,3.0,3,True
+670467,267808,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Team Heretics,Team Vitality,7,13,RieNs,10971,fade,0.71,162.0,11.0,15.0,6.0,60.0,88.0,46.0,2.0,1.0,3,True
+670467,267808,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Team Heretics,Team Vitality,7,13,Boo,1144,omen,0.62,128.0,8.0,15.0,4.0,50.0,88.0,36.0,0.0,1.0,3,True
+670467,267808,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Team Vitality,Team Heretics,13,7,Derke,5022,raze,1.46,339.0,23.0,16.0,7.0,75.0,212.0,14.0,3.0,3.0,3,True
+670467,267808,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Team Vitality,Team Heretics,13,7,PROFEK,5554,omen,1.29,179.0,13.0,11.0,12.0,75.0,124.0,22.0,2.0,1.0,3,True
+670467,267808,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Team Vitality,Team Heretics,13,7,Chronicle,458,vyse,1.13,241.0,17.0,11.0,3.0,75.0,159.0,26.0,2.0,3.0,3,True
+670467,267808,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Team Vitality,Team Heretics,13,7,Sayonara,33902,viper,1.07,195.0,14.0,12.0,7.0,65.0,132.0,26.0,2.0,2.0,3,True
+670467,267808,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-12,Lotus,2,Team Vitality,Team Heretics,13,7,Jamppi,9780,fade,0.96,137.0,11.0,10.0,9.0,85.0,85.0,14.0,0.0,2.0,3,True
+670465,267801,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Haven,1,EDward Gaming,FUT Esports,4,13,ZmjjKK,3520,waylay,1.06,207.0,14.0,12.0,2.0,71.0,123.0,25.0,1.0,1.0,3,True
+670465,267801,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Haven,1,EDward Gaming,FUT Esports,4,13,Smoggy,4742,raze,0.86,240.0,12.0,14.0,8.0,94.0,176.0,19.0,2.0,0.0,3,True
+670465,267801,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Haven,1,EDward Gaming,FUT Esports,4,13,CHICHOO,15559,omen,0.84,131.0,8.0,11.0,2.0,53.0,93.0,29.0,2.0,2.0,3,True
+670465,267801,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Haven,1,EDward Gaming,FUT Esports,4,13,nobody,3017,skye,0.61,149.0,9.0,13.0,2.0,59.0,78.0,38.0,2.0,3.0,3,True
+670465,267801,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Haven,1,EDward Gaming,FUT Esports,4,13,Jieni7,51244,cypher,0.38,131.0,7.0,14.0,2.0,53.0,96.0,34.0,1.0,3.0,3,True
+670465,267801,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Haven,1,FUT Esports,EDward Gaming,13,4,sociablEE,5568,omen,1.6,240.0,15.0,7.0,6.0,94.0,175.0,33.0,1.0,0.0,3,True
+670465,267801,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Haven,1,FUT Esports,EDward Gaming,13,4,s0pp,39357,jett,1.41,319.0,21.0,14.0,2.0,82.0,199.0,50.0,5.0,3.0,3,True
+670465,267801,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Haven,1,FUT Esports,EDward Gaming,13,4,xeus,12793,waylay,1.12,213.0,14.0,11.0,2.0,71.0,140.0,61.0,2.0,3.0,3,True
+670465,267801,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Haven,1,FUT Esports,EDward Gaming,13,4,yetujey,8369,cypher,1.0,162.0,9.0,9.0,4.0,71.0,122.0,27.0,1.0,2.0,3,True
+670465,267801,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Haven,1,FUT Esports,EDward Gaming,13,4,KROSTALY,15735,sova,0.86,99.0,5.0,9.0,8.0,94.0,72.0,35.0,0.0,0.0,3,True
+670465,267802,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Pearl,2,EDward Gaming,FUT Esports,14,12,CHICHOO,15559,astra,1.27,204.0,19.0,14.0,12.0,69.0,136.0,23.0,0.0,2.0,3,True
+670465,267802,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Pearl,2,EDward Gaming,FUT Esports,14,12,ZmjjKK,3520,jett,1.12,275.0,24.0,20.0,8.0,77.0,174.0,24.0,3.0,6.0,3,True
+670465,267802,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Pearl,2,EDward Gaming,FUT Esports,14,12,Smoggy,4742,phoenix,1.06,222.0,19.0,19.0,10.0,81.0,159.0,39.0,2.0,2.0,3,True
+670465,267802,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Pearl,2,EDward Gaming,FUT Esports,14,12,Jieni7,51244,vyse,0.99,197.0,20.0,18.0,6.0,62.0,132.0,37.0,2.0,2.0,3,True
+670465,267802,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Pearl,2,EDward Gaming,FUT Esports,14,12,nobody,3017,fade,0.88,173.0,16.0,19.0,8.0,69.0,117.0,28.0,2.0,5.0,3,True
+670465,267802,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Pearl,2,FUT Esports,EDward Gaming,12,14,xeus,12793,jett,1.33,284.0,26.0,19.0,5.0,73.0,168.0,39.0,9.0,2.0,3,True
+670465,267802,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Pearl,2,FUT Esports,EDward Gaming,12,14,KROSTALY,15735,kayo,1.13,204.0,18.0,19.0,19.0,81.0,134.0,45.0,1.0,0.0,3,True
+670465,267802,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Pearl,2,FUT Esports,EDward Gaming,12,14,yetujey,8369,astra,1.07,221.0,20.0,19.0,7.0,77.0,159.0,19.0,1.0,0.0,3,True
+670465,267802,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Pearl,2,FUT Esports,EDward Gaming,12,14,s0pp,39357,chamber,0.96,200.0,16.0,21.0,7.0,77.0,132.0,12.0,4.0,4.0,3,True
+670465,267802,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Pearl,2,FUT Esports,EDward Gaming,12,14,sociablEE,5568,fade,0.5,113.0,10.0,20.0,8.0,62.0,77.0,32.0,2.0,3.0,3,True
+670465,267803,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Fracture,3,EDward Gaming,FUT Esports,13,5,ZmjjKK,3520,neon,1.46,340.0,22.0,11.0,5.0,72.0,196.0,27.0,7.0,4.0,3,True
+670465,267803,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Fracture,3,EDward Gaming,FUT Esports,13,5,Jieni7,51244,brimstone,1.39,187.0,13.0,8.0,8.0,78.0,115.0,31.0,0.0,0.0,3,True
+670465,267803,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Fracture,3,EDward Gaming,FUT Esports,13,5,nobody,3017,fade,1.35,289.0,19.0,11.0,7.0,94.0,177.0,26.0,1.0,0.0,3,True
+670465,267803,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Fracture,3,EDward Gaming,FUT Esports,13,5,CHICHOO,15559,cypher,1.14,192.0,14.0,9.0,3.0,78.0,136.0,28.0,2.0,1.0,3,True
+670465,267803,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Fracture,3,EDward Gaming,FUT Esports,13,5,Smoggy,4742,phoenix,0.7,126.0,8.0,13.0,7.0,89.0,91.0,47.0,1.0,2.0,3,True
+670465,267803,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Fracture,3,FUT Esports,EDward Gaming,5,13,s0pp,39357,jett,0.92,186.0,10.0,14.0,5.0,50.0,134.0,30.0,2.0,6.0,3,True
+670465,267803,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Fracture,3,FUT Esports,EDward Gaming,5,13,sociablEE,5568,brimstone,0.87,206.0,12.0,15.0,4.0,61.0,124.0,14.0,1.0,3.0,3,True
+670465,267803,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Fracture,3,FUT Esports,EDward Gaming,5,13,xeus,12793,raze,0.82,160.0,11.0,15.0,3.0,67.0,117.0,30.0,1.0,1.0,3,True
+670465,267803,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Fracture,3,FUT Esports,EDward Gaming,5,13,KROSTALY,15735,fade,0.71,167.0,10.0,16.0,6.0,67.0,110.0,38.0,0.0,0.0,3,True
+670465,267803,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Fracture,3,FUT Esports,EDward Gaming,5,13,yetujey,8369,cypher,0.67,159.0,9.0,16.0,5.0,67.0,99.0,30.0,3.0,1.0,3,True
+670464,267798,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Lotus,1,G2 Esports,Xi Lai Gaming,13,7,leaf,7873,viper,1.63,277.0,19.0,12.0,9.0,90.0,195.0,45.0,0.0,1.0,3,True
+670464,267798,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Lotus,1,G2 Esports,Xi Lai Gaming,13,7,BABYBAY,2170,vyse,1.57,291.0,19.0,9.0,5.0,90.0,186.0,28.0,3.0,1.0,3,True
+670464,267798,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Lotus,1,G2 Esports,Xi Lai Gaming,13,7,jawgemo,3993,raze,1.16,187.0,14.0,11.0,6.0,85.0,134.0,24.0,1.0,2.0,3,True
+670464,267798,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Lotus,1,G2 Esports,Xi Lai Gaming,13,7,trent,15500,fade,1.01,190.0,13.0,13.0,7.0,80.0,139.0,38.0,2.0,2.0,3,True
+670464,267798,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Lotus,1,G2 Esports,Xi Lai Gaming,13,7,valyn,3885,omen,1.0,201.0,17.0,13.0,5.0,80.0,139.0,28.0,2.0,6.0,3,True
+670464,267798,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Lotus,1,Xi Lai Gaming,G2 Esports,7,13,happywei,37927,cypher,0.99,221.0,15.0,16.0,5.0,70.0,139.0,37.0,5.0,2.0,3,True
+670464,267798,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Lotus,1,Xi Lai Gaming,G2 Esports,7,13,Lysoar,37489,omen,0.96,238.0,18.0,18.0,3.0,65.0,162.0,41.0,2.0,0.0,3,True
+670464,267798,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Lotus,1,Xi Lai Gaming,G2 Esports,7,13,WsLeo,24308,fade,0.65,163.0,11.0,18.0,6.0,75.0,110.0,24.0,2.0,3.0,3,True
+670464,267798,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Lotus,1,Xi Lai Gaming,G2 Esports,7,13,Rarga,22047,sage,0.59,107.0,8.0,16.0,5.0,55.0,68.0,35.0,3.0,3.0,3,True
+670464,267798,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Lotus,1,Xi Lai Gaming,G2 Esports,7,13,NoMan,11527,deadlock,0.55,98.0,6.0,14.0,3.0,55.0,69.0,27.0,0.0,0.0,3,True
+670464,267799,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Ascent,2,G2 Esports,Xi Lai Gaming,4,13,leaf,7873,phoenix,1.14,240.0,14.0,14.0,4.0,71.0,147.0,41.0,3.0,4.0,3,True
+670464,267799,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Ascent,2,G2 Esports,Xi Lai Gaming,4,13,trent,15500,sova,1.08,208.0,11.0,14.0,4.0,76.0,165.0,23.0,1.0,0.0,3,True
+670464,267799,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Ascent,2,G2 Esports,Xi Lai Gaming,4,13,valyn,3885,omen,1.07,226.0,13.0,14.0,5.0,65.0,148.0,32.0,1.0,0.0,3,True
+670464,267799,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Ascent,2,G2 Esports,Xi Lai Gaming,4,13,jawgemo,3993,neon,0.58,142.0,7.0,15.0,3.0,59.0,100.0,15.0,1.0,3.0,3,True
+670464,267799,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Ascent,2,G2 Esports,Xi Lai Gaming,4,13,BABYBAY,2170,vyse,0.33,103.0,5.0,16.0,1.0,47.0,78.0,37.0,2.0,2.0,3,True
+670464,267799,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Ascent,2,Xi Lai Gaming,G2 Esports,13,4,happywei,37927,cypher,1.4,257.0,15.0,10.0,11.0,76.0,196.0,23.0,1.0,1.0,3,True
+670464,267799,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Ascent,2,Xi Lai Gaming,G2 Esports,13,4,Lysoar,37489,omen,1.28,187.0,15.0,7.0,6.0,82.0,117.0,23.0,2.0,1.0,3,True
+670464,267799,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Ascent,2,Xi Lai Gaming,G2 Esports,13,4,WsLeo,24308,sova,1.27,259.0,17.0,11.0,7.0,82.0,163.0,27.0,2.0,0.0,3,True
+670464,267799,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Ascent,2,Xi Lai Gaming,G2 Esports,13,4,NoMan,11527,jett,1.21,223.0,13.0,10.0,5.0,82.0,163.0,46.0,1.0,4.0,3,True
+670464,267799,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Ascent,2,Xi Lai Gaming,G2 Esports,13,4,Rarga,22047,phoenix,0.93,227.0,13.0,12.0,4.0,65.0,154.0,27.0,3.0,2.0,3,True
+670464,267800,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Split,3,G2 Esports,Xi Lai Gaming,9,13,BABYBAY,2170,vyse,1.24,251.0,19.0,17.0,6.0,68.0,159.0,25.0,2.0,4.0,3,True
+670464,267800,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Split,3,G2 Esports,Xi Lai Gaming,9,13,trent,15500,fade,1.04,189.0,14.0,16.0,8.0,73.0,136.0,35.0,2.0,3.0,3,True
+670464,267800,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Split,3,G2 Esports,Xi Lai Gaming,9,13,jawgemo,3993,raze,0.97,189.0,14.0,16.0,5.0,68.0,129.0,22.0,2.0,3.0,3,True
+670464,267800,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Split,3,G2 Esports,Xi Lai Gaming,9,13,leaf,7873,viper,0.79,151.0,10.0,17.0,5.0,68.0,99.0,26.0,2.0,3.0,3,True
+670464,267800,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Split,3,G2 Esports,Xi Lai Gaming,9,13,valyn,3885,astra,0.72,118.0,11.0,15.0,2.0,64.0,79.0,24.0,0.0,1.0,3,True
+670464,267800,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Split,3,Xi Lai Gaming,G2 Esports,13,9,happywei,37927,viper,1.29,256.0,20.0,14.0,8.0,86.0,167.0,40.0,5.0,2.0,3,True
+670464,267800,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Split,3,Xi Lai Gaming,G2 Esports,13,9,NoMan,11527,raze,1.05,210.0,17.0,14.0,4.0,77.0,117.0,15.0,2.0,2.0,3,True
+670464,267800,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Split,3,Xi Lai Gaming,G2 Esports,13,9,WsLeo,24308,skye,1.01,161.0,12.0,11.0,5.0,73.0,109.0,22.0,3.0,1.0,3,True
+670464,267800,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Split,3,Xi Lai Gaming,G2 Esports,13,9,Lysoar,37489,omen,0.97,228.0,19.0,15.0,2.0,73.0,131.0,23.0,1.0,0.0,3,True
+670464,267800,2765,Valorant Masters London 2026,Playoffs: Upper Quarterfinals,2026-06-13,Split,3,Xi Lai Gaming,G2 Esports,13,9,Rarga,22047,waylay,0.69,155.0,13.0,14.0,0.0,64.0,105.0,26.0,3.0,3.0,3,True
+670473,267827,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Split,1,LEVIATÁN,Team Heretics,13,3,spike,21661,neon,1.77,298.0,18.0,6.0,4.0,88.0,205.0,21.0,2.0,1.0,3,True
+670473,267827,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Split,1,LEVIATÁN,Team Heretics,13,3,blowz,21251,fade,1.59,211.0,12.0,4.0,7.0,94.0,132.0,26.0,3.0,1.0,3,True
+670473,267827,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Split,1,LEVIATÁN,Team Heretics,13,3,Sato,21659,phoenix,1.43,273.0,18.0,7.0,6.0,81.0,180.0,34.0,1.0,1.0,3,True
+670473,267827,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Split,1,LEVIATÁN,Team Heretics,13,3,Neon,29243,omen,1.35,186.0,11.0,4.0,7.0,94.0,114.0,57.0,3.0,0.0,3,True
+670473,267827,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Split,1,LEVIATÁN,Team Heretics,13,3,kiNgg,8549,viper,1.18,224.0,12.0,7.0,6.0,81.0,150.0,19.0,2.0,2.0,3,True
+670473,267827,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Split,1,Team Heretics,LEVIATÁN,3,13,benjyfishy,29873,vyse,1.07,225.0,11.0,13.0,2.0,50.0,158.0,27.0,0.0,1.0,3,True
+670473,267827,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Split,1,Team Heretics,LEVIATÁN,3,13,koshmaras,23365,neon,0.46,117.0,5.0,15.0,3.0,38.0,74.0,14.0,3.0,4.0,3,True
+670473,267827,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Split,1,Team Heretics,LEVIATÁN,3,13,RieNs,10971,fade,0.45,106.0,5.0,15.0,3.0,50.0,68.0,35.0,0.0,1.0,3,True
+670473,267827,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Split,1,Team Heretics,LEVIATÁN,3,13,Boo,1144,astra,0.44,73.0,3.0,13.0,3.0,38.0,52.0,13.0,0.0,2.0,3,True
+670473,267827,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Split,1,Team Heretics,LEVIATÁN,3,13,Wo0t,21328,raze,0.27,92.0,4.0,15.0,0.0,31.0,76.0,26.0,2.0,3.0,3,True
+670473,267828,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,LEVIATÁN,Team Heretics,11,13,Neon,29243,jett,1.27,276.0,23.0,18.0,3.0,63.0,170.0,37.0,5.0,4.0,3,True
+670473,267828,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,LEVIATÁN,Team Heretics,11,13,Sato,21659,raze,1.01,220.0,19.0,19.0,3.0,71.0,146.0,22.0,6.0,2.0,3,True
+670473,267828,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,LEVIATÁN,Team Heretics,11,13,spike,21661,omen,0.97,192.0,16.0,17.0,9.0,58.0,116.0,21.0,1.0,2.0,3,True
+670473,267828,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,LEVIATÁN,Team Heretics,11,13,blowz,21251,skye,0.75,131.0,10.0,17.0,11.0,75.0,94.0,38.0,0.0,2.0,3,True
+670473,267828,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,LEVIATÁN,Team Heretics,11,13,kiNgg,8549,vyse,0.71,114.0,9.0,17.0,5.0,75.0,82.0,25.0,1.0,1.0,3,True
+670473,267828,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,Team Heretics,LEVIATÁN,13,11,koshmaras,23365,neon,1.25,234.0,20.0,14.0,2.0,79.0,163.0,24.0,5.0,4.0,3,True
+670473,267828,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,Team Heretics,LEVIATÁN,13,11,benjyfishy,29873,vyse,1.16,204.0,17.0,14.0,8.0,88.0,131.0,32.0,2.0,1.0,3,True
+670473,267828,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,Team Heretics,LEVIATÁN,13,11,RieNs,10971,fade,1.05,209.0,19.0,16.0,8.0,79.0,128.0,40.0,2.0,0.0,3,True
+670473,267828,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,Team Heretics,LEVIATÁN,13,11,Boo,1144,omen,0.97,177.0,15.0,16.0,13.0,79.0,113.0,30.0,1.0,3.0,3,True
+670473,267828,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,Team Heretics,LEVIATÁN,13,11,Wo0t,21328,raze,0.89,200.0,17.0,17.0,4.0,63.0,140.0,26.0,1.0,5.0,3,True
+670473,273204,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,3,LEVIATÁN,Team Heretics,13,6,Sato,21659,phoenix,1.7,326.0,23.0,10.0,6.0,79.0,204.0,22.0,4.0,2.0,3,True
+670473,273204,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,3,LEVIATÁN,Team Heretics,13,6,Neon,29243,chamber,1.48,240.0,16.0,8.0,7.0,74.0,157.0,9.0,3.0,2.0,3,True
+670473,273204,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,3,LEVIATÁN,Team Heretics,13,6,blowz,21251,sova,1.04,191.0,13.0,10.0,7.0,74.0,100.0,23.0,2.0,1.0,3,True
+670473,273204,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,3,LEVIATÁN,Team Heretics,13,6,kiNgg,8549,omen,1.03,160.0,12.0,10.0,9.0,79.0,93.0,26.0,1.0,0.0,3,True
+670473,273204,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,3,LEVIATÁN,Team Heretics,13,6,spike,21661,neon,0.88,199.0,14.0,13.0,4.0,74.0,133.0,17.0,2.0,2.0,3,True
+670473,273204,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,3,Team Heretics,LEVIATÁN,6,13,RieNs,10971,sova,1.19,244.0,15.0,15.0,3.0,68.0,158.0,34.0,2.0,2.0,3,True
+670473,273204,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,3,Team Heretics,LEVIATÁN,6,13,benjyfishy,29873,cypher,0.9,164.0,11.0,14.0,3.0,68.0,107.0,50.0,0.0,1.0,3,True
+670473,273204,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,3,Team Heretics,LEVIATÁN,6,13,koshmaras,23365,neon,0.82,210.0,12.0,17.0,5.0,63.0,143.0,20.0,4.0,3.0,3,True
+670473,273204,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,3,Team Heretics,LEVIATÁN,6,13,Wo0t,21328,jett,0.48,115.0,6.0,16.0,5.0,58.0,81.0,15.0,1.0,3.0,3,True
+670473,273204,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,3,Team Heretics,LEVIATÁN,6,13,Boo,1144,omen,0.43,95.0,7.0,16.0,7.0,63.0,50.0,15.0,0.0,3.0,3,True
+670472,267824,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,1,G2 Esports,FUT Esports,6,13,trent,15500,sova,1.19,228.0,14.0,14.0,6.0,79.0,148.0,21.0,1.0,0.0,3,True
+670472,267824,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,1,G2 Esports,FUT Esports,6,13,BABYBAY,2170,vyse,1.05,244.0,16.0,13.0,6.0,84.0,144.0,18.0,3.0,2.0,3,True
+670472,267824,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,1,G2 Esports,FUT Esports,6,13,leaf,7873,phoenix,0.95,234.0,14.0,17.0,8.0,79.0,155.0,38.0,2.0,1.0,3,True
+670472,267824,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,1,G2 Esports,FUT Esports,6,13,valyn,3885,omen,0.66,142.0,10.0,15.0,4.0,58.0,101.0,35.0,2.0,4.0,3,True
+670472,267824,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,1,G2 Esports,FUT Esports,6,13,jawgemo,3993,waylay,0.6,136.0,10.0,16.0,2.0,47.0,83.0,35.0,3.0,1.0,3,True
+670472,267824,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,1,FUT Esports,G2 Esports,13,6,yetujey,8369,cypher,1.56,332.0,24.0,14.0,4.0,79.0,221.0,30.0,2.0,1.0,3,True
+670472,267824,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,1,FUT Esports,G2 Esports,13,6,sociablEE,5568,omen,1.36,250.0,18.0,11.0,6.0,84.0,153.0,33.0,3.0,2.0,3,True
+670472,267824,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,1,FUT Esports,G2 Esports,13,6,KROSTALY,15735,sova,1.1,210.0,14.0,10.0,4.0,63.0,125.0,14.0,1.0,1.0,3,True
+670472,267824,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,1,FUT Esports,G2 Esports,13,6,xeus,12793,sage,0.7,151.0,10.0,15.0,5.0,63.0,101.0,31.0,1.0,2.0,3,True
+670472,267824,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Ascent,1,FUT Esports,G2 Esports,13,6,s0pp,39357,jett,0.63,146.0,9.0,14.0,6.0,63.0,116.0,20.0,1.0,5.0,3,True
+670472,267825,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,G2 Esports,FUT Esports,13,15,jawgemo,3993,raze,1.21,241.0,23.0,19.0,8.0,75.0,157.0,23.0,4.0,3.0,3,True
+670472,267825,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,G2 Esports,FUT Esports,13,15,leaf,7873,viper,1.08,206.0,20.0,19.0,5.0,64.0,135.0,20.0,4.0,6.0,3,True
+670472,267825,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,G2 Esports,FUT Esports,13,15,valyn,3885,omen,1.06,219.0,21.0,21.0,10.0,82.0,153.0,26.0,3.0,2.0,3,True
+670472,267825,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,G2 Esports,FUT Esports,13,15,trent,15500,fade,0.98,194.0,18.0,20.0,18.0,79.0,128.0,33.0,0.0,0.0,3,True
+670472,267825,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,G2 Esports,FUT Esports,13,15,BABYBAY,2170,vyse,0.57,170.0,15.0,23.0,9.0,82.0,119.0,18.0,2.0,4.0,3,True
+670472,267825,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,FUT Esports,G2 Esports,15,13,xeus,12793,raze,1.29,270.0,24.0,20.0,9.0,68.0,194.0,35.0,3.0,5.0,3,True
+670472,267825,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,FUT Esports,G2 Esports,15,13,s0pp,39357,neon,1.28,254.0,27.0,21.0,5.0,71.0,151.0,29.0,5.0,3.0,3,True
+670472,267825,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,FUT Esports,G2 Esports,15,13,sociablEE,5568,omen,1.13,201.0,19.0,17.0,15.0,71.0,124.0,28.0,3.0,4.0,3,True
+670472,267825,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,FUT Esports,G2 Esports,15,13,KROSTALY,15735,fade,0.86,179.0,19.0,21.0,9.0,64.0,117.0,28.0,4.0,0.0,3,True
+670472,267825,2765,Valorant Masters London 2026,Playoffs: Lower Round 1,2026-06-14,Lotus,2,FUT Esports,G2 Esports,15,13,yetujey,8369,vyse,0.82,133.0,13.0,18.0,7.0,75.0,105.0,29.0,0.0,1.0,3,True
+670468,267810,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Lotus,1,Xi Lai Gaming,EDward Gaming,10,13,happywei,37927,cypher,1.25,261.0,20.0,16.0,4.0,78.0,163.0,45.0,2.0,1.0,3,True
+670468,267810,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Lotus,1,Xi Lai Gaming,EDward Gaming,10,13,Rarga,22047,sage,1.05,199.0,17.0,14.0,3.0,70.0,108.0,26.0,4.0,6.0,3,True
+670468,267810,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Lotus,1,Xi Lai Gaming,EDward Gaming,10,13,Lysoar,37489,omen,0.91,155.0,12.0,15.0,11.0,78.0,103.0,18.0,0.0,2.0,3,True
+670468,267810,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Lotus,1,Xi Lai Gaming,EDward Gaming,10,13,WsLeo,24308,fade,0.88,197.0,14.0,18.0,7.0,61.0,134.0,30.0,0.0,3.0,3,True
+670468,267810,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Lotus,1,Xi Lai Gaming,EDward Gaming,10,13,NoMan,11527,deadlock,0.59,133.0,10.0,18.0,8.0,74.0,84.0,43.0,2.0,3.0,3,True
+670468,267810,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Lotus,1,EDward Gaming,Xi Lai Gaming,13,10,CHICHOO,15559,omen,1.29,198.0,15.0,12.0,15.0,87.0,119.0,36.0,0.0,0.0,3,True
+670468,267810,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Lotus,1,EDward Gaming,Xi Lai Gaming,13,10,Jieni7,51244,vyse,1.26,283.0,23.0,16.0,5.0,70.0,179.0,29.0,3.0,1.0,3,True
+670468,267810,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Lotus,1,EDward Gaming,Xi Lai Gaming,13,10,Smoggy,4742,raze,1.05,185.0,17.0,13.0,0.0,70.0,132.0,39.0,4.0,2.0,3,True
+670468,267810,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Lotus,1,EDward Gaming,Xi Lai Gaming,13,10,ZmjjKK,3520,jett,0.95,220.0,16.0,16.0,4.0,70.0,139.0,19.0,7.0,3.0,3,True
+670468,267810,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Lotus,1,EDward Gaming,Xi Lai Gaming,13,10,nobody,3017,skye,0.77,117.0,10.0,16.0,14.0,74.0,67.0,50.0,1.0,2.0,3,True
+670468,267811,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,2,Xi Lai Gaming,EDward Gaming,13,10,Rarga,22047,phoenix,1.28,239.0,19.0,13.0,2.0,78.0,170.0,22.0,2.0,3.0,3,True
+670468,267811,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,2,Xi Lai Gaming,EDward Gaming,13,10,happywei,37927,viper,1.17,191.0,17.0,13.0,5.0,70.0,125.0,28.0,2.0,2.0,3,True
+670468,267811,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,2,Xi Lai Gaming,EDward Gaming,13,10,NoMan,11527,jett,1.05,224.0,18.0,16.0,2.0,74.0,130.0,22.0,6.0,1.0,3,True
+670468,267811,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,2,Xi Lai Gaming,EDward Gaming,13,10,WsLeo,24308,sova,1.02,177.0,14.0,13.0,5.0,74.0,116.0,16.0,1.0,0.0,3,True
+670468,267811,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,2,Xi Lai Gaming,EDward Gaming,13,10,Lysoar,37489,omen,0.57,128.0,9.0,17.0,9.0,65.0,79.0,21.0,2.0,4.0,3,True
+670468,267811,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,2,EDward Gaming,Xi Lai Gaming,10,13,CHICHOO,15559,viper,1.24,241.0,19.0,14.0,4.0,78.0,163.0,20.0,4.0,2.0,3,True
+670468,267811,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,2,EDward Gaming,Xi Lai Gaming,10,13,nobody,3017,sova,1.18,252.0,18.0,15.0,5.0,70.0,181.0,27.0,3.0,0.0,3,True
+670468,267811,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,2,EDward Gaming,Xi Lai Gaming,10,13,Jieni7,51244,kayo,1.11,189.0,16.0,15.0,7.0,65.0,132.0,27.0,0.0,1.0,3,True
+670468,267811,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,2,EDward Gaming,Xi Lai Gaming,10,13,ZmjjKK,3520,jett,0.66,151.0,11.0,17.0,4.0,57.0,108.0,23.0,3.0,8.0,3,True
+670468,267811,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,2,EDward Gaming,Xi Lai Gaming,10,13,Smoggy,4742,harbor,0.66,110.0,8.0,16.0,12.0,65.0,62.0,20.0,0.0,2.0,3,True
+670468,267812,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,3,Xi Lai Gaming,EDward Gaming,3,13,happywei,37927,viper,0.81,186.0,8.0,13.0,6.0,56.0,138.0,21.0,4.0,2.0,3,True
+670468,267812,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,3,Xi Lai Gaming,EDward Gaming,3,13,Lysoar,37489,omen,0.79,153.0,8.0,12.0,4.0,75.0,92.0,31.0,0.0,0.0,3,True
+670468,267812,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,3,Xi Lai Gaming,EDward Gaming,3,13,NoMan,11527,raze,0.72,141.0,8.0,10.0,2.0,81.0,90.0,21.0,0.0,2.0,3,True
+670468,267812,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,3,Xi Lai Gaming,EDward Gaming,3,13,Rarga,22047,waylay,0.54,122.0,6.0,12.0,1.0,50.0,97.0,22.0,1.0,3.0,3,True
+670468,267812,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,3,Xi Lai Gaming,EDward Gaming,3,13,WsLeo,24308,skye,0.4,79.0,4.0,12.0,3.0,44.0,42.0,22.0,0.0,4.0,3,True
+670468,267812,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,3,EDward Gaming,Xi Lai Gaming,13,3,ZmjjKK,3520,jett,1.82,285.0,18.0,6.0,2.0,94.0,196.0,30.0,5.0,2.0,3,True
+670468,267812,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,3,EDward Gaming,Xi Lai Gaming,13,3,Smoggy,4742,raze,1.39,235.0,13.0,7.0,3.0,81.0,153.0,29.0,2.0,2.0,3,True
+670468,267812,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,3,EDward Gaming,Xi Lai Gaming,13,3,Jieni7,51244,omen,1.3,195.0,11.0,6.0,7.0,81.0,130.0,35.0,1.0,1.0,3,True
+670468,267812,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,3,EDward Gaming,Xi Lai Gaming,13,3,nobody,3017,skye,1.12,157.0,8.0,7.0,9.0,88.0,92.0,22.0,2.0,0.0,3,True
+670468,267812,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,3,EDward Gaming,Xi Lai Gaming,13,3,CHICHOO,15559,viper,1.02,139.0,9.0,8.0,1.0,69.0,102.0,26.0,1.0,0.0,3,True
+670469,267813,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,1,Paper Rex,Team Vitality,13,3,d4v41,9803,viper,1.91,312.0,21.0,8.0,2.0,81.0,207.0,42.0,3.0,0.0,3,True
+670469,267813,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,1,Paper Rex,Team Vitality,13,3,invy,8504,sova,1.56,272.0,16.0,8.0,5.0,88.0,183.0,50.0,2.0,0.0,3,True
+670469,267813,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,1,Paper Rex,Team Vitality,13,3,something,17086,jett,1.34,223.0,15.0,9.0,4.0,94.0,153.0,25.0,2.0,1.0,3,True
+670469,267813,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,1,Paper Rex,Team Vitality,13,3,f0rsakeN,9801,neon,0.97,199.0,9.0,12.0,8.0,88.0,155.0,28.0,2.0,2.0,3,True
+670469,267813,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,1,Paper Rex,Team Vitality,13,3,Jinggg,7378,omen,0.76,176.0,12.0,11.0,4.0,81.0,123.0,37.0,2.0,2.0,3,True
+670469,267813,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,1,Team Vitality,Paper Rex,3,13,Derke,5022,jett,1.13,275.0,15.0,14.0,1.0,63.0,175.0,33.0,4.0,2.0,3,True
+670469,267813,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,1,Team Vitality,Paper Rex,3,13,Chronicle,458,viper,0.83,204.0,11.0,15.0,2.0,44.0,132.0,28.0,0.0,2.0,3,True
+670469,267813,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,1,Team Vitality,Paper Rex,3,13,PROFEK,5554,harbor,0.55,144.0,7.0,15.0,9.0,63.0,97.0,20.0,0.0,2.0,3,True
+670469,267813,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,1,Team Vitality,Paper Rex,3,13,Jamppi,9780,kayo,0.47,139.0,8.0,14.0,0.0,44.0,92.0,39.0,1.0,3.0,3,True
+670469,267813,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Breeze,1,Team Vitality,Paper Rex,3,13,Sayonara,33902,sova,0.43,122.0,7.0,15.0,2.0,63.0,86.0,40.0,0.0,2.0,3,True
+670469,267814,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,2,Paper Rex,Team Vitality,6,13,Jinggg,7378,raze,1.46,301.0,20.0,13.0,5.0,74.0,190.0,31.0,4.0,1.0,3,True
+670469,267814,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,2,Paper Rex,Team Vitality,6,13,f0rsakeN,9801,omen,0.82,189.0,12.0,16.0,5.0,63.0,124.0,34.0,1.0,3.0,3,True
+670469,267814,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,2,Paper Rex,Team Vitality,6,13,invy,8504,skye,0.67,134.0,8.0,14.0,12.0,58.0,77.0,16.0,0.0,2.0,3,True
+670469,267814,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,2,Paper Rex,Team Vitality,6,13,d4v41,9803,viper,0.6,158.0,10.0,17.0,2.0,63.0,124.0,26.0,0.0,1.0,3,True
+670469,267814,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,2,Paper Rex,Team Vitality,6,13,something,17086,jett,0.53,138.0,9.0,16.0,3.0,53.0,86.0,19.0,4.0,3.0,3,True
+670469,267814,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,2,Team Vitality,Paper Rex,13,6,Derke,5022,jett,1.49,290.0,21.0,13.0,2.0,79.0,203.0,28.0,4.0,4.0,3,True
+670469,267814,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,2,Team Vitality,Paper Rex,13,6,Chronicle,458,viper,1.31,220.0,14.0,9.0,5.0,84.0,148.0,33.0,2.0,1.0,3,True
+670469,267814,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,2,Team Vitality,Paper Rex,13,6,Sayonara,33902,raze,1.22,229.0,16.0,13.0,1.0,79.0,146.0,31.0,2.0,2.0,3,True
+670469,267814,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,2,Team Vitality,Paper Rex,13,6,PROFEK,5554,omen,1.0,160.0,12.0,10.0,4.0,63.0,107.0,25.0,1.0,1.0,3,True
+670469,267814,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Split,2,Team Vitality,Paper Rex,13,6,Jamppi,9780,skye,0.83,186.0,13.0,14.0,4.0,63.0,121.0,22.0,1.0,1.0,3,True
+670469,267815,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Fracture,3,Paper Rex,Team Vitality,13,6,something,17086,brimstone,1.51,257.0,18.0,9.0,10.0,84.0,190.0,38.0,2.0,2.0,3,True
+670469,267815,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Fracture,3,Paper Rex,Team Vitality,13,6,invy,8504,breach,1.49,197.0,14.0,7.0,8.0,89.0,148.0,47.0,0.0,0.0,3,True
+670469,267815,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Fracture,3,Paper Rex,Team Vitality,13,6,Jinggg,7378,raze,1.22,253.0,17.0,13.0,3.0,74.0,172.0,31.0,5.0,3.0,3,True
+670469,267815,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Fracture,3,Paper Rex,Team Vitality,13,6,d4v41,9803,killjoy,1.21,204.0,16.0,11.0,3.0,84.0,149.0,35.0,2.0,1.0,3,True
+670469,267815,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Fracture,3,Paper Rex,Team Vitality,13,6,f0rsakeN,9801,skye,1.05,225.0,14.0,14.0,10.0,84.0,154.0,20.0,2.0,2.0,3,True
+670469,267815,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Fracture,3,Team Vitality,Paper Rex,6,13,PROFEK,5554,brimstone,1.3,284.0,17.0,15.0,7.0,74.0,169.0,36.0,5.0,1.0,3,True
+670469,267815,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Fracture,3,Team Vitality,Paper Rex,6,13,Chronicle,458,cypher,0.78,149.0,11.0,14.0,2.0,58.0,100.0,29.0,0.0,3.0,3,True
+670469,267815,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Fracture,3,Team Vitality,Paper Rex,6,13,Jamppi,9780,fade,0.64,132.0,9.0,16.0,3.0,74.0,73.0,26.0,1.0,0.0,3,True
+670469,267815,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Fracture,3,Team Vitality,Paper Rex,6,13,Derke,5022,raze,0.59,166.0,10.0,17.0,2.0,58.0,131.0,28.0,0.0,3.0,3,True
+670469,267815,2765,Valorant Masters London 2026,Playoffs: Upper Semifinals,2026-06-15,Fracture,3,Team Vitality,Paper Rex,6,13,Sayonara,33902,phoenix,0.36,121.0,7.0,17.0,4.0,47.0,79.0,25.0,2.0,4.0,3,True
+670475,267833,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Haven,1,Xi Lai Gaming,LEVIATÁN,7,13,NoMan,11527,jett,1.02,180.0,14.0,14.0,2.0,75.0,122.0,24.0,2.0,2.0,3,True
+670475,267833,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Haven,1,Xi Lai Gaming,LEVIATÁN,7,13,WsLeo,24308,sova,0.88,181.0,12.0,15.0,7.0,80.0,115.0,25.0,2.0,3.0,3,True
+670475,267833,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Haven,1,Xi Lai Gaming,LEVIATÁN,7,13,Rarga,22047,phoenix,0.79,174.0,13.0,16.0,7.0,75.0,111.0,37.0,2.0,3.0,3,True
+670475,267833,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Haven,1,Xi Lai Gaming,LEVIATÁN,7,13,happywei,37927,cypher,0.72,165.0,11.0,16.0,4.0,55.0,113.0,36.0,1.0,3.0,3,True
+670475,267833,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Haven,1,Xi Lai Gaming,LEVIATÁN,7,13,Lysoar,37489,omen,0.57,116.0,6.0,17.0,13.0,75.0,80.0,24.0,0.0,2.0,3,True
+670475,267833,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Haven,1,LEVIATÁN,Xi Lai Gaming,13,7,spike,21661,neon,1.71,366.0,26.0,13.0,8.0,80.0,231.0,28.0,4.0,3.0,3,True
+670475,267833,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Haven,1,LEVIATÁN,Xi Lai Gaming,13,7,Sato,21659,phoenix,1.34,244.0,16.0,13.0,13.0,85.0,174.0,29.0,1.0,1.0,3,True
+670475,267833,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Haven,1,LEVIATÁN,Xi Lai Gaming,13,7,blowz,21251,sova,1.32,192.0,13.0,10.0,11.0,90.0,130.0,43.0,1.0,0.0,3,True
+670475,267833,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Haven,1,LEVIATÁN,Xi Lai Gaming,13,7,kiNgg,8549,astra,1.19,155.0,11.0,8.0,10.0,90.0,104.0,43.0,2.0,2.0,3,True
+670475,267833,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Haven,1,LEVIATÁN,Xi Lai Gaming,13,7,Neon,29243,chamber,0.87,161.0,12.0,12.0,4.0,70.0,114.0,23.0,5.0,1.0,3,True
+670475,267834,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,2,Xi Lai Gaming,LEVIATÁN,3,13,Rarga,22047,sage,1.01,217.0,11.0,13.0,1.0,69.0,128.0,35.0,2.0,4.0,3,True
+670475,267834,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,2,Xi Lai Gaming,LEVIATÁN,3,13,Lysoar,37489,omen,0.54,166.0,8.0,17.0,2.0,50.0,112.0,27.0,0.0,1.0,3,True
+670475,267834,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,2,Xi Lai Gaming,LEVIATÁN,3,13,WsLeo,24308,fade,0.42,140.0,8.0,16.0,1.0,44.0,82.0,50.0,1.0,2.0,3,True
+670475,267834,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,2,Xi Lai Gaming,LEVIATÁN,3,13,happywei,37927,cypher,0.36,110.0,5.0,15.0,2.0,44.0,76.0,14.0,3.0,1.0,3,True
+670475,267834,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,2,Xi Lai Gaming,LEVIATÁN,3,13,NoMan,11527,deadlock,0.28,64.0,3.0,14.0,2.0,44.0,56.0,20.0,0.0,2.0,3,True
+670475,267834,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,2,LEVIATÁN,Xi Lai Gaming,13,3,Neon,29243,jett,1.75,316.0,20.0,6.0,1.0,88.0,203.0,33.0,4.0,1.0,3,True
+670475,267834,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,2,LEVIATÁN,Xi Lai Gaming,13,3,spike,21661,omen,1.58,285.0,17.0,8.0,9.0,75.0,191.0,39.0,3.0,2.0,3,True
+670475,267834,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,2,LEVIATÁN,Xi Lai Gaming,13,3,blowz,21251,skye,1.4,169.0,11.0,4.0,9.0,94.0,132.0,40.0,0.0,1.0,3,True
+670475,267834,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,2,LEVIATÁN,Xi Lai Gaming,13,3,Sato,21659,raze,1.19,269.0,15.0,10.0,7.0,75.0,173.0,22.0,2.0,2.0,3,True
+670475,267834,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,2,LEVIATÁN,Xi Lai Gaming,13,3,kiNgg,8549,vyse,1.16,201.0,12.0,7.0,3.0,75.0,132.0,34.0,1.0,0.0,3,True
+670474,267830,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,1,Team Vitality,FUT Esports,13,7,Derke,5022,raze,1.58,316.0,20.0,11.0,12.0,100.0,243.0,14.0,2.0,1.0,3,True
+670474,267830,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,1,Team Vitality,FUT Esports,13,7,PROFEK,5554,omen,1.35,197.0,15.0,9.0,10.0,90.0,122.0,30.0,1.0,0.0,3,True
+670474,267830,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,1,Team Vitality,FUT Esports,13,7,Jamppi,9780,fade,1.25,224.0,19.0,13.0,3.0,85.0,136.0,24.0,2.0,2.0,3,True
+670474,267830,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,1,Team Vitality,FUT Esports,13,7,Chronicle,458,vyse,0.99,178.0,14.0,12.0,4.0,90.0,121.0,31.0,2.0,1.0,3,True
+670474,267830,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,1,Team Vitality,FUT Esports,13,7,Sayonara,33902,viper,0.96,200.0,16.0,13.0,2.0,80.0,121.0,37.0,6.0,3.0,3,True
+670474,267830,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,1,FUT Esports,Team Vitality,7,13,s0pp,39357,neon,0.99,187.0,14.0,15.0,1.0,60.0,132.0,44.0,1.0,3.0,3,True
+670474,267830,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,1,FUT Esports,Team Vitality,7,13,yetujey,8369,vyse,0.87,196.0,12.0,17.0,5.0,65.0,146.0,17.0,1.0,1.0,3,True
+670474,267830,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,1,FUT Esports,Team Vitality,7,13,KROSTALY,15735,fade,0.78,176.0,11.0,17.0,6.0,55.0,117.0,40.0,3.0,2.0,3,True
+670474,267830,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,1,FUT Esports,Team Vitality,7,13,xeus,12793,raze,0.65,179.0,13.0,18.0,0.0,55.0,108.0,35.0,1.0,3.0,3,True
+670474,267830,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Lotus,1,FUT Esports,Team Vitality,7,13,sociablEE,5568,omen,0.44,127.0,8.0,17.0,7.0,65.0,77.0,30.0,1.0,4.0,3,True
+670474,267831,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Ascent,2,Team Vitality,FUT Esports,13,2,Derke,5022,jett,1.9,319.0,20.0,6.0,3.0,80.0,179.0,28.0,3.0,2.0,3,True
+670474,267831,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Ascent,2,Team Vitality,FUT Esports,13,2,PROFEK,5554,omen,1.53,283.0,17.0,6.0,7.0,93.0,171.0,21.0,2.0,2.0,3,True
+670474,267831,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Ascent,2,Team Vitality,FUT Esports,13,2,Chronicle,458,vyse,1.42,302.0,16.0,10.0,11.0,93.0,214.0,19.0,2.0,0.0,3,True
+670474,267831,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Ascent,2,Team Vitality,FUT Esports,13,2,Sayonara,33902,phoenix,1.27,205.0,11.0,6.0,6.0,87.0,124.0,14.0,1.0,1.0,3,True
+670474,267831,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Ascent,2,Team Vitality,FUT Esports,13,2,Jamppi,9780,sova,0.88,163.0,7.0,8.0,8.0,87.0,115.0,17.0,1.0,1.0,3,True
+670474,267831,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Ascent,2,FUT Esports,Team Vitality,2,13,KROSTALY,15735,sova,0.96,251.0,13.0,14.0,2.0,73.0,177.0,42.0,2.0,2.0,3,True
+670474,267831,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Ascent,2,FUT Esports,Team Vitality,2,13,sociablEE,5568,omen,0.58,146.0,7.0,13.0,6.0,60.0,85.0,15.0,0.0,2.0,3,True
+670474,267831,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Ascent,2,FUT Esports,Team Vitality,2,13,yetujey,8369,cypher,0.5,129.0,5.0,14.0,1.0,40.0,99.0,45.0,0.0,1.0,3,True
+670474,267831,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Ascent,2,FUT Esports,Team Vitality,2,13,s0pp,39357,jett,0.47,153.0,7.0,16.0,0.0,47.0,96.0,44.0,4.0,3.0,3,True
+670474,267831,2765,Valorant Masters London 2026,Playoffs: Lower Round 2,2026-06-16,Ascent,2,FUT Esports,Team Vitality,2,13,xeus,12793,sage,0.3,108.0,4.0,15.0,5.0,60.0,72.0,45.0,0.0,1.0,3,True
+670470,267816,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Breeze,1,EDward Gaming,Paper Rex,15,13,CHICHOO,15559,viper,1.15,241.0,24.0,21.0,3.0,54.0,166.0,31.0,5.0,5.0,3,True
+670470,267816,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Breeze,1,EDward Gaming,Paper Rex,15,13,ZmjjKK,3520,jett,0.97,201.0,19.0,21.0,4.0,64.0,133.0,23.0,3.0,5.0,3,True
+670470,267816,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Breeze,1,EDward Gaming,Paper Rex,15,13,Jieni7,51244,kayo,0.87,188.0,17.0,23.0,12.0,61.0,130.0,24.0,1.0,2.0,3,True
+670470,267816,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Breeze,1,EDward Gaming,Paper Rex,15,13,nobody,3017,sova,0.75,146.0,15.0,20.0,3.0,50.0,96.0,50.0,1.0,2.0,3,True
+670470,267816,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Breeze,1,EDward Gaming,Paper Rex,15,13,Smoggy,4742,harbor,0.65,166.0,15.0,24.0,8.0,71.0,115.0,36.0,1.0,3.0,3,True
+670470,267816,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Breeze,1,Paper Rex,EDward Gaming,13,15,Jinggg,7378,omen,1.55,280.0,30.0,16.0,12.0,82.0,183.0,35.0,2.0,2.0,3,True
+670470,267816,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Breeze,1,Paper Rex,EDward Gaming,13,15,something,17086,jett,1.2,255.0,25.0,19.0,4.0,82.0,162.0,24.0,5.0,2.0,3,True
+670470,267816,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Breeze,1,Paper Rex,EDward Gaming,13,15,invy,8504,sova,1.04,179.0,19.0,17.0,6.0,79.0,134.0,28.0,1.0,0.0,3,True
+670470,267816,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Breeze,1,Paper Rex,EDward Gaming,13,15,d4v41,9803,viper,0.95,148.0,15.0,16.0,7.0,79.0,100.0,26.0,0.0,0.0,3,True
+670470,267816,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Breeze,1,Paper Rex,EDward Gaming,13,15,f0rsakeN,9801,neon,0.9,220.0,20.0,22.0,10.0,82.0,141.0,30.0,9.0,7.0,3,True
+670470,267817,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Fracture,2,EDward Gaming,Paper Rex,12,14,Smoggy,4742,phoenix,1.63,302.0,29.0,17.0,4.0,77.0,197.0,32.0,5.0,1.0,3,True
+670470,267817,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Fracture,2,EDward Gaming,Paper Rex,12,14,CHICHOO,15559,cypher,1.02,202.0,18.0,21.0,7.0,62.0,137.0,33.0,2.0,2.0,3,True
+670470,267817,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Fracture,2,EDward Gaming,Paper Rex,12,14,Jieni7,51244,brimstone,0.89,175.0,16.0,17.0,8.0,54.0,111.0,27.0,0.0,2.0,3,True
+670470,267817,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Fracture,2,EDward Gaming,Paper Rex,12,14,nobody,3017,fade,0.67,156.0,13.0,21.0,6.0,58.0,103.0,33.0,3.0,3.0,3,True
+670470,267817,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Fracture,2,EDward Gaming,Paper Rex,12,14,ZmjjKK,3520,neon,0.55,135.0,10.0,21.0,10.0,69.0,93.0,22.0,3.0,5.0,3,True
+670470,267817,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Fracture,2,Paper Rex,EDward Gaming,14,12,Jinggg,7378,raze,1.36,262.0,25.0,17.0,8.0,77.0,175.0,19.0,6.0,4.0,3,True
+670470,267817,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Fracture,2,Paper Rex,EDward Gaming,14,12,invy,8504,breach,1.09,200.0,19.0,16.0,8.0,81.0,138.0,26.0,1.0,1.0,3,True
+670470,267817,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Fracture,2,Paper Rex,EDward Gaming,14,12,d4v41,9803,killjoy,1.02,192.0,18.0,15.0,2.0,65.0,137.0,41.0,4.0,3.0,3,True
+670470,267817,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Fracture,2,Paper Rex,EDward Gaming,14,12,f0rsakeN,9801,skye,0.99,222.0,19.0,21.0,15.0,81.0,153.0,23.0,2.0,5.0,3,True
+670470,267817,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Fracture,2,Paper Rex,EDward Gaming,14,12,something,17086,brimstone,0.98,184.0,16.0,17.0,13.0,77.0,127.0,31.0,0.0,0.0,3,True
+670470,267818,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Split,3,EDward Gaming,Paper Rex,6,13,nobody,3017,skye,0.88,150.0,10.0,14.0,8.0,74.0,114.0,32.0,0.0,2.0,3,True
+670470,267818,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Split,3,EDward Gaming,Paper Rex,6,13,CHICHOO,15559,viper,0.82,178.0,11.0,15.0,3.0,58.0,124.0,24.0,0.0,2.0,3,True
+670470,267818,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Split,3,EDward Gaming,Paper Rex,6,13,Smoggy,4742,raze,0.8,208.0,12.0,16.0,3.0,58.0,144.0,19.0,4.0,1.0,3,True
+670470,267818,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Split,3,EDward Gaming,Paper Rex,6,13,Jieni7,51244,omen,0.73,184.0,13.0,16.0,2.0,42.0,122.0,29.0,1.0,3.0,3,True
+670470,267818,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Split,3,EDward Gaming,Paper Rex,6,13,ZmjjKK,3520,jett,0.6,175.0,10.0,18.0,3.0,47.0,119.0,18.0,3.0,3.0,3,True
+670470,267818,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Split,3,Paper Rex,EDward Gaming,13,6,invy,8504,skye,1.71,275.0,20.0,10.0,17.0,95.0,169.0,21.0,2.0,1.0,3,True
+670470,267818,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Split,3,Paper Rex,EDward Gaming,13,6,d4v41,9803,viper,1.48,240.0,16.0,9.0,5.0,79.0,170.0,27.0,1.0,1.0,3,True
+670470,267818,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Split,3,Paper Rex,EDward Gaming,13,6,something,17086,jett,1.34,244.0,17.0,9.0,4.0,89.0,147.0,18.0,1.0,1.0,3,True
+670470,267818,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Split,3,Paper Rex,EDward Gaming,13,6,f0rsakeN,9801,omen,1.04,202.0,13.0,13.0,11.0,84.0,118.0,29.0,4.0,3.0,3,True
+670470,267818,2765,Valorant Masters London 2026,Playoffs: Upper Final,2026-06-19,Split,3,Paper Rex,EDward Gaming,13,6,Jinggg,7378,raze,0.93,226.0,13.0,15.0,8.0,79.0,165.0,11.0,3.0,2.0,3,True
+670476,267836,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Lotus,1,Team Vitality,LEVIATÁN,4,13,Derke,5022,raze,1.19,224.0,12.0,13.0,4.0,65.0,156.0,18.0,2.0,4.0,3,True
+670476,267836,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Lotus,1,Team Vitality,LEVIATÁN,4,13,Sayonara,33902,viper,1.1,232.0,15.0,13.0,5.0,88.0,140.0,33.0,2.0,2.0,3,True
+670476,267836,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Lotus,1,Team Vitality,LEVIATÁN,4,13,Jamppi,9780,fade,0.59,132.0,8.0,14.0,3.0,59.0,75.0,24.0,0.0,1.0,3,True
+670476,267836,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Lotus,1,Team Vitality,LEVIATÁN,4,13,Chronicle,458,vyse,0.32,142.0,7.0,15.0,3.0,59.0,93.0,19.0,1.0,5.0,3,True
+670476,267836,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Lotus,1,Team Vitality,LEVIATÁN,4,13,PROFEK,5554,omen,0.27,101.0,6.0,16.0,7.0,59.0,59.0,10.0,0.0,0.0,3,True
+670476,267836,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Lotus,1,LEVIATÁN,Team Vitality,13,4,Neon,29243,jett,1.77,292.0,19.0,8.0,4.0,94.0,201.0,50.0,2.0,1.0,3,True
+670476,267836,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Lotus,1,LEVIATÁN,Team Vitality,13,4,blowz,21251,skye,1.49,272.0,18.0,10.0,6.0,82.0,156.0,27.0,2.0,2.0,3,True
+670476,267836,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Lotus,1,LEVIATÁN,Team Vitality,13,4,Sato,21659,raze,1.07,262.0,16.0,12.0,3.0,82.0,173.0,26.0,4.0,2.0,3,True
+670476,267836,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Lotus,1,LEVIATÁN,Team Vitality,13,4,spike,21661,omen,0.98,151.0,9.0,9.0,8.0,82.0,89.0,16.0,2.0,0.0,3,True
+670476,267836,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Lotus,1,LEVIATÁN,Team Vitality,13,4,kiNgg,8549,vyse,0.91,142.0,9.0,9.0,4.0,65.0,98.0,32.0,2.0,0.0,3,True
+670476,267837,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Split,2,Team Vitality,LEVIATÁN,4,13,Chronicle,458,viper,1.26,262.0,16.0,11.0,1.0,71.0,163.0,27.0,0.0,2.0,3,True
+670476,267837,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Split,2,Team Vitality,LEVIATÁN,4,13,Jamppi,9780,skye,0.64,131.0,7.0,14.0,2.0,53.0,80.0,36.0,1.0,2.0,3,True
+670476,267837,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Split,2,Team Vitality,LEVIATÁN,4,13,PROFEK,5554,omen,0.62,134.0,7.0,15.0,10.0,53.0,89.0,18.0,1.0,2.0,3,True
+670476,267837,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Split,2,Team Vitality,LEVIATÁN,4,13,Sayonara,33902,raze,0.54,171.0,8.0,15.0,2.0,35.0,127.0,34.0,1.0,5.0,3,True
+670476,267837,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Split,2,Team Vitality,LEVIATÁN,4,13,Derke,5022,jett,0.46,127.0,8.0,14.0,1.0,47.0,84.0,33.0,2.0,1.0,3,True
+670476,267837,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Split,2,LEVIATÁN,Team Vitality,13,4,Sato,21659,phoenix,1.64,285.0,18.0,7.0,4.0,88.0,186.0,27.0,3.0,1.0,3,True
+670476,267837,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Split,2,LEVIATÁN,Team Vitality,13,4,spike,21661,neon,1.63,309.0,21.0,9.0,4.0,82.0,197.0,16.0,2.0,2.0,3,True
+670476,267837,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Split,2,LEVIATÁN,Team Vitality,13,4,blowz,21251,fade,1.36,221.0,14.0,10.0,4.0,76.0,139.0,29.0,4.0,0.0,3,True
+670476,267837,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Split,2,LEVIATÁN,Team Vitality,13,4,kiNgg,8549,viper,0.93,163.0,9.0,11.0,5.0,82.0,113.0,29.0,2.0,1.0,3,True
+670476,267837,2765,Valorant Masters London 2026,Playoffs: Lower Round 3,2026-06-19,Split,2,LEVIATÁN,Team Vitality,13,4,Neon,29243,omen,0.79,118.0,7.0,9.0,6.0,82.0,68.0,17.0,1.0,1.0,3,True
+670477,267839,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Haven,1,EDward Gaming,LEVIATÁN,5,13,ZmjjKK,3520,neon,0.87,193.0,13.0,14.0,3.0,72.0,121.0,20.0,3.0,3.0,5,True
+670477,267839,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Haven,1,EDward Gaming,LEVIATÁN,5,13,Jieni7,51244,cypher,0.66,150.0,10.0,15.0,3.0,61.0,99.0,36.0,1.0,2.0,5,True
+670477,267839,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Haven,1,EDward Gaming,LEVIATÁN,5,13,Smoggy,4742,raze,0.59,187.0,11.0,16.0,2.0,67.0,134.0,27.0,3.0,1.0,5,True
+670477,267839,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Haven,1,EDward Gaming,LEVIATÁN,5,13,nobody,3017,skye,0.57,161.0,10.0,15.0,5.0,67.0,97.0,28.0,1.0,3.0,5,True
+670477,267839,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Haven,1,EDward Gaming,LEVIATÁN,5,13,CHICHOO,15559,omen,0.49,71.0,3.0,12.0,7.0,61.0,63.0,13.0,0.0,1.0,5,True
+670477,267839,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Haven,1,LEVIATÁN,EDward Gaming,13,5,kiNgg,8549,astra,1.46,177.0,12.0,5.0,11.0,78.0,113.0,41.0,2.0,2.0,5,True
+670477,267839,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Haven,1,LEVIATÁN,EDward Gaming,13,5,Sato,21659,phoenix,1.37,279.0,18.0,13.0,7.0,72.0,178.0,45.0,1.0,1.0,5,True
+670477,267839,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Haven,1,LEVIATÁN,EDward Gaming,13,5,Neon,29243,chamber,1.33,194.0,14.0,7.0,3.0,72.0,117.0,39.0,2.0,3.0,5,True
+670477,267839,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Haven,1,LEVIATÁN,EDward Gaming,13,5,spike,21661,neon,1.3,303.0,18.0,14.0,10.0,78.0,175.0,20.0,5.0,2.0,5,True
+670477,267839,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Haven,1,LEVIATÁN,EDward Gaming,13,5,blowz,21251,sova,1.21,158.0,10.0,8.0,9.0,89.0,109.0,12.0,0.0,0.0,5,True
+670477,267840,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Pearl,2,EDward Gaming,LEVIATÁN,9,13,nobody,3017,fade,1.16,251.0,20.0,17.0,6.0,73.0,157.0,45.0,3.0,2.0,5,True
+670477,267840,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Pearl,2,EDward Gaming,LEVIATÁN,9,13,ZmjjKK,3520,jett,0.98,246.0,19.0,18.0,6.0,68.0,157.0,18.0,3.0,4.0,5,True
+670477,267840,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Pearl,2,EDward Gaming,LEVIATÁN,9,13,Smoggy,4742,phoenix,0.89,194.0,13.0,18.0,9.0,73.0,136.0,27.0,1.0,5.0,5,True
+670477,267840,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Pearl,2,EDward Gaming,LEVIATÁN,9,13,CHICHOO,15559,astra,0.75,146.0,11.0,16.0,6.0,64.0,100.0,21.0,0.0,0.0,5,True
+670477,267840,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Pearl,2,EDward Gaming,LEVIATÁN,9,13,Jieni7,51244,vyse,0.54,112.0,10.0,18.0,3.0,45.0,76.0,30.0,1.0,3.0,5,True
+670477,267840,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Pearl,2,LEVIATÁN,EDward Gaming,13,9,Sato,21659,phoenix,1.66,315.0,26.0,14.0,9.0,86.0,204.0,32.0,2.0,0.0,5,True
+670477,267840,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Pearl,2,LEVIATÁN,EDward Gaming,13,9,kiNgg,8549,astra,1.17,180.0,15.0,11.0,5.0,68.0,127.0,28.0,1.0,0.0,5,True
+670477,267840,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Pearl,2,LEVIATÁN,EDward Gaming,13,9,Neon,29243,chamber,1.07,232.0,17.0,16.0,6.0,77.0,148.0,24.0,8.0,3.0,5,True
+670477,267840,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Pearl,2,LEVIATÁN,EDward Gaming,13,9,spike,21661,neon,1.04,236.0,17.0,18.0,10.0,77.0,166.0,23.0,3.0,3.0,5,True
+670477,267840,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Pearl,2,LEVIATÁN,EDward Gaming,13,9,blowz,21251,sova,0.96,172.0,12.0,14.0,6.0,68.0,128.0,30.0,0.0,2.0,5,True
+670477,267841,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Split,3,EDward Gaming,LEVIATÁN,11,13,nobody,3017,skye,1.03,200.0,16.0,18.0,7.0,79.0,126.0,29.0,3.0,3.0,5,True
+670477,267841,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Split,3,EDward Gaming,LEVIATÁN,11,13,CHICHOO,15559,viper,0.99,197.0,15.0,18.0,11.0,75.0,148.0,24.0,1.0,2.0,5,True
+670477,267841,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Split,3,EDward Gaming,LEVIATÁN,11,13,ZmjjKK,3520,jett,0.9,194.0,17.0,18.0,2.0,67.0,119.0,26.0,1.0,3.0,5,True
+670477,267841,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Split,3,EDward Gaming,LEVIATÁN,11,13,Jieni7,51244,omen,0.84,155.0,14.0,17.0,12.0,83.0,97.0,25.0,1.0,3.0,5,True
+670477,267841,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Split,3,EDward Gaming,LEVIATÁN,11,13,Smoggy,4742,raze,0.65,186.0,14.0,21.0,6.0,58.0,125.0,19.0,4.0,3.0,5,True
+670477,267841,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Split,3,LEVIATÁN,EDward Gaming,13,11,kiNgg,8549,viper,1.64,299.0,24.0,11.0,10.0,96.0,200.0,21.0,2.0,1.0,5,True
+670477,267841,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Split,3,LEVIATÁN,EDward Gaming,13,11,Neon,29243,omen,1.36,258.0,22.0,14.0,6.0,79.0,170.0,34.0,5.0,3.0,5,True
+670477,267841,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Split,3,LEVIATÁN,EDward Gaming,13,11,spike,21661,neon,1.2,266.0,22.0,17.0,7.0,79.0,171.0,21.0,5.0,3.0,5,True
+670477,267841,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Split,3,LEVIATÁN,EDward Gaming,13,11,blowz,21251,fade,1.07,166.0,15.0,15.0,9.0,88.0,103.0,44.0,1.0,0.0,5,True
+670477,267841,2765,Valorant Masters London 2026,Playoffs: Lower Final,2026-06-20,Split,3,LEVIATÁN,EDward Gaming,13,11,Sato,21659,phoenix,0.44,114.0,9.0,19.0,8.0,88.0,77.0,27.0,1.0,3.0,5,True
+670471,267819,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Fracture,1,Paper Rex,LEVIATÁN,13,2,Jinggg,7378,raze,1.85,343.0,19.0,9.0,5.0,93.0,225.0,20.0,1.0,0.0,5,True
+670471,267819,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Fracture,1,Paper Rex,LEVIATÁN,13,2,something,17086,brimstone,1.65,251.0,15.0,6.0,6.0,87.0,138.0,17.0,2.0,1.0,5,True
+670471,267819,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Fracture,1,Paper Rex,LEVIATÁN,13,2,f0rsakeN,9801,skye,1.33,251.0,15.0,9.0,4.0,80.0,178.0,24.0,3.0,3.0,5,True
+670471,267819,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Fracture,1,Paper Rex,LEVIATÁN,13,2,invy,8504,breach,1.23,169.0,9.0,7.0,16.0,93.0,109.0,50.0,1.0,0.0,5,True
+670471,267819,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Fracture,1,Paper Rex,LEVIATÁN,13,2,d4v41,9803,killjoy,1.0,196.0,10.0,9.0,3.0,87.0,150.0,31.0,4.0,0.0,5,True
+670471,267819,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Fracture,1,LEVIATÁN,Paper Rex,2,13,Neon,29243,brimstone,0.88,186.0,9.0,13.0,7.0,80.0,110.0,28.0,1.0,3.0,5,True
+670471,267819,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Fracture,1,LEVIATÁN,Paper Rex,2,13,kiNgg,8549,breach,0.86,235.0,13.0,14.0,0.0,67.0,132.0,34.0,1.0,0.0,5,True
+670471,267819,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Fracture,1,LEVIATÁN,Paper Rex,2,13,Sato,21659,waylay,0.48,141.0,5.0,15.0,7.0,60.0,107.0,21.0,0.0,1.0,5,True
+670471,267819,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Fracture,1,LEVIATÁN,Paper Rex,2,13,blowz,21251,tejo,0.45,133.0,7.0,13.0,1.0,53.0,94.0,35.0,0.0,3.0,5,True
+670471,267819,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Fracture,1,LEVIATÁN,Paper Rex,2,13,spike,21661,neon,0.44,117.0,6.0,13.0,1.0,53.0,80.0,17.0,2.0,4.0,5,True
+670471,267820,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Split,2,Paper Rex,LEVIATÁN,6,13,something,17086,jett,1.21,251.0,16.0,14.0,2.0,68.0,156.0,32.0,5.0,2.0,5,True
+670471,267820,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Split,2,Paper Rex,LEVIATÁN,6,13,invy,8504,skye,1.06,179.0,12.0,13.0,3.0,63.0,124.0,43.0,1.0,0.0,5,True
+670471,267820,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Split,2,Paper Rex,LEVIATÁN,6,13,Jinggg,7378,raze,0.61,166.0,11.0,17.0,1.0,68.0,110.0,19.0,1.0,2.0,5,True
+670471,267820,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Split,2,Paper Rex,LEVIATÁN,6,13,f0rsakeN,9801,omen,0.58,175.0,10.0,17.0,5.0,53.0,125.0,20.0,2.0,1.0,5,True
+670471,267820,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Split,2,Paper Rex,LEVIATÁN,6,13,d4v41,9803,viper,0.5,104.0,6.0,15.0,5.0,58.0,81.0,27.0,2.0,3.0,5,True
+670471,267820,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Split,2,LEVIATÁN,Paper Rex,13,6,Sato,21659,phoenix,1.58,345.0,23.0,12.0,9.0,89.0,205.0,43.0,1.0,3.0,5,True
+670471,267820,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Split,2,LEVIATÁN,Paper Rex,13,6,Neon,29243,omen,1.42,205.0,16.0,7.0,5.0,89.0,141.0,23.0,1.0,0.0,5,True
+670471,267820,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Split,2,LEVIATÁN,Paper Rex,13,6,blowz,21251,fade,1.18,191.0,14.0,10.0,6.0,84.0,131.0,35.0,1.0,2.0,5,True
+670471,267820,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Split,2,LEVIATÁN,Paper Rex,13,6,spike,21661,neon,0.95,212.0,14.0,14.0,3.0,79.0,123.0,12.0,5.0,4.0,5,True
+670471,267820,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Split,2,LEVIATÁN,Paper Rex,13,6,kiNgg,8549,viper,0.74,127.0,9.0,12.0,4.0,63.0,84.0,30.0,0.0,2.0,5,True
+670471,267821,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Breeze,3,Paper Rex,LEVIATÁN,13,11,invy,8504,sova,1.36,244.0,22.0,14.0,3.0,79.0,159.0,38.0,0.0,0.0,5,True
+670471,267821,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Breeze,3,Paper Rex,LEVIATÁN,13,11,something,17086,jett,1.16,251.0,22.0,17.0,2.0,71.0,153.0,19.0,2.0,2.0,5,True
+670471,267821,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Breeze,3,Paper Rex,LEVIATÁN,13,11,d4v41,9803,viper,0.91,163.0,14.0,15.0,5.0,75.0,113.0,27.0,4.0,2.0,5,True
+670471,267821,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Breeze,3,Paper Rex,LEVIATÁN,13,11,Jinggg,7378,omen,0.87,154.0,13.0,15.0,9.0,58.0,109.0,23.0,1.0,2.0,5,True
+670471,267821,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Breeze,3,Paper Rex,LEVIATÁN,13,11,f0rsakeN,9801,neon,0.6,139.0,10.0,18.0,8.0,54.0,91.0,12.0,3.0,8.0,5,True
+670471,267821,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Breeze,3,LEVIATÁN,Paper Rex,11,13,blowz,21251,sova,1.35,256.0,22.0,15.0,5.0,75.0,182.0,47.0,3.0,0.0,5,True
+670471,267821,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Breeze,3,LEVIATÁN,Paper Rex,11,13,Neon,29243,jett,1.14,250.0,20.0,18.0,4.0,67.0,156.0,32.0,6.0,5.0,5,True
+670471,267821,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Breeze,3,LEVIATÁN,Paper Rex,11,13,spike,21661,neon,1.05,200.0,16.0,16.0,4.0,71.0,152.0,31.0,4.0,4.0,5,True
+670471,267821,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Breeze,3,LEVIATÁN,Paper Rex,11,13,Sato,21659,omen,0.97,188.0,16.0,15.0,4.0,67.0,130.0,33.0,1.0,1.0,5,True
+670471,267821,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Breeze,3,LEVIATÁN,Paper Rex,11,13,kiNgg,8549,harbor,0.44,68.0,5.0,18.0,8.0,58.0,51.0,35.0,0.0,0.0,5,True
+670471,267822,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Ascent,4,Paper Rex,LEVIATÁN,10,13,Jinggg,7378,sage,1.26,213.0,16.0,14.0,10.0,78.0,150.0,40.0,1.0,3.0,5,True
+670471,267822,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Ascent,4,Paper Rex,LEVIATÁN,10,13,invy,8504,sova,1.24,226.0,18.0,16.0,8.0,74.0,168.0,16.0,0.0,2.0,5,True
+670471,267822,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Ascent,4,Paper Rex,LEVIATÁN,10,13,f0rsakeN,9801,omen,1.14,201.0,17.0,18.0,16.0,74.0,135.0,34.0,4.0,1.0,5,True
+670471,267822,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Ascent,4,Paper Rex,LEVIATÁN,10,13,something,17086,yoru,0.75,180.0,14.0,18.0,1.0,61.0,118.0,16.0,4.0,5.0,5,True
+670471,267822,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Ascent,4,Paper Rex,LEVIATÁN,10,13,d4v41,9803,vyse,0.64,149.0,13.0,18.0,7.0,61.0,93.0,22.0,2.0,1.0,5,True
+670471,267822,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Ascent,4,LEVIATÁN,Paper Rex,13,10,spike,21661,neon,1.39,278.0,23.0,15.0,3.0,65.0,173.0,29.0,5.0,5.0,5,True
+670471,267822,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Ascent,4,LEVIATÁN,Paper Rex,13,10,blowz,21251,sova,1.13,238.0,18.0,16.0,10.0,83.0,154.0,32.0,2.0,1.0,5,True
+670471,267822,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Ascent,4,LEVIATÁN,Paper Rex,13,10,Neon,29243,chamber,1.04,219.0,19.0,15.0,2.0,61.0,130.0,26.0,3.0,2.0,5,True
+670471,267822,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Ascent,4,LEVIATÁN,Paper Rex,13,10,kiNgg,8549,omen,0.88,144.0,11.0,15.0,15.0,87.0,106.0,27.0,0.0,0.0,5,True
+670471,267822,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Ascent,4,LEVIATÁN,Paper Rex,13,10,Sato,21659,phoenix,0.86,180.0,13.0,17.0,13.0,78.0,115.0,30.0,2.0,3.0,5,True
+670471,267823,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Lotus,5,Paper Rex,LEVIATÁN,5,13,invy,8504,skye,1.48,265.0,17.0,13.0,7.0,72.0,177.0,30.0,0.0,1.0,5,True
+670471,267823,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Lotus,5,Paper Rex,LEVIATÁN,5,13,something,17086,jett,1.05,233.0,13.0,15.0,3.0,67.0,149.0,34.0,7.0,3.0,5,True
+670471,267823,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Lotus,5,Paper Rex,LEVIATÁN,5,13,Jinggg,7378,raze,0.8,180.0,9.0,15.0,7.0,78.0,134.0,7.0,1.0,0.0,5,True
+670471,267823,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Lotus,5,Paper Rex,LEVIATÁN,5,13,d4v41,9803,vyse,0.63,116.0,7.0,13.0,2.0,56.0,92.0,29.0,1.0,0.0,5,True
+670471,267823,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Lotus,5,Paper Rex,LEVIATÁN,5,13,f0rsakeN,9801,omen,0.48,122.0,7.0,15.0,9.0,72.0,84.0,33.0,2.0,3.0,5,True
+670471,267823,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Lotus,5,LEVIATÁN,Paper Rex,13,5,blowz,21251,skye,1.51,231.0,14.0,9.0,12.0,94.0,151.0,44.0,0.0,1.0,5,True
+670471,267823,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Lotus,5,LEVIATÁN,Paper Rex,13,5,spike,21661,omen,1.38,260.0,17.0,10.0,9.0,94.0,159.0,31.0,3.0,1.0,5,True
+670471,267823,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Lotus,5,LEVIATÁN,Paper Rex,13,5,Neon,29243,jett,1.18,243.0,15.0,11.0,6.0,72.0,166.0,10.0,4.0,4.0,5,True
+670471,267823,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Lotus,5,LEVIATÁN,Paper Rex,13,5,kiNgg,8549,vyse,0.89,146.0,11.0,9.0,1.0,78.0,96.0,22.0,0.0,1.0,5,True
+670471,267823,2765,Valorant Masters London 2026,Playoffs: Grand Final,2026-06-21,Lotus,5,LEVIATÁN,Paper Rex,13,5,Sato,21659,raze,0.68,217.0,14.0,14.0,1.0,56.0,149.0,34.0,0.0,4.0,5,True

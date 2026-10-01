@@ -1,0 +1,601 @@
+match_id,game_id,event_id,event,stage,date,map,map_order,team,opp,team_rounds,opp_rounds,player,player_id,agent,rating,acs,k,d,a,kast,adr,hs,fk,fd,best_of,completed
+490309,217256,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Pearl,1,Team Heretics,Paper Rex,1,13,RieNs,10971,fade,0.54,177.0,8.0,12.0,1.0,50.0,105.0,41.0,1.0,2.0,3,True
+490309,217256,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Pearl,1,Team Heretics,Paper Rex,1,13,benjyfishy,29873,killjoy,0.53,141.0,6.0,13.0,2.0,64.0,100.0,28.0,2.0,1.0,3,True
+490309,217256,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Pearl,1,Team Heretics,Paper Rex,1,13,Boo,1144,astra,0.45,105.0,5.0,12.0,7.0,50.0,60.0,46.0,0.0,3.0,3,True
+490309,217256,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Pearl,1,Team Heretics,Paper Rex,1,13,Wo0t,21328,breach,0.41,135.0,6.0,12.0,6.0,57.0,76.0,46.0,1.0,2.0,3,True
+490309,217256,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Pearl,1,Team Heretics,Paper Rex,1,13,MiniBoo,18350,yoru,0.2,85.0,4.0,13.0,1.0,36.0,57.0,71.0,1.0,1.0,3,True
+490309,217256,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Pearl,1,Paper Rex,Team Heretics,13,1,f0rsakeN,9801,astra,2.27,324.0,18.0,3.0,8.0,93.0,187.0,47.0,2.0,0.0,3,True
+490309,217256,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Pearl,1,Paper Rex,Team Heretics,13,1,PatMen,13744,fade,1.43,187.0,10.0,4.0,6.0,93.0,125.0,43.0,0.0,1.0,3,True
+490309,217256,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Pearl,1,Paper Rex,Team Heretics,13,1,Jinggg,7378,raze,1.4,239.0,12.0,6.0,4.0,86.0,154.0,19.0,5.0,1.0,3,True
+490309,217256,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Pearl,1,Paper Rex,Team Heretics,13,1,something,17086,yoru,1.36,246.0,13.0,7.0,3.0,100.0,182.0,29.0,2.0,2.0,3,True
+490309,217256,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Pearl,1,Paper Rex,Team Heretics,13,1,d4v41,9803,vyse,1.02,172.0,9.0,9.0,3.0,86.0,131.0,27.0,0.0,1.0,3,True
+490309,217257,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,2,Team Heretics,Paper Rex,9,13,Wo0t,21328,gekko,1.27,222.0,17.0,15.0,7.0,68.0,136.0,52.0,1.0,2.0,3,True
+490309,217257,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,2,Team Heretics,Paper Rex,9,13,benjyfishy,29873,killjoy,1.2,233.0,18.0,16.0,1.0,59.0,150.0,39.0,5.0,2.0,3,True
+490309,217257,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,2,Team Heretics,Paper Rex,9,13,RieNs,10971,sova,0.76,174.0,12.0,18.0,5.0,59.0,114.0,29.0,1.0,3.0,3,True
+490309,217257,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,2,Team Heretics,Paper Rex,9,13,MiniBoo,18350,neon,0.57,152.0,12.0,18.0,3.0,55.0,98.0,38.0,1.0,5.0,3,True
+490309,217257,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,2,Team Heretics,Paper Rex,9,13,Boo,1144,viper,0.49,106.0,7.0,17.0,7.0,59.0,73.0,26.0,0.0,2.0,3,True
+490309,217257,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,2,Paper Rex,Team Heretics,13,9,Jinggg,7378,omen,1.48,262.0,20.0,13.0,16.0,95.0,152.0,27.0,5.0,0.0,3,True
+490309,217257,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,2,Paper Rex,Team Heretics,13,9,d4v41,9803,killjoy,1.26,202.0,18.0,12.0,1.0,77.0,159.0,30.0,0.0,0.0,3,True
+490309,217257,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,2,Paper Rex,Team Heretics,13,9,PatMen,13744,viper,1.08,239.0,20.0,14.0,3.0,73.0,150.0,27.0,2.0,4.0,3,True
+490309,217257,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,2,Paper Rex,Team Heretics,13,9,something,17086,jett,0.94,164.0,14.0,13.0,5.0,64.0,112.0,14.0,4.0,2.0,3,True
+490309,217257,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,2,Paper Rex,Team Heretics,13,9,f0rsakeN,9801,sova,0.87,161.0,12.0,14.0,7.0,77.0,112.0,25.0,3.0,2.0,3,True
+490307,217250,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,13,10,rushia,48878,harbor,1.49,263.0,22.0,15.0,10.0,83.0,173.0,38.0,3.0,1.0,3,True
+490307,217250,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,13,10,whzy,4885,jett,1.25,252.0,22.0,15.0,1.0,57.0,151.0,38.0,5.0,5.0,3,True
+490307,217250,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,13,10,Levius,40845,killjoy,1.21,219.0,17.0,15.0,4.0,83.0,162.0,23.0,2.0,2.0,3,True
+490307,217250,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,13,10,nephh,10698,viper,1.0,202.0,14.0,16.0,11.0,78.0,129.0,13.0,2.0,1.0,3,True
+490307,217250,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,13,10,Knight,4774,sova,0.76,106.0,7.0,11.0,4.0,70.0,82.0,19.0,1.0,1.0,3,True
+490307,217250,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,1,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),10,13,keiko,11494,harbor,1.07,197.0,18.0,13.0,3.0,74.0,140.0,56.0,2.0,2.0,3,True
+490307,217250,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,1,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),10,13,paTiTek,309,kayo,0.91,198.0,16.0,17.0,4.0,61.0,112.0,16.0,2.0,2.0,3,True
+490307,217250,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,1,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),10,13,kamo,14681,clove,0.88,214.0,17.0,19.0,8.0,78.0,152.0,40.0,3.0,5.0,3,True
+490307,217250,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,1,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),10,13,penny,7716,omen,0.66,142.0,10.0,16.0,7.0,65.0,94.0,14.0,2.0,3.0,3,True
+490307,217250,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Icebox,1,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),10,13,Serial,18162,gekko,0.48,128.0,10.0,17.0,2.0,52.0,88.0,65.0,1.0,1.0,3,True
+490307,217251,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Haven,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,14,16,whzy,4885,neon,1.25,281.0,29.0,22.0,8.0,80.0,177.0,28.0,6.0,5.0,3,True
+490307,217251,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Haven,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,14,16,nephh,10698,breach,1.05,210.0,21.0,20.0,13.0,73.0,137.0,29.0,2.0,4.0,3,True
+490307,217251,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Haven,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,14,16,Knight,4774,sova,1.04,179.0,18.0,18.0,8.0,73.0,128.0,25.0,2.0,2.0,3,True
+490307,217251,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Haven,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,14,16,rushia,48878,omen,0.91,202.0,18.0,22.0,15.0,73.0,140.0,18.0,3.0,2.0,3,True
+490307,217251,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Haven,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,14,16,Levius,40845,cypher,0.64,162.0,19.0,23.0,5.0,67.0,112.0,44.0,0.0,4.0,3,True
+490307,217251,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Haven,2,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),16,14,penny,7716,phoenix,1.61,289.0,30.0,18.0,15.0,73.0,207.0,29.0,3.0,3.0,3,True
+490307,217251,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Haven,2,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),16,14,keiko,11494,omen,1.27,225.0,25.0,21.0,8.0,77.0,145.0,42.0,4.0,1.0,3,True
+490307,217251,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Haven,2,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),16,14,kamo,14681,neon,1.08,249.0,26.0,24.0,9.0,77.0,142.0,43.0,5.0,4.0,3,True
+490307,217251,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Haven,2,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),16,14,Serial,18162,killjoy,0.97,186.0,20.0,21.0,6.0,67.0,133.0,46.0,4.0,1.0,3,True
+490307,217251,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Haven,2,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),16,14,paTiTek,309,sova,0.37,68.0,4.0,21.0,5.0,63.0,54.0,19.0,1.0,4.0,3,True
+490307,217252,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Sunset,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,13,10,rushia,48878,omen,1.35,232.0,18.0,12.0,8.0,78.0,144.0,40.0,5.0,1.0,3,True
+490307,217252,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Sunset,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,13,10,Knight,4774,sova,1.28,199.0,17.0,13.0,7.0,78.0,138.0,35.0,2.0,0.0,3,True
+490307,217252,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Sunset,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,13,10,nephh,10698,kayo,1.1,197.0,15.0,14.0,15.0,83.0,134.0,21.0,1.0,1.0,3,True
+490307,217252,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Sunset,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,13,10,Levius,40845,cypher,1.03,155.0,14.0,12.0,6.0,78.0,110.0,14.0,2.0,2.0,3,True
+490307,217252,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Sunset,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Team Liquid,13,10,whzy,4885,neon,0.96,210.0,18.0,17.0,6.0,70.0,138.0,29.0,4.0,5.0,3,True
+490307,217252,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Sunset,3,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),10,13,paTiTek,309,sova,1.22,236.0,18.0,14.0,5.0,83.0,154.0,18.0,0.0,0.0,3,True
+490307,217252,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Sunset,3,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),10,13,Serial,18162,cypher,1.02,208.0,17.0,18.0,5.0,57.0,135.0,50.0,4.0,2.0,3,True
+490307,217252,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Sunset,3,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),10,13,kamo,14681,neon,0.73,158.0,12.0,17.0,5.0,43.0,118.0,27.0,2.0,5.0,3,True
+490307,217252,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Sunset,3,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),10,13,penny,7716,omen,0.65,117.0,9.0,17.0,4.0,74.0,81.0,26.0,2.0,2.0,3,True
+490307,217252,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-07,Sunset,3,Team Liquid,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),10,13,keiko,11494,iso,0.65,127.0,12.0,16.0,3.0,65.0,93.0,40.0,1.0,5.0,3,True
+490308,217253,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Split,1,Sentinels,Wolves Esports,13,11,N4RRATE,36245,breach,1.18,208.0,18.0,14.0,12.0,71.0,122.0,23.0,1.0,1.0,3,True
+490308,217253,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Split,1,Sentinels,Wolves Esports,13,11,johnqt,1265,skye,1.15,184.0,16.0,14.0,15.0,75.0,103.0,30.0,0.0,2.0,3,True
+490308,217253,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Split,1,Sentinels,Wolves Esports,13,11,bang,3880,omen,1.08,202.0,17.0,17.0,12.0,79.0,121.0,36.0,2.0,0.0,3,True
+490308,217253,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Split,1,Sentinels,Wolves Esports,13,11,zekken,4004,yoru,1.0,229.0,18.0,19.0,5.0,83.0,146.0,28.0,4.0,6.0,3,True
+490308,217253,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Split,1,Sentinels,Wolves Esports,13,11,Zellsis,729,viper,0.89,177.0,15.0,15.0,5.0,63.0,116.0,24.0,4.0,4.0,3,True
+490308,217253,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Split,1,Wolves Esports,Sentinels,11,13,SiuFatBB,7849,fade,1.25,204.0,17.0,13.0,8.0,79.0,132.0,30.0,1.0,1.0,3,True
+490308,217253,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Split,1,Wolves Esports,Sentinels,11,13,Juicy,7426,raze,1.14,262.0,22.0,19.0,3.0,75.0,175.0,26.0,7.0,3.0,3,True
+490308,217253,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Split,1,Wolves Esports,Sentinels,11,13,Spring,14125,viper,1.11,220.0,18.0,18.0,9.0,58.0,159.0,32.0,4.0,3.0,3,True
+490308,217253,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Split,1,Wolves Esports,Sentinels,11,13,Lysoar,37489,omen,0.73,125.0,9.0,15.0,12.0,75.0,96.0,21.0,0.0,2.0,3,True
+490308,217253,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Split,1,Wolves Esports,Sentinels,11,13,Yuicaw,11218,cypher,0.64,151.0,13.0,19.0,2.0,54.0,103.0,23.0,1.0,2.0,3,True
+490308,217254,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Lotus,2,Sentinels,Wolves Esports,13,8,johnqt,1265,viper,1.42,213.0,17.0,10.0,3.0,81.0,148.0,22.0,1.0,2.0,3,True
+490308,217254,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Lotus,2,Sentinels,Wolves Esports,13,8,N4RRATE,36245,fade,1.41,250.0,19.0,12.0,7.0,81.0,151.0,30.0,1.0,1.0,3,True
+490308,217254,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Lotus,2,Sentinels,Wolves Esports,13,8,zekken,4004,raze,1.08,187.0,14.0,12.0,7.0,71.0,144.0,17.0,3.0,7.0,3,True
+490308,217254,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Lotus,2,Sentinels,Wolves Esports,13,8,bang,3880,omen,1.07,199.0,16.0,16.0,5.0,67.0,126.0,33.0,2.0,1.0,3,True
+490308,217254,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Lotus,2,Sentinels,Wolves Esports,13,8,Zellsis,729,vyse,0.97,158.0,11.0,12.0,8.0,76.0,119.0,27.0,0.0,3.0,3,True
+490308,217254,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Lotus,2,Wolves Esports,Sentinels,8,13,Spring,14125,viper,1.12,270.0,19.0,17.0,8.0,76.0,173.0,39.0,5.0,0.0,3,True
+490308,217254,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Lotus,2,Wolves Esports,Sentinels,8,13,SiuFatBB,7849,fade,0.81,140.0,11.0,14.0,5.0,57.0,93.0,28.0,1.0,2.0,3,True
+490308,217254,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Lotus,2,Wolves Esports,Sentinels,8,13,Yuicaw,11218,killjoy,0.76,159.0,12.0,15.0,2.0,62.0,100.0,15.0,2.0,2.0,3,True
+490308,217254,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Lotus,2,Wolves Esports,Sentinels,8,13,Juicy,7426,raze,0.7,166.0,13.0,16.0,3.0,62.0,102.0,26.0,6.0,3.0,3,True
+490308,217254,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Lotus,2,Wolves Esports,Sentinels,8,13,Lysoar,37489,omen,0.57,97.0,7.0,15.0,6.0,71.0,61.0,6.0,0.0,0.0,3,True
+490306,217247,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Sunset,1,Gen.G,MIBR,13,5,Foxy9,11600,deadlock,1.43,237.0,18.0,8.0,3.0,94.0,143.0,42.0,3.0,1.0,3,True
+490306,217247,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Sunset,1,Gen.G,MIBR,13,5,Karon,34974,omen,1.34,306.0,21.0,11.0,4.0,78.0,223.0,44.0,2.0,3.0,3,True
+490306,217247,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Sunset,1,Gen.G,MIBR,13,5,Ash,25017,sova,1.3,207.0,14.0,8.0,2.0,83.0,152.0,29.0,1.0,0.0,3,True
+490306,217247,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Sunset,1,Gen.G,MIBR,13,5,t3xture,9196,neon,1.29,261.0,16.0,10.0,7.0,78.0,185.0,26.0,5.0,0.0,3,True
+490306,217247,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Sunset,1,Gen.G,MIBR,13,5,Munchkin,2489,viper,1.0,176.0,11.0,9.0,6.0,83.0,126.0,30.0,1.0,2.0,3,True
+490306,217247,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Sunset,1,MIBR,Gen.G,5,13,Verno,21668,sova,1.37,259.0,16.0,14.0,3.0,50.0,156.0,22.0,0.0,1.0,3,True
+490306,217247,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Sunset,1,MIBR,Gen.G,5,13,cortezia,5395,cypher,0.65,154.0,9.0,17.0,4.0,44.0,111.0,24.0,2.0,3.0,3,True
+490306,217247,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Sunset,1,MIBR,Gen.G,5,13,xenom,20240,omen,0.54,125.0,7.0,17.0,2.0,56.0,89.0,35.0,3.0,1.0,3,True
+490306,217247,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Sunset,1,MIBR,Gen.G,5,13,aspas,8480,neon,0.51,120.0,7.0,16.0,4.0,50.0,79.0,17.0,0.0,3.0,3,True
+490306,217247,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Sunset,1,MIBR,Gen.G,5,13,artzin,5957,breach,0.41,108.0,7.0,16.0,3.0,56.0,68.0,35.0,1.0,4.0,3,True
+490306,217248,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Haven,2,Gen.G,MIBR,13,1,t3xture,9196,neon,1.73,340.0,19.0,7.0,2.0,79.0,210.0,32.0,5.0,0.0,3,True
+490306,217248,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Haven,2,Gen.G,MIBR,13,1,Ash,25017,sova,1.6,226.0,12.0,4.0,3.0,93.0,153.0,36.0,2.0,0.0,3,True
+490306,217248,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Haven,2,Gen.G,MIBR,13,1,Karon,34974,omen,1.58,245.0,13.0,5.0,6.0,100.0,165.0,35.0,1.0,0.0,3,True
+490306,217248,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Haven,2,Gen.G,MIBR,13,1,Munchkin,2489,viper,1.5,238.0,12.0,4.0,4.0,100.0,152.0,28.0,3.0,1.0,3,True
+490306,217248,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Haven,2,Gen.G,MIBR,13,1,Foxy9,11600,killjoy,1.15,192.0,11.0,6.0,2.0,79.0,140.0,24.0,0.0,2.0,3,True
+490306,217248,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Haven,2,MIBR,Gen.G,1,13,Verno,21668,sova,0.58,148.0,5.0,13.0,3.0,64.0,108.0,44.0,0.0,1.0,3,True
+490306,217248,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Haven,2,MIBR,Gen.G,1,13,cortezia,5395,cypher,0.49,167.0,8.0,14.0,1.0,57.0,102.0,50.0,1.0,0.0,3,True
+490306,217248,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Haven,2,MIBR,Gen.G,1,13,xenom,20240,omen,0.46,103.0,5.0,13.0,1.0,43.0,75.0,56.0,0.0,2.0,3,True
+490306,217248,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Haven,2,MIBR,Gen.G,1,13,aspas,8480,jett,0.43,93.0,5.0,13.0,1.0,57.0,63.0,45.0,2.0,6.0,3,True
+490306,217248,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 1,2025-06-08,Haven,2,MIBR,Gen.G,1,13,artzin,5957,breach,0.14,52.0,3.0,14.0,1.0,57.0,34.0,22.0,0.0,2.0,3,True
+490311,217262,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,13,9,rushia,48878,harbor,1.48,277.0,23.0,13.0,7.0,86.0,178.0,31.0,1.0,2.0,3,True
+490311,217262,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,13,9,whzy,4885,jett,1.39,299.0,24.0,15.0,2.0,73.0,171.0,29.0,6.0,4.0,3,True
+490311,217262,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,13,9,nephh,10698,viper,1.26,218.0,17.0,12.0,9.0,77.0,136.0,31.0,3.0,4.0,3,True
+490311,217262,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,13,9,Levius,40845,killjoy,1.08,154.0,14.0,11.0,2.0,82.0,103.0,21.0,0.0,1.0,3,True
+490311,217262,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,13,9,Knight,4774,sova,0.64,116.0,9.0,13.0,5.0,73.0,84.0,39.0,0.0,1.0,3,True
+490311,217262,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,1,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),9,13,Zellsis,729,killjoy,0.95,188.0,13.0,15.0,5.0,73.0,138.0,13.0,2.0,2.0,3,True
+490311,217262,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,1,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),9,13,zekken,4004,omen,0.88,185.0,13.0,17.0,5.0,73.0,128.0,43.0,4.0,0.0,3,True
+490311,217262,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,1,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),9,13,johnqt,1265,kayo,0.88,178.0,13.0,18.0,7.0,59.0,126.0,18.0,2.0,2.0,3,True
+490311,217262,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,1,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),9,13,bang,3880,viper,0.75,164.0,13.0,18.0,5.0,55.0,106.0,25.0,2.0,2.0,3,True
+490311,217262,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,1,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),9,13,N4RRATE,36245,gekko,0.54,147.0,12.0,19.0,2.0,59.0,93.0,27.0,2.0,4.0,3,True
+490311,217263,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Sunset,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,5,13,whzy,4885,neon,0.98,272.0,16.0,15.0,2.0,56.0,164.0,35.0,2.0,2.0,3,True
+490311,217263,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Sunset,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,5,13,rushia,48878,omen,0.89,190.0,12.0,14.0,5.0,61.0,112.0,23.0,4.0,2.0,3,True
+490311,217263,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Sunset,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,5,13,Levius,40845,cypher,0.66,95.0,7.0,12.0,2.0,44.0,65.0,27.0,1.0,2.0,3,True
+490311,217263,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Sunset,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,5,13,nephh,10698,kayo,0.52,167.0,9.0,17.0,9.0,50.0,102.0,22.0,1.0,2.0,3,True
+490311,217263,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Sunset,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,5,13,Knight,4774,sova,0.42,104.0,4.0,14.0,4.0,50.0,77.0,22.0,1.0,1.0,3,True
+490311,217263,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Sunset,2,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,5,zekken,4004,neon,1.7,298.0,20.0,8.0,2.0,67.0,176.0,40.0,3.0,3.0,3,True
+490311,217263,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Sunset,2,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,5,johnqt,1265,breach,1.32,212.0,14.0,10.0,7.0,89.0,141.0,36.0,3.0,0.0,3,True
+490311,217263,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Sunset,2,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,5,Zellsis,729,cypher,1.22,243.0,16.0,12.0,7.0,78.0,139.0,19.0,1.0,0.0,3,True
+490311,217263,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Sunset,2,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,5,bang,3880,omen,1.16,166.0,12.0,8.0,7.0,72.0,107.0,50.0,1.0,2.0,3,True
+490311,217263,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Sunset,2,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,5,N4RRATE,36245,fade,1.0,172.0,10.0,10.0,5.0,72.0,119.0,18.0,1.0,4.0,3,True
+490311,217264,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Lotus,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,9,13,Levius,40845,vyse,0.92,171.0,13.0,12.0,2.0,82.0,111.0,29.0,0.0,3.0,3,True
+490311,217264,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Lotus,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,9,13,Knight,4774,fade,0.88,172.0,14.0,15.0,3.0,77.0,110.0,26.0,0.0,2.0,3,True
+490311,217264,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Lotus,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,9,13,nephh,10698,viper,0.82,143.0,11.0,12.0,3.0,82.0,98.0,21.0,1.0,0.0,3,True
+490311,217264,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Lotus,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,9,13,whzy,4885,raze,0.72,178.0,13.0,17.0,2.0,45.0,115.0,7.0,3.0,6.0,3,True
+490311,217264,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Lotus,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sentinels,9,13,rushia,48878,omen,0.7,171.0,12.0,18.0,4.0,59.0,108.0,21.0,5.0,2.0,3,True
+490311,217264,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Lotus,3,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,9,zekken,4004,raze,1.46,310.0,23.0,13.0,6.0,91.0,186.0,19.0,8.0,2.0,3,True
+490311,217264,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Lotus,3,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,9,Zellsis,729,vyse,1.3,179.0,16.0,11.0,5.0,73.0,116.0,22.0,2.0,1.0,3,True
+490311,217264,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Lotus,3,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,9,N4RRATE,36245,fade,1.02,189.0,15.0,16.0,6.0,73.0,122.0,29.0,1.0,1.0,3,True
+490311,217264,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Lotus,3,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,9,johnqt,1265,viper,0.96,131.0,10.0,11.0,10.0,91.0,82.0,21.0,1.0,2.0,3,True
+490311,217264,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Lotus,3,Sentinels,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,9,bang,3880,omen,0.77,119.0,9.0,12.0,8.0,82.0,84.0,37.0,1.0,3.0,3,True
+490310,217259,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Ascent,1,Paper Rex,Gen.G,11,13,Jinggg,7378,raze,1.15,243.0,19.0,18.0,8.0,71.0,151.0,12.0,6.0,1.0,3,True
+490310,217259,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Ascent,1,Paper Rex,Gen.G,11,13,f0rsakeN,9801,omen,1.11,264.0,22.0,20.0,7.0,75.0,167.0,32.0,3.0,2.0,3,True
+490310,217259,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Ascent,1,Paper Rex,Gen.G,11,13,d4v41,9803,viper,0.98,200.0,17.0,18.0,8.0,75.0,130.0,31.0,0.0,1.0,3,True
+490310,217259,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Ascent,1,Paper Rex,Gen.G,11,13,PatMen,13744,fade,0.73,144.0,14.0,18.0,9.0,75.0,92.0,33.0,1.0,2.0,3,True
+490310,217259,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Ascent,1,Paper Rex,Gen.G,11,13,something,17086,gekko,0.51,145.0,13.0,20.0,4.0,67.0,91.0,33.0,2.0,6.0,3,True
+490310,217259,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Ascent,1,Gen.G,Paper Rex,13,11,t3xture,9196,jett,1.32,313.0,27.0,19.0,2.0,79.0,203.0,33.0,6.0,5.0,3,True
+490310,217259,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Ascent,1,Gen.G,Paper Rex,13,11,Karon,34974,omen,1.28,258.0,24.0,17.0,11.0,79.0,167.0,26.0,2.0,3.0,3,True
+490310,217259,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Ascent,1,Gen.G,Paper Rex,13,11,Foxy9,11600,killjoy,1.26,203.0,18.0,14.0,4.0,79.0,136.0,28.0,2.0,3.0,3,True
+490310,217259,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Ascent,1,Gen.G,Paper Rex,13,11,Ash,25017,sova,0.94,134.0,11.0,16.0,14.0,79.0,92.0,30.0,1.0,0.0,3,True
+490310,217259,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Ascent,1,Gen.G,Paper Rex,13,11,Munchkin,2489,kayo,0.91,191.0,14.0,19.0,19.0,71.0,108.0,9.0,1.0,1.0,3,True
+490310,217260,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,2,Paper Rex,Gen.G,3,13,PatMen,13744,viper,1.12,206.0,12.0,13.0,1.0,63.0,123.0,24.0,1.0,1.0,3,True
+490310,217260,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,2,Paper Rex,Gen.G,3,13,something,17086,jett,0.63,172.0,9.0,14.0,2.0,44.0,125.0,30.0,3.0,4.0,3,True
+490310,217260,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,2,Paper Rex,Gen.G,3,13,d4v41,9803,killjoy,0.61,86.0,4.0,12.0,3.0,38.0,62.0,18.0,0.0,1.0,3,True
+490310,217260,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,2,Paper Rex,Gen.G,3,13,Jinggg,7378,omen,0.61,173.0,9.0,14.0,1.0,44.0,111.0,19.0,0.0,4.0,3,True
+490310,217260,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,2,Paper Rex,Gen.G,3,13,f0rsakeN,9801,sova,0.52,101.0,5.0,14.0,4.0,56.0,71.0,19.0,1.0,1.0,3,True
+490310,217260,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,2,Gen.G,Paper Rex,13,3,t3xture,9196,jett,1.5,278.0,18.0,6.0,1.0,81.0,168.0,23.0,6.0,3.0,3,True
+490310,217260,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,2,Gen.G,Paper Rex,13,3,Munchkin,2489,viper,1.44,310.0,19.0,10.0,4.0,75.0,191.0,32.0,1.0,0.0,3,True
+490310,217260,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,2,Gen.G,Paper Rex,13,3,Foxy9,11600,killjoy,1.24,264.0,16.0,10.0,6.0,88.0,155.0,24.0,3.0,0.0,3,True
+490310,217260,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,2,Gen.G,Paper Rex,13,3,Ash,25017,sova,1.16,147.0,9.0,6.0,4.0,88.0,109.0,37.0,0.0,0.0,3,True
+490310,217260,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (1-0),2025-06-09,Icebox,2,Gen.G,Paper Rex,13,3,Karon,34974,omen,0.76,90.0,5.0,7.0,1.0,69.0,58.0,23.0,1.0,2.0,3,True
+490312,217265,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Pearl,1,Team Heretics,Wolves Esports,10,13,Boo,1144,astra,1.08,158.0,13.0,12.0,16.0,65.0,85.0,43.0,1.0,1.0,3,True
+490312,217265,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Pearl,1,Team Heretics,Wolves Esports,10,13,RieNs,10971,sova,1.01,205.0,14.0,15.0,7.0,65.0,148.0,25.0,3.0,1.0,3,True
+490312,217265,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Pearl,1,Team Heretics,Wolves Esports,10,13,MiniBoo,18350,yoru,0.95,210.0,17.0,16.0,2.0,70.0,123.0,39.0,2.0,1.0,3,True
+490312,217265,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Pearl,1,Team Heretics,Wolves Esports,10,13,Wo0t,21328,jett,0.92,206.0,17.0,17.0,2.0,70.0,133.0,22.0,6.0,5.0,3,True
+490312,217265,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Pearl,1,Team Heretics,Wolves Esports,10,13,benjyfishy,29873,cypher,0.67,141.0,12.0,16.0,4.0,57.0,86.0,21.0,1.0,2.0,3,True
+490312,217265,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Pearl,1,Wolves Esports,Team Heretics,13,10,Spring,14125,astra,1.57,270.0,24.0,14.0,6.0,83.0,161.0,30.0,5.0,0.0,3,True
+490312,217265,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Pearl,1,Wolves Esports,Team Heretics,13,10,Juicy,7426,yoru,1.37,258.0,21.0,15.0,4.0,57.0,161.0,40.0,2.0,4.0,3,True
+490312,217265,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Pearl,1,Wolves Esports,Team Heretics,13,10,SiuFatBB,7849,fade,0.86,131.0,10.0,14.0,9.0,70.0,76.0,42.0,0.0,2.0,3,True
+490312,217265,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Pearl,1,Wolves Esports,Team Heretics,13,10,Lysoar,37489,vyse,0.83,137.0,10.0,14.0,12.0,57.0,92.0,27.0,1.0,2.0,3,True
+490312,217265,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Pearl,1,Wolves Esports,Team Heretics,13,10,Yuicaw,11218,chamber,0.64,128.0,11.0,16.0,2.0,52.0,85.0,37.0,2.0,5.0,3,True
+490312,217266,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Lotus,2,Team Heretics,Wolves Esports,9,13,MiniBoo,18350,raze,1.04,223.0,19.0,17.0,1.0,73.0,126.0,15.0,6.0,2.0,3,True
+490312,217266,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Lotus,2,Team Heretics,Wolves Esports,9,13,RieNs,10971,viper,0.99,210.0,17.0,16.0,7.0,73.0,124.0,26.0,2.0,4.0,3,True
+490312,217266,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Lotus,2,Team Heretics,Wolves Esports,9,13,Wo0t,21328,fade,0.98,169.0,11.0,15.0,14.0,73.0,114.0,30.0,0.0,3.0,3,True
+490312,217266,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Lotus,2,Team Heretics,Wolves Esports,9,13,benjyfishy,29873,killjoy,0.91,200.0,15.0,15.0,2.0,68.0,138.0,32.0,2.0,0.0,3,True
+490312,217266,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Lotus,2,Team Heretics,Wolves Esports,9,13,Boo,1144,omen,0.9,189.0,14.0,15.0,5.0,68.0,119.0,40.0,1.0,2.0,3,True
+490312,217266,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Lotus,2,Wolves Esports,Team Heretics,13,9,Yuicaw,11218,killjoy,1.36,267.0,20.0,14.0,5.0,73.0,176.0,28.0,4.0,0.0,3,True
+490312,217266,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Lotus,2,Wolves Esports,Team Heretics,13,9,Juicy,7426,raze,1.29,226.0,19.0,14.0,5.0,73.0,152.0,22.0,2.0,5.0,3,True
+490312,217266,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Lotus,2,Wolves Esports,Team Heretics,13,9,Spring,14125,viper,1.23,250.0,20.0,15.0,5.0,59.0,154.0,32.0,4.0,4.0,3,True
+490312,217266,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Lotus,2,Wolves Esports,Team Heretics,13,9,Lysoar,37489,omen,0.99,191.0,14.0,15.0,15.0,73.0,110.0,18.0,1.0,1.0,3,True
+490312,217266,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Lotus,2,Wolves Esports,Team Heretics,13,9,SiuFatBB,7849,fade,0.26,76.0,5.0,18.0,6.0,73.0,58.0,22.0,0.0,1.0,3,True
+490313,217268,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Icebox,1,Team Liquid,MIBR,13,6,keiko,11494,harbor,1.27,193.0,14.0,10.0,3.0,63.0,122.0,44.0,1.0,1.0,3,True
+490313,217268,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Icebox,1,Team Liquid,MIBR,13,6,nAts,457,viper,1.16,242.0,15.0,13.0,5.0,79.0,158.0,25.0,4.0,1.0,3,True
+490313,217268,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Icebox,1,Team Liquid,MIBR,13,6,penny,7716,jett,1.12,198.0,15.0,12.0,3.0,84.0,124.0,20.0,6.0,0.0,3,True
+490313,217268,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Icebox,1,Team Liquid,MIBR,13,6,paTiTek,309,sova,0.95,187.0,13.0,13.0,2.0,63.0,126.0,31.0,1.0,2.0,3,True
+490313,217268,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Icebox,1,Team Liquid,MIBR,13,6,kamo,14681,chamber,0.82,154.0,11.0,11.0,2.0,74.0,105.0,36.0,1.0,2.0,3,True
+490313,217268,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Icebox,1,MIBR,Team Liquid,6,13,Verno,21668,sova,1.26,231.0,16.0,12.0,6.0,74.0,155.0,21.0,3.0,0.0,3,True
+490313,217268,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Icebox,1,MIBR,Team Liquid,6,13,artzin,5957,harbor,1.0,183.0,12.0,13.0,8.0,79.0,125.0,27.0,0.0,3.0,3,True
+490313,217268,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Icebox,1,MIBR,Team Liquid,6,13,xenom,20240,viper,0.87,169.0,12.0,14.0,4.0,74.0,125.0,37.0,0.0,2.0,3,True
+490313,217268,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Icebox,1,MIBR,Team Liquid,6,13,cortezia,5395,killjoy,0.63,156.0,10.0,14.0,2.0,68.0,101.0,23.0,2.0,4.0,3,True
+490313,217268,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Icebox,1,MIBR,Team Liquid,6,13,aspas,8480,jett,0.53,158.0,9.0,15.0,4.0,53.0,105.0,14.0,1.0,4.0,3,True
+490313,217269,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Sunset,2,Team Liquid,MIBR,13,7,keiko,11494,omen,1.39,208.0,17.0,10.0,6.0,80.0,138.0,57.0,1.0,1.0,3,True
+490313,217269,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Sunset,2,Team Liquid,MIBR,13,7,kamo,14681,neon,1.2,243.0,17.0,15.0,6.0,85.0,159.0,26.0,6.0,3.0,3,True
+490313,217269,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Sunset,2,Team Liquid,MIBR,13,7,nAts,457,viper,1.19,238.0,18.0,14.0,7.0,75.0,166.0,32.0,1.0,1.0,3,True
+490313,217269,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Sunset,2,Team Liquid,MIBR,13,7,Serial,18162,cypher,1.02,176.0,14.0,10.0,0.0,80.0,107.0,29.0,2.0,2.0,3,True
+490313,217269,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Sunset,2,Team Liquid,MIBR,13,7,paTiTek,309,sova,0.87,183.0,12.0,16.0,10.0,75.0,131.0,30.0,3.0,0.0,3,True
+490313,217269,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Sunset,2,MIBR,Team Liquid,7,13,Verno,21668,sova,1.35,284.0,19.0,16.0,9.0,90.0,196.0,33.0,0.0,1.0,3,True
+490313,217269,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Sunset,2,MIBR,Team Liquid,7,13,cortezia,5395,cypher,0.92,179.0,12.0,14.0,5.0,65.0,141.0,43.0,2.0,3.0,3,True
+490313,217269,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Sunset,2,MIBR,Team Liquid,7,13,xenom,20240,omen,0.88,196.0,15.0,16.0,4.0,75.0,111.0,30.0,1.0,5.0,3,True
+490313,217269,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Sunset,2,MIBR,Team Liquid,7,13,aspas,8480,raze,0.62,148.0,10.0,15.0,3.0,75.0,100.0,16.0,2.0,2.0,3,True
+490313,217269,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 2 (0-1),2025-06-10,Sunset,2,MIBR,Team Liquid,7,13,artzin,5957,gekko,0.4,143.0,9.0,17.0,6.0,70.0,102.0,19.0,2.0,2.0,3,True
+490315,217275,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wolves Esports,10,13,whzy,4885,raze,1.06,250.0,19.0,17.0,7.0,74.0,154.0,22.0,5.0,3.0,3,True
+490315,217275,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wolves Esports,10,13,Levius,40845,viper,0.99,148.0,13.0,12.0,1.0,61.0,102.0,20.0,0.0,2.0,3,True
+490315,217275,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wolves Esports,10,13,nephh,10698,skye,0.87,160.0,12.0,16.0,12.0,70.0,103.0,19.0,2.0,0.0,3,True
+490315,217275,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wolves Esports,10,13,rushia,48878,omen,0.79,159.0,14.0,17.0,11.0,65.0,95.0,21.0,1.0,3.0,3,True
+490315,217275,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wolves Esports,10,13,Knight,4774,cypher,0.75,149.0,11.0,15.0,6.0,65.0,101.0,17.0,3.0,4.0,3,True
+490315,217275,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Wolves Esports,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,10,Spring,14125,viper,1.28,270.0,21.0,16.0,5.0,78.0,172.0,25.0,5.0,3.0,3,True
+490315,217275,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Wolves Esports,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,10,Lysoar,37489,omen,1.13,178.0,14.0,13.0,7.0,87.0,122.0,21.0,2.0,0.0,3,True
+490315,217275,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Wolves Esports,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,10,Juicy,7426,raze,1.09,270.0,21.0,17.0,5.0,78.0,171.0,20.0,3.0,5.0,3,True
+490315,217275,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Wolves Esports,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,10,Yuicaw,11218,cypher,0.95,147.0,12.0,12.0,9.0,83.0,103.0,24.0,1.0,3.0,3,True
+490315,217275,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Wolves Esports,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,10,SiuFatBB,7849,fade,0.86,127.0,9.0,12.0,6.0,78.0,90.0,16.0,1.0,0.0,3,True
+490315,221383,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Ascent,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wolves Esports,5,13,whzy,4885,neon,1.4,283.0,19.0,14.0,1.0,83.0,172.0,33.0,3.0,1.0,3,True
+490315,221383,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Ascent,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wolves Esports,5,13,Knight,4774,sova,0.71,168.0,12.0,14.0,5.0,61.0,108.0,36.0,2.0,5.0,3,True
+490315,221383,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Ascent,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wolves Esports,5,13,Levius,40845,killjoy,0.66,161.0,8.0,15.0,6.0,56.0,117.0,14.0,0.0,3.0,3,True
+490315,221383,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Ascent,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wolves Esports,5,13,nephh,10698,kayo,0.63,132.0,7.0,15.0,10.0,56.0,87.0,18.0,0.0,2.0,3,True
+490315,221383,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Ascent,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wolves Esports,5,13,rushia,48878,omen,0.57,121.0,7.0,16.0,8.0,67.0,77.0,28.0,0.0,2.0,3,True
+490315,221383,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Ascent,2,Wolves Esports,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,5,SiuFatBB,7849,sova,1.41,254.0,17.0,10.0,8.0,94.0,165.0,32.0,1.0,0.0,3,True
+490315,221383,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Ascent,2,Wolves Esports,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,5,Spring,14125,omen,1.38,258.0,17.0,11.0,12.0,72.0,168.0,39.0,2.0,2.0,3,True
+490315,221383,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Ascent,2,Wolves Esports,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,5,Yuicaw,11218,cypher,1.26,236.0,15.0,10.0,9.0,83.0,141.0,30.0,4.0,0.0,3,True
+490315,221383,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Ascent,2,Wolves Esports,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,5,Lysoar,37489,deadlock,1.17,195.0,13.0,9.0,6.0,72.0,127.0,19.0,2.0,0.0,3,True
+490315,221383,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Ascent,2,Wolves Esports,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),13,5,Juicy,7426,yoru,0.76,182.0,12.0,13.0,3.0,67.0,108.0,23.0,4.0,3.0,3,True
+490314,217271,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Paper Rex,Team Liquid,13,15,something,17086,yoru,1.05,211.0,20.0,19.0,6.0,68.0,146.0,18.0,3.0,9.0,3,True
+490314,217271,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Paper Rex,Team Liquid,13,15,Jinggg,7378,raze,1.03,241.0,23.0,22.0,5.0,71.0,166.0,19.0,2.0,4.0,3,True
+490314,217271,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Paper Rex,Team Liquid,13,15,f0rsakeN,9801,omen,1.01,189.0,20.0,21.0,8.0,68.0,122.0,35.0,0.0,2.0,3,True
+490314,217271,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Paper Rex,Team Liquid,13,15,PatMen,13744,fade,0.82,172.0,17.0,21.0,7.0,68.0,109.0,42.0,2.0,2.0,3,True
+490314,217271,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Paper Rex,Team Liquid,13,15,d4v41,9803,viper,0.64,144.0,13.0,22.0,6.0,68.0,103.0,31.0,2.0,2.0,3,True
+490314,217271,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Team Liquid,Paper Rex,15,13,keiko,11494,raze,1.41,293.0,29.0,19.0,2.0,82.0,185.0,43.0,4.0,0.0,3,True
+490314,217271,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Team Liquid,Paper Rex,15,13,paTiTek,309,fade,1.16,220.0,23.0,17.0,3.0,86.0,140.0,42.0,7.0,1.0,3,True
+490314,217271,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Team Liquid,Paper Rex,15,13,kamo,14681,yoru,1.14,238.0,24.0,19.0,3.0,79.0,155.0,41.0,5.0,4.0,3,True
+490314,217271,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Team Liquid,Paper Rex,15,13,nAts,457,viper,0.76,165.0,17.0,20.0,3.0,71.0,99.0,32.0,2.0,1.0,3,True
+490314,217271,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Split,1,Team Liquid,Paper Rex,15,13,Serial,18162,astra,0.71,111.0,12.0,18.0,6.0,79.0,71.0,45.0,1.0,3.0,3,True
+490314,217272,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Sunset,2,Paper Rex,Team Liquid,13,5,Jinggg,7378,raze,1.33,253.0,17.0,10.0,3.0,78.0,159.0,34.0,5.0,3.0,3,True
+490314,217272,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Sunset,2,Paper Rex,Team Liquid,13,5,PatMen,13744,viper,1.24,231.0,14.0,10.0,7.0,72.0,159.0,48.0,3.0,1.0,3,True
+490314,217272,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Sunset,2,Paper Rex,Team Liquid,13,5,d4v41,9803,sage,1.22,179.0,14.0,9.0,5.0,78.0,122.0,21.0,1.0,0.0,3,True
+490314,217272,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Sunset,2,Paper Rex,Team Liquid,13,5,f0rsakeN,9801,omen,1.2,203.0,13.0,10.0,7.0,78.0,130.0,39.0,3.0,1.0,3,True
+490314,217272,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Sunset,2,Paper Rex,Team Liquid,13,5,something,17086,sova,1.07,125.0,9.0,8.0,1.0,83.0,97.0,42.0,0.0,1.0,3,True
+490314,217272,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Sunset,2,Team Liquid,Paper Rex,5,13,paTiTek,309,sova,0.85,208.0,12.0,15.0,3.0,67.0,136.0,29.0,2.0,3.0,3,True
+490314,217272,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Sunset,2,Team Liquid,Paper Rex,5,13,nAts,457,viper,0.76,139.0,8.0,12.0,3.0,78.0,91.0,26.0,1.0,1.0,3,True
+490314,217272,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Sunset,2,Team Liquid,Paper Rex,5,13,Serial,18162,cypher,0.73,122.0,8.0,13.0,4.0,61.0,78.0,44.0,1.0,1.0,3,True
+490314,217272,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Sunset,2,Team Liquid,Paper Rex,5,13,keiko,11494,omen,0.72,173.0,11.0,13.0,2.0,50.0,109.0,55.0,1.0,2.0,3,True
+490314,217272,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Sunset,2,Team Liquid,Paper Rex,5,13,kamo,14681,neon,0.49,157.0,8.0,14.0,3.0,56.0,126.0,26.0,1.0,5.0,3,True
+490314,217273,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Lotus,3,Paper Rex,Team Liquid,14,12,d4v41,9803,vyse,1.19,209.0,20.0,14.0,7.0,81.0,139.0,28.0,1.0,1.0,3,True
+490314,217273,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Lotus,3,Paper Rex,Team Liquid,14,12,f0rsakeN,9801,omen,1.19,214.0,19.0,16.0,15.0,77.0,135.0,12.0,4.0,2.0,3,True
+490314,217273,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Lotus,3,Paper Rex,Team Liquid,14,12,Jinggg,7378,raze,1.17,279.0,26.0,20.0,5.0,77.0,188.0,21.0,4.0,5.0,3,True
+490314,217273,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Lotus,3,Paper Rex,Team Liquid,14,12,PatMen,13744,fade,1.08,222.0,21.0,19.0,13.0,85.0,154.0,38.0,4.0,3.0,3,True
+490314,217273,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Lotus,3,Paper Rex,Team Liquid,14,12,something,17086,yoru,0.81,143.0,14.0,18.0,7.0,73.0,104.0,44.0,0.0,2.0,3,True
+490314,217273,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Lotus,3,Team Liquid,Paper Rex,12,14,kamo,14681,waylay,1.14,273.0,25.0,22.0,2.0,62.0,165.0,38.0,7.0,4.0,3,True
+490314,217273,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Lotus,3,Team Liquid,Paper Rex,12,14,paTiTek,309,fade,1.06,165.0,16.0,17.0,7.0,77.0,110.0,27.0,1.0,2.0,3,True
+490314,217273,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Lotus,3,Team Liquid,Paper Rex,12,14,keiko,11494,omen,0.92,178.0,16.0,19.0,5.0,77.0,112.0,33.0,2.0,1.0,3,True
+490314,217273,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Lotus,3,Team Liquid,Paper Rex,12,14,penny,7716,raze,0.83,196.0,17.0,20.0,6.0,69.0,128.0,10.0,2.0,4.0,3,True
+490314,217273,2282,Valorant Masters Toronto 2025,Swiss Stage: Round 3 (1-1),2025-06-11,Lotus,3,Team Liquid,Paper Rex,12,14,nAts,457,cypher,0.66,146.0,13.0,22.0,4.0,69.0,105.0,26.0,1.0,2.0,3,True
+498622,221150,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Split,1,G2 Esports,Paper Rex,10,13,jawgemo,3993,yoru,1.11,237.0,18.0,16.0,5.0,78.0,167.0,18.0,2.0,3.0,3,True
+498622,221150,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Split,1,G2 Esports,Paper Rex,10,13,trent,15500,fade,1.1,196.0,17.0,15.0,5.0,83.0,123.0,26.0,2.0,3.0,3,True
+498622,221150,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Split,1,G2 Esports,Paper Rex,10,13,JonahP,4581,breach,1.08,196.0,15.0,16.0,8.0,87.0,132.0,40.0,1.0,3.0,3,True
+498622,221150,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Split,1,G2 Esports,Paper Rex,10,13,leaf,7873,viper,0.84,200.0,15.0,18.0,8.0,65.0,129.0,18.0,4.0,2.0,3,True
+498622,221150,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Split,1,G2 Esports,Paper Rex,10,13,valyn,3885,omen,0.83,183.0,16.0,19.0,8.0,83.0,105.0,13.0,2.0,1.0,3,True
+498622,221150,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Split,1,Paper Rex,G2 Esports,13,10,PatMen,13744,fade,1.31,249.0,21.0,14.0,7.0,87.0,145.0,27.0,2.0,2.0,3,True
+498622,221150,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Split,1,Paper Rex,G2 Esports,13,10,f0rsakeN,9801,omen,1.07,205.0,14.0,17.0,13.0,74.0,132.0,24.0,3.0,0.0,3,True
+498622,221150,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Split,1,Paper Rex,G2 Esports,13,10,something,17086,yoru,0.9,194.0,18.0,16.0,0.0,78.0,130.0,24.0,3.0,1.0,3,True
+498622,221150,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Split,1,Paper Rex,G2 Esports,13,10,Jinggg,7378,raze,0.88,194.0,14.0,17.0,10.0,87.0,145.0,24.0,2.0,4.0,3,True
+498622,221150,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Split,1,Paper Rex,G2 Esports,13,10,d4v41,9803,viper,0.86,197.0,17.0,17.0,2.0,57.0,135.0,27.0,2.0,4.0,3,True
+498622,221151,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,G2 Esports,Paper Rex,11,13,trent,15500,sova,1.45,263.0,22.0,13.0,6.0,83.0,178.0,31.0,3.0,1.0,3,True
+498622,221151,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,G2 Esports,Paper Rex,11,13,valyn,3885,omen,1.06,198.0,15.0,17.0,7.0,75.0,133.0,30.0,1.0,1.0,3,True
+498622,221151,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,G2 Esports,Paper Rex,11,13,jawgemo,3993,neon,0.96,213.0,18.0,19.0,4.0,54.0,153.0,37.0,6.0,4.0,3,True
+498622,221151,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,G2 Esports,Paper Rex,11,13,leaf,7873,viper,0.79,185.0,14.0,17.0,7.0,67.0,117.0,27.0,1.0,3.0,3,True
+498622,221151,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,G2 Esports,Paper Rex,11,13,JonahP,4581,breach,0.56,112.0,9.0,16.0,11.0,67.0,64.0,15.0,1.0,3.0,3,True
+498622,221151,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Paper Rex,G2 Esports,13,11,Jinggg,7378,raze,1.18,231.0,20.0,15.0,4.0,63.0,147.0,18.0,1.0,3.0,3,True
+498622,221151,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Paper Rex,G2 Esports,13,11,something,17086,yoru,1.14,246.0,19.0,17.0,8.0,79.0,146.0,33.0,7.0,3.0,3,True
+498622,221151,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Paper Rex,G2 Esports,13,11,f0rsakeN,9801,omen,1.07,185.0,14.0,15.0,11.0,75.0,123.0,23.0,1.0,5.0,3,True
+498622,221151,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Paper Rex,G2 Esports,13,11,d4v41,9803,vyse,1.05,172.0,16.0,16.0,5.0,71.0,113.0,26.0,3.0,0.0,3,True
+498622,221151,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Paper Rex,G2 Esports,13,11,PatMen,13744,fade,0.96,161.0,13.0,15.0,13.0,71.0,122.0,33.0,0.0,1.0,3,True
+498621,221147,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Sunset,1,Xi Lai Gaming,Sentinels,6,13,happywei,37927,cypher,1.23,297.0,18.0,17.0,3.0,68.0,189.0,43.0,5.0,1.0,3,True
+498621,221147,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Sunset,1,Xi Lai Gaming,Sentinels,6,13,Rarga,22047,neon,1.13,215.0,15.0,13.0,4.0,68.0,134.0,52.0,2.0,5.0,3,True
+498621,221147,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Sunset,1,Xi Lai Gaming,Sentinels,6,13,coconut,12365,omen,0.67,128.0,8.0,15.0,4.0,68.0,90.0,19.0,0.0,2.0,3,True
+498621,221147,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Sunset,1,Xi Lai Gaming,Sentinels,6,13,Midi,37017,breach,0.46,119.0,8.0,16.0,6.0,63.0,71.0,20.0,0.0,0.0,3,True
+498621,221147,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Sunset,1,Xi Lai Gaming,Sentinels,6,13,Viva,36415,sova,0.27,107.0,6.0,18.0,2.0,37.0,74.0,25.0,2.0,2.0,3,True
+498621,221147,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Sunset,1,Sentinels,Xi Lai Gaming,13,6,zekken,4004,neon,1.95,401.0,27.0,10.0,6.0,89.0,259.0,34.0,5.0,4.0,3,True
+498621,221147,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Sunset,1,Sentinels,Xi Lai Gaming,13,6,johnqt,1265,breach,1.43,249.0,18.0,10.0,10.0,89.0,149.0,24.0,1.0,0.0,3,True
+498621,221147,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Sunset,1,Sentinels,Xi Lai Gaming,13,6,N4RRATE,36245,fade,1.23,222.0,14.0,10.0,6.0,89.0,145.0,16.0,2.0,1.0,3,True
+498621,221147,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Sunset,1,Sentinels,Xi Lai Gaming,13,6,bang,3880,omen,0.79,158.0,12.0,13.0,6.0,84.0,93.0,36.0,2.0,2.0,3,True
+498621,221147,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Sunset,1,Sentinels,Xi Lai Gaming,13,6,Zellsis,729,cypher,0.75,116.0,8.0,12.0,3.0,63.0,93.0,13.0,0.0,2.0,3,True
+498621,221148,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Xi Lai Gaming,Sentinels,6,13,Viva,36415,sova,0.95,194.0,11.0,16.0,9.0,68.0,146.0,27.0,0.0,0.0,3,True
+498621,221148,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Xi Lai Gaming,Sentinels,6,13,happywei,37927,cypher,0.93,179.0,11.0,15.0,4.0,63.0,125.0,40.0,2.0,2.0,3,True
+498621,221148,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Xi Lai Gaming,Sentinels,6,13,coconut,12365,omen,0.74,155.0,12.0,15.0,6.0,68.0,88.0,45.0,1.0,3.0,3,True
+498621,221148,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Xi Lai Gaming,Sentinels,6,13,Rarga,22047,neon,0.59,165.0,12.0,17.0,2.0,63.0,105.0,28.0,4.0,4.0,3,True
+498621,221148,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Xi Lai Gaming,Sentinels,6,13,Midi,37017,breach,0.5,149.0,9.0,16.0,3.0,68.0,97.0,34.0,2.0,1.0,3,True
+498621,221148,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Sentinels,Xi Lai Gaming,13,6,johnqt,1265,viper,1.46,239.0,16.0,10.0,10.0,89.0,166.0,36.0,1.0,0.0,3,True
+498621,221148,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Sentinels,Xi Lai Gaming,13,6,bang,3880,omen,1.42,239.0,18.0,11.0,9.0,95.0,114.0,31.0,2.0,0.0,3,True
+498621,221148,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Sentinels,Xi Lai Gaming,13,6,Zellsis,729,vyse,1.25,241.0,16.0,11.0,8.0,79.0,147.0,30.0,4.0,3.0,3,True
+498621,221148,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Sentinels,Xi Lai Gaming,13,6,zekken,4004,raze,1.13,200.0,14.0,10.0,3.0,79.0,125.0,13.0,3.0,5.0,3,True
+498621,221148,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-13,Lotus,2,Sentinels,Xi Lai Gaming,13,6,N4RRATE,36245,fade,1.05,240.0,15.0,13.0,10.0,95.0,153.0,23.0,0.0,1.0,3,True
+498623,221153,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Ascent,1,Rex Regum Qeon,Wolves Esports,11,13,Kushy,4866,sova,1.33,251.0,23.0,16.0,5.0,88.0,159.0,43.0,0.0,0.0,3,True
+498623,221153,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Ascent,1,Rex Regum Qeon,Wolves Esports,11,13,Monyet,8497,omen,1.01,200.0,15.0,17.0,11.0,75.0,132.0,27.0,3.0,2.0,3,True
+498623,221153,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Ascent,1,Rex Regum Qeon,Wolves Esports,11,13,Jemkin,24895,jett,0.97,202.0,16.0,17.0,5.0,75.0,141.0,37.0,5.0,5.0,3,True
+498623,221153,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Ascent,1,Rex Regum Qeon,Wolves Esports,11,13,crazyguy,1430,kayo,0.76,137.0,10.0,15.0,12.0,75.0,89.0,13.0,2.0,3.0,3,True
+498623,221153,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Ascent,1,Rex Regum Qeon,Wolves Esports,11,13,xffero,4871,cypher,0.73,170.0,15.0,19.0,5.0,67.0,113.0,41.0,1.0,3.0,3,True
+498623,221153,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Ascent,1,Wolves Esports,Rex Regum Qeon,13,11,Spring,14125,omen,1.2,225.0,18.0,13.0,11.0,88.0,148.0,19.0,3.0,2.0,3,True
+498623,221153,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Ascent,1,Wolves Esports,Rex Regum Qeon,13,11,SiuFatBB,7849,sova,1.14,193.0,17.0,13.0,3.0,71.0,120.0,22.0,3.0,1.0,3,True
+498623,221153,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Ascent,1,Wolves Esports,Rex Regum Qeon,13,11,Yuicaw,11218,cypher,1.02,200.0,19.0,18.0,6.0,71.0,128.0,31.0,2.0,4.0,3,True
+498623,221153,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Ascent,1,Wolves Esports,Rex Regum Qeon,13,11,Juicy,7426,yoru,1.0,233.0,17.0,17.0,8.0,67.0,170.0,26.0,4.0,3.0,3,True
+498623,221153,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Ascent,1,Wolves Esports,Rex Regum Qeon,13,11,Lysoar,37489,deadlock,0.66,146.0,13.0,18.0,8.0,83.0,93.0,32.0,1.0,1.0,3,True
+498623,221154,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Icebox,2,Rex Regum Qeon,Wolves Esports,8,13,Monyet,8497,viper,1.22,227.0,17.0,13.0,7.0,76.0,136.0,27.0,0.0,1.0,3,True
+498623,221154,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Icebox,2,Rex Regum Qeon,Wolves Esports,8,13,Jemkin,24895,jett,1.09,280.0,19.0,17.0,6.0,76.0,195.0,24.0,5.0,4.0,3,True
+498623,221154,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Icebox,2,Rex Regum Qeon,Wolves Esports,8,13,xffero,4871,killjoy,1.0,178.0,14.0,14.0,5.0,71.0,131.0,26.0,0.0,0.0,3,True
+498623,221154,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Icebox,2,Rex Regum Qeon,Wolves Esports,8,13,Kushy,4866,sova,0.73,129.0,10.0,15.0,3.0,71.0,89.0,38.0,0.0,1.0,3,True
+498623,221154,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Icebox,2,Rex Regum Qeon,Wolves Esports,8,13,crazyguy,1430,omen,0.46,120.0,9.0,17.0,4.0,62.0,73.0,45.0,3.0,7.0,3,True
+498623,221154,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Icebox,2,Wolves Esports,Rex Regum Qeon,13,8,Juicy,7426,jett,1.51,302.0,23.0,14.0,4.0,76.0,190.0,28.0,8.0,2.0,3,True
+498623,221154,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Icebox,2,Wolves Esports,Rex Regum Qeon,13,8,Lysoar,37489,killjoy,1.32,232.0,18.0,13.0,5.0,71.0,171.0,26.0,0.0,0.0,3,True
+498623,221154,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Icebox,2,Wolves Esports,Rex Regum Qeon,13,8,Spring,14125,viper,0.98,219.0,17.0,17.0,4.0,62.0,150.0,33.0,2.0,0.0,3,True
+498623,221154,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Icebox,2,Wolves Esports,Rex Regum Qeon,13,8,Yuicaw,11218,gekko,0.83,147.0,10.0,13.0,9.0,71.0,108.0,22.0,3.0,5.0,3,True
+498623,221154,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Icebox,2,Wolves Esports,Rex Regum Qeon,13,8,SiuFatBB,7849,sova,0.76,115.0,8.0,12.0,4.0,67.0,82.0,29.0,0.0,1.0,3,True
+498624,221156,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Haven,1,FNATIC,Gen.G,11,13,crashies,4,sova,1.28,240.0,21.0,16.0,7.0,71.0,166.0,40.0,1.0,0.0,3,True
+498624,221156,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Haven,1,FNATIC,Gen.G,11,13,kaajak,9554,yoru,1.27,263.0,20.0,17.0,7.0,67.0,170.0,44.0,6.0,5.0,3,True
+498624,221156,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Haven,1,FNATIC,Gen.G,11,13,Chronicle,458,cypher,1.04,178.0,15.0,15.0,6.0,63.0,124.0,27.0,1.0,1.0,3,True
+498624,221156,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Haven,1,FNATIC,Gen.G,11,13,Boaster,438,omen,0.75,120.0,9.0,16.0,8.0,67.0,79.0,20.0,1.0,3.0,3,True
+498624,221156,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Haven,1,FNATIC,Gen.G,11,13,Alfajer,9810,iso,0.53,127.0,11.0,20.0,4.0,63.0,86.0,28.0,2.0,4.0,3,True
+498624,221156,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Haven,1,Gen.G,FNATIC,13,11,Munchkin,2489,viper,1.26,258.0,21.0,15.0,13.0,58.0,157.0,26.0,4.0,3.0,3,True
+498624,221156,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Haven,1,Gen.G,FNATIC,13,11,t3xture,9196,neon,1.16,224.0,20.0,16.0,7.0,75.0,139.0,28.0,3.0,5.0,3,True
+498624,221156,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Haven,1,Gen.G,FNATIC,13,11,Karon,34974,omen,1.11,218.0,18.0,16.0,9.0,83.0,143.0,26.0,5.0,0.0,3,True
+498624,221156,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Haven,1,Gen.G,FNATIC,13,11,Ash,25017,sova,0.88,135.0,13.0,13.0,2.0,79.0,109.0,30.0,1.0,1.0,3,True
+498624,221156,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Haven,1,Gen.G,FNATIC,13,11,Foxy9,11600,killjoy,0.74,141.0,12.0,16.0,1.0,67.0,98.0,38.0,0.0,2.0,3,True
+498624,221157,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Split,2,FNATIC,Gen.G,14,12,Alfajer,9810,raze,1.33,305.0,28.0,22.0,4.0,85.0,196.0,26.0,7.0,2.0,3,True
+498624,221157,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Split,2,FNATIC,Gen.G,14,12,kaajak,9554,yoru,1.2,218.0,20.0,17.0,9.0,77.0,147.0,42.0,5.0,2.0,3,True
+498624,221157,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Split,2,FNATIC,Gen.G,14,12,Chronicle,458,viper,1.08,196.0,17.0,17.0,8.0,65.0,157.0,28.0,1.0,3.0,3,True
+498624,221157,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Split,2,FNATIC,Gen.G,14,12,crashies,4,fade,1.04,182.0,16.0,14.0,7.0,85.0,113.0,30.0,1.0,0.0,3,True
+498624,221157,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Split,2,FNATIC,Gen.G,14,12,Boaster,438,astra,0.8,133.0,14.0,17.0,7.0,62.0,91.0,35.0,1.0,4.0,3,True
+498624,221157,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Split,2,Gen.G,FNATIC,12,14,Karon,34974,omen,1.13,223.0,21.0,17.0,12.0,88.0,137.0,35.0,3.0,1.0,3,True
+498624,221157,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Split,2,Gen.G,FNATIC,12,14,t3xture,9196,neon,1.01,210.0,19.0,19.0,7.0,69.0,126.0,22.0,3.0,7.0,3,True
+498624,221157,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Split,2,Gen.G,FNATIC,12,14,Ash,25017,tejo,0.99,212.0,19.0,19.0,4.0,69.0,134.0,29.0,2.0,1.0,3,True
+498624,221157,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Split,2,Gen.G,FNATIC,12,14,Munchkin,2489,viper,0.85,205.0,18.0,20.0,7.0,58.0,130.0,15.0,3.0,2.0,3,True
+498624,221157,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Split,2,Gen.G,FNATIC,12,14,Foxy9,11600,deadlock,0.41,97.0,10.0,20.0,3.0,62.0,65.0,33.0,0.0,4.0,3,True
+498624,221158,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Sunset,3,FNATIC,Gen.G,6,13,crashies,4,sova,1.13,189.0,11.0,11.0,4.0,68.0,142.0,39.0,2.0,0.0,3,True
+498624,221158,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Sunset,3,FNATIC,Gen.G,6,13,Alfajer,9810,cypher,0.98,218.0,15.0,16.0,0.0,63.0,139.0,58.0,3.0,0.0,3,True
+498624,221158,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Sunset,3,FNATIC,Gen.G,6,13,kaajak,9554,neon,0.82,177.0,12.0,14.0,2.0,68.0,135.0,24.0,2.0,4.0,3,True
+498624,221158,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Sunset,3,FNATIC,Gen.G,6,13,Chronicle,458,viper,0.65,166.0,10.0,15.0,2.0,42.0,118.0,29.0,4.0,3.0,3,True
+498624,221158,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Sunset,3,FNATIC,Gen.G,6,13,Boaster,438,omen,0.6,85.0,4.0,12.0,5.0,68.0,66.0,15.0,0.0,1.0,3,True
+498624,221158,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Sunset,3,Gen.G,FNATIC,13,6,t3xture,9196,neon,1.61,317.0,21.0,10.0,4.0,74.0,196.0,24.0,3.0,3.0,3,True
+498624,221158,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Sunset,3,Gen.G,FNATIC,13,6,Foxy9,11600,deadlock,1.47,262.0,21.0,10.0,3.0,79.0,159.0,47.0,1.0,1.0,3,True
+498624,221158,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Sunset,3,Gen.G,FNATIC,13,6,Ash,25017,sova,1.17,184.0,11.0,9.0,5.0,74.0,117.0,48.0,2.0,0.0,3,True
+498624,221158,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Sunset,3,Gen.G,FNATIC,13,6,Munchkin,2489,viper,0.72,127.0,8.0,11.0,3.0,74.0,90.0,31.0,1.0,3.0,3,True
+498624,221158,2282,Valorant Masters Toronto 2025,Playoffs: Upper Quarterfinals,2025-06-14,Sunset,3,Gen.G,FNATIC,13,6,Karon,34974,omen,0.58,101.0,7.0,12.0,4.0,58.0,69.0,23.0,1.0,4.0,3,True
+498629,221173,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Icebox,1,Xi Lai Gaming,G2 Esports,3,13,Viva,36415,sova,0.71,148.0,7.0,14.0,4.0,56.0,110.0,29.0,0.0,0.0,3,True
+498629,221173,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Icebox,1,Xi Lai Gaming,G2 Esports,3,13,Rarga,22047,jett,0.62,201.0,10.0,16.0,2.0,50.0,133.0,43.0,2.0,5.0,3,True
+498629,221173,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Icebox,1,Xi Lai Gaming,G2 Esports,3,13,happywei,37927,killjoy,0.58,146.0,8.0,14.0,1.0,31.0,99.0,52.0,1.0,6.0,3,True
+498629,221173,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Icebox,1,Xi Lai Gaming,G2 Esports,3,13,coconut,12365,viper,0.52,117.0,7.0,14.0,3.0,50.0,78.0,32.0,0.0,1.0,3,True
+498629,221173,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Icebox,1,Xi Lai Gaming,G2 Esports,3,13,Midi,37017,gekko,0.39,107.0,5.0,15.0,1.0,38.0,75.0,32.0,1.0,0.0,3,True
+498629,221173,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Icebox,1,G2 Esports,Xi Lai Gaming,13,3,leaf,7873,killjoy,1.95,358.0,22.0,5.0,2.0,94.0,213.0,24.0,4.0,0.0,3,True
+498629,221173,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Icebox,1,G2 Esports,Xi Lai Gaming,13,3,trent,15500,sova,1.68,268.0,16.0,6.0,4.0,100.0,179.0,38.0,3.0,0.0,3,True
+498629,221173,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Icebox,1,G2 Esports,Xi Lai Gaming,13,3,jawgemo,3993,sage,1.54,278.0,17.0,7.0,6.0,88.0,183.0,26.0,3.0,1.0,3,True
+498629,221173,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Icebox,1,G2 Esports,Xi Lai Gaming,13,3,JonahP,4581,viper,1.01,210.0,13.0,10.0,4.0,75.0,144.0,24.0,1.0,2.0,3,True
+498629,221173,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Icebox,1,G2 Esports,Xi Lai Gaming,13,3,valyn,3885,omen,0.76,76.0,5.0,9.0,5.0,81.0,35.0,20.0,1.0,1.0,3,True
+498629,221174,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,Xi Lai Gaming,G2 Esports,8,13,happywei,37927,cypher,1.4,270.0,20.0,13.0,5.0,76.0,165.0,47.0,4.0,2.0,3,True
+498629,221174,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,Xi Lai Gaming,G2 Esports,8,13,Rarga,22047,yoru,1.03,287.0,20.0,19.0,4.0,71.0,168.0,47.0,7.0,5.0,3,True
+498629,221174,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,Xi Lai Gaming,G2 Esports,8,13,Midi,37017,breach,0.93,153.0,14.0,15.0,4.0,71.0,108.0,45.0,0.0,1.0,3,True
+498629,221174,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,Xi Lai Gaming,G2 Esports,8,13,Viva,36415,sova,0.73,139.0,9.0,17.0,6.0,71.0,102.0,26.0,2.0,0.0,3,True
+498629,221174,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,Xi Lai Gaming,G2 Esports,8,13,coconut,12365,omen,0.65,113.0,7.0,16.0,9.0,71.0,75.0,18.0,0.0,0.0,3,True
+498629,221174,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,G2 Esports,Xi Lai Gaming,13,8,leaf,7873,vyse,1.46,247.0,20.0,12.0,6.0,86.0,180.0,38.0,0.0,1.0,3,True
+498629,221174,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,G2 Esports,Xi Lai Gaming,13,8,jawgemo,3993,yoru,1.01,260.0,18.0,16.0,11.0,81.0,161.0,25.0,3.0,5.0,3,True
+498629,221174,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,G2 Esports,Xi Lai Gaming,13,8,JonahP,4581,viper,1.0,181.0,14.0,12.0,6.0,71.0,104.0,23.0,1.0,4.0,3,True
+498629,221174,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,G2 Esports,Xi Lai Gaming,13,8,valyn,3885,omen,0.95,207.0,14.0,15.0,8.0,81.0,133.0,25.0,2.0,2.0,3,True
+498629,221174,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,G2 Esports,Xi Lai Gaming,13,8,trent,15500,fade,0.88,173.0,13.0,15.0,6.0,81.0,110.0,41.0,2.0,1.0,3,True
+498630,221176,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Lotus,1,Rex Regum Qeon,FNATIC,5,13,Monyet,8497,omen,0.83,188.0,10.0,16.0,5.0,67.0,131.0,29.0,1.0,4.0,3,True
+498630,221176,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Lotus,1,Rex Regum Qeon,FNATIC,5,13,crazyguy,1430,fade,0.81,193.0,11.0,17.0,4.0,44.0,119.0,13.0,3.0,1.0,3,True
+498630,221176,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Lotus,1,Rex Regum Qeon,FNATIC,5,13,xffero,4871,viper,0.69,149.0,9.0,15.0,3.0,56.0,103.0,26.0,2.0,1.0,3,True
+498630,221176,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Lotus,1,Rex Regum Qeon,FNATIC,5,13,Kushy,4866,vyse,0.5,122.0,7.0,15.0,4.0,56.0,74.0,29.0,0.0,3.0,3,True
+498630,221176,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Lotus,1,Rex Regum Qeon,FNATIC,5,13,Jemkin,24895,raze,0.29,99.0,6.0,16.0,0.0,44.0,71.0,21.0,1.0,2.0,3,True
+498630,221176,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Lotus,1,FNATIC,Rex Regum Qeon,13,5,Chronicle,458,viper,1.71,283.0,18.0,6.0,7.0,94.0,174.0,20.0,4.0,0.0,3,True
+498630,221176,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Lotus,1,FNATIC,Rex Regum Qeon,13,5,crashies,4,fade,1.58,201.0,15.0,6.0,10.0,78.0,122.0,26.0,0.0,1.0,3,True
+498630,221176,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Lotus,1,FNATIC,Rex Regum Qeon,13,5,kaajak,9554,raze,1.55,308.0,21.0,11.0,5.0,83.0,221.0,35.0,4.0,1.0,3,True
+498630,221176,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Lotus,1,FNATIC,Rex Regum Qeon,13,5,Alfajer,9810,killjoy,1.13,212.0,15.0,10.0,3.0,94.0,145.0,32.0,2.0,3.0,3,True
+498630,221176,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Lotus,1,FNATIC,Rex Regum Qeon,13,5,Boaster,438,omen,0.91,143.0,10.0,10.0,8.0,83.0,100.0,18.0,1.0,2.0,3,True
+498630,221177,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,Rex Regum Qeon,FNATIC,13,6,Jemkin,24895,yoru,1.41,261.0,19.0,11.0,1.0,68.0,179.0,56.0,4.0,1.0,3,True
+498630,221177,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,Rex Regum Qeon,FNATIC,13,6,xffero,4871,cypher,1.15,178.0,14.0,10.0,3.0,68.0,116.0,26.0,1.0,2.0,3,True
+498630,221177,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,Rex Regum Qeon,FNATIC,13,6,crazyguy,1430,omen,1.14,144.0,10.0,8.0,9.0,89.0,99.0,46.0,3.0,2.0,3,True
+498630,221177,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,Rex Regum Qeon,FNATIC,13,6,Monyet,8497,neon,1.13,242.0,16.0,13.0,6.0,68.0,164.0,25.0,1.0,3.0,3,True
+498630,221177,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,Rex Regum Qeon,FNATIC,13,6,Kushy,4866,sova,0.77,137.0,9.0,12.0,5.0,63.0,90.0,32.0,1.0,1.0,3,True
+498630,221177,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,FNATIC,Rex Regum Qeon,6,13,crashies,4,sova,1.24,251.0,17.0,12.0,4.0,84.0,168.0,45.0,0.0,1.0,3,True
+498630,221177,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,FNATIC,Rex Regum Qeon,6,13,Chronicle,458,cypher,1.11,189.0,12.0,12.0,5.0,68.0,119.0,35.0,2.0,1.0,3,True
+498630,221177,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,FNATIC,Rex Regum Qeon,6,13,kaajak,9554,yoru,0.84,215.0,13.0,15.0,2.0,58.0,131.0,35.0,6.0,1.0,3,True
+498630,221177,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,FNATIC,Rex Regum Qeon,6,13,Alfajer,9810,iso,0.54,131.0,8.0,15.0,5.0,58.0,99.0,32.0,0.0,4.0,3,True
+498630,221177,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Haven,2,FNATIC,Rex Regum Qeon,6,13,Boaster,438,omen,0.41,71.0,4.0,14.0,5.0,42.0,38.0,38.0,1.0,3.0,3,True
+498630,221178,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Ascent,3,Rex Regum Qeon,FNATIC,5,13,xffero,4871,cypher,0.98,201.0,12.0,14.0,1.0,61.0,132.0,40.0,3.0,1.0,3,True
+498630,221178,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Ascent,3,Rex Regum Qeon,FNATIC,5,13,Kushy,4866,sova,0.95,231.0,13.0,14.0,5.0,67.0,148.0,43.0,0.0,0.0,3,True
+498630,221178,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Ascent,3,Rex Regum Qeon,FNATIC,5,13,Monyet,8497,omen,0.59,125.0,8.0,15.0,2.0,44.0,84.0,21.0,0.0,3.0,3,True
+498630,221178,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Ascent,3,Rex Regum Qeon,FNATIC,5,13,crazyguy,1430,kayo,0.58,127.0,7.0,15.0,5.0,44.0,78.0,47.0,0.0,1.0,3,True
+498630,221178,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Ascent,3,Rex Regum Qeon,FNATIC,5,13,Jemkin,24895,jett,0.35,142.0,9.0,17.0,2.0,61.0,92.0,42.0,6.0,4.0,3,True
+498630,221178,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Ascent,3,FNATIC,Rex Regum Qeon,13,5,Alfajer,9810,chamber,1.52,349.0,24.0,13.0,0.0,67.0,211.0,26.0,5.0,3.0,3,True
+498630,221178,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Ascent,3,FNATIC,Rex Regum Qeon,13,5,kaajak,9554,yoru,1.22,248.0,17.0,10.0,4.0,83.0,154.0,53.0,4.0,5.0,3,True
+498630,221178,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Ascent,3,FNATIC,Rex Regum Qeon,13,5,crashies,4,sova,1.17,177.0,11.0,9.0,7.0,94.0,124.0,26.0,0.0,0.0,3,True
+498630,221178,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Ascent,3,FNATIC,Rex Regum Qeon,13,5,Boaster,438,omen,1.16,176.0,13.0,8.0,5.0,72.0,119.0,47.0,0.0,1.0,3,True
+498630,221178,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 1,2025-06-15,Ascent,3,FNATIC,Rex Regum Qeon,13,5,Chronicle,458,vyse,1.16,183.0,10.0,9.0,8.0,83.0,118.0,29.0,0.0,0.0,3,True
+498626,221162,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Wolves Esports,Gen.G,13,11,Spring,14125,viper,1.45,239.0,19.0,12.0,6.0,88.0,163.0,24.0,1.0,2.0,3,True
+498626,221162,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Wolves Esports,Gen.G,13,11,Yuicaw,11218,cypher,1.26,204.0,18.0,14.0,2.0,75.0,143.0,33.0,3.0,1.0,3,True
+498626,221162,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Wolves Esports,Gen.G,13,11,Lysoar,37489,omen,1.2,221.0,19.0,15.0,8.0,75.0,140.0,26.0,3.0,0.0,3,True
+498626,221162,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Wolves Esports,Gen.G,13,11,SiuFatBB,7849,fade,0.88,146.0,13.0,14.0,4.0,83.0,98.0,24.0,1.0,1.0,3,True
+498626,221162,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Wolves Esports,Gen.G,13,11,Juicy,7426,raze,0.62,144.0,12.0,17.0,3.0,50.0,99.0,20.0,3.0,9.0,3,True
+498626,221162,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Gen.G,Wolves Esports,11,13,Karon,34974,omen,1.46,229.0,20.0,12.0,12.0,83.0,146.0,28.0,1.0,2.0,3,True
+498626,221162,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Gen.G,Wolves Esports,11,13,t3xture,9196,neon,1.0,225.0,19.0,17.0,3.0,71.0,124.0,32.0,8.0,4.0,3,True
+498626,221162,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Gen.G,Wolves Esports,11,13,Foxy9,11600,deadlock,0.84,199.0,18.0,19.0,6.0,67.0,117.0,26.0,3.0,1.0,3,True
+498626,221162,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Gen.G,Wolves Esports,11,13,Munchkin,2489,viper,0.59,137.0,9.0,18.0,12.0,75.0,97.0,11.0,0.0,2.0,3,True
+498626,221162,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Gen.G,Wolves Esports,11,13,Ash,25017,tejo,0.46,64.0,5.0,15.0,3.0,63.0,49.0,14.0,1.0,2.0,3,True
+498626,221163,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Wolves Esports,Gen.G,13,9,SiuFatBB,7849,sova,1.29,193.0,17.0,11.0,6.0,77.0,137.0,37.0,1.0,2.0,3,True
+498626,221163,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Wolves Esports,Gen.G,13,9,Spring,14125,omen,1.19,237.0,18.0,16.0,13.0,73.0,155.0,37.0,2.0,2.0,3,True
+498626,221163,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Wolves Esports,Gen.G,13,9,Lysoar,37489,cypher,1.07,173.0,13.0,14.0,5.0,64.0,116.0,24.0,4.0,0.0,3,True
+498626,221163,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Wolves Esports,Gen.G,13,9,Yuicaw,11218,raze,0.95,226.0,18.0,18.0,3.0,59.0,155.0,26.0,3.0,2.0,3,True
+498626,221163,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Wolves Esports,Gen.G,13,9,Juicy,7426,yoru,0.72,139.0,11.0,16.0,5.0,68.0,108.0,33.0,4.0,2.0,3,True
+498626,221163,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Gen.G,Wolves Esports,9,13,t3xture,9196,neon,1.44,298.0,25.0,16.0,6.0,86.0,200.0,34.0,4.0,4.0,3,True
+498626,221163,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Gen.G,Wolves Esports,9,13,Ash,25017,sova,1.25,232.0,19.0,15.0,5.0,77.0,163.0,47.0,1.0,0.0,3,True
+498626,221163,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Gen.G,Wolves Esports,9,13,Munchkin,2489,viper,0.89,165.0,11.0,13.0,6.0,68.0,114.0,21.0,1.0,3.0,3,True
+498626,221163,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Gen.G,Wolves Esports,9,13,Karon,34974,omen,0.78,157.0,11.0,16.0,8.0,73.0,98.0,28.0,1.0,2.0,3,True
+498626,221163,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Gen.G,Wolves Esports,9,13,Foxy9,11600,deadlock,0.45,114.0,9.0,17.0,4.0,64.0,71.0,38.0,1.0,5.0,3,True
+498625,221159,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Sentinels,Paper Rex,3,13,bang,3880,omen,1.12,240.0,13.0,13.0,4.0,63.0,147.0,41.0,2.0,2.0,3,True
+498625,221159,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Sentinels,Paper Rex,3,13,N4RRATE,36245,breach,1.07,230.0,13.0,15.0,7.0,81.0,146.0,29.0,0.0,2.0,3,True
+498625,221159,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Sentinels,Paper Rex,3,13,zekken,4004,yoru,0.77,209.0,11.0,15.0,5.0,69.0,126.0,17.0,5.0,4.0,3,True
+498625,221159,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Sentinels,Paper Rex,3,13,Zellsis,729,viper,0.54,110.0,5.0,14.0,6.0,56.0,85.0,22.0,0.0,1.0,3,True
+498625,221159,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Sentinels,Paper Rex,3,13,johnqt,1265,skye,0.26,93.0,4.0,15.0,5.0,63.0,68.0,21.0,0.0,0.0,3,True
+498625,221159,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Paper Rex,Sentinels,13,3,PatMen,13744,fade,1.49,234.0,14.0,7.0,5.0,94.0,159.0,33.0,0.0,1.0,3,True
+498625,221159,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Paper Rex,Sentinels,13,3,Jinggg,7378,raze,1.37,257.0,16.0,9.0,1.0,88.0,172.0,36.0,1.0,2.0,3,True
+498625,221159,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Paper Rex,Sentinels,13,3,f0rsakeN,9801,omen,1.27,180.0,11.0,8.0,14.0,88.0,132.0,48.0,0.0,2.0,3,True
+498625,221159,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Paper Rex,Sentinels,13,3,something,17086,yoru,1.2,297.0,17.0,12.0,2.0,81.0,167.0,24.0,7.0,1.0,3,True
+498625,221159,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Split,1,Paper Rex,Sentinels,13,3,d4v41,9803,viper,1.08,246.0,14.0,10.0,3.0,81.0,164.0,16.0,1.0,1.0,3,True
+498625,221160,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Sentinels,Paper Rex,11,13,zekken,4004,neon,1.25,247.0,21.0,16.0,4.0,63.0,138.0,15.0,5.0,4.0,3,True
+498625,221160,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Sentinels,Paper Rex,11,13,N4RRATE,36245,fade,1.12,226.0,16.0,17.0,13.0,83.0,144.0,24.0,2.0,0.0,3,True
+498625,221160,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Sentinels,Paper Rex,11,13,johnqt,1265,breach,1.0,159.0,14.0,15.0,8.0,63.0,115.0,30.0,2.0,2.0,3,True
+498625,221160,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Sentinels,Paper Rex,11,13,bang,3880,omen,0.96,202.0,16.0,17.0,9.0,71.0,120.0,29.0,3.0,0.0,3,True
+498625,221160,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Sentinels,Paper Rex,11,13,Zellsis,729,cypher,0.67,142.0,11.0,18.0,6.0,58.0,89.0,15.0,2.0,4.0,3,True
+498625,221160,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Paper Rex,Sentinels,13,11,something,17086,sova,1.18,186.0,16.0,13.0,8.0,83.0,123.0,28.0,0.0,1.0,3,True
+498625,221160,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Paper Rex,Sentinels,13,11,d4v41,9803,sage,1.13,177.0,18.0,13.0,3.0,75.0,125.0,23.0,0.0,1.0,3,True
+498625,221160,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Paper Rex,Sentinels,13,11,Jinggg,7378,raze,1.11,285.0,23.0,18.0,3.0,67.0,183.0,22.0,5.0,6.0,3,True
+498625,221160,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Paper Rex,Sentinels,13,11,PatMen,13744,viper,0.84,182.0,15.0,17.0,5.0,63.0,110.0,26.0,3.0,4.0,3,True
+498625,221160,2282,Valorant Masters Toronto 2025,Playoffs: Upper Semifinals,2025-06-16,Sunset,2,Paper Rex,Sentinels,13,11,f0rsakeN,9801,omen,0.8,157.0,11.0,17.0,11.0,71.0,108.0,16.0,2.0,2.0,3,True
+498631,221179,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Lotus,1,Gen.G,G2 Esports,7,13,Munchkin,2489,viper,1.0,223.0,14.0,16.0,3.0,60.0,148.0,39.0,2.0,2.0,3,True
+498631,221179,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Lotus,1,Gen.G,G2 Esports,7,13,Karon,34974,omen,0.83,160.0,11.0,17.0,6.0,65.0,103.0,28.0,1.0,2.0,3,True
+498631,221179,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Lotus,1,Gen.G,G2 Esports,7,13,t3xture,9196,raze,0.73,142.0,12.0,15.0,1.0,50.0,84.0,22.0,4.0,5.0,3,True
+498631,221179,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Lotus,1,Gen.G,G2 Esports,7,13,Ash,25017,fade,0.63,169.0,11.0,17.0,3.0,45.0,120.0,27.0,0.0,1.0,3,True
+498631,221179,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Lotus,1,Gen.G,G2 Esports,7,13,Foxy9,11600,vyse,0.53,142.0,9.0,17.0,6.0,65.0,82.0,63.0,2.0,1.0,3,True
+498631,221179,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Lotus,1,G2 Esports,Gen.G,13,7,jawgemo,3993,yoru,1.48,285.0,19.0,12.0,9.0,85.0,179.0,21.0,7.0,3.0,3,True
+498631,221179,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Lotus,1,G2 Esports,Gen.G,13,7,valyn,3885,omen,1.31,239.0,20.0,11.0,6.0,85.0,152.0,51.0,1.0,2.0,3,True
+498631,221179,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Lotus,1,G2 Esports,Gen.G,13,7,leaf,7873,viper,1.25,188.0,15.0,11.0,9.0,85.0,133.0,40.0,1.0,0.0,3,True
+498631,221179,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Lotus,1,G2 Esports,Gen.G,13,7,JonahP,4581,fade,1.18,190.0,14.0,11.0,12.0,80.0,127.0,25.0,1.0,2.0,3,True
+498631,221179,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Lotus,1,G2 Esports,Gen.G,13,7,trent,15500,tejo,1.04,204.0,14.0,12.0,6.0,90.0,131.0,37.0,1.0,2.0,3,True
+498631,221180,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Haven,2,Gen.G,G2 Esports,13,11,t3xture,9196,neon,1.28,248.0,22.0,14.0,5.0,79.0,154.0,26.0,5.0,4.0,3,True
+498631,221180,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Haven,2,Gen.G,G2 Esports,13,11,Munchkin,2489,viper,1.12,244.0,20.0,17.0,7.0,79.0,165.0,30.0,4.0,3.0,3,True
+498631,221180,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Haven,2,Gen.G,G2 Esports,13,11,Ash,25017,sova,1.03,170.0,16.0,13.0,8.0,79.0,115.0,32.0,0.0,0.0,3,True
+498631,221180,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Haven,2,Gen.G,G2 Esports,13,11,Karon,34974,omen,1.03,183.0,16.0,13.0,4.0,71.0,132.0,36.0,3.0,2.0,3,True
+498631,221180,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Haven,2,Gen.G,G2 Esports,13,11,Foxy9,11600,killjoy,0.75,143.0,12.0,16.0,5.0,67.0,101.0,25.0,3.0,0.0,3,True
+498631,221180,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Haven,2,G2 Esports,Gen.G,11,13,leaf,7873,vyse,1.21,188.0,16.0,15.0,6.0,79.0,128.0,17.0,1.0,2.0,3,True
+498631,221180,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Haven,2,G2 Esports,Gen.G,11,13,JonahP,4581,viper,1.17,225.0,20.0,17.0,6.0,75.0,143.0,22.0,1.0,4.0,3,True
+498631,221180,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Haven,2,G2 Esports,Gen.G,11,13,trent,15500,fade,1.01,192.0,16.0,17.0,5.0,71.0,135.0,40.0,2.0,3.0,3,True
+498631,221180,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Haven,2,G2 Esports,Gen.G,11,13,valyn,3885,omen,0.67,106.0,7.0,17.0,10.0,71.0,74.0,15.0,0.0,1.0,3,True
+498631,221180,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Haven,2,G2 Esports,Gen.G,11,13,jawgemo,3993,yoru,0.66,172.0,14.0,20.0,1.0,58.0,123.0,17.0,5.0,5.0,3,True
+498631,221181,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,Gen.G,G2 Esports,11,13,Ash,25017,sova,1.14,207.0,18.0,15.0,4.0,67.0,131.0,25.0,3.0,2.0,3,True
+498631,221181,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,Gen.G,G2 Esports,11,13,t3xture,9196,jett,1.0,242.0,21.0,17.0,3.0,67.0,157.0,33.0,2.0,3.0,3,True
+498631,221181,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,Gen.G,G2 Esports,11,13,Munchkin,2489,viper,0.87,219.0,17.0,18.0,6.0,79.0,148.0,24.0,4.0,4.0,3,True
+498631,221181,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,Gen.G,G2 Esports,11,13,Foxy9,11600,killjoy,0.73,156.0,13.0,17.0,3.0,63.0,111.0,28.0,2.0,1.0,3,True
+498631,221181,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,Gen.G,G2 Esports,11,13,Karon,34974,omen,0.56,102.0,9.0,18.0,4.0,67.0,66.0,33.0,1.0,2.0,3,True
+498631,221181,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,G2 Esports,Gen.G,13,11,leaf,7873,killjoy,1.39,284.0,24.0,16.0,6.0,79.0,197.0,21.0,1.0,1.0,3,True
+498631,221181,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,G2 Esports,Gen.G,13,11,trent,15500,sova,1.19,207.0,19.0,16.0,5.0,75.0,132.0,41.0,2.0,0.0,3,True
+498631,221181,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,G2 Esports,Gen.G,13,11,jawgemo,3993,sage,1.13,185.0,16.0,15.0,10.0,92.0,127.0,30.0,2.0,3.0,3,True
+498631,221181,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,G2 Esports,Gen.G,13,11,valyn,3885,omen,1.1,211.0,17.0,15.0,7.0,71.0,127.0,16.0,6.0,4.0,3,True
+498631,221181,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,G2 Esports,Gen.G,13,11,JonahP,4581,viper,0.68,125.0,9.0,16.0,7.0,67.0,95.0,23.0,1.0,4.0,3,True
+498632,221182,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Sunset,1,Sentinels,FNATIC,13,9,Zellsis,729,cypher,1.43,247.0,20.0,13.0,6.0,82.0,167.0,25.0,0.0,1.0,3,True
+498632,221182,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Sunset,1,Sentinels,FNATIC,13,9,N4RRATE,36245,fade,1.4,289.0,21.0,14.0,6.0,68.0,191.0,27.0,4.0,2.0,3,True
+498632,221182,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Sunset,1,Sentinels,FNATIC,13,9,bang,3880,omen,1.04,224.0,19.0,16.0,5.0,73.0,124.0,37.0,2.0,2.0,3,True
+498632,221182,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Sunset,1,Sentinels,FNATIC,13,9,zekken,4004,neon,0.96,185.0,14.0,14.0,6.0,68.0,106.0,15.0,3.0,7.0,3,True
+498632,221182,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Sunset,1,Sentinels,FNATIC,13,9,johnqt,1265,breach,0.67,84.0,6.0,11.0,6.0,86.0,62.0,26.0,0.0,1.0,3,True
+498632,221182,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Sunset,1,FNATIC,Sentinels,9,13,Alfajer,9810,cypher,1.12,245.0,20.0,16.0,2.0,68.0,163.0,35.0,0.0,2.0,3,True
+498632,221182,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Sunset,1,FNATIC,Sentinels,9,13,kaajak,9554,neon,1.09,229.0,17.0,16.0,2.0,68.0,141.0,36.0,7.0,6.0,3,True
+498632,221182,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Sunset,1,FNATIC,Sentinels,9,13,Chronicle,458,viper,1.0,207.0,16.0,17.0,4.0,64.0,148.0,31.0,2.0,1.0,3,True
+498632,221182,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Sunset,1,FNATIC,Sentinels,9,13,Boaster,438,omen,0.53,113.0,7.0,17.0,9.0,59.0,71.0,27.0,3.0,0.0,3,True
+498632,221182,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Sunset,1,FNATIC,Sentinels,9,13,crashies,4,sova,0.52,99.0,8.0,15.0,4.0,68.0,79.0,33.0,1.0,0.0,3,True
+498632,221183,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Ascent,2,Sentinels,FNATIC,7,13,bang,3880,omen,1.26,216.0,15.0,14.0,5.0,70.0,143.0,33.0,1.0,1.0,3,True
+498632,221183,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Ascent,2,Sentinels,FNATIC,7,13,zekken,4004,waylay,0.99,227.0,15.0,16.0,3.0,70.0,132.0,27.0,3.0,7.0,3,True
+498632,221183,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Ascent,2,Sentinels,FNATIC,7,13,N4RRATE,36245,tejo,0.94,215.0,15.0,15.0,5.0,60.0,142.0,21.0,1.0,4.0,3,True
+498632,221183,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Ascent,2,Sentinels,FNATIC,7,13,Zellsis,729,vyse,0.78,120.0,8.0,15.0,6.0,80.0,87.0,19.0,1.0,1.0,3,True
+498632,221183,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Ascent,2,Sentinels,FNATIC,7,13,johnqt,1265,kayo,0.42,73.0,5.0,16.0,8.0,80.0,49.0,19.0,0.0,1.0,3,True
+498632,221183,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Ascent,2,FNATIC,Sentinels,13,7,crashies,4,sova,1.3,228.0,18.0,10.0,3.0,75.0,160.0,28.0,1.0,0.0,3,True
+498632,221183,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Ascent,2,FNATIC,Sentinels,13,7,Alfajer,9810,chamber,1.28,237.0,19.0,11.0,2.0,75.0,153.0,31.0,4.0,2.0,3,True
+498632,221183,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Ascent,2,FNATIC,Sentinels,13,7,Chronicle,458,vyse,1.07,219.0,15.0,12.0,7.0,80.0,150.0,32.0,3.0,1.0,3,True
+498632,221183,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Ascent,2,FNATIC,Sentinels,13,7,Boaster,438,omen,1.05,162.0,10.0,10.0,11.0,85.0,97.0,15.0,3.0,0.0,3,True
+498632,221183,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Ascent,2,FNATIC,Sentinels,13,7,kaajak,9554,yoru,0.83,189.0,14.0,15.0,2.0,60.0,120.0,50.0,3.0,3.0,3,True
+498632,221184,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,Sentinels,FNATIC,9,13,Zellsis,729,killjoy,1.04,162.0,13.0,12.0,4.0,64.0,119.0,27.0,1.0,1.0,3,True
+498632,221184,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,Sentinels,FNATIC,9,13,N4RRATE,36245,gekko,1.04,246.0,17.0,19.0,6.0,73.0,155.0,24.0,1.0,2.0,3,True
+498632,221184,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,Sentinels,FNATIC,9,13,zekken,4004,omen,0.9,172.0,12.0,17.0,13.0,68.0,111.0,21.0,1.0,4.0,3,True
+498632,221184,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,Sentinels,FNATIC,9,13,johnqt,1265,kayo,0.85,180.0,14.0,16.0,6.0,64.0,112.0,30.0,2.0,5.0,3,True
+498632,221184,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,Sentinels,FNATIC,9,13,bang,3880,viper,0.6,128.0,11.0,17.0,8.0,59.0,73.0,29.0,1.0,4.0,3,True
+498632,221184,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,FNATIC,Sentinels,13,9,Alfajer,9810,killjoy,1.51,337.0,27.0,14.0,2.0,86.0,213.0,32.0,7.0,0.0,3,True
+498632,221184,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,FNATIC,Sentinels,13,9,kaajak,9554,jett,1.26,244.0,19.0,14.0,1.0,77.0,161.0,33.0,5.0,3.0,3,True
+498632,221184,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,FNATIC,Sentinels,13,9,crashies,4,sova,1.03,168.0,14.0,12.0,4.0,68.0,139.0,28.0,1.0,1.0,3,True
+498632,221184,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,FNATIC,Sentinels,13,9,Chronicle,458,sage,0.88,153.0,11.0,13.0,10.0,73.0,108.0,17.0,2.0,2.0,3,True
+498632,221184,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 2,2025-06-17,Icebox,3,FNATIC,Sentinels,13,9,Boaster,438,viper,0.76,133.0,10.0,14.0,4.0,73.0,88.0,27.0,1.0,0.0,3,True
+498627,221165,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Lotus,1,Paper Rex,Wolves Esports,14,12,d4v41,9803,vyse,1.49,279.0,26.0,16.0,10.0,77.0,190.0,28.0,3.0,1.0,3,True
+498627,221165,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Lotus,1,Paper Rex,Wolves Esports,14,12,f0rsakeN,9801,omen,1.44,266.0,25.0,18.0,11.0,85.0,180.0,32.0,4.0,3.0,3,True
+498627,221165,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Lotus,1,Paper Rex,Wolves Esports,14,12,Jinggg,7378,raze,1.06,222.0,20.0,19.0,6.0,65.0,145.0,30.0,4.0,1.0,3,True
+498627,221165,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Lotus,1,Paper Rex,Wolves Esports,14,12,something,17086,yoru,0.85,154.0,16.0,18.0,9.0,85.0,88.0,30.0,3.0,6.0,3,True
+498627,221165,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Lotus,1,Paper Rex,Wolves Esports,14,12,PatMen,13744,fade,0.71,144.0,11.0,18.0,12.0,62.0,90.0,14.0,1.0,0.0,3,True
+498627,221165,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Lotus,1,Wolves Esports,Paper Rex,12,14,Yuicaw,11218,killjoy,1.26,243.0,24.0,17.0,2.0,69.0,160.0,26.0,3.0,0.0,3,True
+498627,221165,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Lotus,1,Wolves Esports,Paper Rex,12,14,Spring,14125,viper,1.02,217.0,18.0,19.0,9.0,81.0,161.0,30.0,2.0,3.0,3,True
+498627,221165,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Lotus,1,Wolves Esports,Paper Rex,12,14,SiuFatBB,7849,fade,0.94,149.0,15.0,17.0,5.0,65.0,100.0,24.0,0.0,1.0,3,True
+498627,221165,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Lotus,1,Wolves Esports,Paper Rex,12,14,Juicy,7426,raze,0.72,207.0,19.0,23.0,4.0,69.0,125.0,11.0,1.0,5.0,3,True
+498627,221165,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Lotus,1,Wolves Esports,Paper Rex,12,14,Lysoar,37489,omen,0.63,164.0,13.0,22.0,11.0,81.0,99.0,31.0,5.0,6.0,3,True
+498627,221166,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Ascent,2,Paper Rex,Wolves Esports,13,8,something,17086,jett,1.33,246.0,19.0,13.0,5.0,76.0,148.0,12.0,5.0,5.0,3,True
+498627,221166,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Ascent,2,Paper Rex,Wolves Esports,13,8,f0rsakeN,9801,fade,1.15,211.0,15.0,15.0,8.0,71.0,130.0,15.0,4.0,1.0,3,True
+498627,221166,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Ascent,2,Paper Rex,Wolves Esports,13,8,PatMen,13744,kayo,1.04,212.0,14.0,15.0,11.0,90.0,137.0,24.0,0.0,0.0,3,True
+498627,221166,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Ascent,2,Paper Rex,Wolves Esports,13,8,d4v41,9803,viper,1.03,180.0,14.0,15.0,4.0,67.0,135.0,26.0,0.0,1.0,3,True
+498627,221166,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Ascent,2,Paper Rex,Wolves Esports,13,8,Jinggg,7378,omen,0.97,188.0,15.0,14.0,6.0,81.0,121.0,30.0,2.0,3.0,3,True
+498627,221166,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Ascent,2,Wolves Esports,Paper Rex,8,13,Spring,14125,omen,1.2,254.0,17.0,15.0,9.0,86.0,176.0,28.0,3.0,1.0,3,True
+498627,221166,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Ascent,2,Wolves Esports,Paper Rex,8,13,Juicy,7426,yoru,1.01,253.0,18.0,16.0,8.0,76.0,155.0,28.0,3.0,1.0,3,True
+498627,221166,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Ascent,2,Wolves Esports,Paper Rex,8,13,Yuicaw,11218,cypher,0.8,165.0,11.0,15.0,6.0,57.0,107.0,31.0,2.0,3.0,3,True
+498627,221166,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Ascent,2,Wolves Esports,Paper Rex,8,13,SiuFatBB,7849,sova,0.78,142.0,13.0,14.0,3.0,76.0,91.0,39.0,0.0,2.0,3,True
+498627,221166,2282,Valorant Masters Toronto 2025,Playoffs: Upper Final,2025-06-20,Ascent,2,Wolves Esports,Paper Rex,8,13,Lysoar,37489,deadlock,0.77,171.0,13.0,17.0,4.0,67.0,106.0,43.0,2.0,4.0,3,True
+498633,221185,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Lotus,1,G2 Esports,FNATIC,10,13,valyn,3885,omen,1.16,196.0,18.0,16.0,9.0,70.0,125.0,20.0,1.0,1.0,3,True
+498633,221185,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Lotus,1,G2 Esports,FNATIC,10,13,leaf,7873,viper,1.05,208.0,17.0,17.0,4.0,65.0,138.0,18.0,1.0,3.0,3,True
+498633,221185,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Lotus,1,G2 Esports,FNATIC,10,13,trent,15500,tejo,1.04,202.0,16.0,15.0,6.0,78.0,133.0,38.0,3.0,2.0,3,True
+498633,221185,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Lotus,1,G2 Esports,FNATIC,10,13,JonahP,4581,fade,0.7,173.0,12.0,18.0,9.0,78.0,102.0,21.0,1.0,4.0,3,True
+498633,221185,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Lotus,1,G2 Esports,FNATIC,10,13,jawgemo,3993,yoru,0.38,150.0,11.0,21.0,2.0,57.0,108.0,23.0,1.0,6.0,3,True
+498633,221185,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Lotus,1,FNATIC,G2 Esports,13,10,Chronicle,458,viper,1.77,354.0,27.0,13.0,10.0,96.0,232.0,25.0,2.0,0.0,3,True
+498633,221185,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Lotus,1,FNATIC,G2 Esports,13,10,Alfajer,9810,killjoy,1.62,284.0,25.0,14.0,2.0,87.0,192.0,46.0,9.0,0.0,3,True
+498633,221185,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Lotus,1,FNATIC,G2 Esports,13,10,kaajak,9554,raze,0.97,188.0,17.0,15.0,2.0,70.0,118.0,28.0,2.0,5.0,3,True
+498633,221185,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Lotus,1,FNATIC,G2 Esports,13,10,crashies,4,fade,0.73,134.0,11.0,16.0,6.0,70.0,89.0,18.0,1.0,0.0,3,True
+498633,221185,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Lotus,1,FNATIC,G2 Esports,13,10,Boaster,438,omen,0.6,105.0,7.0,16.0,10.0,70.0,76.0,24.0,2.0,2.0,3,True
+498633,221186,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Split,2,G2 Esports,FNATIC,10,13,trent,15500,fade,1.28,223.0,19.0,16.0,6.0,74.0,130.0,28.0,1.0,1.0,3,True
+498633,221186,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Split,2,G2 Esports,FNATIC,10,13,JonahP,4581,breach,1.07,197.0,14.0,17.0,14.0,83.0,120.0,24.0,0.0,1.0,3,True
+498633,221186,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Split,2,G2 Esports,FNATIC,10,13,jawgemo,3993,yoru,0.8,174.0,13.0,18.0,2.0,65.0,112.0,16.0,3.0,8.0,3,True
+498633,221186,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Split,2,G2 Esports,FNATIC,10,13,leaf,7873,viper,0.68,215.0,18.0,22.0,3.0,61.0,124.0,25.0,2.0,4.0,3,True
+498633,221186,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Split,2,G2 Esports,FNATIC,10,13,valyn,3885,omen,0.56,133.0,9.0,21.0,13.0,61.0,89.0,20.0,0.0,3.0,3,True
+498633,221186,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Split,2,FNATIC,G2 Esports,13,10,Boaster,438,astra,1.43,241.0,21.0,14.0,10.0,87.0,170.0,33.0,4.0,0.0,3,True
+498633,221186,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Split,2,FNATIC,G2 Esports,13,10,Alfajer,9810,raze,1.35,272.0,21.0,13.0,7.0,83.0,184.0,29.0,6.0,3.0,3,True
+498633,221186,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Split,2,FNATIC,G2 Esports,13,10,Chronicle,458,viper,1.13,236.0,20.0,16.0,7.0,83.0,156.0,21.0,2.0,1.0,3,True
+498633,221186,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Split,2,FNATIC,G2 Esports,13,10,kaajak,9554,yoru,1.09,220.0,20.0,16.0,5.0,78.0,148.0,43.0,2.0,2.0,3,True
+498633,221186,2282,Valorant Masters Toronto 2025,Playoffs: Lower Round 3,2025-06-20,Split,2,FNATIC,G2 Esports,13,10,crashies,4,fade,0.77,149.0,12.0,14.0,8.0,78.0,110.0,39.0,3.0,0.0,3,True
+498634,221188,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Split,1,Wolves Esports,FNATIC,9,13,Juicy,7426,raze,1.05,215.0,16.0,16.0,2.0,64.0,140.0,24.0,4.0,4.0,5,True
+498634,221188,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Split,1,Wolves Esports,FNATIC,9,13,Lysoar,37489,omen,1.02,188.0,15.0,17.0,7.0,77.0,126.0,37.0,2.0,0.0,5,True
+498634,221188,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Split,1,Wolves Esports,FNATIC,9,13,Spring,14125,viper,0.99,231.0,17.0,16.0,3.0,64.0,149.0,25.0,4.0,4.0,5,True
+498634,221188,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Split,1,Wolves Esports,FNATIC,9,13,SiuFatBB,7849,fade,0.96,166.0,12.0,15.0,8.0,68.0,112.0,23.0,1.0,0.0,5,True
+498634,221188,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Split,1,Wolves Esports,FNATIC,9,13,Yuicaw,11218,cypher,0.44,111.0,8.0,18.0,0.0,41.0,81.0,28.0,1.0,2.0,5,True
+498634,221188,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Split,1,FNATIC,Wolves Esports,13,9,Chronicle,458,viper,1.27,240.0,19.0,12.0,5.0,82.0,155.0,25.0,1.0,2.0,5,True
+498634,221188,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Split,1,FNATIC,Wolves Esports,13,9,crashies,4,fade,1.13,172.0,14.0,13.0,11.0,77.0,125.0,32.0,2.0,1.0,5,True
+498634,221188,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Split,1,FNATIC,Wolves Esports,13,9,kaajak,9554,yoru,1.07,220.0,18.0,13.0,3.0,68.0,129.0,21.0,4.0,3.0,5,True
+498634,221188,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Split,1,FNATIC,Wolves Esports,13,9,Alfajer,9810,raze,1.0,267.0,21.0,17.0,3.0,68.0,165.0,25.0,1.0,4.0,5,True
+498634,221188,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Split,1,FNATIC,Wolves Esports,13,9,Boaster,438,astra,0.75,139.0,10.0,13.0,6.0,86.0,92.0,33.0,2.0,2.0,5,True
+498634,221189,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Icebox,2,Wolves Esports,FNATIC,4,13,Spring,14125,viper,1.22,286.0,16.0,15.0,3.0,71.0,173.0,28.0,1.0,1.0,5,True
+498634,221189,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Icebox,2,Wolves Esports,FNATIC,4,13,Lysoar,37489,killjoy,0.91,218.0,13.0,14.0,1.0,59.0,136.0,23.0,1.0,2.0,5,True
+498634,221189,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Icebox,2,Wolves Esports,FNATIC,4,13,SiuFatBB,7849,sova,0.67,117.0,6.0,13.0,3.0,41.0,90.0,27.0,0.0,1.0,5,True
+498634,221189,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Icebox,2,Wolves Esports,FNATIC,4,13,Juicy,7426,jett,0.55,171.0,10.0,16.0,1.0,53.0,102.0,35.0,3.0,5.0,5,True
+498634,221189,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Icebox,2,Wolves Esports,FNATIC,4,13,Yuicaw,11218,gekko,0.29,88.0,5.0,16.0,4.0,47.0,51.0,50.0,0.0,3.0,5,True
+498634,221189,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Icebox,2,FNATIC,Wolves Esports,13,4,kaajak,9554,jett,1.47,285.0,16.0,8.0,5.0,76.0,197.0,57.0,5.0,1.0,5,True
+498634,221189,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Icebox,2,FNATIC,Wolves Esports,13,4,Boaster,438,viper,1.34,254.0,16.0,9.0,5.0,88.0,154.0,20.0,3.0,0.0,5,True
+498634,221189,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Icebox,2,FNATIC,Wolves Esports,13,4,Alfajer,9810,killjoy,1.25,276.0,18.0,12.0,2.0,82.0,180.0,33.0,3.0,2.0,5,True
+498634,221189,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Icebox,2,FNATIC,Wolves Esports,13,4,Chronicle,458,sage,1.09,178.0,11.0,9.0,11.0,82.0,111.0,31.0,1.0,1.0,5,True
+498634,221189,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Icebox,2,FNATIC,Wolves Esports,13,4,crashies,4,sova,0.89,181.0,13.0,12.0,2.0,82.0,133.0,58.0,0.0,1.0,5,True
+498634,221190,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Lotus,3,Wolves Esports,FNATIC,13,10,Spring,14125,viper,1.54,300.0,26.0,11.0,6.0,78.0,188.0,23.0,4.0,2.0,5,True
+498634,221190,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Lotus,3,Wolves Esports,FNATIC,13,10,Juicy,7426,raze,1.19,273.0,21.0,15.0,5.0,78.0,183.0,30.0,8.0,1.0,5,True
+498634,221190,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Lotus,3,Wolves Esports,FNATIC,13,10,Lysoar,37489,omen,0.93,198.0,17.0,14.0,6.0,78.0,114.0,20.0,2.0,2.0,5,True
+498634,221190,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Lotus,3,Wolves Esports,FNATIC,13,10,SiuFatBB,7849,fade,0.76,94.0,9.0,12.0,6.0,65.0,60.0,27.0,1.0,1.0,5,True
+498634,221190,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Lotus,3,Wolves Esports,FNATIC,13,10,Yuicaw,11218,killjoy,0.68,124.0,11.0,13.0,4.0,57.0,92.0,25.0,0.0,2.0,5,True
+498634,221190,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Lotus,3,FNATIC,Wolves Esports,10,13,crashies,4,fade,1.09,222.0,17.0,18.0,7.0,61.0,145.0,36.0,1.0,3.0,5,True
+498634,221190,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Lotus,3,FNATIC,Wolves Esports,10,13,Alfajer,9810,killjoy,1.05,223.0,19.0,17.0,5.0,61.0,156.0,32.0,3.0,3.0,5,True
+498634,221190,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Lotus,3,FNATIC,Wolves Esports,10,13,Chronicle,458,viper,1.0,179.0,13.0,18.0,8.0,61.0,123.0,21.0,1.0,2.0,5,True
+498634,221190,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Lotus,3,FNATIC,Wolves Esports,10,13,Boaster,438,omen,0.78,101.0,7.0,13.0,5.0,65.0,76.0,20.0,3.0,2.0,5,True
+498634,221190,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Lotus,3,FNATIC,Wolves Esports,10,13,kaajak,9554,raze,0.64,121.0,9.0,18.0,1.0,61.0,81.0,13.0,0.0,5.0,5,True
+498634,221191,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Ascent,4,Wolves Esports,FNATIC,5,13,Yuicaw,11218,cypher,0.88,204.0,11.0,16.0,3.0,44.0,126.0,26.0,2.0,0.0,5,True
+498634,221191,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Ascent,4,Wolves Esports,FNATIC,5,13,SiuFatBB,7849,sova,0.88,171.0,11.0,15.0,4.0,56.0,102.0,42.0,1.0,0.0,5,True
+498634,221191,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Ascent,4,Wolves Esports,FNATIC,5,13,Spring,14125,omen,0.82,159.0,10.0,15.0,2.0,61.0,107.0,31.0,0.0,2.0,5,True
+498634,221191,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Ascent,4,Wolves Esports,FNATIC,5,13,Lysoar,37489,deadlock,0.62,158.0,10.0,16.0,2.0,50.0,92.0,39.0,2.0,2.0,5,True
+498634,221191,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Ascent,4,Wolves Esports,FNATIC,5,13,Juicy,7426,yoru,0.3,91.0,5.0,16.0,2.0,50.0,61.0,24.0,3.0,6.0,5,True
+498634,221191,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Ascent,4,FNATIC,Wolves Esports,13,5,Alfajer,9810,chamber,1.46,338.0,22.0,12.0,6.0,72.0,202.0,31.0,4.0,2.0,5,True
+498634,221191,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Ascent,4,FNATIC,Wolves Esports,13,5,Boaster,438,omen,1.43,232.0,16.0,7.0,5.0,83.0,152.0,37.0,1.0,0.0,5,True
+498634,221191,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Ascent,4,FNATIC,Wolves Esports,13,5,crashies,4,sova,1.25,203.0,14.0,8.0,9.0,89.0,138.0,37.0,1.0,1.0,5,True
+498634,221191,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Ascent,4,FNATIC,Wolves Esports,13,5,Chronicle,458,vyse,1.13,193.0,13.0,9.0,4.0,72.0,139.0,30.0,2.0,2.0,5,True
+498634,221191,2282,Valorant Masters Toronto 2025,Playoffs: Lower Final,2025-06-21,Ascent,4,FNATIC,Wolves Esports,13,5,kaajak,9554,yoru,1.07,202.0,13.0,11.0,6.0,78.0,130.0,32.0,2.0,3.0,5,True
+507067,223246,2282,Valorant Masters Toronto 2025,Showmatch: Showmatch,2025-06-22,Corrode,1,Team tarik,Team Toast,7,13,tarik,31376,reyna,,,17.0,18.0,6.0,,,,,,1,True
+507067,223246,2282,Valorant Masters Toronto 2025,Showmatch: Showmatch,2025-06-22,Corrode,1,Team tarik,Team Toast,7,13,Kyedae,37656,vyse,,,15.0,15.0,8.0,,,,,,1,True
+507067,223246,2282,Valorant Masters Toronto 2025,Showmatch: Showmatch,2025-06-22,Corrode,1,Team tarik,Team Toast,7,13,Vinnie,55809,sova,,,13.0,15.0,4.0,,,,,,1,True
+507067,223246,2282,Valorant Masters Toronto 2025,Showmatch: Showmatch,2025-06-22,Corrode,1,Team tarik,Team Toast,7,13,joshseki,55810,astra,,,10.0,16.0,7.0,,,,,,1,True
+507067,223246,2282,Valorant Masters Toronto 2025,Showmatch: Showmatch,2025-06-22,Corrode,1,Team tarik,Team Toast,7,13,Yvonnie,35089,sage,,,6.0,15.0,7.0,,,,,,1,True
+507067,223246,2282,Valorant Masters Toronto 2025,Showmatch: Showmatch,2025-06-22,Corrode,1,Team Toast,Team tarik,13,7,TenZ,9,jett,,,24.0,14.0,4.0,,,,,,1,True
+507067,223246,2282,Valorant Masters Toronto 2025,Showmatch: Showmatch,2025-06-22,Corrode,1,Team Toast,Team tarik,13,7,meL,3063,omen,,,23.0,9.0,11.0,,,,,,1,True
+507067,223246,2282,Valorant Masters Toronto 2025,Showmatch: Showmatch,2025-06-22,Corrode,1,Team Toast,Team tarik,13,7,Sidsity,48629,fade,,,15.0,12.0,4.0,,,,,,1,True
+507067,223246,2282,Valorant Masters Toronto 2025,Showmatch: Showmatch,2025-06-22,Corrode,1,Team Toast,Team tarik,13,7,Disguised Toast,55812,cypher,,,12.0,12.0,5.0,,,,,,1,True
+507067,223246,2282,Valorant Masters Toronto 2025,Showmatch: Showmatch,2025-06-22,Corrode,1,Team Toast,Team tarik,13,7,Jacob,55811,gekko,,,6.0,13.0,5.0,,,,,,1,True
+498628,221168,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Sunset,1,Paper Rex,FNATIC,13,11,f0rsakeN,9801,omen,1.35,255.0,22.0,17.0,7.0,67.0,164.0,31.0,2.0,3.0,5,True
+498628,221168,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Sunset,1,Paper Rex,FNATIC,13,11,d4v41,9803,sage,1.04,167.0,16.0,14.0,9.0,75.0,99.0,33.0,0.0,2.0,5,True
+498628,221168,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Sunset,1,Paper Rex,FNATIC,13,11,Jinggg,7378,raze,0.97,205.0,15.0,17.0,9.0,71.0,144.0,22.0,4.0,3.0,5,True
+498628,221168,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Sunset,1,Paper Rex,FNATIC,13,11,PatMen,13744,viper,0.94,190.0,16.0,17.0,6.0,67.0,125.0,48.0,2.0,4.0,5,True
+498628,221168,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Sunset,1,Paper Rex,FNATIC,13,11,something,17086,sova,0.9,171.0,14.0,16.0,3.0,71.0,112.0,18.0,1.0,3.0,5,True
+498628,221168,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Sunset,1,FNATIC,Paper Rex,11,13,Alfajer,9810,cypher,1.24,264.0,23.0,18.0,4.0,67.0,169.0,35.0,4.0,1.0,5,True
+498628,221168,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Sunset,1,FNATIC,Paper Rex,11,13,kaajak,9554,neon,1.07,265.0,24.0,20.0,0.0,75.0,170.0,41.0,5.0,5.0,5,True
+498628,221168,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Sunset,1,FNATIC,Paper Rex,11,13,crashies,4,sova,0.84,178.0,13.0,16.0,4.0,75.0,121.0,37.0,3.0,0.0,5,True
+498628,221168,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Sunset,1,FNATIC,Paper Rex,11,13,Chronicle,458,viper,0.84,140.0,11.0,13.0,2.0,63.0,99.0,25.0,3.0,0.0,5,True
+498628,221168,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Sunset,1,FNATIC,Paper Rex,11,13,Boaster,438,omen,0.72,120.0,10.0,16.0,10.0,63.0,77.0,29.0,0.0,3.0,5,True
+498628,221169,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Icebox,2,Paper Rex,FNATIC,15,17,d4v41,9803,killjoy,1.25,222.0,29.0,21.0,3.0,59.0,153.0,27.0,1.0,5.0,5,True
+498628,221169,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Icebox,2,Paper Rex,FNATIC,15,17,Jinggg,7378,omen,1.1,223.0,23.0,22.0,10.0,66.0,166.0,31.0,2.0,4.0,5,True
+498628,221169,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Icebox,2,Paper Rex,FNATIC,15,17,PatMen,13744,viper,0.89,192.0,22.0,25.0,1.0,59.0,128.0,33.0,3.0,3.0,5,True
+498628,221169,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Icebox,2,Paper Rex,FNATIC,15,17,something,17086,jett,0.85,168.0,18.0,23.0,5.0,69.0,106.0,28.0,4.0,5.0,5,True
+498628,221169,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Icebox,2,Paper Rex,FNATIC,15,17,f0rsakeN,9801,sova,0.67,170.0,16.0,27.0,7.0,63.0,117.0,17.0,2.0,3.0,5,True
+498628,221169,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Icebox,2,FNATIC,Paper Rex,17,15,kaajak,9554,jett,1.29,278.0,32.0,23.0,4.0,81.0,166.0,27.0,11.0,3.0,5,True
+498628,221169,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Icebox,2,FNATIC,Paper Rex,17,15,crashies,4,sova,1.19,201.0,26.0,19.0,7.0,69.0,140.0,35.0,1.0,1.0,5,True
+498628,221169,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Icebox,2,FNATIC,Paper Rex,17,15,Chronicle,458,sage,1.13,207.0,24.0,19.0,15.0,69.0,135.0,27.0,2.0,2.0,5,True
+498628,221169,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Icebox,2,FNATIC,Paper Rex,17,15,Alfajer,9810,killjoy,0.84,217.0,25.0,25.0,2.0,69.0,145.0,34.0,4.0,2.0,5,True
+498628,221169,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Icebox,2,FNATIC,Paper Rex,17,15,Boaster,438,viper,0.76,124.0,11.0,22.0,16.0,75.0,99.0,18.0,2.0,4.0,5,True
+498628,221170,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Pearl,3,Paper Rex,FNATIC,13,10,d4v41,9803,vyse,1.33,230.0,20.0,11.0,4.0,91.0,153.0,23.0,3.0,3.0,5,True
+498628,221170,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Pearl,3,Paper Rex,FNATIC,13,10,f0rsakeN,9801,astra,1.32,228.0,20.0,14.0,14.0,78.0,160.0,41.0,1.0,0.0,5,True
+498628,221170,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Pearl,3,Paper Rex,FNATIC,13,10,Jinggg,7378,raze,1.07,217.0,15.0,14.0,6.0,70.0,136.0,15.0,3.0,3.0,5,True
+498628,221170,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Pearl,3,Paper Rex,FNATIC,13,10,PatMen,13744,fade,0.96,156.0,13.0,13.0,8.0,74.0,94.0,16.0,0.0,0.0,5,True
+498628,221170,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Pearl,3,Paper Rex,FNATIC,13,10,something,17086,yoru,0.77,162.0,14.0,17.0,6.0,65.0,114.0,28.0,5.0,5.0,5,True
+498628,221170,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Pearl,3,FNATIC,Paper Rex,10,13,Alfajer,9810,neon,1.18,269.0,22.0,19.0,5.0,70.0,173.0,20.0,4.0,5.0,5,True
+498628,221170,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Pearl,3,FNATIC,Paper Rex,10,13,Boaster,438,astra,1.01,195.0,14.0,16.0,11.0,70.0,128.0,22.0,4.0,1.0,5,True
+498628,221170,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Pearl,3,FNATIC,Paper Rex,10,13,Chronicle,458,killjoy,0.97,167.0,14.0,15.0,4.0,57.0,110.0,17.0,0.0,2.0,5,True
+498628,221170,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Pearl,3,FNATIC,Paper Rex,10,13,crashies,4,sova,0.95,152.0,11.0,14.0,6.0,61.0,112.0,33.0,1.0,0.0,5,True
+498628,221170,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Pearl,3,FNATIC,Paper Rex,10,13,kaajak,9554,yoru,0.54,100.0,8.0,18.0,4.0,57.0,84.0,32.0,2.0,4.0,5,True
+498628,221171,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Lotus,4,Paper Rex,FNATIC,14,12,f0rsakeN,9801,omen,1.26,239.0,23.0,17.0,4.0,73.0,164.0,26.0,2.0,2.0,5,True
+498628,221171,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Lotus,4,Paper Rex,FNATIC,14,12,something,17086,yoru,1.06,238.0,22.0,21.0,4.0,65.0,155.0,26.0,5.0,2.0,5,True
+498628,221171,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Lotus,4,Paper Rex,FNATIC,14,12,PatMen,13744,fade,0.98,160.0,16.0,17.0,9.0,69.0,115.0,41.0,0.0,3.0,5,True
+498628,221171,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Lotus,4,Paper Rex,FNATIC,14,12,Jinggg,7378,raze,0.95,182.0,16.0,16.0,3.0,65.0,125.0,28.0,3.0,3.0,5,True
+498628,221171,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Lotus,4,Paper Rex,FNATIC,14,12,d4v41,9803,vyse,0.84,158.0,12.0,18.0,12.0,81.0,109.0,20.0,4.0,2.0,5,True
+498628,221171,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Lotus,4,FNATIC,Paper Rex,12,14,Alfajer,9810,killjoy,1.49,330.0,29.0,17.0,2.0,77.0,214.0,46.0,5.0,3.0,5,True
+498628,221171,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Lotus,4,FNATIC,Paper Rex,12,14,Chronicle,458,viper,1.41,276.0,26.0,17.0,4.0,77.0,191.0,26.0,2.0,1.0,5,True
+498628,221171,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Lotus,4,FNATIC,Paper Rex,12,14,kaajak,9554,raze,0.83,178.0,17.0,19.0,2.0,69.0,104.0,23.0,4.0,4.0,5,True
+498628,221171,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Lotus,4,FNATIC,Paper Rex,12,14,crashies,4,fade,0.66,127.0,11.0,19.0,10.0,65.0,92.0,33.0,0.0,1.0,5,True
+498628,221171,2282,Valorant Masters Toronto 2025,Playoffs: Grand Final,2025-06-22,Lotus,4,FNATIC,Paper Rex,12,14,Boaster,438,omen,0.48,77.0,6.0,17.0,9.0,69.0,45.0,19.0,1.0,5.0,5,True

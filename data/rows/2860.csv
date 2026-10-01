@@ -1,0 +1,1051 @@
+match_id,game_id,event_id,event,stage,date,map,map_order,team,opp,team_rounds,opp_rounds,player,player_id,agent,rating,acs,k,d,a,kast,adr,hs,fk,fd,best_of,completed
+645474,258575,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,Sentinels,KRÜ Esports,8,13,Reduxx,8419,omen,1.28,219.0,16.0,15.0,9.0,86.0,141.0,25.0,2.0,0.0,3,True
+645474,258575,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,Sentinels,KRÜ Esports,8,13,cortezia,5395,veto,0.94,174.0,13.0,16.0,2.0,57.0,127.0,42.0,2.0,2.0,3,True
+645474,258575,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,Sentinels,KRÜ Esports,8,13,johnqt,1265,viper,0.9,185.0,15.0,16.0,3.0,57.0,113.0,21.0,0.0,2.0,3,True
+645474,258575,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,Sentinels,KRÜ Esports,8,13,Victor,261,raze,0.65,179.0,12.0,18.0,3.0,52.0,114.0,12.0,4.0,5.0,3,True
+645474,258575,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,Sentinels,KRÜ Esports,8,13,JonahP,4581,fade,0.47,95.0,5.0,16.0,9.0,43.0,67.0,22.0,1.0,3.0,3,True
+645474,258575,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,KRÜ Esports,Sentinels,13,8,Less,8447,viper,1.33,225.0,17.0,10.0,7.0,71.0,143.0,33.0,2.0,1.0,3,True
+645474,258575,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,KRÜ Esports,Sentinels,13,8,mwzera,939,fade,1.28,221.0,17.0,12.0,10.0,86.0,135.0,23.0,1.0,0.0,3,True
+645474,258575,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,KRÜ Esports,Sentinels,13,8,saadhak,727,omen,1.15,193.0,15.0,11.0,9.0,71.0,123.0,32.0,4.0,2.0,3,True
+645474,258575,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,KRÜ Esports,Sentinels,13,8,silentzz,11921,vyse,1.11,205.0,16.0,12.0,3.0,81.0,136.0,40.0,2.0,0.0,3,True
+645474,258575,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,KRÜ Esports,Sentinels,13,8,Dantedeu5,41135,neon,0.9,228.0,16.0,16.0,5.0,67.0,149.0,24.0,3.0,6.0,3,True
+645474,258576,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Breeze,2,Sentinels,KRÜ Esports,9,13,johnqt,1265,harbor,1.29,274.0,21.0,16.0,5.0,73.0,191.0,40.0,1.0,1.0,3,True
+645474,258576,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Breeze,2,Sentinels,KRÜ Esports,9,13,Reduxx,8419,iso,0.87,201.0,15.0,19.0,4.0,41.0,129.0,36.0,1.0,4.0,3,True
+645474,258576,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Breeze,2,Sentinels,KRÜ Esports,9,13,Victor,261,neon,0.76,205.0,16.0,19.0,2.0,59.0,128.0,10.0,6.0,4.0,3,True
+645474,258576,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Breeze,2,Sentinels,KRÜ Esports,9,13,JonahP,4581,sova,0.67,151.0,11.0,17.0,7.0,77.0,105.0,27.0,1.0,3.0,3,True
+645474,258576,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Breeze,2,Sentinels,KRÜ Esports,9,13,cortezia,5395,viper,0.63,120.0,9.0,15.0,6.0,59.0,77.0,19.0,0.0,1.0,3,True
+645474,258576,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Breeze,2,KRÜ Esports,Sentinels,13,9,saadhak,727,omen,1.36,259.0,22.0,15.0,5.0,77.0,162.0,21.0,1.0,1.0,3,True
+645474,258576,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Breeze,2,KRÜ Esports,Sentinels,13,9,mwzera,939,sova,1.3,238.0,16.0,12.0,7.0,91.0,165.0,25.0,3.0,2.0,3,True
+645474,258576,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Breeze,2,KRÜ Esports,Sentinels,13,9,silentzz,11921,chamber,1.08,154.0,14.0,12.0,3.0,73.0,105.0,21.0,3.0,2.0,3,True
+645474,258576,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Breeze,2,KRÜ Esports,Sentinels,13,9,Less,8447,viper,1.06,234.0,18.0,15.0,9.0,50.0,138.0,18.0,3.0,1.0,3,True
+645474,258576,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Breeze,2,KRÜ Esports,Sentinels,13,9,Dantedeu5,41135,neon,0.74,196.0,16.0,18.0,2.0,50.0,115.0,15.0,3.0,3.0,3,True
+645475,258578,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,G2 Esports,MIBR,8,13,valyn,3885,harbor,1.19,218.0,17.0,14.0,10.0,71.0,159.0,30.0,2.0,0.0,3,True
+645475,258578,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,G2 Esports,MIBR,8,13,BABYBAY,2170,vyse,1.13,233.0,17.0,15.0,4.0,76.0,141.0,17.0,2.0,0.0,3,True
+645475,258578,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,G2 Esports,MIBR,8,13,trent,15500,fade,0.94,188.0,14.0,17.0,6.0,62.0,133.0,34.0,1.0,0.0,3,True
+645475,258578,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,G2 Esports,MIBR,8,13,jawgemo,3993,neon,0.84,213.0,14.0,19.0,9.0,81.0,141.0,15.0,2.0,5.0,3,True
+645475,258578,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,G2 Esports,MIBR,8,13,leaf,7873,omen,0.5,132.0,8.0,18.0,5.0,67.0,94.0,17.0,2.0,7.0,3,True
+645475,258578,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,MIBR,G2 Esports,13,8,zekken,4004,neon,1.61,360.0,28.0,15.0,2.0,81.0,228.0,22.0,3.0,2.0,3,True
+645475,258578,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,MIBR,G2 Esports,13,8,tex,1818,vyse,1.05,226.0,16.0,14.0,4.0,67.0,149.0,42.0,4.0,0.0,3,True
+645475,258578,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,MIBR,G2 Esports,13,8,Verno,21668,fade,1.0,163.0,13.0,12.0,6.0,76.0,111.0,24.0,1.0,1.0,3,True
+645475,258578,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,MIBR,G2 Esports,13,8,Mazino,7603,omen,0.93,173.0,13.0,15.0,11.0,67.0,111.0,28.0,3.0,3.0,3,True
+645475,258578,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Lotus,1,MIBR,G2 Esports,13,8,aspas,8480,raze,0.83,166.0,13.0,14.0,3.0,67.0,128.0,18.0,1.0,3.0,3,True
+645475,258579,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Split,2,G2 Esports,MIBR,14,16,leaf,7873,astra,1.1,203.0,22.0,20.0,13.0,73.0,138.0,19.0,2.0,1.0,3,True
+645475,258579,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Split,2,G2 Esports,MIBR,14,16,BABYBAY,2170,vyse,1.09,231.0,24.0,21.0,12.0,73.0,152.0,25.0,1.0,1.0,3,True
+645475,258579,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Split,2,G2 Esports,MIBR,14,16,trent,15500,fade,0.96,156.0,18.0,19.0,6.0,73.0,108.0,26.0,2.0,2.0,3,True
+645475,258579,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Split,2,G2 Esports,MIBR,14,16,valyn,3885,harbor,0.95,194.0,19.0,23.0,9.0,73.0,124.0,25.0,6.0,2.0,3,True
+645475,258579,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Split,2,G2 Esports,MIBR,14,16,jawgemo,3993,neon,0.67,186.0,18.0,22.0,6.0,50.0,117.0,14.0,6.0,7.0,3,True
+645475,258579,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Split,2,MIBR,G2 Esports,16,14,tex,1818,vyse,1.34,237.0,25.0,17.0,8.0,67.0,148.0,38.0,1.0,1.0,3,True
+645475,258579,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Split,2,MIBR,G2 Esports,16,14,Verno,21668,fade,1.1,219.0,23.0,19.0,7.0,63.0,131.0,30.0,3.0,4.0,3,True
+645475,258579,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Split,2,MIBR,G2 Esports,16,14,aspas,8480,raze,1.06,196.0,19.0,20.0,7.0,63.0,145.0,29.0,4.0,1.0,3,True
+645475,258579,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Split,2,MIBR,G2 Esports,16,14,Mazino,7603,astra,1.0,181.0,20.0,19.0,10.0,63.0,119.0,20.0,1.0,5.0,3,True
+645475,258579,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-10,Split,2,MIBR,G2 Esports,16,14,zekken,4004,neon,0.74,175.0,18.0,26.0,8.0,60.0,106.0,19.0,4.0,6.0,3,True
+645476,258581,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Haven,1,100 Thieves,Evil Geniuses,13,8,bang,3880,omen,1.49,227.0,18.0,9.0,7.0,81.0,143.0,24.0,1.0,1.0,3,True
+645476,258581,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Haven,1,100 Thieves,Evil Geniuses,13,8,Cryocells,4147,cypher,1.26,246.0,20.0,13.0,3.0,57.0,144.0,33.0,6.0,3.0,3,True
+645476,258581,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Haven,1,100 Thieves,Evil Geniuses,13,8,Asuna,601,neon,1.16,211.0,16.0,12.0,1.0,76.0,127.0,21.0,4.0,2.0,3,True
+645476,258581,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Haven,1,100 Thieves,Evil Geniuses,13,8,vora,20140,sova,0.93,157.0,12.0,12.0,7.0,86.0,120.0,21.0,0.0,1.0,3,True
+645476,258581,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Haven,1,100 Thieves,Evil Geniuses,13,8,Timotino,29893,phoenix,0.82,189.0,13.0,17.0,5.0,71.0,122.0,28.0,1.0,2.0,3,True
+645476,258581,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Haven,1,Evil Geniuses,100 Thieves,8,13,supamen,826,viper,1.13,204.0,16.0,15.0,5.0,71.0,128.0,30.0,1.0,2.0,3,True
+645476,258581,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Haven,1,Evil Geniuses,100 Thieves,8,13,Okeanos,8373,omen,0.96,190.0,15.0,16.0,2.0,62.0,142.0,43.0,1.0,1.0,3,True
+645476,258581,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Haven,1,Evil Geniuses,100 Thieves,8,13,dgzin,8873,neon,0.88,172.0,13.0,15.0,5.0,67.0,119.0,23.0,4.0,2.0,3,True
+645476,258581,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Haven,1,Evil Geniuses,100 Thieves,8,13,C0M,619,sova,0.68,162.0,8.0,15.0,11.0,62.0,125.0,10.0,2.0,3.0,3,True
+645476,258581,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Haven,1,Evil Geniuses,100 Thieves,8,13,bao,34400,killjoy,0.52,180.0,11.0,18.0,4.0,57.0,116.0,17.0,1.0,4.0,3,True
+645476,258582,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,2,100 Thieves,Evil Geniuses,13,4,Cryocells,4147,viper,1.71,279.0,20.0,7.0,2.0,94.0,195.0,39.0,2.0,0.0,3,True
+645476,258582,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,2,100 Thieves,Evil Geniuses,13,4,Asuna,601,kayo,1.44,245.0,16.0,8.0,13.0,88.0,145.0,24.0,2.0,0.0,3,True
+645476,258582,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,2,100 Thieves,Evil Geniuses,13,4,Timotino,29893,jett,1.32,283.0,19.0,13.0,2.0,76.0,174.0,9.0,5.0,6.0,3,True
+645476,258582,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,2,100 Thieves,Evil Geniuses,13,4,bang,3880,harbor,1.24,205.0,14.0,10.0,9.0,88.0,124.0,39.0,0.0,0.0,3,True
+645476,258582,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,2,100 Thieves,Evil Geniuses,13,4,vora,20140,sova,0.87,158.0,8.0,10.0,7.0,76.0,104.0,16.0,1.0,1.0,3,True
+645476,258582,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,2,Evil Geniuses,100 Thieves,4,13,dgzin,8873,neon,1.14,269.0,17.0,15.0,1.0,71.0,151.0,33.0,4.0,2.0,3,True
+645476,258582,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,2,Evil Geniuses,100 Thieves,4,13,Okeanos,8373,kayo,0.76,175.0,11.0,16.0,5.0,65.0,105.0,43.0,1.0,1.0,3,True
+645476,258582,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,2,Evil Geniuses,100 Thieves,4,13,C0M,619,sova,0.64,137.0,8.0,14.0,1.0,47.0,99.0,39.0,0.0,3.0,3,True
+645476,258582,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,2,Evil Geniuses,100 Thieves,4,13,bao,34400,harbor,0.55,147.0,8.0,17.0,9.0,71.0,89.0,45.0,2.0,0.0,3,True
+645476,258582,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,2,Evil Geniuses,100 Thieves,4,13,supamen,826,viper,0.22,90.0,4.0,15.0,2.0,35.0,65.0,46.0,0.0,4.0,3,True
+645477,258584,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Lotus,1,ENVY,LOUD,13,9,Rossy,1129,viper,1.25,266.0,22.0,15.0,2.0,77.0,168.0,38.0,1.0,0.0,3,True
+645477,258584,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Lotus,1,ENVY,LOUD,13,9,keznit,2462,neon,1.07,237.0,20.0,15.0,2.0,64.0,145.0,18.0,6.0,4.0,3,True
+645477,258584,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Lotus,1,ENVY,LOUD,13,9,P0PPIN,21778,fade,0.97,180.0,14.0,14.0,7.0,77.0,123.0,10.0,1.0,1.0,3,True
+645477,258584,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Lotus,1,ENVY,LOUD,13,9,Demon1,26171,veto,0.97,190.0,16.0,14.0,0.0,73.0,134.0,61.0,2.0,2.0,3,True
+645477,258584,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Lotus,1,ENVY,LOUD,13,9,Eggsterr,35302,omen,0.94,172.0,13.0,14.0,7.0,86.0,115.0,41.0,4.0,1.0,3,True
+645477,258584,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Lotus,1,LOUD,ENVY,9,13,lukxo,28716,viper,1.31,258.0,20.0,16.0,8.0,64.0,166.0,22.0,3.0,4.0,3,True
+645477,258584,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Lotus,1,LOUD,ENVY,9,13,Darker,10557,vyse,1.29,294.0,22.0,19.0,4.0,59.0,172.0,19.0,2.0,0.0,3,True
+645477,258584,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Lotus,1,LOUD,ENVY,9,13,Virtyy,3983,raze,0.96,190.0,13.0,16.0,3.0,82.0,130.0,27.0,2.0,2.0,3,True
+645477,258584,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Lotus,1,LOUD,ENVY,9,13,cauanzin,6193,fade,0.63,106.0,9.0,15.0,4.0,59.0,83.0,19.0,0.0,3.0,3,True
+645477,258584,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Lotus,1,LOUD,ENVY,9,13,Bati,5203,omen,0.46,123.0,8.0,19.0,10.0,64.0,74.0,30.0,1.0,5.0,3,True
+645477,258585,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Pearl,2,ENVY,LOUD,11,13,Demon1,26171,astra,1.26,219.0,20.0,16.0,16.0,83.0,137.0,40.0,3.0,0.0,3,True
+645477,258585,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Pearl,2,ENVY,LOUD,11,13,keznit,2462,waylay,1.08,230.0,19.0,17.0,8.0,71.0,140.0,25.0,3.0,4.0,3,True
+645477,258585,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Pearl,2,ENVY,LOUD,11,13,P0PPIN,21778,sova,1.0,230.0,19.0,20.0,5.0,71.0,159.0,21.0,0.0,4.0,3,True
+645477,258585,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Pearl,2,ENVY,LOUD,11,13,Rossy,1129,tejo,0.91,175.0,14.0,18.0,6.0,63.0,126.0,20.0,1.0,3.0,3,True
+645477,258585,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Pearl,2,ENVY,LOUD,11,13,Eggsterr,35302,veto,0.16,66.0,6.0,22.0,1.0,58.0,45.0,25.0,2.0,4.0,3,True
+645477,258585,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Pearl,2,LOUD,ENVY,13,11,Darker,10557,astra,1.61,310.0,28.0,15.0,9.0,96.0,191.0,32.0,2.0,1.0,3,True
+645477,258585,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Pearl,2,LOUD,ENVY,13,11,lukxo,28716,chamber,1.32,254.0,23.0,15.0,3.0,67.0,148.0,32.0,5.0,1.0,3,True
+645477,258585,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Pearl,2,LOUD,ENVY,13,11,cauanzin,6193,sova,1.18,217.0,18.0,15.0,8.0,71.0,142.0,37.0,3.0,0.0,3,True
+645477,258585,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Pearl,2,LOUD,ENVY,13,11,Bati,5203,kayo,0.85,138.0,10.0,15.0,15.0,79.0,94.0,19.0,1.0,2.0,3,True
+645477,258585,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Pearl,2,LOUD,ENVY,13,11,Virtyy,3983,neon,0.74,169.0,14.0,18.0,8.0,88.0,124.0,24.0,4.0,5.0,3,True
+645477,258586,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,3,ENVY,LOUD,8,13,Rossy,1129,viper,1.46,267.0,21.0,14.0,4.0,62.0,183.0,35.0,1.0,1.0,3,True
+645477,258586,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,3,ENVY,LOUD,8,13,Demon1,26171,iso,1.02,233.0,18.0,17.0,4.0,71.0,137.0,67.0,2.0,3.0,3,True
+645477,258586,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,3,ENVY,LOUD,8,13,P0PPIN,21778,sova,0.66,133.0,8.0,17.0,8.0,57.0,96.0,26.0,0.0,3.0,3,True
+645477,258586,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,3,ENVY,LOUD,8,13,keznit,2462,neon,0.43,118.0,7.0,18.0,4.0,48.0,78.0,11.0,3.0,3.0,3,True
+645477,258586,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,3,ENVY,LOUD,8,13,Eggsterr,35302,harbor,0.33,104.0,7.0,20.0,3.0,52.0,67.0,20.0,2.0,3.0,3,True
+645477,258586,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,3,LOUD,ENVY,13,8,lukxo,28716,harbor,1.71,308.0,24.0,12.0,15.0,95.0,191.0,43.0,3.0,0.0,3,True
+645477,258586,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,3,LOUD,ENVY,13,8,Darker,10557,astra,1.62,308.0,25.0,12.0,10.0,81.0,173.0,24.0,4.0,2.0,3,True
+645477,258586,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,3,LOUD,ENVY,13,8,Bati,5203,kayo,1.13,194.0,12.0,13.0,19.0,81.0,120.0,12.0,1.0,1.0,3,True
+645477,258586,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,3,LOUD,ENVY,13,8,Virtyy,3983,jett,0.96,190.0,14.0,13.0,3.0,71.0,136.0,21.0,4.0,4.0,3,True
+645477,258586,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-11,Breeze,3,LOUD,ENVY,13,8,cauanzin,6193,sova,0.95,148.0,11.0,11.0,10.0,76.0,107.0,12.0,1.0,1.0,3,True
+645478,258587,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,Cloud9,LEVIATÁN,6,13,OXY,18796,neon,1.11,271.0,17.0,17.0,4.0,79.0,169.0,15.0,4.0,3.0,3,True
+645478,258587,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,Cloud9,LEVIATÁN,6,13,Xeppaa,7871,skye,0.83,221.0,12.0,18.0,9.0,58.0,143.0,14.0,0.0,3.0,3,True
+645478,258587,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,Cloud9,LEVIATÁN,6,13,v1c,17433,astra,0.82,137.0,9.0,13.0,7.0,79.0,93.0,32.0,1.0,1.0,3,True
+645478,258587,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,Cloud9,LEVIATÁN,6,13,Zellsis,729,tejo,0.79,155.0,11.0,14.0,4.0,47.0,108.0,11.0,0.0,1.0,3,True
+645478,258587,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,Cloud9,LEVIATÁN,6,13,penny,7716,chamber,0.41,104.0,7.0,16.0,1.0,42.0,61.0,7.0,3.0,3.0,3,True
+645478,258587,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,LEVIATÁN,Cloud9,13,6,Neon,29243,chamber,1.48,258.0,17.0,9.0,3.0,74.0,161.0,28.0,5.0,4.0,3,True
+645478,258587,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,LEVIATÁN,Cloud9,13,6,kiNgg,8549,astra,1.46,232.0,17.0,9.0,6.0,89.0,142.0,33.0,0.0,0.0,3,True
+645478,258587,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,LEVIATÁN,Cloud9,13,6,spike,21661,neon,1.25,278.0,19.0,15.0,7.0,84.0,189.0,17.0,3.0,1.0,3,True
+645478,258587,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,LEVIATÁN,Cloud9,13,6,blowz,21251,sova,0.97,121.0,11.0,9.0,5.0,84.0,92.0,32.0,0.0,0.0,3,True
+645478,258587,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,LEVIATÁN,Cloud9,13,6,Sato,21659,phoenix,0.88,205.0,14.0,14.0,7.0,79.0,125.0,39.0,3.0,3.0,3,True
+645478,258588,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Haven,2,Cloud9,LEVIATÁN,5,13,OXY,18796,neon,1.09,226.0,15.0,14.0,3.0,56.0,146.0,29.0,1.0,2.0,3,True
+645478,258588,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Haven,2,Cloud9,LEVIATÁN,5,13,Zellsis,729,killjoy,0.82,155.0,9.0,13.0,4.0,67.0,107.0,27.0,2.0,3.0,3,True
+645478,258588,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Haven,2,Cloud9,LEVIATÁN,5,13,penny,7716,viper,0.75,182.0,10.0,13.0,2.0,72.0,113.0,24.0,1.0,2.0,3,True
+645478,258588,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Haven,2,Cloud9,LEVIATÁN,5,13,v1c,17433,omen,0.64,122.0,6.0,15.0,7.0,61.0,87.0,26.0,3.0,3.0,3,True
+645478,258588,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Haven,2,Cloud9,LEVIATÁN,5,13,Xeppaa,7871,sova,0.54,112.0,6.0,13.0,5.0,56.0,80.0,50.0,0.0,1.0,3,True
+645478,258588,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Haven,2,LEVIATÁN,Cloud9,13,5,blowz,21251,sova,1.52,235.0,16.0,7.0,5.0,78.0,163.0,54.0,1.0,0.0,3,True
+645478,258588,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Haven,2,LEVIATÁN,Cloud9,13,5,Neon,29243,chamber,1.32,194.0,13.0,7.0,4.0,83.0,127.0,19.0,3.0,0.0,3,True
+645478,258588,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Haven,2,LEVIATÁN,Cloud9,13,5,Sato,21659,phoenix,1.26,228.0,15.0,10.0,5.0,72.0,136.0,54.0,3.0,2.0,3,True
+645478,258588,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Haven,2,LEVIATÁN,Cloud9,13,5,kiNgg,8549,astra,1.21,161.0,10.0,8.0,12.0,83.0,109.0,23.0,1.0,3.0,3,True
+645478,258588,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Haven,2,LEVIATÁN,Cloud9,13,5,spike,21661,neon,0.8,218.0,14.0,14.0,6.0,61.0,145.0,23.0,3.0,2.0,3,True
+645479,258590,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,FURIA,NRG,13,7,alym,48025,neon,1.6,327.0,24.0,11.0,7.0,70.0,197.0,24.0,5.0,4.0,3,True
+645479,258590,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,FURIA,NRG,13,7,nerve,754,astra,1.09,187.0,15.0,11.0,6.0,80.0,109.0,26.0,0.0,0.0,3,True
+645479,258590,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,FURIA,NRG,13,7,artzin,5957,killjoy,0.94,147.0,12.0,10.0,2.0,75.0,98.0,28.0,0.0,3.0,3,True
+645479,258590,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,FURIA,NRG,13,7,koalanoob,3722,phoenix,0.85,202.0,14.0,15.0,7.0,70.0,138.0,15.0,3.0,2.0,3,True
+645479,258590,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,FURIA,NRG,13,7,eeiu,796,fade,0.84,154.0,11.0,12.0,6.0,70.0,100.0,48.0,2.0,1.0,3,True
+645479,258590,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,NRG,FURIA,7,13,brawk,2172,sova,1.54,311.0,22.0,14.0,5.0,90.0,199.0,25.0,1.0,0.0,3,True
+645479,258590,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,NRG,FURIA,7,13,Ethan,11225,tejo,0.87,189.0,11.0,17.0,7.0,60.0,144.0,18.0,1.0,0.0,3,True
+645479,258590,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,NRG,FURIA,7,13,keiko,11494,killjoy,0.74,161.0,11.0,14.0,1.0,50.0,118.0,35.0,2.0,2.0,3,True
+645479,258590,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,NRG,FURIA,7,13,mada,5132,waylay,0.61,155.0,10.0,17.0,4.0,60.0,90.0,30.0,6.0,7.0,3,True
+645479,258590,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Pearl,1,NRG,FURIA,7,13,skuba,11118,astra,0.38,104.0,5.0,15.0,5.0,45.0,85.0,30.0,0.0,1.0,3,True
+645479,258591,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Split,2,FURIA,NRG,13,10,koalanoob,3722,omen,1.28,246.0,21.0,17.0,7.0,83.0,163.0,23.0,3.0,2.0,3,True
+645479,258591,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Split,2,FURIA,NRG,13,10,nerve,754,viper,1.1,190.0,17.0,14.0,7.0,91.0,127.0,24.0,1.0,1.0,3,True
+645479,258591,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Split,2,FURIA,NRG,13,10,artzin,5957,vyse,1.06,201.0,17.0,15.0,7.0,74.0,135.0,28.0,1.0,3.0,3,True
+645479,258591,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Split,2,FURIA,NRG,13,10,eeiu,796,fade,1.02,211.0,16.0,16.0,8.0,65.0,131.0,41.0,3.0,0.0,3,True
+645479,258591,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Split,2,FURIA,NRG,13,10,alym,48025,neon,0.98,220.0,18.0,17.0,4.0,65.0,132.0,15.0,4.0,5.0,3,True
+645479,258591,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Split,2,NRG,FURIA,10,13,mada,5132,raze,1.3,264.0,22.0,18.0,7.0,65.0,162.0,13.0,3.0,1.0,3,True
+645479,258591,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Split,2,NRG,FURIA,10,13,keiko,11494,omen,1.14,271.0,22.0,19.0,8.0,83.0,169.0,35.0,3.0,2.0,3,True
+645479,258591,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Split,2,NRG,FURIA,10,13,skuba,11118,viper,0.78,175.0,13.0,18.0,2.0,70.0,110.0,23.0,1.0,3.0,3,True
+645479,258591,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Split,2,NRG,FURIA,10,13,brawk,2172,deadlock,0.72,162.0,12.0,18.0,10.0,61.0,105.0,20.0,1.0,2.0,3,True
+645479,258591,2860,VCT 2026: Americas Stage 1,Group Stage: Week 1,2026-04-12,Split,2,NRG,FURIA,10,13,Ethan,11225,skye,0.69,129.0,10.0,16.0,11.0,83.0,83.0,19.0,3.0,4.0,3,True
+645480,258593,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Split,1,Cloud9,ENVY,13,11,Zellsis,729,vyse,1.27,261.0,22.0,16.0,6.0,83.0,163.0,25.0,5.0,1.0,3,True
+645480,258593,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Split,1,Cloud9,ENVY,13,11,Xeppaa,7871,skye,1.18,198.0,17.0,14.0,13.0,92.0,110.0,22.0,0.0,2.0,3,True
+645480,258593,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Split,1,Cloud9,ENVY,13,11,v1c,17433,omen,1.11,213.0,16.0,14.0,13.0,88.0,143.0,23.0,0.0,3.0,3,True
+645480,258593,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Split,1,Cloud9,ENVY,13,11,OXY,18796,neon,1.09,265.0,21.0,19.0,7.0,88.0,146.0,15.0,5.0,5.0,3,True
+645480,258593,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Split,1,Cloud9,ENVY,13,11,penny,7716,viper,1.0,192.0,16.0,15.0,5.0,71.0,127.0,24.0,1.0,1.0,3,True
+645480,258593,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Split,1,ENVY,Cloud9,11,13,Eggsterr,35302,omen,1.06,231.0,19.0,19.0,9.0,67.0,141.0,33.0,3.0,0.0,3,True
+645480,258593,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Split,1,ENVY,Cloud9,11,13,Demon1,26171,jett,0.97,195.0,19.0,18.0,1.0,71.0,128.0,59.0,2.0,4.0,3,True
+645480,258593,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Split,1,ENVY,Cloud9,11,13,P0PPIN,21778,skye,0.83,154.0,14.0,20.0,10.0,63.0,96.0,16.0,1.0,2.0,3,True
+645480,258593,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Split,1,ENVY,Cloud9,11,13,Rossy,1129,viper,0.78,166.0,11.0,20.0,8.0,71.0,125.0,15.0,0.0,3.0,3,True
+645480,258593,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Split,1,ENVY,Cloud9,11,13,keznit,2462,raze,0.7,201.0,15.0,20.0,6.0,79.0,161.0,9.0,6.0,2.0,3,True
+645480,258594,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,Cloud9,ENVY,5,13,Xeppaa,7871,skye,1.13,218.0,12.0,15.0,8.0,67.0,159.0,29.0,1.0,0.0,3,True
+645480,258594,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,Cloud9,ENVY,5,13,penny,7716,vyse,1.04,206.0,12.0,13.0,4.0,56.0,126.0,16.0,2.0,1.0,3,True
+645480,258594,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,Cloud9,ENVY,5,13,OXY,18796,neon,0.88,197.0,12.0,14.0,3.0,61.0,130.0,23.0,2.0,4.0,3,True
+645480,258594,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,Cloud9,ENVY,5,13,v1c,17433,astra,0.55,100.0,6.0,14.0,5.0,56.0,73.0,24.0,1.0,2.0,3,True
+645480,258594,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,Cloud9,ENVY,5,13,Zellsis,729,tejo,0.45,102.0,6.0,15.0,3.0,56.0,71.0,16.0,1.0,4.0,3,True
+645480,258594,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,ENVY,Cloud9,13,5,Eggsterr,35302,phoenix,1.33,254.0,16.0,10.0,8.0,83.0,164.0,26.0,2.0,4.0,3,True
+645480,258594,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,ENVY,Cloud9,13,5,P0PPIN,21778,sova,1.28,188.0,13.0,7.0,4.0,72.0,120.0,19.0,2.0,1.0,3,True
+645480,258594,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,ENVY,Cloud9,13,5,Demon1,26171,chamber,1.14,194.0,13.0,10.0,3.0,67.0,134.0,29.0,1.0,1.0,3,True
+645480,258594,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,ENVY,Cloud9,13,5,keznit,2462,neon,1.14,261.0,17.0,11.0,0.0,83.0,166.0,22.0,5.0,1.0,3,True
+645480,258594,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,ENVY,Cloud9,13,5,Rossy,1129,astra,1.05,161.0,12.0,10.0,8.0,78.0,112.0,42.0,1.0,0.0,3,True
+645480,258595,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,3,Cloud9,ENVY,9,13,OXY,18796,neon,1.62,358.0,27.0,17.0,5.0,73.0,232.0,24.0,4.0,4.0,3,True
+645480,258595,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,3,Cloud9,ENVY,9,13,Zellsis,729,killjoy,0.92,174.0,14.0,15.0,4.0,73.0,117.0,17.0,0.0,1.0,3,True
+645480,258595,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,3,Cloud9,ENVY,9,13,penny,7716,viper,0.86,178.0,13.0,15.0,7.0,59.0,108.0,16.0,1.0,2.0,3,True
+645480,258595,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,3,Cloud9,ENVY,9,13,Xeppaa,7871,sova,0.7,150.0,11.0,17.0,7.0,64.0,104.0,36.0,1.0,5.0,3,True
+645480,258595,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,3,Cloud9,ENVY,9,13,v1c,17433,omen,0.64,118.0,8.0,16.0,7.0,68.0,88.0,24.0,1.0,3.0,3,True
+645480,258595,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,3,ENVY,Cloud9,13,9,keznit,2462,neon,1.52,288.0,25.0,14.0,8.0,73.0,182.0,24.0,4.0,2.0,3,True
+645480,258595,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,3,ENVY,Cloud9,13,9,Demon1,26171,chamber,1.37,231.0,19.0,13.0,4.0,68.0,147.0,43.0,5.0,1.0,3,True
+645480,258595,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,3,ENVY,Cloud9,13,9,Rossy,1129,astra,0.92,158.0,13.0,13.0,6.0,73.0,94.0,26.0,2.0,0.0,3,True
+645480,258595,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,3,ENVY,Cloud9,13,9,P0PPIN,21778,sova,0.8,170.0,11.0,16.0,11.0,68.0,116.0,7.0,1.0,2.0,3,True
+645480,258595,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,3,ENVY,Cloud9,13,9,Eggsterr,35302,phoenix,0.74,179.0,12.0,17.0,9.0,59.0,117.0,25.0,3.0,2.0,3,True
+645481,258596,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,1,FURIA,Evil Geniuses,12,14,alym,48025,neon,1.16,253.0,24.0,18.0,4.0,77.0,153.0,21.0,6.0,4.0,3,True
+645481,258596,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,1,FURIA,Evil Geniuses,12,14,eeiu,796,sova,0.99,148.0,15.0,15.0,6.0,69.0,87.0,26.0,0.0,1.0,3,True
+645481,258596,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,1,FURIA,Evil Geniuses,12,14,koalanoob,3722,omen,0.89,196.0,17.0,19.0,8.0,62.0,114.0,27.0,2.0,3.0,3,True
+645481,258596,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,1,FURIA,Evil Geniuses,12,14,artzin,5957,killjoy,0.85,209.0,18.0,20.0,6.0,65.0,146.0,17.0,3.0,2.0,3,True
+645481,258596,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,1,FURIA,Evil Geniuses,12,14,nerve,754,viper,0.82,179.0,16.0,18.0,0.0,65.0,134.0,34.0,2.0,3.0,3,True
+645481,258596,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,1,Evil Geniuses,FURIA,14,12,dgzin,8873,neon,1.54,323.0,30.0,19.0,2.0,81.0,202.0,46.0,6.0,4.0,3,True
+645481,258596,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,1,Evil Geniuses,FURIA,14,12,supamen,826,viper,1.48,314.0,29.0,17.0,4.0,85.0,200.0,40.0,4.0,1.0,3,True
+645481,258596,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,1,Evil Geniuses,FURIA,14,12,bao,34400,killjoy,0.84,155.0,14.0,18.0,1.0,62.0,101.0,64.0,2.0,3.0,3,True
+645481,258596,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,1,Evil Geniuses,FURIA,14,12,Okeanos,8373,omen,0.58,114.0,10.0,20.0,4.0,54.0,87.0,38.0,1.0,4.0,3,True
+645481,258596,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Haven,1,Evil Geniuses,FURIA,14,12,C0M,619,sova,0.55,107.0,7.0,16.0,6.0,65.0,82.0,10.0,0.0,1.0,3,True
+645481,258597,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,FURIA,Evil Geniuses,13,5,koalanoob,3722,phoenix,1.26,270.0,18.0,13.0,7.0,89.0,165.0,26.0,4.0,4.0,3,True
+645481,258597,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,FURIA,Evil Geniuses,13,5,artzin,5957,killjoy,1.21,219.0,15.0,10.0,3.0,83.0,138.0,18.0,2.0,1.0,3,True
+645481,258597,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,FURIA,Evil Geniuses,13,5,nerve,754,astra,1.19,194.0,13.0,8.0,10.0,83.0,133.0,35.0,0.0,0.0,3,True
+645481,258597,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,FURIA,Evil Geniuses,13,5,alym,48025,neon,1.0,285.0,18.0,15.0,3.0,67.0,171.0,22.0,2.0,3.0,3,True
+645481,258597,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,FURIA,Evil Geniuses,13,5,eeiu,796,fade,0.88,180.0,13.0,10.0,5.0,67.0,110.0,21.0,1.0,1.0,3,True
+645481,258597,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,Evil Geniuses,FURIA,5,13,supamen,826,astra,1.42,259.0,18.0,13.0,8.0,61.0,181.0,34.0,1.0,0.0,3,True
+645481,258597,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,Evil Geniuses,FURIA,5,13,bao,34400,killjoy,1.01,224.0,12.0,15.0,5.0,72.0,136.0,15.0,2.0,1.0,3,True
+645481,258597,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,Evil Geniuses,FURIA,5,13,C0M,619,sova,0.97,206.0,11.0,15.0,5.0,56.0,141.0,24.0,2.0,3.0,3,True
+645481,258597,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,Evil Geniuses,FURIA,5,13,Okeanos,8373,waylay,0.68,155.0,8.0,16.0,2.0,61.0,120.0,31.0,2.0,0.0,3,True
+645481,258597,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Pearl,2,Evil Geniuses,FURIA,5,13,dgzin,8873,neon,0.23,113.0,7.0,18.0,2.0,56.0,79.0,41.0,2.0,5.0,3,True
+645481,258598,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Lotus,3,FURIA,Evil Geniuses,13,10,artzin,5957,vyse,1.43,304.0,26.0,17.0,7.0,78.0,198.0,31.0,1.0,1.0,3,True
+645481,258598,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Lotus,3,FURIA,Evil Geniuses,13,10,nerve,754,viper,1.02,170.0,16.0,13.0,4.0,83.0,120.0,28.0,1.0,1.0,3,True
+645481,258598,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Lotus,3,FURIA,Evil Geniuses,13,10,koalanoob,3722,omen,1.0,189.0,15.0,15.0,7.0,70.0,143.0,33.0,4.0,2.0,3,True
+645481,258598,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Lotus,3,FURIA,Evil Geniuses,13,10,eeiu,796,fade,0.9,161.0,13.0,16.0,8.0,61.0,111.0,33.0,3.0,1.0,3,True
+645481,258598,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Lotus,3,FURIA,Evil Geniuses,13,10,alym,48025,neon,0.79,197.0,17.0,18.0,3.0,74.0,111.0,25.0,5.0,4.0,3,True
+645481,258598,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Lotus,3,Evil Geniuses,FURIA,10,13,dgzin,8873,neon,1.48,313.0,27.0,19.0,3.0,78.0,211.0,40.0,2.0,6.0,3,True
+645481,258598,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Lotus,3,Evil Geniuses,FURIA,10,13,Okeanos,8373,omen,1.08,202.0,15.0,17.0,14.0,78.0,137.0,33.0,1.0,1.0,3,True
+645481,258598,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Lotus,3,Evil Geniuses,FURIA,10,13,bao,34400,vyse,0.85,163.0,13.0,17.0,4.0,65.0,117.0,24.0,3.0,2.0,3,True
+645481,258598,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Lotus,3,Evil Geniuses,FURIA,10,13,supamen,826,viper,0.75,166.0,14.0,18.0,5.0,78.0,111.0,33.0,1.0,3.0,3,True
+645481,258598,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-17,Lotus,3,Evil Geniuses,FURIA,10,13,C0M,619,fade,0.74,136.0,10.0,16.0,6.0,74.0,92.0,20.0,2.0,2.0,3,True
+645482,258599,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Breeze,1,G2 Esports,LEVIATÁN,13,6,trent,15500,sova,2.2,327.0,24.0,6.0,4.0,89.0,224.0,51.0,1.0,1.0,3,True
+645482,258599,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Breeze,1,G2 Esports,LEVIATÁN,13,6,BABYBAY,2170,vyse,1.13,192.0,13.0,12.0,5.0,79.0,116.0,18.0,3.0,0.0,3,True
+645482,258599,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Breeze,1,G2 Esports,LEVIATÁN,13,6,leaf,7873,astra,0.96,180.0,13.0,11.0,2.0,58.0,104.0,18.0,2.0,3.0,3,True
+645482,258599,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Breeze,1,G2 Esports,LEVIATÁN,13,6,valyn,3885,harbor,0.87,136.0,10.0,12.0,6.0,68.0,92.0,27.0,1.0,2.0,3,True
+645482,258599,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Breeze,1,G2 Esports,LEVIATÁN,13,6,jawgemo,3993,neon,0.78,165.0,10.0,14.0,6.0,74.0,102.0,13.0,3.0,3.0,3,True
+645482,258599,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Breeze,1,LEVIATÁN,G2 Esports,6,13,spike,21661,omen,1.25,284.0,19.0,15.0,3.0,84.0,184.0,23.0,5.0,1.0,3,True
+645482,258599,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Breeze,1,LEVIATÁN,G2 Esports,6,13,Neon,29243,chamber,0.99,214.0,14.0,12.0,2.0,68.0,142.0,28.0,2.0,2.0,3,True
+645482,258599,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Breeze,1,LEVIATÁN,G2 Esports,6,13,kiNgg,8549,viper,0.5,114.0,8.0,13.0,4.0,63.0,68.0,12.0,0.0,2.0,3,True
+645482,258599,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Breeze,1,LEVIATÁN,G2 Esports,6,13,Sato,21659,neon,0.44,142.0,9.0,16.0,5.0,58.0,89.0,17.0,2.0,3.0,3,True
+645482,258599,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Breeze,1,LEVIATÁN,G2 Esports,6,13,blowz,21251,sova,0.37,86.0,5.0,14.0,4.0,58.0,71.0,22.0,0.0,2.0,3,True
+645482,258600,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,G2 Esports,LEVIATÁN,11,13,BABYBAY,2170,vyse,1.39,250.0,22.0,16.0,4.0,71.0,163.0,21.0,3.0,2.0,3,True
+645482,258600,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,G2 Esports,LEVIATÁN,11,13,jawgemo,3993,raze,0.94,216.0,19.0,20.0,1.0,67.0,127.0,14.0,6.0,2.0,3,True
+645482,258600,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,G2 Esports,LEVIATÁN,11,13,trent,15500,fade,0.89,165.0,12.0,18.0,12.0,75.0,130.0,41.0,3.0,2.0,3,True
+645482,258600,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,G2 Esports,LEVIATÁN,11,13,leaf,7873,astra,0.8,137.0,11.0,16.0,8.0,79.0,100.0,25.0,0.0,2.0,3,True
+645482,258600,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,G2 Esports,LEVIATÁN,11,13,valyn,3885,harbor,0.77,140.0,11.0,17.0,13.0,71.0,90.0,14.0,2.0,2.0,3,True
+645482,258600,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,LEVIATÁN,G2 Esports,13,11,Neon,29243,omen,1.18,232.0,20.0,15.0,11.0,88.0,160.0,28.0,1.0,3.0,3,True
+645482,258600,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,LEVIATÁN,G2 Esports,13,11,Sato,21659,phoenix,1.12,211.0,20.0,16.0,4.0,71.0,135.0,34.0,1.0,5.0,3,True
+645482,258600,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,LEVIATÁN,G2 Esports,13,11,kiNgg,8549,viper,0.97,180.0,15.0,14.0,5.0,79.0,127.0,31.0,1.0,1.0,3,True
+645482,258600,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,LEVIATÁN,G2 Esports,13,11,blowz,21251,fade,0.93,165.0,16.0,13.0,3.0,79.0,95.0,31.0,1.0,0.0,3,True
+645482,258600,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,LEVIATÁN,G2 Esports,13,11,spike,21661,neon,0.78,222.0,16.0,18.0,7.0,63.0,138.0,19.0,6.0,5.0,3,True
+645482,258601,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Bind,3,G2 Esports,LEVIATÁN,12,14,valyn,3885,brimstone,1.22,198.0,18.0,16.0,11.0,73.0,122.0,16.0,2.0,2.0,3,True
+645482,258601,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Bind,3,G2 Esports,LEVIATÁN,12,14,leaf,7873,viper,0.98,187.0,17.0,19.0,8.0,58.0,120.0,34.0,2.0,4.0,3,True
+645482,258601,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Bind,3,G2 Esports,LEVIATÁN,12,14,trent,15500,fade,0.98,202.0,19.0,17.0,2.0,58.0,139.0,44.0,1.0,4.0,3,True
+645482,258601,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Bind,3,G2 Esports,LEVIATÁN,12,14,jawgemo,3993,raze,0.92,218.0,18.0,19.0,6.0,46.0,140.0,7.0,2.0,4.0,3,True
+645482,258601,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Bind,3,G2 Esports,LEVIATÁN,12,14,BABYBAY,2170,vyse,0.81,131.0,9.0,17.0,10.0,69.0,95.0,12.0,0.0,5.0,3,True
+645482,258601,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Bind,3,LEVIATÁN,G2 Esports,14,12,Sato,21659,phoenix,1.17,249.0,22.0,19.0,7.0,65.0,162.0,25.0,4.0,1.0,3,True
+645482,258601,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Bind,3,LEVIATÁN,G2 Esports,14,12,Neon,29243,brimstone,1.15,184.0,19.0,15.0,10.0,73.0,126.0,47.0,1.0,1.0,3,True
+645482,258601,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Bind,3,LEVIATÁN,G2 Esports,14,12,spike,21661,neon,1.1,260.0,24.0,21.0,5.0,77.0,157.0,23.0,8.0,2.0,3,True
+645482,258601,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Bind,3,LEVIATÁN,G2 Esports,14,12,kiNgg,8549,viper,0.93,164.0,15.0,13.0,2.0,62.0,108.0,17.0,3.0,2.0,3,True
+645482,258601,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Bind,3,LEVIATÁN,G2 Esports,14,12,blowz,21251,skye,0.76,109.0,8.0,13.0,7.0,62.0,79.0,22.0,3.0,1.0,3,True
+645483,258602,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Haven,1,MIBR,LOUD,13,10,Verno,21668,fade,1.46,240.0,20.0,12.0,8.0,87.0,142.0,21.0,3.0,1.0,3,True
+645483,258602,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Haven,1,MIBR,LOUD,13,10,aspas,8480,jett,1.28,200.0,18.0,13.0,1.0,83.0,128.0,31.0,3.0,1.0,3,True
+645483,258602,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Haven,1,MIBR,LOUD,13,10,zekken,4004,phoenix,1.19,209.0,17.0,14.0,12.0,74.0,150.0,32.0,2.0,2.0,3,True
+645483,258602,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Haven,1,MIBR,LOUD,13,10,Mazino,7603,omen,0.94,191.0,16.0,16.0,10.0,78.0,128.0,20.0,4.0,5.0,3,True
+645483,258602,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Haven,1,MIBR,LOUD,13,10,tex,1818,vyse,0.82,149.0,13.0,14.0,4.0,65.0,103.0,35.0,1.0,1.0,3,True
+645483,258602,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Haven,1,LOUD,MIBR,10,13,lukxo,28716,vyse,1.11,221.0,17.0,15.0,6.0,57.0,162.0,43.0,2.0,4.0,3,True
+645483,258602,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Haven,1,LOUD,MIBR,10,13,Virtyy,3983,neon,1.1,229.0,18.0,17.0,1.0,65.0,147.0,32.0,2.0,3.0,3,True
+645483,258602,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Haven,1,LOUD,MIBR,10,13,cauanzin,6193,sova,0.91,162.0,13.0,16.0,3.0,57.0,98.0,19.0,4.0,1.0,3,True
+645483,258602,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Haven,1,LOUD,MIBR,10,13,Bati,5203,omen,0.56,146.0,11.0,18.0,7.0,70.0,98.0,23.0,2.0,2.0,3,True
+645483,258602,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Haven,1,LOUD,MIBR,10,13,Darker,10557,viper,0.55,151.0,10.0,18.0,6.0,52.0,111.0,29.0,0.0,3.0,3,True
+645483,258603,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,MIBR,LOUD,13,4,Mazino,7603,astra,1.66,282.0,18.0,6.0,10.0,88.0,196.0,24.0,0.0,0.0,3,True
+645483,258603,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,MIBR,LOUD,13,4,zekken,4004,neon,1.43,291.0,17.0,8.0,5.0,76.0,165.0,11.0,5.0,3.0,3,True
+645483,258603,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,MIBR,LOUD,13,4,aspas,8480,raze,1.36,232.0,14.0,8.0,5.0,88.0,148.0,29.0,5.0,1.0,3,True
+645483,258603,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,MIBR,LOUD,13,4,Verno,21668,fade,1.05,173.0,12.0,8.0,3.0,94.0,117.0,15.0,1.0,0.0,3,True
+645483,258603,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,MIBR,LOUD,13,4,tex,1818,vyse,0.91,106.0,7.0,7.0,6.0,88.0,60.0,13.0,1.0,1.0,3,True
+645483,258603,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,LOUD,MIBR,4,13,cauanzin,6193,skye,0.86,177.0,10.0,13.0,3.0,59.0,113.0,26.0,0.0,3.0,3,True
+645483,258603,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,LOUD,MIBR,4,13,Virtyy,3983,neon,0.83,196.0,11.0,14.0,0.0,53.0,112.0,6.0,3.0,2.0,3,True
+645483,258603,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,LOUD,MIBR,4,13,Bati,5203,omen,0.65,116.0,6.0,13.0,4.0,47.0,87.0,19.0,0.0,1.0,3,True
+645483,258603,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,LOUD,MIBR,4,13,lukxo,28716,viper,0.61,125.0,7.0,14.0,2.0,41.0,76.0,27.0,0.0,4.0,3,True
+645483,258603,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-18,Split,2,LOUD,MIBR,4,13,Darker,10557,cypher,0.37,88.0,3.0,14.0,4.0,47.0,71.0,20.0,2.0,2.0,3,True
+645484,258605,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Lotus,1,NRG,KRÜ Esports,10,13,brawk,2172,vyse,1.25,232.0,18.0,14.0,9.0,70.0,150.0,22.0,2.0,0.0,3,True
+645484,258605,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Lotus,1,NRG,KRÜ Esports,10,13,mada,5132,neon,0.98,225.0,17.0,19.0,6.0,70.0,143.0,10.0,6.0,6.0,3,True
+645484,258605,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Lotus,1,NRG,KRÜ Esports,10,13,skuba,11118,viper,0.84,182.0,15.0,17.0,5.0,78.0,118.0,28.0,1.0,2.0,3,True
+645484,258605,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Lotus,1,NRG,KRÜ Esports,10,13,Ethan,11225,fade,0.8,170.0,12.0,18.0,5.0,70.0,118.0,21.0,2.0,0.0,3,True
+645484,258605,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Lotus,1,NRG,KRÜ Esports,10,13,keiko,11494,omen,0.71,136.0,13.0,16.0,3.0,61.0,91.0,27.0,1.0,3.0,3,True
+645484,258605,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Lotus,1,KRÜ Esports,NRG,13,10,saadhak,727,omen,1.44,270.0,22.0,14.0,7.0,70.0,173.0,30.0,4.0,2.0,3,True
+645484,258605,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Lotus,1,KRÜ Esports,NRG,13,10,Less,8447,viper,1.24,218.0,18.0,13.0,8.0,83.0,137.0,36.0,0.0,3.0,3,True
+645484,258605,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Lotus,1,KRÜ Esports,NRG,13,10,silentzz,11921,vyse,1.1,183.0,15.0,13.0,6.0,87.0,103.0,33.0,3.0,1.0,3,True
+645484,258605,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Lotus,1,KRÜ Esports,NRG,13,10,mwzera,939,fade,0.97,180.0,15.0,16.0,7.0,65.0,134.0,36.0,1.0,2.0,3,True
+645484,258605,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Lotus,1,KRÜ Esports,NRG,13,10,Dantedeu5,41135,neon,0.69,199.0,14.0,19.0,10.0,65.0,133.0,22.0,3.0,4.0,3,True
+645484,258606,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,NRG,KRÜ Esports,8,13,Ethan,11225,fade,1.26,248.0,18.0,16.0,6.0,71.0,158.0,20.0,2.0,2.0,3,True
+645484,258606,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,NRG,KRÜ Esports,8,13,skuba,11118,viper,1.18,220.0,15.0,15.0,6.0,62.0,158.0,31.0,1.0,0.0,3,True
+645484,258606,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,NRG,KRÜ Esports,8,13,brawk,2172,vyse,0.84,171.0,12.0,17.0,4.0,57.0,114.0,17.0,2.0,1.0,3,True
+645484,258606,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,NRG,KRÜ Esports,8,13,keiko,11494,omen,0.65,135.0,10.0,17.0,4.0,62.0,89.0,45.0,1.0,3.0,3,True
+645484,258606,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,NRG,KRÜ Esports,8,13,mada,5132,neon,0.22,67.0,4.0,16.0,3.0,48.0,50.0,11.0,0.0,9.0,3,True
+645484,258606,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,KRÜ Esports,NRG,13,8,Less,8447,viper,1.62,331.0,24.0,11.0,12.0,86.0,210.0,21.0,1.0,2.0,3,True
+645484,258606,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,KRÜ Esports,NRG,13,8,saadhak,727,omen,1.1,174.0,12.0,11.0,9.0,71.0,131.0,20.0,1.0,0.0,3,True
+645484,258606,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,KRÜ Esports,NRG,13,8,silentzz,11921,vyse,1.08,172.0,14.0,11.0,2.0,86.0,113.0,17.0,2.0,0.0,3,True
+645484,258606,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,KRÜ Esports,NRG,13,8,Dantedeu5,41135,neon,1.04,237.0,17.0,16.0,9.0,71.0,138.0,15.0,10.0,4.0,3,True
+645484,258606,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,KRÜ Esports,NRG,13,8,mwzera,939,fade,1.03,174.0,14.0,10.0,5.0,86.0,99.0,13.0,1.0,0.0,3,True
+645485,258608,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Haven,1,100 Thieves,Sentinels,10,13,Cryocells,4147,cypher,1.39,239.0,21.0,13.0,4.0,83.0,142.0,23.0,2.0,0.0,3,True
+645485,258608,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Haven,1,100 Thieves,Sentinels,10,13,bang,3880,omen,1.12,159.0,15.0,14.0,9.0,70.0,95.0,32.0,0.0,0.0,3,True
+645485,258608,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Haven,1,100 Thieves,Sentinels,10,13,Timotino,29893,phoenix,0.8,190.0,11.0,20.0,15.0,61.0,136.0,21.0,4.0,5.0,3,True
+645485,258608,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Haven,1,100 Thieves,Sentinels,10,13,vora,20140,sova,0.65,157.0,10.0,17.0,9.0,57.0,107.0,18.0,1.0,4.0,3,True
+645485,258608,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Haven,1,100 Thieves,Sentinels,10,13,Asuna,601,neon,0.58,137.0,10.0,19.0,3.0,57.0,92.0,15.0,3.0,4.0,3,True
+645485,258608,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Haven,1,Sentinels,100 Thieves,13,10,Reduxx,8419,omen,1.36,255.0,23.0,13.0,11.0,83.0,166.0,30.0,1.0,0.0,3,True
+645485,258608,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Haven,1,Sentinels,100 Thieves,13,10,cortezia,5395,killjoy,1.32,233.0,19.0,11.0,3.0,91.0,141.0,16.0,5.0,1.0,3,True
+645485,258608,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Haven,1,Sentinels,100 Thieves,13,10,johnqt,1265,viper,1.12,165.0,14.0,11.0,6.0,83.0,104.0,15.0,1.0,3.0,3,True
+645485,258608,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Haven,1,Sentinels,100 Thieves,13,10,Jerrwin,34057,neon,0.81,168.0,14.0,16.0,8.0,61.0,117.0,18.0,5.0,4.0,3,True
+645485,258608,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Haven,1,Sentinels,100 Thieves,13,10,JonahP,4581,sova,0.75,181.0,13.0,16.0,7.0,65.0,117.0,16.0,1.0,2.0,3,True
+645485,258609,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,100 Thieves,Sentinels,17,19,Cryocells,4147,viper,1.13,258.0,30.0,26.0,11.0,81.0,171.0,16.0,3.0,1.0,3,True
+645485,258609,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,100 Thieves,Sentinels,17,19,Timotino,29893,raze,1.04,228.0,29.0,28.0,5.0,69.0,141.0,20.0,10.0,7.0,3,True
+645485,258609,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,100 Thieves,Sentinels,17,19,vora,20140,fade,1.01,195.0,25.0,25.0,12.0,72.0,129.0,27.0,2.0,4.0,3,True
+645485,258609,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,100 Thieves,Sentinels,17,19,bang,3880,omen,1.01,185.0,28.0,25.0,11.0,75.0,110.0,22.0,2.0,1.0,3,True
+645485,258609,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,100 Thieves,Sentinels,17,19,Asuna,601,sage,0.81,155.0,16.0,25.0,15.0,75.0,111.0,14.0,2.0,4.0,3,True
+645485,258609,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,Sentinels,100 Thieves,19,17,cortezia,5395,viper,1.39,275.0,35.0,24.0,9.0,75.0,170.0,27.0,6.0,5.0,3,True
+645485,258609,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,Sentinels,100 Thieves,19,17,JonahP,4581,skye,1.11,202.0,25.0,25.0,10.0,75.0,141.0,24.0,1.0,3.0,3,True
+645485,258609,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,Sentinels,100 Thieves,19,17,Reduxx,8419,omen,1.01,211.0,26.0,25.0,10.0,81.0,134.0,23.0,3.0,1.0,3,True
+645485,258609,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,Sentinels,100 Thieves,19,17,johnqt,1265,sage,0.84,149.0,17.0,24.0,17.0,72.0,104.0,21.0,1.0,2.0,3,True
+645485,258609,2860,VCT 2026: Americas Stage 1,Group Stage: Week 2,2026-04-19,Split,2,Sentinels,100 Thieves,19,17,Jerrwin,34057,neon,0.81,209.0,26.0,30.0,9.0,64.0,136.0,17.0,6.0,8.0,3,True
+645486,258611,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Bind,1,LEVIATÁN,ENVY,13,4,blowz,21251,skye,2.19,395.0,25.0,9.0,17.0,88.0,246.0,38.0,2.0,0.0,3,True
+645486,258611,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Bind,1,LEVIATÁN,ENVY,13,4,spike,21661,neon,1.2,257.0,16.0,11.0,3.0,76.0,178.0,33.0,3.0,5.0,3,True
+645486,258611,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Bind,1,LEVIATÁN,ENVY,13,4,Neon,29243,brimstone,1.11,197.0,13.0,12.0,7.0,88.0,118.0,37.0,1.0,1.0,3,True
+645486,258611,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Bind,1,LEVIATÁN,ENVY,13,4,Sato,21659,phoenix,1.01,189.0,10.0,11.0,8.0,76.0,134.0,48.0,2.0,0.0,3,True
+645486,258611,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Bind,1,LEVIATÁN,ENVY,13,4,kiNgg,8549,viper,0.81,132.0,7.0,10.0,5.0,71.0,86.0,10.0,2.0,1.0,3,True
+645486,258611,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Bind,1,ENVY,LEVIATÁN,4,13,Rossy,1129,viper,1.07,250.0,12.0,14.0,6.0,71.0,183.0,30.0,0.0,1.0,3,True
+645486,258611,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Bind,1,ENVY,LEVIATÁN,4,13,P0PPIN,21778,skye,1.04,241.0,15.0,14.0,5.0,71.0,143.0,13.0,1.0,3.0,3,True
+645486,258611,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Bind,1,ENVY,LEVIATÁN,4,13,Eggsterr,35302,brimstone,0.72,175.0,8.0,15.0,8.0,71.0,105.0,26.0,3.0,0.0,3,True
+645486,258611,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Bind,1,ENVY,LEVIATÁN,4,13,keznit,2462,neon,0.66,155.0,10.0,14.0,3.0,59.0,77.0,16.0,1.0,1.0,3,True
+645486,258611,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Bind,1,ENVY,LEVIATÁN,4,13,Demon1,26171,chamber,0.55,130.0,8.0,14.0,2.0,47.0,99.0,53.0,2.0,5.0,3,True
+645486,258612,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Fracture,2,LEVIATÁN,ENVY,13,4,Sato,21659,waylay,1.66,308.0,20.0,8.0,4.0,88.0,196.0,62.0,5.0,1.0,3,True
+645486,258612,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Fracture,2,LEVIATÁN,ENVY,13,4,blowz,21251,tejo,1.5,257.0,16.0,8.0,8.0,94.0,162.0,23.0,2.0,1.0,3,True
+645486,258612,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Fracture,2,LEVIATÁN,ENVY,13,4,Neon,29243,brimstone,1.42,216.0,14.0,8.0,16.0,94.0,137.0,16.0,2.0,0.0,3,True
+645486,258612,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Fracture,2,LEVIATÁN,ENVY,13,4,spike,21661,neon,1.16,269.0,18.0,12.0,4.0,82.0,160.0,26.0,3.0,2.0,3,True
+645486,258612,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Fracture,2,LEVIATÁN,ENVY,13,4,kiNgg,8549,breach,1.06,117.0,6.0,6.0,11.0,94.0,82.0,18.0,0.0,1.0,3,True
+645486,258612,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Fracture,2,ENVY,LEVIATÁN,4,13,P0PPIN,21778,skye,0.87,164.0,9.0,14.0,3.0,47.0,113.0,31.0,0.0,1.0,3,True
+645486,258612,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Fracture,2,ENVY,LEVIATÁN,4,13,Eggsterr,35302,brimstone,0.87,182.0,11.0,14.0,5.0,65.0,112.0,31.0,2.0,4.0,3,True
+645486,258612,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Fracture,2,ENVY,LEVIATÁN,4,13,Demon1,26171,veto,0.58,137.0,8.0,15.0,0.0,47.0,90.0,30.0,3.0,2.0,3,True
+645486,258612,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Fracture,2,ENVY,LEVIATÁN,4,13,Rossy,1129,breach,0.49,110.0,5.0,15.0,10.0,59.0,71.0,42.0,0.0,2.0,3,True
+645486,258612,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Fracture,2,ENVY,LEVIATÁN,4,13,keznit,2462,neon,0.48,154.0,9.0,16.0,2.0,65.0,101.0,16.0,0.0,3.0,3,True
+645487,258614,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Haven,1,G2 Esports,LOUD,13,9,BABYBAY,2170,chamber,1.45,292.0,23.0,13.0,5.0,82.0,186.0,25.0,4.0,1.0,3,True
+645487,258614,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Haven,1,G2 Esports,LOUD,13,9,valyn,3885,astra,1.28,248.0,21.0,13.0,6.0,82.0,161.0,26.0,1.0,1.0,3,True
+645487,258614,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Haven,1,G2 Esports,LOUD,13,9,leaf,7873,phoenix,1.19,206.0,17.0,14.0,9.0,77.0,133.0,27.0,4.0,4.0,3,True
+645487,258614,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Haven,1,G2 Esports,LOUD,13,9,jawgemo,3993,neon,1.11,234.0,18.0,14.0,6.0,82.0,148.0,26.0,4.0,1.0,3,True
+645487,258614,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Haven,1,G2 Esports,LOUD,13,9,trent,15500,fade,0.68,144.0,13.0,16.0,7.0,68.0,94.0,33.0,1.0,1.0,3,True
+645487,258614,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Haven,1,LOUD,G2 Esports,9,13,lukxo,28716,vyse,1.33,265.0,20.0,19.0,6.0,77.0,176.0,29.0,3.0,1.0,3,True
+645487,258614,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Haven,1,LOUD,G2 Esports,9,13,Virtyy,3983,neon,0.86,209.0,13.0,18.0,5.0,73.0,134.0,17.0,4.0,3.0,3,True
+645487,258614,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Haven,1,LOUD,G2 Esports,9,13,cauanzin,6193,sova,0.81,168.0,13.0,18.0,5.0,73.0,107.0,15.0,0.0,2.0,3,True
+645487,258614,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Haven,1,LOUD,G2 Esports,9,13,Bati,5203,omen,0.64,140.0,13.0,18.0,4.0,55.0,90.0,30.0,0.0,5.0,3,True
+645487,258614,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Haven,1,LOUD,G2 Esports,9,13,Darker,10557,viper,0.56,156.0,11.0,19.0,5.0,64.0,111.0,32.0,1.0,3.0,3,True
+645487,258615,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Pearl,2,G2 Esports,LOUD,13,10,valyn,3885,harbor,1.41,227.0,20.0,13.0,11.0,78.0,159.0,42.0,4.0,1.0,3,True
+645487,258615,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Pearl,2,G2 Esports,LOUD,13,10,leaf,7873,astra,1.31,239.0,22.0,14.0,8.0,78.0,156.0,23.0,2.0,0.0,3,True
+645487,258615,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Pearl,2,G2 Esports,LOUD,13,10,trent,15500,sova,1.3,210.0,16.0,11.0,6.0,74.0,151.0,26.0,1.0,1.0,3,True
+645487,258615,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Pearl,2,G2 Esports,LOUD,13,10,BABYBAY,2170,vyse,1.0,187.0,15.0,16.0,3.0,70.0,118.0,16.0,3.0,3.0,3,True
+645487,258615,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Pearl,2,G2 Esports,LOUD,13,10,jawgemo,3993,neon,0.72,168.0,15.0,18.0,5.0,70.0,100.0,13.0,1.0,7.0,3,True
+645487,258615,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Pearl,2,LOUD,G2 Esports,10,13,lukxo,28716,chamber,1.22,266.0,22.0,18.0,3.0,65.0,174.0,40.0,8.0,5.0,3,True
+645487,258615,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Pearl,2,LOUD,G2 Esports,10,13,Darker,10557,astra,1.03,203.0,15.0,17.0,13.0,74.0,138.0,24.0,2.0,1.0,3,True
+645487,258615,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Pearl,2,LOUD,G2 Esports,10,13,cauanzin,6193,sova,0.93,201.0,16.0,17.0,5.0,65.0,123.0,11.0,0.0,0.0,3,True
+645487,258615,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Pearl,2,LOUD,G2 Esports,10,13,Bati,5203,kayo,0.6,123.0,10.0,19.0,9.0,65.0,67.0,15.0,0.0,1.0,3,True
+645487,258615,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-24,Pearl,2,LOUD,G2 Esports,10,13,Virtyy,3983,neon,0.45,116.0,9.0,17.0,0.0,52.0,78.0,25.0,2.0,4.0,3,True
+645488,258617,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,1,FURIA,KRÜ Esports,4,13,nerve,754,viper,0.89,198.0,9.0,13.0,6.0,71.0,165.0,19.0,1.0,1.0,3,True
+645488,258617,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,1,FURIA,KRÜ Esports,4,13,artzin,5957,vyse,0.72,210.0,11.0,15.0,6.0,76.0,128.0,20.0,0.0,2.0,3,True
+645488,258617,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,1,FURIA,KRÜ Esports,4,13,eeiu,796,fade,0.67,150.0,11.0,15.0,1.0,53.0,106.0,43.0,1.0,1.0,3,True
+645488,258617,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,1,FURIA,KRÜ Esports,4,13,koalanoob,3722,omen,0.59,129.0,7.0,15.0,4.0,59.0,78.0,18.0,1.0,0.0,3,True
+645488,258617,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,1,FURIA,KRÜ Esports,4,13,alym,48025,neon,0.37,149.0,7.0,15.0,3.0,35.0,95.0,8.0,2.0,8.0,3,True
+645488,258617,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,1,KRÜ Esports,FURIA,13,4,saadhak,727,omen,1.72,310.0,19.0,9.0,10.0,94.0,199.0,29.0,3.0,2.0,3,True
+645488,258617,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,1,KRÜ Esports,FURIA,13,4,Dantedeu5,41135,neon,1.57,313.0,19.0,11.0,7.0,82.0,188.0,24.0,6.0,2.0,3,True
+645488,258617,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,1,KRÜ Esports,FURIA,13,4,Less,8447,viper,1.36,208.0,13.0,8.0,4.0,88.0,140.0,20.0,1.0,1.0,3,True
+645488,258617,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,1,KRÜ Esports,FURIA,13,4,mwzera,939,fade,1.3,169.0,12.0,7.0,6.0,82.0,96.0,10.0,1.0,0.0,3,True
+645488,258617,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,1,KRÜ Esports,FURIA,13,4,silentzz,11921,vyse,0.99,178.0,10.0,10.0,7.0,82.0,118.0,14.0,1.0,0.0,3,True
+645488,258618,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Haven,2,FURIA,KRÜ Esports,10,13,nerve,754,omen,1.11,237.0,19.0,15.0,7.0,70.0,149.0,37.0,0.0,4.0,3,True
+645488,258618,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Haven,2,FURIA,KRÜ Esports,10,13,eeiu,796,sova,0.96,183.0,14.0,16.0,6.0,65.0,136.0,18.0,2.0,0.0,3,True
+645488,258618,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Haven,2,FURIA,KRÜ Esports,10,13,alym,48025,neon,0.9,208.0,16.0,17.0,2.0,74.0,123.0,28.0,4.0,4.0,3,True
+645488,258618,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Haven,2,FURIA,KRÜ Esports,10,13,artzin,5957,cypher,0.8,162.0,15.0,15.0,4.0,74.0,116.0,27.0,1.0,1.0,3,True
+645488,258618,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Haven,2,FURIA,KRÜ Esports,10,13,koalanoob,3722,phoenix,0.7,149.0,11.0,17.0,12.0,74.0,102.0,26.0,3.0,4.0,3,True
+645488,258618,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Haven,2,KRÜ Esports,FURIA,13,10,mwzera,939,fade,1.24,232.0,17.0,14.0,8.0,65.0,166.0,21.0,0.0,1.0,3,True
+645488,258618,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Haven,2,KRÜ Esports,FURIA,13,10,saadhak,727,omen,1.15,187.0,14.0,13.0,13.0,65.0,118.0,35.0,2.0,4.0,3,True
+645488,258618,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Haven,2,KRÜ Esports,FURIA,13,10,Less,8447,cypher,1.13,237.0,20.0,16.0,2.0,74.0,146.0,21.0,4.0,1.0,3,True
+645488,258618,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Haven,2,KRÜ Esports,FURIA,13,10,Dantedeu5,41135,neon,0.97,160.0,15.0,15.0,2.0,65.0,102.0,36.0,5.0,3.0,3,True
+645488,258618,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Haven,2,KRÜ Esports,FURIA,13,10,silentzz,11921,phoenix,0.96,185.0,14.0,17.0,11.0,70.0,125.0,18.0,2.0,1.0,3,True
+645489,258620,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Pearl,1,NRG,100 Thieves,9,13,skuba,11118,astra,1.34,254.0,19.0,14.0,7.0,73.0,158.0,28.0,3.0,2.0,3,True
+645489,258620,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Pearl,1,NRG,100 Thieves,9,13,keiko,11494,killjoy,1.08,221.0,17.0,15.0,1.0,68.0,149.0,40.0,1.0,1.0,3,True
+645489,258620,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Pearl,1,NRG,100 Thieves,9,13,brawk,2172,sova,0.83,156.0,11.0,16.0,8.0,73.0,116.0,25.0,1.0,2.0,3,True
+645489,258620,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Pearl,1,NRG,100 Thieves,9,13,Ethan,11225,tejo,0.6,127.0,8.0,16.0,9.0,68.0,96.0,16.0,1.0,1.0,3,True
+645489,258620,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Pearl,1,NRG,100 Thieves,9,13,mada,5132,neon,0.51,129.0,10.0,16.0,4.0,59.0,80.0,18.0,3.0,7.0,3,True
+645489,258620,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Pearl,1,100 Thieves,NRG,13,9,Cryocells,4147,chamber,1.32,211.0,18.0,11.0,2.0,73.0,127.0,17.0,5.0,0.0,3,True
+645489,258620,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Pearl,1,100 Thieves,NRG,13,9,Asuna,601,neon,1.07,235.0,19.0,15.0,4.0,77.0,147.0,24.0,2.0,4.0,3,True
+645489,258620,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Pearl,1,100 Thieves,NRG,13,9,bang,3880,astra,1.04,185.0,14.0,11.0,8.0,82.0,116.0,24.0,1.0,1.0,3,True
+645489,258620,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Pearl,1,100 Thieves,NRG,13,9,vora,20140,fade,0.8,158.0,13.0,13.0,7.0,82.0,103.0,32.0,2.0,1.0,3,True
+645489,258620,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Pearl,1,100 Thieves,NRG,13,9,Timotino,29893,phoenix,0.77,188.0,13.0,15.0,7.0,59.0,131.0,27.0,3.0,3.0,3,True
+645489,258621,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,2,NRG,100 Thieves,13,10,keiko,11494,omen,1.51,255.0,23.0,15.0,7.0,83.0,183.0,44.0,1.0,1.0,3,True
+645489,258621,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,2,NRG,100 Thieves,13,10,skuba,11118,viper,1.18,226.0,18.0,14.0,9.0,87.0,151.0,24.0,3.0,2.0,3,True
+645489,258621,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,2,NRG,100 Thieves,13,10,mada,5132,neon,0.99,262.0,21.0,20.0,3.0,70.0,151.0,24.0,11.0,3.0,3,True
+645489,258621,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,2,NRG,100 Thieves,13,10,Ethan,11225,fade,0.89,174.0,13.0,16.0,7.0,78.0,116.0,23.0,1.0,1.0,3,True
+645489,258621,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,2,NRG,100 Thieves,13,10,brawk,2172,vyse,0.83,125.0,8.0,13.0,11.0,70.0,84.0,21.0,0.0,0.0,3,True
+645489,258621,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,2,100 Thieves,NRG,10,13,bang,3880,omen,1.43,227.0,19.0,15.0,7.0,78.0,145.0,38.0,2.0,2.0,3,True
+645489,258621,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,2,100 Thieves,NRG,10,13,Asuna,601,sage,1.04,203.0,16.0,15.0,8.0,78.0,134.0,24.0,2.0,1.0,3,True
+645489,258621,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,2,100 Thieves,NRG,10,13,Timotino,29893,raze,0.8,203.0,18.0,19.0,5.0,74.0,127.0,12.0,1.0,5.0,3,True
+645489,258621,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,2,100 Thieves,NRG,10,13,Cryocells,4147,vyse,0.68,158.0,13.0,16.0,7.0,74.0,108.0,20.0,2.0,5.0,3,True
+645489,258621,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Lotus,2,100 Thieves,NRG,10,13,vora,20140,sova,0.66,157.0,12.0,18.0,7.0,65.0,113.0,26.0,0.0,3.0,3,True
+645489,258622,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Breeze,3,NRG,100 Thieves,13,2,Ethan,11225,kayo,1.81,306.0,16.0,7.0,11.0,100.0,172.0,30.0,1.0,0.0,3,True
+645489,258622,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Breeze,3,NRG,100 Thieves,13,2,keiko,11494,jett,1.57,337.0,20.0,9.0,0.0,73.0,224.0,53.0,2.0,2.0,3,True
+645489,258622,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Breeze,3,NRG,100 Thieves,13,2,brawk,2172,sova,1.46,172.0,11.0,5.0,3.0,93.0,131.0,38.0,1.0,1.0,3,True
+645489,258622,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Breeze,3,NRG,100 Thieves,13,2,mada,5132,harbor,1.13,199.0,11.0,8.0,6.0,80.0,115.0,39.0,2.0,2.0,3,True
+645489,258622,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Breeze,3,NRG,100 Thieves,13,2,skuba,11118,viper,0.89,147.0,7.0,7.0,6.0,80.0,104.0,13.0,1.0,3.0,3,True
+645489,258622,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Breeze,3,100 Thieves,NRG,2,13,Timotino,29893,jett,0.79,205.0,10.0,14.0,4.0,60.0,148.0,33.0,3.0,3.0,3,True
+645489,258622,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Breeze,3,100 Thieves,NRG,2,13,Asuna,601,kayo,0.73,154.0,8.0,13.0,8.0,73.0,91.0,21.0,1.0,1.0,3,True
+645489,258622,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Breeze,3,100 Thieves,NRG,2,13,Cryocells,4147,viper,0.69,130.0,7.0,12.0,4.0,60.0,82.0,19.0,2.0,1.0,3,True
+645489,258622,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Breeze,3,100 Thieves,NRG,2,13,vora,20140,sova,0.59,109.0,5.0,12.0,2.0,60.0,77.0,28.0,2.0,0.0,3,True
+645489,258622,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-25,Breeze,3,100 Thieves,NRG,2,13,bang,3880,harbor,0.36,103.0,6.0,14.0,2.0,53.0,68.0,33.0,0.0,2.0,3,True
+645490,258623,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Haven,1,Evil Geniuses,Sentinels,7,13,C0M,619,sova,0.99,189.0,13.0,14.0,2.0,65.0,132.0,28.0,0.0,0.0,3,True
+645490,258623,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Haven,1,Evil Geniuses,Sentinels,7,13,bao,34400,killjoy,0.87,159.0,12.0,14.0,1.0,60.0,117.0,39.0,0.0,2.0,3,True
+645490,258623,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Haven,1,Evil Geniuses,Sentinels,7,13,dgzin,8873,neon,0.87,221.0,14.0,16.0,4.0,70.0,149.0,45.0,6.0,6.0,3,True
+645490,258623,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Haven,1,Evil Geniuses,Sentinels,7,13,Okeanos,8373,omen,0.8,137.0,11.0,14.0,4.0,60.0,99.0,48.0,0.0,2.0,3,True
+645490,258623,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Haven,1,Evil Geniuses,Sentinels,7,13,supamen,826,viper,0.5,129.0,9.0,17.0,2.0,55.0,83.0,26.0,2.0,2.0,3,True
+645490,258623,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Haven,1,Sentinels,Evil Geniuses,13,7,Reduxx,8419,omen,1.71,288.0,24.0,11.0,1.0,80.0,171.0,49.0,3.0,1.0,3,True
+645490,258623,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Haven,1,Sentinels,Evil Geniuses,13,7,johnqt,1265,viper,1.39,219.0,15.0,10.0,11.0,75.0,161.0,25.0,0.0,1.0,3,True
+645490,258623,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Haven,1,Sentinels,Evil Geniuses,13,7,JonahP,4581,sova,0.94,168.0,12.0,11.0,5.0,90.0,127.0,13.0,1.0,2.0,3,True
+645490,258623,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Haven,1,Sentinels,Evil Geniuses,13,7,cortezia,5395,killjoy,0.88,155.0,10.0,11.0,2.0,70.0,106.0,14.0,3.0,1.0,3,True
+645490,258623,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Haven,1,Sentinels,Evil Geniuses,13,7,Jerrwin,34057,neon,0.83,189.0,14.0,16.0,4.0,80.0,115.0,5.0,5.0,3.0,3,True
+645490,258624,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Bind,2,Evil Geniuses,Sentinels,11,13,Okeanos,8373,waylay,1.24,242.0,20.0,17.0,6.0,71.0,153.0,34.0,2.0,3.0,3,True
+645490,258624,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Bind,2,Evil Geniuses,Sentinels,11,13,supamen,826,viper,1.09,181.0,17.0,14.0,2.0,71.0,121.0,30.0,2.0,2.0,3,True
+645490,258624,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Bind,2,Evil Geniuses,Sentinels,11,13,bao,34400,brimstone,1.04,179.0,14.0,16.0,12.0,75.0,136.0,41.0,3.0,1.0,3,True
+645490,258624,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Bind,2,Evil Geniuses,Sentinels,11,13,dgzin,8873,neon,0.81,211.0,18.0,21.0,3.0,67.0,134.0,42.0,6.0,5.0,3,True
+645490,258624,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Bind,2,Evil Geniuses,Sentinels,11,13,C0M,619,skye,0.7,131.0,11.0,17.0,12.0,58.0,86.0,26.0,0.0,0.0,3,True
+645490,258624,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Bind,2,Sentinels,Evil Geniuses,13,11,cortezia,5395,viper,1.49,277.0,23.0,13.0,7.0,71.0,177.0,36.0,2.0,0.0,3,True
+645490,258624,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Bind,2,Sentinels,Evil Geniuses,13,11,Jerrwin,34057,neon,0.94,215.0,18.0,17.0,3.0,54.0,131.0,10.0,3.0,4.0,3,True
+645490,258624,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Bind,2,Sentinels,Evil Geniuses,13,11,JonahP,4581,skye,0.92,207.0,17.0,17.0,6.0,71.0,130.0,33.0,3.0,4.0,3,True
+645490,258624,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Bind,2,Sentinels,Evil Geniuses,13,11,Reduxx,8419,raze,0.9,194.0,15.0,18.0,7.0,71.0,129.0,21.0,3.0,4.0,3,True
+645490,258624,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Bind,2,Sentinels,Evil Geniuses,13,11,johnqt,1265,harbor,0.86,145.0,12.0,15.0,5.0,58.0,89.0,35.0,0.0,1.0,3,True
+645491,258626,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Breeze,1,MIBR,Cloud9,12,14,aspas,8480,jett,1.11,230.0,21.0,20.0,3.0,65.0,161.0,29.0,4.0,1.0,3,True
+645491,258626,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Breeze,1,MIBR,Cloud9,12,14,tex,1818,astra,1.08,212.0,20.0,19.0,4.0,73.0,146.0,44.0,2.0,2.0,3,True
+645491,258626,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Breeze,1,MIBR,Cloud9,12,14,Verno,21668,skye,0.96,183.0,17.0,18.0,5.0,73.0,131.0,34.0,0.0,1.0,3,True
+645491,258626,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Breeze,1,MIBR,Cloud9,12,14,Mazino,7603,harbor,0.78,152.0,14.0,19.0,6.0,65.0,98.0,28.0,3.0,4.0,3,True
+645491,258626,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Breeze,1,MIBR,Cloud9,12,14,zekken,4004,neon,0.73,166.0,14.0,21.0,7.0,54.0,109.0,16.0,4.0,5.0,3,True
+645491,258626,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Breeze,1,Cloud9,MIBR,14,12,OXY,18796,neon,1.28,274.0,26.0,20.0,6.0,65.0,166.0,37.0,4.0,4.0,3,True
+645491,258626,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Breeze,1,Cloud9,MIBR,14,12,Zellsis,729,harbor,1.26,253.0,23.0,17.0,9.0,85.0,166.0,20.0,2.0,0.0,3,True
+645491,258626,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Breeze,1,Cloud9,MIBR,14,12,Xeppaa,7871,sova,1.02,149.0,15.0,14.0,6.0,77.0,113.0,28.0,0.0,1.0,3,True
+645491,258626,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Breeze,1,Cloud9,MIBR,14,12,v1c,17433,viper,0.99,202.0,17.0,19.0,15.0,81.0,138.0,41.0,2.0,5.0,3,True
+645491,258626,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Breeze,1,Cloud9,MIBR,14,12,penny,7716,iso,0.95,200.0,16.0,16.0,12.0,81.0,129.0,25.0,5.0,3.0,3,True
+645491,258627,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Split,2,MIBR,Cloud9,12,14,aspas,8480,raze,1.42,273.0,25.0,18.0,7.0,73.0,196.0,27.0,2.0,2.0,3,True
+645491,258627,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Split,2,MIBR,Cloud9,12,14,zekken,4004,neon,1.21,242.0,23.0,18.0,3.0,77.0,144.0,17.0,2.0,3.0,3,True
+645491,258627,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Split,2,MIBR,Cloud9,12,14,Verno,21668,fade,1.12,183.0,16.0,16.0,12.0,77.0,117.0,36.0,3.0,3.0,3,True
+645491,258627,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Split,2,MIBR,Cloud9,12,14,Mazino,7603,astra,1.0,187.0,15.0,20.0,21.0,85.0,113.0,16.0,4.0,2.0,3,True
+645491,258627,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Split,2,MIBR,Cloud9,12,14,tex,1818,vyse,0.52,125.0,10.0,21.0,5.0,58.0,103.0,41.0,1.0,4.0,3,True
+645491,258627,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Split,2,Cloud9,MIBR,14,12,v1c,17433,omen,1.45,232.0,21.0,14.0,14.0,85.0,152.0,36.0,2.0,0.0,3,True
+645491,258627,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Split,2,Cloud9,MIBR,14,12,penny,7716,raze,1.42,291.0,29.0,15.0,6.0,85.0,186.0,19.0,1.0,2.0,3,True
+645491,258627,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Split,2,Cloud9,MIBR,14,12,Xeppaa,7871,skye,1.06,217.0,20.0,21.0,14.0,69.0,151.0,30.0,3.0,0.0,3,True
+645491,258627,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Split,2,Cloud9,MIBR,14,12,Zellsis,729,viper,0.76,144.0,9.0,17.0,11.0,77.0,120.0,14.0,2.0,2.0,3,True
+645491,258627,2860,VCT 2026: Americas Stage 1,Group Stage: Week 3,2026-04-26,Split,2,Cloud9,MIBR,14,12,OXY,18796,neon,0.47,163.0,14.0,22.0,5.0,65.0,98.0,36.0,6.0,8.0,3,True
+645492,258629,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Fracture,1,Evil Geniuses,NRG,8,13,dgzin,8873,chamber,1.09,212.0,18.0,15.0,0.0,57.0,123.0,33.0,5.0,6.0,3,True
+645492,258629,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Fracture,1,Evil Geniuses,NRG,8,13,supamen,826,brimstone,0.9,171.0,11.0,16.0,11.0,76.0,125.0,33.0,1.0,1.0,3,True
+645492,258629,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Fracture,1,Evil Geniuses,NRG,8,13,bao,34400,breach,0.81,178.0,12.0,17.0,11.0,76.0,112.0,41.0,0.0,1.0,3,True
+645492,258629,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Fracture,1,Evil Geniuses,NRG,8,13,C0M,619,sova,0.75,126.0,9.0,13.0,5.0,76.0,96.0,35.0,0.0,1.0,3,True
+645492,258629,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Fracture,1,Evil Geniuses,NRG,8,13,Okeanos,8373,neon,0.66,178.0,12.0,18.0,5.0,57.0,109.0,23.0,1.0,5.0,3,True
+645492,258629,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Fracture,1,NRG,Evil Geniuses,13,8,mada,5132,waylay,1.53,282.0,22.0,11.0,2.0,76.0,173.0,33.0,6.0,3.0,3,True
+645492,258629,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Fracture,1,NRG,Evil Geniuses,13,8,brawk,2172,brimstone,1.17,173.0,13.0,10.0,10.0,76.0,111.0,26.0,1.0,0.0,3,True
+645492,258629,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Fracture,1,NRG,Evil Geniuses,13,8,Ethan,11225,fade,1.06,222.0,17.0,14.0,5.0,71.0,141.0,18.0,1.0,0.0,3,True
+645492,258629,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Fracture,1,NRG,Evil Geniuses,13,8,keiko,11494,phoenix,1.05,196.0,13.0,12.0,4.0,62.0,128.0,26.0,4.0,1.0,3,True
+645492,258629,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Fracture,1,NRG,Evil Geniuses,13,8,skuba,11118,cypher,0.86,179.0,14.0,15.0,1.0,62.0,117.0,30.0,2.0,3.0,3,True
+645492,258630,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Pearl,2,Evil Geniuses,NRG,9,13,bao,34400,vyse,1.16,222.0,17.0,15.0,6.0,82.0,160.0,42.0,2.0,2.0,3,True
+645492,258630,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Pearl,2,Evil Geniuses,NRG,9,13,C0M,619,fade,0.94,178.0,13.0,14.0,7.0,73.0,116.0,19.0,2.0,1.0,3,True
+645492,258630,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Pearl,2,Evil Geniuses,NRG,9,13,supamen,826,astra,0.94,191.0,15.0,16.0,7.0,77.0,116.0,27.0,4.0,1.0,3,True
+645492,258630,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Pearl,2,Evil Geniuses,NRG,9,13,Okeanos,8373,phoenix,0.8,185.0,14.0,17.0,6.0,68.0,132.0,47.0,2.0,2.0,3,True
+645492,258630,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Pearl,2,Evil Geniuses,NRG,9,13,dgzin,8873,neon,0.77,155.0,13.0,14.0,2.0,64.0,104.0,32.0,2.0,4.0,3,True
+645492,258630,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Pearl,2,NRG,Evil Geniuses,13,9,Ethan,11225,tejo,1.42,261.0,23.0,13.0,1.0,73.0,153.0,23.0,3.0,0.0,3,True
+645492,258630,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Pearl,2,NRG,Evil Geniuses,13,9,brawk,2172,sova,1.33,258.0,18.0,14.0,11.0,86.0,165.0,14.0,3.0,0.0,3,True
+645492,258630,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Pearl,2,NRG,Evil Geniuses,13,9,mada,5132,neon,0.96,210.0,16.0,17.0,3.0,73.0,130.0,17.0,2.0,7.0,3,True
+645492,258630,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Pearl,2,NRG,Evil Geniuses,13,9,skuba,11118,astra,0.85,116.0,8.0,13.0,9.0,77.0,83.0,19.0,1.0,3.0,3,True
+645492,258630,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Pearl,2,NRG,Evil Geniuses,13,9,keiko,11494,killjoy,0.69,142.0,11.0,15.0,3.0,73.0,99.0,14.0,1.0,2.0,3,True
+645493,258632,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Breeze,1,LEVIATÁN,MIBR,10,13,Neon,29243,jett,1.38,274.0,24.0,14.0,3.0,78.0,174.0,22.0,4.0,0.0,3,True
+645493,258632,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Breeze,1,LEVIATÁN,MIBR,10,13,kiNgg,8549,harbor,1.03,154.0,14.0,12.0,10.0,87.0,94.0,35.0,1.0,0.0,3,True
+645493,258632,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Breeze,1,LEVIATÁN,MIBR,10,13,blowz,21251,sova,0.96,199.0,15.0,14.0,9.0,74.0,137.0,41.0,0.0,3.0,3,True
+645493,258632,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Breeze,1,LEVIATÁN,MIBR,10,13,spike,21661,neon,0.82,226.0,17.0,19.0,5.0,65.0,162.0,27.0,6.0,6.0,3,True
+645493,258632,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Breeze,1,LEVIATÁN,MIBR,10,13,Sato,21659,omen,0.71,133.0,10.0,16.0,8.0,61.0,78.0,23.0,2.0,1.0,3,True
+645493,258632,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Breeze,1,MIBR,LEVIATÁN,13,10,Verno,21668,skye,1.37,222.0,18.0,13.0,6.0,78.0,141.0,38.0,3.0,2.0,3,True
+645493,258632,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Breeze,1,MIBR,LEVIATÁN,13,10,zekken,4004,neon,1.3,283.0,23.0,19.0,4.0,78.0,168.0,31.0,4.0,3.0,3,True
+645493,258632,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Breeze,1,MIBR,LEVIATÁN,13,10,aspas,8480,jett,0.98,202.0,16.0,16.0,3.0,74.0,115.0,18.0,2.0,2.0,3,True
+645493,258632,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Breeze,1,MIBR,LEVIATÁN,13,10,tex,1818,astra,0.79,104.0,9.0,14.0,8.0,61.0,79.0,39.0,0.0,2.0,3,True
+645493,258632,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Breeze,1,MIBR,LEVIATÁN,13,10,Mazino,7603,harbor,0.5,111.0,9.0,18.0,9.0,65.0,75.0,23.0,1.0,4.0,3,True
+645493,258633,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Haven,2,LEVIATÁN,MIBR,10,13,Neon,29243,chamber,1.57,306.0,25.0,15.0,4.0,70.0,198.0,19.0,6.0,1.0,3,True
+645493,258633,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Haven,2,LEVIATÁN,MIBR,10,13,Sato,21659,phoenix,0.85,230.0,18.0,19.0,4.0,78.0,148.0,32.0,3.0,2.0,3,True
+645493,258633,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Haven,2,LEVIATÁN,MIBR,10,13,kiNgg,8549,astra,0.8,119.0,11.0,13.0,8.0,61.0,75.0,55.0,0.0,0.0,3,True
+645493,258633,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Haven,2,LEVIATÁN,MIBR,10,13,blowz,21251,sova,0.73,148.0,10.0,16.0,6.0,74.0,105.0,22.0,2.0,3.0,3,True
+645493,258633,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Haven,2,LEVIATÁN,MIBR,10,13,spike,21661,neon,0.67,164.0,11.0,19.0,7.0,78.0,110.0,20.0,3.0,3.0,3,True
+645493,258633,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Haven,2,MIBR,LEVIATÁN,13,10,zekken,4004,phoenix,1.23,294.0,25.0,18.0,5.0,78.0,169.0,21.0,3.0,4.0,3,True
+645493,258633,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Haven,2,MIBR,LEVIATÁN,13,10,aspas,8480,jett,1.16,217.0,22.0,15.0,1.0,78.0,144.0,34.0,3.0,3.0,3,True
+645493,258633,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Haven,2,MIBR,LEVIATÁN,13,10,Verno,21668,fade,0.97,143.0,10.0,11.0,9.0,65.0,101.0,29.0,0.0,1.0,3,True
+645493,258633,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Haven,2,MIBR,LEVIATÁN,13,10,Mazino,7603,omen,0.94,174.0,12.0,15.0,15.0,87.0,126.0,19.0,1.0,2.0,3,True
+645493,258633,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-01,Haven,2,MIBR,LEVIATÁN,13,10,tex,1818,chamber,0.69,147.0,12.0,16.0,1.0,57.0,91.0,19.0,2.0,4.0,3,True
+645494,258635,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Bind,1,KRÜ Esports,100 Thieves,4,13,mwzera,939,fade,0.99,227.0,13.0,15.0,7.0,82.0,144.0,18.0,2.0,0.0,3,True
+645494,258635,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Bind,1,KRÜ Esports,100 Thieves,4,13,Less,8447,viper,0.97,192.0,12.0,11.0,1.0,53.0,116.0,38.0,4.0,3.0,3,True
+645494,258635,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Bind,1,KRÜ Esports,100 Thieves,4,13,saadhak,727,brimstone,0.84,185.0,8.0,14.0,11.0,65.0,145.0,30.0,1.0,4.0,3,True
+645494,258635,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Bind,1,KRÜ Esports,100 Thieves,4,13,silentzz,11921,vyse,0.69,159.0,9.0,15.0,4.0,59.0,110.0,30.0,2.0,0.0,3,True
+645494,258635,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Bind,1,KRÜ Esports,100 Thieves,4,13,Dantedeu5,41135,neon,0.48,133.0,6.0,15.0,8.0,71.0,108.0,22.0,0.0,1.0,3,True
+645494,258635,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Bind,1,100 Thieves,KRÜ Esports,13,4,bang,3880,viper,1.81,311.0,19.0,7.0,5.0,94.0,212.0,49.0,3.0,0.0,3,True
+645494,258635,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Bind,1,100 Thieves,KRÜ Esports,13,4,Asuna,601,brimstone,1.68,262.0,19.0,8.0,10.0,82.0,158.0,37.0,0.0,2.0,3,True
+645494,258635,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Bind,1,100 Thieves,KRÜ Esports,13,4,Cryocells,4147,chamber,1.11,181.0,13.0,11.0,4.0,82.0,121.0,21.0,2.0,4.0,3,True
+645494,258635,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Bind,1,100 Thieves,KRÜ Esports,13,4,Timotino,29893,waylay,1.01,233.0,13.0,11.0,6.0,76.0,157.0,23.0,2.0,3.0,3,True
+645494,258635,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Bind,1,100 Thieves,KRÜ Esports,13,4,vora,20140,skye,0.77,132.0,6.0,11.0,11.0,88.0,105.0,20.0,1.0,0.0,3,True
+645494,258636,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,2,KRÜ Esports,100 Thieves,13,10,Less,8447,cypher,1.48,268.0,22.0,13.0,4.0,74.0,189.0,37.0,2.0,3.0,3,True
+645494,258636,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,2,KRÜ Esports,100 Thieves,13,10,saadhak,727,omen,1.1,226.0,18.0,16.0,5.0,74.0,140.0,20.0,3.0,1.0,3,True
+645494,258636,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,2,KRÜ Esports,100 Thieves,13,10,Dantedeu5,41135,neon,1.04,192.0,17.0,16.0,5.0,74.0,120.0,18.0,4.0,3.0,3,True
+645494,258636,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,2,KRÜ Esports,100 Thieves,13,10,mwzera,939,fade,0.97,215.0,16.0,16.0,8.0,78.0,148.0,27.0,1.0,1.0,3,True
+645494,258636,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,2,KRÜ Esports,100 Thieves,13,10,silentzz,11921,phoenix,0.7,143.0,10.0,17.0,7.0,52.0,107.0,36.0,2.0,3.0,3,True
+645494,258636,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,2,100 Thieves,KRÜ Esports,10,13,bang,3880,omen,1.18,219.0,18.0,16.0,10.0,78.0,134.0,31.0,1.0,0.0,3,True
+645494,258636,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,2,100 Thieves,KRÜ Esports,10,13,Asuna,601,neon,1.15,224.0,19.0,17.0,4.0,70.0,149.0,23.0,2.0,3.0,3,True
+645494,258636,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,2,100 Thieves,KRÜ Esports,10,13,Timotino,29893,phoenix,0.95,212.0,16.0,19.0,5.0,65.0,154.0,40.0,4.0,3.0,3,True
+645494,258636,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,2,100 Thieves,KRÜ Esports,10,13,vora,20140,sova,0.78,166.0,13.0,16.0,5.0,74.0,131.0,29.0,1.0,1.0,3,True
+645494,258636,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,2,100 Thieves,KRÜ Esports,10,13,Cryocells,4147,cypher,0.69,151.0,12.0,15.0,4.0,65.0,111.0,21.0,3.0,5.0,3,True
+645494,258637,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,3,KRÜ Esports,100 Thieves,6,13,mwzera,939,fade,1.22,231.0,17.0,15.0,1.0,58.0,160.0,29.0,2.0,1.0,3,True
+645494,258637,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,3,KRÜ Esports,100 Thieves,6,13,saadhak,727,omen,1.06,198.0,13.0,13.0,4.0,58.0,137.0,24.0,3.0,4.0,3,True
+645494,258637,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,3,KRÜ Esports,100 Thieves,6,13,silentzz,11921,vyse,1.04,228.0,14.0,15.0,4.0,68.0,157.0,35.0,1.0,0.0,3,True
+645494,258637,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,3,KRÜ Esports,100 Thieves,6,13,Less,8447,viper,0.76,184.0,12.0,15.0,3.0,53.0,124.0,35.0,1.0,2.0,3,True
+645494,258637,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,3,KRÜ Esports,100 Thieves,6,13,Dantedeu5,41135,neon,0.38,115.0,7.0,16.0,2.0,58.0,85.0,50.0,1.0,4.0,3,True
+645494,258637,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,3,100 Thieves,KRÜ Esports,13,6,Cryocells,4147,viper,1.25,243.0,17.0,12.0,8.0,84.0,145.0,21.0,1.0,1.0,3,True
+645494,258637,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,3,100 Thieves,KRÜ Esports,13,6,Timotino,29893,raze,1.21,302.0,19.0,15.0,5.0,79.0,186.0,16.0,6.0,2.0,3,True
+645494,258637,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,3,100 Thieves,KRÜ Esports,13,6,vora,20140,skye,1.18,207.0,15.0,12.0,9.0,79.0,131.0,23.0,2.0,3.0,3,True
+645494,258637,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,3,100 Thieves,KRÜ Esports,13,6,bang,3880,omen,1.1,220.0,15.0,12.0,1.0,63.0,147.0,26.0,2.0,2.0,3,True
+645494,258637,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,3,100 Thieves,KRÜ Esports,13,6,Asuna,601,sage,0.8,119.0,8.0,12.0,10.0,74.0,80.0,17.0,0.0,0.0,3,True
+645495,258638,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,1,FURIA,Sentinels,13,4,artzin,5957,vyse,1.65,274.0,18.0,7.0,2.0,88.0,173.0,30.0,1.0,0.0,3,True
+645495,258638,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,1,FURIA,Sentinels,13,4,eeiu,796,fade,1.47,237.0,15.0,7.0,4.0,76.0,145.0,32.0,4.0,1.0,3,True
+645495,258638,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,1,FURIA,Sentinels,13,4,nerve,754,viper,1.4,209.0,13.0,7.0,7.0,94.0,149.0,32.0,0.0,0.0,3,True
+645495,258638,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,1,FURIA,Sentinels,13,4,koalanoob,3722,omen,1.21,233.0,16.0,10.0,7.0,94.0,136.0,44.0,2.0,2.0,3,True
+645495,258638,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,1,FURIA,Sentinels,13,4,alym,48025,neon,0.69,163.0,10.0,13.0,3.0,71.0,87.0,3.0,4.0,3.0,3,True
+645495,258638,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,1,Sentinels,FURIA,4,13,Jerrwin,34057,neon,1.05,257.0,15.0,14.0,1.0,59.0,153.0,16.0,2.0,3.0,3,True
+645495,258638,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,1,Sentinels,FURIA,4,13,cortezia,5395,viper,0.76,144.0,7.0,13.0,7.0,71.0,107.0,22.0,1.0,2.0,3,True
+645495,258638,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,1,Sentinels,FURIA,4,13,Reduxx,8419,omen,0.59,173.0,8.0,16.0,4.0,53.0,116.0,21.0,1.0,1.0,3,True
+645495,258638,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,1,Sentinels,FURIA,4,13,johnqt,1265,sage,0.58,137.0,7.0,14.0,3.0,59.0,105.0,23.0,1.0,2.0,3,True
+645495,258638,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Split,1,Sentinels,FURIA,4,13,JonahP,4581,skye,0.47,129.0,7.0,15.0,2.0,53.0,91.0,50.0,1.0,3.0,3,True
+645495,258639,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Breeze,2,FURIA,Sentinels,7,13,koalanoob,3722,jett,1.09,248.0,18.0,17.0,1.0,60.0,153.0,25.0,3.0,0.0,3,True
+645495,258639,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Breeze,2,FURIA,Sentinels,7,13,alym,48025,neon,1.04,217.0,15.0,16.0,2.0,65.0,120.0,28.0,4.0,4.0,3,True
+645495,258639,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Breeze,2,FURIA,Sentinels,7,13,nerve,754,astra,0.78,136.0,9.0,13.0,6.0,60.0,95.0,24.0,0.0,1.0,3,True
+645495,258639,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Breeze,2,FURIA,Sentinels,7,13,eeiu,796,sova,0.64,132.0,8.0,17.0,8.0,65.0,97.0,15.0,0.0,1.0,3,True
+645495,258639,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Breeze,2,FURIA,Sentinels,7,13,artzin,5957,harbor,0.56,107.0,8.0,16.0,6.0,60.0,77.0,29.0,0.0,7.0,3,True
+645495,258639,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Breeze,2,Sentinels,FURIA,13,7,cortezia,5395,viper,1.51,239.0,18.0,8.0,3.0,80.0,171.0,35.0,3.0,2.0,3,True
+645495,258639,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Breeze,2,Sentinels,FURIA,13,7,JonahP,4581,sova,1.3,225.0,18.0,9.0,3.0,90.0,168.0,50.0,0.0,1.0,3,True
+645495,258639,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Breeze,2,Sentinels,FURIA,13,7,johnqt,1265,harbor,1.08,181.0,14.0,11.0,6.0,75.0,116.0,31.0,1.0,0.0,3,True
+645495,258639,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Breeze,2,Sentinels,FURIA,13,7,Reduxx,8419,iso,1.06,227.0,16.0,15.0,5.0,85.0,145.0,31.0,2.0,0.0,3,True
+645495,258639,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Breeze,2,Sentinels,FURIA,13,7,Jerrwin,34057,neon,0.72,184.0,13.0,15.0,3.0,75.0,116.0,12.0,7.0,4.0,3,True
+645495,258640,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,3,FURIA,Sentinels,13,7,eeiu,796,sova,1.42,265.0,20.0,13.0,6.0,85.0,198.0,21.0,1.0,1.0,3,True
+645495,258640,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,3,FURIA,Sentinels,13,7,artzin,5957,cypher,1.3,221.0,17.0,12.0,6.0,70.0,157.0,28.0,0.0,2.0,3,True
+645495,258640,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,3,FURIA,Sentinels,13,7,nerve,754,omen,1.24,192.0,15.0,10.0,9.0,85.0,125.0,37.0,2.0,0.0,3,True
+645495,258640,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,3,FURIA,Sentinels,13,7,alym,48025,neon,1.11,238.0,15.0,14.0,7.0,75.0,148.0,35.0,4.0,3.0,3,True
+645495,258640,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,3,FURIA,Sentinels,13,7,koalanoob,3722,phoenix,0.74,157.0,11.0,15.0,7.0,70.0,99.0,24.0,3.0,4.0,3,True
+645495,258640,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,3,Sentinels,FURIA,7,13,cortezia,5395,killjoy,1.11,207.0,15.0,15.0,5.0,70.0,133.0,38.0,4.0,0.0,3,True
+645495,258640,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,3,Sentinels,FURIA,7,13,JonahP,4581,sova,1.05,284.0,14.0,17.0,6.0,70.0,200.0,17.0,2.0,2.0,3,True
+645495,258640,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,3,Sentinels,FURIA,7,13,Jerrwin,34057,neon,0.81,193.0,13.0,15.0,2.0,60.0,128.0,21.0,4.0,5.0,3,True
+645495,258640,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,3,Sentinels,FURIA,7,13,johnqt,1265,viper,0.77,155.0,12.0,15.0,1.0,55.0,91.0,13.0,0.0,2.0,3,True
+645495,258640,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-02,Haven,3,Sentinels,FURIA,7,13,Reduxx,8419,omen,0.52,120.0,10.0,16.0,4.0,65.0,70.0,21.0,0.0,1.0,3,True
+645496,258641,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,1,LOUD,Cloud9,13,1,lukxo,28716,viper,1.83,334.0,20.0,5.0,0.0,93.0,208.0,13.0,3.0,1.0,3,True
+645496,258641,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,1,LOUD,Cloud9,13,1,erde,29242,omen,1.67,260.0,13.0,4.0,8.0,93.0,174.0,23.0,2.0,0.0,3,True
+645496,258641,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,1,LOUD,Cloud9,13,1,cauanzin,6193,fade,1.3,141.0,7.0,3.0,5.0,93.0,102.0,21.0,1.0,0.0,3,True
+645496,258641,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,1,LOUD,Cloud9,13,1,Darker,10557,vyse,1.15,242.0,13.0,9.0,4.0,86.0,163.0,36.0,2.0,1.0,3,True
+645496,258641,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,1,LOUD,Cloud9,13,1,Virtyy,3983,neon,1.09,208.0,11.0,8.0,2.0,71.0,130.0,31.0,4.0,0.0,3,True
+645496,258641,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,1,Cloud9,LOUD,1,13,Xeppaa,7871,raze,1.05,194.0,7.0,11.0,5.0,57.0,141.0,15.0,0.0,1.0,3,True
+645496,258641,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,1,Cloud9,LOUD,1,13,OXY,18796,neon,0.68,151.0,7.0,13.0,1.0,57.0,80.0,9.0,2.0,3.0,3,True
+645496,258641,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,1,Cloud9,LOUD,1,13,Jackk,44842,fade,0.34,132.0,6.0,13.0,1.0,50.0,76.0,21.0,0.0,3.0,3,True
+645496,258641,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,1,Cloud9,LOUD,1,13,v1c,17433,omen,0.3,95.0,5.0,13.0,2.0,43.0,55.0,36.0,0.0,1.0,3,True
+645496,258641,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,1,Cloud9,LOUD,1,13,Zellsis,729,vyse,0.25,106.0,4.0,14.0,4.0,36.0,74.0,20.0,0.0,4.0,3,True
+645496,258642,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Split,2,LOUD,Cloud9,8,13,cauanzin,6193,fade,1.02,189.0,15.0,17.0,6.0,62.0,116.0,17.0,3.0,0.0,3,True
+645496,258642,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Split,2,LOUD,Cloud9,8,13,lukxo,28716,viper,0.98,225.0,15.0,16.0,10.0,67.0,143.0,18.0,4.0,2.0,3,True
+645496,258642,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Split,2,LOUD,Cloud9,8,13,Darker,10557,vyse,0.97,227.0,16.0,18.0,5.0,76.0,150.0,23.0,1.0,1.0,3,True
+645496,258642,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Split,2,LOUD,Cloud9,8,13,erde,29242,omen,0.92,208.0,16.0,16.0,1.0,67.0,141.0,26.0,1.0,3.0,3,True
+645496,258642,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Split,2,LOUD,Cloud9,8,13,Virtyy,3983,neon,0.36,98.0,6.0,18.0,7.0,57.0,75.0,20.0,1.0,5.0,3,True
+645496,258642,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Split,2,Cloud9,LOUD,13,8,v1c,17433,omen,1.57,235.0,20.0,9.0,9.0,86.0,157.0,34.0,0.0,1.0,3,True
+645496,258642,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Split,2,Cloud9,LOUD,13,8,OXY,18796,neon,1.33,307.0,24.0,15.0,2.0,81.0,182.0,23.0,3.0,4.0,3,True
+645496,258642,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Split,2,Cloud9,LOUD,13,8,Jackk,44842,fade,1.05,165.0,12.0,13.0,15.0,90.0,103.0,21.0,2.0,0.0,3,True
+645496,258642,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Split,2,Cloud9,LOUD,13,8,Xeppaa,7871,raze,0.95,251.0,18.0,18.0,4.0,86.0,159.0,29.0,4.0,1.0,3,True
+645496,258642,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Split,2,Cloud9,LOUD,13,8,Zellsis,729,viper,0.84,149.0,11.0,13.0,8.0,62.0,102.0,22.0,2.0,4.0,3,True
+645496,258643,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Breeze,3,LOUD,Cloud9,13,11,cauanzin,6193,sova,1.48,246.0,22.0,14.0,8.0,83.0,178.0,28.0,1.0,1.0,3,True
+645496,258643,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Breeze,3,LOUD,Cloud9,13,11,lukxo,28716,harbor,1.2,276.0,22.0,17.0,8.0,83.0,183.0,20.0,3.0,0.0,3,True
+645496,258643,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Breeze,3,LOUD,Cloud9,13,11,erde,29242,kayo,0.93,162.0,15.0,17.0,4.0,63.0,102.0,20.0,2.0,3.0,3,True
+645496,258643,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Breeze,3,LOUD,Cloud9,13,11,Darker,10557,astra,0.73,145.0,10.0,17.0,9.0,83.0,119.0,32.0,1.0,0.0,3,True
+645496,258643,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Breeze,3,LOUD,Cloud9,13,11,Virtyy,3983,neon,0.67,172.0,14.0,20.0,3.0,58.0,109.0,24.0,6.0,7.0,3,True
+645496,258643,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Breeze,3,Cloud9,LOUD,11,13,v1c,17433,viper,1.27,249.0,21.0,15.0,7.0,71.0,163.0,37.0,5.0,0.0,3,True
+645496,258643,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Breeze,3,Cloud9,LOUD,11,13,Jackk,44842,sova,1.21,223.0,17.0,14.0,7.0,79.0,176.0,38.0,0.0,2.0,3,True
+645496,258643,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Breeze,3,Cloud9,LOUD,11,13,OXY,18796,neon,1.05,221.0,19.0,18.0,5.0,67.0,144.0,29.0,3.0,5.0,3,True
+645496,258643,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Breeze,3,Cloud9,LOUD,11,13,Xeppaa,7871,iso,0.79,206.0,19.0,20.0,2.0,54.0,123.0,19.0,1.0,5.0,3,True
+645496,258643,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Breeze,3,Cloud9,LOUD,11,13,Zellsis,729,harbor,0.78,123.0,9.0,16.0,16.0,88.0,80.0,21.0,2.0,1.0,3,True
+645497,258644,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Haven,1,G2 Esports,ENVY,13,4,BABYBAY,2170,chamber,1.73,309.0,20.0,9.0,3.0,94.0,191.0,19.0,5.0,2.0,3,True
+645497,258644,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Haven,1,G2 Esports,ENVY,13,4,trent,15500,fade,1.73,267.0,17.0,6.0,10.0,88.0,156.0,39.0,0.0,0.0,3,True
+645497,258644,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Haven,1,G2 Esports,ENVY,13,4,jawgemo,3993,neon,1.34,296.0,18.0,11.0,7.0,82.0,185.0,27.0,3.0,3.0,3,True
+645497,258644,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Haven,1,G2 Esports,ENVY,13,4,valyn,3885,astra,0.98,191.0,12.0,12.0,7.0,88.0,137.0,34.0,0.0,0.0,3,True
+645497,258644,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Haven,1,G2 Esports,ENVY,13,4,leaf,7873,phoenix,0.95,198.0,11.0,11.0,6.0,76.0,130.0,14.0,1.0,3.0,3,True
+645497,258644,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Haven,1,ENVY,G2 Esports,4,13,Rossy,1129,astra,0.87,204.0,13.0,16.0,6.0,82.0,125.0,26.0,0.0,2.0,3,True
+645497,258644,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Haven,1,ENVY,G2 Esports,4,13,keznit,2462,neon,0.82,209.0,12.0,16.0,3.0,76.0,134.0,20.0,4.0,2.0,3,True
+645497,258644,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Haven,1,ENVY,G2 Esports,4,13,Eggsterr,35302,phoenix,0.66,166.0,10.0,15.0,2.0,41.0,99.0,29.0,1.0,1.0,3,True
+645497,258644,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Haven,1,ENVY,G2 Esports,4,13,Demon1,26171,chamber,0.55,157.0,9.0,15.0,1.0,53.0,98.0,47.0,2.0,2.0,3,True
+645497,258644,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Haven,1,ENVY,G2 Esports,4,13,P0PPIN,21778,sova,0.31,102.0,5.0,16.0,5.0,53.0,78.0,14.0,1.0,2.0,3,True
+645497,258645,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,2,G2 Esports,ENVY,13,6,leaf,7873,viper,1.56,255.0,18.0,8.0,4.0,79.0,147.0,25.0,1.0,0.0,3,True
+645497,258645,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,2,G2 Esports,ENVY,13,6,valyn,3885,omen,1.31,258.0,17.0,11.0,10.0,89.0,161.0,29.0,2.0,0.0,3,True
+645497,258645,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,2,G2 Esports,ENVY,13,6,trent,15500,fade,1.3,256.0,18.0,12.0,8.0,89.0,156.0,26.0,2.0,1.0,3,True
+645497,258645,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,2,G2 Esports,ENVY,13,6,jawgemo,3993,raze,0.95,193.0,13.0,12.0,4.0,74.0,129.0,25.0,4.0,4.0,3,True
+645497,258645,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,2,G2 Esports,ENVY,13,6,BABYBAY,2170,vyse,0.92,178.0,12.0,12.0,9.0,79.0,108.0,14.0,2.0,3.0,3,True
+645497,258645,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,2,ENVY,G2 Esports,6,13,Demon1,26171,neon,1.11,204.0,13.0,14.0,5.0,74.0,123.0,36.0,2.0,2.0,3,True
+645497,258645,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,2,ENVY,G2 Esports,6,13,Rossy,1129,vyse,0.97,178.0,11.0,14.0,3.0,58.0,130.0,23.0,2.0,2.0,3,True
+645497,258645,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,2,ENVY,G2 Esports,6,13,keznit,2462,raze,0.75,203.0,13.0,16.0,1.0,53.0,142.0,35.0,2.0,2.0,3,True
+645497,258645,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,2,ENVY,G2 Esports,6,13,Eggsterr,35302,omen,0.68,176.0,12.0,17.0,3.0,58.0,104.0,44.0,2.0,2.0,3,True
+645497,258645,2860,VCT 2026: Americas Stage 1,Group Stage: Week 4,2026-05-03,Lotus,2,ENVY,G2 Esports,6,13,P0PPIN,21778,fade,0.32,89.0,6.0,17.0,1.0,47.0,52.0,17.0,0.0,3.0,3,True
+645498,258647,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,1,KRÜ Esports,Evil Geniuses,11,13,Less,8447,cypher,1.67,268.0,26.0,11.0,6.0,83.0,175.0,22.0,4.0,0.0,3,True
+645498,258647,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,1,KRÜ Esports,Evil Geniuses,11,13,saadhak,727,omen,0.84,196.0,15.0,19.0,10.0,63.0,118.0,19.0,2.0,1.0,3,True
+645498,258647,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,1,KRÜ Esports,Evil Geniuses,11,13,mwzera,939,fade,0.79,163.0,12.0,17.0,10.0,71.0,116.0,17.0,1.0,0.0,3,True
+645498,258647,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,1,KRÜ Esports,Evil Geniuses,11,13,Dantedeu5,41135,neon,0.77,182.0,14.0,18.0,6.0,71.0,125.0,29.0,5.0,5.0,3,True
+645498,258647,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,1,KRÜ Esports,Evil Geniuses,11,13,silentzz,11921,phoenix,0.72,184.0,15.0,20.0,6.0,71.0,108.0,18.0,3.0,3.0,3,True
+645498,258647,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,1,Evil Geniuses,KRÜ Esports,13,11,dgzin,8873,neon,1.35,249.0,24.0,16.0,1.0,79.0,147.0,35.0,2.0,3.0,3,True
+645498,258647,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,1,Evil Geniuses,KRÜ Esports,13,11,Paincakes,2164,sova,1.06,200.0,16.0,18.0,8.0,71.0,136.0,32.0,0.0,4.0,3,True
+645498,258647,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,1,Evil Geniuses,KRÜ Esports,13,11,zerona,14048,viper,1.01,193.0,16.0,16.0,8.0,71.0,136.0,23.0,1.0,2.0,3,True
+645498,258647,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,1,Evil Geniuses,KRÜ Esports,13,11,bao,34400,killjoy,0.91,224.0,18.0,17.0,5.0,67.0,149.0,22.0,4.0,3.0,3,True
+645498,258647,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,1,Evil Geniuses,KRÜ Esports,13,11,supamen,826,omen,0.9,135.0,11.0,15.0,9.0,71.0,90.0,44.0,2.0,3.0,3,True
+645498,258648,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Lotus,2,KRÜ Esports,Evil Geniuses,13,11,mwzera,939,fade,1.33,206.0,17.0,12.0,7.0,92.0,130.0,13.0,0.0,1.0,3,True
+645498,258648,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Lotus,2,KRÜ Esports,Evil Geniuses,13,11,Less,8447,viper,1.21,274.0,23.0,17.0,7.0,79.0,169.0,31.0,5.0,2.0,3,True
+645498,258648,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Lotus,2,KRÜ Esports,Evil Geniuses,13,11,silentzz,11921,vyse,0.91,160.0,14.0,13.0,4.0,67.0,124.0,33.0,0.0,3.0,3,True
+645498,258648,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Lotus,2,KRÜ Esports,Evil Geniuses,13,11,saadhak,727,omen,0.89,189.0,17.0,16.0,3.0,71.0,107.0,18.0,3.0,3.0,3,True
+645498,258648,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Lotus,2,KRÜ Esports,Evil Geniuses,13,11,Dantedeu5,41135,neon,0.87,187.0,16.0,17.0,7.0,67.0,113.0,22.0,4.0,3.0,3,True
+645498,258648,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Lotus,2,Evil Geniuses,KRÜ Esports,11,13,dgzin,8873,neon,1.04,213.0,19.0,17.0,3.0,67.0,132.0,21.0,5.0,4.0,3,True
+645498,258648,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Lotus,2,Evil Geniuses,KRÜ Esports,11,13,Paincakes,2164,fade,1.03,196.0,16.0,17.0,8.0,63.0,123.0,26.0,0.0,0.0,3,True
+645498,258648,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Lotus,2,Evil Geniuses,KRÜ Esports,11,13,zerona,14048,viper,1.02,216.0,18.0,18.0,2.0,67.0,140.0,31.0,4.0,1.0,3,True
+645498,258648,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Lotus,2,Evil Geniuses,KRÜ Esports,11,13,bao,34400,vyse,0.76,141.0,12.0,17.0,6.0,58.0,99.0,31.0,1.0,5.0,3,True
+645498,258648,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Lotus,2,Evil Geniuses,KRÜ Esports,11,13,supamen,826,omen,0.63,122.0,10.0,18.0,5.0,67.0,96.0,31.0,2.0,2.0,3,True
+645498,258649,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Bind,3,KRÜ Esports,Evil Geniuses,13,6,saadhak,727,brimstone,1.53,268.0,18.0,12.0,18.0,79.0,154.0,19.0,3.0,1.0,3,True
+645498,258649,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Bind,3,KRÜ Esports,Evil Geniuses,13,6,silentzz,11921,vyse,1.2,198.0,13.0,10.0,4.0,74.0,139.0,29.0,0.0,1.0,3,True
+645498,258649,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Bind,3,KRÜ Esports,Evil Geniuses,13,6,mwzera,939,fade,1.19,197.0,14.0,12.0,7.0,79.0,145.0,17.0,1.0,1.0,3,True
+645498,258649,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Bind,3,KRÜ Esports,Evil Geniuses,13,6,Dantedeu5,41135,neon,1.15,239.0,18.0,14.0,5.0,79.0,137.0,25.0,2.0,3.0,3,True
+645498,258649,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Bind,3,KRÜ Esports,Evil Geniuses,13,6,Less,8447,viper,1.14,221.0,14.0,12.0,4.0,74.0,151.0,28.0,6.0,1.0,3,True
+645498,258649,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Bind,3,Evil Geniuses,KRÜ Esports,6,13,bao,34400,brimstone,0.98,196.0,12.0,14.0,8.0,74.0,119.0,34.0,2.0,2.0,3,True
+645498,258649,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Bind,3,Evil Geniuses,KRÜ Esports,6,13,dgzin,8873,neon,0.91,235.0,16.0,15.0,3.0,58.0,151.0,34.0,2.0,5.0,3,True
+645498,258649,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Bind,3,Evil Geniuses,KRÜ Esports,6,13,zerona,14048,phoenix,0.83,246.0,15.0,18.0,5.0,79.0,157.0,28.0,3.0,1.0,3,True
+645498,258649,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Bind,3,Evil Geniuses,KRÜ Esports,6,13,Paincakes,2164,skye,0.82,153.0,10.0,14.0,10.0,74.0,99.0,32.0,0.0,1.0,3,True
+645498,258649,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Bind,3,Evil Geniuses,KRÜ Esports,6,13,supamen,826,viper,0.39,102.0,7.0,16.0,4.0,58.0,65.0,43.0,0.0,3.0,3,True
+645499,258650,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Pearl,1,FURIA,100 Thieves,13,9,artzin,5957,killjoy,1.44,260.0,20.0,13.0,4.0,77.0,182.0,30.0,3.0,0.0,3,True
+645499,258650,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Pearl,1,FURIA,100 Thieves,13,9,eeiu,796,fade,1.1,232.0,18.0,16.0,3.0,59.0,142.0,29.0,1.0,2.0,3,True
+645499,258650,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Pearl,1,FURIA,100 Thieves,13,9,koalanoob,3722,phoenix,1.04,208.0,15.0,14.0,8.0,77.0,148.0,24.0,1.0,3.0,3,True
+645499,258650,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Pearl,1,FURIA,100 Thieves,13,9,alym,48025,neon,1.04,264.0,21.0,17.0,2.0,68.0,171.0,24.0,4.0,5.0,3,True
+645499,258650,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Pearl,1,FURIA,100 Thieves,13,9,nerve,754,astra,0.71,116.0,9.0,13.0,3.0,73.0,79.0,27.0,1.0,2.0,3,True
+645499,258650,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Pearl,1,100 Thieves,FURIA,9,13,Cryocells,4147,chamber,1.45,277.0,22.0,14.0,3.0,77.0,171.0,26.0,0.0,2.0,3,True
+645499,258650,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Pearl,1,100 Thieves,FURIA,9,13,Timotino,29893,phoenix,1.08,199.0,14.0,16.0,7.0,68.0,126.0,24.0,3.0,4.0,3,True
+645499,258650,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Pearl,1,100 Thieves,FURIA,9,13,Asuna,601,neon,0.8,223.0,16.0,19.0,5.0,68.0,138.0,19.0,6.0,1.0,3,True
+645499,258650,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Pearl,1,100 Thieves,FURIA,9,13,bang,3880,astra,0.76,153.0,12.0,17.0,8.0,64.0,90.0,29.0,2.0,1.0,3,True
+645499,258650,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Pearl,1,100 Thieves,FURIA,9,13,vora,20140,fade,0.51,111.0,9.0,17.0,8.0,64.0,75.0,13.0,1.0,2.0,3,True
+645499,258651,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,2,FURIA,100 Thieves,8,13,eeiu,796,sova,1.2,248.0,17.0,15.0,7.0,76.0,159.0,27.0,3.0,0.0,3,True
+645499,258651,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,2,FURIA,100 Thieves,8,13,artzin,5957,cypher,1.03,226.0,16.0,16.0,1.0,62.0,150.0,23.0,3.0,1.0,3,True
+645499,258651,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,2,FURIA,100 Thieves,8,13,alym,48025,neon,0.82,216.0,16.0,18.0,4.0,67.0,128.0,11.0,5.0,3.0,3,True
+645499,258651,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,2,FURIA,100 Thieves,8,13,nerve,754,omen,0.76,118.0,9.0,14.0,8.0,67.0,75.0,11.0,0.0,4.0,3,True
+645499,258651,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,2,FURIA,100 Thieves,8,13,koalanoob,3722,phoenix,0.44,131.0,8.0,18.0,4.0,52.0,96.0,14.0,1.0,1.0,3,True
+645499,258651,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,2,100 Thieves,FURIA,13,8,vora,20140,sova,1.61,271.0,22.0,11.0,11.0,90.0,170.0,26.0,0.0,0.0,3,True
+645499,258651,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,2,100 Thieves,FURIA,13,8,Timotino,29893,phoenix,1.39,244.0,18.0,11.0,13.0,76.0,156.0,44.0,3.0,3.0,3,True
+645499,258651,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,2,100 Thieves,FURIA,13,8,Cryocells,4147,cypher,1.11,244.0,20.0,14.0,5.0,57.0,159.0,22.0,1.0,3.0,3,True
+645499,258651,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,2,100 Thieves,FURIA,13,8,bang,3880,omen,1.0,171.0,11.0,15.0,16.0,81.0,114.0,31.0,2.0,2.0,3,True
+645499,258651,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Haven,2,100 Thieves,FURIA,13,8,Asuna,601,neon,0.84,158.0,10.0,15.0,9.0,81.0,99.0,20.0,3.0,4.0,3,True
+645499,258652,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Breeze,3,FURIA,100 Thieves,6,13,nerve,754,harbor,1.03,228.0,14.0,15.0,6.0,63.0,144.0,38.0,2.0,1.0,3,True
+645499,258652,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Breeze,3,FURIA,100 Thieves,6,13,eeiu,796,sova,0.9,152.0,12.0,13.0,0.0,58.0,97.0,20.0,2.0,2.0,3,True
+645499,258652,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Breeze,3,FURIA,100 Thieves,6,13,alym,48025,neon,0.84,214.0,13.0,17.0,5.0,68.0,136.0,27.0,3.0,4.0,3,True
+645499,258652,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Breeze,3,FURIA,100 Thieves,6,13,koalanoob,3722,iso,0.81,175.0,11.0,14.0,4.0,53.0,115.0,21.0,2.0,2.0,3,True
+645499,258652,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Breeze,3,FURIA,100 Thieves,6,13,artzin,5957,astra,0.74,146.0,8.0,15.0,4.0,58.0,114.0,26.0,0.0,1.0,3,True
+645499,258652,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Breeze,3,100 Thieves,FURIA,13,6,Asuna,601,phoenix,1.46,280.0,18.0,12.0,12.0,79.0,199.0,21.0,1.0,3.0,3,True
+645499,258652,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Breeze,3,100 Thieves,FURIA,13,6,vora,20140,sova,1.38,234.0,17.0,9.0,2.0,74.0,163.0,29.0,0.0,1.0,3,True
+645499,258652,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Breeze,3,100 Thieves,FURIA,13,6,bang,3880,harbor,1.17,174.0,13.0,10.0,5.0,79.0,112.0,32.0,4.0,1.0,3,True
+645499,258652,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Breeze,3,100 Thieves,FURIA,13,6,Timotino,29893,neon,0.84,189.0,13.0,14.0,4.0,74.0,130.0,32.0,4.0,2.0,3,True
+645499,258652,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-08,Breeze,3,100 Thieves,FURIA,13,6,Cryocells,4147,cypher,0.81,182.0,13.0,13.0,3.0,63.0,118.0,25.0,1.0,2.0,3,True
+645500,258653,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Lotus,1,G2 Esports,Cloud9,13,6,trent,15500,fade,1.74,280.0,20.0,8.0,6.0,84.0,181.0,27.0,1.0,0.0,3,True
+645500,258653,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Lotus,1,G2 Esports,Cloud9,13,6,valyn,3885,omen,1.27,246.0,18.0,12.0,6.0,84.0,141.0,27.0,6.0,1.0,3,True
+645500,258653,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Lotus,1,G2 Esports,Cloud9,13,6,BABYBAY,2170,vyse,1.12,238.0,16.0,14.0,10.0,79.0,156.0,22.0,2.0,0.0,3,True
+645500,258653,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Lotus,1,G2 Esports,Cloud9,13,6,leaf,7873,viper,0.86,159.0,12.0,12.0,5.0,68.0,111.0,26.0,0.0,4.0,3,True
+645500,258653,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Lotus,1,G2 Esports,Cloud9,13,6,jawgemo,3993,raze,0.82,175.0,11.0,13.0,6.0,84.0,127.0,20.0,1.0,4.0,3,True
+645500,258653,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Lotus,1,Cloud9,G2 Esports,6,13,OXY,18796,raze,1.11,225.0,16.0,15.0,2.0,68.0,143.0,26.0,4.0,6.0,3,True
+645500,258653,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Lotus,1,Cloud9,G2 Esports,6,13,Jackk,44842,fade,0.88,172.0,12.0,14.0,3.0,68.0,123.0,42.0,0.0,0.0,3,True
+645500,258653,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Lotus,1,Cloud9,G2 Esports,6,13,Notexxd,39021,omen,0.75,181.0,12.0,16.0,5.0,74.0,111.0,23.0,2.0,2.0,3,True
+645500,258653,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Lotus,1,Cloud9,G2 Esports,6,13,Zellsis,729,viper,0.63,178.0,11.0,16.0,5.0,68.0,116.0,16.0,2.0,2.0,3,True
+645500,258653,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Lotus,1,Cloud9,G2 Esports,6,13,Xeppaa,7871,vyse,0.46,133.0,8.0,16.0,4.0,63.0,101.0,26.0,1.0,0.0,3,True
+645500,258654,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Split,2,G2 Esports,Cloud9,13,9,BABYBAY,2170,vyse,1.77,339.0,27.0,14.0,8.0,95.0,206.0,26.0,7.0,0.0,3,True
+645500,258654,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Split,2,G2 Esports,Cloud9,13,9,valyn,3885,astra,1.3,227.0,18.0,12.0,10.0,86.0,136.0,13.0,0.0,1.0,3,True
+645500,258654,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Split,2,G2 Esports,Cloud9,13,9,leaf,7873,viper,1.0,181.0,14.0,14.0,3.0,73.0,134.0,21.0,3.0,4.0,3,True
+645500,258654,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Split,2,G2 Esports,Cloud9,13,9,jawgemo,3993,raze,0.91,178.0,14.0,15.0,7.0,77.0,126.0,16.0,1.0,4.0,3,True
+645500,258654,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Split,2,G2 Esports,Cloud9,13,9,trent,15500,fade,0.86,163.0,12.0,15.0,8.0,91.0,115.0,24.0,1.0,1.0,3,True
+645500,258654,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Split,2,Cloud9,G2 Esports,9,13,Notexxd,39021,omen,1.25,211.0,17.0,13.0,11.0,86.0,133.0,24.0,0.0,0.0,3,True
+645500,258654,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Split,2,Cloud9,G2 Esports,9,13,OXY,18796,neon,0.8,193.0,13.0,19.0,5.0,73.0,138.0,25.0,2.0,5.0,3,True
+645500,258654,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Split,2,Cloud9,G2 Esports,9,13,Jackk,44842,fade,0.78,140.0,11.0,16.0,8.0,68.0,88.0,24.0,1.0,2.0,3,True
+645500,258654,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Split,2,Cloud9,G2 Esports,9,13,Zellsis,729,viper,0.78,204.0,16.0,18.0,5.0,64.0,122.0,24.0,4.0,2.0,3,True
+645500,258654,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Split,2,Cloud9,G2 Esports,9,13,Xeppaa,7871,raze,0.73,186.0,13.0,19.0,5.0,73.0,130.0,16.0,3.0,3.0,3,True
+645501,258656,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Haven,1,ENVY,MIBR,13,1,Rossy,1129,omen,1.86,270.0,16.0,6.0,7.0,86.0,171.0,33.0,0.0,0.0,3,True
+645501,258656,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Haven,1,ENVY,MIBR,13,1,Demon1,26171,jett,1.45,310.0,18.0,10.0,2.0,86.0,207.0,50.0,0.0,1.0,3,True
+645501,258656,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Haven,1,ENVY,MIBR,13,1,keznit,2462,cypher,1.33,237.0,12.0,7.0,3.0,71.0,148.0,24.0,1.0,3.0,3,True
+645501,258656,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Haven,1,ENVY,MIBR,13,1,P0PPIN,21778,sova,1.11,220.0,10.0,9.0,8.0,86.0,147.0,32.0,1.0,3.0,3,True
+645501,258656,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Haven,1,ENVY,MIBR,13,1,Eggsterr,35302,yoru,0.55,215.0,9.0,12.0,4.0,79.0,137.0,30.0,3.0,2.0,3,True
+645501,258656,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Haven,1,MIBR,ENVY,1,13,aspas,8480,jett,1.29,253.0,13.0,11.0,4.0,71.0,162.0,41.0,2.0,2.0,3,True
+645501,258656,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Haven,1,MIBR,ENVY,1,13,zekken,4004,phoenix,0.97,226.0,10.0,13.0,3.0,71.0,141.0,17.0,2.0,1.0,3,True
+645501,258656,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Haven,1,MIBR,ENVY,1,13,Verno,21668,fade,0.69,200.0,8.0,14.0,10.0,71.0,123.0,35.0,2.0,0.0,3,True
+645501,258656,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Haven,1,MIBR,ENVY,1,13,Mazino,7603,omen,0.62,170.0,8.0,13.0,6.0,79.0,108.0,23.0,1.0,1.0,3,True
+645501,258656,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Haven,1,MIBR,ENVY,1,13,tex,1818,chamber,0.31,112.0,5.0,14.0,2.0,50.0,76.0,20.0,2.0,1.0,3,True
+645501,258657,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Bind,2,ENVY,MIBR,13,3,keznit,2462,clove,1.84,382.0,21.0,11.0,5.0,88.0,251.0,37.0,1.0,1.0,3,True
+645501,258657,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Bind,2,ENVY,MIBR,13,3,P0PPIN,21778,skye,1.6,296.0,16.0,8.0,10.0,94.0,174.0,28.0,1.0,0.0,3,True
+645501,258657,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Bind,2,ENVY,MIBR,13,3,Rossy,1129,viper,1.48,248.0,16.0,9.0,7.0,94.0,145.0,29.0,1.0,1.0,3,True
+645501,258657,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Bind,2,ENVY,MIBR,13,3,Demon1,26171,reyna,0.79,167.0,12.0,11.0,4.0,56.0,125.0,59.0,0.0,6.0,3,True
+645501,258657,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Bind,2,ENVY,MIBR,13,3,Eggsterr,35302,yoru,0.64,173.0,9.0,12.0,4.0,81.0,104.0,23.0,2.0,3.0,3,True
+645501,258657,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Bind,2,MIBR,ENVY,3,13,Mazino,7603,harbor,1.01,249.0,14.0,15.0,3.0,69.0,158.0,28.0,0.0,0.0,3,True
+645501,258657,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Bind,2,MIBR,ENVY,3,13,aspas,8480,raze,0.98,242.0,13.0,15.0,3.0,56.0,160.0,20.0,3.0,1.0,3,True
+645501,258657,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Bind,2,MIBR,ENVY,3,13,Verno,21668,skye,0.58,136.0,6.0,14.0,7.0,75.0,98.0,18.0,2.0,1.0,3,True
+645501,258657,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Bind,2,MIBR,ENVY,3,13,tex,1818,viper,0.57,168.0,10.0,15.0,0.0,56.0,96.0,24.0,3.0,2.0,3,True
+645501,258657,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-09,Bind,2,MIBR,ENVY,3,13,zekken,4004,neon,0.48,163.0,7.0,15.0,2.0,44.0,108.0,12.0,3.0,1.0,3,True
+645502,258659,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Bind,1,LOUD,LEVIATÁN,3,13,Darker,10557,viper,1.24,238.0,12.0,14.0,6.0,81.0,160.0,27.0,2.0,0.0,3,True
+645502,258659,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Bind,1,LOUD,LEVIATÁN,3,13,Virtyy,3983,raze,1.17,250.0,14.0,15.0,4.0,88.0,174.0,23.0,2.0,1.0,3,True
+645502,258659,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Bind,1,LOUD,LEVIATÁN,3,13,erde,29242,brimstone,0.68,167.0,9.0,14.0,8.0,69.0,112.0,32.0,1.0,3.0,3,True
+645502,258659,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Bind,1,LOUD,LEVIATÁN,3,13,cauanzin,6193,skye,0.62,170.0,7.0,15.0,11.0,75.0,114.0,20.0,0.0,1.0,3,True
+645502,258659,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Bind,1,LOUD,LEVIATÁN,3,13,lukxo,28716,chamber,0.28,112.0,6.0,15.0,1.0,25.0,69.0,13.0,1.0,5.0,3,True
+645502,258659,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Bind,1,LEVIATÁN,LOUD,13,3,Neon,29243,brimstone,1.78,338.0,20.0,7.0,8.0,94.0,226.0,30.0,3.0,1.0,3,True
+645502,258659,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Bind,1,LEVIATÁN,LOUD,13,3,Sato,21659,phoenix,1.57,328.0,19.0,11.0,10.0,88.0,200.0,53.0,2.0,1.0,3,True
+645502,258659,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Bind,1,LEVIATÁN,LOUD,13,3,blowz,21251,skye,1.14,156.0,9.0,8.0,15.0,81.0,117.0,36.0,0.0,0.0,3,True
+645502,258659,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Bind,1,LEVIATÁN,LOUD,13,3,spike,21661,neon,1.06,248.0,15.0,13.0,3.0,88.0,152.0,27.0,4.0,3.0,3,True
+645502,258659,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Bind,1,LEVIATÁN,LOUD,13,3,kiNgg,8549,viper,0.94,172.0,10.0,9.0,4.0,69.0,109.0,24.0,1.0,1.0,3,True
+645502,258660,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,LOUD,LEVIATÁN,14,12,erde,29242,astra,1.53,304.0,27.0,18.0,7.0,85.0,195.0,36.0,5.0,3.0,3,True
+645502,258660,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,LOUD,LEVIATÁN,14,12,lukxo,28716,harbor,1.26,203.0,19.0,15.0,11.0,85.0,145.0,30.0,2.0,0.0,3,True
+645502,258660,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,LOUD,LEVIATÁN,14,12,cauanzin,6193,sova,1.05,199.0,19.0,17.0,7.0,81.0,132.0,18.0,1.0,1.0,3,True
+645502,258660,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,LOUD,LEVIATÁN,14,12,Darker,10557,kayo,0.94,166.0,16.0,16.0,5.0,81.0,113.0,23.0,1.0,5.0,3,True
+645502,258660,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,LOUD,LEVIATÁN,14,12,Virtyy,3983,neon,0.89,193.0,17.0,19.0,3.0,65.0,124.0,18.0,5.0,3.0,3,True
+645502,258660,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,LEVIATÁN,LOUD,12,14,Neon,29243,jett,1.18,235.0,23.0,18.0,3.0,62.0,152.0,20.0,6.0,6.0,3,True
+645502,258660,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,LEVIATÁN,LOUD,12,14,spike,21661,neon,0.88,210.0,20.0,20.0,4.0,62.0,125.0,31.0,0.0,6.0,3,True
+645502,258660,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,LEVIATÁN,LOUD,12,14,Sato,21659,omen,0.86,192.0,17.0,20.0,4.0,69.0,134.0,33.0,1.0,1.0,3,True
+645502,258660,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,LEVIATÁN,LOUD,12,14,blowz,21251,sova,0.71,126.0,11.0,19.0,8.0,58.0,90.0,21.0,1.0,0.0,3,True
+645502,258660,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,LEVIATÁN,LOUD,12,14,kiNgg,8549,harbor,0.67,160.0,14.0,21.0,9.0,69.0,111.0,23.0,4.0,1.0,3,True
+645502,258661,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Haven,3,LOUD,LEVIATÁN,13,10,erde,29242,omen,1.5,242.0,20.0,12.0,14.0,96.0,150.0,16.0,1.0,1.0,3,True
+645502,258661,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Haven,3,LOUD,LEVIATÁN,13,10,Darker,10557,phoenix,1.27,259.0,22.0,18.0,8.0,65.0,162.0,22.0,1.0,1.0,3,True
+645502,258661,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Haven,3,LOUD,LEVIATÁN,13,10,cauanzin,6193,sova,1.01,166.0,11.0,14.0,8.0,70.0,122.0,22.0,2.0,2.0,3,True
+645502,258661,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Haven,3,LOUD,LEVIATÁN,13,10,lukxo,28716,chamber,0.83,131.0,11.0,13.0,4.0,61.0,87.0,12.0,2.0,5.0,3,True
+645502,258661,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Haven,3,LOUD,LEVIATÁN,13,10,Virtyy,3983,neon,0.77,181.0,14.0,20.0,8.0,78.0,112.0,11.0,3.0,5.0,3,True
+645502,258661,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Haven,3,LEVIATÁN,LOUD,10,13,Sato,21659,phoenix,1.27,262.0,21.0,17.0,10.0,87.0,171.0,42.0,2.0,2.0,3,True
+645502,258661,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Haven,3,LEVIATÁN,LOUD,10,13,Neon,29243,chamber,1.18,208.0,16.0,13.0,5.0,78.0,147.0,18.0,5.0,2.0,3,True
+645502,258661,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Haven,3,LEVIATÁN,LOUD,10,13,blowz,21251,sova,0.9,169.0,15.0,15.0,6.0,83.0,108.0,43.0,2.0,0.0,3,True
+645502,258661,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Haven,3,LEVIATÁN,LOUD,10,13,kiNgg,8549,astra,0.78,128.0,9.0,13.0,8.0,70.0,94.0,38.0,0.0,0.0,3,True
+645502,258661,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Haven,3,LEVIATÁN,LOUD,10,13,spike,21661,neon,0.74,210.0,16.0,20.0,9.0,65.0,122.0,27.0,5.0,5.0,3,True
+645503,258662,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Fracture,1,Sentinels,NRG,11,13,Reduxx,8419,raze,1.34,297.0,23.0,18.0,5.0,67.0,192.0,24.0,3.0,4.0,3,True
+645503,258662,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Fracture,1,Sentinels,NRG,11,13,JonahP,4581,fade,1.0,146.0,11.0,14.0,5.0,63.0,109.0,21.0,2.0,0.0,3,True
+645503,258662,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Fracture,1,Sentinels,NRG,11,13,cortezia,5395,cypher,0.94,167.0,16.0,16.0,2.0,63.0,105.0,38.0,3.0,6.0,3,True
+645503,258662,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Fracture,1,Sentinels,NRG,11,13,johnqt,1265,brimstone,0.73,136.0,12.0,17.0,12.0,67.0,79.0,22.0,0.0,1.0,3,True
+645503,258662,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Fracture,1,Sentinels,NRG,11,13,Jerrwin,34057,neon,0.68,137.0,12.0,18.0,3.0,75.0,99.0,28.0,2.0,3.0,3,True
+645503,258662,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Fracture,1,NRG,Sentinels,13,11,mada,5132,waylay,1.21,269.0,22.0,16.0,2.0,83.0,189.0,27.0,6.0,3.0,3,True
+645503,258662,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Fracture,1,NRG,Sentinels,13,11,keiko,11494,phoenix,1.02,250.0,20.0,17.0,7.0,71.0,162.0,28.0,3.0,3.0,3,True
+645503,258662,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Fracture,1,NRG,Sentinels,13,11,skuba,11118,cypher,0.98,155.0,16.0,12.0,1.0,83.0,106.0,21.0,2.0,1.0,3,True
+645503,258662,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Fracture,1,NRG,Sentinels,13,11,brawk,2172,brimstone,0.89,145.0,12.0,14.0,16.0,88.0,84.0,11.0,0.0,1.0,3,True
+645503,258662,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Fracture,1,NRG,Sentinels,13,11,Ethan,11225,fade,0.86,151.0,13.0,15.0,5.0,71.0,105.0,30.0,3.0,2.0,3,True
+645503,258663,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,Sentinels,NRG,13,11,cortezia,5395,viper,1.2,245.0,21.0,15.0,3.0,71.0,153.0,38.0,1.0,2.0,3,True
+645503,258663,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,Sentinels,NRG,13,11,Reduxx,8419,iso,1.16,239.0,22.0,17.0,4.0,71.0,147.0,38.0,4.0,1.0,3,True
+645503,258663,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,Sentinels,NRG,13,11,johnqt,1265,harbor,1.12,157.0,13.0,13.0,9.0,67.0,102.0,15.0,0.0,0.0,3,True
+645503,258663,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,Sentinels,NRG,13,11,JonahP,4581,sova,0.89,181.0,15.0,16.0,6.0,83.0,138.0,19.0,2.0,5.0,3,True
+645503,258663,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,Sentinels,NRG,13,11,Jerrwin,34057,neon,0.77,199.0,16.0,18.0,3.0,58.0,115.0,22.0,5.0,4.0,3,True
+645503,258663,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,NRG,Sentinels,11,13,brawk,2172,sova,1.43,253.0,22.0,14.0,8.0,75.0,170.0,19.0,1.0,1.0,3,True
+645503,258663,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,NRG,Sentinels,11,13,mada,5132,harbor,0.9,219.0,18.0,20.0,7.0,79.0,134.0,31.0,3.0,1.0,3,True
+645503,258663,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,NRG,Sentinels,11,13,skuba,11118,viper,0.89,140.0,13.0,15.0,5.0,79.0,88.0,27.0,1.0,2.0,3,True
+645503,258663,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,NRG,Sentinels,11,13,keiko,11494,jett,0.81,192.0,16.0,20.0,2.0,54.0,122.0,28.0,5.0,5.0,3,True
+645503,258663,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Breeze,2,NRG,Sentinels,11,13,Ethan,11225,kayo,0.76,146.0,10.0,18.0,13.0,58.0,109.0,29.0,2.0,3.0,3,True
+645503,258664,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Lotus,3,Sentinels,NRG,10,13,cortezia,5395,vyse,1.35,276.0,22.0,15.0,7.0,78.0,169.0,41.0,2.0,3.0,3,True
+645503,258664,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Lotus,3,Sentinels,NRG,10,13,Reduxx,8419,raze,0.87,196.0,15.0,18.0,1.0,65.0,126.0,16.0,3.0,3.0,3,True
+645503,258664,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Lotus,3,Sentinels,NRG,10,13,Jerrwin,34057,neon,0.86,209.0,16.0,19.0,3.0,61.0,129.0,24.0,3.0,5.0,3,True
+645503,258664,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Lotus,3,Sentinels,NRG,10,13,johnqt,1265,omen,0.76,105.0,8.0,14.0,5.0,52.0,79.0,31.0,1.0,2.0,3,True
+645503,258664,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Lotus,3,Sentinels,NRG,10,13,JonahP,4581,fade,0.76,173.0,14.0,18.0,7.0,61.0,108.0,16.0,1.0,0.0,3,True
+645503,258664,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Lotus,3,NRG,Sentinels,13,10,brawk,2172,vyse,1.38,308.0,26.0,15.0,4.0,78.0,176.0,12.0,3.0,0.0,3,True
+645503,258664,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Lotus,3,NRG,Sentinels,13,10,Ethan,11225,fade,1.31,240.0,19.0,14.0,10.0,78.0,161.0,30.0,3.0,0.0,3,True
+645503,258664,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Lotus,3,NRG,Sentinels,13,10,mada,5132,neon,0.95,210.0,18.0,16.0,5.0,65.0,126.0,17.0,4.0,5.0,3,True
+645503,258664,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Lotus,3,NRG,Sentinels,13,10,keiko,11494,omen,0.83,112.0,10.0,13.0,11.0,70.0,82.0,28.0,0.0,4.0,3,True
+645503,258664,2860,VCT 2026: Americas Stage 1,Group Stage: Week 5,2026-05-10,Lotus,3,NRG,Sentinels,13,10,skuba,11118,viper,0.71,140.0,11.0,17.0,2.0,61.0,88.0,18.0,3.0,1.0,3,True
+660369,265422,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Breeze,1,FURIA,LEVIATÁN,13,8,artzin,5957,kayo,1.85,334.0,24.0,12.0,11.0,81.0,220.0,24.0,3.0,1.0,3,True
+660369,265422,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Breeze,1,FURIA,LEVIATÁN,13,8,alym,48025,harbor,1.62,254.0,22.0,10.0,10.0,86.0,172.0,28.0,1.0,2.0,3,True
+660369,265422,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Breeze,1,FURIA,LEVIATÁN,13,8,eeiu,796,sova,0.78,133.0,11.0,13.0,4.0,71.0,88.0,31.0,2.0,2.0,3,True
+660369,265422,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Breeze,1,FURIA,LEVIATÁN,13,8,koalanoob,3722,jett,0.73,179.0,12.0,15.0,4.0,62.0,116.0,10.0,4.0,2.0,3,True
+660369,265422,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Breeze,1,FURIA,LEVIATÁN,13,8,nerve,754,viper,0.67,107.0,8.0,12.0,2.0,71.0,75.0,22.0,1.0,3.0,3,True
+660369,265422,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Breeze,1,LEVIATÁN,FURIA,8,13,Sato,21659,omen,1.18,217.0,16.0,15.0,8.0,76.0,135.0,40.0,3.0,2.0,3,True
+660369,265422,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Breeze,1,LEVIATÁN,FURIA,8,13,Neon,29243,jett,0.88,170.0,14.0,14.0,1.0,67.0,114.0,35.0,2.0,4.0,3,True
+660369,265422,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Breeze,1,LEVIATÁN,FURIA,8,13,kiNgg,8549,harbor,0.79,150.0,10.0,16.0,6.0,62.0,103.0,41.0,1.0,0.0,3,True
+660369,265422,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Breeze,1,LEVIATÁN,FURIA,8,13,spike,21661,neon,0.79,200.0,15.0,17.0,4.0,76.0,113.0,21.0,4.0,4.0,3,True
+660369,265422,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Breeze,1,LEVIATÁN,FURIA,8,13,blowz,21251,sova,0.69,129.0,7.0,15.0,6.0,48.0,97.0,12.0,0.0,1.0,3,True
+660369,265423,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Split,2,FURIA,LEVIATÁN,5,13,artzin,5957,vyse,1.27,256.0,16.0,12.0,5.0,72.0,161.0,18.0,2.0,1.0,3,True
+660369,265423,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Split,2,FURIA,LEVIATÁN,5,13,eeiu,796,fade,0.83,145.0,10.0,14.0,2.0,44.0,90.0,9.0,2.0,1.0,3,True
+660369,265423,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Split,2,FURIA,LEVIATÁN,5,13,koalanoob,3722,omen,0.64,147.0,7.0,15.0,6.0,61.0,107.0,23.0,1.0,1.0,3,True
+660369,265423,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Split,2,FURIA,LEVIATÁN,5,13,alym,48025,neon,0.5,156.0,11.0,17.0,1.0,50.0,80.0,10.0,3.0,5.0,3,True
+660369,265423,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Split,2,FURIA,LEVIATÁN,5,13,nerve,754,viper,0.04,59.0,1.0,18.0,4.0,39.0,54.0,4.0,0.0,2.0,3,True
+660369,265423,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Split,2,LEVIATÁN,FURIA,13,5,kiNgg,8549,viper,1.91,360.0,24.0,9.0,6.0,94.0,220.0,40.0,3.0,0.0,3,True
+660369,265423,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Split,2,LEVIATÁN,FURIA,13,5,blowz,21251,fade,1.38,215.0,12.0,8.0,12.0,89.0,140.0,28.0,0.0,0.0,3,True
+660369,265423,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Split,2,LEVIATÁN,FURIA,13,5,Neon,29243,omen,1.28,157.0,12.0,5.0,8.0,78.0,101.0,30.0,0.0,3.0,3,True
+660369,265423,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Split,2,LEVIATÁN,FURIA,13,5,Sato,21659,phoenix,1.22,228.0,14.0,11.0,7.0,72.0,146.0,26.0,4.0,1.0,3,True
+660369,265423,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Split,2,LEVIATÁN,FURIA,13,5,spike,21661,neon,0.98,209.0,14.0,12.0,4.0,78.0,133.0,29.0,3.0,4.0,3,True
+660369,265424,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,3,FURIA,LEVIATÁN,1,13,nerve,754,astra,0.94,183.0,8.0,13.0,5.0,57.0,127.0,43.0,0.0,0.0,3,True
+660369,265424,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,3,FURIA,LEVIATÁN,1,13,artzin,5957,killjoy,0.93,193.0,10.0,13.0,2.0,71.0,121.0,36.0,2.0,0.0,3,True
+660369,265424,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,3,FURIA,LEVIATÁN,1,13,koalanoob,3722,phoenix,0.32,97.0,5.0,14.0,2.0,57.0,53.0,12.0,1.0,5.0,3,True
+660369,265424,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,3,FURIA,LEVIATÁN,1,13,alym,48025,neon,0.32,131.0,3.0,14.0,8.0,57.0,106.0,12.0,0.0,6.0,3,True
+660369,265424,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,3,FURIA,LEVIATÁN,1,13,eeiu,796,fade,0.29,98.0,4.0,14.0,1.0,43.0,65.0,23.0,0.0,0.0,3,True
+660369,265424,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,3,LEVIATÁN,FURIA,13,1,kiNgg,8549,astra,2.37,384.0,20.0,3.0,5.0,100.0,230.0,23.0,2.0,0.0,3,True
+660369,265424,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,3,LEVIATÁN,FURIA,13,1,Neon,29243,chamber,1.73,314.0,17.0,5.0,5.0,93.0,195.0,12.0,2.0,1.0,3,True
+660369,265424,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,3,LEVIATÁN,FURIA,13,1,Sato,21659,phoenix,1.41,254.0,14.0,7.0,8.0,100.0,168.0,23.0,2.0,0.0,3,True
+660369,265424,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,3,LEVIATÁN,FURIA,13,1,blowz,21251,sova,1.12,123.0,8.0,4.0,2.0,93.0,94.0,36.0,0.0,1.0,3,True
+660369,265424,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,3,LEVIATÁN,FURIA,13,1,spike,21661,neon,0.71,227.0,9.0,11.0,6.0,71.0,153.0,29.0,5.0,1.0,3,True
+660370,265425,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,1,G2 Esports,100 Thieves,13,4,leaf,7873,phoenix,1.73,329.0,19.0,10.0,13.0,94.0,213.0,35.0,5.0,2.0,3,True
+660370,265425,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,1,G2 Esports,100 Thieves,13,4,jawgemo,3993,neon,1.64,275.0,18.0,7.0,6.0,82.0,168.0,26.0,3.0,2.0,3,True
+660370,265425,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,1,G2 Esports,100 Thieves,13,4,BABYBAY,2170,vyse,1.56,278.0,18.0,7.0,2.0,88.0,188.0,35.0,1.0,0.0,3,True
+660370,265425,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,1,G2 Esports,100 Thieves,13,4,trent,15500,fade,1.17,175.0,8.0,9.0,11.0,88.0,131.0,20.0,0.0,0.0,3,True
+660370,265425,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,1,G2 Esports,100 Thieves,13,4,valyn,3885,astra,1.1,193.0,14.0,9.0,2.0,65.0,138.0,32.0,1.0,3.0,3,True
+660370,265425,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,1,100 Thieves,G2 Esports,4,13,Cryocells,4147,chamber,0.9,182.0,9.0,14.0,1.0,35.0,134.0,30.0,1.0,2.0,3,True
+660370,265425,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,1,100 Thieves,G2 Esports,4,13,Timotino,29893,neon,0.73,232.0,14.0,17.0,2.0,65.0,119.0,9.0,5.0,4.0,3,True
+660370,265425,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,1,100 Thieves,G2 Esports,4,13,vora,20140,fade,0.68,139.0,9.0,14.0,4.0,71.0,89.0,21.0,0.0,1.0,3,True
+660370,265425,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,1,100 Thieves,G2 Esports,4,13,bang,3880,astra,0.47,116.0,6.0,15.0,8.0,59.0,76.0,32.0,0.0,0.0,3,True
+660370,265425,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Pearl,1,100 Thieves,G2 Esports,4,13,Asuna,601,phoenix,0.21,96.0,4.0,17.0,5.0,65.0,73.0,18.0,1.0,3.0,3,True
+660370,265426,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Lotus,2,G2 Esports,100 Thieves,13,7,valyn,3885,omen,1.63,295.0,22.0,12.0,5.0,85.0,171.0,21.0,2.0,0.0,3,True
+660370,265426,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Lotus,2,G2 Esports,100 Thieves,13,7,trent,15500,fade,1.26,188.0,14.0,9.0,6.0,75.0,133.0,25.0,3.0,2.0,3,True
+660370,265426,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Lotus,2,G2 Esports,100 Thieves,13,7,BABYBAY,2170,vyse,1.18,233.0,18.0,13.0,5.0,90.0,163.0,23.0,1.0,2.0,3,True
+660370,265426,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Lotus,2,G2 Esports,100 Thieves,13,7,jawgemo,3993,raze,1.0,211.0,15.0,14.0,4.0,85.0,137.0,28.0,2.0,2.0,3,True
+660370,265426,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Lotus,2,G2 Esports,100 Thieves,13,7,leaf,7873,viper,0.75,192.0,13.0,16.0,5.0,75.0,129.0,20.0,4.0,2.0,3,True
+660370,265426,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Lotus,2,100 Thieves,G2 Esports,7,13,vora,20140,fade,0.97,186.0,14.0,15.0,5.0,70.0,119.0,38.0,1.0,2.0,3,True
+660370,265426,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Lotus,2,100 Thieves,G2 Esports,7,13,bang,3880,omen,0.84,170.0,12.0,16.0,8.0,70.0,108.0,41.0,1.0,1.0,3,True
+660370,265426,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Lotus,2,100 Thieves,G2 Esports,7,13,Asuna,601,raze,0.84,261.0,15.0,19.0,6.0,70.0,175.0,16.0,3.0,3.0,3,True
+660370,265426,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Lotus,2,100 Thieves,G2 Esports,7,13,Timotino,29893,neon,0.77,154.0,11.0,16.0,5.0,50.0,98.0,34.0,3.0,5.0,3,True
+660370,265426,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Round 1,2026-05-14,Lotus,2,100 Thieves,G2 Esports,7,13,Cryocells,4147,cypher,0.68,156.0,12.0,16.0,0.0,50.0,99.0,37.0,0.0,1.0,3,True
+660371,265428,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Split,1,MIBR,LEVIATÁN,10,13,tex,1818,vyse,1.05,189.0,14.0,16.0,6.0,78.0,136.0,32.0,2.0,1.0,3,True
+660371,265428,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Split,1,MIBR,LEVIATÁN,10,13,zekken,4004,neon,0.97,227.0,19.0,18.0,1.0,65.0,127.0,14.0,7.0,6.0,3,True
+660371,265428,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Split,1,MIBR,LEVIATÁN,10,13,Mazino,7603,astra,0.97,186.0,14.0,17.0,9.0,70.0,125.0,22.0,1.0,1.0,3,True
+660371,265428,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Split,1,MIBR,LEVIATÁN,10,13,aspas,8480,raze,0.74,150.0,10.0,17.0,3.0,61.0,109.0,16.0,2.0,1.0,3,True
+660371,265428,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Split,1,MIBR,LEVIATÁN,10,13,Verno,21668,fade,0.58,137.0,11.0,18.0,7.0,52.0,95.0,31.0,0.0,2.0,3,True
+660371,265428,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Split,1,LEVIATÁN,MIBR,13,10,kiNgg,8549,viper,1.31,215.0,19.0,12.0,3.0,91.0,155.0,37.0,2.0,0.0,3,True
+660371,265428,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Split,1,LEVIATÁN,MIBR,13,10,spike,21661,neon,1.3,280.0,21.0,16.0,9.0,65.0,183.0,30.0,5.0,4.0,3,True
+660371,265428,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Split,1,LEVIATÁN,MIBR,13,10,Sato,21659,phoenix,1.09,252.0,22.0,18.0,4.0,74.0,173.0,34.0,3.0,4.0,3,True
+660371,265428,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Split,1,LEVIATÁN,MIBR,13,10,Neon,29243,omen,1.06,192.0,16.0,14.0,6.0,78.0,136.0,24.0,1.0,4.0,3,True
+660371,265428,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Split,1,LEVIATÁN,MIBR,13,10,blowz,21251,fade,0.89,93.0,8.0,8.0,3.0,83.0,66.0,23.0,0.0,0.0,3,True
+660371,265429,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Fracture,2,MIBR,LEVIATÁN,13,4,aspas,8480,jett,1.59,260.0,19.0,7.0,2.0,88.0,190.0,29.0,3.0,1.0,3,True
+660371,265429,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Fracture,2,MIBR,LEVIATÁN,13,4,Verno,21668,skye,1.36,180.0,11.0,6.0,5.0,82.0,124.0,39.0,1.0,0.0,3,True
+660371,265429,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Fracture,2,MIBR,LEVIATÁN,13,4,tex,1818,cypher,1.29,242.0,15.0,10.0,8.0,88.0,162.0,37.0,1.0,2.0,3,True
+660371,265429,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Fracture,2,MIBR,LEVIATÁN,13,4,Mazino,7603,brimstone,1.23,203.0,12.0,9.0,20.0,76.0,136.0,14.0,1.0,0.0,3,True
+660371,265429,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Fracture,2,MIBR,LEVIATÁN,13,4,zekken,4004,neon,1.15,246.0,16.0,11.0,0.0,76.0,143.0,16.0,5.0,3.0,3,True
+660371,265429,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Fracture,2,LEVIATÁN,MIBR,4,13,Neon,29243,brimstone,1.44,275.0,16.0,12.0,5.0,88.0,161.0,17.0,1.0,0.0,3,True
+660371,265429,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Fracture,2,LEVIATÁN,MIBR,4,13,blowz,21251,tejo,0.81,174.0,9.0,15.0,7.0,65.0,131.0,32.0,2.0,2.0,3,True
+660371,265429,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Fracture,2,LEVIATÁN,MIBR,4,13,spike,21661,neon,0.63,131.0,7.0,15.0,3.0,71.0,97.0,19.0,1.0,3.0,3,True
+660371,265429,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Fracture,2,LEVIATÁN,MIBR,4,13,kiNgg,8549,breach,0.48,121.0,7.0,15.0,5.0,71.0,80.0,16.0,0.0,0.0,3,True
+660371,265429,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Fracture,2,LEVIATÁN,MIBR,4,13,Sato,21659,waylay,0.3,106.0,4.0,16.0,4.0,41.0,84.0,28.0,2.0,6.0,3,True
+660371,265430,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Ascent,3,MIBR,LEVIATÁN,7,13,Mazino,7603,omen,1.0,169.0,13.0,15.0,5.0,55.0,114.0,18.0,1.0,2.0,3,True
+660371,265430,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Ascent,3,MIBR,LEVIATÁN,7,13,Verno,21668,sage,0.98,173.0,12.0,15.0,5.0,60.0,121.0,25.0,1.0,3.0,3,True
+660371,265430,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Ascent,3,MIBR,LEVIATÁN,7,13,zekken,4004,sova,0.77,144.0,10.0,14.0,2.0,75.0,94.0,31.0,1.0,1.0,3,True
+660371,265430,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Ascent,3,MIBR,LEVIATÁN,7,13,aspas,8480,jett,0.71,169.0,12.0,16.0,3.0,70.0,93.0,13.0,4.0,3.0,3,True
+660371,265430,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Ascent,3,MIBR,LEVIATÁN,7,13,tex,1818,vyse,0.51,105.0,5.0,16.0,8.0,55.0,84.0,41.0,1.0,3.0,3,True
+660371,265430,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Ascent,3,LEVIATÁN,MIBR,13,7,spike,21661,neon,1.3,311.0,23.0,14.0,4.0,80.0,184.0,24.0,6.0,4.0,3,True
+660371,265430,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Ascent,3,LEVIATÁN,MIBR,13,7,Sato,21659,phoenix,1.25,244.0,15.0,12.0,12.0,85.0,168.0,29.0,2.0,2.0,3,True
+660371,265430,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Ascent,3,LEVIATÁN,MIBR,13,7,blowz,21251,sova,1.22,206.0,12.0,9.0,12.0,100.0,148.0,33.0,0.0,0.0,3,True
+660371,265430,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Ascent,3,LEVIATÁN,MIBR,13,7,kiNgg,8549,omen,1.14,148.0,13.0,7.0,9.0,80.0,71.0,29.0,0.0,1.0,3,True
+660371,265430,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Ascent,3,LEVIATÁN,MIBR,13,7,Neon,29243,chamber,1.09,193.0,13.0,10.0,2.0,80.0,131.0,15.0,4.0,1.0,3,True
+660372,265431,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Lotus,1,KRÜ Esports,G2 Esports,11,13,Less,8447,viper,1.51,286.0,27.0,16.0,0.0,75.0,185.0,40.0,2.0,2.0,3,True
+660372,265431,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Lotus,1,KRÜ Esports,G2 Esports,11,13,saadhak,727,omen,0.94,213.0,17.0,18.0,8.0,75.0,128.0,16.0,6.0,4.0,3,True
+660372,265431,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Lotus,1,KRÜ Esports,G2 Esports,11,13,mwzera,939,fade,0.91,149.0,11.0,16.0,11.0,79.0,104.0,26.0,0.0,0.0,3,True
+660372,265431,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Lotus,1,KRÜ Esports,G2 Esports,11,13,Dantedeu5,41135,neon,0.78,178.0,15.0,19.0,3.0,67.0,104.0,38.0,3.0,5.0,3,True
+660372,265431,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Lotus,1,KRÜ Esports,G2 Esports,11,13,silentzz,11921,vyse,0.67,127.0,12.0,17.0,2.0,58.0,98.0,40.0,2.0,0.0,3,True
+660372,265431,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Lotus,1,G2 Esports,KRÜ Esports,13,11,trent,15500,fade,1.2,205.0,19.0,16.0,8.0,79.0,138.0,34.0,0.0,1.0,3,True
+660372,265431,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Lotus,1,G2 Esports,KRÜ Esports,13,11,valyn,3885,omen,1.0,200.0,17.0,17.0,8.0,83.0,127.0,25.0,2.0,4.0,3,True
+660372,265431,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Lotus,1,G2 Esports,KRÜ Esports,13,11,jawgemo,3993,raze,0.98,236.0,19.0,19.0,3.0,71.0,162.0,19.0,4.0,3.0,3,True
+660372,265431,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Lotus,1,G2 Esports,KRÜ Esports,13,11,BABYBAY,2170,vyse,0.97,176.0,13.0,14.0,7.0,79.0,125.0,27.0,1.0,2.0,3,True
+660372,265431,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Lotus,1,G2 Esports,KRÜ Esports,13,11,leaf,7873,viper,0.95,196.0,18.0,16.0,3.0,67.0,139.0,30.0,4.0,3.0,3,True
+660372,265432,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Breeze,2,KRÜ Esports,G2 Esports,7,13,mwzera,939,sova,1.44,269.0,20.0,14.0,8.0,85.0,177.0,26.0,1.0,0.0,3,True
+660372,265432,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Breeze,2,KRÜ Esports,G2 Esports,7,13,Less,8447,viper,0.95,261.0,18.0,17.0,5.0,70.0,167.0,31.0,2.0,3.0,3,True
+660372,265432,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Breeze,2,KRÜ Esports,G2 Esports,7,13,saadhak,727,harbor,0.54,131.0,10.0,16.0,6.0,70.0,88.0,29.0,0.0,4.0,3,True
+660372,265432,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Breeze,2,KRÜ Esports,G2 Esports,7,13,Dantedeu5,41135,neon,0.53,149.0,10.0,18.0,5.0,70.0,102.0,28.0,2.0,4.0,3,True
+660372,265432,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Breeze,2,KRÜ Esports,G2 Esports,7,13,silentzz,11921,kayo,0.5,128.0,9.0,18.0,9.0,60.0,72.0,27.0,2.0,2.0,3,True
+660372,265432,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Breeze,2,G2 Esports,KRÜ Esports,13,7,trent,15500,sova,1.52,278.0,18.0,13.0,14.0,90.0,213.0,35.0,0.0,0.0,3,True
+660372,265432,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Breeze,2,G2 Esports,KRÜ Esports,13,7,BABYBAY,2170,vyse,1.42,217.0,16.0,12.0,7.0,90.0,149.0,20.0,1.0,0.0,3,True
+660372,265432,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Breeze,2,G2 Esports,KRÜ Esports,13,7,valyn,3885,harbor,1.19,201.0,17.0,13.0,9.0,80.0,119.0,30.0,4.0,2.0,3,True
+660372,265432,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Breeze,2,G2 Esports,KRÜ Esports,13,7,jawgemo,3993,neon,1.15,248.0,17.0,16.0,5.0,80.0,183.0,30.0,7.0,4.0,3,True
+660372,265432,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Semifinals,2026-05-15,Breeze,2,G2 Esports,KRÜ Esports,13,7,leaf,7873,astra,0.99,168.0,15.0,13.0,4.0,60.0,89.0,16.0,1.0,1.0,3,True
+660375,265442,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Lotus,1,FURIA,NRG,4,13,nerve,754,omen,1.07,212.0,12.0,14.0,6.0,65.0,128.0,24.0,1.0,1.0,3,True
+660375,265442,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Lotus,1,FURIA,NRG,4,13,alym,48025,neon,0.69,170.0,9.0,14.0,3.0,53.0,118.0,26.0,2.0,5.0,3,True
+660375,265442,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Lotus,1,FURIA,NRG,4,13,eeiu,796,fade,0.64,111.0,5.0,14.0,4.0,53.0,85.0,30.0,0.0,0.0,3,True
+660375,265442,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Lotus,1,FURIA,NRG,4,13,koalanoob,3722,raze,0.49,157.0,8.0,16.0,3.0,59.0,101.0,17.0,2.0,5.0,3,True
+660375,265442,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Lotus,1,FURIA,NRG,4,13,artzin,5957,vyse,0.19,56.0,2.0,14.0,3.0,35.0,39.0,8.0,1.0,0.0,3,True
+660375,265442,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Lotus,1,NRG,FURIA,13,4,brawk,2172,vyse,1.81,337.0,20.0,8.0,9.0,88.0,208.0,10.0,2.0,0.0,3,True
+660375,265442,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Lotus,1,NRG,FURIA,13,4,Ethan,11225,fade,1.37,178.0,12.0,4.0,5.0,82.0,118.0,29.0,1.0,1.0,3,True
+660375,265442,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Lotus,1,NRG,FURIA,13,4,mada,5132,neon,1.32,241.0,15.0,9.0,8.0,82.0,146.0,26.0,3.0,4.0,3,True
+660375,265442,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Lotus,1,NRG,FURIA,13,4,skuba,11118,viper,1.27,236.0,14.0,8.0,8.0,88.0,151.0,29.0,4.0,1.0,3,True
+660375,265442,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Lotus,1,NRG,FURIA,13,4,keiko,11494,omen,1.16,162.0,11.0,7.0,8.0,82.0,86.0,26.0,1.0,0.0,3,True
+660375,265443,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Haven,2,FURIA,NRG,8,13,eeiu,796,sova,1.36,289.0,21.0,15.0,6.0,76.0,191.0,32.0,2.0,1.0,3,True
+660375,265443,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Haven,2,FURIA,NRG,8,13,artzin,5957,cypher,1.21,264.0,20.0,16.0,5.0,67.0,179.0,19.0,3.0,1.0,3,True
+660375,265443,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Haven,2,FURIA,NRG,8,13,koalanoob,3722,jett,0.85,156.0,11.0,14.0,3.0,76.0,110.0,23.0,5.0,1.0,3,True
+660375,265443,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Haven,2,FURIA,NRG,8,13,nerve,754,omen,0.7,136.0,9.0,16.0,11.0,62.0,96.0,48.0,1.0,2.0,3,True
+660375,265443,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Haven,2,FURIA,NRG,8,13,alym,48025,phoenix,0.55,157.0,10.0,16.0,7.0,67.0,121.0,28.0,2.0,3.0,3,True
+660375,265443,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Haven,2,NRG,FURIA,13,8,brawk,2172,sova,1.58,268.0,18.0,11.0,11.0,86.0,200.0,13.0,0.0,2.0,3,True
+660375,265443,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Haven,2,NRG,FURIA,13,8,keiko,11494,phoenix,1.51,304.0,20.0,15.0,15.0,90.0,190.0,25.0,3.0,1.0,3,True
+660375,265443,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Haven,2,NRG,FURIA,13,8,mada,5132,neon,1.23,218.0,19.0,14.0,1.0,81.0,139.0,17.0,3.0,3.0,3,True
+660375,265443,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Haven,2,NRG,FURIA,13,8,Ethan,11225,omen,0.75,149.0,10.0,15.0,12.0,71.0,99.0,17.0,0.0,4.0,3,True
+660375,265443,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Haven,2,NRG,FURIA,13,8,skuba,11118,cypher,0.64,122.0,10.0,16.0,2.0,62.0,88.0,31.0,2.0,3.0,3,True
+660376,265445,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Breeze,1,100 Thieves,LOUD,13,5,bang,3880,harbor,1.91,286.0,22.0,7.0,10.0,94.0,180.0,70.0,2.0,1.0,3,True
+660376,265445,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Breeze,1,100 Thieves,LOUD,13,5,Cryocells,4147,cypher,1.25,214.0,14.0,9.0,7.0,89.0,153.0,34.0,0.0,0.0,3,True
+660376,265445,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Breeze,1,100 Thieves,LOUD,13,5,Asuna,601,phoenix,1.23,198.0,13.0,9.0,5.0,67.0,139.0,18.0,3.0,4.0,3,True
+660376,265445,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Breeze,1,100 Thieves,LOUD,13,5,Timotino,29893,neon,1.17,248.0,16.0,11.0,4.0,72.0,175.0,31.0,3.0,3.0,3,True
+660376,265445,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Breeze,1,100 Thieves,LOUD,13,5,vora,20140,sova,1.03,196.0,12.0,10.0,6.0,61.0,130.0,32.0,2.0,0.0,3,True
+660376,265445,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Breeze,1,LOUD,100 Thieves,5,13,erde,29242,astra,0.95,205.0,12.0,15.0,4.0,61.0,132.0,36.0,1.0,3.0,3,True
+660376,265445,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Breeze,1,LOUD,100 Thieves,5,13,cauanzin,6193,sova,0.87,165.0,9.0,14.0,5.0,56.0,123.0,19.0,3.0,1.0,3,True
+660376,265445,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Breeze,1,LOUD,100 Thieves,5,13,Virtyy,3983,jett,0.82,185.0,12.0,16.0,2.0,56.0,110.0,21.0,3.0,2.0,3,True
+660376,265445,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Breeze,1,LOUD,100 Thieves,5,13,Darker,10557,kayo,0.69,137.0,8.0,15.0,9.0,72.0,80.0,21.0,0.0,0.0,3,True
+660376,265445,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Breeze,1,LOUD,100 Thieves,5,13,lukxo,28716,harbor,0.29,98.0,5.0,17.0,7.0,50.0,75.0,29.0,1.0,4.0,3,True
+660376,265446,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Split,2,100 Thieves,LOUD,13,4,Timotino,29893,raze,1.76,342.0,22.0,8.0,2.0,82.0,195.0,19.0,7.0,1.0,3,True
+660376,265446,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Split,2,100 Thieves,LOUD,13,4,Cryocells,4147,viper,1.34,186.0,12.0,6.0,9.0,82.0,135.0,25.0,0.0,1.0,3,True
+660376,265446,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Split,2,100 Thieves,LOUD,13,4,bang,3880,omen,1.3,248.0,15.0,10.0,11.0,76.0,152.0,32.0,2.0,1.0,3,True
+660376,265446,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Split,2,100 Thieves,LOUD,13,4,Asuna,601,sage,1.18,207.0,12.0,8.0,6.0,71.0,137.0,22.0,2.0,3.0,3,True
+660376,265446,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Split,2,100 Thieves,LOUD,13,4,vora,20140,skye,1.08,133.0,9.0,6.0,4.0,88.0,78.0,42.0,0.0,0.0,3,True
+660376,265446,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Split,2,LOUD,100 Thieves,4,13,erde,29242,omen,0.71,153.0,9.0,14.0,3.0,47.0,91.0,21.0,1.0,0.0,3,True
+660376,265446,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Split,2,LOUD,100 Thieves,4,13,Virtyy,3983,neon,0.69,149.0,10.0,13.0,0.0,47.0,82.0,35.0,0.0,6.0,3,True
+660376,265446,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Split,2,LOUD,100 Thieves,4,13,cauanzin,6193,skye,0.62,104.0,5.0,12.0,4.0,59.0,68.0,19.0,1.0,2.0,3,True
+660376,265446,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Split,2,LOUD,100 Thieves,4,13,Darker,10557,raze,0.6,129.0,7.0,15.0,1.0,41.0,89.0,11.0,2.0,2.0,3,True
+660376,265446,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 1,2026-05-16,Split,2,LOUD,100 Thieves,4,13,lukxo,28716,viper,0.46,138.0,7.0,16.0,1.0,53.0,85.0,24.0,2.0,1.0,3,True
+660377,265448,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,1,KRÜ Esports,NRG,8,13,saadhak,727,harbor,1.17,213.0,16.0,14.0,4.0,71.0,134.0,32.0,1.0,3.0,3,True
+660377,265448,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,1,KRÜ Esports,NRG,8,13,mwzera,939,sova,1.03,141.0,11.0,12.0,2.0,52.0,98.0,22.0,2.0,0.0,3,True
+660377,265448,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,1,KRÜ Esports,NRG,8,13,Dantedeu5,41135,neon,0.65,138.0,10.0,15.0,2.0,67.0,83.0,17.0,2.0,5.0,3,True
+660377,265448,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,1,KRÜ Esports,NRG,8,13,silentzz,11921,kayo,0.65,159.0,12.0,17.0,5.0,67.0,104.0,29.0,1.0,1.0,3,True
+660377,265448,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,1,KRÜ Esports,NRG,8,13,Less,8447,viper,0.6,131.0,9.0,16.0,3.0,48.0,110.0,32.0,1.0,5.0,3,True
+660377,265448,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,1,NRG,KRÜ Esports,13,8,brawk,2172,sova,1.46,227.0,17.0,10.0,9.0,86.0,147.0,19.0,0.0,1.0,3,True
+660377,265448,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,1,NRG,KRÜ Esports,13,8,keiko,11494,jett,1.39,245.0,20.0,11.0,2.0,81.0,165.0,19.0,6.0,3.0,3,True
+660377,265448,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,1,NRG,KRÜ Esports,13,8,mada,5132,harbor,1.2,251.0,19.0,14.0,9.0,67.0,157.0,29.0,6.0,2.0,3,True
+660377,265448,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,1,NRG,KRÜ Esports,13,8,Ethan,11225,kayo,0.94,152.0,10.0,12.0,12.0,76.0,105.0,15.0,1.0,1.0,3,True
+660377,265448,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,1,NRG,KRÜ Esports,13,8,skuba,11118,viper,0.87,126.0,8.0,11.0,6.0,71.0,90.0,23.0,1.0,0.0,3,True
+660377,265449,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Haven,2,KRÜ Esports,NRG,4,13,Less,8447,cypher,1.16,261.0,14.0,12.0,7.0,82.0,169.0,27.0,3.0,1.0,3,True
+660377,265449,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Haven,2,KRÜ Esports,NRG,4,13,saadhak,727,omen,0.97,167.0,12.0,13.0,5.0,71.0,122.0,33.0,1.0,1.0,3,True
+660377,265449,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Haven,2,KRÜ Esports,NRG,4,13,silentzz,11921,phoenix,0.67,169.0,10.0,15.0,6.0,76.0,106.0,32.0,3.0,1.0,3,True
+660377,265449,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Haven,2,KRÜ Esports,NRG,4,13,mwzera,939,fade,0.48,182.0,10.0,16.0,1.0,59.0,125.0,28.0,2.0,1.0,3,True
+660377,265449,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Haven,2,KRÜ Esports,NRG,4,13,Dantedeu5,41135,neon,0.39,128.0,6.0,14.0,5.0,71.0,89.0,13.0,0.0,4.0,3,True
+660377,265449,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Haven,2,NRG,KRÜ Esports,13,4,brawk,2172,sova,1.5,224.0,15.0,8.0,7.0,88.0,136.0,10.0,2.0,2.0,3,True
+660377,265449,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Haven,2,NRG,KRÜ Esports,13,4,Ethan,11225,omen,1.49,234.0,13.0,11.0,14.0,82.0,155.0,15.0,3.0,0.0,3,True
+660377,265449,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Haven,2,NRG,KRÜ Esports,13,4,keiko,11494,phoenix,1.41,284.0,17.0,11.0,8.0,76.0,168.0,35.0,3.0,2.0,3,True
+660377,265449,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Haven,2,NRG,KRÜ Esports,13,4,skuba,11118,cypher,1.2,202.0,14.0,10.0,6.0,76.0,123.0,20.0,0.0,3.0,3,True
+660377,265449,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Haven,2,NRG,KRÜ Esports,13,4,mada,5132,neon,1.0,164.0,11.0,12.0,6.0,71.0,110.0,34.0,0.0,2.0,3,True
+660378,265451,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Fracture,1,MIBR,100 Thieves,11,13,aspas,8480,jett,1.15,226.0,19.0,16.0,4.0,83.0,147.0,28.0,6.0,1.0,3,True
+660378,265451,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Fracture,1,MIBR,100 Thieves,11,13,Verno,21668,skye,0.96,173.0,15.0,17.0,8.0,67.0,130.0,33.0,0.0,0.0,3,True
+660378,265451,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Fracture,1,MIBR,100 Thieves,11,13,zekken,4004,neon,0.93,197.0,17.0,17.0,5.0,58.0,123.0,24.0,5.0,6.0,3,True
+660378,265451,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Fracture,1,MIBR,100 Thieves,11,13,Mazino,7603,brimstone,0.76,176.0,13.0,17.0,7.0,58.0,123.0,23.0,0.0,1.0,3,True
+660378,265451,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Fracture,1,MIBR,100 Thieves,11,13,tex,1818,cypher,0.65,154.0,12.0,18.0,4.0,50.0,114.0,29.0,2.0,3.0,3,True
+660378,265451,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Fracture,1,100 Thieves,MIBR,13,11,Asuna,601,raze,1.61,331.0,29.0,16.0,5.0,75.0,212.0,18.0,5.0,5.0,3,True
+660378,265451,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Fracture,1,100 Thieves,MIBR,13,11,Timotino,29893,neon,1.42,241.0,22.0,14.0,7.0,67.0,161.0,25.0,5.0,5.0,3,True
+660378,265451,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Fracture,1,100 Thieves,MIBR,13,11,bang,3880,brimstone,1.34,218.0,19.0,14.0,16.0,88.0,127.0,33.0,0.0,1.0,3,True
+660378,265451,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Fracture,1,100 Thieves,MIBR,13,11,vora,20140,fade,0.81,121.0,8.0,14.0,6.0,75.0,93.0,17.0,0.0,1.0,3,True
+660378,265451,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Fracture,1,100 Thieves,MIBR,13,11,Cryocells,4147,cypher,0.46,111.0,7.0,19.0,8.0,58.0,73.0,6.0,1.0,1.0,3,True
+660378,265452,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,2,MIBR,100 Thieves,7,13,tex,1818,astra,1.08,226.0,16.0,12.0,3.0,80.0,165.0,33.0,2.0,1.0,3,True
+660378,265452,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,2,MIBR,100 Thieves,7,13,Mazino,7603,harbor,0.89,194.0,14.0,15.0,5.0,50.0,129.0,36.0,1.0,2.0,3,True
+660378,265452,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,2,MIBR,100 Thieves,7,13,Verno,21668,skye,0.83,153.0,10.0,14.0,8.0,70.0,106.0,21.0,0.0,3.0,3,True
+660378,265452,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,2,MIBR,100 Thieves,7,13,aspas,8480,jett,0.77,168.0,12.0,15.0,2.0,60.0,101.0,26.0,1.0,2.0,3,True
+660378,265452,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,2,MIBR,100 Thieves,7,13,zekken,4004,neon,0.65,190.0,12.0,17.0,5.0,55.0,122.0,28.0,4.0,4.0,3,True
+660378,265452,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,2,100 Thieves,MIBR,13,7,Asuna,601,phoenix,1.5,291.0,21.0,13.0,7.0,85.0,174.0,21.0,5.0,3.0,3,True
+660378,265452,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,2,100 Thieves,MIBR,13,7,bang,3880,harbor,1.32,216.0,17.0,12.0,12.0,80.0,124.0,24.0,0.0,2.0,3,True
+660378,265452,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,2,100 Thieves,MIBR,13,7,vora,20140,sova,1.23,202.0,13.0,11.0,8.0,75.0,167.0,22.0,1.0,1.0,3,True
+660378,265452,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,2,100 Thieves,MIBR,13,7,Cryocells,4147,cypher,1.04,188.0,12.0,12.0,5.0,90.0,113.0,12.0,2.0,0.0,3,True
+660378,265452,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 2,2026-05-17,Breeze,2,100 Thieves,MIBR,13,7,Timotino,29893,neon,0.69,157.0,10.0,16.0,3.0,65.0,119.0,17.0,4.0,2.0,3,True
+660373,265434,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Ascent,1,LEVIATÁN,G2 Esports,13,7,Neon,29243,chamber,1.86,274.0,21.0,6.0,4.0,85.0,175.0,28.0,4.0,1.0,3,True
+660373,265434,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Ascent,1,LEVIATÁN,G2 Esports,13,7,spike,21661,neon,1.39,346.0,25.0,13.0,6.0,85.0,250.0,26.0,3.0,1.0,3,True
+660373,265434,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Ascent,1,LEVIATÁN,G2 Esports,13,7,blowz,21251,sova,1.03,152.0,11.0,10.0,11.0,80.0,112.0,21.0,2.0,1.0,3,True
+660373,265434,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Ascent,1,LEVIATÁN,G2 Esports,13,7,kiNgg,8549,omen,0.98,140.0,11.0,9.0,7.0,85.0,87.0,30.0,2.0,1.0,3,True
+660373,265434,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Ascent,1,LEVIATÁN,G2 Esports,13,7,Sato,21659,phoenix,0.96,212.0,15.0,14.0,12.0,75.0,126.0,31.0,4.0,1.0,3,True
+660373,265434,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Ascent,1,G2 Esports,LEVIATÁN,7,13,trent,15500,sova,1.06,178.0,12.0,15.0,5.0,65.0,109.0,26.0,1.0,1.0,3,True
+660373,265434,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Ascent,1,G2 Esports,LEVIATÁN,7,13,valyn,3885,astra,0.96,214.0,15.0,18.0,5.0,60.0,134.0,28.0,1.0,3.0,3,True
+660373,265434,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Ascent,1,G2 Esports,LEVIATÁN,7,13,BABYBAY,2170,vyse,0.64,134.0,9.0,17.0,6.0,55.0,99.0,22.0,1.0,2.0,3,True
+660373,265434,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Ascent,1,G2 Esports,LEVIATÁN,7,13,leaf,7873,phoenix,0.64,153.0,8.0,16.0,7.0,50.0,105.0,19.0,1.0,5.0,3,True
+660373,265434,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Ascent,1,G2 Esports,LEVIATÁN,7,13,jawgemo,3993,yoru,0.45,125.0,8.0,17.0,1.0,35.0,91.0,27.0,1.0,4.0,3,True
+660373,265435,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Pearl,2,LEVIATÁN,G2 Esports,9,13,blowz,21251,sova,1.13,244.0,19.0,17.0,4.0,73.0,159.0,39.0,1.0,0.0,3,True
+660373,265435,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Pearl,2,LEVIATÁN,G2 Esports,9,13,spike,21661,neon,0.9,193.0,14.0,16.0,5.0,82.0,116.0,41.0,5.0,3.0,3,True
+660373,265435,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Pearl,2,LEVIATÁN,G2 Esports,9,13,Neon,29243,chamber,0.73,175.0,13.0,17.0,2.0,59.0,107.0,12.0,1.0,4.0,3,True
+660373,265435,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Pearl,2,LEVIATÁN,G2 Esports,9,13,Sato,21659,phoenix,0.68,167.0,12.0,17.0,4.0,68.0,124.0,27.0,0.0,5.0,3,True
+660373,265435,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Pearl,2,LEVIATÁN,G2 Esports,9,13,kiNgg,8549,astra,0.66,118.0,9.0,13.0,3.0,59.0,73.0,22.0,2.0,1.0,3,True
+660373,265435,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Pearl,2,G2 Esports,LEVIATÁN,13,9,BABYBAY,2170,vyse,1.46,237.0,19.0,11.0,8.0,86.0,174.0,21.0,1.0,2.0,3,True
+660373,265435,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Pearl,2,G2 Esports,LEVIATÁN,13,9,valyn,3885,astra,1.3,196.0,16.0,10.0,10.0,82.0,127.0,28.0,1.0,0.0,3,True
+660373,265435,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Pearl,2,G2 Esports,LEVIATÁN,13,9,trent,15500,fade,1.03,162.0,12.0,12.0,5.0,82.0,116.0,35.0,2.0,1.0,3,True
+660373,265435,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Pearl,2,G2 Esports,LEVIATÁN,13,9,jawgemo,3993,neon,0.99,233.0,19.0,17.0,4.0,77.0,142.0,28.0,6.0,3.0,3,True
+660373,265435,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Pearl,2,G2 Esports,LEVIATÁN,13,9,leaf,7873,phoenix,0.88,196.0,14.0,17.0,14.0,77.0,138.0,21.0,3.0,3.0,3,True
+660373,265436,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Split,3,LEVIATÁN,G2 Esports,13,5,Sato,21659,phoenix,1.62,323.0,21.0,11.0,6.0,89.0,187.0,46.0,5.0,0.0,3,True
+660373,265436,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Split,3,LEVIATÁN,G2 Esports,13,5,kiNgg,8549,viper,1.36,211.0,14.0,9.0,5.0,100.0,147.0,29.0,2.0,0.0,3,True
+660373,265436,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Split,3,LEVIATÁN,G2 Esports,13,5,Neon,29243,omen,1.3,245.0,17.0,9.0,7.0,89.0,153.0,27.0,3.0,0.0,3,True
+660373,265436,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Split,3,LEVIATÁN,G2 Esports,13,5,blowz,21251,fade,1.13,145.0,11.0,9.0,8.0,78.0,123.0,32.0,1.0,1.0,3,True
+660373,265436,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Split,3,LEVIATÁN,G2 Esports,13,5,spike,21661,neon,0.89,188.0,12.0,11.0,8.0,72.0,115.0,18.0,2.0,4.0,3,True
+660373,265436,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Split,3,G2 Esports,LEVIATÁN,5,13,leaf,7873,viper,1.01,210.0,14.0,14.0,3.0,56.0,131.0,31.0,2.0,3.0,3,True
+660373,265436,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Split,3,G2 Esports,LEVIATÁN,5,13,trent,15500,fade,0.9,168.0,8.0,14.0,12.0,78.0,132.0,21.0,0.0,2.0,3,True
+660373,265436,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Split,3,G2 Esports,LEVIATÁN,5,13,BABYBAY,2170,vyse,0.88,155.0,8.0,14.0,5.0,61.0,114.0,18.0,0.0,0.0,3,True
+660373,265436,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Split,3,G2 Esports,LEVIATÁN,5,13,valyn,3885,astra,0.61,146.0,8.0,16.0,10.0,56.0,89.0,18.0,0.0,3.0,3,True
+660373,265436,2860,VCT 2026: Americas Stage 1,Playoffs: Upper Final,2026-05-22,Split,3,G2 Esports,LEVIATÁN,5,13,jawgemo,3993,raze,0.6,192.0,11.0,17.0,1.0,50.0,119.0,19.0,3.0,5.0,3,True
+660379,265454,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Fracture,1,NRG,100 Thieves,13,9,keiko,11494,phoenix,1.44,291.0,23.0,13.0,6.0,77.0,190.0,38.0,3.0,2.0,3,True
+660379,265454,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Fracture,1,NRG,100 Thieves,13,9,mada,5132,waylay,1.39,270.0,21.0,14.0,3.0,82.0,158.0,24.0,7.0,3.0,3,True
+660379,265454,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Fracture,1,NRG,100 Thieves,13,9,skuba,11118,cypher,0.91,143.0,12.0,12.0,4.0,68.0,92.0,16.0,1.0,1.0,3,True
+660379,265454,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Fracture,1,NRG,100 Thieves,13,9,Ethan,11225,fade,0.9,185.0,14.0,15.0,7.0,73.0,117.0,37.0,0.0,1.0,3,True
+660379,265454,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Fracture,1,NRG,100 Thieves,13,9,brawk,2172,brimstone,0.87,177.0,14.0,15.0,10.0,73.0,102.0,35.0,4.0,0.0,3,True
+660379,265454,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Fracture,1,100 Thieves,NRG,9,13,Timotino,29893,neon,1.03,274.0,20.0,19.0,3.0,59.0,165.0,31.0,5.0,7.0,3,True
+660379,265454,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Fracture,1,100 Thieves,NRG,9,13,Asuna,601,raze,1.02,204.0,16.0,16.0,5.0,73.0,135.0,17.0,0.0,3.0,3,True
+660379,265454,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Fracture,1,100 Thieves,NRG,9,13,Cryocells,4147,cypher,0.9,190.0,15.0,16.0,3.0,64.0,118.0,22.0,2.0,3.0,3,True
+660379,265454,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Fracture,1,100 Thieves,NRG,9,13,vora,20140,fade,0.9,160.0,13.0,15.0,3.0,64.0,104.0,17.0,0.0,1.0,3,True
+660379,265454,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Fracture,1,100 Thieves,NRG,9,13,bang,3880,brimstone,0.37,87.0,5.0,18.0,6.0,50.0,59.0,26.0,0.0,1.0,3,True
+660379,265455,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Breeze,2,NRG,100 Thieves,13,11,keiko,11494,jett,1.37,274.0,24.0,14.0,5.0,83.0,178.0,24.0,3.0,5.0,3,True
+660379,265455,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Breeze,2,NRG,100 Thieves,13,11,brawk,2172,sova,1.37,239.0,20.0,13.0,12.0,79.0,169.0,18.0,3.0,0.0,3,True
+660379,265455,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Breeze,2,NRG,100 Thieves,13,11,Ethan,11225,kayo,1.27,201.0,17.0,13.0,13.0,75.0,132.0,30.0,2.0,2.0,3,True
+660379,265455,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Breeze,2,NRG,100 Thieves,13,11,mada,5132,harbor,0.85,154.0,13.0,14.0,11.0,67.0,114.0,34.0,1.0,3.0,3,True
+660379,265455,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Breeze,2,NRG,100 Thieves,13,11,skuba,11118,viper,0.79,147.0,12.0,14.0,4.0,75.0,90.0,23.0,3.0,2.0,3,True
+660379,265455,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Breeze,2,100 Thieves,NRG,11,13,Cryocells,4147,cypher,1.4,241.0,22.0,15.0,6.0,71.0,142.0,35.0,3.0,1.0,3,True
+660379,265455,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Breeze,2,100 Thieves,NRG,11,13,vora,20140,sova,0.96,154.0,11.0,14.0,9.0,63.0,115.0,32.0,3.0,1.0,3,True
+660379,265455,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Breeze,2,100 Thieves,NRG,11,13,Timotino,29893,neon,0.82,210.0,18.0,19.0,3.0,58.0,149.0,31.0,3.0,4.0,3,True
+660379,265455,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Breeze,2,100 Thieves,NRG,11,13,Asuna,601,phoenix,0.64,171.0,12.0,21.0,7.0,67.0,120.0,31.0,3.0,4.0,3,True
+660379,265455,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Round 3,2026-05-22,Breeze,2,100 Thieves,NRG,11,13,bang,3880,harbor,0.55,78.0,5.0,17.0,10.0,71.0,59.0,47.0,0.0,2.0,3,True
+660380,265457,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Lotus,1,G2 Esports,NRG,13,8,trent,15500,fade,1.49,213.0,13.0,7.0,13.0,90.0,144.0,22.0,4.0,1.0,5,True
+660380,265457,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Lotus,1,G2 Esports,NRG,13,8,BABYBAY,2170,vyse,1.33,271.0,20.0,13.0,5.0,76.0,174.0,24.0,2.0,3.0,5,True
+660380,265457,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Lotus,1,G2 Esports,NRG,13,8,leaf,7873,viper,1.09,184.0,13.0,14.0,5.0,67.0,133.0,27.0,4.0,1.0,5,True
+660380,265457,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Lotus,1,G2 Esports,NRG,13,8,valyn,3885,omen,0.97,154.0,14.0,11.0,8.0,71.0,93.0,23.0,2.0,1.0,5,True
+660380,265457,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Lotus,1,G2 Esports,NRG,13,8,jawgemo,3993,raze,0.82,196.0,15.0,15.0,4.0,76.0,142.0,25.0,2.0,1.0,5,True
+660380,265457,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Lotus,1,NRG,G2 Esports,8,13,brawk,2172,vyse,1.11,215.0,15.0,13.0,6.0,81.0,139.0,17.0,1.0,2.0,5,True
+660380,265457,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Lotus,1,NRG,G2 Esports,8,13,skuba,11118,viper,0.87,166.0,12.0,15.0,1.0,57.0,109.0,25.0,0.0,1.0,5,True
+660380,265457,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Lotus,1,NRG,G2 Esports,8,13,keiko,11494,omen,0.85,165.0,12.0,16.0,10.0,71.0,96.0,19.0,2.0,3.0,5,True
+660380,265457,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Lotus,1,NRG,G2 Esports,8,13,mada,5132,neon,0.82,185.0,14.0,16.0,2.0,48.0,122.0,38.0,3.0,5.0,5,True
+660380,265457,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Lotus,1,NRG,G2 Esports,8,13,Ethan,11225,fade,0.61,111.0,7.0,15.0,8.0,67.0,73.0,20.0,1.0,3.0,5,True
+660380,265458,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Breeze,2,G2 Esports,NRG,6,13,leaf,7873,astra,0.92,195.0,14.0,16.0,4.0,68.0,118.0,22.0,0.0,1.0,5,True
+660380,265458,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Breeze,2,G2 Esports,NRG,6,13,trent,15500,sova,0.84,216.0,14.0,16.0,2.0,63.0,158.0,54.0,0.0,2.0,5,True
+660380,265458,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Breeze,2,G2 Esports,NRG,6,13,jawgemo,3993,neon,0.74,179.0,12.0,15.0,1.0,58.0,101.0,22.0,2.0,7.0,5,True
+660380,265458,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Breeze,2,G2 Esports,NRG,6,13,valyn,3885,harbor,0.64,161.0,9.0,16.0,8.0,74.0,111.0,15.0,0.0,2.0,5,True
+660380,265458,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Breeze,2,G2 Esports,NRG,6,13,BABYBAY,2170,vyse,0.49,151.0,10.0,17.0,4.0,63.0,90.0,18.0,2.0,3.0,5,True
+660380,265458,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Breeze,2,NRG,G2 Esports,13,6,Ethan,11225,kayo,1.4,257.0,17.0,13.0,10.0,100.0,174.0,38.0,4.0,2.0,5,True
+660380,265458,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Breeze,2,NRG,G2 Esports,13,6,brawk,2172,sova,1.35,247.0,16.0,10.0,11.0,79.0,164.0,25.0,2.0,1.0,5,True
+660380,265458,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Breeze,2,NRG,G2 Esports,13,6,skuba,11118,viper,1.28,276.0,20.0,12.0,4.0,79.0,162.0,30.0,3.0,0.0,5,True
+660380,265458,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Breeze,2,NRG,G2 Esports,13,6,keiko,11494,jett,1.09,208.0,15.0,13.0,2.0,79.0,130.0,31.0,6.0,0.0,5,True
+660380,265458,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Breeze,2,NRG,G2 Esports,13,6,mada,5132,harbor,0.92,153.0,11.0,11.0,10.0,89.0,104.0,26.0,0.0,1.0,5,True
+660380,265459,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Pearl,3,G2 Esports,NRG,13,7,valyn,3885,astra,1.53,272.0,19.0,10.0,7.0,70.0,181.0,29.0,1.0,2.0,5,True
+660380,265459,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Pearl,3,G2 Esports,NRG,13,7,jawgemo,3993,neon,1.5,254.0,20.0,11.0,7.0,75.0,159.0,31.0,3.0,3.0,5,True
+660380,265459,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Pearl,3,G2 Esports,NRG,13,7,BABYBAY,2170,vyse,1.02,229.0,17.0,13.0,8.0,85.0,138.0,26.0,2.0,2.0,5,True
+660380,265459,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Pearl,3,G2 Esports,NRG,13,7,leaf,7873,phoenix,0.96,190.0,14.0,15.0,11.0,80.0,117.0,27.0,4.0,3.0,5,True
+660380,265459,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Pearl,3,G2 Esports,NRG,13,7,trent,15500,fade,0.9,129.0,8.0,11.0,9.0,75.0,93.0,23.0,0.0,0.0,5,True
+660380,265459,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Pearl,3,NRG,G2 Esports,7,13,brawk,2172,sova,1.3,259.0,16.0,14.0,6.0,80.0,185.0,22.0,3.0,1.0,5,True
+660380,265459,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Pearl,3,NRG,G2 Esports,7,13,keiko,11494,killjoy,0.85,171.0,13.0,15.0,4.0,70.0,116.0,28.0,2.0,2.0,5,True
+660380,265459,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Pearl,3,NRG,G2 Esports,7,13,mada,5132,neon,0.8,180.0,15.0,17.0,3.0,70.0,102.0,24.0,3.0,2.0,5,True
+660380,265459,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Pearl,3,NRG,G2 Esports,7,13,Ethan,11225,tejo,0.74,157.0,9.0,16.0,6.0,65.0,125.0,18.0,0.0,3.0,5,True
+660380,265459,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Pearl,3,NRG,G2 Esports,7,13,skuba,11118,astra,0.7,133.0,7.0,16.0,12.0,60.0,93.0,14.0,2.0,2.0,5,True
+660380,265460,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Haven,4,G2 Esports,NRG,10,13,trent,15500,fade,1.23,227.0,19.0,15.0,6.0,74.0,142.0,28.0,2.0,1.0,5,True
+660380,265460,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Haven,4,G2 Esports,NRG,10,13,jawgemo,3993,neon,0.99,237.0,17.0,19.0,9.0,61.0,161.0,13.0,1.0,5.0,5,True
+660380,265460,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Haven,4,G2 Esports,NRG,10,13,valyn,3885,astra,0.99,226.0,20.0,17.0,4.0,65.0,145.0,34.0,1.0,1.0,5,True
+660380,265460,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Haven,4,G2 Esports,NRG,10,13,BABYBAY,2170,chamber,0.73,167.0,13.0,18.0,2.0,61.0,111.0,36.0,6.0,1.0,5,True
+660380,265460,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Haven,4,G2 Esports,NRG,10,13,leaf,7873,phoenix,0.64,157.0,11.0,17.0,10.0,74.0,120.0,39.0,3.0,2.0,5,True
+660380,265460,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Haven,4,NRG,G2 Esports,13,10,brawk,2172,sova,1.51,241.0,22.0,13.0,5.0,87.0,146.0,14.0,1.0,0.0,5,True
+660380,265460,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Haven,4,NRG,G2 Esports,13,10,keiko,11494,phoenix,1.18,249.0,18.0,18.0,11.0,70.0,187.0,22.0,3.0,3.0,5,True
+660380,265460,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Haven,4,NRG,G2 Esports,13,10,skuba,11118,cypher,1.01,211.0,16.0,17.0,10.0,78.0,143.0,13.0,3.0,1.0,5,True
+660380,265460,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Haven,4,NRG,G2 Esports,13,10,Ethan,11225,omen,0.99,186.0,16.0,17.0,6.0,65.0,113.0,23.0,1.0,2.0,5,True
+660380,265460,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Haven,4,NRG,G2 Esports,13,10,mada,5132,neon,0.87,155.0,14.0,15.0,4.0,57.0,103.0,18.0,2.0,7.0,5,True
+660380,265461,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Ascent,5,G2 Esports,NRG,13,10,trent,15500,sova,1.43,276.0,23.0,14.0,8.0,74.0,169.0,31.0,3.0,2.0,5,True
+660380,265461,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Ascent,5,G2 Esports,NRG,13,10,leaf,7873,phoenix,1.33,317.0,24.0,16.0,10.0,83.0,199.0,30.0,4.0,3.0,5,True
+660380,265461,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Ascent,5,G2 Esports,NRG,13,10,valyn,3885,astra,1.06,177.0,15.0,12.0,10.0,78.0,114.0,27.0,2.0,0.0,5,True
+660380,265461,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Ascent,5,G2 Esports,NRG,13,10,BABYBAY,2170,vyse,0.86,175.0,12.0,15.0,9.0,87.0,136.0,26.0,2.0,1.0,5,True
+660380,265461,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Ascent,5,G2 Esports,NRG,13,10,jawgemo,3993,yoru,0.76,158.0,15.0,17.0,6.0,74.0,112.0,11.0,3.0,3.0,5,True
+660380,265461,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Ascent,5,NRG,G2 Esports,10,13,brawk,2172,sova,1.4,255.0,17.0,15.0,14.0,78.0,191.0,16.0,1.0,2.0,5,True
+660380,265461,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Ascent,5,NRG,G2 Esports,10,13,mada,5132,sage,0.92,147.0,13.0,17.0,10.0,74.0,93.0,20.0,1.0,4.0,5,True
+660380,265461,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Ascent,5,NRG,G2 Esports,10,13,keiko,11494,jett,0.92,211.0,15.0,20.0,4.0,70.0,148.0,34.0,2.0,2.0,5,True
+660380,265461,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Ascent,5,NRG,G2 Esports,10,13,skuba,11118,vyse,0.83,200.0,17.0,19.0,4.0,78.0,125.0,17.0,2.0,5.0,5,True
+660380,265461,2860,VCT 2026: Americas Stage 1,Playoffs: Lower Final,2026-05-23,Ascent,5,NRG,G2 Esports,10,13,Ethan,11225,omen,0.76,162.0,12.0,18.0,8.0,78.0,113.0,43.0,3.0,1.0,5,True
+660374,265437,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Fracture,1,LEVIATÁN,G2 Esports,12,14,kiNgg,8549,breach,1.44,235.0,23.0,14.0,9.0,88.0,164.0,29.0,1.0,0.0,5,True
+660374,265437,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Fracture,1,LEVIATÁN,G2 Esports,12,14,Neon,29243,brimstone,1.05,201.0,18.0,19.0,10.0,65.0,145.0,36.0,1.0,1.0,5,True
+660374,265437,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Fracture,1,LEVIATÁN,G2 Esports,12,14,Sato,21659,waylay,1.03,247.0,22.0,21.0,7.0,73.0,161.0,31.0,7.0,3.0,5,True
+660374,265437,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Fracture,1,LEVIATÁN,G2 Esports,12,14,blowz,21251,tejo,0.9,180.0,16.0,20.0,4.0,81.0,131.0,31.0,1.0,0.0,5,True
+660374,265437,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Fracture,1,LEVIATÁN,G2 Esports,12,14,spike,21661,neon,0.46,164.0,14.0,23.0,7.0,62.0,105.0,15.0,4.0,8.0,5,True
+660374,265437,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Fracture,1,G2 Esports,LEVIATÁN,14,12,trent,15500,fade,1.39,246.0,24.0,15.0,4.0,77.0,169.0,50.0,2.0,1.0,5,True
+660374,265437,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Fracture,1,G2 Esports,LEVIATÁN,14,12,leaf,7873,sage,1.39,261.0,24.0,17.0,9.0,69.0,178.0,24.0,2.0,4.0,5,True
+660374,265437,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Fracture,1,G2 Esports,LEVIATÁN,14,12,jawgemo,3993,neon,0.84,196.0,18.0,20.0,7.0,65.0,125.0,18.0,2.0,3.0,5,True
+660374,265437,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Fracture,1,G2 Esports,LEVIATÁN,14,12,valyn,3885,brimstone,0.82,174.0,16.0,21.0,12.0,85.0,102.0,20.0,3.0,3.0,5,True
+660374,265437,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Fracture,1,G2 Esports,LEVIATÁN,14,12,BABYBAY,2170,chamber,0.69,161.0,15.0,20.0,3.0,69.0,100.0,19.0,3.0,3.0,5,True
+660374,265438,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Haven,2,LEVIATÁN,G2 Esports,13,11,blowz,21251,sova,1.74,293.0,22.0,12.0,15.0,88.0,199.0,38.0,3.0,0.0,5,True
+660374,265438,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Haven,2,LEVIATÁN,G2 Esports,13,11,Neon,29243,chamber,1.15,194.0,19.0,15.0,2.0,63.0,130.0,41.0,4.0,2.0,5,True
+660374,265438,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Haven,2,LEVIATÁN,G2 Esports,13,11,Sato,21659,phoenix,1.12,227.0,20.0,16.0,8.0,79.0,152.0,34.0,2.0,1.0,5,True
+660374,265438,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Haven,2,LEVIATÁN,G2 Esports,13,11,kiNgg,8549,astra,0.85,147.0,14.0,15.0,10.0,67.0,92.0,24.0,1.0,1.0,5,True
+660374,265438,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Haven,2,LEVIATÁN,G2 Esports,13,11,spike,21661,neon,0.82,204.0,17.0,18.0,4.0,63.0,114.0,19.0,4.0,6.0,5,True
+660374,265438,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Haven,2,G2 Esports,LEVIATÁN,11,13,valyn,3885,astra,1.15,181.0,15.0,16.0,12.0,54.0,129.0,53.0,0.0,2.0,5,True
+660374,265438,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Haven,2,G2 Esports,LEVIATÁN,11,13,jawgemo,3993,neon,0.93,232.0,19.0,19.0,8.0,71.0,141.0,23.0,5.0,5.0,5,True
+660374,265438,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Haven,2,G2 Esports,LEVIATÁN,11,13,BABYBAY,2170,chamber,0.93,188.0,17.0,19.0,4.0,58.0,115.0,21.0,4.0,2.0,5,True
+660374,265438,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Haven,2,G2 Esports,LEVIATÁN,11,13,trent,15500,fade,0.73,162.0,15.0,18.0,6.0,67.0,106.0,40.0,1.0,3.0,5,True
+660374,265438,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Haven,2,G2 Esports,LEVIATÁN,11,13,leaf,7873,phoenix,0.55,136.0,10.0,20.0,8.0,71.0,93.0,11.0,0.0,2.0,5,True
+660374,265439,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Ascent,3,LEVIATÁN,G2 Esports,13,9,Sato,21659,phoenix,1.39,275.0,22.0,14.0,6.0,86.0,172.0,36.0,4.0,1.0,5,True
+660374,265439,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Ascent,3,LEVIATÁN,G2 Esports,13,9,Neon,29243,chamber,1.34,243.0,20.0,12.0,3.0,68.0,170.0,13.0,3.0,1.0,5,True
+660374,265439,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Ascent,3,LEVIATÁN,G2 Esports,13,9,blowz,21251,sova,1.29,196.0,14.0,11.0,7.0,82.0,148.0,33.0,0.0,0.0,5,True
+660374,265439,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Ascent,3,LEVIATÁN,G2 Esports,13,9,spike,21661,neon,0.93,224.0,18.0,18.0,3.0,73.0,117.0,11.0,6.0,3.0,5,True
+660374,265439,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Ascent,3,LEVIATÁN,G2 Esports,13,9,kiNgg,8549,omen,0.67,149.0,11.0,16.0,10.0,77.0,107.0,42.0,1.0,3.0,5,True
+660374,265439,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Ascent,3,G2 Esports,LEVIATÁN,9,13,leaf,7873,phoenix,1.13,255.0,20.0,18.0,14.0,82.0,166.0,36.0,1.0,4.0,5,True
+660374,265439,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Ascent,3,G2 Esports,LEVIATÁN,9,13,trent,15500,sova,1.03,198.0,13.0,17.0,11.0,77.0,151.0,15.0,0.0,0.0,5,True
+660374,265439,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Ascent,3,G2 Esports,LEVIATÁN,9,13,BABYBAY,2170,vyse,0.87,175.0,14.0,16.0,6.0,68.0,132.0,17.0,1.0,2.0,5,True
+660374,265439,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Ascent,3,G2 Esports,LEVIATÁN,9,13,jawgemo,3993,yoru,0.8,138.0,11.0,15.0,2.0,50.0,85.0,22.0,4.0,4.0,5,True
+660374,265439,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Ascent,3,G2 Esports,LEVIATÁN,9,13,valyn,3885,astra,0.74,186.0,13.0,19.0,9.0,59.0,120.0,21.0,2.0,4.0,5,True
+660374,265440,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Pearl,4,LEVIATÁN,G2 Esports,10,13,spike,21661,neon,1.26,306.0,25.0,17.0,4.0,74.0,172.0,18.0,5.0,2.0,5,True
+660374,265440,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Pearl,4,LEVIATÁN,G2 Esports,10,13,Sato,21659,phoenix,0.91,191.0,15.0,17.0,12.0,70.0,144.0,32.0,1.0,2.0,5,True
+660374,265440,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Pearl,4,LEVIATÁN,G2 Esports,10,13,Neon,29243,chamber,0.91,157.0,12.0,13.0,6.0,65.0,107.0,21.0,4.0,6.0,5,True
+660374,265440,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Pearl,4,LEVIATÁN,G2 Esports,10,13,kiNgg,8549,astra,0.88,154.0,13.0,15.0,3.0,78.0,99.0,22.0,3.0,0.0,5,True
+660374,265440,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Pearl,4,LEVIATÁN,G2 Esports,10,13,blowz,21251,sova,0.84,145.0,10.0,12.0,6.0,87.0,108.0,31.0,0.0,0.0,5,True
+660374,265440,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Pearl,4,G2 Esports,LEVIATÁN,13,10,jawgemo,3993,neon,1.41,311.0,25.0,17.0,8.0,78.0,191.0,17.0,7.0,5.0,5,True
+660374,265440,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Pearl,4,G2 Esports,LEVIATÁN,13,10,leaf,7873,phoenix,1.2,188.0,15.0,13.0,7.0,65.0,131.0,25.0,1.0,3.0,5,True
+660374,265440,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Pearl,4,G2 Esports,LEVIATÁN,13,10,BABYBAY,2170,vyse,1.17,231.0,18.0,15.0,5.0,83.0,143.0,21.0,2.0,0.0,5,True
+660374,265440,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Pearl,4,G2 Esports,LEVIATÁN,13,10,trent,15500,fade,0.72,126.0,9.0,16.0,6.0,78.0,93.0,22.0,0.0,0.0,5,True
+660374,265440,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Pearl,4,G2 Esports,LEVIATÁN,13,10,valyn,3885,astra,0.63,84.0,7.0,14.0,2.0,70.0,64.0,32.0,0.0,5.0,5,True
+660374,265441,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Split,5,LEVIATÁN,G2 Esports,11,13,Neon,29243,omen,1.39,245.0,22.0,13.0,8.0,92.0,158.0,27.0,0.0,0.0,5,True
+660374,265441,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Split,5,LEVIATÁN,G2 Esports,11,13,blowz,21251,fade,1.3,246.0,22.0,14.0,4.0,79.0,165.0,31.0,3.0,1.0,5,True
+660374,265441,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Split,5,LEVIATÁN,G2 Esports,11,13,kiNgg,8549,viper,0.91,171.0,15.0,15.0,10.0,83.0,113.0,23.0,1.0,2.0,5,True
+660374,265441,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Split,5,LEVIATÁN,G2 Esports,11,13,Sato,21659,phoenix,0.82,194.0,15.0,20.0,8.0,67.0,131.0,24.0,6.0,1.0,5,True
+660374,265441,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Split,5,LEVIATÁN,G2 Esports,11,13,spike,21661,neon,0.47,160.0,13.0,21.0,3.0,63.0,94.0,20.0,6.0,4.0,5,True
+660374,265441,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Split,5,G2 Esports,LEVIATÁN,13,11,valyn,3885,astra,1.4,209.0,22.0,12.0,5.0,75.0,126.0,30.0,1.0,3.0,5,True
+660374,265441,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Split,5,G2 Esports,LEVIATÁN,13,11,jawgemo,3993,raze,1.1,209.0,16.0,18.0,6.0,71.0,139.0,13.0,3.0,3.0,5,True
+660374,265441,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Split,5,G2 Esports,LEVIATÁN,13,11,leaf,7873,viper,0.97,200.0,18.0,19.0,5.0,63.0,141.0,16.0,1.0,5.0,5,True
+660374,265441,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Split,5,G2 Esports,LEVIATÁN,13,11,trent,15500,fade,0.93,175.0,14.0,18.0,8.0,88.0,127.0,47.0,2.0,2.0,5,True
+660374,265441,2860,VCT 2026: Americas Stage 1,Playoffs: Grand Final,2026-05-24,Split,5,G2 Esports,LEVIATÁN,13,11,BABYBAY,2170,vyse,0.67,188.0,13.0,20.0,9.0,67.0,133.0,23.0,1.0,3.0,5,True

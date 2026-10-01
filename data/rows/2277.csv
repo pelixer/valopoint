@@ -1,0 +1,631 @@
+match_id,game_id,event_id,event,stage,date,map,map_order,team,opp,team_rounds,opp_rounds,player,player_id,agent,rating,acs,k,d,a,kast,adr,hs,fk,fd,best_of,completed
+430514,196410,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Pearl,1,BOOM Esports,T1,11,13,dos9,16215,astra,1.27,221.0,20.0,16.0,6.0,75.0,137.0,32.0,1.0,1.0,3,True
+430514,196410,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Pearl,1,BOOM Esports,T1,11,13,BerserX,4874,killjoy,1.17,210.0,18.0,14.0,4.0,79.0,143.0,22.0,1.0,2.0,3,True
+430514,196410,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Pearl,1,BOOM Esports,T1,11,13,Shiro,10739,kayo,0.84,166.0,13.0,19.0,7.0,67.0,106.0,9.0,1.0,1.0,3,True
+430514,196410,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Pearl,1,BOOM Esports,T1,11,13,NcSlasher,7043,fade,0.8,163.0,13.0,16.0,5.0,63.0,106.0,41.0,1.0,3.0,3,True
+430514,196410,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Pearl,1,BOOM Esports,T1,11,13,Famouz,2348,neon,0.59,142.0,11.0,18.0,2.0,54.0,88.0,12.0,3.0,10.0,3,True
+430514,196410,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Pearl,1,T1,BOOM Esports,13,11,Meteor,13039,killjoy,1.37,292.0,25.0,16.0,1.0,71.0,195.0,35.0,6.0,0.0,3,True
+430514,196410,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Pearl,1,T1,BOOM Esports,13,11,stax,485,sova,1.07,174.0,16.0,14.0,4.0,79.0,114.0,36.0,1.0,1.0,3,True
+430514,196410,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Pearl,1,T1,BOOM Esports,13,11,BuZz,804,neon,1.03,201.0,16.0,14.0,7.0,71.0,127.0,23.0,5.0,3.0,3,True
+430514,196410,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Pearl,1,T1,BOOM Esports,13,11,Sylvan,4056,astra,0.85,147.0,14.0,16.0,11.0,75.0,97.0,30.0,2.0,0.0,3,True
+430514,196410,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Pearl,1,T1,BOOM Esports,13,11,iZu,29833,yoru,0.78,149.0,12.0,15.0,5.0,71.0,109.0,22.0,3.0,3.0,3,True
+430514,196411,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Bind,2,BOOM Esports,T1,13,8,Shiro,10739,kayo,1.54,244.0,18.0,10.0,15.0,86.0,141.0,28.0,5.0,4.0,3,True
+430514,196411,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Bind,2,BOOM Esports,T1,13,8,BerserX,4874,vyse,1.5,283.0,22.0,11.0,4.0,76.0,170.0,35.0,3.0,1.0,3,True
+430514,196411,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Bind,2,BOOM Esports,T1,13,8,Famouz,2348,raze,1.28,256.0,19.0,12.0,5.0,76.0,175.0,18.0,2.0,1.0,3,True
+430514,196411,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Bind,2,BOOM Esports,T1,13,8,NcSlasher,7043,fade,1.05,187.0,14.0,14.0,13.0,81.0,113.0,38.0,2.0,1.0,3,True
+430514,196411,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Bind,2,BOOM Esports,T1,13,8,dos9,16215,brimstone,0.82,132.0,8.0,14.0,14.0,76.0,92.0,32.0,1.0,1.0,3,True
+430514,196411,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Bind,2,T1,BOOM Esports,8,13,BuZz,804,raze,1.26,255.0,20.0,14.0,1.0,67.0,159.0,7.0,4.0,3.0,3,True
+430514,196411,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Bind,2,T1,BOOM Esports,8,13,iZu,29833,gekko,0.89,178.0,12.0,17.0,6.0,57.0,122.0,37.0,3.0,1.0,3,True
+430514,196411,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Bind,2,T1,BOOM Esports,8,13,stax,485,kayo,0.88,156.0,11.0,16.0,10.0,57.0,114.0,21.0,1.0,1.0,3,True
+430514,196411,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Bind,2,T1,BOOM Esports,8,13,Sylvan,4056,brimstone,0.61,137.0,10.0,18.0,8.0,62.0,108.0,21.0,0.0,2.0,3,True
+430514,196411,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Bind,2,T1,BOOM Esports,8,13,Meteor,13039,vyse,0.48,122.0,8.0,16.0,3.0,52.0,80.0,25.0,0.0,6.0,3,True
+430514,196412,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Fracture,3,BOOM Esports,T1,7,13,Famouz,2348,neon,1.59,320.0,24.0,15.0,4.0,80.0,178.0,13.0,8.0,2.0,3,True
+430514,196412,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Fracture,3,BOOM Esports,T1,7,13,dos9,16215,brimstone,1.12,210.0,14.0,15.0,12.0,90.0,152.0,27.0,1.0,0.0,3,True
+430514,196412,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Fracture,3,BOOM Esports,T1,7,13,BerserX,4874,cypher,0.64,139.0,10.0,16.0,2.0,55.0,102.0,23.0,3.0,0.0,3,True
+430514,196412,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Fracture,3,BOOM Esports,T1,7,13,Shiro,10739,tejo,0.54,140.0,8.0,16.0,7.0,55.0,99.0,13.0,2.0,2.0,3,True
+430514,196412,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Fracture,3,BOOM Esports,T1,7,13,NcSlasher,7043,breach,0.37,83.0,5.0,17.0,8.0,65.0,55.0,8.0,0.0,2.0,3,True
+430514,196412,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Fracture,3,T1,BOOM Esports,13,7,Sylvan,4056,brimstone,1.66,251.0,19.0,11.0,13.0,90.0,159.0,26.0,0.0,1.0,3,True
+430514,196412,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Fracture,3,T1,BOOM Esports,13,7,iZu,29833,raze,1.4,287.0,22.0,12.0,1.0,80.0,170.0,25.0,1.0,3.0,3,True
+430514,196412,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Fracture,3,T1,BOOM Esports,13,7,Meteor,13039,killjoy,0.97,229.0,16.0,13.0,4.0,65.0,155.0,44.0,2.0,4.0,3,True
+430514,196412,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Fracture,3,T1,BOOM Esports,13,7,stax,485,breach,0.96,135.0,9.0,11.0,10.0,70.0,96.0,17.0,2.0,2.0,3,True
+430514,196412,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Fracture,3,T1,BOOM Esports,13,7,BuZz,804,neon,0.81,186.0,13.0,15.0,3.0,65.0,116.0,29.0,1.0,4.0,3,True
+430515,196413,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Split,1,ZETA DIVISION,Nongshim RedForce,9,13,SugarZ3ro,6668,omen,1.06,212.0,16.0,15.0,9.0,68.0,135.0,46.0,2.0,0.0,3,True
+430515,196413,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Split,1,ZETA DIVISION,Nongshim RedForce,9,13,Dep,424,raze,1.01,253.0,19.0,17.0,3.0,68.0,149.0,15.0,3.0,5.0,3,True
+430515,196413,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Split,1,ZETA DIVISION,Nongshim RedForce,9,13,Xdll,25221,fade,0.92,189.0,14.0,16.0,1.0,68.0,118.0,45.0,3.0,1.0,3,True
+430515,196413,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Split,1,ZETA DIVISION,Nongshim RedForce,9,13,CLZ,2615,breach,0.83,190.0,14.0,18.0,7.0,73.0,122.0,35.0,0.0,4.0,3,True
+430515,196413,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Split,1,ZETA DIVISION,Nongshim RedForce,9,13,SyouTa,12990,cypher,0.72,175.0,14.0,17.0,3.0,64.0,107.0,39.0,1.0,3.0,3,True
+430515,196413,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Split,1,Nongshim RedForce,ZETA DIVISION,13,9,Persia,4122,astra,1.48,247.0,21.0,14.0,8.0,82.0,165.0,24.0,1.0,2.0,3,True
+430515,196413,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Split,1,Nongshim RedForce,ZETA DIVISION,13,9,Ivy,31829,fade,1.43,292.0,24.0,15.0,5.0,73.0,181.0,31.0,3.0,0.0,3,True
+430515,196413,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Split,1,Nongshim RedForce,ZETA DIVISION,13,9,Francis,31828,kayo,0.99,178.0,13.0,15.0,15.0,73.0,117.0,15.0,1.0,0.0,3,True
+430515,196413,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Split,1,Nongshim RedForce,ZETA DIVISION,13,9,margaret,33576,cypher,0.91,171.0,13.0,16.0,10.0,77.0,104.0,25.0,4.0,2.0,3,True
+430515,196413,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Split,1,Nongshim RedForce,ZETA DIVISION,13,9,Dambi,31827,neon,0.72,186.0,12.0,17.0,8.0,68.0,113.0,8.0,4.0,5.0,3,True
+430515,196414,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Haven,2,ZETA DIVISION,Nongshim RedForce,9,13,CLZ,2615,breach,1.25,192.0,15.0,13.0,9.0,82.0,125.0,40.0,1.0,1.0,3,True
+430515,196414,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Haven,2,ZETA DIVISION,Nongshim RedForce,9,13,Dep,424,neon,1.03,197.0,15.0,15.0,7.0,64.0,119.0,35.0,5.0,3.0,3,True
+430515,196414,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Haven,2,ZETA DIVISION,Nongshim RedForce,9,13,SyouTa,12990,cypher,0.75,161.0,13.0,19.0,5.0,64.0,104.0,40.0,3.0,0.0,3,True
+430515,196414,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Haven,2,ZETA DIVISION,Nongshim RedForce,9,13,SugarZ3ro,6668,omen,0.7,140.0,10.0,16.0,8.0,68.0,99.0,37.0,1.0,2.0,3,True
+430515,196414,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Haven,2,ZETA DIVISION,Nongshim RedForce,9,13,Xdll,25221,sova,0.57,188.0,13.0,20.0,3.0,55.0,123.0,31.0,1.0,5.0,3,True
+430515,196414,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Haven,2,Nongshim RedForce,ZETA DIVISION,13,9,Persia,4122,omen,1.33,225.0,18.0,12.0,14.0,86.0,139.0,27.0,3.0,0.0,3,True
+430515,196414,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Haven,2,Nongshim RedForce,ZETA DIVISION,13,9,Francis,31828,breach,1.26,225.0,18.0,15.0,15.0,100.0,146.0,31.0,1.0,3.0,3,True
+430515,196414,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Haven,2,Nongshim RedForce,ZETA DIVISION,13,9,Ivy,31829,sova,1.23,208.0,16.0,12.0,9.0,82.0,135.0,22.0,2.0,2.0,3,True
+430515,196414,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Haven,2,Nongshim RedForce,ZETA DIVISION,13,9,margaret,33576,cypher,1.18,159.0,14.0,9.0,2.0,86.0,98.0,46.0,2.0,3.0,3,True
+430515,196414,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-18,Haven,2,Nongshim RedForce,ZETA DIVISION,13,9,Dambi,31827,neon,0.94,250.0,17.0,18.0,11.0,82.0,154.0,16.0,3.0,3.0,3,True
+430516,196416,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Global Esports,Team Secret,3,13,Papi,13219,omen,0.93,185.0,10.0,11.0,4.0,63.0,130.0,45.0,1.0,0.0,3,True
+430516,196416,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Global Esports,Team Secret,3,13,Deryeon,9152,astra,0.85,132.0,8.0,12.0,6.0,63.0,79.0,14.0,0.0,2.0,3,True
+430516,196416,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Global Esports,Team Secret,3,13,Kr1stal,5796,sova,0.8,201.0,9.0,14.0,6.0,75.0,145.0,26.0,3.0,1.0,3,True
+430516,196416,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Global Esports,Team Secret,3,13,kellyS,7437,kayo,0.66,168.0,8.0,16.0,10.0,63.0,114.0,23.0,0.0,1.0,3,True
+430516,196416,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Global Esports,Team Secret,3,13,UdoTan,4428,jett,0.49,157.0,9.0,15.0,1.0,56.0,92.0,45.0,3.0,5.0,3,True
+430516,196416,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Team Secret,Global Esports,13,3,Jremy,7405,jett,1.69,364.0,21.0,10.0,3.0,81.0,229.0,31.0,4.0,3.0,3,True
+430516,196416,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Team Secret,Global Esports,13,3,2GE,9735,omen,1.46,271.0,16.0,10.0,9.0,100.0,156.0,12.0,3.0,0.0,3,True
+430516,196416,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Team Secret,Global Esports,13,3,invy,8504,kayo,1.27,218.0,14.0,9.0,8.0,94.0,132.0,48.0,1.0,1.0,3,True
+430516,196416,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Team Secret,Global Esports,13,3,JessieVash,2334,sova,1.18,159.0,11.0,7.0,8.0,88.0,117.0,50.0,0.0,1.0,3,True
+430516,196416,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Team Secret,Global Esports,13,3,Wild0reoo,9740,cypher,0.85,134.0,6.0,8.0,5.0,75.0,96.0,25.0,1.0,2.0,3,True
+430516,196417,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Split,2,Global Esports,Team Secret,13,7,UdoTan,4428,raze,1.46,308.0,21.0,16.0,3.0,65.0,185.0,22.0,1.0,3.0,3,True
+430516,196417,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Split,2,Global Esports,Team Secret,13,7,Kr1stal,5796,fade,1.4,227.0,17.0,11.0,4.0,70.0,156.0,27.0,0.0,4.0,3,True
+430516,196417,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Split,2,Global Esports,Team Secret,13,7,Papi,13219,astra,1.3,198.0,16.0,12.0,5.0,70.0,122.0,37.0,3.0,0.0,3,True
+430516,196417,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Split,2,Global Esports,Team Secret,13,7,Deryeon,9152,cypher,0.78,133.0,9.0,13.0,5.0,65.0,94.0,26.0,0.0,4.0,3,True
+430516,196417,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Split,2,Global Esports,Team Secret,13,7,kellyS,7437,deadlock,0.73,181.0,12.0,17.0,6.0,60.0,112.0,25.0,3.0,2.0,3,True
+430516,196417,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Split,2,Team Secret,Global Esports,7,13,JessieVash,2334,cypher,1.04,227.0,16.0,15.0,4.0,65.0,161.0,33.0,1.0,1.0,3,True
+430516,196417,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Split,2,Team Secret,Global Esports,7,13,Wild0reoo,9740,skye,0.97,225.0,17.0,15.0,3.0,70.0,147.0,43.0,2.0,0.0,3,True
+430516,196417,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Split,2,Team Secret,Global Esports,7,13,Jremy,7405,raze,0.93,264.0,18.0,16.0,1.0,60.0,162.0,23.0,7.0,1.0,3,True
+430516,196417,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Split,2,Team Secret,Global Esports,7,13,invy,8504,deadlock,0.61,157.0,11.0,15.0,6.0,75.0,101.0,17.0,1.0,1.0,3,True
+430516,196417,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Split,2,Team Secret,Global Esports,7,13,2GE,9735,astra,0.55,100.0,7.0,14.0,5.0,55.0,65.0,17.0,2.0,4.0,3,True
+430516,196418,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,3,Global Esports,Team Secret,13,6,Papi,13219,astra,1.42,209.0,15.0,8.0,9.0,84.0,132.0,39.0,1.0,0.0,3,True
+430516,196418,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,3,Global Esports,Team Secret,13,6,Deryeon,9152,killjoy,1.25,206.0,16.0,7.0,0.0,89.0,144.0,27.0,1.0,0.0,3,True
+430516,196418,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,3,Global Esports,Team Secret,13,6,Kr1stal,5796,sova,1.18,225.0,14.0,10.0,7.0,74.0,155.0,29.0,3.0,3.0,3,True
+430516,196418,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,3,Global Esports,Team Secret,13,6,kellyS,7437,vyse,1.13,204.0,13.0,12.0,7.0,79.0,143.0,19.0,0.0,2.0,3,True
+430516,196418,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,3,Global Esports,Team Secret,13,6,UdoTan,4428,jett,0.74,168.0,12.0,13.0,2.0,79.0,109.0,19.0,7.0,2.0,3,True
+430516,196418,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,3,Team Secret,Global Esports,6,13,Jremy,7405,jett,0.96,186.0,13.0,12.0,0.0,53.0,103.0,27.0,3.0,3.0,3,True
+430516,196418,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,3,Team Secret,Global Esports,6,13,2GE,9735,astra,0.8,167.0,10.0,13.0,5.0,74.0,101.0,14.0,3.0,2.0,3,True
+430516,196418,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,3,Team Secret,Global Esports,6,13,JessieVash,2334,sova,0.79,204.0,12.0,17.0,3.0,47.0,141.0,52.0,1.0,4.0,3,True
+430516,196418,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,3,Team Secret,Global Esports,6,13,Wild0reoo,9740,killjoy,0.77,155.0,9.0,14.0,4.0,74.0,113.0,26.0,0.0,1.0,3,True
+430516,196418,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,3,Team Secret,Global Esports,6,13,invy,8504,kayo,0.68,115.0,6.0,14.0,9.0,79.0,76.0,23.0,0.0,2.0,3,True
+430517,196419,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,DetonatioN FocusMe,Rex Regum Qeon,14,12,Meiy,6672,jett,1.62,322.0,32.0,18.0,1.0,69.0,210.0,40.0,4.0,4.0,3,True
+430517,196419,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,DetonatioN FocusMe,Rex Regum Qeon,14,12,Jinboong,4052,astra,0.89,201.0,19.0,19.0,3.0,65.0,127.0,43.0,1.0,4.0,3,True
+430517,196419,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,DetonatioN FocusMe,Rex Regum Qeon,14,12,Art,10627,sova,0.84,187.0,16.0,19.0,5.0,69.0,119.0,10.0,3.0,4.0,3,True
+430517,196419,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,DetonatioN FocusMe,Rex Regum Qeon,14,12,Akame,13002,kayo,0.76,156.0,13.0,20.0,8.0,77.0,110.0,36.0,1.0,2.0,3,True
+430517,196419,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,DetonatioN FocusMe,Rex Regum Qeon,14,12,gyen,48577,omen,0.73,133.0,13.0,18.0,8.0,62.0,93.0,30.0,1.0,2.0,3,True
+430517,196419,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Rex Regum Qeon,DetonatioN FocusMe,12,14,Jemkin,24895,jett,1.34,267.0,25.0,18.0,5.0,81.0,169.0,22.0,7.0,3.0,3,True
+430517,196419,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Rex Regum Qeon,DetonatioN FocusMe,12,14,Kushy,4866,sova,1.25,222.0,21.0,17.0,9.0,77.0,142.0,46.0,2.0,1.0,3,True
+430517,196419,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Rex Regum Qeon,DetonatioN FocusMe,12,14,xffero,4871,astra,0.91,164.0,16.0,18.0,9.0,73.0,111.0,34.0,2.0,1.0,3,True
+430517,196419,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Rex Regum Qeon,DetonatioN FocusMe,12,14,Monyet,8497,omen,0.88,172.0,18.0,19.0,8.0,65.0,114.0,44.0,2.0,1.0,3,True
+430517,196419,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Abyss,1,Rex Regum Qeon,DetonatioN FocusMe,12,14,Estrella,25025,kayo,0.76,174.0,14.0,21.0,16.0,77.0,118.0,15.0,3.0,4.0,3,True
+430517,196420,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,2,DetonatioN FocusMe,Rex Regum Qeon,3,13,Jinboong,4052,killjoy,0.86,188.0,11.0,11.0,0.0,75.0,126.0,31.0,3.0,3.0,3,True
+430517,196420,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,2,DetonatioN FocusMe,Rex Regum Qeon,3,13,Art,10627,sova,0.85,196.0,11.0,13.0,3.0,56.0,123.0,43.0,1.0,2.0,3,True
+430517,196420,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,2,DetonatioN FocusMe,Rex Regum Qeon,3,13,Meiy,6672,yoru,0.6,166.0,10.0,15.0,3.0,75.0,109.0,32.0,2.0,1.0,3,True
+430517,196420,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,2,DetonatioN FocusMe,Rex Regum Qeon,3,13,gyen,48577,astra,0.5,108.0,4.0,12.0,9.0,69.0,75.0,27.0,1.0,0.0,3,True
+430517,196420,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,2,DetonatioN FocusMe,Rex Regum Qeon,3,13,Akame,13002,iso,0.36,143.0,8.0,16.0,2.0,63.0,89.0,33.0,0.0,3.0,3,True
+430517,196420,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,2,Rex Regum Qeon,DetonatioN FocusMe,13,3,Kushy,4866,sova,1.59,252.0,15.0,8.0,5.0,94.0,184.0,38.0,1.0,0.0,3,True
+430517,196420,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,2,Rex Regum Qeon,DetonatioN FocusMe,13,3,Jemkin,24895,jett,1.54,338.0,21.0,12.0,1.0,81.0,222.0,38.0,5.0,3.0,3,True
+430517,196420,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,2,Rex Regum Qeon,DetonatioN FocusMe,13,3,Estrella,25025,astra,1.53,202.0,14.0,6.0,2.0,75.0,138.0,43.0,2.0,2.0,3,True
+430517,196420,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,2,Rex Regum Qeon,DetonatioN FocusMe,13,3,Monyet,8497,phoenix,1.04,180.0,10.0,10.0,7.0,94.0,118.0,43.0,0.0,0.0,3,True
+430517,196420,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Pearl,2,Rex Regum Qeon,DetonatioN FocusMe,13,3,xffero,4871,vyse,0.85,120.0,7.0,8.0,5.0,81.0,76.0,25.0,1.0,2.0,3,True
+430517,196421,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Haven,3,DetonatioN FocusMe,Rex Regum Qeon,3,13,Akame,13002,breach,1.16,261.0,15.0,13.0,4.0,75.0,169.0,45.0,3.0,3.0,3,True
+430517,196421,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Haven,3,DetonatioN FocusMe,Rex Regum Qeon,3,13,gyen,48577,omen,0.81,205.0,11.0,15.0,3.0,56.0,140.0,22.0,1.0,3.0,3,True
+430517,196421,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Haven,3,DetonatioN FocusMe,Rex Regum Qeon,3,13,Jinboong,4052,cypher,0.65,96.0,5.0,11.0,2.0,50.0,77.0,20.0,0.0,1.0,3,True
+430517,196421,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Haven,3,DetonatioN FocusMe,Rex Regum Qeon,3,13,Meiy,6672,neon,0.6,127.0,7.0,13.0,2.0,56.0,77.0,43.0,2.0,2.0,3,True
+430517,196421,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Haven,3,DetonatioN FocusMe,Rex Regum Qeon,3,13,Art,10627,sova,0.44,137.0,6.0,14.0,3.0,50.0,89.0,22.0,0.0,1.0,3,True
+430517,196421,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Haven,3,Rex Regum Qeon,DetonatioN FocusMe,13,3,Jemkin,24895,jett,1.89,385.0,24.0,9.0,2.0,69.0,233.0,28.0,4.0,1.0,3,True
+430517,196421,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Haven,3,Rex Regum Qeon,DetonatioN FocusMe,13,3,Kushy,4866,sova,1.22,215.0,12.0,7.0,2.0,69.0,144.0,32.0,1.0,0.0,3,True
+430517,196421,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Haven,3,Rex Regum Qeon,DetonatioN FocusMe,13,3,xffero,4871,killjoy,1.18,236.0,14.0,11.0,3.0,94.0,169.0,39.0,3.0,1.0,3,True
+430517,196421,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Haven,3,Rex Regum Qeon,DetonatioN FocusMe,13,3,Monyet,8497,omen,1.14,181.0,10.0,9.0,14.0,88.0,105.0,29.0,2.0,3.0,3,True
+430517,196421,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Round 1,2025-01-19,Haven,3,Rex Regum Qeon,DetonatioN FocusMe,13,3,Estrella,25025,breach,0.88,124.0,6.0,8.0,12.0,88.0,77.0,15.0,0.0,1.0,3,True
+430521,196431,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Lotus,1,KIWOOM DRX,Nongshim RedForce,13,11,MaKo,4462,omen,1.28,269.0,22.0,18.0,8.0,88.0,170.0,35.0,5.0,1.0,3,True
+430521,196431,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Lotus,1,KIWOOM DRX,Nongshim RedForce,13,11,free1ng,1916,tejo,1.24,221.0,21.0,14.0,5.0,79.0,147.0,37.0,1.0,1.0,3,True
+430521,196431,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Lotus,1,KIWOOM DRX,Nongshim RedForce,13,11,HYUNMIN,28400,raze,1.2,296.0,25.0,18.0,2.0,83.0,197.0,32.0,7.0,3.0,3,True
+430521,196431,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Lotus,1,KIWOOM DRX,Nongshim RedForce,13,11,BeYN,4678,fade,0.9,153.0,13.0,15.0,7.0,79.0,106.0,30.0,0.0,1.0,3,True
+430521,196431,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Lotus,1,KIWOOM DRX,Nongshim RedForce,13,11,Flashback,35013,viper,0.5,128.0,8.0,18.0,7.0,75.0,90.0,29.0,0.0,5.0,3,True
+430521,196431,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Lotus,1,Nongshim RedForce,KIWOOM DRX,11,13,Ivy,31829,viper,1.17,222.0,16.0,17.0,18.0,92.0,137.0,30.0,1.0,2.0,3,True
+430521,196431,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Lotus,1,Nongshim RedForce,KIWOOM DRX,11,13,Francis,31828,fade,1.13,224.0,18.0,18.0,10.0,75.0,137.0,31.0,4.0,1.0,3,True
+430521,196431,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Lotus,1,Nongshim RedForce,KIWOOM DRX,11,13,margaret,33576,cypher,1.03,179.0,16.0,15.0,6.0,71.0,109.0,20.0,3.0,2.0,3,True
+430521,196431,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Lotus,1,Nongshim RedForce,KIWOOM DRX,11,13,Persia,4122,omen,0.97,185.0,16.0,18.0,12.0,71.0,113.0,31.0,0.0,1.0,3,True
+430521,196431,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Lotus,1,Nongshim RedForce,KIWOOM DRX,11,13,Dambi,31827,neon,0.64,180.0,17.0,21.0,8.0,79.0,94.0,18.0,3.0,7.0,3,True
+430521,196432,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Pearl,2,KIWOOM DRX,Nongshim RedForce,6,13,HYUNMIN,28400,jett,1.18,261.0,16.0,14.0,6.0,79.0,161.0,22.0,5.0,3.0,3,True
+430521,196432,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Pearl,2,KIWOOM DRX,Nongshim RedForce,6,13,free1ng,1916,tejo,1.02,247.0,15.0,16.0,5.0,68.0,164.0,27.0,3.0,1.0,3,True
+430521,196432,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Pearl,2,KIWOOM DRX,Nongshim RedForce,6,13,Flashback,35013,killjoy,0.94,208.0,13.0,13.0,4.0,84.0,152.0,19.0,0.0,0.0,3,True
+430521,196432,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Pearl,2,KIWOOM DRX,Nongshim RedForce,6,13,BeYN,4678,sova,0.69,114.0,7.0,13.0,4.0,68.0,72.0,28.0,0.0,2.0,3,True
+430521,196432,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Pearl,2,KIWOOM DRX,Nongshim RedForce,6,13,MaKo,4462,astra,0.52,135.0,9.0,14.0,4.0,63.0,91.0,25.0,2.0,3.0,3,True
+430521,196432,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Pearl,2,Nongshim RedForce,KIWOOM DRX,13,6,Ivy,31829,vyse,1.41,225.0,17.0,9.0,3.0,74.0,139.0,26.0,2.0,1.0,3,True
+430521,196432,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Pearl,2,Nongshim RedForce,KIWOOM DRX,13,6,Francis,31828,skye,1.23,209.0,14.0,12.0,10.0,89.0,132.0,19.0,2.0,1.0,3,True
+430521,196432,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Pearl,2,Nongshim RedForce,KIWOOM DRX,13,6,Persia,4122,astra,1.07,161.0,11.0,10.0,8.0,74.0,105.0,35.0,0.0,2.0,3,True
+430521,196432,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Pearl,2,Nongshim RedForce,KIWOOM DRX,13,6,margaret,33576,killjoy,0.98,224.0,17.0,13.0,1.0,74.0,135.0,37.0,1.0,2.0,3,True
+430521,196432,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Pearl,2,Nongshim RedForce,KIWOOM DRX,13,6,Dambi,31827,neon,0.76,190.0,11.0,16.0,10.0,84.0,128.0,18.0,4.0,4.0,3,True
+430521,196433,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,3,KIWOOM DRX,Nongshim RedForce,13,9,free1ng,1916,tejo,1.22,239.0,22.0,14.0,3.0,82.0,144.0,29.0,2.0,1.0,3,True
+430521,196433,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,3,KIWOOM DRX,Nongshim RedForce,13,9,Flashback,35013,killjoy,1.17,214.0,18.0,13.0,4.0,77.0,149.0,14.0,3.0,2.0,3,True
+430521,196433,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,3,KIWOOM DRX,Nongshim RedForce,13,9,MaKo,4462,brimstone,1.15,232.0,15.0,16.0,14.0,86.0,143.0,15.0,2.0,2.0,3,True
+430521,196433,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,3,KIWOOM DRX,Nongshim RedForce,13,9,HYUNMIN,28400,raze,1.1,227.0,17.0,16.0,4.0,82.0,166.0,19.0,5.0,3.0,3,True
+430521,196433,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,3,KIWOOM DRX,Nongshim RedForce,13,9,BeYN,4678,breach,0.84,152.0,12.0,15.0,11.0,82.0,108.0,17.0,1.0,1.0,3,True
+430521,196433,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,3,Nongshim RedForce,KIWOOM DRX,9,13,Francis,31828,breach,1.37,248.0,20.0,15.0,10.0,86.0,176.0,36.0,1.0,2.0,3,True
+430521,196433,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,3,Nongshim RedForce,KIWOOM DRX,9,13,Persia,4122,brimstone,0.94,175.0,12.0,15.0,16.0,82.0,109.0,37.0,1.0,3.0,3,True
+430521,196433,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,3,Nongshim RedForce,KIWOOM DRX,9,13,Dambi,31827,neon,0.84,246.0,16.0,21.0,8.0,73.0,149.0,26.0,4.0,5.0,3,True
+430521,196433,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,3,Nongshim RedForce,KIWOOM DRX,9,13,Ivy,31829,tejo,0.82,173.0,12.0,16.0,6.0,82.0,120.0,24.0,1.0,0.0,3,True
+430521,196433,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,3,Nongshim RedForce,KIWOOM DRX,9,13,margaret,33576,killjoy,0.75,169.0,14.0,17.0,2.0,64.0,126.0,22.0,2.0,3.0,3,True
+430518,196422,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Bind,1,Paper Rex,T1,6,13,mindfreak,9800,brimstone,1.01,187.0,12.0,14.0,4.0,53.0,114.0,42.0,1.0,2.0,3,True
+430518,196422,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Bind,1,Paper Rex,T1,6,13,Jinggg,7378,raze,0.88,236.0,14.0,17.0,3.0,58.0,146.0,9.0,2.0,7.0,3,True
+430518,196422,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Bind,1,Paper Rex,T1,6,13,f0rsakeN,9801,deadlock,0.84,145.0,9.0,14.0,8.0,68.0,85.0,26.0,0.0,1.0,3,True
+430518,196422,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Bind,1,Paper Rex,T1,6,13,something,17086,fade,0.71,147.0,9.0,15.0,6.0,68.0,95.0,31.0,1.0,1.0,3,True
+430518,196422,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Bind,1,Paper Rex,T1,6,13,d4v41,9803,clove,0.7,165.0,10.0,16.0,6.0,74.0,113.0,29.0,2.0,2.0,3,True
+430518,196422,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Bind,1,T1,Paper Rex,13,6,BuZz,804,raze,1.57,322.0,23.0,11.0,3.0,89.0,203.0,24.0,4.0,0.0,3,True
+430518,196422,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Bind,1,T1,Paper Rex,13,6,Sylvan,4056,brimstone,1.3,209.0,14.0,10.0,15.0,84.0,142.0,32.0,1.0,2.0,3,True
+430518,196422,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Bind,1,T1,Paper Rex,13,6,stax,485,kayo,1.11,197.0,11.0,10.0,15.0,79.0,133.0,21.0,2.0,1.0,3,True
+430518,196422,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Bind,1,T1,Paper Rex,13,6,iZu,29833,gekko,1.04,190.0,13.0,11.0,5.0,84.0,125.0,24.0,3.0,1.0,3,True
+430518,196422,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Bind,1,T1,Paper Rex,13,6,Meteor,13039,vyse,0.98,185.0,14.0,12.0,2.0,74.0,109.0,41.0,3.0,2.0,3,True
+430518,196423,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,2,Paper Rex,T1,13,8,f0rsakeN,9801,tejo,1.72,302.0,24.0,11.0,6.0,81.0,205.0,40.0,3.0,1.0,3,True
+430518,196423,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,2,Paper Rex,T1,13,8,Jinggg,7378,raze,1.5,269.0,21.0,12.0,3.0,81.0,190.0,24.0,4.0,2.0,3,True
+430518,196423,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,2,Paper Rex,T1,13,8,mindfreak,9800,brimstone,0.9,133.0,7.0,13.0,18.0,76.0,90.0,41.0,0.0,1.0,3,True
+430518,196423,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,2,Paper Rex,T1,13,8,something,17086,breach,0.89,160.0,13.0,12.0,7.0,81.0,107.0,29.0,1.0,3.0,3,True
+430518,196423,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,2,Paper Rex,T1,13,8,d4v41,9803,killjoy,0.83,189.0,13.0,14.0,3.0,76.0,135.0,24.0,2.0,4.0,3,True
+430518,196423,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,2,T1,Paper Rex,8,13,Meteor,13039,killjoy,1.08,255.0,19.0,19.0,4.0,86.0,172.0,23.0,3.0,1.0,3,True
+430518,196423,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,2,T1,Paper Rex,8,13,BuZz,804,neon,0.95,165.0,14.0,14.0,1.0,48.0,107.0,36.0,3.0,2.0,3,True
+430518,196423,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,2,T1,Paper Rex,8,13,stax,485,breach,0.92,170.0,11.0,14.0,7.0,67.0,109.0,15.0,1.0,1.0,3,True
+430518,196423,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,2,T1,Paper Rex,8,13,iZu,29833,raze,0.79,154.0,11.0,16.0,3.0,62.0,103.0,13.0,2.0,2.0,3,True
+430518,196423,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Fracture,2,T1,Paper Rex,8,13,Sylvan,4056,brimstone,0.62,117.0,7.0,15.0,14.0,81.0,75.0,15.0,2.0,4.0,3,True
+430518,196424,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Split,3,Paper Rex,T1,11,13,d4v41,9803,sage,1.47,275.0,27.0,17.0,4.0,88.0,182.0,38.0,1.0,0.0,3,True
+430518,196424,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Split,3,Paper Rex,T1,11,13,mindfreak,9800,omen,1.0,203.0,16.0,18.0,10.0,67.0,139.0,25.0,0.0,0.0,3,True
+430518,196424,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Split,3,Paper Rex,T1,11,13,something,17086,jett,0.92,204.0,17.0,19.0,4.0,71.0,130.0,18.0,4.0,4.0,3,True
+430518,196424,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Split,3,Paper Rex,T1,11,13,Jinggg,7378,raze,0.91,193.0,16.0,18.0,6.0,75.0,124.0,15.0,8.0,2.0,3,True
+430518,196424,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Split,3,Paper Rex,T1,11,13,f0rsakeN,9801,skye,0.56,156.0,12.0,23.0,12.0,75.0,103.0,20.0,2.0,3.0,3,True
+430518,196424,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Split,3,T1,Paper Rex,13,11,stax,485,skye,1.64,285.0,24.0,13.0,10.0,83.0,201.0,31.0,1.0,3.0,3,True
+430518,196424,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Split,3,T1,Paper Rex,13,11,iZu,29833,viper,1.13,235.0,18.0,19.0,11.0,75.0,174.0,33.0,1.0,3.0,3,True
+430518,196424,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Split,3,T1,Paper Rex,13,11,BuZz,804,raze,0.9,227.0,18.0,21.0,7.0,67.0,153.0,13.0,3.0,4.0,3,True
+430518,196424,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Split,3,T1,Paper Rex,13,11,Sylvan,4056,omen,0.89,205.0,17.0,18.0,10.0,75.0,129.0,30.0,1.0,2.0,3,True
+430518,196424,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-20,Split,3,T1,Paper Rex,13,11,Meteor,13039,chamber,0.83,191.0,18.0,17.0,1.0,54.0,117.0,34.0,3.0,3.0,3,True
+430519,196425,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Split,1,TALON,Global Esports,6,13,JitBoyS,13788,astra,1.13,225.0,15.0,15.0,10.0,74.0,128.0,41.0,2.0,1.0,3,True
+430519,196425,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Split,1,TALON,Global Esports,6,13,ban,5129,yoru,0.92,199.0,15.0,13.0,2.0,58.0,111.0,52.0,3.0,4.0,3,True
+430519,196425,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Split,1,TALON,Global Esports,6,13,primmie,25255,tejo,0.72,180.0,11.0,15.0,4.0,68.0,120.0,33.0,0.0,0.0,3,True
+430519,196425,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Split,1,TALON,Global Esports,6,13,Crws,3977,breach,0.62,178.0,11.0,17.0,4.0,63.0,122.0,44.0,1.0,1.0,3,True
+430519,196425,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Split,1,TALON,Global Esports,6,13,Governor,3980,raze,0.46,115.0,7.0,15.0,2.0,63.0,74.0,23.0,2.0,5.0,3,True
+430519,196425,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Split,1,Global Esports,TALON,13,6,UdoTan,4428,raze,1.62,318.0,23.0,13.0,2.0,79.0,202.0,28.0,3.0,2.0,3,True
+430519,196425,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Split,1,Global Esports,TALON,13,6,Kr1stal,5796,fade,1.59,261.0,19.0,9.0,5.0,79.0,157.0,20.0,2.0,2.0,3,True
+430519,196425,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Split,1,Global Esports,TALON,13,6,Papi,13219,astra,1.25,224.0,16.0,12.0,11.0,79.0,146.0,55.0,3.0,1.0,3,True
+430519,196425,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Split,1,Global Esports,TALON,13,6,Deryeon,9152,cypher,0.81,114.0,8.0,11.0,4.0,74.0,85.0,33.0,2.0,0.0,3,True
+430519,196425,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Split,1,Global Esports,TALON,13,6,kellyS,7437,deadlock,0.74,146.0,9.0,14.0,6.0,58.0,97.0,17.0,1.0,3.0,3,True
+430519,196426,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Abyss,2,TALON,Global Esports,13,9,JitBoyS,13788,astra,1.26,232.0,19.0,12.0,4.0,77.0,154.0,42.0,5.0,2.0,3,True
+430519,196426,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Abyss,2,TALON,Global Esports,13,9,primmie,25255,deadlock,1.01,205.0,16.0,13.0,4.0,91.0,127.0,57.0,2.0,0.0,3,True
+430519,196426,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Abyss,2,TALON,Global Esports,13,9,Crws,3977,sova,0.89,110.0,9.0,10.0,3.0,68.0,84.0,24.0,0.0,0.0,3,True
+430519,196426,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Abyss,2,TALON,Global Esports,13,9,Governor,3980,neon,0.85,200.0,15.0,15.0,2.0,59.0,115.0,20.0,5.0,3.0,3,True
+430519,196426,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Abyss,2,TALON,Global Esports,13,9,ban,5129,viper,0.84,164.0,12.0,14.0,4.0,68.0,121.0,42.0,1.0,3.0,3,True
+430519,196426,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Abyss,2,Global Esports,TALON,9,13,UdoTan,4428,jett,1.22,263.0,20.0,15.0,3.0,68.0,165.0,40.0,1.0,4.0,3,True
+430519,196426,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Abyss,2,Global Esports,TALON,9,13,Kr1stal,5796,sova,1.19,200.0,15.0,12.0,3.0,77.0,139.0,29.0,2.0,1.0,3,True
+430519,196426,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Abyss,2,Global Esports,TALON,9,13,Papi,13219,astra,0.87,132.0,10.0,12.0,2.0,77.0,92.0,43.0,1.0,2.0,3,True
+430519,196426,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Abyss,2,Global Esports,TALON,9,13,kellyS,7437,breach,0.78,136.0,10.0,14.0,4.0,68.0,83.0,48.0,1.0,1.0,3,True
+430519,196426,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Abyss,2,Global Esports,TALON,9,13,Deryeon,9152,chamber,0.42,102.0,8.0,18.0,2.0,45.0,65.0,25.0,3.0,5.0,3,True
+430519,196427,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,3,TALON,Global Esports,13,8,primmie,25255,clove,1.55,289.0,23.0,11.0,6.0,81.0,175.0,28.0,2.0,1.0,3,True
+430519,196427,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,3,TALON,Global Esports,13,8,Governor,3980,raze,1.11,223.0,16.0,13.0,7.0,81.0,144.0,28.0,5.0,4.0,3,True
+430519,196427,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,3,TALON,Global Esports,13,8,JitBoyS,13788,omen,0.96,185.0,16.0,15.0,3.0,62.0,112.0,31.0,1.0,3.0,3,True
+430519,196427,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,3,TALON,Global Esports,13,8,ban,5129,deadlock,0.83,164.0,12.0,13.0,5.0,71.0,109.0,39.0,2.0,3.0,3,True
+430519,196427,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,3,TALON,Global Esports,13,8,Crws,3977,fade,0.76,117.0,6.0,10.0,11.0,67.0,89.0,23.0,0.0,0.0,3,True
+430519,196427,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,3,Global Esports,TALON,8,13,Deryeon,9152,chamber,1.28,226.0,18.0,12.0,2.0,71.0,146.0,37.0,3.0,3.0,3,True
+430519,196427,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,3,Global Esports,TALON,8,13,Kr1stal,5796,tejo,0.89,190.0,12.0,15.0,4.0,62.0,136.0,27.0,2.0,0.0,3,True
+430519,196427,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,3,Global Esports,TALON,8,13,Papi,13219,astra,0.78,170.0,13.0,15.0,3.0,67.0,110.0,29.0,2.0,2.0,3,True
+430519,196427,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,3,Global Esports,TALON,8,13,UdoTan,4428,deadlock,0.72,159.0,11.0,17.0,2.0,57.0,96.0,36.0,2.0,3.0,3,True
+430519,196427,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,3,Global Esports,TALON,8,13,kellyS,7437,vyse,0.58,123.0,7.0,14.0,6.0,67.0,88.0,32.0,2.0,2.0,3,True
+430520,196428,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Fracture,1,Gen.G,Rex Regum Qeon,6,13,yoman,25081,sova,0.91,171.0,11.0,15.0,2.0,47.0,120.0,23.0,0.0,0.0,3,True
+430520,196428,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Fracture,1,Gen.G,Rex Regum Qeon,6,13,Karon,34974,brimstone,0.84,133.0,8.0,14.0,10.0,58.0,94.0,35.0,0.0,2.0,3,True
+430520,196428,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Fracture,1,Gen.G,Rex Regum Qeon,6,13,Munchkin,2489,breach,0.65,181.0,13.0,18.0,3.0,58.0,135.0,21.0,0.0,2.0,3,True
+430520,196428,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Fracture,1,Gen.G,Rex Regum Qeon,6,13,Foxy9,11600,killjoy,0.62,181.0,13.0,17.0,0.0,58.0,114.0,32.0,3.0,2.0,3,True
+430520,196428,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Fracture,1,Gen.G,Rex Regum Qeon,6,13,t3xture,9196,raze,0.6,174.0,11.0,17.0,1.0,58.0,114.0,13.0,4.0,6.0,3,True
+430520,196428,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Fracture,1,Rex Regum Qeon,Gen.G,13,6,Kushy,4866,sova,1.53,272.0,19.0,10.0,7.0,84.0,174.0,30.0,2.0,1.0,3,True
+430520,196428,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Fracture,1,Rex Regum Qeon,Gen.G,13,6,Estrella,25025,breach,1.25,195.0,13.0,10.0,14.0,84.0,147.0,32.0,2.0,2.0,3,True
+430520,196428,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Fracture,1,Rex Regum Qeon,Gen.G,13,6,Monyet,8497,neon,1.18,227.0,17.0,12.0,3.0,79.0,142.0,25.0,2.0,1.0,3,True
+430520,196428,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Fracture,1,Rex Regum Qeon,Gen.G,13,6,xffero,4871,killjoy,1.17,211.0,16.0,11.0,2.0,84.0,133.0,17.0,3.0,2.0,3,True
+430520,196428,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Fracture,1,Rex Regum Qeon,Gen.G,13,6,Jemkin,24895,brimstone,1.16,245.0,16.0,13.0,8.0,84.0,144.0,32.0,3.0,1.0,3,True
+430520,196429,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,2,Gen.G,Rex Regum Qeon,13,8,Foxy9,11600,killjoy,1.45,272.0,20.0,13.0,4.0,62.0,164.0,36.0,1.0,0.0,3,True
+430520,196429,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,2,Gen.G,Rex Regum Qeon,13,8,Karon,34974,omen,1.33,204.0,17.0,10.0,6.0,86.0,120.0,21.0,1.0,3.0,3,True
+430520,196429,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,2,Gen.G,Rex Regum Qeon,13,8,t3xture,9196,raze,1.14,246.0,20.0,14.0,2.0,71.0,156.0,24.0,6.0,4.0,3,True
+430520,196429,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,2,Gen.G,Rex Regum Qeon,13,8,yoman,25081,fade,0.88,150.0,9.0,11.0,10.0,81.0,96.0,28.0,1.0,1.0,3,True
+430520,196429,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,2,Gen.G,Rex Regum Qeon,13,8,Munchkin,2489,viper,0.71,122.0,9.0,13.0,5.0,71.0,79.0,15.0,3.0,1.0,3,True
+430520,196429,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,2,Rex Regum Qeon,Gen.G,8,13,Kushy,4866,fade,1.1,201.0,15.0,14.0,8.0,62.0,126.0,44.0,1.0,3.0,3,True
+430520,196429,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,2,Rex Regum Qeon,Gen.G,8,13,Monyet,8497,omen,0.96,179.0,14.0,15.0,5.0,62.0,125.0,33.0,1.0,3.0,3,True
+430520,196429,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,2,Rex Regum Qeon,Gen.G,8,13,Jemkin,24895,raze,0.92,205.0,13.0,16.0,7.0,76.0,135.0,18.0,3.0,4.0,3,True
+430520,196429,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,2,Rex Regum Qeon,Gen.G,8,13,Estrella,25025,viper,0.82,145.0,11.0,14.0,5.0,62.0,102.0,58.0,2.0,2.0,3,True
+430520,196429,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Lotus,2,Rex Regum Qeon,Gen.G,8,13,xffero,4871,vyse,0.6,104.0,8.0,16.0,5.0,62.0,69.0,45.0,2.0,0.0,3,True
+430520,196430,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Haven,3,Gen.G,Rex Regum Qeon,14,12,Munchkin,2489,viper,1.25,240.0,21.0,16.0,6.0,69.0,151.0,28.0,2.0,1.0,3,True
+430520,196430,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Haven,3,Gen.G,Rex Regum Qeon,14,12,Karon,34974,omen,1.18,215.0,19.0,16.0,8.0,73.0,156.0,27.0,1.0,5.0,3,True
+430520,196430,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Haven,3,Gen.G,Rex Regum Qeon,14,12,t3xture,9196,neon,1.1,226.0,22.0,18.0,5.0,58.0,140.0,28.0,3.0,9.0,3,True
+430520,196430,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Haven,3,Gen.G,Rex Regum Qeon,14,12,Foxy9,11600,killjoy,0.8,177.0,16.0,19.0,2.0,62.0,113.0,44.0,1.0,2.0,3,True
+430520,196430,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Haven,3,Gen.G,Rex Regum Qeon,14,12,yoman,25081,sova,0.65,94.0,8.0,16.0,8.0,65.0,66.0,27.0,0.0,2.0,3,True
+430520,196430,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Haven,3,Rex Regum Qeon,Gen.G,12,14,Jemkin,24895,jett,1.47,330.0,29.0,19.0,2.0,85.0,210.0,30.0,12.0,1.0,3,True
+430520,196430,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Haven,3,Rex Regum Qeon,Gen.G,12,14,Kushy,4866,sova,1.24,251.0,22.0,16.0,4.0,77.0,162.0,40.0,5.0,0.0,3,True
+430520,196430,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Haven,3,Rex Regum Qeon,Gen.G,12,14,Estrella,25025,breach,0.79,152.0,14.0,20.0,8.0,73.0,97.0,47.0,2.0,0.0,3,True
+430520,196430,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Haven,3,Rex Regum Qeon,Gen.G,12,14,xffero,4871,killjoy,0.79,130.0,12.0,16.0,6.0,62.0,96.0,29.0,0.0,2.0,3,True
+430520,196430,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Quarterfinals,2025-01-25,Haven,3,Rex Regum Qeon,Gen.G,12,14,Monyet,8497,omen,0.65,85.0,8.0,15.0,11.0,62.0,57.0,43.0,0.0,4.0,3,True
+430526,196448,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Pearl,1,Nongshim RedForce,BOOM Esports,13,3,Dambi,31827,neon,1.81,317.0,19.0,8.0,7.0,88.0,237.0,25.0,6.0,2.0,3,True
+430526,196448,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Pearl,1,Nongshim RedForce,BOOM Esports,13,3,Francis,31828,sova,1.57,280.0,16.0,7.0,6.0,81.0,182.0,29.0,3.0,1.0,3,True
+430526,196448,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Pearl,1,Nongshim RedForce,BOOM Esports,13,3,Persia,4122,astra,1.55,193.0,12.0,5.0,9.0,94.0,122.0,27.0,0.0,0.0,3,True
+430526,196448,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Pearl,1,Nongshim RedForce,BOOM Esports,13,3,Ivy,31829,vyse,1.12,159.0,11.0,6.0,1.0,94.0,97.0,30.0,1.0,1.0,3,True
+430526,196448,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Pearl,1,Nongshim RedForce,BOOM Esports,13,3,margaret,33576,killjoy,0.86,188.0,11.0,10.0,2.0,75.0,143.0,23.0,2.0,0.0,3,True
+430526,196448,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Pearl,1,BOOM Esports,Nongshim RedForce,3,13,BerserX,4874,killjoy,0.81,173.0,8.0,14.0,4.0,63.0,134.0,20.0,0.0,3.0,3,True
+430526,196448,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Pearl,1,BOOM Esports,Nongshim RedForce,3,13,NcSlasher,7043,fade,0.64,146.0,9.0,13.0,2.0,63.0,98.0,40.0,0.0,0.0,3,True
+430526,196448,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Pearl,1,BOOM Esports,Nongshim RedForce,3,13,dos9,16215,astra,0.58,141.0,8.0,13.0,4.0,56.0,88.0,41.0,0.0,2.0,3,True
+430526,196448,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Pearl,1,BOOM Esports,Nongshim RedForce,3,13,Famouz,2348,neon,0.55,166.0,8.0,14.0,2.0,56.0,109.0,10.0,3.0,5.0,3,True
+430526,196448,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Pearl,1,BOOM Esports,Nongshim RedForce,3,13,Shiro,10739,kayo,0.34,92.0,3.0,15.0,11.0,69.0,59.0,18.0,1.0,2.0,3,True
+430526,196449,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Bind,2,Nongshim RedForce,BOOM Esports,7,13,Persia,4122,brimstone,0.98,223.0,14.0,16.0,9.0,60.0,146.0,23.0,1.0,1.0,3,True
+430526,196449,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Bind,2,Nongshim RedForce,BOOM Esports,7,13,margaret,33576,vyse,0.77,172.0,12.0,16.0,4.0,65.0,110.0,37.0,2.0,2.0,3,True
+430526,196449,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Bind,2,Nongshim RedForce,BOOM Esports,7,13,Francis,31828,fade,0.72,160.0,10.0,15.0,3.0,60.0,106.0,26.0,2.0,4.0,3,True
+430526,196449,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Bind,2,Nongshim RedForce,BOOM Esports,7,13,Ivy,31829,deadlock,0.69,136.0,11.0,15.0,3.0,65.0,74.0,37.0,1.0,1.0,3,True
+430526,196449,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Bind,2,Nongshim RedForce,BOOM Esports,7,13,Dambi,31827,raze,0.45,164.0,10.0,16.0,3.0,55.0,108.0,17.0,1.0,4.0,3,True
+430526,196449,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Bind,2,BOOM Esports,Nongshim RedForce,13,7,dos9,16215,brimstone,1.48,256.0,18.0,11.0,8.0,85.0,148.0,25.0,4.0,0.0,3,True
+430526,196449,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Bind,2,BOOM Esports,Nongshim RedForce,13,7,BerserX,4874,vyse,1.41,223.0,17.0,8.0,3.0,80.0,163.0,35.0,1.0,3.0,3,True
+430526,196449,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Bind,2,BOOM Esports,Nongshim RedForce,13,7,Famouz,2348,raze,1.24,249.0,19.0,13.0,3.0,85.0,143.0,15.0,3.0,3.0,3,True
+430526,196449,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Bind,2,BOOM Esports,Nongshim RedForce,13,7,Shiro,10739,kayo,1.17,208.0,14.0,12.0,12.0,90.0,137.0,29.0,4.0,1.0,3,True
+430526,196449,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Bind,2,BOOM Esports,Nongshim RedForce,13,7,NcSlasher,7043,fade,0.63,145.0,10.0,13.0,4.0,70.0,103.0,28.0,0.0,0.0,3,True
+430526,196450,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,3,Nongshim RedForce,BOOM Esports,13,9,Francis,31828,fade,1.37,232.0,21.0,12.0,9.0,86.0,147.0,27.0,0.0,3.0,3,True
+430526,196450,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,3,Nongshim RedForce,BOOM Esports,13,9,Ivy,31829,viper,1.17,219.0,17.0,14.0,10.0,86.0,131.0,31.0,2.0,0.0,3,True
+430526,196450,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,3,Nongshim RedForce,BOOM Esports,13,9,margaret,33576,vyse,1.16,201.0,16.0,13.0,3.0,77.0,132.0,29.0,3.0,2.0,3,True
+430526,196450,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,3,Nongshim RedForce,BOOM Esports,13,9,Persia,4122,omen,1.03,181.0,14.0,14.0,15.0,86.0,126.0,15.0,0.0,0.0,3,True
+430526,196450,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,3,Nongshim RedForce,BOOM Esports,13,9,Dambi,31827,neon,0.75,201.0,15.0,18.0,9.0,73.0,115.0,13.0,7.0,5.0,3,True
+430526,196450,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,3,BOOM Esports,Nongshim RedForce,9,13,BerserX,4874,killjoy,1.24,225.0,17.0,14.0,5.0,82.0,155.0,16.0,1.0,2.0,3,True
+430526,196450,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,3,BOOM Esports,Nongshim RedForce,9,13,Famouz,2348,raze,1.01,250.0,16.0,19.0,8.0,77.0,165.0,8.0,5.0,3.0,3,True
+430526,196450,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,3,BOOM Esports,Nongshim RedForce,9,13,Shiro,10739,viper,0.97,197.0,16.0,16.0,5.0,82.0,130.0,32.0,2.0,2.0,3,True
+430526,196450,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,3,BOOM Esports,Nongshim RedForce,9,13,NcSlasher,7043,fade,0.81,161.0,13.0,17.0,8.0,82.0,106.0,30.0,0.0,4.0,3,True
+430526,196450,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,3,BOOM Esports,Nongshim RedForce,9,13,dos9,16215,omen,0.67,121.0,9.0,17.0,6.0,82.0,67.0,15.0,2.0,1.0,3,True
+430529,196457,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,1,Paper Rex,ZETA DIVISION,13,5,something,17086,jett,1.58,339.0,21.0,12.0,5.0,72.0,196.0,15.0,5.0,2.0,3,True
+430529,196457,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,1,Paper Rex,ZETA DIVISION,13,5,d4v41,9803,skye,1.23,211.0,14.0,9.0,8.0,89.0,158.0,43.0,1.0,0.0,3,True
+430529,196457,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,1,Paper Rex,ZETA DIVISION,13,5,Jinggg,7378,raze,1.22,217.0,16.0,9.0,0.0,72.0,129.0,17.0,1.0,2.0,3,True
+430529,196457,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,1,Paper Rex,ZETA DIVISION,13,5,mindfreak,9800,omen,1.04,156.0,10.0,9.0,8.0,89.0,104.0,26.0,0.0,0.0,3,True
+430529,196457,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,1,Paper Rex,ZETA DIVISION,13,5,f0rsakeN,9801,vyse,0.89,184.0,13.0,11.0,3.0,78.0,121.0,52.0,4.0,3.0,3,True
+430529,196457,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,1,ZETA DIVISION,Paper Rex,5,13,SyouTa,12990,cypher,1.06,219.0,15.0,15.0,0.0,61.0,145.0,54.0,2.0,3.0,3,True
+430529,196457,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,1,ZETA DIVISION,Paper Rex,5,13,SugarZ3ro,6668,omen,0.82,193.0,10.0,16.0,10.0,89.0,129.0,28.0,2.0,2.0,3,True
+430529,196457,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,1,ZETA DIVISION,Paper Rex,5,13,Xdll,25221,fade,0.75,155.0,10.0,14.0,1.0,50.0,115.0,34.0,1.0,0.0,3,True
+430529,196457,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,1,ZETA DIVISION,Paper Rex,5,13,Dep,424,neon,0.72,169.0,10.0,14.0,1.0,56.0,93.0,48.0,2.0,5.0,3,True
+430529,196457,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Lotus,1,ZETA DIVISION,Paper Rex,5,13,CLZ,2615,breach,0.47,90.0,5.0,15.0,4.0,56.0,70.0,35.0,0.0,1.0,3,True
+430529,196458,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Fracture,2,Paper Rex,ZETA DIVISION,13,8,f0rsakeN,9801,skye,1.7,312.0,23.0,13.0,15.0,95.0,193.0,49.0,2.0,0.0,3,True
+430529,196458,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Fracture,2,Paper Rex,ZETA DIVISION,13,8,d4v41,9803,killjoy,1.47,262.0,20.0,10.0,3.0,95.0,189.0,28.0,3.0,1.0,3,True
+430529,196458,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Fracture,2,Paper Rex,ZETA DIVISION,13,8,Jinggg,7378,raze,1.17,212.0,17.0,12.0,4.0,81.0,153.0,16.0,1.0,4.0,3,True
+430529,196458,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Fracture,2,Paper Rex,ZETA DIVISION,13,8,something,17086,breach,1.08,240.0,18.0,14.0,4.0,71.0,158.0,29.0,4.0,3.0,3,True
+430529,196458,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Fracture,2,Paper Rex,ZETA DIVISION,13,8,mindfreak,9800,brimstone,1.0,179.0,13.0,13.0,11.0,81.0,118.0,29.0,3.0,0.0,3,True
+430529,196458,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Fracture,2,ZETA DIVISION,Paper Rex,8,13,Dep,424,neon,1.35,289.0,21.0,17.0,5.0,67.0,174.0,33.0,2.0,3.0,3,True
+430529,196458,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Fracture,2,ZETA DIVISION,Paper Rex,8,13,SugarZ3ro,6668,brimstone,0.63,158.0,11.0,18.0,7.0,67.0,97.0,26.0,0.0,1.0,3,True
+430529,196458,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Fracture,2,ZETA DIVISION,Paper Rex,8,13,Xdll,25221,tejo,0.56,164.0,12.0,20.0,3.0,62.0,105.0,21.0,3.0,1.0,3,True
+430529,196458,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Fracture,2,ZETA DIVISION,Paper Rex,8,13,SyouTa,12990,chamber,0.53,156.0,11.0,19.0,1.0,57.0,106.0,45.0,3.0,5.0,3,True
+430529,196458,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-26,Fracture,2,ZETA DIVISION,Paper Rex,8,13,CLZ,2615,breach,0.52,96.0,7.0,17.0,7.0,67.0,59.0,39.0,0.0,3.0,3,True
+430527,196451,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Lotus,1,Rex Regum Qeon,Team Secret,9,13,Monyet,8497,omen,1.32,266.0,22.0,15.0,2.0,59.0,172.0,40.0,1.0,2.0,3,True
+430527,196451,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Lotus,1,Rex Regum Qeon,Team Secret,9,13,Jemkin,24895,raze,1.05,233.0,18.0,16.0,1.0,59.0,134.0,33.0,3.0,3.0,3,True
+430527,196451,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Lotus,1,Rex Regum Qeon,Team Secret,9,13,Kushy,4866,fade,0.76,172.0,13.0,19.0,9.0,68.0,110.0,34.0,2.0,2.0,3,True
+430527,196451,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Lotus,1,Rex Regum Qeon,Team Secret,9,13,xffero,4871,vyse,0.63,146.0,9.0,17.0,9.0,68.0,98.0,37.0,3.0,4.0,3,True
+430527,196451,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Lotus,1,Rex Regum Qeon,Team Secret,9,13,Estrella,25025,viper,0.59,140.0,10.0,16.0,7.0,68.0,85.0,13.0,0.0,2.0,3,True
+430527,196451,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Lotus,1,Team Secret,Rex Regum Qeon,13,9,invy,8504,vyse,1.53,291.0,22.0,15.0,9.0,91.0,200.0,41.0,4.0,1.0,3,True
+430527,196451,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Lotus,1,Team Secret,Rex Regum Qeon,13,9,JessieVash,2334,fade,1.48,278.0,22.0,14.0,6.0,77.0,192.0,35.0,2.0,1.0,3,True
+430527,196451,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Lotus,1,Team Secret,Rex Regum Qeon,13,9,2GE,9735,omen,1.23,214.0,18.0,13.0,8.0,73.0,131.0,29.0,3.0,1.0,3,True
+430527,196451,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Lotus,1,Team Secret,Rex Regum Qeon,13,9,Wild0reoo,9740,viper,0.69,121.0,8.0,13.0,3.0,59.0,91.0,32.0,2.0,2.0,3,True
+430527,196451,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Lotus,1,Team Secret,Rex Regum Qeon,13,9,Jremy,7405,raze,0.6,143.0,12.0,17.0,3.0,59.0,88.0,17.0,2.0,4.0,3,True
+430527,196452,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Pearl,2,Rex Regum Qeon,Team Secret,13,4,Estrella,25025,astra,1.65,216.0,14.0,5.0,12.0,82.0,129.0,37.0,1.0,1.0,3,True
+430527,196452,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Pearl,2,Rex Regum Qeon,Team Secret,13,4,Kushy,4866,sova,1.3,235.0,13.0,10.0,4.0,71.0,173.0,48.0,1.0,0.0,3,True
+430527,196452,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Pearl,2,Rex Regum Qeon,Team Secret,13,4,Monyet,8497,phoenix,1.21,242.0,12.0,9.0,10.0,76.0,143.0,25.0,3.0,3.0,3,True
+430527,196452,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Pearl,2,Rex Regum Qeon,Team Secret,13,4,xffero,4871,vyse,1.14,236.0,17.0,10.0,2.0,82.0,149.0,32.0,2.0,2.0,3,True
+430527,196452,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Pearl,2,Rex Regum Qeon,Team Secret,13,4,Jemkin,24895,jett,0.92,200.0,13.0,12.0,3.0,82.0,131.0,19.0,2.0,2.0,3,True
+430527,196452,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Pearl,2,Team Secret,Rex Regum Qeon,4,13,Jremy,7405,jett,0.93,232.0,14.0,14.0,1.0,65.0,152.0,44.0,2.0,2.0,3,True
+430527,196452,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Pearl,2,Team Secret,Rex Regum Qeon,4,13,Wild0reoo,9740,killjoy,0.78,153.0,8.0,13.0,0.0,59.0,103.0,25.0,4.0,2.0,3,True
+430527,196452,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Pearl,2,Team Secret,Rex Regum Qeon,4,13,JessieVash,2334,sova,0.67,140.0,9.0,14.0,4.0,47.0,114.0,38.0,1.0,0.0,3,True
+430527,196452,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Pearl,2,Team Secret,Rex Regum Qeon,4,13,invy,8504,kayo,0.66,155.0,7.0,15.0,9.0,71.0,110.0,30.0,0.0,1.0,3,True
+430527,196452,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Pearl,2,Team Secret,Rex Regum Qeon,4,13,2GE,9735,astra,0.65,152.0,8.0,13.0,5.0,71.0,93.0,19.0,1.0,4.0,3,True
+430527,196453,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Haven,3,Rex Regum Qeon,Team Secret,13,4,Estrella,25025,breach,1.71,278.0,19.0,7.0,7.0,76.0,182.0,37.0,0.0,1.0,3,True
+430527,196453,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Haven,3,Rex Regum Qeon,Team Secret,13,4,Kushy,4866,sova,1.55,303.0,17.0,9.0,7.0,88.0,201.0,36.0,3.0,1.0,3,True
+430527,196453,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Haven,3,Rex Regum Qeon,Team Secret,13,4,Monyet,8497,omen,1.28,208.0,15.0,7.0,4.0,88.0,131.0,33.0,0.0,1.0,3,True
+430527,196453,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Haven,3,Rex Regum Qeon,Team Secret,13,4,xffero,4871,killjoy,1.22,177.0,11.0,6.0,1.0,88.0,126.0,27.0,2.0,0.0,3,True
+430527,196453,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Haven,3,Rex Regum Qeon,Team Secret,13,4,Jemkin,24895,jett,0.6,156.0,10.0,14.0,1.0,59.0,99.0,55.0,6.0,3.0,3,True
+430527,196453,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Haven,3,Team Secret,Rex Regum Qeon,4,13,JessieVash,2334,sova,1.42,299.0,17.0,13.0,0.0,82.0,196.0,26.0,3.0,0.0,3,True
+430527,196453,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Haven,3,Team Secret,Rex Regum Qeon,4,13,Wild0reoo,9740,killjoy,0.8,196.0,11.0,15.0,1.0,59.0,126.0,42.0,1.0,1.0,3,True
+430527,196453,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Haven,3,Team Secret,Rex Regum Qeon,4,13,invy,8504,breach,0.52,107.0,6.0,15.0,9.0,65.0,68.0,42.0,0.0,1.0,3,True
+430527,196453,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Haven,3,Team Secret,Rex Regum Qeon,4,13,Jremy,7405,jett,0.37,103.0,5.0,14.0,1.0,53.0,65.0,17.0,1.0,5.0,3,True
+430527,196453,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Haven,3,Team Secret,Rex Regum Qeon,4,13,2GE,9735,omen,0.32,92.0,4.0,15.0,5.0,65.0,64.0,4.0,1.0,4.0,3,True
+430528,196454,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Abyss,1,Global Esports,DetonatioN FocusMe,8,13,Kr1stal,5796,sova,1.04,190.0,14.0,16.0,6.0,71.0,121.0,21.0,3.0,2.0,3,True
+430528,196454,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Abyss,1,Global Esports,DetonatioN FocusMe,8,13,kellyS,7437,breach,0.91,190.0,14.0,17.0,11.0,81.0,137.0,27.0,0.0,2.0,3,True
+430528,196454,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Abyss,1,Global Esports,DetonatioN FocusMe,8,13,Deryeon,9152,chamber,0.85,160.0,13.0,16.0,4.0,62.0,112.0,23.0,1.0,3.0,3,True
+430528,196454,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Abyss,1,Global Esports,DetonatioN FocusMe,8,13,Papi,13219,astra,0.74,148.0,11.0,17.0,11.0,76.0,94.0,30.0,1.0,2.0,3,True
+430528,196454,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Abyss,1,Global Esports,DetonatioN FocusMe,8,13,UdoTan,4428,jett,0.63,175.0,12.0,18.0,3.0,62.0,126.0,22.0,2.0,4.0,3,True
+430528,196454,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Abyss,1,DetonatioN FocusMe,Global Esports,13,8,Jinboong,4052,astra,1.39,284.0,21.0,13.0,8.0,76.0,177.0,43.0,3.0,1.0,3,True
+430528,196454,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Abyss,1,DetonatioN FocusMe,Global Esports,13,8,Meiy,6672,jett,1.25,225.0,17.0,13.0,6.0,81.0,156.0,30.0,5.0,2.0,3,True
+430528,196454,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Abyss,1,DetonatioN FocusMe,Global Esports,13,8,gyen,48577,omen,1.2,220.0,17.0,11.0,3.0,67.0,155.0,33.0,1.0,1.0,3,True
+430528,196454,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Abyss,1,DetonatioN FocusMe,Global Esports,13,8,Art,10627,sova,0.97,148.0,12.0,12.0,8.0,86.0,101.0,21.0,2.0,3.0,3,True
+430528,196454,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Abyss,1,DetonatioN FocusMe,Global Esports,13,8,Akame,13002,kayo,0.9,173.0,12.0,15.0,10.0,86.0,112.0,36.0,2.0,0.0,3,True
+430528,196455,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Split,2,Global Esports,DetonatioN FocusMe,12,14,kellyS,7437,deadlock,1.19,253.0,24.0,19.0,2.0,62.0,162.0,25.0,6.0,1.0,3,True
+430528,196455,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Split,2,Global Esports,DetonatioN FocusMe,12,14,Deryeon,9152,cypher,0.93,169.0,15.0,18.0,6.0,69.0,127.0,26.0,1.0,2.0,3,True
+430528,196455,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Split,2,Global Esports,DetonatioN FocusMe,12,14,UdoTan,4428,raze,0.91,195.0,17.0,18.0,6.0,62.0,129.0,18.0,3.0,9.0,3,True
+430528,196455,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Split,2,Global Esports,DetonatioN FocusMe,12,14,Papi,13219,astra,0.8,126.0,12.0,17.0,7.0,65.0,92.0,39.0,1.0,0.0,3,True
+430528,196455,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Split,2,Global Esports,DetonatioN FocusMe,12,14,Kr1stal,5796,fade,0.78,164.0,15.0,20.0,11.0,69.0,114.0,16.0,2.0,1.0,3,True
+430528,196455,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Split,2,DetonatioN FocusMe,Global Esports,14,12,Akame,13002,vyse,1.51,255.0,24.0,14.0,5.0,73.0,165.0,43.0,3.0,2.0,3,True
+430528,196455,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Split,2,DetonatioN FocusMe,Global Esports,14,12,Meiy,6672,raze,1.46,305.0,29.0,17.0,3.0,77.0,187.0,26.0,6.0,1.0,3,True
+430528,196455,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Split,2,DetonatioN FocusMe,Global Esports,14,12,Jinboong,4052,cypher,0.8,147.0,13.0,18.0,6.0,77.0,95.0,38.0,1.0,1.0,3,True
+430528,196455,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Split,2,DetonatioN FocusMe,Global Esports,14,12,Art,10627,skye,0.78,169.0,15.0,18.0,7.0,73.0,107.0,22.0,1.0,5.0,3,True
+430528,196455,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 1,2025-01-27,Split,2,DetonatioN FocusMe,Global Esports,14,12,gyen,48577,omen,0.74,124.0,11.0,16.0,5.0,58.0,91.0,32.0,2.0,4.0,3,True
+430522,196434,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,1,T1,TALON,13,5,BuZz,804,raze,1.58,287.0,21.0,12.0,4.0,89.0,190.0,12.0,4.0,0.0,3,True
+430522,196434,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,1,T1,TALON,13,5,iZu,29833,tejo,1.5,175.0,13.0,5.0,6.0,100.0,134.0,32.0,2.0,0.0,3,True
+430522,196434,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,1,T1,TALON,13,5,Meteor,13039,cypher,1.15,235.0,15.0,13.0,7.0,67.0,171.0,25.0,3.0,2.0,3,True
+430522,196434,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,1,T1,TALON,13,5,Sylvan,4056,brimstone,1.12,269.0,14.0,12.0,12.0,83.0,198.0,21.0,4.0,2.0,3,True
+430522,196434,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,1,T1,TALON,13,5,stax,485,breach,1.06,115.0,8.0,8.0,15.0,83.0,73.0,28.0,0.0,1.0,3,True
+430522,196434,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,1,TALON,T1,5,13,primmie,25255,tejo,1.09,214.0,14.0,13.0,1.0,61.0,145.0,29.0,0.0,2.0,3,True
+430522,196434,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,1,TALON,T1,5,13,JitBoyS,13788,brimstone,0.82,149.0,9.0,14.0,11.0,89.0,92.0,56.0,0.0,2.0,3,True
+430522,196434,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,1,TALON,T1,5,13,Crws,3977,breach,0.73,173.0,10.0,14.0,4.0,56.0,103.0,13.0,1.0,1.0,3,True
+430522,196434,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,1,TALON,T1,5,13,ban,5129,deadlock,0.65,152.0,10.0,15.0,3.0,67.0,103.0,28.0,1.0,1.0,3,True
+430522,196434,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,1,TALON,T1,5,13,Governor,3980,raze,0.4,115.0,7.0,15.0,0.0,50.0,70.0,21.0,3.0,7.0,3,True
+430522,196435,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,T1,TALON,4,13,BuZz,804,raze,0.8,207.0,9.0,15.0,5.0,47.0,156.0,19.0,2.0,3.0,3,True
+430522,196435,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,T1,TALON,4,13,Meteor,13039,vyse,0.78,225.0,13.0,16.0,2.0,47.0,139.0,34.0,2.0,2.0,3,True
+430522,196435,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,T1,TALON,4,13,iZu,29833,gekko,0.75,164.0,11.0,15.0,3.0,71.0,102.0,29.0,0.0,3.0,3,True
+430522,196435,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,T1,TALON,4,13,stax,485,kayo,0.66,122.0,7.0,14.0,5.0,65.0,89.0,56.0,0.0,0.0,3,True
+430522,196435,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,T1,TALON,4,13,Sylvan,4056,brimstone,0.43,106.0,5.0,14.0,4.0,71.0,69.0,21.0,0.0,5.0,3,True
+430522,196435,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,TALON,T1,13,4,ban,5129,gekko,1.78,308.0,19.0,5.0,5.0,88.0,196.0,45.0,2.0,0.0,3,True
+430522,196435,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,TALON,T1,13,4,Governor,3980,raze,1.28,285.0,18.0,9.0,0.0,76.0,159.0,18.0,6.0,3.0,3,True
+430522,196435,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,TALON,T1,13,4,primmie,25255,deadlock,1.21,193.0,14.0,10.0,1.0,82.0,130.0,46.0,1.0,1.0,3,True
+430522,196435,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,TALON,T1,13,4,JitBoyS,13788,astra,1.06,214.0,14.0,11.0,4.0,88.0,139.0,32.0,3.0,0.0,3,True
+430522,196435,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,TALON,T1,13,4,Crws,3977,fade,0.89,134.0,9.0,10.0,2.0,82.0,89.0,20.0,1.0,0.0,3,True
+430522,196436,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Haven,3,T1,TALON,13,9,BuZz,804,yoru,1.58,258.0,22.0,12.0,8.0,86.0,176.0,35.0,7.0,2.0,3,True
+430522,196436,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Haven,3,T1,TALON,13,9,iZu,29833,cypher,1.1,199.0,17.0,12.0,3.0,77.0,141.0,33.0,1.0,2.0,3,True
+430522,196436,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Haven,3,T1,TALON,13,9,stax,485,sova,0.99,179.0,13.0,14.0,6.0,68.0,131.0,20.0,2.0,1.0,3,True
+430522,196436,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Haven,3,T1,TALON,13,9,Sylvan,4056,omen,0.92,146.0,11.0,14.0,11.0,68.0,101.0,38.0,0.0,1.0,3,True
+430522,196436,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Haven,3,T1,TALON,13,9,Meteor,13039,iso,0.9,226.0,17.0,17.0,4.0,68.0,162.0,41.0,3.0,3.0,3,True
+430522,196436,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Haven,3,TALON,T1,9,13,JitBoyS,13788,omen,1.14,189.0,15.0,16.0,8.0,77.0,145.0,25.0,0.0,1.0,3,True
+430522,196436,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Haven,3,TALON,T1,9,13,ban,5129,cypher,1.09,197.0,16.0,14.0,5.0,59.0,121.0,30.0,5.0,4.0,3,True
+430522,196436,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Haven,3,TALON,T1,9,13,primmie,25255,jett,1.02,213.0,17.0,16.0,0.0,64.0,131.0,23.0,3.0,1.0,3,True
+430522,196436,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Haven,3,TALON,T1,9,13,Governor,3980,sova,0.92,188.0,13.0,16.0,5.0,59.0,141.0,33.0,1.0,2.0,3,True
+430522,196436,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Haven,3,TALON,T1,9,13,Crws,3977,breach,0.44,104.0,8.0,18.0,9.0,55.0,60.0,19.0,0.0,5.0,3,True
+430523,196437,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Abyss,1,Gen.G,KIWOOM DRX,9,13,t3xture,9196,jett,1.0,241.0,20.0,17.0,0.0,55.0,131.0,28.0,5.0,4.0,3,True
+430523,196437,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Abyss,1,Gen.G,KIWOOM DRX,9,13,Karon,34974,omen,0.93,190.0,14.0,17.0,14.0,68.0,109.0,40.0,1.0,2.0,3,True
+430523,196437,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Abyss,1,Gen.G,KIWOOM DRX,9,13,yoman,25081,sova,0.86,144.0,11.0,13.0,4.0,55.0,109.0,31.0,1.0,2.0,3,True
+430523,196437,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Abyss,1,Gen.G,KIWOOM DRX,9,13,Munchkin,2489,kayo,0.75,170.0,11.0,17.0,11.0,77.0,118.0,18.0,1.0,2.0,3,True
+430523,196437,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Abyss,1,Gen.G,KIWOOM DRX,9,13,Foxy9,11600,cypher,0.59,131.0,10.0,17.0,2.0,55.0,78.0,32.0,2.0,2.0,3,True
+430523,196437,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Abyss,1,KIWOOM DRX,Gen.G,13,9,BeYN,4678,sova,1.67,271.0,23.0,11.0,8.0,86.0,181.0,59.0,1.0,0.0,3,True
+430523,196437,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Abyss,1,KIWOOM DRX,Gen.G,13,9,free1ng,1916,tejo,1.49,247.0,20.0,13.0,7.0,86.0,159.0,20.0,3.0,1.0,3,True
+430523,196437,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Abyss,1,KIWOOM DRX,Gen.G,13,9,MaKo,4462,astra,1.13,161.0,12.0,13.0,11.0,77.0,122.0,17.0,1.0,2.0,3,True
+430523,196437,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Abyss,1,KIWOOM DRX,Gen.G,13,9,HYUNMIN,28400,jett,0.87,200.0,15.0,15.0,4.0,55.0,150.0,50.0,3.0,4.0,3,True
+430523,196437,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Abyss,1,KIWOOM DRX,Gen.G,13,9,Flashback,35013,cypher,0.76,148.0,11.0,14.0,2.0,68.0,95.0,31.0,4.0,3.0,3,True
+430523,196438,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,Gen.G,KIWOOM DRX,13,15,Foxy9,11600,gekko,1.15,238.0,23.0,21.0,4.0,64.0,164.0,49.0,4.0,1.0,3,True
+430523,196438,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,Gen.G,KIWOOM DRX,13,15,yoman,25081,fade,1.1,189.0,19.0,20.0,6.0,71.0,113.0,31.0,1.0,2.0,3,True
+430523,196438,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,Gen.G,KIWOOM DRX,13,15,Karon,34974,brimstone,0.9,139.0,13.0,17.0,12.0,71.0,97.0,29.0,0.0,1.0,3,True
+430523,196438,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,Gen.G,KIWOOM DRX,13,15,Munchkin,2489,viper,0.81,170.0,15.0,21.0,11.0,71.0,113.0,19.0,1.0,4.0,3,True
+430523,196438,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,Gen.G,KIWOOM DRX,13,15,t3xture,9196,raze,0.58,168.0,16.0,25.0,3.0,54.0,113.0,22.0,4.0,10.0,3,True
+430523,196438,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,KIWOOM DRX,Gen.G,15,13,free1ng,1916,tejo,1.34,252.0,27.0,15.0,3.0,82.0,149.0,49.0,5.0,2.0,3,True
+430523,196438,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,KIWOOM DRX,Gen.G,15,13,Flashback,35013,viper,1.21,236.0,21.0,17.0,12.0,82.0,154.0,27.0,5.0,3.0,3,True
+430523,196438,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,KIWOOM DRX,Gen.G,15,13,MaKo,4462,brimstone,1.14,207.0,19.0,17.0,16.0,75.0,134.0,37.0,0.0,1.0,3,True
+430523,196438,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,KIWOOM DRX,Gen.G,15,13,HYUNMIN,28400,raze,1.04,211.0,20.0,18.0,8.0,96.0,141.0,25.0,5.0,1.0,3,True
+430523,196438,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Semifinals,2025-01-31,Bind,2,KIWOOM DRX,Gen.G,15,13,BeYN,4678,kayo,0.86,163.0,17.0,19.0,12.0,75.0,120.0,30.0,3.0,3.0,3,True
+430530,196460,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Fracture,1,Nongshim RedForce,Rex Regum Qeon,12,14,Francis,31828,tejo,1.15,210.0,18.0,17.0,6.0,69.0,145.0,22.0,1.0,0.0,3,True
+430530,196460,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Fracture,1,Nongshim RedForce,Rex Regum Qeon,12,14,Dambi,31827,raze,1.12,255.0,23.0,21.0,5.0,73.0,161.0,31.0,10.0,5.0,3,True
+430530,196460,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Fracture,1,Nongshim RedForce,Rex Regum Qeon,12,14,Ivy,31829,breach,1.05,151.0,14.0,17.0,15.0,77.0,93.0,27.0,0.0,1.0,3,True
+430530,196460,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Fracture,1,Nongshim RedForce,Rex Regum Qeon,12,14,margaret,33576,cypher,0.58,122.0,10.0,19.0,5.0,54.0,81.0,24.0,4.0,2.0,3,True
+430530,196460,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Fracture,1,Nongshim RedForce,Rex Regum Qeon,12,14,Persia,4122,brimstone,0.49,121.0,10.0,20.0,8.0,69.0,86.0,29.0,0.0,3.0,3,True
+430530,196460,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Fracture,1,Rex Regum Qeon,Nongshim RedForce,14,12,Jemkin,24895,brimstone,1.41,263.0,24.0,14.0,15.0,81.0,175.0,33.0,3.0,2.0,3,True
+430530,196460,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Fracture,1,Rex Regum Qeon,Nongshim RedForce,14,12,Estrella,25025,breach,1.3,191.0,20.0,14.0,10.0,88.0,148.0,44.0,1.0,0.0,3,True
+430530,196460,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Fracture,1,Rex Regum Qeon,Nongshim RedForce,14,12,xffero,4871,killjoy,1.29,263.0,23.0,16.0,7.0,81.0,184.0,23.0,3.0,4.0,3,True
+430530,196460,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Fracture,1,Rex Regum Qeon,Nongshim RedForce,14,12,Kushy,4866,sova,0.95,155.0,13.0,16.0,8.0,69.0,115.0,35.0,2.0,2.0,3,True
+430530,196460,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Fracture,1,Rex Regum Qeon,Nongshim RedForce,14,12,Monyet,8497,neon,0.86,135.0,14.0,15.0,6.0,69.0,86.0,23.0,2.0,7.0,3,True
+430530,196461,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Lotus,2,Nongshim RedForce,Rex Regum Qeon,22,20,Persia,4122,omen,1.26,244.0,35.0,27.0,19.0,79.0,154.0,29.0,5.0,1.0,3,True
+430530,196461,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Lotus,2,Nongshim RedForce,Rex Regum Qeon,22,20,margaret,33576,vyse,1.24,224.0,31.0,26.0,13.0,71.0,157.0,34.0,5.0,2.0,3,True
+430530,196461,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Lotus,2,Nongshim RedForce,Rex Regum Qeon,22,20,Ivy,31829,astra,1.14,225.0,35.0,28.0,14.0,79.0,140.0,35.0,4.0,4.0,3,True
+430530,196461,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Lotus,2,Nongshim RedForce,Rex Regum Qeon,22,20,Dambi,31827,neon,0.8,186.0,26.0,33.0,13.0,64.0,116.0,24.0,8.0,8.0,3,True
+430530,196461,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Lotus,2,Nongshim RedForce,Rex Regum Qeon,22,20,Francis,31828,fade,0.78,175.0,23.0,30.0,15.0,74.0,119.0,15.0,3.0,2.0,3,True
+430530,196461,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Lotus,2,Rex Regum Qeon,Nongshim RedForce,20,22,Jemkin,24895,raze,1.29,277.0,38.0,29.0,12.0,81.0,180.0,21.0,6.0,9.0,3,True
+430530,196461,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Lotus,2,Rex Regum Qeon,Nongshim RedForce,20,22,Estrella,25025,omen,1.08,203.0,28.0,29.0,19.0,81.0,131.0,27.0,4.0,3.0,3,True
+430530,196461,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Lotus,2,Rex Regum Qeon,Nongshim RedForce,20,22,xffero,4871,vyse,1.05,194.0,31.0,28.0,11.0,69.0,121.0,18.0,2.0,4.0,3,True
+430530,196461,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Lotus,2,Rex Regum Qeon,Nongshim RedForce,20,22,Monyet,8497,viper,0.92,198.0,27.0,31.0,9.0,76.0,136.0,30.0,4.0,4.0,3,True
+430530,196461,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Lotus,2,Rex Regum Qeon,Nongshim RedForce,20,22,Kushy,4866,fade,0.69,153.0,20.0,33.0,20.0,69.0,99.0,15.0,1.0,5.0,3,True
+430530,196462,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,3,Nongshim RedForce,Rex Regum Qeon,13,8,Francis,31828,tejo,1.44,327.0,23.0,16.0,10.0,76.0,242.0,21.0,2.0,0.0,3,True
+430530,196462,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,3,Nongshim RedForce,Rex Regum Qeon,13,8,Ivy,31829,sova,1.28,202.0,17.0,11.0,6.0,67.0,142.0,19.0,2.0,3.0,3,True
+430530,196462,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,3,Nongshim RedForce,Rex Regum Qeon,13,8,Persia,4122,astra,1.17,156.0,12.0,9.0,9.0,81.0,109.0,30.0,1.0,0.0,3,True
+430530,196462,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,3,Nongshim RedForce,Rex Regum Qeon,13,8,margaret,33576,vyse,1.07,211.0,15.0,15.0,7.0,81.0,137.0,31.0,4.0,1.0,3,True
+430530,196462,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,3,Nongshim RedForce,Rex Regum Qeon,13,8,Dambi,31827,neon,0.91,232.0,17.0,18.0,8.0,86.0,140.0,20.0,5.0,3.0,3,True
+430530,196462,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,3,Rex Regum Qeon,Nongshim RedForce,8,13,Kushy,4866,sova,1.22,235.0,20.0,16.0,3.0,76.0,159.0,41.0,1.0,1.0,3,True
+430530,196462,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,3,Rex Regum Qeon,Nongshim RedForce,8,13,Estrella,25025,astra,0.97,157.0,10.0,16.0,13.0,71.0,112.0,26.0,0.0,0.0,3,True
+430530,196462,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,3,Rex Regum Qeon,Nongshim RedForce,8,13,xffero,4871,vyse,0.81,186.0,13.0,16.0,8.0,71.0,127.0,35.0,0.0,1.0,3,True
+430530,196462,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,3,Rex Regum Qeon,Nongshim RedForce,8,13,Monyet,8497,phoenix,0.76,182.0,12.0,18.0,8.0,67.0,125.0,25.0,1.0,2.0,3,True
+430530,196462,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,3,Rex Regum Qeon,Nongshim RedForce,8,13,Jemkin,24895,jett,0.69,190.0,14.0,18.0,3.0,57.0,117.0,25.0,5.0,10.0,3,True
+430531,196463,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,DetonatioN FocusMe,Paper Rex,13,10,gyen,48577,omen,1.84,300.0,27.0,11.0,8.0,87.0,187.0,30.0,5.0,0.0,3,True
+430531,196463,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,DetonatioN FocusMe,Paper Rex,13,10,Meiy,6672,jett,1.34,274.0,23.0,16.0,3.0,74.0,184.0,37.0,3.0,3.0,3,True
+430531,196463,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,DetonatioN FocusMe,Paper Rex,13,10,Jinboong,4052,astra,0.97,170.0,14.0,16.0,8.0,70.0,107.0,26.0,0.0,5.0,3,True
+430531,196463,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,DetonatioN FocusMe,Paper Rex,13,10,Art,10627,sova,0.91,185.0,13.0,17.0,9.0,61.0,133.0,28.0,0.0,1.0,3,True
+430531,196463,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,DetonatioN FocusMe,Paper Rex,13,10,Akame,13002,kayo,0.73,139.0,10.0,17.0,15.0,74.0,88.0,35.0,3.0,3.0,3,True
+430531,196463,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,Paper Rex,DetonatioN FocusMe,10,13,f0rsakeN,9801,sova,1.43,283.0,22.0,15.0,8.0,83.0,191.0,36.0,1.0,1.0,3,True
+430531,196463,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,Paper Rex,DetonatioN FocusMe,10,13,mindfreak,9800,omen,0.91,226.0,19.0,18.0,7.0,70.0,130.0,28.0,2.0,1.0,3,True
+430531,196463,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,Paper Rex,DetonatioN FocusMe,10,13,something,17086,jett,0.81,183.0,15.0,19.0,4.0,74.0,108.0,20.0,7.0,5.0,3,True
+430531,196463,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,Paper Rex,DetonatioN FocusMe,10,13,Jinggg,7378,cypher,0.75,163.0,14.0,17.0,2.0,70.0,110.0,56.0,2.0,2.0,3,True
+430531,196463,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,Paper Rex,DetonatioN FocusMe,10,13,d4v41,9803,kayo,0.53,112.0,7.0,18.0,16.0,65.0,84.0,25.0,0.0,2.0,3,True
+430531,196464,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,2,DetonatioN FocusMe,Paper Rex,13,1,Meiy,6672,jett,1.76,379.0,19.0,10.0,7.0,100.0,260.0,30.0,4.0,0.0,3,True
+430531,196464,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,2,DetonatioN FocusMe,Paper Rex,13,1,Akame,13002,kayo,1.56,266.0,14.0,7.0,6.0,100.0,156.0,13.0,2.0,0.0,3,True
+430531,196464,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,2,DetonatioN FocusMe,Paper Rex,13,1,Jinboong,4052,killjoy,1.46,195.0,12.0,5.0,1.0,100.0,146.0,28.0,1.0,2.0,3,True
+430531,196464,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,2,DetonatioN FocusMe,Paper Rex,13,1,Art,10627,tejo,1.28,225.0,12.0,7.0,5.0,86.0,149.0,18.0,1.0,0.0,3,True
+430531,196464,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,2,DetonatioN FocusMe,Paper Rex,13,1,gyen,48577,astra,0.84,165.0,9.0,10.0,7.0,79.0,83.0,11.0,3.0,1.0,3,True
+430531,196464,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,2,Paper Rex,DetonatioN FocusMe,1,13,something,17086,jett,0.96,200.0,10.0,11.0,1.0,64.0,135.0,32.0,0.0,2.0,3,True
+430531,196464,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,2,Paper Rex,DetonatioN FocusMe,1,13,Jinggg,7378,phoenix,0.82,237.0,10.0,13.0,5.0,50.0,165.0,26.0,2.0,3.0,3,True
+430531,196464,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,2,Paper Rex,DetonatioN FocusMe,1,13,d4v41,9803,sova,0.59,144.0,6.0,14.0,4.0,64.0,97.0,38.0,0.0,1.0,3,True
+430531,196464,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,2,Paper Rex,DetonatioN FocusMe,1,13,f0rsakeN,9801,killjoy,0.48,169.0,8.0,14.0,1.0,57.0,125.0,19.0,1.0,3.0,3,True
+430531,196464,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 2,2025-02-01,Pearl,2,Paper Rex,DetonatioN FocusMe,1,13,mindfreak,9800,astra,0.24,96.0,5.0,14.0,4.0,50.0,57.0,27.0,0.0,2.0,3,True
+430532,196466,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,TALON,Nongshim RedForce,9,13,primmie,25255,clove,1.43,266.0,23.0,16.0,5.0,73.0,184.0,38.0,1.0,2.0,3,True
+430532,196466,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,TALON,Nongshim RedForce,9,13,JitBoyS,13788,omen,0.95,197.0,15.0,17.0,9.0,68.0,121.0,20.0,4.0,2.0,3,True
+430532,196466,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,TALON,Nongshim RedForce,9,13,ban,5129,deadlock,0.76,169.0,14.0,17.0,3.0,55.0,107.0,32.0,0.0,3.0,3,True
+430532,196466,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,TALON,Nongshim RedForce,9,13,Governor,3980,raze,0.75,163.0,12.0,17.0,4.0,77.0,114.0,15.0,3.0,6.0,3,True
+430532,196466,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,TALON,Nongshim RedForce,9,13,Crws,3977,fade,0.66,147.0,9.0,17.0,7.0,73.0,98.0,16.0,0.0,1.0,3,True
+430532,196466,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,Nongshim RedForce,TALON,13,9,Ivy,31829,astra,1.33,200.0,17.0,11.0,10.0,82.0,129.0,44.0,1.0,0.0,3,True
+430532,196466,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,Nongshim RedForce,TALON,13,9,Francis,31828,fade,1.26,259.0,18.0,15.0,10.0,77.0,188.0,26.0,2.0,1.0,3,True
+430532,196466,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,Nongshim RedForce,TALON,13,9,Persia,4122,omen,1.07,218.0,17.0,15.0,9.0,82.0,140.0,30.0,2.0,2.0,3,True
+430532,196466,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,Nongshim RedForce,TALON,13,9,Dambi,31827,neon,1.02,237.0,18.0,17.0,10.0,77.0,151.0,24.0,4.0,3.0,3,True
+430532,196466,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,Nongshim RedForce,TALON,13,9,margaret,33576,vyse,0.96,170.0,13.0,15.0,8.0,77.0,111.0,24.0,5.0,2.0,3,True
+430532,196467,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,2,TALON,Nongshim RedForce,13,10,JitBoyS,13788,astra,1.43,221.0,19.0,12.0,7.0,78.0,162.0,43.0,2.0,0.0,3,True
+430532,196467,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,2,TALON,Nongshim RedForce,13,10,Crws,3977,fade,1.42,279.0,24.0,13.0,6.0,78.0,159.0,35.0,4.0,3.0,3,True
+430532,196467,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,2,TALON,Nongshim RedForce,13,10,primmie,25255,deadlock,1.06,171.0,16.0,12.0,3.0,78.0,127.0,34.0,0.0,2.0,3,True
+430532,196467,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,2,TALON,Nongshim RedForce,13,10,ban,5129,gekko,0.77,187.0,14.0,17.0,8.0,78.0,122.0,27.0,3.0,3.0,3,True
+430532,196467,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,2,TALON,Nongshim RedForce,13,10,Governor,3980,raze,0.55,130.0,8.0,18.0,5.0,65.0,89.0,5.0,3.0,3.0,3,True
+430532,196467,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,2,Nongshim RedForce,TALON,10,13,margaret,33576,viper,1.14,220.0,17.0,16.0,6.0,78.0,150.0,30.0,5.0,1.0,3,True
+430532,196467,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,2,Nongshim RedForce,TALON,10,13,Ivy,31829,vyse,0.96,170.0,15.0,15.0,3.0,74.0,111.0,31.0,0.0,1.0,3,True
+430532,196467,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,2,Nongshim RedForce,TALON,10,13,Persia,4122,brimstone,0.95,175.0,13.0,16.0,11.0,91.0,112.0,28.0,1.0,1.0,3,True
+430532,196467,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,2,Nongshim RedForce,TALON,10,13,Dambi,31827,neon,0.79,184.0,13.0,18.0,6.0,61.0,121.0,23.0,3.0,4.0,3,True
+430532,196467,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,2,Nongshim RedForce,TALON,10,13,Francis,31828,fade,0.73,161.0,14.0,16.0,3.0,61.0,99.0,21.0,2.0,5.0,3,True
+430532,196468,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,TALON,Nongshim RedForce,13,5,primmie,25255,deadlock,2.0,365.0,25.0,9.0,9.0,94.0,232.0,51.0,1.0,1.0,3,True
+430532,196468,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,TALON,Nongshim RedForce,13,5,JitBoyS,13788,astra,1.78,258.0,19.0,5.0,5.0,83.0,157.0,31.0,1.0,0.0,3,True
+430532,196468,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,TALON,Nongshim RedForce,13,5,Governor,3980,raze,1.16,258.0,16.0,12.0,4.0,72.0,160.0,21.0,4.0,4.0,3,True
+430532,196468,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,TALON,Nongshim RedForce,13,5,Crws,3977,skye,0.72,124.0,8.0,12.0,12.0,89.0,73.0,24.0,2.0,2.0,3,True
+430532,196468,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,TALON,Nongshim RedForce,13,5,ban,5129,cypher,0.56,102.0,5.0,11.0,5.0,72.0,65.0,23.0,1.0,2.0,3,True
+430532,196468,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,Nongshim RedForce,TALON,5,13,Persia,4122,astra,0.96,173.0,11.0,12.0,4.0,50.0,108.0,22.0,2.0,3.0,3,True
+430532,196468,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,Nongshim RedForce,TALON,5,13,Dambi,31827,neon,0.87,231.0,12.0,16.0,5.0,67.0,157.0,28.0,4.0,2.0,3,True
+430532,196468,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,Nongshim RedForce,TALON,5,13,Francis,31828,tejo,0.77,175.0,9.0,16.0,4.0,61.0,120.0,23.0,0.0,1.0,3,True
+430532,196468,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,Nongshim RedForce,TALON,5,13,Ivy,31829,breach,0.73,159.0,10.0,14.0,9.0,72.0,90.0,36.0,2.0,0.0,3,True
+430532,196468,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,Nongshim RedForce,TALON,5,13,margaret,33576,cypher,0.47,120.0,7.0,15.0,4.0,61.0,94.0,19.0,1.0,3.0,3,True
+430533,196469,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Abyss,1,Gen.G,DetonatioN FocusMe,13,6,yoman,25081,sova,1.34,193.0,14.0,7.0,6.0,84.0,126.0,38.0,0.0,0.0,3,True
+430533,196469,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Abyss,1,Gen.G,DetonatioN FocusMe,13,6,Munchkin,2489,kayo,1.32,222.0,14.0,10.0,14.0,79.0,138.0,43.0,3.0,1.0,3,True
+430533,196469,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Abyss,1,Gen.G,DetonatioN FocusMe,13,6,Karon,34974,omen,1.25,216.0,17.0,11.0,5.0,63.0,161.0,52.0,0.0,2.0,3,True
+430533,196469,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Abyss,1,Gen.G,DetonatioN FocusMe,13,6,t3xture,9196,jett,1.08,264.0,18.0,13.0,2.0,58.0,157.0,26.0,5.0,7.0,3,True
+430533,196469,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Abyss,1,Gen.G,DetonatioN FocusMe,13,6,Foxy9,11600,cypher,0.94,139.0,9.0,11.0,6.0,63.0,98.0,42.0,0.0,1.0,3,True
+430533,196469,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Abyss,1,DetonatioN FocusMe,Gen.G,6,13,Akame,13002,kayo,1.19,236.0,14.0,13.0,6.0,68.0,172.0,22.0,3.0,0.0,3,True
+430533,196469,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Abyss,1,DetonatioN FocusMe,Gen.G,6,13,Meiy,6672,jett,0.89,189.0,12.0,14.0,1.0,58.0,122.0,31.0,4.0,3.0,3,True
+430533,196469,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Abyss,1,DetonatioN FocusMe,Gen.G,6,13,Art,10627,sova,0.88,195.0,10.0,15.0,4.0,63.0,137.0,26.0,4.0,1.0,3,True
+430533,196469,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Abyss,1,DetonatioN FocusMe,Gen.G,6,13,gyen,48577,omen,0.7,130.0,10.0,14.0,3.0,63.0,73.0,33.0,0.0,1.0,3,True
+430533,196469,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Abyss,1,DetonatioN FocusMe,Gen.G,6,13,Jinboong,4052,astra,0.47,106.0,6.0,16.0,9.0,58.0,68.0,33.0,0.0,3.0,3,True
+430533,196470,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,2,Gen.G,DetonatioN FocusMe,13,6,Foxy9,11600,killjoy,1.42,259.0,19.0,9.0,1.0,79.0,189.0,41.0,1.0,3.0,3,True
+430533,196470,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,2,Gen.G,DetonatioN FocusMe,13,6,Munchkin,2489,viper,1.39,248.0,17.0,8.0,1.0,74.0,159.0,27.0,4.0,2.0,3,True
+430533,196470,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,2,Gen.G,DetonatioN FocusMe,13,6,Karon,34974,omen,1.04,179.0,13.0,12.0,9.0,84.0,125.0,42.0,0.0,2.0,3,True
+430533,196470,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,2,Gen.G,DetonatioN FocusMe,13,6,yoman,25081,fade,1.0,170.0,12.0,10.0,3.0,74.0,97.0,44.0,1.0,0.0,3,True
+430533,196470,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,2,Gen.G,DetonatioN FocusMe,13,6,t3xture,9196,raze,0.92,173.0,12.0,11.0,3.0,79.0,116.0,30.0,5.0,1.0,3,True
+430533,196470,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,2,DetonatioN FocusMe,Gen.G,6,13,Jinboong,4052,fade,0.94,139.0,10.0,12.0,4.0,63.0,85.0,43.0,2.0,1.0,3,True
+430533,196470,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,2,DetonatioN FocusMe,Gen.G,6,13,Akame,13002,vyse,0.86,188.0,13.0,16.0,2.0,68.0,116.0,23.0,2.0,1.0,3,True
+430533,196470,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,2,DetonatioN FocusMe,Gen.G,6,13,Meiy,6672,raze,0.83,177.0,10.0,15.0,3.0,58.0,121.0,14.0,2.0,4.0,3,True
+430533,196470,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,2,DetonatioN FocusMe,Gen.G,6,13,Art,10627,omen,0.73,151.0,9.0,15.0,10.0,68.0,88.0,4.0,2.0,4.0,3,True
+430533,196470,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,2,DetonatioN FocusMe,Gen.G,6,13,gyen,48577,astra,0.64,127.0,8.0,15.0,5.0,58.0,79.0,17.0,0.0,1.0,3,True
+430524,196440,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Lotus,1,T1,KIWOOM DRX,13,11,iZu,29833,cypher,1.42,259.0,22.0,13.0,3.0,88.0,165.0,37.0,3.0,2.0,3,True
+430524,196440,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Lotus,1,T1,KIWOOM DRX,13,11,Meteor,13039,iso,1.26,236.0,22.0,16.0,4.0,75.0,165.0,36.0,3.0,1.0,3,True
+430524,196440,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Lotus,1,T1,KIWOOM DRX,13,11,BuZz,804,raze,1.13,299.0,23.0,21.0,4.0,67.0,199.0,16.0,7.0,3.0,3,True
+430524,196440,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Lotus,1,T1,KIWOOM DRX,13,11,stax,485,sova,1.01,165.0,14.0,14.0,10.0,83.0,103.0,15.0,1.0,0.0,3,True
+430524,196440,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Lotus,1,T1,KIWOOM DRX,13,11,carpe,31207,omen,0.79,122.0,11.0,16.0,13.0,67.0,93.0,50.0,1.0,3.0,3,True
+430524,196440,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Lotus,1,KIWOOM DRX,T1,11,13,MaKo,4462,omen,1.2,212.0,19.0,15.0,10.0,75.0,133.0,21.0,1.0,3.0,3,True
+430524,196440,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Lotus,1,KIWOOM DRX,T1,11,13,HYUNMIN,28400,raze,1.05,254.0,21.0,20.0,5.0,54.0,173.0,20.0,3.0,4.0,3,True
+430524,196440,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Lotus,1,KIWOOM DRX,T1,11,13,free1ng,1916,tejo,1.05,224.0,19.0,20.0,6.0,67.0,143.0,25.0,5.0,1.0,3,True
+430524,196440,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Lotus,1,KIWOOM DRX,T1,11,13,BeYN,4678,fade,0.78,169.0,13.0,19.0,8.0,67.0,123.0,24.0,0.0,1.0,3,True
+430524,196440,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Lotus,1,KIWOOM DRX,T1,11,13,Flashback,35013,vyse,0.44,102.0,8.0,18.0,5.0,63.0,67.0,27.0,0.0,6.0,3,True
+430524,196441,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Haven,2,T1,KIWOOM DRX,13,15,iZu,29833,cypher,1.05,189.0,19.0,17.0,3.0,64.0,127.0,36.0,0.0,3.0,3,True
+430524,196441,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Haven,2,T1,KIWOOM DRX,13,15,Meteor,13039,iso,1.03,243.0,23.0,21.0,5.0,71.0,172.0,37.0,2.0,3.0,3,True
+430524,196441,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Haven,2,T1,KIWOOM DRX,13,15,BuZz,804,yoru,0.98,226.0,21.0,21.0,9.0,68.0,140.0,37.0,6.0,6.0,3,True
+430524,196441,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Haven,2,T1,KIWOOM DRX,13,15,carpe,31207,omen,0.84,161.0,15.0,21.0,13.0,64.0,111.0,47.0,3.0,1.0,3,True
+430524,196441,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Haven,2,T1,KIWOOM DRX,13,15,stax,485,sova,0.7,148.0,15.0,21.0,4.0,64.0,95.0,26.0,1.0,3.0,3,True
+430524,196441,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Haven,2,KIWOOM DRX,T1,15,13,free1ng,1916,tejo,1.31,277.0,28.0,19.0,7.0,75.0,191.0,33.0,2.0,1.0,3,True
+430524,196441,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Haven,2,KIWOOM DRX,T1,15,13,HYUNMIN,28400,jett,1.2,262.0,25.0,21.0,3.0,82.0,174.0,37.0,5.0,5.0,3,True
+430524,196441,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Haven,2,KIWOOM DRX,T1,15,13,MaKo,4462,omen,1.15,196.0,19.0,17.0,12.0,82.0,125.0,25.0,4.0,3.0,3,True
+430524,196441,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Haven,2,KIWOOM DRX,T1,15,13,Flashback,35013,cypher,1.11,180.0,17.0,16.0,8.0,79.0,113.0,22.0,4.0,3.0,3,True
+430524,196441,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Haven,2,KIWOOM DRX,T1,15,13,BeYN,4678,sova,0.64,120.0,12.0,20.0,3.0,64.0,79.0,27.0,1.0,0.0,3,True
+430524,196442,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Fracture,3,T1,KIWOOM DRX,10,13,BuZz,804,raze,1.38,292.0,23.0,17.0,4.0,78.0,180.0,23.0,5.0,3.0,3,True
+430524,196442,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Fracture,3,T1,KIWOOM DRX,10,13,carpe,31207,brimstone,1.08,207.0,17.0,17.0,12.0,70.0,135.0,47.0,0.0,2.0,3,True
+430524,196442,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Fracture,3,T1,KIWOOM DRX,10,13,iZu,29833,tejo,0.99,192.0,15.0,15.0,6.0,70.0,135.0,31.0,2.0,1.0,3,True
+430524,196442,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Fracture,3,T1,KIWOOM DRX,10,13,stax,485,breach,0.83,148.0,11.0,17.0,14.0,70.0,98.0,32.0,1.0,1.0,3,True
+430524,196442,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Fracture,3,T1,KIWOOM DRX,10,13,Meteor,13039,cypher,0.73,169.0,13.0,18.0,6.0,74.0,117.0,30.0,2.0,6.0,3,True
+430524,196442,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Fracture,3,KIWOOM DRX,T1,13,10,HYUNMIN,28400,raze,1.44,294.0,24.0,17.0,5.0,74.0,197.0,25.0,9.0,2.0,3,True
+430524,196442,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Fracture,3,KIWOOM DRX,T1,13,10,MaKo,4462,brimstone,1.43,282.0,25.0,15.0,10.0,83.0,164.0,27.0,3.0,1.0,3,True
+430524,196442,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Fracture,3,KIWOOM DRX,T1,13,10,BeYN,4678,breach,0.98,161.0,13.0,14.0,17.0,78.0,97.0,23.0,1.0,2.0,3,True
+430524,196442,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Fracture,3,KIWOOM DRX,T1,13,10,Flashback,35013,vyse,0.8,146.0,14.0,15.0,3.0,52.0,82.0,26.0,0.0,4.0,3,True
+430524,196442,2277,VCT 2025: Pacific Kickoff,Main Event: Upper Final,2025-02-07,Fracture,3,KIWOOM DRX,T1,13,10,free1ng,1916,tejo,0.53,120.0,8.0,18.0,8.0,78.0,100.0,20.0,0.0,1.0,3,True
+430534,196472,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Bind,1,TALON,Gen.G,7,13,primmie,25255,deadlock,1.11,239.0,19.0,16.0,3.0,65.0,136.0,31.0,1.0,2.0,3,True
+430534,196472,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Bind,1,TALON,Gen.G,7,13,ban,5129,gekko,0.84,176.0,12.0,15.0,0.0,55.0,107.0,33.0,2.0,3.0,3,True
+430534,196472,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Bind,1,TALON,Gen.G,7,13,Crws,3977,fade,0.79,147.0,10.0,15.0,6.0,75.0,99.0,41.0,2.0,0.0,3,True
+430534,196472,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Bind,1,TALON,Gen.G,7,13,JitBoyS,13788,astra,0.48,79.0,5.0,15.0,5.0,45.0,48.0,50.0,1.0,2.0,3,True
+430534,196472,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Bind,1,TALON,Gen.G,7,13,Governor,3980,raze,0.38,125.0,8.0,18.0,4.0,50.0,89.0,19.0,3.0,4.0,3,True
+430534,196472,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Bind,1,Gen.G,TALON,13,7,Karon,34974,brimstone,1.78,308.0,24.0,9.0,10.0,90.0,185.0,40.0,4.0,0.0,3,True
+430534,196472,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Bind,1,Gen.G,TALON,13,7,t3xture,9196,raze,1.41,276.0,21.0,12.0,3.0,85.0,185.0,23.0,3.0,1.0,3,True
+430534,196472,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Bind,1,Gen.G,TALON,13,7,yoman,25081,fade,1.32,171.0,12.0,9.0,10.0,90.0,123.0,32.0,2.0,2.0,3,True
+430534,196472,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Bind,1,Gen.G,TALON,13,7,Foxy9,11600,gekko,1.11,212.0,16.0,12.0,7.0,75.0,127.0,44.0,0.0,2.0,3,True
+430534,196472,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Bind,1,Gen.G,TALON,13,7,Munchkin,2489,viper,0.73,125.0,6.0,12.0,10.0,70.0,91.0,18.0,2.0,4.0,3,True
+430534,196473,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Lotus,2,TALON,Gen.G,2,13,primmie,25255,deadlock,0.95,248.0,11.0,14.0,6.0,67.0,180.0,45.0,0.0,1.0,3,True
+430534,196473,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Lotus,2,TALON,Gen.G,2,13,JitBoyS,13788,omen,0.9,143.0,8.0,11.0,3.0,60.0,107.0,47.0,1.0,1.0,3,True
+430534,196473,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Lotus,2,TALON,Gen.G,2,13,ban,5129,tejo,0.88,203.0,10.0,14.0,4.0,73.0,140.0,22.0,2.0,1.0,3,True
+430534,196473,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Lotus,2,TALON,Gen.G,2,13,Governor,3980,raze,0.29,108.0,6.0,15.0,2.0,53.0,68.0,6.0,1.0,3.0,3,True
+430534,196473,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Lotus,2,TALON,Gen.G,2,13,Crws,3977,fade,0.08,94.0,3.0,15.0,4.0,47.0,69.0,17.0,0.0,5.0,3,True
+430534,196473,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Lotus,2,Gen.G,TALON,13,2,yoman,25081,fade,1.88,258.0,15.0,4.0,6.0,93.0,141.0,34.0,1.0,0.0,3,True
+430534,196473,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Lotus,2,Gen.G,TALON,13,2,Foxy9,11600,killjoy,1.35,256.0,15.0,8.0,1.0,73.0,154.0,28.0,4.0,2.0,3,True
+430534,196473,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Lotus,2,Gen.G,TALON,13,2,Munchkin,2489,viper,1.28,279.0,16.0,9.0,3.0,80.0,162.0,25.0,3.0,0.0,3,True
+430534,196473,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Lotus,2,Gen.G,TALON,13,2,Karon,34974,omen,1.13,184.0,11.0,7.0,4.0,93.0,125.0,35.0,1.0,0.0,3,True
+430534,196473,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Round 4,2025-02-07,Lotus,2,Gen.G,TALON,13,2,t3xture,9196,raze,0.95,208.0,12.0,10.0,3.0,73.0,136.0,13.0,2.0,2.0,3,True
+430535,196475,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Pearl,1,T1,Gen.G,13,8,carpe,31207,astra,1.64,204.0,18.0,9.0,10.0,86.0,154.0,45.0,1.0,0.0,5,True
+430535,196475,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Pearl,1,T1,Gen.G,13,8,Meteor,13039,killjoy,1.1,204.0,15.0,14.0,4.0,71.0,142.0,23.0,1.0,2.0,5,True
+430535,196475,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Pearl,1,T1,Gen.G,13,8,stax,485,sova,1.1,193.0,16.0,14.0,3.0,71.0,144.0,39.0,0.0,1.0,5,True
+430535,196475,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Pearl,1,T1,Gen.G,13,8,iZu,29833,yoru,0.97,210.0,15.0,17.0,6.0,71.0,129.0,20.0,3.0,2.0,5,True
+430535,196475,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Pearl,1,T1,Gen.G,13,8,BuZz,804,neon,0.52,138.0,8.0,18.0,6.0,71.0,95.0,11.0,4.0,7.0,5,True
+430535,196475,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Pearl,1,Gen.G,T1,8,13,Karon,34974,astra,1.44,231.0,18.0,11.0,11.0,86.0,160.0,40.0,2.0,0.0,5,True
+430535,196475,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Pearl,1,Gen.G,T1,8,13,Munchkin,2489,kayo,1.12,228.0,16.0,14.0,11.0,86.0,159.0,27.0,3.0,1.0,5,True
+430535,196475,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Pearl,1,Gen.G,T1,8,13,Foxy9,11600,killjoy,0.79,143.0,11.0,13.0,3.0,62.0,98.0,16.0,2.0,4.0,5,True
+430535,196475,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Pearl,1,Gen.G,T1,8,13,t3xture,9196,jett,0.76,219.0,18.0,18.0,1.0,81.0,133.0,23.0,4.0,3.0,5,True
+430535,196475,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Pearl,1,Gen.G,T1,8,13,yoman,25081,sova,0.46,135.0,9.0,16.0,5.0,71.0,96.0,25.0,1.0,1.0,5,True
+430535,196476,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Lotus,2,T1,Gen.G,13,8,iZu,29833,cypher,1.28,181.0,15.0,10.0,8.0,81.0,126.0,36.0,1.0,2.0,5,True
+430535,196476,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Lotus,2,T1,Gen.G,13,8,Meteor,13039,iso,1.26,233.0,20.0,16.0,5.0,76.0,153.0,37.0,3.0,2.0,5,True
+430535,196476,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Lotus,2,T1,Gen.G,13,8,BuZz,804,raze,1.18,257.0,17.0,16.0,8.0,76.0,178.0,15.0,7.0,1.0,5,True
+430535,196476,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Lotus,2,T1,Gen.G,13,8,carpe,31207,omen,1.13,197.0,15.0,14.0,10.0,76.0,145.0,31.0,2.0,2.0,5,True
+430535,196476,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Lotus,2,T1,Gen.G,13,8,stax,485,sova,0.9,122.0,8.0,10.0,6.0,76.0,97.0,23.0,0.0,1.0,5,True
+430535,196476,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Lotus,2,Gen.G,T1,8,13,Karon,34974,omen,1.29,234.0,18.0,14.0,12.0,81.0,147.0,30.0,0.0,1.0,5,True
+430535,196476,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Lotus,2,Gen.G,T1,8,13,Munchkin,2489,viper,1.03,212.0,15.0,15.0,10.0,76.0,121.0,22.0,1.0,1.0,5,True
+430535,196476,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Lotus,2,Gen.G,T1,8,13,Foxy9,11600,killjoy,1.02,208.0,15.0,15.0,4.0,57.0,146.0,37.0,3.0,1.0,5,True
+430535,196476,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Lotus,2,Gen.G,T1,8,13,yoman,25081,fade,0.88,168.0,12.0,15.0,8.0,71.0,105.0,22.0,1.0,1.0,5,True
+430535,196476,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Lotus,2,Gen.G,T1,8,13,t3xture,9196,raze,0.29,93.0,6.0,16.0,3.0,43.0,66.0,21.0,3.0,9.0,5,True
+430535,196477,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Haven,3,T1,Gen.G,5,13,Meteor,13039,iso,0.93,229.0,13.0,16.0,5.0,67.0,160.0,21.0,2.0,3.0,5,True
+430535,196477,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Haven,3,T1,Gen.G,5,13,carpe,31207,omen,0.89,202.0,13.0,16.0,5.0,72.0,121.0,36.0,3.0,0.0,5,True
+430535,196477,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Haven,3,T1,Gen.G,5,13,iZu,29833,cypher,0.83,181.0,11.0,15.0,4.0,67.0,113.0,42.0,1.0,2.0,5,True
+430535,196477,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Haven,3,T1,Gen.G,5,13,stax,485,sova,0.64,113.0,8.0,13.0,4.0,56.0,88.0,32.0,1.0,1.0,5,True
+430535,196477,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Haven,3,T1,Gen.G,5,13,BuZz,804,yoru,0.4,146.0,8.0,17.0,3.0,50.0,90.0,11.0,1.0,4.0,5,True
+430535,196477,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Haven,3,Gen.G,T1,13,5,Munchkin,2489,viper,1.92,271.0,18.0,7.0,10.0,94.0,184.0,33.0,1.0,0.0,5,True
+430535,196477,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Haven,3,Gen.G,T1,13,5,t3xture,9196,neon,1.11,229.0,15.0,12.0,7.0,67.0,153.0,27.0,1.0,1.0,5,True
+430535,196477,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Haven,3,Gen.G,T1,13,5,yoman,25081,sova,1.11,206.0,15.0,11.0,4.0,78.0,131.0,62.0,3.0,1.0,5,True
+430535,196477,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Haven,3,Gen.G,T1,13,5,Karon,34974,omen,1.07,225.0,15.0,13.0,8.0,78.0,149.0,22.0,3.0,4.0,5,True
+430535,196477,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Haven,3,Gen.G,T1,13,5,Foxy9,11600,killjoy,1.03,194.0,14.0,10.0,2.0,72.0,114.0,24.0,2.0,2.0,5,True
+430535,196478,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Split,4,T1,Gen.G,15,17,iZu,29833,viper,1.26,274.0,29.0,21.0,8.0,69.0,186.0,25.0,3.0,2.0,5,True
+430535,196478,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Split,4,T1,Gen.G,15,17,stax,485,fade,1.18,225.0,28.0,22.0,9.0,66.0,133.0,26.0,4.0,3.0,5,True
+430535,196478,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Split,4,T1,Gen.G,15,17,Meteor,13039,yoru,0.77,160.0,17.0,24.0,8.0,63.0,117.0,14.0,3.0,3.0,5,True
+430535,196478,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Split,4,T1,Gen.G,15,17,BuZz,804,raze,0.72,159.0,18.0,24.0,3.0,59.0,101.0,15.0,4.0,7.0,5,True
+430535,196478,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Split,4,T1,Gen.G,15,17,carpe,31207,omen,0.63,156.0,15.0,27.0,15.0,63.0,104.0,26.0,3.0,0.0,5,True
+430535,196478,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Split,4,Gen.G,T1,17,15,t3xture,9196,raze,1.51,301.0,35.0,22.0,5.0,72.0,189.0,28.0,8.0,6.0,5,True
+430535,196478,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Split,4,Gen.G,T1,17,15,Karon,34974,astra,1.31,208.0,22.0,16.0,18.0,81.0,137.0,22.0,0.0,2.0,5,True
+430535,196478,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Split,4,Gen.G,T1,17,15,yoman,25081,breach,1.02,192.0,22.0,23.0,14.0,81.0,116.0,23.0,3.0,2.0,5,True
+430535,196478,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Split,4,Gen.G,T1,17,15,Munchkin,2489,tejo,0.97,197.0,22.0,22.0,9.0,75.0,132.0,26.0,3.0,5.0,5,True
+430535,196478,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Split,4,Gen.G,T1,17,15,Foxy9,11600,cypher,0.75,151.0,17.0,24.0,9.0,75.0,107.0,37.0,1.0,2.0,5,True
+430535,196479,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Bind,5,T1,Gen.G,13,10,carpe,31207,brimstone,1.25,220.0,18.0,15.0,10.0,87.0,136.0,31.0,2.0,1.0,5,True
+430535,196479,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Bind,5,T1,Gen.G,13,10,stax,485,kayo,1.21,191.0,17.0,13.0,8.0,74.0,136.0,27.0,1.0,1.0,5,True
+430535,196479,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Bind,5,T1,Gen.G,13,10,iZu,29833,gekko,0.98,166.0,13.0,13.0,7.0,74.0,106.0,15.0,1.0,0.0,5,True
+430535,196479,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Bind,5,T1,Gen.G,13,10,Meteor,13039,vyse,0.78,142.0,12.0,15.0,1.0,61.0,94.0,32.0,0.0,2.0,5,True
+430535,196479,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Bind,5,T1,Gen.G,13,10,BuZz,804,raze,0.64,220.0,16.0,22.0,5.0,65.0,130.0,9.0,8.0,7.0,5,True
+430535,196479,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Bind,5,Gen.G,T1,10,13,Karon,34974,brimstone,1.32,207.0,15.0,12.0,11.0,83.0,146.0,38.0,1.0,0.0,5,True
+430535,196479,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Bind,5,Gen.G,T1,10,13,t3xture,9196,raze,1.25,296.0,22.0,17.0,3.0,61.0,177.0,23.0,3.0,6.0,5,True
+430535,196479,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Bind,5,Gen.G,T1,10,13,yoman,25081,fade,0.98,169.0,16.0,15.0,7.0,78.0,99.0,23.0,3.0,3.0,5,True
+430535,196479,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Bind,5,Gen.G,T1,10,13,Foxy9,11600,gekko,0.82,162.0,13.0,15.0,3.0,74.0,101.0,21.0,1.0,1.0,5,True
+430535,196479,2277,VCT 2025: Pacific Kickoff,Main Event: Lower Final,2025-02-08,Bind,5,Gen.G,T1,10,13,Munchkin,2489,viper,0.74,168.0,12.0,17.0,9.0,78.0,104.0,11.0,3.0,2.0,5,True
+430525,196443,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Abyss,1,KIWOOM DRX,T1,13,3,free1ng,1916,tejo,2.06,320.0,21.0,5.0,6.0,94.0,195.0,30.0,2.0,1.0,5,True
+430525,196443,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Abyss,1,KIWOOM DRX,T1,13,3,BeYN,4678,sova,1.79,278.0,17.0,7.0,6.0,100.0,193.0,28.0,4.0,0.0,5,True
+430525,196443,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Abyss,1,KIWOOM DRX,T1,13,3,MaKo,4462,astra,1.6,220.0,13.0,5.0,12.0,88.0,160.0,17.0,1.0,1.0,5,True
+430525,196443,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Abyss,1,KIWOOM DRX,T1,13,3,Flashback,35013,cypher,1.01,204.0,12.0,11.0,5.0,88.0,144.0,26.0,2.0,1.0,5,True
+430525,196443,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Abyss,1,KIWOOM DRX,T1,13,3,HYUNMIN,28400,jett,0.69,165.0,10.0,11.0,1.0,81.0,109.0,28.0,1.0,3.0,5,True
+430525,196443,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Abyss,1,T1,KIWOOM DRX,3,13,BuZz,804,yoru,0.94,273.0,14.0,16.0,2.0,69.0,184.0,20.0,3.0,3.0,5,True
+430525,196443,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Abyss,1,T1,KIWOOM DRX,3,13,carpe,31207,astra,0.64,136.0,8.0,13.0,4.0,44.0,84.0,53.0,0.0,2.0,5,True
+430525,196443,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Abyss,1,T1,KIWOOM DRX,3,13,stax,485,breach,0.62,137.0,7.0,14.0,7.0,69.0,78.0,50.0,1.0,0.0,5,True
+430525,196443,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Abyss,1,T1,KIWOOM DRX,3,13,Meteor,13039,cypher,0.43,111.0,6.0,14.0,1.0,50.0,77.0,19.0,1.0,4.0,5,True
+430525,196443,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Abyss,1,T1,KIWOOM DRX,3,13,iZu,29833,sova,0.25,80.0,4.0,16.0,3.0,56.0,58.0,24.0,1.0,1.0,5,True
+430525,196444,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Lotus,2,KIWOOM DRX,T1,6,13,free1ng,1916,tejo,1.16,219.0,14.0,15.0,4.0,68.0,160.0,27.0,2.0,2.0,5,True
+430525,196444,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Lotus,2,KIWOOM DRX,T1,6,13,HYUNMIN,28400,raze,0.8,210.0,13.0,17.0,3.0,42.0,128.0,24.0,4.0,3.0,5,True
+430525,196444,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Lotus,2,KIWOOM DRX,T1,6,13,BeYN,4678,fade,0.75,123.0,7.0,14.0,8.0,58.0,92.0,22.0,1.0,0.0,5,True
+430525,196444,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Lotus,2,KIWOOM DRX,T1,6,13,Flashback,35013,viper,0.69,150.0,10.0,16.0,1.0,63.0,104.0,41.0,2.0,1.0,5,True
+430525,196444,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Lotus,2,KIWOOM DRX,T1,6,13,MaKo,4462,omen,0.65,139.0,7.0,16.0,13.0,68.0,91.0,21.0,1.0,3.0,5,True
+430525,196444,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Lotus,2,T1,KIWOOM DRX,13,6,carpe,31207,omen,1.51,240.0,16.0,9.0,18.0,100.0,151.0,34.0,1.0,1.0,5,True
+430525,196444,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Lotus,2,T1,KIWOOM DRX,13,6,BuZz,804,raze,1.33,273.0,20.0,11.0,4.0,84.0,187.0,21.0,4.0,4.0,5,True
+430525,196444,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Lotus,2,T1,KIWOOM DRX,13,6,stax,485,sova,1.24,201.0,14.0,10.0,6.0,89.0,142.0,36.0,3.0,2.0,5,True
+430525,196444,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Lotus,2,T1,KIWOOM DRX,13,6,Meteor,13039,iso,1.16,249.0,17.0,12.0,8.0,79.0,139.0,20.0,0.0,1.0,5,True
+430525,196444,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Lotus,2,T1,KIWOOM DRX,13,6,iZu,29833,cypher,0.84,126.0,11.0,9.0,1.0,74.0,90.0,26.0,1.0,2.0,5,True
+430525,196445,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Fracture,3,KIWOOM DRX,T1,13,9,BeYN,4678,breach,1.31,157.0,13.0,9.0,9.0,77.0,94.0,17.0,3.0,0.0,5,True
+430525,196445,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Fracture,3,KIWOOM DRX,T1,13,9,free1ng,1916,tejo,1.28,211.0,18.0,12.0,5.0,68.0,145.0,27.0,1.0,1.0,5,True
+430525,196445,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Fracture,3,KIWOOM DRX,T1,13,9,Flashback,35013,vyse,1.1,217.0,16.0,14.0,6.0,77.0,131.0,17.0,3.0,1.0,5,True
+430525,196445,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Fracture,3,KIWOOM DRX,T1,13,9,MaKo,4462,brimstone,1.02,207.0,15.0,16.0,16.0,82.0,139.0,27.0,2.0,5.0,5,True
+430525,196445,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Fracture,3,KIWOOM DRX,T1,13,9,HYUNMIN,28400,raze,0.83,197.0,16.0,17.0,1.0,64.0,120.0,21.0,4.0,2.0,5,True
+430525,196445,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Fracture,3,T1,KIWOOM DRX,9,13,carpe,31207,brimstone,1.14,172.0,14.0,14.0,8.0,82.0,98.0,31.0,0.0,0.0,5,True
+430525,196445,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Fracture,3,T1,KIWOOM DRX,9,13,BuZz,804,raze,1.1,265.0,19.0,18.0,4.0,82.0,189.0,20.0,6.0,4.0,5,True
+430525,196445,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Fracture,3,T1,KIWOOM DRX,9,13,stax,485,breach,0.93,189.0,13.0,16.0,11.0,73.0,124.0,23.0,0.0,1.0,5,True
+430525,196445,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Fracture,3,T1,KIWOOM DRX,9,13,Meteor,13039,cypher,0.84,187.0,14.0,15.0,4.0,68.0,127.0,35.0,2.0,5.0,5,True
+430525,196445,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Fracture,3,T1,KIWOOM DRX,9,13,iZu,29833,tejo,0.52,106.0,8.0,15.0,3.0,55.0,68.0,23.0,1.0,3.0,5,True
+430525,196446,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Bind,4,KIWOOM DRX,T1,12,14,HYUNMIN,28400,raze,1.24,252.0,24.0,19.0,2.0,73.0,161.0,37.0,5.0,4.0,5,True
+430525,196446,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Bind,4,KIWOOM DRX,T1,12,14,Flashback,35013,viper,1.24,248.0,22.0,17.0,9.0,81.0,156.0,25.0,0.0,2.0,5,True
+430525,196446,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Bind,4,KIWOOM DRX,T1,12,14,free1ng,1916,tejo,0.99,180.0,17.0,16.0,7.0,73.0,136.0,32.0,3.0,5.0,5,True
+430525,196446,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Bind,4,KIWOOM DRX,T1,12,14,MaKo,4462,brimstone,0.86,199.0,17.0,20.0,10.0,69.0,138.0,25.0,3.0,2.0,5,True
+430525,196446,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Bind,4,KIWOOM DRX,T1,12,14,BeYN,4678,kayo,0.77,133.0,11.0,19.0,16.0,77.0,87.0,23.0,0.0,2.0,5,True
+430525,196446,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Bind,4,T1,KIWOOM DRX,14,12,BuZz,804,raze,1.62,302.0,28.0,15.0,8.0,85.0,199.0,19.0,6.0,4.0,5,True
+430525,196446,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Bind,4,T1,KIWOOM DRX,14,12,carpe,31207,brimstone,1.21,228.0,19.0,20.0,21.0,88.0,154.0,23.0,3.0,1.0,5,True
+430525,196446,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Bind,4,T1,KIWOOM DRX,14,12,Meteor,13039,vyse,0.89,196.0,16.0,19.0,4.0,58.0,138.0,17.0,3.0,2.0,5,True
+430525,196446,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Bind,4,T1,KIWOOM DRX,14,12,iZu,29833,gekko,0.83,160.0,15.0,18.0,5.0,77.0,117.0,36.0,1.0,2.0,5,True
+430525,196446,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Bind,4,T1,KIWOOM DRX,14,12,stax,485,kayo,0.8,147.0,13.0,19.0,16.0,77.0,109.0,22.0,2.0,2.0,5,True
+430525,196447,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Split,5,KIWOOM DRX,T1,13,11,HYUNMIN,28400,raze,1.51,361.0,29.0,18.0,5.0,79.0,246.0,30.0,9.0,3.0,5,True
+430525,196447,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Split,5,KIWOOM DRX,T1,13,11,MaKo,4462,omen,1.33,204.0,18.0,11.0,7.0,83.0,136.0,51.0,1.0,0.0,5,True
+430525,196447,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Split,5,KIWOOM DRX,T1,13,11,Flashback,35013,cypher,1.16,210.0,18.0,15.0,8.0,79.0,149.0,29.0,2.0,3.0,5,True
+430525,196447,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Split,5,KIWOOM DRX,T1,13,11,BeYN,4678,breach,0.7,85.0,7.0,12.0,9.0,75.0,56.0,20.0,0.0,3.0,5,True
+430525,196447,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Split,5,KIWOOM DRX,T1,13,11,free1ng,1916,tejo,0.59,132.0,11.0,18.0,4.0,63.0,86.0,26.0,1.0,2.0,5,True
+430525,196447,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Split,5,T1,KIWOOM DRX,11,13,BuZz,804,raze,1.18,248.0,20.0,18.0,2.0,71.0,173.0,20.0,6.0,2.0,5,True
+430525,196447,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Split,5,T1,KIWOOM DRX,11,13,stax,485,skye,1.12,221.0,18.0,17.0,10.0,75.0,131.0,30.0,2.0,2.0,5,True
+430525,196447,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Split,5,T1,KIWOOM DRX,11,13,iZu,29833,viper,1.0,183.0,15.0,15.0,8.0,71.0,128.0,26.0,0.0,2.0,5,True
+430525,196447,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Split,5,T1,KIWOOM DRX,11,13,carpe,31207,omen,0.76,106.0,8.0,15.0,20.0,83.0,54.0,23.0,0.0,3.0,5,True
+430525,196447,2277,VCT 2025: Pacific Kickoff,Main Event: Grand Final,2025-02-09,Split,5,T1,KIWOOM DRX,11,13,Meteor,13039,chamber,0.69,152.0,13.0,18.0,3.0,54.0,98.0,19.0,3.0,4.0,5,True

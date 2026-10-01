@@ -1,0 +1,431 @@
+match_id,game_id,event_id,event,stage,date,map,map_order,team,opp,team_rounds,opp_rounds,player,player_id,agent,rating,acs,k,d,a,kast,adr,hs,fk,fd,best_of,completed
+448598,202495,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Split,1,EDward Gaming,Team Liquid,18,16,CHICHOO,15559.0,viper,1.41,287.0,36.0,25.0,8.0,71.0,181.0,38.0,2.0,3.0,3,True
+448598,202495,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Split,1,EDward Gaming,Team Liquid,18,16,ZmjjKK,3520.0,jett,1.18,277.0,33.0,27.0,3.0,74.0,166.0,23.0,8.0,4.0,3,True
+448598,202495,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Split,1,EDward Gaming,Team Liquid,18,16,nobody,3017.0,tejo,0.94,219.0,25.0,27.0,6.0,76.0,162.0,35.0,4.0,7.0,3,True
+448598,202495,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Split,1,EDward Gaming,Team Liquid,18,16,S1Mon,13768.0,breach,0.75,140.0,16.0,23.0,12.0,62.0,102.0,29.0,0.0,2.0,3,True
+448598,202495,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Split,1,EDward Gaming,Team Liquid,18,16,Smoggy,4742.0,omen,0.65,132.0,15.0,27.0,17.0,68.0,77.0,29.0,3.0,1.0,3,True
+448598,202495,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Split,1,Team Liquid,EDward Gaming,16,18,kamo,14681.0,yoru,1.39,284.0,34.0,25.0,5.0,68.0,181.0,26.0,7.0,2.0,3,True
+448598,202495,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Split,1,Team Liquid,EDward Gaming,16,18,keiko,11494.0,raze,1.19,266.0,31.0,26.0,6.0,76.0,185.0,29.0,3.0,4.0,3,True
+448598,202495,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Split,1,Team Liquid,EDward Gaming,16,18,kamyk,1475.0,astra,1.0,184.0,23.0,23.0,13.0,76.0,126.0,33.0,3.0,2.0,3,True
+448598,202495,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Split,1,Team Liquid,EDward Gaming,16,18,nAts,457.0,viper,0.97,205.0,25.0,26.0,11.0,71.0,136.0,16.0,2.0,5.0,3,True
+448598,202495,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Split,1,Team Liquid,EDward Gaming,16,18,paTiTek,309.0,fade,0.63,136.0,16.0,25.0,13.0,59.0,91.0,25.0,2.0,4.0,3,True
+448598,202496,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Pearl,2,EDward Gaming,Team Liquid,13,6,CHICHOO,15559.0,vyse,1.46,244.0,18.0,10.0,7.0,79.0,157.0,31.0,1.0,1.0,3,True
+448598,202496,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Pearl,2,EDward Gaming,Team Liquid,13,6,Smoggy,4742.0,astra,1.26,199.0,14.0,10.0,4.0,74.0,134.0,37.0,3.0,1.0,3,True
+448598,202496,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Pearl,2,EDward Gaming,Team Liquid,13,6,S1Mon,13768.0,fade,1.1,181.0,14.0,11.0,6.0,68.0,118.0,37.0,2.0,0.0,3,True
+448598,202496,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Pearl,2,EDward Gaming,Team Liquid,13,6,nobody,3017.0,tejo,0.96,170.0,11.0,12.0,5.0,68.0,123.0,37.0,1.0,1.0,3,True
+448598,202496,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Pearl,2,EDward Gaming,Team Liquid,13,6,ZmjjKK,3520.0,yoru,0.91,253.0,15.0,16.0,8.0,68.0,170.0,30.0,6.0,3.0,3,True
+448598,202496,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Pearl,2,Team Liquid,EDward Gaming,6,13,kamo,14681.0,yoru,1.06,222.0,14.0,14.0,2.0,63.0,152.0,28.0,2.0,4.0,3,True
+448598,202496,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Pearl,2,Team Liquid,EDward Gaming,6,13,nAts,457.0,chamber,1.0,175.0,13.0,12.0,0.0,63.0,123.0,24.0,2.0,5.0,3,True
+448598,202496,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Pearl,2,Team Liquid,EDward Gaming,6,13,keiko,11494.0,astra,0.88,146.0,10.0,14.0,6.0,68.0,89.0,26.0,0.0,0.0,3,True
+448598,202496,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Pearl,2,Team Liquid,EDward Gaming,6,13,paTiTek,309.0,vyse,0.73,215.0,14.0,17.0,3.0,58.0,133.0,25.0,1.0,2.0,3,True
+448598,202496,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Pearl,2,Team Liquid,EDward Gaming,6,13,kamyk,1475.0,sova,0.67,161.0,8.0,15.0,8.0,68.0,114.0,32.0,1.0,2.0,3,True
+448600,202501,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Lotus,1,KIWOOM DRX,Sentinels,13,3,free1ng,1916.0,tejo,1.9,310.0,18.0,5.0,7.0,88.0,204.0,38.0,3.0,1.0,3,True
+448600,202501,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Lotus,1,KIWOOM DRX,Sentinels,13,3,BeYN,4678.0,breach,1.57,214.0,12.0,5.0,9.0,94.0,131.0,19.0,1.0,0.0,3,True
+448600,202501,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Lotus,1,KIWOOM DRX,Sentinels,13,3,MaKo,4462.0,omen,1.25,210.0,12.0,7.0,10.0,94.0,137.0,26.0,2.0,3.0,3,True
+448600,202501,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Lotus,1,KIWOOM DRX,Sentinels,13,3,Flashback,35013.0,cypher,1.13,125.0,8.0,5.0,4.0,88.0,102.0,33.0,0.0,1.0,3,True
+448600,202501,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Lotus,1,KIWOOM DRX,Sentinels,13,3,HYUNMIN,28400.0,yoru,1.11,199.0,13.0,10.0,2.0,75.0,129.0,57.0,3.0,2.0,3,True
+448600,202501,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Lotus,1,Sentinels,KIWOOM DRX,3,13,zekken,4004.0,raze,0.71,180.0,9.0,13.0,2.0,63.0,121.0,18.0,2.0,3.0,3,True
+448600,202501,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Lotus,1,Sentinels,KIWOOM DRX,3,13,Zellsis,729.0,vyse,0.58,103.0,5.0,11.0,4.0,56.0,70.0,13.0,1.0,1.0,3,True
+448600,202501,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Lotus,1,Sentinels,KIWOOM DRX,3,13,bang,3880.0,omen,0.51,119.0,7.0,12.0,4.0,44.0,84.0,38.0,1.0,2.0,3,True
+448600,202501,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Lotus,1,Sentinels,KIWOOM DRX,3,13,N4RRATE,36245.0,fade,0.46,116.0,5.0,13.0,3.0,50.0,81.0,27.0,2.0,0.0,3,True
+448600,202501,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Lotus,1,Sentinels,KIWOOM DRX,3,13,johnqt,1265.0,viper,0.4,105.0,6.0,14.0,1.0,63.0,67.0,11.0,1.0,3.0,3,True
+448600,202502,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Haven,2,KIWOOM DRX,Sentinels,13,10,Flashback,35013.0,cypher,1.55,281.0,26.0,14.0,3.0,83.0,178.0,26.0,2.0,1.0,3,True
+448600,202502,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Haven,2,KIWOOM DRX,Sentinels,13,10,BeYN,4678.0,breach,1.13,189.0,15.0,14.0,11.0,83.0,133.0,20.0,0.0,2.0,3,True
+448600,202502,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Haven,2,KIWOOM DRX,Sentinels,13,10,free1ng,1916.0,tejo,0.88,201.0,17.0,18.0,5.0,83.0,130.0,39.0,3.0,1.0,3,True
+448600,202502,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Haven,2,KIWOOM DRX,Sentinels,13,10,HYUNMIN,28400.0,yoru,0.8,216.0,18.0,20.0,2.0,65.0,137.0,43.0,6.0,4.0,3,True
+448600,202502,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Haven,2,KIWOOM DRX,Sentinels,13,10,MaKo,4462.0,omen,0.75,118.0,8.0,15.0,11.0,65.0,85.0,21.0,2.0,2.0,3,True
+448600,202502,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Haven,2,Sentinels,KIWOOM DRX,10,13,bang,3880.0,astra,1.28,252.0,22.0,17.0,9.0,78.0,161.0,32.0,3.0,3.0,3,True
+448600,202502,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Haven,2,Sentinels,KIWOOM DRX,10,13,N4RRATE,36245.0,breach,1.13,206.0,15.0,15.0,16.0,87.0,150.0,25.0,2.0,1.0,3,True
+448600,202502,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Haven,2,Sentinels,KIWOOM DRX,10,13,johnqt,1265.0,tejo,1.05,214.0,18.0,18.0,7.0,91.0,134.0,17.0,2.0,2.0,3,True
+448600,202502,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Haven,2,Sentinels,KIWOOM DRX,10,13,zekken,4004.0,jett,0.81,172.0,14.0,16.0,1.0,74.0,123.0,34.0,3.0,4.0,3,True
+448600,202502,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-20,Haven,2,Sentinels,KIWOOM DRX,10,13,Zellsis,729.0,vyse,0.73,172.0,12.0,18.0,7.0,65.0,113.0,15.0,0.0,3.0,3,True
+448599,202498,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Fracture,1,Team Vitality,T1,13,10,Less,8447.0,brimstone,1.46,273.0,23.0,14.0,11.0,78.0,177.0,30.0,1.0,3.0,3,True
+448599,202498,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Fracture,1,Team Vitality,T1,13,10,Derke,5022.0,raze,1.27,269.0,22.0,14.0,4.0,70.0,162.0,24.0,5.0,6.0,3,True
+448599,202498,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Fracture,1,Team Vitality,T1,13,10,Sayf,312.0,tejo,0.98,166.0,15.0,13.0,1.0,78.0,109.0,39.0,2.0,0.0,3,True
+448599,202498,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Fracture,1,Team Vitality,T1,13,10,trexx,2168.0,vyse,0.93,162.0,12.0,13.0,9.0,78.0,107.0,14.0,2.0,2.0,3,True
+448599,202498,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Fracture,1,Team Vitality,T1,13,10,Kicks,11134.0,breach,0.92,152.0,13.0,14.0,9.0,83.0,100.0,35.0,0.0,2.0,3,True
+448599,202498,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Fracture,1,T1,Team Vitality,10,13,BuZz,804.0,raze,1.0,224.0,16.0,18.0,8.0,65.0,146.0,9.0,5.0,2.0,3,True
+448599,202498,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Fracture,1,T1,Team Vitality,10,13,carpe,31207.0,brimstone,0.97,193.0,14.0,16.0,11.0,74.0,126.0,22.0,4.0,4.0,3,True
+448599,202498,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Fracture,1,T1,Team Vitality,10,13,Meteor,13039.0,vyse,0.89,201.0,17.0,21.0,2.0,70.0,142.0,32.0,3.0,2.0,3,True
+448599,202498,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Fracture,1,T1,Team Vitality,10,13,iZu,29833.0,tejo,0.84,161.0,12.0,16.0,3.0,70.0,109.0,18.0,1.0,2.0,3,True
+448599,202498,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Fracture,1,T1,Team Vitality,10,13,stax,485.0,breach,0.75,102.0,9.0,14.0,4.0,57.0,71.0,30.0,0.0,0.0,3,True
+448599,202499,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Bind,2,Team Vitality,T1,13,9,trexx,2168.0,brimstone,1.75,350.0,28.0,13.0,11.0,91.0,208.0,21.0,1.0,1.0,3,True
+448599,202499,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Bind,2,Team Vitality,T1,13,9,Kicks,11134.0,skye,1.38,238.0,19.0,12.0,10.0,77.0,146.0,32.0,1.0,2.0,3,True
+448599,202499,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Bind,2,Team Vitality,T1,13,9,Derke,5022.0,raze,1.26,248.0,20.0,16.0,5.0,77.0,152.0,16.0,5.0,3.0,3,True
+448599,202499,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Bind,2,Team Vitality,T1,13,9,Less,8447.0,viper,1.15,219.0,19.0,14.0,4.0,68.0,129.0,48.0,3.0,3.0,3,True
+448599,202499,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Bind,2,Team Vitality,T1,13,9,Sayf,312.0,tejo,0.37,67.0,4.0,14.0,6.0,64.0,61.0,12.0,0.0,3.0,3,True
+448599,202499,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Bind,2,T1,Team Vitality,9,13,stax,485.0,kayo,1.02,203.0,17.0,18.0,7.0,73.0,128.0,41.0,4.0,0.0,3,True
+448599,202499,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Bind,2,T1,Team Vitality,9,13,Meteor,13039.0,vyse,1.0,211.0,15.0,17.0,8.0,64.0,155.0,33.0,3.0,5.0,3,True
+448599,202499,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Bind,2,T1,Team Vitality,9,13,iZu,29833.0,fade,0.96,186.0,14.0,17.0,5.0,64.0,121.0,44.0,1.0,1.0,3,True
+448599,202499,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Bind,2,T1,Team Vitality,9,13,BuZz,804.0,raze,0.91,248.0,17.0,19.0,5.0,73.0,159.0,16.0,4.0,2.0,3,True
+448599,202499,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Bind,2,T1,Team Vitality,9,13,carpe,31207.0,brimstone,0.27,88.0,6.0,19.0,6.0,59.0,57.0,44.0,0.0,2.0,3,True
+448597,202492,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Lotus,1,G2 Esports,Trace Esports,13,8,trent,15500.0,tejo,1.52,296.0,23.0,12.0,4.0,67.0,206.0,30.0,3.0,4.0,3,True
+448597,202492,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Lotus,1,G2 Esports,Trace Esports,13,8,leaf,7873.0,viper,1.35,263.0,21.0,13.0,3.0,86.0,178.0,28.0,0.0,1.0,3,True
+448597,202492,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Lotus,1,G2 Esports,Trace Esports,13,8,valyn,3885.0,omen,1.09,178.0,13.0,11.0,8.0,81.0,106.0,15.0,3.0,3.0,3,True
+448597,202492,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Lotus,1,G2 Esports,Trace Esports,13,8,JonahP,4581.0,breach,0.76,139.0,9.0,14.0,15.0,76.0,101.0,11.0,0.0,0.0,3,True
+448597,202492,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Lotus,1,G2 Esports,Trace Esports,13,8,jawgemo,3993.0,yoru,0.72,179.0,13.0,17.0,3.0,62.0,113.0,21.0,3.0,4.0,3,True
+448597,202492,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Lotus,1,Trace Esports,G2 Esports,8,13,Biank,3021.0,fade,1.15,184.0,14.0,13.0,6.0,67.0,123.0,11.0,4.0,1.0,3,True
+448597,202492,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Lotus,1,Trace Esports,G2 Esports,8,13,heybay,4712.0,viper,0.95,171.0,12.0,15.0,8.0,71.0,115.0,25.0,2.0,3.0,3,True
+448597,202492,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Lotus,1,Trace Esports,G2 Esports,8,13,LuoK1ng,3045.0,omen,0.91,172.0,13.0,14.0,6.0,67.0,128.0,38.0,0.0,1.0,3,True
+448597,202492,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Lotus,1,Trace Esports,G2 Esports,8,13,FengF,4770.0,raze,0.82,206.0,14.0,18.0,1.0,62.0,137.0,21.0,4.0,3.0,3,True
+448597,202492,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Lotus,1,Trace Esports,G2 Esports,8,13,Kai,37494.0,vyse,0.77,191.0,14.0,19.0,5.0,52.0,122.0,32.0,2.0,1.0,3,True
+448597,202493,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Abyss,2,G2 Esports,Trace Esports,13,3,leaf,7873.0,chamber,1.57,234.0,16.0,4.0,1.0,88.0,167.0,31.0,3.0,0.0,3,True
+448597,202493,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Abyss,2,G2 Esports,Trace Esports,13,3,trent,15500.0,sova,1.51,197.0,12.0,5.0,8.0,88.0,140.0,33.0,1.0,1.0,3,True
+448597,202493,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Abyss,2,G2 Esports,Trace Esports,13,3,JonahP,4581.0,breach,1.51,215.0,12.0,8.0,13.0,88.0,137.0,17.0,0.0,1.0,3,True
+448597,202493,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Abyss,2,G2 Esports,Trace Esports,13,3,valyn,3885.0,astra,1.3,180.0,10.0,7.0,9.0,81.0,102.0,18.0,3.0,0.0,3,True
+448597,202493,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Abyss,2,G2 Esports,Trace Esports,13,3,jawgemo,3993.0,yoru,1.3,226.0,13.0,9.0,6.0,81.0,164.0,22.0,4.0,3.0,3,True
+448597,202493,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Abyss,2,Trace Esports,G2 Esports,3,13,LuoK1ng,3045.0,astra,0.71,168.0,9.0,14.0,5.0,69.0,105.0,37.0,1.0,1.0,3,True
+448597,202493,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Abyss,2,Trace Esports,G2 Esports,3,13,Kai,37494.0,jett,0.5,130.0,8.0,14.0,0.0,63.0,89.0,26.0,2.0,3.0,3,True
+448597,202493,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Abyss,2,Trace Esports,G2 Esports,3,13,Biank,3021.0,sova,0.49,131.0,6.0,13.0,0.0,63.0,97.0,17.0,0.0,1.0,3,True
+448597,202493,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Abyss,2,Trace Esports,G2 Esports,3,13,heybay,4712.0,kayo,0.48,97.0,4.0,13.0,5.0,56.0,65.0,13.0,2.0,2.0,3,True
+448597,202493,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 1,2025-02-21,Abyss,2,Trace Esports,G2 Esports,3,13,FengF,4770.0,omen,0.46,139.0,6.0,13.0,3.0,44.0,103.0,24.0,0.0,4.0,3,True
+449000,202765,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,1,KIWOOM DRX,Team Vitality,8,13,HYUNMIN,28400.0,yoru,1.38,328.0,23.0,18.0,7.0,81.0,202.0,27.0,4.0,2.0,3,True
+449000,202765,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,1,KIWOOM DRX,Team Vitality,8,13,BeYN,4678.0,breach,1.05,169.0,13.0,14.0,8.0,81.0,115.0,29.0,2.0,0.0,3,True
+449000,202765,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,1,KIWOOM DRX,Team Vitality,8,13,free1ng,1916.0,tejo,0.79,170.0,11.0,16.0,6.0,71.0,116.0,16.0,2.0,2.0,3,True
+449000,202765,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,1,KIWOOM DRX,Team Vitality,8,13,MaKo,4462.0,brimstone,0.68,136.0,9.0,17.0,11.0,76.0,100.0,26.0,1.0,1.0,3,True
+449000,202765,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,1,KIWOOM DRX,Team Vitality,8,13,Flashback,35013.0,cypher,0.58,159.0,11.0,18.0,1.0,33.0,116.0,24.0,2.0,5.0,3,True
+449000,202765,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,1,Team Vitality,KIWOOM DRX,13,8,trexx,2168.0,brimstone,1.4,255.0,17.0,12.0,13.0,90.0,169.0,19.0,1.0,0.0,3,True
+449000,202765,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,1,Team Vitality,KIWOOM DRX,13,8,Kicks,11134.0,skye,1.27,223.0,17.0,12.0,8.0,67.0,133.0,22.0,2.0,1.0,3,True
+449000,202765,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,1,Team Vitality,KIWOOM DRX,13,8,Derke,5022.0,raze,1.27,286.0,21.0,17.0,3.0,71.0,189.0,20.0,4.0,4.0,3,True
+449000,202765,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,1,Team Vitality,KIWOOM DRX,13,8,Less,8447.0,viper,0.98,201.0,17.0,14.0,6.0,62.0,128.0,18.0,0.0,2.0,3,True
+449000,202765,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,1,Team Vitality,KIWOOM DRX,13,8,Sayf,312.0,tejo,0.8,136.0,11.0,12.0,5.0,71.0,76.0,8.0,3.0,4.0,3,True
+449000,202766,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Abyss,2,KIWOOM DRX,Team Vitality,13,11,MaKo,4462.0,omen,1.39,291.0,25.0,16.0,11.0,83.0,192.0,25.0,2.0,2.0,3,True
+449000,202766,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Abyss,2,KIWOOM DRX,Team Vitality,13,11,BeYN,4678.0,sova,1.22,188.0,17.0,14.0,10.0,83.0,107.0,26.0,1.0,1.0,3,True
+449000,202766,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Abyss,2,KIWOOM DRX,Team Vitality,13,11,free1ng,1916.0,tejo,0.94,186.0,14.0,17.0,8.0,75.0,127.0,44.0,1.0,2.0,3,True
+449000,202766,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Abyss,2,KIWOOM DRX,Team Vitality,13,11,Flashback,35013.0,cypher,0.92,190.0,17.0,18.0,3.0,75.0,131.0,28.0,5.0,1.0,3,True
+449000,202766,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Abyss,2,KIWOOM DRX,Team Vitality,13,11,HYUNMIN,28400.0,yoru,0.82,178.0,15.0,18.0,2.0,75.0,110.0,33.0,6.0,3.0,3,True
+449000,202766,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Abyss,2,Team Vitality,KIWOOM DRX,11,13,Derke,5022.0,jett,1.69,359.0,32.0,17.0,3.0,71.0,223.0,34.0,7.0,6.0,3,True
+449000,202766,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Abyss,2,Team Vitality,KIWOOM DRX,11,13,trexx,2168.0,sova,1.18,216.0,17.0,16.0,6.0,75.0,150.0,27.0,2.0,2.0,3,True
+449000,202766,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Abyss,2,Team Vitality,KIWOOM DRX,11,13,Less,8447.0,astra,0.84,156.0,13.0,18.0,11.0,67.0,113.0,38.0,0.0,3.0,3,True
+449000,202766,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Abyss,2,Team Vitality,KIWOOM DRX,11,13,Kicks,11134.0,breach,0.64,153.0,14.0,18.0,5.0,67.0,96.0,33.0,0.0,1.0,3,True
+449000,202766,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Abyss,2,Team Vitality,KIWOOM DRX,11,13,Sayf,312.0,tejo,0.4,106.0,7.0,19.0,8.0,46.0,80.0,19.0,0.0,3.0,3,True
+449000,202767,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Split,3,KIWOOM DRX,Team Vitality,11,13,free1ng,1916.0,tejo,1.37,265.0,24.0,14.0,6.0,79.0,179.0,27.0,3.0,3.0,3,True
+449000,202767,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Split,3,KIWOOM DRX,Team Vitality,11,13,HYUNMIN,28400.0,yoru,1.05,250.0,21.0,19.0,6.0,67.0,173.0,31.0,2.0,5.0,3,True
+449000,202767,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Split,3,KIWOOM DRX,Team Vitality,11,13,Flashback,35013.0,cypher,0.98,163.0,14.0,16.0,7.0,83.0,114.0,33.0,1.0,0.0,3,True
+449000,202767,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Split,3,KIWOOM DRX,Team Vitality,11,13,MaKo,4462.0,omen,0.84,159.0,13.0,17.0,11.0,67.0,117.0,27.0,1.0,4.0,3,True
+449000,202767,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Split,3,KIWOOM DRX,Team Vitality,11,13,BeYN,4678.0,breach,0.79,170.0,13.0,18.0,10.0,67.0,116.0,31.0,4.0,1.0,3,True
+449000,202767,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Split,3,Team Vitality,KIWOOM DRX,13,11,Derke,5022.0,raze,1.36,300.0,25.0,20.0,4.0,83.0,200.0,18.0,8.0,1.0,3,True
+449000,202767,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Split,3,Team Vitality,KIWOOM DRX,13,11,Kicks,11134.0,breach,1.14,179.0,15.0,15.0,9.0,79.0,129.0,23.0,0.0,1.0,3,True
+449000,202767,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Split,3,Team Vitality,KIWOOM DRX,13,11,Less,8447.0,viper,1.1,223.0,20.0,17.0,3.0,75.0,149.0,24.0,2.0,4.0,3,True
+449000,202767,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Split,3,Team Vitality,KIWOOM DRX,13,11,Sayf,312.0,omen,1.03,186.0,15.0,16.0,11.0,83.0,116.0,22.0,2.0,3.0,3,True
+449000,202767,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Split,3,Team Vitality,KIWOOM DRX,13,11,trexx,2168.0,fade,0.7,127.0,9.0,17.0,15.0,58.0,92.0,15.0,1.0,2.0,3,True
+449001,202768,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Pearl,1,EDward Gaming,G2 Esports,16,18,CHICHOO,15559.0,vyse,1.3,269.0,33.0,22.0,8.0,62.0,172.0,18.0,1.0,5.0,3,True
+449001,202768,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Pearl,1,EDward Gaming,G2 Esports,16,18,Smoggy,4742.0,astra,1.16,203.0,24.0,23.0,20.0,76.0,135.0,28.0,5.0,0.0,3,True
+449001,202768,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Pearl,1,EDward Gaming,G2 Esports,16,18,ZmjjKK,3520.0,yoru,1.04,243.0,28.0,26.0,10.0,71.0,155.0,27.0,6.0,9.0,3,True
+449001,202768,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Pearl,1,EDward Gaming,G2 Esports,16,18,nobody,3017.0,tejo,0.78,127.0,15.0,21.0,5.0,62.0,83.0,35.0,1.0,4.0,3,True
+449001,202768,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Pearl,1,EDward Gaming,G2 Esports,16,18,S1Mon,13768.0,fade,0.73,149.0,17.0,24.0,4.0,62.0,92.0,31.0,2.0,1.0,3,True
+449001,202768,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Pearl,1,G2 Esports,EDward Gaming,18,16,trent,15500.0,sova,1.19,227.0,26.0,21.0,10.0,74.0,147.0,21.0,2.0,2.0,3,True
+449001,202768,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Pearl,1,G2 Esports,EDward Gaming,18,16,valyn,3885.0,astra,1.19,215.0,26.0,22.0,12.0,74.0,145.0,27.0,3.0,3.0,3,True
+449001,202768,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Pearl,1,G2 Esports,EDward Gaming,18,16,jawgemo,3993.0,yoru,1.08,220.0,26.0,24.0,9.0,76.0,153.0,28.0,5.0,3.0,3,True
+449001,202768,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Pearl,1,G2 Esports,EDward Gaming,18,16,leaf,7873.0,chamber,0.79,184.0,21.0,26.0,6.0,65.0,128.0,27.0,4.0,3.0,3,True
+449001,202768,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Pearl,1,G2 Esports,EDward Gaming,18,16,JonahP,4581.0,vyse,0.76,146.0,17.0,24.0,9.0,74.0,88.0,19.0,5.0,4.0,3,True
+449001,202769,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,2,EDward Gaming,G2 Esports,13,8,Smoggy,4742.0,brimstone,1.38,241.0,18.0,13.0,11.0,76.0,159.0,23.0,4.0,0.0,3,True
+449001,202769,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,2,EDward Gaming,G2 Esports,13,8,nobody,3017.0,tejo,1.17,203.0,16.0,12.0,4.0,67.0,123.0,23.0,2.0,1.0,3,True
+449001,202769,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,2,EDward Gaming,G2 Esports,13,8,S1Mon,13768.0,kayo,1.09,195.0,14.0,14.0,13.0,81.0,128.0,29.0,1.0,2.0,3,True
+449001,202769,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,2,EDward Gaming,G2 Esports,13,8,ZmjjKK,3520.0,raze,1.03,234.0,17.0,16.0,7.0,81.0,158.0,14.0,3.0,3.0,3,True
+449001,202769,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,2,EDward Gaming,G2 Esports,13,8,CHICHOO,15559.0,vyse,1.02,167.0,12.0,12.0,4.0,71.0,125.0,32.0,4.0,1.0,3,True
+449001,202769,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,2,G2 Esports,EDward Gaming,8,13,JonahP,4581.0,skye,1.11,256.0,17.0,17.0,13.0,86.0,173.0,24.0,2.0,2.0,3,True
+449001,202769,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,2,G2 Esports,EDward Gaming,8,13,jawgemo,3993.0,raze,1.01,217.0,19.0,14.0,1.0,57.0,124.0,16.0,2.0,3.0,3,True
+449001,202769,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,2,G2 Esports,EDward Gaming,8,13,trent,15500.0,tejo,0.94,148.0,11.0,14.0,6.0,62.0,102.0,21.0,2.0,4.0,3,True
+449001,202769,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,2,G2 Esports,EDward Gaming,8,13,leaf,7873.0,viper,0.92,179.0,12.0,15.0,5.0,71.0,129.0,21.0,1.0,2.0,3,True
+449001,202769,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Bind,2,G2 Esports,EDward Gaming,8,13,valyn,3885.0,brimstone,0.6,134.0,8.0,17.0,15.0,81.0,77.0,8.0,0.0,3.0,3,True
+449001,202770,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Fracture,3,EDward Gaming,G2 Esports,13,4,CHICHOO,15559.0,cypher,1.63,269.0,18.0,8.0,6.0,88.0,167.0,19.0,1.0,0.0,3,True
+449001,202770,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Fracture,3,EDward Gaming,G2 Esports,13,4,nobody,3017.0,tejo,1.51,289.0,17.0,9.0,7.0,88.0,181.0,29.0,4.0,0.0,3,True
+449001,202770,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Fracture,3,EDward Gaming,G2 Esports,13,4,ZmjjKK,3520.0,neon,1.31,299.0,18.0,12.0,5.0,88.0,178.0,19.0,8.0,2.0,3,True
+449001,202770,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Fracture,3,EDward Gaming,G2 Esports,13,4,S1Mon,13768.0,breach,1.24,180.0,12.0,9.0,16.0,94.0,123.0,39.0,1.0,1.0,3,True
+449001,202770,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Fracture,3,EDward Gaming,G2 Esports,13,4,Smoggy,4742.0,brimstone,1.15,188.0,11.0,9.0,11.0,82.0,130.0,21.0,0.0,0.0,3,True
+449001,202770,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Fracture,3,G2 Esports,EDward Gaming,4,13,trent,15500.0,tejo,1.17,243.0,13.0,14.0,8.0,65.0,172.0,26.0,0.0,3.0,3,True
+449001,202770,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Fracture,3,G2 Esports,EDward Gaming,4,13,valyn,3885.0,brimstone,0.91,176.0,10.0,14.0,7.0,71.0,119.0,31.0,0.0,1.0,3,True
+449001,202770,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Fracture,3,G2 Esports,EDward Gaming,4,13,JonahP,4581.0,breach,0.61,142.0,9.0,15.0,7.0,59.0,93.0,29.0,1.0,2.0,3,True
+449001,202770,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Fracture,3,G2 Esports,EDward Gaming,4,13,leaf,7873.0,vyse,0.47,116.0,7.0,16.0,3.0,59.0,75.0,32.0,1.0,2.0,3,True
+449001,202770,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (1-0),2025-02-22,Fracture,3,G2 Esports,EDward Gaming,4,13,jawgemo,3993.0,raze,0.4,156.0,8.0,17.0,2.0,53.0,92.0,26.0,1.0,6.0,3,True
+449002,202771,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,T1,Trace Esports,13,3,iZu,29833.0,cypher,1.86,300.0,20.0,6.0,1.0,94.0,209.0,43.0,3.0,0.0,3,True
+449002,202771,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,T1,Trace Esports,13,3,BuZz,804.0,raze,1.49,294.0,17.0,9.0,3.0,88.0,188.0,29.0,3.0,1.0,3,True
+449002,202771,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,T1,Trace Esports,13,3,stax,485.0,sova,1.42,254.0,16.0,8.0,2.0,88.0,166.0,29.0,2.0,0.0,3,True
+449002,202771,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,T1,Trace Esports,13,3,Meteor,13039.0,iso,1.12,198.0,12.0,8.0,4.0,75.0,138.0,48.0,3.0,2.0,3,True
+449002,202771,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,T1,Trace Esports,13,3,Sylvan,4056.0,omen,1.0,151.0,9.0,8.0,8.0,88.0,117.0,30.0,0.0,2.0,3,True
+449002,202771,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Trace Esports,T1,3,13,Kai,37494.0,vyse,0.87,209.0,12.0,15.0,2.0,63.0,115.0,35.0,2.0,2.0,3,True
+449002,202771,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Trace Esports,T1,3,13,Biank,3021.0,fade,0.77,161.0,8.0,14.0,8.0,56.0,103.0,22.0,0.0,2.0,3,True
+449002,202771,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Trace Esports,T1,3,13,FengF,4770.0,raze,0.52,152.0,8.0,15.0,3.0,63.0,100.0,12.0,1.0,5.0,3,True
+449002,202771,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Trace Esports,T1,3,13,LuoK1ng,3045.0,omen,0.44,117.0,6.0,15.0,5.0,69.0,76.0,24.0,1.0,2.0,3,True
+449002,202771,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Trace Esports,T1,3,13,heybay,4712.0,viper,0.38,127.0,5.0,15.0,2.0,38.0,89.0,21.0,1.0,0.0,3,True
+449002,202772,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Haven,2,T1,Trace Esports,13,8,Meteor,13039.0,iso,1.36,297.0,21.0,14.0,4.0,76.0,211.0,40.0,5.0,2.0,3,True
+449002,202772,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Haven,2,T1,Trace Esports,13,8,BuZz,804.0,yoru,1.36,279.0,23.0,14.0,4.0,81.0,176.0,19.0,3.0,4.0,3,True
+449002,202772,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Haven,2,T1,Trace Esports,13,8,iZu,29833.0,cypher,1.31,185.0,18.0,8.0,2.0,81.0,119.0,42.0,2.0,1.0,3,True
+449002,202772,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Haven,2,T1,Trace Esports,13,8,stax,485.0,sova,0.89,129.0,9.0,11.0,6.0,71.0,98.0,26.0,0.0,2.0,3,True
+449002,202772,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Haven,2,T1,Trace Esports,13,8,Sylvan,4056.0,omen,0.62,134.0,8.0,15.0,14.0,76.0,77.0,29.0,1.0,1.0,3,True
+449002,202772,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Haven,2,Trace Esports,T1,8,13,Kai,37494.0,jett,1.43,273.0,20.0,14.0,2.0,71.0,176.0,30.0,4.0,3.0,3,True
+449002,202772,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Haven,2,Trace Esports,T1,8,13,Biank,3021.0,sova,0.87,191.0,13.0,17.0,4.0,52.0,132.0,30.0,1.0,2.0,3,True
+449002,202772,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Haven,2,Trace Esports,T1,8,13,heybay,4712.0,breach,0.84,142.0,10.0,14.0,7.0,67.0,83.0,45.0,0.0,2.0,3,True
+449002,202772,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Haven,2,Trace Esports,T1,8,13,LuoK1ng,3045.0,omen,0.83,166.0,12.0,17.0,7.0,62.0,105.0,36.0,2.0,1.0,3,True
+449002,202772,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Haven,2,Trace Esports,T1,8,13,FengF,4770.0,cypher,0.38,107.0,7.0,17.0,5.0,57.0,78.0,28.0,3.0,3.0,3,True
+449003,202774,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Team Liquid,Sentinels,7,13,nAts,457.0,cypher,1.5,293.0,22.0,14.0,2.0,80.0,197.0,39.0,1.0,1.0,3,True
+449003,202774,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Team Liquid,Sentinels,7,13,keiko,11494.0,omen,1.06,192.0,14.0,14.0,8.0,65.0,141.0,59.0,3.0,4.0,3,True
+449003,202774,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Team Liquid,Sentinels,7,13,paTiTek,309.0,breach,0.7,151.0,11.0,15.0,6.0,65.0,92.0,21.0,0.0,3.0,3,True
+449003,202774,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Team Liquid,Sentinels,7,13,kamyk,1475.0,tejo,0.57,136.0,9.0,15.0,4.0,50.0,81.0,42.0,2.0,1.0,3,True
+449003,202774,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Team Liquid,Sentinels,7,13,kamo,14681.0,yoru,0.24,97.0,6.0,17.0,4.0,45.0,69.0,17.0,1.0,4.0,3,True
+449003,202774,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Sentinels,Team Liquid,13,7,bang,3880.0,omen,1.43,231.0,17.0,11.0,7.0,80.0,143.0,31.0,2.0,1.0,3,True
+449003,202774,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Sentinels,Team Liquid,13,7,zekken,4004.0,raze,1.41,255.0,18.0,11.0,5.0,75.0,172.0,30.0,4.0,3.0,3,True
+449003,202774,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Sentinels,Team Liquid,13,7,N4RRATE,36245.0,fade,1.2,239.0,17.0,13.0,6.0,80.0,157.0,27.0,4.0,1.0,3,True
+449003,202774,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Sentinels,Team Liquid,13,7,johnqt,1265.0,viper,1.15,200.0,15.0,12.0,5.0,75.0,123.0,17.0,1.0,1.0,3,True
+449003,202774,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Lotus,1,Sentinels,Team Liquid,13,7,Zellsis,729.0,vyse,0.61,110.0,8.0,15.0,3.0,60.0,70.0,35.0,2.0,1.0,3,True
+449003,202775,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Abyss,2,Team Liquid,Sentinels,16,14,keiko,11494.0,omen,1.31,247.0,29.0,20.0,14.0,90.0,150.0,32.0,3.0,1.0,3,True
+449003,202775,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Abyss,2,Team Liquid,Sentinels,16,14,paTiTek,309.0,kayo,1.11,208.0,18.0,20.0,19.0,90.0,145.0,29.0,3.0,0.0,3,True
+449003,202775,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Abyss,2,Team Liquid,Sentinels,16,14,nAts,457.0,cypher,0.96,168.0,19.0,18.0,6.0,60.0,106.0,19.0,2.0,5.0,3,True
+449003,202775,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Abyss,2,Team Liquid,Sentinels,16,14,kamyk,1475.0,sova,0.95,166.0,18.0,20.0,5.0,73.0,107.0,26.0,1.0,0.0,3,True
+449003,202775,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Abyss,2,Team Liquid,Sentinels,16,14,kamo,14681.0,jett,0.93,217.0,22.0,23.0,4.0,80.0,136.0,36.0,7.0,8.0,3,True
+449003,202775,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Abyss,2,Sentinels,Team Liquid,14,16,N4RRATE,36245.0,omen,1.47,319.0,33.0,23.0,12.0,87.0,205.0,31.0,5.0,1.0,3,True
+449003,202775,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Abyss,2,Sentinels,Team Liquid,14,16,zekken,4004.0,jett,1.02,218.0,25.0,20.0,2.0,77.0,139.0,35.0,5.0,9.0,3,True
+449003,202775,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Abyss,2,Sentinels,Team Liquid,14,16,Zellsis,729.0,kayo,0.94,201.0,17.0,24.0,19.0,83.0,145.0,18.0,1.0,3.0,3,True
+449003,202775,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Abyss,2,Sentinels,Team Liquid,14,16,johnqt,1265.0,tejo,0.78,160.0,16.0,20.0,10.0,77.0,106.0,25.0,0.0,0.0,3,True
+449003,202775,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Abyss,2,Sentinels,Team Liquid,14,16,bang,3880.0,astra,0.53,103.0,10.0,21.0,11.0,67.0,62.0,31.0,3.0,3.0,3,True
+449003,202776,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Bind,3,Team Liquid,Sentinels,13,1,nAts,457.0,viper,2.33,455.0,25.0,8.0,5.0,100.0,289.0,25.0,3.0,0.0,3,True
+449003,202776,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Bind,3,Team Liquid,Sentinels,13,1,kamo,14681.0,raze,1.42,257.0,13.0,6.0,4.0,79.0,175.0,24.0,3.0,2.0,3,True
+449003,202776,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Bind,3,Team Liquid,Sentinels,13,1,keiko,11494.0,brimstone,1.28,198.0,11.0,6.0,5.0,79.0,131.0,22.0,1.0,1.0,3,True
+449003,202776,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Bind,3,Team Liquid,Sentinels,13,1,kamyk,1475.0,gekko,1.12,229.0,12.0,9.0,4.0,100.0,148.0,24.0,1.0,1.0,3,True
+449003,202776,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Bind,3,Team Liquid,Sentinels,13,1,paTiTek,309.0,skye,0.65,96.0,3.0,8.0,11.0,93.0,55.0,23.0,1.0,1.0,3,True
+449003,202776,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Bind,3,Sentinels,Team Liquid,1,13,bang,3880.0,viper,0.97,225.0,11.0,13.0,2.0,64.0,139.0,27.0,2.0,2.0,3,True
+449003,202776,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Bind,3,Sentinels,Team Liquid,1,13,Zellsis,729.0,brimstone,0.94,213.0,9.0,13.0,7.0,79.0,127.0,21.0,1.0,1.0,3,True
+449003,202776,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Bind,3,Sentinels,Team Liquid,1,13,johnqt,1265.0,tejo,0.55,120.0,6.0,13.0,3.0,57.0,74.0,20.0,0.0,0.0,3,True
+449003,202776,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Bind,3,Sentinels,Team Liquid,1,13,N4RRATE,36245.0,skye,0.45,132.0,5.0,13.0,3.0,57.0,90.0,19.0,0.0,1.0,3,True
+449003,202776,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 2 (0-1),2025-02-23,Bind,3,Sentinels,Team Liquid,1,13,zekken,4004.0,raze,0.38,158.0,6.0,13.0,1.0,43.0,111.0,28.0,2.0,5.0,3,True
+449004,202777,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Fracture,1,T1,KIWOOM DRX,13,11,Meteor,13039.0,vyse,1.5,315.0,28.0,15.0,3.0,83.0,211.0,29.0,6.0,2.0,3,True
+449004,202777,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Fracture,1,T1,KIWOOM DRX,13,11,iZu,29833.0,tejo,1.04,169.0,16.0,12.0,3.0,75.0,116.0,30.0,1.0,0.0,3,True
+449004,202777,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Fracture,1,T1,KIWOOM DRX,13,11,BuZz,804.0,raze,0.93,235.0,19.0,17.0,5.0,79.0,141.0,9.0,9.0,1.0,3,True
+449004,202777,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Fracture,1,T1,KIWOOM DRX,13,11,Sylvan,4056.0,brimstone,0.91,127.0,10.0,13.0,26.0,83.0,70.0,17.0,2.0,1.0,3,True
+449004,202777,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Fracture,1,T1,KIWOOM DRX,13,11,stax,485.0,breach,0.71,129.0,9.0,16.0,15.0,79.0,94.0,22.0,1.0,1.0,3,True
+449004,202777,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Fracture,1,KIWOOM DRX,T1,11,13,free1ng,1916.0,tejo,1.26,250.0,22.0,15.0,3.0,75.0,150.0,23.0,3.0,4.0,3,True
+449004,202777,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Fracture,1,KIWOOM DRX,T1,11,13,BeYN,4678.0,breach,1.24,195.0,17.0,13.0,12.0,75.0,116.0,31.0,0.0,3.0,3,True
+449004,202777,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Fracture,1,KIWOOM DRX,T1,11,13,Flashback,35013.0,cypher,0.9,166.0,14.0,16.0,2.0,67.0,125.0,21.0,2.0,3.0,3,True
+449004,202777,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Fracture,1,KIWOOM DRX,T1,11,13,MaKo,4462.0,brimstone,0.74,137.0,9.0,18.0,10.0,67.0,87.0,18.0,0.0,4.0,3,True
+449004,202777,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Fracture,1,KIWOOM DRX,T1,11,13,HYUNMIN,28400.0,yoru,0.73,136.0,11.0,20.0,11.0,79.0,87.0,27.0,0.0,5.0,3,True
+449004,202778,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Pearl,2,T1,KIWOOM DRX,13,4,iZu,29833.0,yoru,1.77,310.0,20.0,9.0,2.0,82.0,183.0,27.0,2.0,2.0,3,True
+449004,202778,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Pearl,2,T1,KIWOOM DRX,13,4,stax,485.0,sova,1.41,197.0,13.0,8.0,6.0,88.0,141.0,42.0,0.0,1.0,3,True
+449004,202778,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Pearl,2,T1,KIWOOM DRX,13,4,Sylvan,4056.0,astra,1.32,229.0,15.0,8.0,10.0,82.0,137.0,37.0,2.0,1.0,3,True
+449004,202778,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Pearl,2,T1,KIWOOM DRX,13,4,BuZz,804.0,neon,1.19,197.0,11.0,10.0,9.0,76.0,142.0,19.0,0.0,1.0,3,True
+449004,202778,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Pearl,2,T1,KIWOOM DRX,13,4,Meteor,13039.0,killjoy,0.86,208.0,14.0,11.0,1.0,65.0,118.0,30.0,4.0,4.0,3,True
+449004,202778,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Pearl,2,KIWOOM DRX,T1,4,13,Flashback,35013.0,vyse,0.89,179.0,11.0,14.0,6.0,71.0,106.0,16.0,1.0,0.0,3,True
+449004,202778,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Pearl,2,KIWOOM DRX,T1,4,13,MaKo,4462.0,astra,0.8,162.0,9.0,13.0,8.0,71.0,112.0,21.0,0.0,0.0,3,True
+449004,202778,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Pearl,2,KIWOOM DRX,T1,4,13,free1ng,1916.0,tejo,0.63,209.0,11.0,16.0,3.0,65.0,133.0,21.0,3.0,3.0,3,True
+449004,202778,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Pearl,2,KIWOOM DRX,T1,4,13,BeYN,4678.0,fade,0.6,152.0,8.0,14.0,5.0,65.0,104.0,18.0,1.0,3.0,3,True
+449004,202778,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Pearl,2,KIWOOM DRX,T1,4,13,HYUNMIN,28400.0,yoru,0.36,134.0,7.0,16.0,3.0,53.0,97.0,21.0,4.0,2.0,3,True
+449005,202780,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Haven,1,G2 Esports,Team Liquid,13,5,JonahP,4581.0,breach,1.53,244.0,16.0,12.0,9.0,83.0,159.0,18.0,2.0,0.0,3,True
+449005,202780,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Haven,1,G2 Esports,Team Liquid,13,5,valyn,3885.0,astra,1.23,180.0,12.0,11.0,9.0,61.0,119.0,18.0,0.0,0.0,3,True
+449005,202780,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Haven,1,G2 Esports,Team Liquid,13,5,jawgemo,3993.0,yoru,1.2,237.0,15.0,12.0,5.0,61.0,156.0,11.0,1.0,5.0,3,True
+449005,202780,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Haven,1,G2 Esports,Team Liquid,13,5,trent,15500.0,tejo,1.18,208.0,12.0,11.0,8.0,72.0,123.0,39.0,2.0,3.0,3,True
+449005,202780,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Haven,1,G2 Esports,Team Liquid,13,5,leaf,7873.0,vyse,0.69,134.0,8.0,13.0,3.0,61.0,93.0,21.0,1.0,4.0,3,True
+449005,202780,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Haven,1,Team Liquid,G2 Esports,5,13,kamyk,1475.0,tejo,1.17,260.0,16.0,12.0,2.0,72.0,191.0,38.0,1.0,1.0,3,True
+449005,202780,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Haven,1,Team Liquid,G2 Esports,5,13,nAts,457.0,cypher,1.05,257.0,17.0,14.0,5.0,72.0,146.0,36.0,3.0,0.0,3,True
+449005,202780,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Haven,1,Team Liquid,G2 Esports,5,13,keiko,11494.0,omen,0.89,177.0,11.0,12.0,6.0,78.0,112.0,23.0,3.0,1.0,3,True
+449005,202780,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Haven,1,Team Liquid,G2 Esports,5,13,kamo,14681.0,jett,0.66,165.0,11.0,13.0,1.0,56.0,105.0,23.0,3.0,3.0,3,True
+449005,202780,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Haven,1,Team Liquid,G2 Esports,5,13,paTiTek,309.0,breach,0.44,85.0,4.0,13.0,7.0,67.0,58.0,16.0,2.0,1.0,3,True
+449005,202781,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Lotus,2,G2 Esports,Team Liquid,13,7,valyn,3885.0,omen,1.52,242.0,20.0,9.0,4.0,80.0,153.0,23.0,3.0,1.0,3,True
+449005,202781,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Lotus,2,G2 Esports,Team Liquid,13,7,leaf,7873.0,viper,1.32,257.0,21.0,12.0,3.0,75.0,149.0,20.0,2.0,2.0,3,True
+449005,202781,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Lotus,2,G2 Esports,Team Liquid,13,7,trent,15500.0,tejo,1.01,170.0,12.0,13.0,5.0,85.0,102.0,15.0,1.0,0.0,3,True
+449005,202781,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Lotus,2,G2 Esports,Team Liquid,13,7,JonahP,4581.0,breach,0.87,206.0,13.0,14.0,11.0,85.0,128.0,23.0,2.0,1.0,3,True
+449005,202781,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Lotus,2,G2 Esports,Team Liquid,13,7,jawgemo,3993.0,yoru,0.78,207.0,13.0,16.0,5.0,65.0,134.0,15.0,3.0,5.0,3,True
+449005,202781,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Lotus,2,Team Liquid,G2 Esports,7,13,nAts,457.0,cypher,1.26,250.0,20.0,15.0,0.0,70.0,165.0,39.0,1.0,2.0,3,True
+449005,202781,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Lotus,2,Team Liquid,G2 Esports,7,13,kamo,14681.0,neon,1.09,263.0,17.0,17.0,3.0,65.0,178.0,28.0,5.0,4.0,3,True
+449005,202781,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Lotus,2,Team Liquid,G2 Esports,7,13,keiko,11494.0,omen,0.88,166.0,11.0,15.0,7.0,75.0,110.0,23.0,2.0,1.0,3,True
+449005,202781,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Lotus,2,Team Liquid,G2 Esports,7,13,paTiTek,309.0,breach,0.65,117.0,7.0,14.0,8.0,60.0,76.0,24.0,1.0,2.0,3,True
+449005,202781,2281,Valorant Masters Bangkok 2025,Swiss Stage: Round 3,2025-02-24,Lotus,2,Team Liquid,G2 Esports,7,13,kamyk,1475.0,tejo,0.46,126.0,9.0,18.0,2.0,85.0,76.0,23.0,0.0,2.0,3,True
+449008,202783,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Split,1,EDward Gaming,T1,13,7,CHICHOO,15559.0,viper,1.86,326.0,22.0,10.0,8.0,100.0,232.0,28.0,2.0,1.0,3,True
+449008,202783,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Split,1,EDward Gaming,T1,13,7,ZmjjKK,3520.0,jett,1.48,322.0,24.0,13.0,3.0,80.0,189.0,20.0,7.0,5.0,3,True
+449008,202783,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Split,1,EDward Gaming,T1,13,7,Smoggy,4742.0,omen,1.16,226.0,16.0,11.0,10.0,85.0,153.0,32.0,0.0,1.0,3,True
+449008,202783,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Split,1,EDward Gaming,T1,13,7,nobody,3017.0,tejo,1.0,151.0,13.0,11.0,1.0,70.0,104.0,40.0,2.0,0.0,3,True
+449008,202783,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Split,1,EDward Gaming,T1,13,7,S1Mon,13768.0,breach,0.79,134.0,11.0,12.0,8.0,85.0,89.0,28.0,0.0,2.0,3,True
+449008,202783,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Split,1,T1,EDward Gaming,7,13,stax,485.0,fade,1.02,183.0,13.0,15.0,6.0,45.0,134.0,35.0,0.0,2.0,3,True
+449008,202783,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Split,1,T1,EDward Gaming,7,13,Sylvan,4056.0,omen,0.94,221.0,15.0,18.0,7.0,55.0,140.0,32.0,1.0,1.0,3,True
+449008,202783,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Split,1,T1,EDward Gaming,7,13,BuZz,804.0,raze,0.93,174.0,12.0,16.0,2.0,65.0,126.0,27.0,3.0,1.0,3,True
+449008,202783,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Split,1,T1,EDward Gaming,7,13,iZu,29833.0,yoru,0.53,158.0,10.0,18.0,6.0,65.0,104.0,31.0,3.0,6.0,3,True
+449008,202783,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Split,1,T1,EDward Gaming,7,13,Meteor,13039.0,viper,0.34,136.0,7.0,19.0,5.0,60.0,92.0,18.0,2.0,1.0,3,True
+449008,202784,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,2,EDward Gaming,T1,6,13,CHICHOO,15559.0,vyse,1.21,283.0,18.0,17.0,10.0,74.0,194.0,33.0,4.0,0.0,3,True
+449008,202784,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,2,EDward Gaming,T1,6,13,ZmjjKK,3520.0,raze,1.14,244.0,16.0,14.0,3.0,79.0,153.0,20.0,5.0,3.0,3,True
+449008,202784,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,2,EDward Gaming,T1,6,13,Smoggy,4742.0,brimstone,0.89,159.0,11.0,13.0,8.0,84.0,97.0,21.0,0.0,1.0,3,True
+449008,202784,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,2,EDward Gaming,T1,6,13,nobody,3017.0,tejo,0.66,156.0,10.0,14.0,3.0,79.0,112.0,42.0,2.0,3.0,3,True
+449008,202784,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,2,EDward Gaming,T1,6,13,S1Mon,13768.0,kayo,0.55,101.0,7.0,14.0,13.0,79.0,63.0,24.0,0.0,1.0,3,True
+449008,202784,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,2,T1,EDward Gaming,13,6,BuZz,804.0,raze,1.5,264.0,19.0,12.0,2.0,63.0,178.0,26.0,2.0,4.0,3,True
+449008,202784,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,2,T1,EDward Gaming,13,6,iZu,29833.0,fade,1.43,218.0,16.0,8.0,3.0,84.0,132.0,28.0,2.0,1.0,3,True
+449008,202784,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,2,T1,EDward Gaming,13,6,Meteor,13039.0,vyse,1.11,243.0,17.0,14.0,4.0,79.0,155.0,49.0,2.0,4.0,3,True
+449008,202784,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,2,T1,EDward Gaming,13,6,Sylvan,4056.0,brimstone,1.04,215.0,12.0,14.0,10.0,63.0,139.0,39.0,2.0,0.0,3,True
+449008,202784,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,2,T1,EDward Gaming,13,6,stax,485.0,kayo,0.77,128.0,8.0,14.0,15.0,74.0,90.0,35.0,0.0,2.0,3,True
+449008,202785,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Pearl,3,EDward Gaming,T1,13,11,CHICHOO,15559.0,vyse,1.85,357.0,32.0,16.0,10.0,88.0,221.0,28.0,2.0,0.0,3,True
+449008,202785,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Pearl,3,EDward Gaming,T1,13,11,nobody,3017.0,tejo,1.28,239.0,21.0,16.0,5.0,83.0,160.0,28.0,2.0,1.0,3,True
+449008,202785,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Pearl,3,EDward Gaming,T1,13,11,S1Mon,13768.0,fade,1.04,224.0,19.0,17.0,9.0,83.0,152.0,43.0,0.0,1.0,3,True
+449008,202785,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Pearl,3,EDward Gaming,T1,13,11,Smoggy,4742.0,astra,0.75,129.0,11.0,17.0,11.0,71.0,79.0,30.0,2.0,4.0,3,True
+449008,202785,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Pearl,3,EDward Gaming,T1,13,11,ZmjjKK,3520.0,yoru,0.39,114.0,9.0,20.0,7.0,63.0,70.0,28.0,3.0,9.0,3,True
+449008,202785,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Pearl,3,T1,EDward Gaming,11,13,iZu,29833.0,yoru,1.17,195.0,17.0,15.0,3.0,67.0,125.0,32.0,7.0,2.0,3,True
+449008,202785,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Pearl,3,T1,EDward Gaming,11,13,Sylvan,4056.0,astra,1.17,272.0,25.0,20.0,5.0,75.0,168.0,35.0,3.0,1.0,3,True
+449008,202785,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Pearl,3,T1,EDward Gaming,11,13,BuZz,804.0,neon,0.88,208.0,17.0,20.0,9.0,67.0,135.0,20.0,2.0,3.0,3,True
+449008,202785,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Pearl,3,T1,EDward Gaming,11,13,Meteor,13039.0,killjoy,0.8,165.0,15.0,19.0,5.0,67.0,116.0,30.0,2.0,1.0,3,True
+449008,202785,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Pearl,3,T1,EDward Gaming,11,13,stax,485.0,sova,0.72,146.0,12.0,18.0,10.0,63.0,97.0,12.0,1.0,2.0,3,True
+449009,202786,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,1,Team Vitality,G2 Esports,13,15,Derke,5022.0,raze,1.14,257.0,24.0,21.0,7.0,75.0,168.0,20.0,6.0,6.0,3,True
+449009,202786,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,1,Team Vitality,G2 Esports,13,15,Kicks,11134.0,skye,0.93,195.0,20.0,21.0,13.0,75.0,125.0,28.0,1.0,3.0,3,True
+449009,202786,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,1,Team Vitality,G2 Esports,13,15,trexx,2168.0,brimstone,0.87,196.0,18.0,21.0,12.0,71.0,136.0,19.0,2.0,1.0,3,True
+449009,202786,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,1,Team Vitality,G2 Esports,13,15,Less,8447.0,viper,0.85,193.0,20.0,23.0,9.0,64.0,122.0,24.0,1.0,5.0,3,True
+449009,202786,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,1,Team Vitality,G2 Esports,13,15,Sayf,312.0,tejo,0.79,164.0,16.0,21.0,7.0,79.0,100.0,23.0,1.0,2.0,3,True
+449009,202786,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,1,G2 Esports,Team Vitality,15,13,leaf,7873.0,vyse,1.54,297.0,28.0,19.0,19.0,82.0,193.0,22.0,3.0,1.0,3,True
+449009,202786,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,1,G2 Esports,Team Vitality,15,13,trent,15500.0,tejo,1.25,248.0,25.0,21.0,6.0,79.0,169.0,30.0,3.0,2.0,3,True
+449009,202786,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,1,G2 Esports,Team Vitality,15,13,valyn,3885.0,brimstone,1.11,173.0,17.0,18.0,16.0,82.0,108.0,25.0,3.0,2.0,3,True
+449009,202786,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,1,G2 Esports,Team Vitality,15,13,JonahP,4581.0,breach,0.98,171.0,18.0,19.0,15.0,82.0,115.0,33.0,2.0,2.0,3,True
+449009,202786,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Bind,1,G2 Esports,Team Vitality,15,13,jawgemo,3993.0,yoru,0.87,195.0,19.0,21.0,3.0,68.0,120.0,20.0,6.0,4.0,3,True
+449009,202787,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Lotus,2,Team Vitality,G2 Esports,9,13,Kicks,11134.0,omen,1.24,233.0,18.0,15.0,5.0,68.0,158.0,26.0,4.0,5.0,3,True
+449009,202787,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Lotus,2,Team Vitality,G2 Esports,9,13,Less,8447.0,viper,1.09,205.0,14.0,14.0,8.0,77.0,122.0,24.0,3.0,0.0,3,True
+449009,202787,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Lotus,2,Team Vitality,G2 Esports,9,13,Sayf,312.0,vyse,0.92,225.0,18.0,17.0,4.0,73.0,131.0,36.0,0.0,0.0,3,True
+449009,202787,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Lotus,2,Team Vitality,G2 Esports,9,13,trexx,2168.0,fade,0.92,145.0,11.0,14.0,8.0,64.0,91.0,18.0,0.0,2.0,3,True
+449009,202787,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Lotus,2,Team Vitality,G2 Esports,9,13,Derke,5022.0,raze,0.65,208.0,14.0,18.0,3.0,55.0,133.0,19.0,3.0,5.0,3,True
+449009,202787,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Lotus,2,G2 Esports,Team Vitality,13,9,leaf,7873.0,viper,1.52,311.0,24.0,16.0,9.0,86.0,194.0,23.0,5.0,2.0,3,True
+449009,202787,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Lotus,2,G2 Esports,Team Vitality,13,9,trent,15500.0,tejo,1.43,226.0,18.0,13.0,11.0,77.0,147.0,17.0,1.0,1.0,3,True
+449009,202787,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Lotus,2,G2 Esports,Team Vitality,13,9,JonahP,4581.0,breach,1.14,201.0,17.0,15.0,10.0,73.0,134.0,31.0,2.0,1.0,3,True
+449009,202787,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Lotus,2,G2 Esports,Team Vitality,13,9,jawgemo,3993.0,yoru,0.71,145.0,11.0,16.0,8.0,64.0,109.0,21.0,3.0,6.0,3,True
+449009,202787,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Semifinals,2025-02-27,Lotus,2,G2 Esports,Team Vitality,13,9,valyn,3885.0,omen,0.41,97.0,7.0,15.0,5.0,55.0,61.0,11.0,1.0,0.0,3,True
+449010,202789,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Lotus,1,EDward Gaming,G2 Esports,8,13,Smoggy,4742.0,clove,1.36,275.0,20.0,17.0,6.0,76.0,187.0,45.0,2.0,1.0,3,True
+449010,202789,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Lotus,1,EDward Gaming,G2 Esports,8,13,nobody,3017.0,fade,1.13,206.0,14.0,13.0,4.0,76.0,139.0,33.0,3.0,1.0,3,True
+449010,202789,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Lotus,1,EDward Gaming,G2 Esports,8,13,CHICHOO,15559.0,omen,0.88,193.0,15.0,17.0,8.0,76.0,147.0,44.0,2.0,2.0,3,True
+449010,202789,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Lotus,1,EDward Gaming,G2 Esports,8,13,ZmjjKK,3520.0,neon,0.72,188.0,15.0,16.0,0.0,57.0,125.0,27.0,2.0,8.0,3,True
+449010,202789,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Lotus,1,EDward Gaming,G2 Esports,8,13,S1Mon,13768.0,breach,0.52,102.0,6.0,17.0,9.0,67.0,73.0,33.0,0.0,0.0,3,True
+449010,202789,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Lotus,1,G2 Esports,EDward Gaming,13,8,JonahP,4581.0,breach,1.41,277.0,20.0,16.0,13.0,90.0,174.0,22.0,4.0,0.0,3,True
+449010,202789,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Lotus,1,G2 Esports,EDward Gaming,13,8,trent,15500.0,tejo,1.26,231.0,17.0,12.0,8.0,81.0,152.0,18.0,1.0,1.0,3,True
+449010,202789,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Lotus,1,G2 Esports,EDward Gaming,13,8,valyn,3885.0,omen,1.12,182.0,13.0,13.0,12.0,76.0,132.0,28.0,2.0,2.0,3,True
+449010,202789,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Lotus,1,G2 Esports,EDward Gaming,13,8,leaf,7873.0,viper,0.94,165.0,13.0,13.0,4.0,67.0,115.0,21.0,1.0,3.0,3,True
+449010,202789,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Lotus,1,G2 Esports,EDward Gaming,13,8,jawgemo,3993.0,yoru,0.93,214.0,16.0,16.0,10.0,67.0,135.0,15.0,4.0,3.0,3,True
+449010,202790,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Split,2,EDward Gaming,G2 Esports,7,13,ZmjjKK,3520.0,jett,0.94,234.0,16.0,18.0,2.0,55.0,146.0,23.0,3.0,5.0,3,True
+449010,202790,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Split,2,EDward Gaming,G2 Esports,7,13,CHICHOO,15559.0,viper,0.92,199.0,14.0,15.0,2.0,55.0,133.0,23.0,0.0,0.0,3,True
+449010,202790,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Split,2,EDward Gaming,G2 Esports,7,13,S1Mon,13768.0,breach,0.88,142.0,10.0,14.0,6.0,65.0,89.0,38.0,1.0,3.0,3,True
+449010,202790,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Split,2,EDward Gaming,G2 Esports,7,13,Smoggy,4742.0,omen,0.7,130.0,9.0,15.0,7.0,60.0,106.0,28.0,2.0,2.0,3,True
+449010,202790,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Split,2,EDward Gaming,G2 Esports,7,13,nobody,3017.0,tejo,0.62,130.0,9.0,16.0,4.0,60.0,87.0,21.0,2.0,2.0,3,True
+449010,202790,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Split,2,G2 Esports,EDward Gaming,13,7,jawgemo,3993.0,yoru,1.48,287.0,21.0,11.0,8.0,90.0,176.0,26.0,3.0,2.0,3,True
+449010,202790,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Split,2,G2 Esports,EDward Gaming,13,7,leaf,7873.0,viper,1.22,227.0,17.0,11.0,4.0,75.0,175.0,40.0,4.0,1.0,3,True
+449010,202790,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Split,2,G2 Esports,EDward Gaming,13,7,trent,15500.0,tejo,1.18,205.0,13.0,11.0,2.0,70.0,156.0,23.0,1.0,1.0,3,True
+449010,202790,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Split,2,G2 Esports,EDward Gaming,13,7,valyn,3885.0,omen,1.08,182.0,14.0,12.0,10.0,85.0,116.0,39.0,1.0,2.0,3,True
+449010,202790,2281,Valorant Masters Bangkok 2025,Playoffs: Upper Final,2025-02-28,Split,2,G2 Esports,EDward Gaming,13,7,JonahP,4581.0,breach,1.03,193.0,13.0,13.0,7.0,75.0,120.0,19.0,3.0,2.0,3,True
+449012,202797,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Lotus,1,T1,Team Vitality,12,14,Meteor,13039.0,iso,1.07,235.0,21.0,20.0,5.0,77.0,147.0,38.0,4.0,3.0,3,True
+449012,202797,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Lotus,1,T1,Team Vitality,12,14,stax,485.0,sova,1.05,155.0,14.0,15.0,11.0,77.0,119.0,36.0,0.0,2.0,3,True
+449012,202797,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Lotus,1,T1,Team Vitality,12,14,BuZz,804.0,raze,0.97,242.0,21.0,21.0,5.0,62.0,171.0,12.0,4.0,2.0,3,True
+449012,202797,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Lotus,1,T1,Team Vitality,12,14,Sylvan,4056.0,omen,0.79,168.0,14.0,20.0,14.0,81.0,109.0,28.0,2.0,1.0,3,True
+449012,202797,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Lotus,1,T1,Team Vitality,12,14,iZu,29833.0,cypher,0.7,145.0,15.0,19.0,4.0,58.0,84.0,27.0,2.0,6.0,3,True
+449012,202797,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Lotus,1,Team Vitality,T1,14,12,Less,8447.0,viper,1.46,267.0,23.0,16.0,12.0,85.0,166.0,36.0,1.0,1.0,3,True
+449012,202797,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Lotus,1,Team Vitality,T1,14,12,Derke,5022.0,raze,1.26,261.0,24.0,17.0,5.0,69.0,159.0,25.0,5.0,5.0,3,True
+449012,202797,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Lotus,1,Team Vitality,T1,14,12,trexx,2168.0,fade,1.23,220.0,20.0,17.0,15.0,77.0,136.0,12.0,3.0,1.0,3,True
+449012,202797,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Lotus,1,Team Vitality,T1,14,12,Kicks,11134.0,omen,0.93,175.0,15.0,17.0,12.0,81.0,111.0,31.0,2.0,3.0,3,True
+449012,202797,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Lotus,1,Team Vitality,T1,14,12,Sayf,312.0,vyse,0.73,158.0,13.0,18.0,8.0,69.0,105.0,18.0,3.0,2.0,3,True
+449012,202798,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Haven,2,T1,Team Vitality,13,4,iZu,29833.0,cypher,1.5,244.0,17.0,8.0,4.0,71.0,141.0,39.0,1.0,3.0,3,True
+449012,202798,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Haven,2,T1,Team Vitality,13,4,BuZz,804.0,yoru,1.27,231.0,14.0,9.0,4.0,76.0,149.0,15.0,5.0,1.0,3,True
+449012,202798,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Haven,2,T1,Team Vitality,13,4,stax,485.0,sova,1.22,182.0,11.0,7.0,3.0,82.0,138.0,33.0,2.0,0.0,3,True
+449012,202798,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Haven,2,T1,Team Vitality,13,4,Meteor,13039.0,iso,1.15,201.0,14.0,11.0,3.0,71.0,120.0,41.0,3.0,1.0,3,True
+449012,202798,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Haven,2,T1,Team Vitality,13,4,Sylvan,4056.0,omen,1.1,147.0,9.0,7.0,11.0,82.0,101.0,32.0,0.0,1.0,3,True
+449012,202798,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Haven,2,Team Vitality,T1,4,13,trexx,2168.0,sova,1.15,221.0,11.0,12.0,4.0,65.0,144.0,37.0,0.0,0.0,3,True
+449012,202798,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Haven,2,Team Vitality,T1,4,13,Sayf,312.0,jett,0.94,227.0,13.0,14.0,0.0,59.0,157.0,20.0,2.0,1.0,3,True
+449012,202798,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Haven,2,Team Vitality,T1,4,13,Derke,5022.0,yoru,0.88,175.0,9.0,13.0,3.0,59.0,124.0,22.0,3.0,5.0,3,True
+449012,202798,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Haven,2,Team Vitality,T1,4,13,Kicks,11134.0,omen,0.4,102.0,6.0,13.0,5.0,65.0,65.0,20.0,0.0,3.0,3,True
+449012,202798,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Haven,2,Team Vitality,T1,4,13,Less,8447.0,cypher,0.26,58.0,3.0,13.0,2.0,41.0,44.0,23.0,1.0,2.0,3,True
+449012,202799,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Split,3,T1,Team Vitality,13,5,iZu,29833.0,yoru,1.51,249.0,17.0,7.0,6.0,83.0,149.0,24.0,3.0,1.0,3,True
+449012,202799,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Split,3,T1,Team Vitality,13,5,Sylvan,4056.0,omen,1.48,213.0,15.0,7.0,12.0,89.0,128.0,28.0,1.0,0.0,3,True
+449012,202799,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Split,3,T1,Team Vitality,13,5,BuZz,804.0,raze,1.47,337.0,22.0,12.0,5.0,78.0,181.0,13.0,6.0,3.0,3,True
+449012,202799,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Split,3,T1,Team Vitality,13,5,Meteor,13039.0,viper,1.25,264.0,16.0,12.0,7.0,89.0,170.0,29.0,3.0,0.0,3,True
+449012,202799,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Split,3,T1,Team Vitality,13,5,stax,485.0,fade,0.91,137.0,10.0,8.0,3.0,83.0,91.0,30.0,0.0,1.0,3,True
+449012,202799,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Split,3,Team Vitality,T1,5,13,trexx,2168.0,fade,0.84,181.0,10.0,15.0,5.0,50.0,114.0,16.0,0.0,0.0,3,True
+449012,202799,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Split,3,Team Vitality,T1,5,13,Less,8447.0,viper,0.83,176.0,11.0,16.0,3.0,44.0,106.0,32.0,2.0,3.0,3,True
+449012,202799,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Split,3,Team Vitality,T1,5,13,Derke,5022.0,raze,0.77,209.0,13.0,17.0,1.0,61.0,136.0,24.0,0.0,4.0,3,True
+449012,202799,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Split,3,Team Vitality,T1,5,13,Sayf,312.0,omen,0.5,124.0,7.0,16.0,6.0,61.0,72.0,27.0,2.0,2.0,3,True
+449012,202799,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Round 1,2025-02-28,Split,3,Team Vitality,T1,5,13,Kicks,11134.0,breach,0.35,93.0,5.0,16.0,6.0,67.0,67.0,14.0,1.0,4.0,3,True
+449013,202800,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Bind,1,EDward Gaming,T1,4,13,S1Mon,13768.0,kayo,0.87,172.0,11.0,15.0,8.0,53.0,100.0,30.0,1.0,0.0,5,True
+449013,202800,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Bind,1,EDward Gaming,T1,4,13,ZmjjKK,3520.0,raze,0.72,195.0,11.0,17.0,5.0,65.0,133.0,12.0,0.0,2.0,5,True
+449013,202800,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Bind,1,EDward Gaming,T1,4,13,nobody,3017.0,tejo,0.66,119.0,6.0,14.0,5.0,65.0,93.0,17.0,1.0,1.0,5,True
+449013,202800,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Bind,1,EDward Gaming,T1,4,13,CHICHOO,15559.0,vyse,0.59,127.0,7.0,15.0,2.0,41.0,85.0,22.0,2.0,4.0,5,True
+449013,202800,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Bind,1,EDward Gaming,T1,4,13,Smoggy,4742.0,brimstone,0.48,111.0,5.0,15.0,6.0,53.0,82.0,29.0,2.0,4.0,5,True
+449013,202800,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Bind,1,T1,EDward Gaming,13,4,stax,485.0,kayo,1.59,228.0,17.0,6.0,9.0,94.0,136.0,28.0,1.0,0.0,5,True
+449013,202800,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Bind,1,T1,EDward Gaming,13,4,Meteor,13039.0,vyse,1.58,379.0,24.0,10.0,6.0,82.0,241.0,32.0,5.0,1.0,5,True
+449013,202800,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Bind,1,T1,EDward Gaming,13,4,BuZz,804.0,raze,1.46,281.0,17.0,7.0,5.0,88.0,173.0,14.0,4.0,3.0,5,True
+449013,202800,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Bind,1,T1,EDward Gaming,13,4,iZu,29833.0,fade,1.26,173.0,12.0,8.0,3.0,88.0,102.0,24.0,1.0,1.0,5,True
+449013,202800,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Bind,1,T1,EDward Gaming,13,4,Sylvan,4056.0,brimstone,1.07,150.0,6.0,9.0,22.0,76.0,105.0,26.0,0.0,1.0,5,True
+449013,202801,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Haven,2,EDward Gaming,T1,10,13,ZmjjKK,3520.0,jett,1.45,320.0,27.0,18.0,1.0,61.0,205.0,39.0,6.0,5.0,5,True
+449013,202801,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Haven,2,EDward Gaming,T1,10,13,CHICHOO,15559.0,cypher,1.33,254.0,21.0,14.0,5.0,70.0,159.0,35.0,2.0,2.0,5,True
+449013,202801,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Haven,2,EDward Gaming,T1,10,13,Smoggy,4742.0,omen,0.81,141.0,9.0,16.0,15.0,74.0,92.0,30.0,1.0,1.0,5,True
+449013,202801,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Haven,2,EDward Gaming,T1,10,13,S1Mon,13768.0,breach,0.78,163.0,12.0,20.0,8.0,74.0,111.0,24.0,1.0,2.0,5,True
+449013,202801,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Haven,2,EDward Gaming,T1,10,13,nobody,3017.0,tejo,0.58,131.0,10.0,19.0,6.0,65.0,102.0,32.0,1.0,2.0,5,True
+449013,202801,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Haven,2,T1,EDward Gaming,13,10,BuZz,804.0,yoru,1.45,330.0,25.0,16.0,10.0,70.0,203.0,19.0,2.0,3.0,5,True
+449013,202801,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Haven,2,T1,EDward Gaming,13,10,iZu,29833.0,cypher,1.37,241.0,21.0,13.0,5.0,87.0,164.0,30.0,2.0,0.0,5,True
+449013,202801,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Haven,2,T1,EDward Gaming,13,10,Meteor,13039.0,iso,0.93,219.0,17.0,17.0,2.0,74.0,139.0,46.0,6.0,5.0,5,True
+449013,202801,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Haven,2,T1,EDward Gaming,13,10,Sylvan,4056.0,omen,0.84,147.0,11.0,16.0,17.0,70.0,98.0,26.0,2.0,2.0,5,True
+449013,202801,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Haven,2,T1,EDward Gaming,13,10,stax,485.0,sova,0.71,166.0,13.0,17.0,3.0,74.0,117.0,40.0,0.0,1.0,5,True
+449013,202802,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Fracture,3,EDward Gaming,T1,14,12,nobody,3017.0,tejo,1.16,236.0,20.0,19.0,12.0,73.0,153.0,25.0,2.0,2.0,5,True
+449013,202802,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Fracture,3,EDward Gaming,T1,14,12,ZmjjKK,3520.0,neon,1.09,252.0,24.0,21.0,4.0,85.0,166.0,24.0,8.0,5.0,5,True
+449013,202802,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Fracture,3,EDward Gaming,T1,14,12,Smoggy,4742.0,brimstone,1.09,217.0,19.0,20.0,19.0,77.0,140.0,25.0,3.0,3.0,5,True
+449013,202802,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Fracture,3,EDward Gaming,T1,14,12,S1Mon,13768.0,breach,0.92,171.0,16.0,20.0,17.0,81.0,109.0,26.0,0.0,1.0,5,True
+449013,202802,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Fracture,3,EDward Gaming,T1,14,12,CHICHOO,15559.0,cypher,0.83,166.0,16.0,18.0,9.0,69.0,103.0,24.0,1.0,1.0,5,True
+449013,202802,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Fracture,3,T1,EDward Gaming,12,14,stax,485.0,breach,1.19,206.0,19.0,15.0,12.0,69.0,136.0,30.0,1.0,2.0,5,True
+449013,202802,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Fracture,3,T1,EDward Gaming,12,14,iZu,29833.0,tejo,1.11,188.0,19.0,16.0,2.0,81.0,132.0,33.0,2.0,2.0,5,True
+449013,202802,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Fracture,3,T1,EDward Gaming,12,14,Sylvan,4056.0,brimstone,1.11,205.0,18.0,19.0,25.0,77.0,122.0,24.0,1.0,1.0,5,True
+449013,202802,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Fracture,3,T1,EDward Gaming,12,14,Meteor,13039.0,vyse,0.94,240.0,21.0,22.0,5.0,69.0,161.0,29.0,4.0,3.0,5,True
+449013,202802,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Fracture,3,T1,EDward Gaming,12,14,BuZz,804.0,raze,0.91,252.0,21.0,23.0,5.0,65.0,153.0,20.0,4.0,6.0,5,True
+449013,202803,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Split,4,EDward Gaming,T1,5,13,Smoggy,4742.0,omen,1.55,324.0,21.0,13.0,7.0,83.0,206.0,54.0,3.0,1.0,5,True
+449013,202803,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Split,4,EDward Gaming,T1,5,13,nobody,3017.0,tejo,0.72,145.0,8.0,13.0,4.0,56.0,101.0,24.0,0.0,2.0,5,True
+449013,202803,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Split,4,EDward Gaming,T1,5,13,CHICHOO,15559.0,viper,0.69,158.0,9.0,14.0,0.0,56.0,105.0,29.0,0.0,2.0,5,True
+449013,202803,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Split,4,EDward Gaming,T1,5,13,ZmjjKK,3520.0,jett,0.51,132.0,7.0,15.0,1.0,56.0,89.0,19.0,1.0,7.0,5,True
+449013,202803,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Split,4,EDward Gaming,T1,5,13,S1Mon,13768.0,breach,0.37,67.0,4.0,15.0,4.0,39.0,47.0,5.0,0.0,2.0,5,True
+449013,202803,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Split,4,T1,EDward Gaming,13,5,iZu,29833.0,yoru,1.69,280.0,19.0,9.0,2.0,78.0,201.0,30.0,5.0,1.0,5,True
+449013,202803,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Split,4,T1,EDward Gaming,13,5,stax,485.0,fade,1.24,178.0,12.0,8.0,7.0,78.0,124.0,48.0,2.0,1.0,5,True
+449013,202803,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Split,4,T1,EDward Gaming,13,5,Sylvan,4056.0,omen,1.19,201.0,11.0,9.0,16.0,83.0,119.0,18.0,2.0,1.0,5,True
+449013,202803,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Split,4,T1,EDward Gaming,13,5,Meteor,13039.0,viper,1.08,200.0,13.0,11.0,9.0,83.0,122.0,34.0,2.0,1.0,5,True
+449013,202803,2281,Valorant Masters Bangkok 2025,Playoffs: Lower Final,2025-03-01,Split,4,T1,EDward Gaming,13,5,BuZz,804.0,raze,1.03,210.0,15.0,12.0,4.0,83.0,126.0,13.0,3.0,0.0,5,True
+450589,203837,2281,Valorant Masters Bangkok 2025,Showmatch: Main Event,2025-03-02,Ascent,1,Team International,Team Thailand,9,13,TenZ,9.0,,,,,,,,,,,,1,True
+450589,203837,2281,Valorant Masters Bangkok 2025,Showmatch: Main Event,2025-03-02,Ascent,1,Team International,Team Thailand,9,13,KOHAL,29260.0,,,,,,,,,,,,1,True
+450589,203837,2281,Valorant Masters Bangkok 2025,Showmatch: Main Event,2025-03-02,Ascent,1,Team International,Team Thailand,9,13,Doenmo,9783.0,,,,,,,,,,,,1,True
+450589,203837,2281,Valorant Masters Bangkok 2025,Showmatch: Main Event,2025-03-02,Ascent,1,Team International,Team Thailand,9,13,johnqt,1265.0,,,,,,,,,,,,1,True
+450589,203837,2281,Valorant Masters Bangkok 2025,Showmatch: Main Event,2025-03-02,Ascent,1,Team International,Team Thailand,9,13,karsaj,,,,,,,,,,,,,1,True
+450589,203837,2281,Valorant Masters Bangkok 2025,Showmatch: Main Event,2025-03-02,Ascent,1,Team Thailand,Team International,13,9,SuperBusS,4375.0,,,,,,,,,,,,1,True
+450589,203837,2281,Valorant Masters Bangkok 2025,Showmatch: Main Event,2025-03-02,Ascent,1,Team Thailand,Team International,13,9,MintAuka,18133.0,,,,,,,,,,,,1,True
+450589,203837,2281,Valorant Masters Bangkok 2025,Showmatch: Main Event,2025-03-02,Ascent,1,Team Thailand,Team International,13,9,cgrs,24679.0,,,,,,,,,,,,1,True
+450589,203837,2281,Valorant Masters Bangkok 2025,Showmatch: Main Event,2025-03-02,Ascent,1,Team Thailand,Team International,13,9,primmie,25255.0,,,,,,,,,,,,1,True
+450589,203837,2281,Valorant Masters Bangkok 2025,Showmatch: Main Event,2025-03-02,Ascent,1,Team Thailand,Team International,13,9,heart bus,,,,,,,,,,,,,1,True
+449011,202792,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Lotus,1,G2 Esports,T1,13,5,trent,15500.0,tejo,1.55,296.0,17.0,11.0,10.0,72.0,213.0,18.0,3.0,1.0,5,True
+449011,202792,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Lotus,1,G2 Esports,T1,13,5,leaf,7873.0,viper,1.55,279.0,21.0,10.0,2.0,89.0,159.0,19.0,3.0,1.0,5,True
+449011,202792,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Lotus,1,G2 Esports,T1,13,5,jawgemo,3993.0,yoru,1.16,236.0,16.0,12.0,7.0,72.0,133.0,24.0,1.0,3.0,5,True
+449011,202792,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Lotus,1,G2 Esports,T1,13,5,valyn,3885.0,omen,0.91,167.0,10.0,11.0,8.0,78.0,122.0,28.0,1.0,3.0,5,True
+449011,202792,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Lotus,1,G2 Esports,T1,13,5,JonahP,4581.0,breach,0.87,123.0,9.0,10.0,4.0,83.0,82.0,69.0,2.0,0.0,5,True
+449011,202792,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Lotus,1,T1,G2 Esports,5,13,iZu,29833.0,cypher,1.07,209.0,14.0,13.0,2.0,67.0,139.0,48.0,1.0,1.0,5,True
+449011,202792,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Lotus,1,T1,G2 Esports,5,13,BuZz,804.0,raze,0.99,241.0,13.0,14.0,3.0,67.0,162.0,17.0,3.0,4.0,5,True
+449011,202792,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Lotus,1,T1,G2 Esports,5,13,Meteor,13039.0,iso,0.71,184.0,11.0,16.0,3.0,44.0,120.0,31.0,2.0,3.0,5,True
+449011,202792,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Lotus,1,T1,G2 Esports,5,13,Sylvan,4056.0,omen,0.68,159.0,8.0,15.0,9.0,78.0,99.0,26.0,2.0,1.0,5,True
+449011,202792,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Lotus,1,T1,G2 Esports,5,13,stax,485.0,sova,0.54,116.0,8.0,15.0,2.0,56.0,82.0,50.0,0.0,1.0,5,True
+449011,202793,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Haven,2,G2 Esports,T1,9,13,trent,15500.0,tejo,1.33,245.0,20.0,14.0,5.0,82.0,161.0,38.0,0.0,1.0,5,True
+449011,202793,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Haven,2,G2 Esports,T1,9,13,valyn,3885.0,astra,1.09,203.0,16.0,16.0,3.0,77.0,137.0,27.0,3.0,1.0,5,True
+449011,202793,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Haven,2,G2 Esports,T1,9,13,jawgemo,3993.0,yoru,0.94,205.0,13.0,18.0,11.0,73.0,137.0,27.0,3.0,5.0,5,True
+449011,202793,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Haven,2,G2 Esports,T1,9,13,JonahP,4581.0,breach,0.91,174.0,15.0,18.0,10.0,82.0,109.0,29.0,1.0,3.0,5,True
+449011,202793,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Haven,2,G2 Esports,T1,9,13,leaf,7873.0,vyse,0.85,170.0,12.0,15.0,9.0,77.0,127.0,42.0,1.0,4.0,5,True
+449011,202793,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Haven,2,T1,G2 Esports,13,9,Sylvan,4056.0,omen,1.2,235.0,18.0,13.0,12.0,77.0,134.0,30.0,5.0,2.0,5,True
+449011,202793,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Haven,2,T1,G2 Esports,13,9,BuZz,804.0,yoru,1.18,226.0,19.0,14.0,5.0,68.0,134.0,25.0,3.0,3.0,5,True
+449011,202793,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Haven,2,T1,G2 Esports,13,9,Meteor,13039.0,iso,1.09,200.0,16.0,15.0,5.0,64.0,160.0,29.0,2.0,0.0,5,True
+449011,202793,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Haven,2,T1,G2 Esports,13,9,iZu,29833.0,cypher,0.98,210.0,14.0,17.0,15.0,77.0,142.0,32.0,2.0,2.0,5,True
+449011,202793,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Haven,2,T1,G2 Esports,13,9,stax,485.0,sova,0.89,199.0,14.0,17.0,13.0,77.0,144.0,20.0,2.0,1.0,5,True
+449011,202794,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Abyss,3,G2 Esports,T1,13,11,trent,15500.0,sova,1.38,245.0,20.0,16.0,9.0,83.0,159.0,38.0,2.0,0.0,5,True
+449011,202794,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Abyss,3,G2 Esports,T1,13,11,jawgemo,3993.0,yoru,1.24,232.0,19.0,16.0,8.0,83.0,137.0,20.0,3.0,2.0,5,True
+449011,202794,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Abyss,3,G2 Esports,T1,13,11,valyn,3885.0,astra,1.11,198.0,17.0,15.0,14.0,79.0,127.0,19.0,2.0,3.0,5,True
+449011,202794,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Abyss,3,G2 Esports,T1,13,11,leaf,7873.0,chamber,1.07,179.0,15.0,16.0,5.0,71.0,119.0,17.0,2.0,3.0,5,True
+449011,202794,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Abyss,3,G2 Esports,T1,13,11,JonahP,4581.0,breach,0.81,154.0,13.0,16.0,11.0,75.0,97.0,25.0,0.0,6.0,5,True
+449011,202794,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Abyss,3,T1,G2 Esports,11,13,stax,485.0,tejo,1.12,214.0,18.0,15.0,6.0,83.0,138.0,23.0,2.0,1.0,5,True
+449011,202794,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Abyss,3,T1,G2 Esports,11,13,iZu,29833.0,fade,0.92,169.0,15.0,16.0,8.0,83.0,116.0,28.0,1.0,0.0,5,True
+449011,202794,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Abyss,3,T1,G2 Esports,11,13,Sylvan,4056.0,omen,0.88,175.0,15.0,18.0,19.0,88.0,103.0,29.0,2.0,0.0,5,True
+449011,202794,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Abyss,3,T1,G2 Esports,11,13,BuZz,804.0,jett,0.72,199.0,16.0,21.0,4.0,75.0,135.0,18.0,6.0,5.0,5,True
+449011,202794,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Abyss,3,T1,G2 Esports,11,13,Meteor,13039.0,reyna,0.66,149.0,12.0,19.0,7.0,67.0,96.0,37.0,3.0,3.0,5,True
+449011,202795,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Split,4,G2 Esports,T1,13,15,valyn,3885.0,omen,1.35,270.0,26.0,20.0,13.0,75.0,166.0,26.0,3.0,1.0,5,True
+449011,202795,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Split,4,G2 Esports,T1,13,15,jawgemo,3993.0,yoru,1.27,265.0,26.0,21.0,7.0,71.0,189.0,35.0,2.0,8.0,5,True
+449011,202795,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Split,4,G2 Esports,T1,13,15,trent,15500.0,tejo,0.81,159.0,16.0,20.0,5.0,68.0,112.0,26.0,4.0,3.0,5,True
+449011,202795,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Split,4,G2 Esports,T1,13,15,leaf,7873.0,viper,0.8,188.0,17.0,22.0,11.0,82.0,121.0,15.0,2.0,1.0,5,True
+449011,202795,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Split,4,G2 Esports,T1,13,15,JonahP,4581.0,breach,0.8,162.0,16.0,22.0,8.0,71.0,99.0,20.0,2.0,2.0,5,True
+449011,202795,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Split,4,T1,G2 Esports,15,13,Meteor,13039.0,viper,1.38,308.0,30.0,23.0,9.0,71.0,202.0,30.0,5.0,1.0,5,True
+449011,202795,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Split,4,T1,G2 Esports,15,13,stax,485.0,fade,1.19,199.0,20.0,17.0,9.0,75.0,144.0,44.0,1.0,0.0,5,True
+449011,202795,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Split,4,T1,G2 Esports,15,13,Sylvan,4056.0,omen,1.19,228.0,25.0,17.0,7.0,75.0,124.0,18.0,1.0,1.0,5,True
+449011,202795,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Split,4,T1,G2 Esports,15,13,iZu,29833.0,yoru,0.92,217.0,20.0,21.0,13.0,82.0,131.0,20.0,5.0,5.0,5,True
+449011,202795,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Split,4,T1,G2 Esports,15,13,BuZz,804.0,raze,0.41,108.0,10.0,23.0,3.0,64.0,71.0,13.0,3.0,6.0,5,True
+449011,202796,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Pearl,5,G2 Esports,T1,14,16,jawgemo,3993.0,yoru,1.29,275.0,29.0,22.0,11.0,87.0,184.0,29.0,3.0,2.0,5,True
+449011,202796,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Pearl,5,G2 Esports,T1,14,16,valyn,3885.0,astra,1.14,212.0,25.0,20.0,13.0,77.0,131.0,27.0,1.0,2.0,5,True
+449011,202796,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Pearl,5,G2 Esports,T1,14,16,trent,15500.0,sova,1.02,176.0,19.0,18.0,11.0,73.0,114.0,33.0,5.0,4.0,5,True
+449011,202796,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Pearl,5,G2 Esports,T1,14,16,JonahP,4581.0,vyse,0.98,198.0,21.0,21.0,9.0,70.0,126.0,26.0,2.0,0.0,5,True
+449011,202796,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Pearl,5,G2 Esports,T1,14,16,leaf,7873.0,chamber,0.61,134.0,14.0,23.0,4.0,63.0,87.0,22.0,5.0,6.0,5,True
+449011,202796,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Pearl,5,T1,G2 Esports,16,14,BuZz,804.0,neon,1.16,250.0,26.0,24.0,7.0,70.0,149.0,19.0,4.0,7.0,5,True
+449011,202796,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Pearl,5,T1,G2 Esports,16,14,stax,485.0,sova,1.09,194.0,22.0,20.0,5.0,77.0,139.0,24.0,1.0,0.0,5,True
+449011,202796,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Pearl,5,T1,G2 Esports,16,14,Meteor,13039.0,killjoy,1.01,255.0,25.0,23.0,6.0,70.0,168.0,31.0,6.0,6.0,5,True
+449011,202796,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Pearl,5,T1,G2 Esports,16,14,Sylvan,4056.0,astra,0.94,159.0,16.0,21.0,18.0,70.0,98.0,21.0,2.0,0.0,5,True
+449011,202796,2281,Valorant Masters Bangkok 2025,Playoffs: Grand Final,2025-03-02,Pearl,5,T1,G2 Esports,16,14,iZu,29833.0,yoru,0.75,143.0,15.0,20.0,4.0,60.0,92.0,18.0,1.0,3.0,5,True

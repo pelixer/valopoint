@@ -1,0 +1,242 @@
+[
+ {
+  "event_id": 2283,
+  "name": "Valorant Champions 2025",
+  "region": "INTL",
+  "tier": "champions",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2501,
+  "name": "VCT 2025: Americas Stage 2",
+  "region": "AMER",
+  "tier": "league",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2498,
+  "name": "VCT 2025: EMEA Stage 2",
+  "region": "EMEA",
+  "tier": "league",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2500,
+  "name": "VCT 2025: Pacific Stage 2",
+  "region": "PAC",
+  "tier": "league",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2499,
+  "name": "VCT 2025: China Stage 2",
+  "region": "CN",
+  "tier": "league",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2282,
+  "name": "Valorant Masters Toronto 2025",
+  "region": "INTL",
+  "tier": "masters",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2380,
+  "name": "VCT 2025: EMEA Stage 1",
+  "region": "EMEA",
+  "tier": "league",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2379,
+  "name": "VCT 2025: Pacific Stage 1",
+  "region": "PAC",
+  "tier": "league",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2359,
+  "name": "VCT 2025: China Stage 1",
+  "region": "CN",
+  "tier": "league",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2347,
+  "name": "VCT 2025: Americas Stage 1",
+  "region": "AMER",
+  "tier": "league",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2281,
+  "name": "Valorant Masters Bangkok 2025",
+  "region": "INTL",
+  "tier": "masters",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2276,
+  "name": "VCT 2025: EMEA Kickoff",
+  "region": "EMEA",
+  "tier": "league",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2277,
+  "name": "VCT 2025: Pacific Kickoff",
+  "region": "PAC",
+  "tier": "league",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2274,
+  "name": "VCT 2025: Americas Kickoff",
+  "region": "AMER",
+  "tier": "league",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2275,
+  "name": "VCT 2025: China Kickoff",
+  "region": "CN",
+  "tier": "league",
+  "year": 2025,
+  "complete": true
+ },
+ {
+  "event_id": 2766,
+  "name": "Valorant Champions 2026",
+  "region": "INTL",
+  "tier": "champions",
+  "year": 2026,
+  "complete": false
+ },
+ {
+  "event_id": 2977,
+  "name": "VCT 2026: Americas Stage 2",
+  "region": "AMER",
+  "tier": "league",
+  "year": 2026,
+  "complete": true
+ },
+ {
+  "event_id": 2776,
+  "name": "VCT 2026: Pacific Stage 2",
+  "region": "PAC",
+  "tier": "league",
+  "year": 2026,
+  "complete": true
+ },
+ {
+  "event_id": 2976,
+  "name": "VCT 2026: EMEA Stage 2",
+  "region": "EMEA",
+  "tier": "league",
+  "year": 2026,
+  "complete": true
+ },
+ {
+  "event_id": 2978,
+  "name": "VCT 2026: China Stage 2",
+  "region": "CN",
+  "tier": "league",
+  "year": 2026,
+  "complete": true
+ },
+ {
+  "event_id": 2765,
+  "name": "Valorant Masters London 2026",
+  "region": "INTL",
+  "tier": "masters",
+  "year": 2026,
+  "complete": true
+ },
+ {
+  "event_id": 2860,
+  "name": "VCT 2026: Americas Stage 1",
+  "region": "AMER",
+  "tier": "league",
+  "year": 2026,
+  "complete": true
+ },
+ {
+  "event_id": 2863,
+  "name": "VCT 2026: EMEA Stage 1",
+  "region": "EMEA",
+  "tier": "league",
+  "year": 2026,
+  "complete": true
+ },
+ {
+  "event_id": 2775,
+  "name": "VCT 2026: Pacific Stage 1",
+  "region": "PAC",
+  "tier": "league",
+  "year": 2026,
+  "complete": true
+ },
+ {
+  "event_id": 2864,
+  "name": "VCT 2026: China Stage 1",
+  "region": "CN",
+  "tier": "league",
+  "year": 2026,
+  "complete": true
+ },
+ {
+  "event_id": 2760,
+  "name": "Valorant Masters Santiago 2026",
+  "region": "INTL",
+  "tier": "masters",
+  "year": 2026,
+  "complete": true
+ },
+ {
+  "event_id": 2682,
+  "name": "VCT 2026: Americas Kickoff",
+  "region": "AMER",
+  "tier": "league",
+  "year": 2026,
+  "complete": true
+ },
+ {
+  "event_id": 2684,
+  "name": "VCT 2026: EMEA Kickoff",
+  "region": "EMEA",
+  "tier": "league",
+  "year": 2026,
+  "complete": true
+ },
+ {
+  "event_id": 2683,
+  "name": "VCT 2026: Pacific Kickoff",
+  "region": "PAC",
+  "tier": "league",
+  "year": 2026,
+  "complete": true
+ },
+ {
+  "event_id": 2685,
+  "name": "VCT 2026: China Kickoff",
+  "region": "CN",
+  "tier": "league",
+  "year": 2026,
+  "complete": true
+ }
+]

@@ -1,0 +1,561 @@
+match_id,game_id,event_id,event,stage,date,map,map_order,team,opp,team_rounds,opp_rounds,player,player_id,agent,rating,acs,k,d,a,kast,adr,hs,fk,fd,best_of,completed
+427991,195761,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Split,1,Evil Geniuses,LOUD,12,14,yay,881,chamber,1.06,180.0,18.0,15.0,1.0,54.0,112.0,22.0,5.0,3.0,3,True
+427991,195761,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Split,1,Evil Geniuses,LOUD,12,14,icy,8402,raze,0.99,204.0,18.0,18.0,6.0,69.0,146.0,19.0,1.0,3.0,3,True
+427991,195761,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Split,1,Evil Geniuses,LOUD,12,14,NaturE,4927,viper,0.89,197.0,17.0,17.0,4.0,69.0,127.0,22.0,4.0,1.0,3,True
+427991,195761,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Split,1,Evil Geniuses,LOUD,12,14,supamen,826,omen,0.86,154.0,15.0,17.0,8.0,73.0,94.0,13.0,2.0,1.0,3,True
+427991,195761,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Split,1,Evil Geniuses,LOUD,12,14,Derrek,1533,skye,0.63,140.0,12.0,19.0,13.0,69.0,89.0,32.0,1.0,5.0,3,True
+427991,195761,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Split,1,LOUD,Evil Geniuses,14,12,dgzin,8873,raze,1.63,299.0,28.0,14.0,2.0,69.0,185.0,21.0,7.0,3.0,3,True
+427991,195761,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Split,1,LOUD,Evil Geniuses,14,12,cauanzin,6193,tejo,1.15,239.0,19.0,18.0,9.0,62.0,161.0,30.0,1.0,6.0,3,True
+427991,195761,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Split,1,LOUD,Evil Geniuses,14,12,pANcada,683,astra,1.0,129.0,10.0,13.0,12.0,77.0,93.0,29.0,1.0,1.0,3,True
+427991,195761,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Split,1,LOUD,Evil Geniuses,14,12,v1nny,1586,breach,0.94,131.0,13.0,16.0,12.0,69.0,93.0,33.0,1.0,2.0,3,True
+427991,195761,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Split,1,LOUD,Evil Geniuses,14,12,tuyz,2408,cypher,0.82,164.0,16.0,19.0,8.0,73.0,104.0,33.0,3.0,1.0,3,True
+427991,195762,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Pearl,2,Evil Geniuses,LOUD,10,13,NaturE,4927,vyse,1.06,198.0,16.0,17.0,5.0,74.0,138.0,26.0,1.0,1.0,3,True
+427991,195762,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Pearl,2,Evil Geniuses,LOUD,10,13,supamen,826,astra,1.01,169.0,15.0,14.0,6.0,65.0,97.0,48.0,1.0,3.0,3,True
+427991,195762,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Pearl,2,Evil Geniuses,LOUD,10,13,Derrek,1533,sova,1.0,182.0,13.0,15.0,10.0,78.0,131.0,30.0,2.0,1.0,3,True
+427991,195762,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Pearl,2,Evil Geniuses,LOUD,10,13,yay,881,phoenix,0.92,237.0,17.0,18.0,8.0,61.0,175.0,35.0,3.0,3.0,3,True
+427991,195762,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Pearl,2,Evil Geniuses,LOUD,10,13,icy,8402,jett,0.89,182.0,16.0,17.0,1.0,61.0,122.0,22.0,3.0,5.0,3,True
+427991,195762,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Pearl,2,LOUD,Evil Geniuses,13,10,v1nny,1586,kayo,1.46,251.0,20.0,13.0,15.0,83.0,180.0,29.0,1.0,1.0,3,True
+427991,195762,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Pearl,2,LOUD,Evil Geniuses,13,10,cauanzin,6193,sova,1.31,281.0,22.0,17.0,2.0,70.0,184.0,36.0,4.0,2.0,3,True
+427991,195762,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Pearl,2,LOUD,Evil Geniuses,13,10,pANcada,683,astra,0.95,189.0,18.0,16.0,7.0,87.0,123.0,44.0,1.0,1.0,3,True
+427991,195762,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Pearl,2,LOUD,Evil Geniuses,13,10,dgzin,8873,jett,0.84,190.0,13.0,16.0,6.0,70.0,141.0,32.0,6.0,3.0,3,True
+427991,195762,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Pearl,2,LOUD,Evil Geniuses,13,10,tuyz,2408,cypher,0.58,94.0,8.0,15.0,7.0,57.0,63.0,23.0,1.0,3.0,3,True
+427992,195764,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Lotus,1,MIBR,100 Thieves,4,13,nzr,725,breach,1.2,214.0,13.0,13.0,5.0,59.0,130.0,46.0,0.0,0.0,3,True
+427992,195764,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Lotus,1,MIBR,100 Thieves,4,13,aspas,8480,raze,0.77,156.0,7.0,13.0,3.0,59.0,116.0,24.0,1.0,3.0,3,True
+427992,195764,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Lotus,1,MIBR,100 Thieves,4,13,xenom,20240,omen,0.71,225.0,13.0,16.0,6.0,59.0,139.0,22.0,1.0,3.0,3,True
+427992,195764,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Lotus,1,MIBR,100 Thieves,4,13,artzin,5957,tejo,0.34,94.0,4.0,15.0,2.0,41.0,80.0,18.0,0.0,4.0,3,True
+427992,195764,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Lotus,1,MIBR,100 Thieves,4,13,cortezia,5395,killjoy,0.33,56.0,3.0,13.0,1.0,35.0,45.0,25.0,0.0,5.0,3,True
+427992,195764,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Lotus,1,100 Thieves,MIBR,13,4,Asuna,601,neon,1.7,367.0,23.0,10.0,6.0,88.0,220.0,28.0,6.0,0.0,3,True
+427992,195764,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Lotus,1,100 Thieves,MIBR,13,4,eeiu,796,fade,1.36,187.0,11.0,6.0,8.0,82.0,135.0,36.0,3.0,0.0,3,True
+427992,195764,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Lotus,1,100 Thieves,MIBR,13,4,Cryocells,4147,clove,1.25,262.0,16.0,10.0,3.0,82.0,181.0,18.0,4.0,2.0,3,True
+427992,195764,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Lotus,1,100 Thieves,MIBR,13,4,Boostio,604,breach,1.22,145.0,10.0,6.0,12.0,94.0,92.0,45.0,0.0,0.0,3,True
+427992,195764,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Lotus,1,100 Thieves,MIBR,13,4,zander,8082,omen,1.1,157.0,10.0,8.0,8.0,82.0,83.0,25.0,2.0,0.0,3,True
+427992,195765,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Bind,2,MIBR,100 Thieves,9,13,aspas,8480,raze,1.46,307.0,23.0,16.0,3.0,82.0,206.0,24.0,3.0,2.0,3,True
+427992,195765,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Bind,2,MIBR,100 Thieves,9,13,xenom,20240,brimstone,0.75,169.0,12.0,18.0,10.0,73.0,106.0,36.0,2.0,1.0,3,True
+427992,195765,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Bind,2,MIBR,100 Thieves,9,13,artzin,5957,deadlock,0.75,175.0,13.0,18.0,6.0,68.0,115.0,42.0,1.0,4.0,3,True
+427992,195765,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Bind,2,MIBR,100 Thieves,9,13,cortezia,5395,cypher,0.72,169.0,14.0,17.0,2.0,55.0,105.0,44.0,1.0,2.0,3,True
+427992,195765,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Bind,2,MIBR,100 Thieves,9,13,nzr,725,skye,0.62,119.0,8.0,15.0,3.0,50.0,97.0,19.0,2.0,4.0,3,True
+427992,195765,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Bind,2,100 Thieves,MIBR,13,9,Cryocells,4147,brimstone,1.63,287.0,22.0,12.0,6.0,91.0,202.0,25.0,2.0,0.0,3,True
+427992,195765,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Bind,2,100 Thieves,MIBR,13,9,eeiu,796,fade,1.24,199.0,19.0,13.0,6.0,73.0,129.0,49.0,0.0,0.0,3,True
+427992,195765,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Bind,2,100 Thieves,MIBR,13,9,Asuna,601,raze,1.19,243.0,18.0,14.0,5.0,77.0,161.0,21.0,8.0,4.0,3,True
+427992,195765,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Bind,2,100 Thieves,MIBR,13,9,Boostio,604,gekko,0.87,170.0,14.0,14.0,6.0,77.0,107.0,27.0,0.0,2.0,3,True
+427992,195765,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-16,Bind,2,100 Thieves,MIBR,13,9,zander,8082,viper,0.68,161.0,11.0,17.0,5.0,77.0,114.0,22.0,3.0,3.0,3,True
+427994,195770,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Haven,1,2Game Esports,FURIA,7,13,gobera,14950,vyse,1.62,338.0,23.0,14.0,6.0,85.0,222.0,29.0,4.0,0.0,3,True
+427994,195770,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Haven,1,2Game Esports,FURIA,7,13,silentzz,11921,yoru,0.93,213.0,16.0,16.0,3.0,75.0,130.0,48.0,5.0,3.0,3,True
+427994,195770,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Haven,1,2Game Esports,FURIA,7,13,lz,6195,omen,0.88,181.0,12.0,14.0,9.0,65.0,127.0,42.0,2.0,2.0,3,True
+427994,195770,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Haven,1,2Game Esports,FURIA,7,13,pryze,662,breach,0.72,122.0,8.0,14.0,9.0,85.0,78.0,19.0,0.0,0.0,3,True
+427994,195770,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Haven,1,2Game Esports,FURIA,7,13,Zap,3169,tejo,0.55,133.0,9.0,15.0,4.0,65.0,88.0,15.0,0.0,4.0,3,True
+427994,195770,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Haven,1,FURIA,2Game Esports,13,7,bdog,844,breach,1.33,244.0,16.0,13.0,9.0,75.0,153.0,34.0,2.0,0.0,3,True
+427994,195770,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Haven,1,FURIA,2Game Esports,13,7,Add3r,4931,cypher,1.18,235.0,18.0,14.0,0.0,75.0,148.0,34.0,1.0,2.0,3,True
+427994,195770,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Haven,1,FURIA,2Game Esports,13,7,stellar,733,tejo,1.13,193.0,14.0,12.0,5.0,70.0,143.0,16.0,3.0,4.0,3,True
+427994,195770,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Haven,1,FURIA,2Game Esports,13,7,penny,7716,jett,0.85,192.0,15.0,14.0,1.0,75.0,110.0,24.0,3.0,2.0,3,True
+427994,195770,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Haven,1,FURIA,2Game Esports,13,7,jakee,8742,clove,0.77,162.0,10.0,16.0,10.0,75.0,111.0,26.0,0.0,3.0,3,True
+427994,195771,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,2Game Esports,FURIA,5,13,lz,6195,omen,1.08,219.0,14.0,16.0,4.0,67.0,141.0,56.0,3.0,3.0,3,True
+427994,195771,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,2Game Esports,FURIA,5,13,silentzz,11921,raze,0.79,204.0,11.0,18.0,3.0,67.0,151.0,32.0,6.0,3.0,3,True
+427994,195771,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,2Game Esports,FURIA,5,13,gobera,14950,vyse,0.76,189.0,12.0,16.0,4.0,61.0,132.0,39.0,0.0,3.0,3,True
+427994,195771,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,2Game Esports,FURIA,5,13,Zap,3169,tejo,0.55,156.0,9.0,15.0,2.0,78.0,118.0,24.0,0.0,0.0,3,True
+427994,195771,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,2Game Esports,FURIA,5,13,pryze,662,breach,0.43,87.0,5.0,14.0,4.0,44.0,52.0,22.0,0.0,0.0,3,True
+427994,195771,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,FURIA,2Game Esports,13,5,penny,7716,raze,1.95,340.0,22.0,8.0,7.0,89.0,228.0,25.0,4.0,2.0,3,True
+427994,195771,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,FURIA,2Game Esports,13,5,jakee,8742,omen,1.59,280.0,19.0,9.0,8.0,89.0,176.0,24.0,1.0,1.0,3,True
+427994,195771,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,FURIA,2Game Esports,13,5,bdog,844,breach,1.22,181.0,12.0,8.0,12.0,83.0,95.0,37.0,0.0,0.0,3,True
+427994,195771,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,FURIA,2Game Esports,13,5,stellar,733,tejo,1.02,216.0,15.0,12.0,6.0,83.0,144.0,22.0,1.0,2.0,3,True
+427994,195771,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,FURIA,2Game Esports,13,5,Add3r,4931,vyse,0.56,154.0,10.0,14.0,3.0,56.0,102.0,31.0,3.0,4.0,3,True
+427993,195767,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Fracture,1,NRG,Cloud9,12,14,s0m,4164,brimstone,1.72,324.0,30.0,15.0,14.0,81.0,195.0,39.0,6.0,2.0,3,True
+427993,195767,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Fracture,1,NRG,Cloud9,12,14,mada,5132,raze,1.24,274.0,26.0,19.0,2.0,77.0,173.0,30.0,6.0,6.0,3,True
+427993,195767,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Fracture,1,NRG,Cloud9,12,14,Ethan,11225,breach,0.91,133.0,10.0,13.0,14.0,77.0,84.0,20.0,0.0,0.0,3,True
+427993,195767,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Fracture,1,NRG,Cloud9,12,14,Verno,21668,sova,0.83,156.0,14.0,16.0,3.0,81.0,102.0,25.0,2.0,1.0,3,True
+427993,195767,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Fracture,1,NRG,Cloud9,12,14,FiNESSE,817,killjoy,0.51,129.0,11.0,20.0,2.0,62.0,106.0,25.0,0.0,3.0,3,True
+427993,195767,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Fracture,1,Cloud9,NRG,14,12,Xeppaa,7871,clove,1.13,305.0,28.0,25.0,6.0,73.0,185.0,18.0,4.0,4.0,3,True
+427993,195767,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Fracture,1,Cloud9,NRG,14,12,OXY,18796,raze,0.98,200.0,17.0,20.0,11.0,77.0,136.0,14.0,2.0,3.0,3,True
+427993,195767,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Fracture,1,Cloud9,NRG,14,12,v1c,17433,brimstone,0.91,141.0,13.0,15.0,8.0,81.0,94.0,31.0,2.0,1.0,3,True
+427993,195767,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Fracture,1,Cloud9,NRG,14,12,neT,6582,killjoy,0.8,120.0,12.0,15.0,4.0,81.0,94.0,28.0,0.0,1.0,3,True
+427993,195767,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Fracture,1,Cloud9,NRG,14,12,mitch,612,tejo,0.75,150.0,13.0,17.0,4.0,58.0,103.0,15.0,4.0,5.0,3,True
+427993,195768,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,NRG,Cloud9,10,13,Ethan,11225,omen,1.21,233.0,20.0,15.0,9.0,70.0,156.0,37.0,1.0,2.0,3,True
+427993,195768,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,NRG,Cloud9,10,13,FiNESSE,817,vyse,1.05,195.0,16.0,17.0,10.0,83.0,124.0,28.0,0.0,0.0,3,True
+427993,195768,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,NRG,Cloud9,10,13,Verno,21668,fade,1.02,191.0,17.0,15.0,5.0,78.0,125.0,47.0,4.0,1.0,3,True
+427993,195768,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,NRG,Cloud9,10,13,s0m,4164,viper,0.94,229.0,19.0,20.0,8.0,83.0,134.0,11.0,3.0,2.0,3,True
+427993,195768,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,NRG,Cloud9,10,13,mada,5132,raze,0.86,195.0,15.0,20.0,7.0,57.0,131.0,17.0,4.0,6.0,3,True
+427993,195768,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,Cloud9,NRG,13,10,mitch,612,breach,1.35,220.0,17.0,14.0,16.0,87.0,138.0,21.0,0.0,1.0,3,True
+427993,195768,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,Cloud9,NRG,13,10,Xeppaa,7871,tejo,1.3,287.0,26.0,17.0,5.0,83.0,171.0,16.0,4.0,1.0,3,True
+427993,195768,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,Cloud9,NRG,13,10,neT,6582,deadlock,1.01,202.0,18.0,17.0,5.0,74.0,142.0,27.0,3.0,3.0,3,True
+427993,195768,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,Cloud9,NRG,13,10,v1c,17433,omen,0.65,133.0,10.0,17.0,9.0,65.0,91.0,23.0,1.0,1.0,3,True
+427993,195768,2274,VCT 2025: Americas Kickoff,Main Event: Upper Round 1,2025-01-17,Lotus,2,Cloud9,NRG,13,10,OXY,18796,raze,0.64,214.0,16.0,22.0,5.0,70.0,134.0,21.0,3.0,6.0,3,True
+427995,195773,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Haven,1,KRÜ Esports,LOUD,7,13,Shyy,24007,cypher,1.09,183.0,13.0,15.0,4.0,70.0,112.0,41.0,1.0,1.0,3,True
+427995,195773,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Haven,1,KRÜ Esports,LOUD,7,13,Melser,1311,omen,0.84,145.0,9.0,14.0,8.0,55.0,97.0,40.0,2.0,2.0,3,True
+427995,195773,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Haven,1,KRÜ Esports,LOUD,7,13,keznit,2462,jett,0.83,173.0,13.0,15.0,1.0,60.0,101.0,44.0,6.0,6.0,3,True
+427995,195773,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Haven,1,KRÜ Esports,LOUD,7,13,adverso,3826,sova,0.62,109.0,9.0,16.0,2.0,50.0,77.0,40.0,0.0,0.0,3,True
+427995,195773,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Haven,1,KRÜ Esports,LOUD,7,13,Mazino,7603,breach,0.39,114.0,7.0,18.0,4.0,50.0,70.0,21.0,0.0,2.0,3,True
+427995,195773,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Haven,1,LOUD,KRÜ Esports,13,7,dgzin,8873,jett,1.47,229.0,19.0,7.0,3.0,85.0,138.0,11.0,4.0,2.0,3,True
+427995,195773,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Haven,1,LOUD,KRÜ Esports,13,7,pANcada,683,omen,1.23,194.0,14.0,9.0,3.0,80.0,129.0,50.0,1.0,1.0,3,True
+427995,195773,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Haven,1,LOUD,KRÜ Esports,13,7,cauanzin,6193,sova,1.22,254.0,19.0,12.0,3.0,75.0,160.0,44.0,4.0,2.0,3,True
+427995,195773,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Haven,1,LOUD,KRÜ Esports,13,7,tuyz,2408,cypher,1.01,204.0,14.0,12.0,6.0,75.0,135.0,26.0,1.0,1.0,3,True
+427995,195773,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Haven,1,LOUD,KRÜ Esports,13,7,v1nny,1586,breach,0.94,163.0,12.0,11.0,7.0,85.0,114.0,48.0,1.0,3.0,3,True
+427995,195774,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,2,KRÜ Esports,LOUD,10,13,keznit,2462,raze,1.44,270.0,24.0,13.0,5.0,87.0,177.0,20.0,2.0,2.0,3,True
+427995,195774,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,2,KRÜ Esports,LOUD,10,13,Shyy,24007,cypher,1.21,210.0,18.0,13.0,5.0,78.0,137.0,34.0,2.0,0.0,3,True
+427995,195774,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,2,KRÜ Esports,LOUD,10,13,Mazino,7603,skye,0.88,222.0,18.0,17.0,6.0,70.0,158.0,34.0,4.0,5.0,3,True
+427995,195774,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,2,KRÜ Esports,LOUD,10,13,Melser,1311,omen,0.72,138.0,10.0,14.0,4.0,74.0,88.0,28.0,2.0,1.0,3,True
+427995,195774,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,2,KRÜ Esports,LOUD,10,13,adverso,3826,viper,0.72,152.0,11.0,17.0,4.0,74.0,116.0,22.0,3.0,2.0,3,True
+427995,195774,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,2,LOUD,KRÜ Esports,13,10,v1nny,1586,breach,1.12,192.0,17.0,16.0,8.0,74.0,128.0,29.0,1.0,1.0,3,True
+427995,195774,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,2,LOUD,KRÜ Esports,13,10,dgzin,8873,raze,1.05,234.0,18.0,16.0,3.0,65.0,151.0,26.0,3.0,4.0,3,True
+427995,195774,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,2,LOUD,KRÜ Esports,13,10,tuyz,2408,cypher,1.0,177.0,12.0,17.0,9.0,65.0,131.0,26.0,2.0,4.0,3,True
+427995,195774,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,2,LOUD,KRÜ Esports,13,10,pANcada,683,astra,0.95,179.0,15.0,15.0,2.0,70.0,110.0,43.0,3.0,3.0,3,True
+427995,195774,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,2,LOUD,KRÜ Esports,13,10,cauanzin,6193,tejo,0.78,161.0,12.0,17.0,5.0,65.0,104.0,14.0,1.0,1.0,3,True
+427996,195776,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,1,Sentinels,100 Thieves,4,13,N4RRATE,36245,breach,1.04,184.0,12.0,14.0,12.0,76.0,119.0,22.0,1.0,1.0,3,True
+427996,195776,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,1,Sentinels,100 Thieves,4,13,johnqt,1265,tejo,0.98,242.0,13.0,15.0,5.0,65.0,148.0,21.0,1.0,0.0,3,True
+427996,195776,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,1,Sentinels,100 Thieves,4,13,Zellsis,729,viper,0.75,192.0,11.0,14.0,3.0,59.0,125.0,26.0,1.0,3.0,3,True
+427996,195776,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,1,Sentinels,100 Thieves,4,13,zekken,4004,yoru,0.71,196.0,11.0,15.0,3.0,76.0,130.0,11.0,2.0,4.0,3,True
+427996,195776,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,1,Sentinels,100 Thieves,4,13,bang,3880,omen,0.44,160.0,8.0,16.0,3.0,71.0,126.0,32.0,2.0,2.0,3,True
+427996,195776,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,1,100 Thieves,Sentinels,13,4,Cryocells,4147,sage,2.13,338.0,24.0,8.0,4.0,94.0,233.0,46.0,2.0,0.0,3,True
+427996,195776,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,1,100 Thieves,Sentinels,13,4,eeiu,796,tejo,1.26,272.0,17.0,13.0,6.0,82.0,200.0,38.0,2.0,1.0,3,True
+427996,195776,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,1,100 Thieves,Sentinels,13,4,Asuna,601,raze,1.0,223.0,13.0,13.0,3.0,71.0,147.0,12.0,2.0,5.0,3,True
+427996,195776,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,1,100 Thieves,Sentinels,13,4,Boostio,604,breach,0.93,177.0,12.0,11.0,6.0,82.0,108.0,23.0,3.0,0.0,3,True
+427996,195776,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Split,1,100 Thieves,Sentinels,13,4,zander,8082,astra,0.85,140.0,8.0,10.0,5.0,76.0,89.0,24.0,1.0,1.0,3,True
+427996,195777,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Bind,2,Sentinels,100 Thieves,13,9,johnqt,1265,tejo,1.41,197.0,16.0,11.0,7.0,82.0,137.0,32.0,1.0,0.0,3,True
+427996,195777,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Bind,2,Sentinels,100 Thieves,13,9,zekken,4004,raze,1.27,229.0,20.0,13.0,4.0,86.0,151.0,17.0,4.0,4.0,3,True
+427996,195777,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Bind,2,Sentinels,100 Thieves,13,9,bang,3880,viper,1.18,229.0,19.0,13.0,5.0,77.0,151.0,34.0,2.0,3.0,3,True
+427996,195777,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Bind,2,Sentinels,100 Thieves,13,9,Zellsis,729,brimstone,0.99,155.0,11.0,13.0,9.0,73.0,90.0,26.0,3.0,2.0,3,True
+427996,195777,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Bind,2,Sentinels,100 Thieves,13,9,N4RRATE,36245,gekko,0.95,222.0,16.0,17.0,8.0,73.0,150.0,22.0,3.0,0.0,3,True
+427996,195777,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Bind,2,100 Thieves,Sentinels,9,13,Asuna,601,raze,1.07,269.0,21.0,18.0,3.0,73.0,170.0,20.0,6.0,4.0,3,True
+427996,195777,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Bind,2,100 Thieves,Sentinels,9,13,Cryocells,4147,brimstone,0.88,191.0,14.0,18.0,9.0,73.0,125.0,26.0,3.0,3.0,3,True
+427996,195777,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Bind,2,100 Thieves,Sentinels,9,13,eeiu,796,fade,0.85,137.0,12.0,15.0,9.0,68.0,92.0,50.0,0.0,1.0,3,True
+427996,195777,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Bind,2,100 Thieves,Sentinels,9,13,Boostio,604,gekko,0.72,151.0,10.0,16.0,8.0,59.0,100.0,15.0,0.0,2.0,3,True
+427996,195777,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Bind,2,100 Thieves,Sentinels,9,13,zander,8082,viper,0.7,129.0,9.0,15.0,5.0,64.0,84.0,16.0,0.0,3.0,3,True
+427996,195778,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Pearl,3,Sentinels,100 Thieves,13,9,johnqt,1265,tejo,1.56,237.0,22.0,10.0,3.0,91.0,146.0,25.0,1.0,0.0,3,True
+427996,195778,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Pearl,3,Sentinels,100 Thieves,13,9,N4RRATE,36245,fade,1.28,231.0,17.0,15.0,10.0,86.0,172.0,31.0,1.0,0.0,3,True
+427996,195778,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Pearl,3,Sentinels,100 Thieves,13,9,bang,3880,astra,1.18,175.0,15.0,13.0,10.0,86.0,109.0,30.0,1.0,1.0,3,True
+427996,195778,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Pearl,3,Sentinels,100 Thieves,13,9,zekken,4004,yoru,1.07,227.0,17.0,16.0,7.0,77.0,147.0,17.0,8.0,6.0,3,True
+427996,195778,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Pearl,3,Sentinels,100 Thieves,13,9,Zellsis,729,vyse,0.85,144.0,10.0,14.0,8.0,86.0,105.0,30.0,1.0,3.0,3,True
+427996,195778,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Pearl,3,100 Thieves,Sentinels,9,13,zander,8082,astra,1.14,206.0,15.0,12.0,12.0,77.0,123.0,19.0,2.0,1.0,3,True
+427996,195778,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Pearl,3,100 Thieves,Sentinels,9,13,Cryocells,4147,jett,0.95,212.0,15.0,16.0,5.0,77.0,140.0,36.0,5.0,4.0,3,True
+427996,195778,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Pearl,3,100 Thieves,Sentinels,9,13,eeiu,796,fade,0.76,177.0,13.0,16.0,11.0,77.0,119.0,38.0,0.0,3.0,3,True
+427996,195778,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Pearl,3,100 Thieves,Sentinels,9,13,Asuna,601,kayo,0.72,184.0,13.0,18.0,7.0,68.0,110.0,19.0,1.0,2.0,3,True
+427996,195778,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-18,Pearl,3,100 Thieves,Sentinels,9,13,Boostio,604,killjoy,0.53,149.0,12.0,19.0,2.0,55.0,101.0,24.0,2.0,2.0,3,True
+427998,195782,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Haven,1,LEVIATÁN,FURIA,13,8,C0M,619,sova,1.66,330.0,27.0,14.0,3.0,90.0,221.0,29.0,2.0,1.0,3,True
+427998,195782,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Haven,1,LEVIATÁN,FURIA,13,8,kiNgg,8549,omen,1.17,222.0,17.0,14.0,8.0,76.0,122.0,38.0,2.0,2.0,3,True
+427998,195782,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Haven,1,LEVIATÁN,FURIA,13,8,nataNk,5004,breach,1.12,192.0,13.0,12.0,14.0,81.0,113.0,23.0,2.0,2.0,3,True
+427998,195782,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Haven,1,LEVIATÁN,FURIA,13,8,tex,1818,cypher,0.72,152.0,11.0,14.0,3.0,71.0,93.0,22.0,2.0,3.0,3,True
+427998,195782,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Haven,1,LEVIATÁN,FURIA,13,8,Demon1,26171,jett,0.59,162.0,11.0,17.0,2.0,57.0,112.0,26.0,4.0,1.0,3,True
+427998,195782,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Haven,1,FURIA,LEVIATÁN,8,13,Khalil,1711,omen,1.28,215.0,18.0,12.0,4.0,86.0,137.0,42.0,1.0,0.0,3,True
+427998,195782,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Haven,1,FURIA,LEVIATÁN,8,13,mwzera,939,sova,1.06,220.0,16.0,15.0,6.0,71.0,138.0,13.0,1.0,2.0,3,True
+427998,195782,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Haven,1,FURIA,LEVIATÁN,8,13,havoc,8706,jett,0.89,211.0,14.0,19.0,7.0,86.0,139.0,27.0,5.0,3.0,3,True
+427998,195782,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Haven,1,FURIA,LEVIATÁN,8,13,raafa,25743,breach,0.74,150.0,11.0,16.0,5.0,57.0,111.0,23.0,0.0,2.0,3,True
+427998,195782,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Haven,1,FURIA,LEVIATÁN,8,13,heat,8673,cypher,0.58,151.0,12.0,17.0,1.0,52.0,105.0,41.0,2.0,5.0,3,True
+427998,195783,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Split,2,LEVIATÁN,FURIA,13,6,kiNgg,8549,omen,1.72,278.0,20.0,9.0,7.0,89.0,173.0,43.0,3.0,2.0,3,True
+427998,195783,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Split,2,LEVIATÁN,FURIA,13,6,nataNk,5004,skye,1.45,213.0,14.0,8.0,8.0,79.0,142.0,31.0,2.0,2.0,3,True
+427998,195783,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Split,2,LEVIATÁN,FURIA,13,6,Demon1,26171,raze,1.03,164.0,11.0,9.0,3.0,79.0,111.0,17.0,1.0,3.0,3,True
+427998,195783,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Split,2,LEVIATÁN,FURIA,13,6,tex,1818,cypher,1.01,172.0,13.0,11.0,1.0,68.0,116.0,40.0,2.0,1.0,3,True
+427998,195783,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Split,2,LEVIATÁN,FURIA,13,6,C0M,619,viper,0.98,222.0,14.0,13.0,6.0,68.0,161.0,23.0,1.0,2.0,3,True
+427998,195783,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Split,2,FURIA,LEVIATÁN,6,13,havoc,8706,raze,1.05,262.0,15.0,14.0,4.0,68.0,181.0,26.0,4.0,2.0,3,True
+427998,195783,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Split,2,FURIA,LEVIATÁN,6,13,mwzera,939,skye,0.77,155.0,9.0,13.0,4.0,63.0,98.0,12.0,3.0,1.0,3,True
+427998,195783,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Split,2,FURIA,LEVIATÁN,6,13,heat,8673,viper,0.68,161.0,10.0,15.0,1.0,47.0,108.0,32.0,1.0,3.0,3,True
+427998,195783,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Split,2,FURIA,LEVIATÁN,6,13,Khalil,1711,omen,0.64,160.0,10.0,17.0,5.0,68.0,103.0,46.0,2.0,3.0,3,True
+427998,195783,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Split,2,FURIA,LEVIATÁN,6,13,raafa,25743,sage,0.58,95.0,6.0,13.0,4.0,58.0,66.0,11.0,0.0,0.0,3,True
+427997,195779,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Lotus,1,G2 Esports,Cloud9,13,6,leaf,7873,viper,1.64,296.0,22.0,11.0,4.0,89.0,209.0,33.0,2.0,0.0,3,True
+427997,195779,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Lotus,1,G2 Esports,Cloud9,13,6,jawgemo,3993,yoru,1.37,248.0,16.0,11.0,8.0,89.0,151.0,20.0,7.0,1.0,3,True
+427997,195779,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Lotus,1,G2 Esports,Cloud9,13,6,valyn,3885,omen,1.24,230.0,15.0,11.0,12.0,95.0,142.0,16.0,2.0,1.0,3,True
+427997,195779,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Lotus,1,G2 Esports,Cloud9,13,6,JonahP,4581,breach,1.19,160.0,12.0,9.0,10.0,84.0,114.0,48.0,0.0,0.0,3,True
+427997,195779,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Lotus,1,G2 Esports,Cloud9,13,6,trent,15500,tejo,0.91,174.0,14.0,11.0,2.0,74.0,120.0,29.0,2.0,4.0,3,True
+427997,195779,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Lotus,1,Cloud9,G2 Esports,6,13,Xeppaa,7871,tejo,1.23,238.0,15.0,15.0,5.0,74.0,174.0,22.0,1.0,2.0,3,True
+427997,195779,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Lotus,1,Cloud9,G2 Esports,6,13,v1c,17433,omen,0.87,167.0,10.0,16.0,11.0,58.0,111.0,12.0,2.0,2.0,3,True
+427997,195779,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Lotus,1,Cloud9,G2 Esports,6,13,neT,6582,deadlock,0.74,186.0,12.0,16.0,1.0,53.0,124.0,39.0,0.0,1.0,3,True
+427997,195779,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Lotus,1,Cloud9,G2 Esports,6,13,mitch,612,breach,0.54,112.0,7.0,15.0,6.0,63.0,67.0,20.0,2.0,1.0,3,True
+427997,195779,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Lotus,1,Cloud9,G2 Esports,6,13,OXY,18796,raze,0.42,141.0,9.0,17.0,1.0,53.0,94.0,36.0,1.0,7.0,3,True
+427997,195780,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Abyss,2,G2 Esports,Cloud9,13,8,JonahP,4581,breach,1.53,246.0,18.0,11.0,17.0,90.0,148.0,30.0,3.0,1.0,3,True
+427997,195780,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Abyss,2,G2 Esports,Cloud9,13,8,leaf,7873,chamber,1.49,271.0,22.0,12.0,3.0,62.0,168.0,28.0,5.0,2.0,3,True
+427997,195780,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Abyss,2,G2 Esports,Cloud9,13,8,trent,15500,sova,1.43,210.0,17.0,8.0,3.0,76.0,157.0,50.0,1.0,1.0,3,True
+427997,195780,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Abyss,2,G2 Esports,Cloud9,13,8,valyn,3885,astra,0.93,155.0,10.0,14.0,9.0,76.0,99.0,19.0,0.0,1.0,3,True
+427997,195780,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Abyss,2,G2 Esports,Cloud9,13,8,jawgemo,3993,yoru,0.89,177.0,13.0,15.0,9.0,67.0,135.0,22.0,4.0,3.0,3,True
+427997,195780,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Abyss,2,Cloud9,G2 Esports,8,13,OXY,18796,jett,1.0,237.0,19.0,17.0,2.0,57.0,166.0,20.0,4.0,4.0,3,True
+427997,195780,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Abyss,2,Cloud9,G2 Esports,8,13,Xeppaa,7871,sova,0.96,168.0,12.0,13.0,8.0,67.0,117.0,24.0,0.0,0.0,3,True
+427997,195780,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Abyss,2,Cloud9,G2 Esports,8,13,neT,6582,astra,0.74,171.0,13.0,16.0,3.0,52.0,108.0,48.0,2.0,6.0,3,True
+427997,195780,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Abyss,2,Cloud9,G2 Esports,8,13,mitch,612,kayo,0.7,173.0,10.0,18.0,12.0,57.0,104.0,27.0,1.0,2.0,3,True
+427997,195780,2274,VCT 2025: Americas Kickoff,Main Event: Upper Quarterfinals,2025-01-19,Abyss,2,Cloud9,G2 Esports,8,13,v1c,17433,omen,0.46,107.0,6.0,16.0,6.0,62.0,76.0,18.0,1.0,1.0,3,True
+428003,195799,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,1,FURIA,Evil Geniuses,7,13,heat,8673,cypher,1.17,222.0,16.0,12.0,1.0,75.0,144.0,59.0,4.0,0.0,3,True
+428003,195799,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,1,FURIA,Evil Geniuses,7,13,Khalil,1711,omen,1.02,206.0,15.0,15.0,6.0,75.0,124.0,35.0,3.0,0.0,3,True
+428003,195799,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,1,FURIA,Evil Geniuses,7,13,mwzera,939,sova,0.9,149.0,9.0,13.0,7.0,65.0,128.0,34.0,0.0,1.0,3,True
+428003,195799,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,1,FURIA,Evil Geniuses,7,13,havoc,8706,jett,0.6,177.0,13.0,17.0,2.0,55.0,106.0,26.0,3.0,4.0,3,True
+428003,195799,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,1,FURIA,Evil Geniuses,7,13,raafa,25743,kayo,0.4,126.0,6.0,18.0,8.0,50.0,91.0,30.0,1.0,4.0,3,True
+428003,195799,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,1,Evil Geniuses,FURIA,13,7,Derrek,1533,sova,1.47,260.0,20.0,12.0,4.0,90.0,166.0,37.0,1.0,3.0,3,True
+428003,195799,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,1,Evil Geniuses,FURIA,13,7,icy,8402,jett,1.26,281.0,19.0,13.0,6.0,70.0,175.0,21.0,4.0,6.0,3,True
+428003,195799,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,1,Evil Geniuses,FURIA,13,7,yay,881,astra,1.23,188.0,14.0,10.0,4.0,80.0,115.0,36.0,3.0,0.0,3,True
+428003,195799,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,1,Evil Geniuses,FURIA,13,7,NaturE,4927,vyse,1.06,153.0,11.0,10.0,5.0,70.0,112.0,32.0,0.0,2.0,3,True
+428003,195799,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,1,Evil Geniuses,FURIA,13,7,supamen,826,omen,0.76,159.0,11.0,14.0,5.0,80.0,100.0,46.0,1.0,0.0,3,True
+428003,195800,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Fracture,2,FURIA,Evil Geniuses,7,13,Khalil,1711,brimstone,1.41,264.0,19.0,14.0,6.0,85.0,184.0,37.0,1.0,0.0,3,True
+428003,195800,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Fracture,2,FURIA,Evil Geniuses,7,13,havoc,8706,raze,0.92,230.0,15.0,16.0,5.0,70.0,163.0,20.0,2.0,4.0,3,True
+428003,195800,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Fracture,2,FURIA,Evil Geniuses,7,13,mwzera,939,breach,0.76,141.0,10.0,14.0,6.0,65.0,80.0,19.0,3.0,3.0,3,True
+428003,195800,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Fracture,2,FURIA,Evil Geniuses,7,13,heat,8673,cypher,0.73,156.0,11.0,15.0,4.0,70.0,108.0,33.0,0.0,2.0,3,True
+428003,195800,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Fracture,2,FURIA,Evil Geniuses,7,13,raafa,25743,sage,0.66,174.0,12.0,16.0,3.0,55.0,105.0,24.0,1.0,4.0,3,True
+428003,195800,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Fracture,2,Evil Geniuses,FURIA,13,7,NaturE,4927,breach,1.42,215.0,18.0,11.0,8.0,75.0,139.0,22.0,0.0,0.0,3,True
+428003,195800,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Fracture,2,Evil Geniuses,FURIA,13,7,supamen,826,brimstone,1.21,204.0,13.0,11.0,13.0,80.0,151.0,47.0,4.0,2.0,3,True
+428003,195800,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Fracture,2,Evil Geniuses,FURIA,13,7,yay,881,killjoy,1.16,216.0,14.0,13.0,8.0,80.0,150.0,21.0,5.0,0.0,3,True
+428003,195800,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Fracture,2,Evil Geniuses,FURIA,13,7,icy,8402,raze,1.16,270.0,19.0,17.0,3.0,80.0,180.0,26.0,4.0,2.0,3,True
+428003,195800,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Fracture,2,Evil Geniuses,FURIA,13,7,Derrek,1533,tejo,0.71,149.0,11.0,15.0,7.0,70.0,97.0,36.0,0.0,3.0,3,True
+428004,195802,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Lotus,1,Cloud9,MIBR,13,7,v1c,17433,omen,1.68,243.0,21.0,8.0,10.0,90.0,170.0,44.0,1.0,0.0,3,True
+428004,195802,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Lotus,1,Cloud9,MIBR,13,7,OXY,18796,raze,1.44,329.0,24.0,15.0,4.0,80.0,206.0,29.0,8.0,4.0,3,True
+428004,195802,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Lotus,1,Cloud9,MIBR,13,7,mitch,612,breach,1.17,192.0,12.0,12.0,17.0,80.0,117.0,16.0,3.0,2.0,3,True
+428004,195802,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Lotus,1,Cloud9,MIBR,13,7,neT,6582,deadlock,0.94,157.0,11.0,12.0,11.0,80.0,106.0,32.0,1.0,0.0,3,True
+428004,195802,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Lotus,1,Cloud9,MIBR,13,7,Xeppaa,7871,tejo,0.72,127.0,9.0,12.0,5.0,75.0,92.0,18.0,1.0,0.0,3,True
+428004,195802,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Lotus,1,MIBR,Cloud9,7,13,aspas,8480,raze,0.96,218.0,15.0,16.0,3.0,65.0,165.0,27.0,1.0,4.0,3,True
+428004,195802,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Lotus,1,MIBR,Cloud9,7,13,artzin,5957,viper,0.96,229.0,15.0,16.0,6.0,55.0,135.0,25.0,4.0,7.0,3,True
+428004,195802,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Lotus,1,MIBR,Cloud9,7,13,nzr,725,fade,0.93,188.0,13.0,14.0,6.0,70.0,125.0,21.0,0.0,1.0,3,True
+428004,195802,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Lotus,1,MIBR,Cloud9,7,13,xenom,20240,omen,0.81,132.0,9.0,14.0,6.0,60.0,80.0,24.0,0.0,0.0,3,True
+428004,195802,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Lotus,1,MIBR,Cloud9,7,13,cortezia,5395,vyse,0.46,113.0,7.0,17.0,7.0,55.0,85.0,36.0,1.0,2.0,3,True
+428004,195803,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,2,Cloud9,MIBR,10,13,OXY,18796,jett,1.12,288.0,23.0,19.0,2.0,65.0,177.0,27.0,6.0,4.0,3,True
+428004,195803,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,2,Cloud9,MIBR,10,13,v1c,17433,omen,0.97,172.0,14.0,16.0,8.0,70.0,119.0,18.0,1.0,1.0,3,True
+428004,195803,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,2,Cloud9,MIBR,10,13,Xeppaa,7871,sova,0.86,153.0,12.0,17.0,8.0,74.0,104.0,43.0,1.0,0.0,3,True
+428004,195803,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,2,Cloud9,MIBR,10,13,neT,6582,astra,0.63,159.0,14.0,19.0,8.0,61.0,92.0,80.0,1.0,3.0,3,True
+428004,195803,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,2,Cloud9,MIBR,10,13,mitch,612,kayo,0.5,136.0,9.0,18.0,13.0,57.0,82.0,16.0,0.0,5.0,3,True
+428004,195803,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,2,MIBR,Cloud9,13,10,aspas,8480,jett,1.67,280.0,25.0,10.0,2.0,87.0,180.0,19.0,5.0,2.0,3,True
+428004,195803,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,2,MIBR,Cloud9,13,10,xenom,20240,astra,1.34,206.0,19.0,12.0,11.0,83.0,133.0,47.0,1.0,0.0,3,True
+428004,195803,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,2,MIBR,Cloud9,13,10,cortezia,5395,cypher,0.98,229.0,19.0,19.0,3.0,87.0,160.0,51.0,4.0,3.0,3,True
+428004,195803,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,2,MIBR,Cloud9,13,10,artzin,5957,kayo,0.82,153.0,11.0,16.0,13.0,78.0,99.0,17.0,1.0,2.0,3,True
+428004,195803,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Abyss,2,MIBR,Cloud9,13,10,nzr,725,sova,0.82,137.0,10.0,15.0,9.0,70.0,103.0,29.0,2.0,2.0,3,True
+428004,195804,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Pearl,3,Cloud9,MIBR,7,13,v1c,17433,astra,1.35,255.0,18.0,13.0,8.0,75.0,158.0,23.0,2.0,1.0,3,True
+428004,195804,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Pearl,3,Cloud9,MIBR,7,13,neT,6582,cypher,1.0,228.0,15.0,15.0,3.0,70.0,154.0,47.0,6.0,1.0,3,True
+428004,195804,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Pearl,3,Cloud9,MIBR,7,13,mitch,612,tejo,0.59,158.0,11.0,17.0,3.0,70.0,108.0,27.0,1.0,3.0,3,True
+428004,195804,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Pearl,3,Cloud9,MIBR,7,13,OXY,18796,yoru,0.53,145.0,10.0,17.0,5.0,55.0,103.0,30.0,1.0,4.0,3,True
+428004,195804,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Pearl,3,Cloud9,MIBR,7,13,Xeppaa,7871,fade,0.45,84.0,5.0,16.0,4.0,50.0,61.0,21.0,0.0,1.0,3,True
+428004,195804,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Pearl,3,MIBR,Cloud9,13,7,nzr,725,sova,1.65,262.0,18.0,9.0,9.0,85.0,191.0,26.0,1.0,0.0,3,True
+428004,195804,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Pearl,3,MIBR,Cloud9,13,7,xenom,20240,astra,1.34,186.0,15.0,9.0,10.0,80.0,129.0,19.0,0.0,1.0,3,True
+428004,195804,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Pearl,3,MIBR,Cloud9,13,7,artzin,5957,kayo,1.32,258.0,19.0,15.0,9.0,75.0,150.0,19.0,3.0,1.0,3,True
+428004,195804,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Pearl,3,MIBR,Cloud9,13,7,aspas,8480,jett,1.11,241.0,17.0,14.0,5.0,70.0,151.0,18.0,5.0,7.0,3,True
+428004,195804,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-23,Pearl,3,MIBR,Cloud9,13,7,cortezia,5395,killjoy,0.73,119.0,9.0,12.0,1.0,70.0,80.0,23.0,1.0,1.0,3,True
+428006,195808,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Abyss,1,KRÜ Esports,2Game Esports,13,3,keznit,2462,jett,1.58,328.0,18.0,8.0,4.0,88.0,209.0,27.0,5.0,2.0,3,True
+428006,195808,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Abyss,1,KRÜ Esports,2Game Esports,13,3,Melser,1311,astra,1.41,264.0,16.0,8.0,4.0,88.0,158.0,44.0,3.0,2.0,3,True
+428006,195808,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Abyss,1,KRÜ Esports,2Game Esports,13,3,Mazino,7603,kayo,1.25,202.0,11.0,8.0,10.0,88.0,119.0,18.0,1.0,1.0,3,True
+428006,195808,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Abyss,1,KRÜ Esports,2Game Esports,13,3,Shyy,24007,viper,1.09,196.0,12.0,9.0,2.0,75.0,130.0,35.0,2.0,0.0,3,True
+428006,195808,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Abyss,1,KRÜ Esports,2Game Esports,13,3,adverso,3826,sova,1.0,145.0,8.0,7.0,6.0,75.0,96.0,29.0,0.0,0.0,3,True
+428006,195808,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Abyss,1,2Game Esports,KRÜ Esports,3,13,gobera,14950,jett,1.27,241.0,13.0,12.0,3.0,69.0,143.0,34.0,2.0,0.0,3,True
+428006,195808,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Abyss,1,2Game Esports,KRÜ Esports,3,13,pryze,662,sova,0.62,133.0,6.0,12.0,4.0,63.0,97.0,19.0,1.0,1.0,3,True
+428006,195808,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Abyss,1,2Game Esports,KRÜ Esports,3,13,lz,6195,astra,0.58,152.0,9.0,14.0,2.0,56.0,96.0,37.0,0.0,6.0,3,True
+428006,195808,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Abyss,1,2Game Esports,KRÜ Esports,3,13,silentzz,11921,yoru,0.44,127.0,7.0,14.0,2.0,56.0,78.0,58.0,0.0,2.0,3,True
+428006,195808,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Abyss,1,2Game Esports,KRÜ Esports,3,13,Zap,3169,omen,0.39,86.0,5.0,13.0,1.0,44.0,59.0,27.0,2.0,2.0,3,True
+428006,195809,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Split,2,KRÜ Esports,2Game Esports,13,2,Melser,1311,omen,1.52,217.0,12.0,6.0,5.0,87.0,158.0,39.0,1.0,1.0,3,True
+428006,195809,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Split,2,KRÜ Esports,2Game Esports,13,2,keznit,2462,raze,1.42,262.0,15.0,8.0,3.0,80.0,162.0,21.0,1.0,1.0,3,True
+428006,195809,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Split,2,KRÜ Esports,2Game Esports,13,2,Mazino,7603,skye,1.22,231.0,12.0,10.0,12.0,80.0,169.0,30.0,1.0,2.0,3,True
+428006,195809,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Split,2,KRÜ Esports,2Game Esports,13,2,adverso,3826,viper,1.22,257.0,14.0,11.0,7.0,80.0,152.0,34.0,2.0,4.0,3,True
+428006,195809,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Split,2,KRÜ Esports,2Game Esports,13,2,Shyy,24007,cypher,1.03,190.0,11.0,10.0,6.0,87.0,134.0,16.0,1.0,1.0,3,True
+428006,195809,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Split,2,2Game Esports,KRÜ Esports,2,13,pryze,662,viper,1.1,256.0,13.0,12.0,4.0,93.0,172.0,27.0,1.0,0.0,3,True
+428006,195809,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Split,2,2Game Esports,KRÜ Esports,2,13,gobera,14950,omen,0.89,190.0,10.0,12.0,7.0,87.0,116.0,29.0,1.0,1.0,3,True
+428006,195809,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Split,2,2Game Esports,KRÜ Esports,2,13,silentzz,11921,yoru,0.79,210.0,10.0,14.0,3.0,60.0,124.0,37.0,4.0,3.0,3,True
+428006,195809,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Split,2,2Game Esports,KRÜ Esports,2,13,lz,6195,tejo,0.61,133.0,7.0,13.0,3.0,53.0,102.0,41.0,3.0,1.0,3,True
+428006,195809,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Split,2,2Game Esports,KRÜ Esports,2,13,Zap,3169,breach,0.55,138.0,5.0,14.0,10.0,60.0,105.0,14.0,0.0,1.0,3,True
+428005,195805,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Lotus,1,100 Thieves,NRG,14,12,eeiu,796,fade,1.51,232.0,26.0,12.0,7.0,96.0,143.0,31.0,2.0,0.0,3,True
+428005,195805,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Lotus,1,100 Thieves,NRG,14,12,zander,8082,omen,1.03,193.0,17.0,16.0,8.0,69.0,112.0,22.0,4.0,3.0,3,True
+428005,195805,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Lotus,1,100 Thieves,NRG,14,12,Asuna,601,neon,1.03,230.0,20.0,18.0,6.0,69.0,162.0,33.0,3.0,7.0,3,True
+428005,195805,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Lotus,1,100 Thieves,NRG,14,12,Cryocells,4147,clove,0.99,229.0,19.0,20.0,9.0,85.0,156.0,28.0,4.0,2.0,3,True
+428005,195805,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Lotus,1,100 Thieves,NRG,14,12,Boostio,604,breach,0.46,60.0,4.0,17.0,11.0,69.0,38.0,9.0,0.0,1.0,3,True
+428005,195805,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Lotus,1,NRG,100 Thieves,12,14,mada,5132,raze,1.23,253.0,20.0,18.0,9.0,77.0,169.0,11.0,7.0,7.0,3,True
+428005,195805,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Lotus,1,NRG,100 Thieves,12,14,Verno,21668,vyse,1.22,244.0,24.0,15.0,2.0,85.0,154.0,40.0,2.0,1.0,3,True
+428005,195805,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Lotus,1,NRG,100 Thieves,12,14,FiNESSE,817,breach,1.11,194.0,15.0,17.0,10.0,77.0,129.0,17.0,2.0,1.0,3,True
+428005,195805,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Lotus,1,NRG,100 Thieves,12,14,s0m,4164,omen,0.87,156.0,15.0,19.0,10.0,69.0,93.0,29.0,1.0,1.0,3,True
+428005,195805,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Lotus,1,NRG,100 Thieves,12,14,Ethan,11225,tejo,0.59,105.0,9.0,17.0,4.0,46.0,82.0,24.0,1.0,3.0,3,True
+428005,195806,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Pearl,2,100 Thieves,NRG,9,13,eeiu,796,fade,0.99,198.0,16.0,15.0,5.0,73.0,122.0,51.0,1.0,2.0,3,True
+428005,195806,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Pearl,2,100 Thieves,NRG,9,13,Asuna,601,kayo,0.88,156.0,12.0,14.0,10.0,64.0,102.0,29.0,2.0,2.0,3,True
+428005,195806,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Pearl,2,100 Thieves,NRG,9,13,Cryocells,4147,jett,0.77,185.0,15.0,15.0,1.0,68.0,112.0,16.0,1.0,2.0,3,True
+428005,195806,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Pearl,2,100 Thieves,NRG,9,13,Boostio,604,vyse,0.66,162.0,12.0,18.0,5.0,68.0,101.0,20.0,3.0,2.0,3,True
+428005,195806,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Pearl,2,100 Thieves,NRG,9,13,zander,8082,astra,0.44,147.0,11.0,20.0,8.0,64.0,91.0,32.0,1.0,6.0,3,True
+428005,195806,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Pearl,2,NRG,100 Thieves,13,9,mada,5132,jett,1.66,326.0,26.0,15.0,4.0,86.0,211.0,26.0,6.0,2.0,3,True
+428005,195806,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Pearl,2,NRG,100 Thieves,13,9,s0m,4164,astra,1.47,258.0,19.0,12.0,8.0,91.0,160.0,19.0,6.0,1.0,3,True
+428005,195806,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Pearl,2,NRG,100 Thieves,13,9,FiNESSE,817,breach,1.17,158.0,13.0,10.0,13.0,77.0,99.0,20.0,0.0,1.0,3,True
+428005,195806,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Pearl,2,NRG,100 Thieves,13,9,Ethan,11225,tejo,0.85,172.0,13.0,15.0,5.0,91.0,111.0,29.0,1.0,4.0,3,True
+428005,195806,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Pearl,2,NRG,100 Thieves,13,9,Verno,21668,vyse,0.84,123.0,11.0,14.0,6.0,82.0,85.0,23.0,1.0,0.0,3,True
+428005,195807,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Bind,3,100 Thieves,NRG,9,13,zander,8082,viper,1.2,240.0,19.0,15.0,5.0,82.0,148.0,39.0,5.0,0.0,3,True
+428005,195807,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Bind,3,100 Thieves,NRG,9,13,Cryocells,4147,brimstone,0.89,167.0,13.0,16.0,4.0,82.0,107.0,50.0,2.0,0.0,3,True
+428005,195807,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Bind,3,100 Thieves,NRG,9,13,Asuna,601,raze,0.85,202.0,12.0,17.0,7.0,64.0,138.0,15.0,5.0,3.0,3,True
+428005,195807,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Bind,3,100 Thieves,NRG,9,13,eeiu,796,fade,0.75,183.0,15.0,17.0,3.0,73.0,107.0,42.0,2.0,1.0,3,True
+428005,195807,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Bind,3,100 Thieves,NRG,9,13,Boostio,604,gekko,0.35,90.0,7.0,18.0,6.0,55.0,53.0,38.0,1.0,3.0,3,True
+428005,195807,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Bind,3,NRG,100 Thieves,13,9,mada,5132,raze,1.54,321.0,27.0,14.0,1.0,82.0,175.0,14.0,4.0,6.0,3,True
+428005,195807,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Bind,3,NRG,100 Thieves,13,9,Verno,21668,fade,1.32,258.0,21.0,14.0,10.0,77.0,161.0,39.0,1.0,2.0,3,True
+428005,195807,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Bind,3,NRG,100 Thieves,13,9,s0m,4164,brimstone,1.08,174.0,13.0,12.0,16.0,91.0,103.0,15.0,0.0,3.0,3,True
+428005,195807,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Bind,3,NRG,100 Thieves,13,9,FiNESSE,817,viper,1.03,155.0,11.0,11.0,8.0,77.0,103.0,8.0,2.0,2.0,3,True
+428005,195807,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 1,2025-01-24,Bind,3,NRG,100 Thieves,13,9,Ethan,11225,kayo,0.91,158.0,11.0,15.0,15.0,73.0,109.0,24.0,0.0,2.0,3,True
+427999,195785,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Lotus,1,LOUD,Sentinels,13,11,pANcada,683,omen,1.31,226.0,20.0,14.0,12.0,75.0,140.0,37.0,5.0,0.0,3,True
+427999,195785,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Lotus,1,LOUD,Sentinels,13,11,dgzin,8873,raze,1.18,231.0,19.0,14.0,7.0,79.0,150.0,29.0,3.0,3.0,3,True
+427999,195785,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Lotus,1,LOUD,Sentinels,13,11,cauanzin,6193,fade,1.17,257.0,21.0,17.0,9.0,75.0,162.0,27.0,4.0,1.0,3,True
+427999,195785,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Lotus,1,LOUD,Sentinels,13,11,tuyz,2408,cypher,0.98,157.0,14.0,12.0,1.0,71.0,98.0,30.0,2.0,1.0,3,True
+427999,195785,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Lotus,1,LOUD,Sentinels,13,11,v1nny,1586,breach,0.64,133.0,10.0,17.0,5.0,75.0,93.0,35.0,2.0,3.0,3,True
+427999,195785,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Lotus,1,Sentinels,LOUD,11,13,zekken,4004,yoru,1.07,230.0,20.0,16.0,4.0,75.0,145.0,25.0,3.0,6.0,3,True
+427999,195785,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Lotus,1,Sentinels,LOUD,11,13,N4RRATE,36245,breach,1.03,175.0,14.0,17.0,10.0,75.0,128.0,19.0,0.0,1.0,3,True
+427999,195785,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Lotus,1,Sentinels,LOUD,11,13,Zellsis,729,vyse,1.01,205.0,15.0,18.0,11.0,75.0,133.0,17.0,3.0,3.0,3,True
+427999,195785,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Lotus,1,Sentinels,LOUD,11,13,bang,3880,omen,0.86,184.0,16.0,19.0,6.0,67.0,117.0,29.0,2.0,3.0,3,True
+427999,195785,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Lotus,1,Sentinels,LOUD,11,13,johnqt,1265,tejo,0.77,116.0,9.0,14.0,5.0,63.0,84.0,22.0,0.0,3.0,3,True
+427999,195786,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,2,LOUD,Sentinels,11,13,dgzin,8873,jett,1.05,218.0,19.0,16.0,0.0,67.0,134.0,29.0,7.0,1.0,3,True
+427999,195786,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,2,LOUD,Sentinels,11,13,cauanzin,6193,sova,1.0,194.0,15.0,17.0,7.0,63.0,132.0,20.0,3.0,2.0,3,True
+427999,195786,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,2,LOUD,Sentinels,11,13,pANcada,683,astra,0.95,167.0,15.0,14.0,10.0,67.0,120.0,32.0,1.0,4.0,3,True
+427999,195786,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,2,LOUD,Sentinels,11,13,v1nny,1586,kayo,0.81,143.0,12.0,18.0,12.0,63.0,98.0,46.0,0.0,3.0,3,True
+427999,195786,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,2,LOUD,Sentinels,11,13,tuyz,2408,cypher,0.79,126.0,12.0,15.0,4.0,75.0,78.0,48.0,2.0,1.0,3,True
+427999,195786,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,2,Sentinels,LOUD,13,11,zekken,4004,yoru,1.35,277.0,23.0,17.0,11.0,83.0,176.0,20.0,5.0,2.0,3,True
+427999,195786,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,2,Sentinels,LOUD,13,11,johnqt,1265,tejo,1.24,197.0,18.0,14.0,6.0,79.0,136.0,29.0,2.0,1.0,3,True
+427999,195786,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,2,Sentinels,LOUD,13,11,Zellsis,729,vyse,0.95,162.0,12.0,13.0,8.0,67.0,101.0,16.0,1.0,5.0,3,True
+427999,195786,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,2,Sentinels,LOUD,13,11,N4RRATE,36245,fade,0.94,160.0,13.0,15.0,10.0,67.0,106.0,15.0,1.0,2.0,3,True
+427999,195786,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,2,Sentinels,LOUD,13,11,bang,3880,astra,0.91,159.0,14.0,14.0,6.0,79.0,108.0,34.0,2.0,3.0,3,True
+427999,195787,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Split,3,LOUD,Sentinels,9,13,dgzin,8873,raze,1.59,311.0,23.0,14.0,3.0,77.0,202.0,25.0,4.0,1.0,3,True
+427999,195787,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Split,3,LOUD,Sentinels,9,13,pANcada,683,astra,0.95,220.0,18.0,18.0,6.0,68.0,138.0,41.0,1.0,0.0,3,True
+427999,195787,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Split,3,LOUD,Sentinels,9,13,tuyz,2408,cypher,0.67,116.0,9.0,15.0,2.0,73.0,78.0,29.0,0.0,3.0,3,True
+427999,195787,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Split,3,LOUD,Sentinels,9,13,v1nny,1586,breach,0.59,103.0,9.0,15.0,2.0,64.0,81.0,43.0,0.0,0.0,3,True
+427999,195787,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Split,3,LOUD,Sentinels,9,13,cauanzin,6193,skye,0.59,195.0,13.0,19.0,6.0,59.0,119.0,22.0,6.0,7.0,3,True
+427999,195787,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Split,3,Sentinels,LOUD,13,9,bang,3880,omen,1.27,216.0,18.0,13.0,5.0,77.0,128.0,28.0,1.0,1.0,3,True
+427999,195787,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Split,3,Sentinels,LOUD,13,9,zekken,4004,yoru,1.21,252.0,18.0,14.0,6.0,86.0,161.0,26.0,7.0,4.0,3,True
+427999,195787,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Split,3,Sentinels,LOUD,13,9,johnqt,1265,tejo,1.12,237.0,18.0,15.0,5.0,77.0,164.0,26.0,2.0,0.0,3,True
+427999,195787,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Split,3,Sentinels,LOUD,13,9,Zellsis,729,viper,1.1,205.0,18.0,15.0,2.0,68.0,120.0,18.0,1.0,3.0,3,True
+427999,195787,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Split,3,Sentinels,LOUD,13,9,N4RRATE,36245,breach,0.68,115.0,9.0,15.0,9.0,73.0,69.0,6.0,0.0,3.0,3,True
+428000,195788,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,1,G2 Esports,LEVIATÁN,13,5,trent,15500,sova,1.69,255.0,18.0,7.0,8.0,94.0,178.0,28.0,0.0,1.0,3,True
+428000,195788,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,1,G2 Esports,LEVIATÁN,13,5,leaf,7873,chamber,1.44,279.0,20.0,9.0,1.0,83.0,166.0,32.0,6.0,2.0,3,True
+428000,195788,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,1,G2 Esports,LEVIATÁN,13,5,JonahP,4581,vyse,1.05,212.0,14.0,12.0,8.0,83.0,155.0,28.0,0.0,0.0,3,True
+428000,195788,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,1,G2 Esports,LEVIATÁN,13,5,valyn,3885,astra,0.99,162.0,12.0,11.0,6.0,83.0,111.0,27.0,1.0,1.0,3,True
+428000,195788,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,1,G2 Esports,LEVIATÁN,13,5,jawgemo,3993,yoru,0.86,184.0,10.0,14.0,7.0,72.0,125.0,12.0,5.0,2.0,3,True
+428000,195788,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,1,LEVIATÁN,G2 Esports,5,13,tex,1818,vyse,1.27,232.0,16.0,12.0,0.0,61.0,154.0,46.0,1.0,4.0,3,True
+428000,195788,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,1,LEVIATÁN,G2 Esports,5,13,kiNgg,8549,astra,1.03,252.0,15.0,17.0,6.0,78.0,155.0,31.0,3.0,1.0,3,True
+428000,195788,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,1,LEVIATÁN,G2 Esports,5,13,nataNk,5004,fade,0.94,201.0,13.0,14.0,5.0,61.0,115.0,28.0,1.0,3.0,3,True
+428000,195788,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,1,LEVIATÁN,G2 Esports,5,13,Demon1,26171,yoru,0.36,83.0,5.0,15.0,3.0,44.0,67.0,30.0,1.0,4.0,3,True
+428000,195788,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Pearl,1,LEVIATÁN,G2 Esports,5,13,C0M,619,tejo,0.3,78.0,4.0,16.0,3.0,50.0,55.0,13.0,0.0,0.0,3,True
+428000,195789,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,2,G2 Esports,LEVIATÁN,13,9,leaf,7873,vyse,1.6,317.0,24.0,15.0,8.0,77.0,221.0,24.0,2.0,0.0,3,True
+428000,195789,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,2,G2 Esports,LEVIATÁN,13,9,trent,15500,tejo,1.39,218.0,19.0,14.0,4.0,86.0,156.0,36.0,3.0,2.0,3,True
+428000,195789,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,2,G2 Esports,LEVIATÁN,13,9,JonahP,4581,breach,0.99,200.0,16.0,18.0,17.0,82.0,119.0,22.0,2.0,2.0,3,True
+428000,195789,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,2,G2 Esports,LEVIATÁN,13,9,jawgemo,3993,raze,0.9,249.0,19.0,20.0,6.0,73.0,147.0,7.0,4.0,3.0,3,True
+428000,195789,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,2,G2 Esports,LEVIATÁN,13,9,valyn,3885,brimstone,0.61,143.0,9.0,18.0,11.0,59.0,113.0,18.0,2.0,2.0,3,True
+428000,195789,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,2,LEVIATÁN,G2 Esports,9,13,C0M,619,sova,1.1,230.0,19.0,16.0,5.0,73.0,150.0,28.0,1.0,1.0,3,True
+428000,195789,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,2,LEVIATÁN,G2 Esports,9,13,kiNgg,8549,breach,1.05,201.0,16.0,16.0,13.0,77.0,138.0,23.0,1.0,2.0,3,True
+428000,195789,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,2,LEVIATÁN,G2 Esports,9,13,nataNk,5004,raze,1.04,253.0,19.0,17.0,4.0,73.0,167.0,24.0,7.0,5.0,3,True
+428000,195789,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,2,LEVIATÁN,G2 Esports,9,13,Demon1,26171,brimstone,0.92,227.0,15.0,20.0,18.0,82.0,155.0,31.0,0.0,2.0,3,True
+428000,195789,2274,VCT 2025: Americas Kickoff,Main Event: Upper Semifinals,2025-01-31,Fracture,2,LEVIATÁN,G2 Esports,9,13,tex,1818,killjoy,0.81,198.0,16.0,19.0,2.0,64.0,134.0,39.0,0.0,3.0,3,True
+428007,195811,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,Evil Geniuses,MIBR,10,13,supamen,826,omen,1.53,289.0,25.0,16.0,5.0,74.0,188.0,44.0,2.0,2.0,3,True
+428007,195811,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,Evil Geniuses,MIBR,10,13,Derrek,1533,sova,0.84,194.0,15.0,18.0,6.0,65.0,137.0,42.0,1.0,0.0,3,True
+428007,195811,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,Evil Geniuses,MIBR,10,13,NaturE,4927,vyse,0.76,147.0,9.0,17.0,12.0,70.0,99.0,30.0,0.0,3.0,3,True
+428007,195811,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,Evil Geniuses,MIBR,10,13,yay,881,astra,0.68,155.0,12.0,18.0,4.0,52.0,110.0,32.0,2.0,3.0,3,True
+428007,195811,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,Evil Geniuses,MIBR,10,13,icy,8402,jett,0.54,146.0,12.0,19.0,0.0,48.0,84.0,26.0,3.0,7.0,3,True
+428007,195811,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,MIBR,Evil Geniuses,13,10,aspas,8480,jett,1.42,299.0,25.0,14.0,3.0,87.0,180.0,18.0,8.0,3.0,3,True
+428007,195811,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,MIBR,Evil Geniuses,13,10,xenom,20240,astra,1.25,231.0,17.0,17.0,18.0,87.0,144.0,26.0,1.0,1.0,3,True
+428007,195811,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,MIBR,Evil Geniuses,13,10,cortezia,5395,cypher,1.19,216.0,19.0,13.0,2.0,70.0,142.0,46.0,3.0,1.0,3,True
+428007,195811,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,MIBR,Evil Geniuses,13,10,artzin,5957,kayo,0.94,191.0,16.0,17.0,9.0,83.0,123.0,16.0,2.0,2.0,3,True
+428007,195811,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,MIBR,Evil Geniuses,13,10,nzr,725,sova,0.72,135.0,11.0,14.0,6.0,74.0,104.0,30.0,1.0,1.0,3,True
+428007,195812,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Split,2,Evil Geniuses,MIBR,3,13,icy,8402,raze,0.81,216.0,11.0,15.0,4.0,69.0,151.0,16.0,3.0,2.0,3,True
+428007,195812,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Split,2,Evil Geniuses,MIBR,3,13,yay,881,chamber,0.71,186.0,10.0,15.0,0.0,44.0,111.0,47.0,2.0,4.0,3,True
+428007,195812,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Split,2,Evil Geniuses,MIBR,3,13,supamen,826,omen,0.57,165.0,9.0,15.0,0.0,44.0,110.0,29.0,1.0,2.0,3,True
+428007,195812,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Split,2,Evil Geniuses,MIBR,3,13,NaturE,4927,viper,0.46,120.0,6.0,14.0,2.0,50.0,77.0,15.0,0.0,2.0,3,True
+428007,195812,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Split,2,Evil Geniuses,MIBR,3,13,Derrek,1533,skye,0.41,124.0,7.0,15.0,4.0,63.0,63.0,36.0,0.0,0.0,3,True
+428007,195812,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Split,2,MIBR,Evil Geniuses,13,3,nzr,725,skye,1.76,257.0,15.0,7.0,9.0,88.0,188.0,21.0,2.0,0.0,3,True
+428007,195812,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Split,2,MIBR,Evil Geniuses,13,3,artzin,5957,raze,1.39,317.0,20.0,10.0,2.0,88.0,178.0,13.0,2.0,3.0,3,True
+428007,195812,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Split,2,MIBR,Evil Geniuses,13,3,xenom,20240,astra,1.35,177.0,10.0,6.0,8.0,94.0,112.0,28.0,1.0,1.0,3,True
+428007,195812,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Split,2,MIBR,Evil Geniuses,13,3,aspas,8480,jett,1.28,215.0,13.0,8.0,4.0,94.0,132.0,4.0,2.0,0.0,3,True
+428007,195812,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Split,2,MIBR,Evil Geniuses,13,3,cortezia,5395,viper,1.11,278.0,16.0,12.0,5.0,94.0,186.0,38.0,3.0,2.0,3,True
+428008,195814,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,NRG,KRÜ Esports,8,13,Ethan,11225,omen,1.42,278.0,21.0,15.0,11.0,81.0,173.0,27.0,3.0,2.0,3,True
+428008,195814,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,NRG,KRÜ Esports,8,13,mada,5132,yoru,1.33,300.0,20.0,15.0,8.0,81.0,197.0,27.0,3.0,3.0,3,True
+428008,195814,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,NRG,KRÜ Esports,8,13,s0m,4164,harbor,1.02,239.0,18.0,17.0,7.0,86.0,161.0,37.0,1.0,3.0,3,True
+428008,195814,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,NRG,KRÜ Esports,8,13,Verno,21668,sova,0.63,138.0,9.0,16.0,7.0,67.0,104.0,38.0,0.0,3.0,3,True
+428008,195814,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,NRG,KRÜ Esports,8,13,FiNESSE,817,vyse,0.33,75.0,4.0,17.0,7.0,62.0,58.0,17.0,1.0,2.0,3,True
+428008,195814,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,KRÜ Esports,NRG,13,8,Mazino,7603,kayo,1.47,266.0,20.0,13.0,14.0,86.0,166.0,25.0,4.0,0.0,3,True
+428008,195814,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,KRÜ Esports,NRG,13,8,Melser,1311,astra,1.42,231.0,19.0,13.0,5.0,71.0,156.0,45.0,3.0,0.0,3,True
+428008,195814,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,KRÜ Esports,NRG,13,8,keznit,2462,jett,1.13,235.0,19.0,14.0,1.0,71.0,151.0,39.0,3.0,4.0,3,True
+428008,195814,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,KRÜ Esports,NRG,13,8,adverso,3826,sova,0.96,185.0,14.0,14.0,5.0,67.0,122.0,13.0,1.0,1.0,3,True
+428008,195814,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Abyss,1,KRÜ Esports,NRG,13,8,Shyy,24007,viper,0.46,122.0,8.0,18.0,2.0,48.0,90.0,23.0,2.0,3.0,3,True
+428008,195815,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Haven,2,NRG,KRÜ Esports,13,10,mada,5132,neon,1.64,354.0,30.0,14.0,2.0,78.0,210.0,25.0,4.0,4.0,3,True
+428008,195815,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Haven,2,NRG,KRÜ Esports,13,10,Ethan,11225,breach,1.63,315.0,24.0,16.0,11.0,74.0,203.0,32.0,2.0,1.0,3,True
+428008,195815,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Haven,2,NRG,KRÜ Esports,13,10,Verno,21668,sova,0.84,129.0,10.0,15.0,4.0,70.0,93.0,15.0,1.0,2.0,3,True
+428008,195815,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Haven,2,NRG,KRÜ Esports,13,10,s0m,4164,omen,0.74,121.0,10.0,15.0,8.0,65.0,83.0,41.0,1.0,2.0,3,True
+428008,195815,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Haven,2,NRG,KRÜ Esports,13,10,FiNESSE,817,cypher,0.44,89.0,5.0,17.0,6.0,48.0,63.0,11.0,1.0,5.0,3,True
+428008,195815,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Haven,2,KRÜ Esports,NRG,10,13,Melser,1311,omen,1.24,207.0,19.0,12.0,10.0,83.0,133.0,29.0,3.0,1.0,3,True
+428008,195815,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Haven,2,KRÜ Esports,NRG,10,13,Mazino,7603,breach,0.96,229.0,18.0,18.0,9.0,74.0,146.0,28.0,3.0,4.0,3,True
+428008,195815,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Haven,2,KRÜ Esports,NRG,10,13,Shyy,24007,cypher,0.92,172.0,15.0,16.0,5.0,83.0,110.0,23.0,2.0,0.0,3,True
+428008,195815,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Haven,2,KRÜ Esports,NRG,10,13,adverso,3826,sova,0.77,159.0,13.0,16.0,5.0,74.0,110.0,17.0,2.0,0.0,3,True
+428008,195815,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Haven,2,KRÜ Esports,NRG,10,13,keznit,2462,jett,0.77,159.0,12.0,17.0,3.0,70.0,115.0,34.0,4.0,4.0,3,True
+428008,195816,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Bind,3,NRG,KRÜ Esports,7,13,s0m,4164,brimstone,0.99,219.0,14.0,15.0,10.0,85.0,144.0,15.0,1.0,0.0,3,True
+428008,195816,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Bind,3,NRG,KRÜ Esports,7,13,mada,5132,raze,0.83,195.0,14.0,15.0,2.0,60.0,120.0,36.0,3.0,5.0,3,True
+428008,195816,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Bind,3,NRG,KRÜ Esports,7,13,Verno,21668,fade,0.75,138.0,10.0,15.0,5.0,70.0,84.0,36.0,1.0,2.0,3,True
+428008,195816,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Bind,3,NRG,KRÜ Esports,7,13,FiNESSE,817,viper,0.64,166.0,11.0,17.0,3.0,55.0,106.0,23.0,3.0,4.0,3,True
+428008,195816,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Bind,3,NRG,KRÜ Esports,7,13,Ethan,11225,kayo,0.57,110.0,6.0,15.0,12.0,65.0,76.0,13.0,0.0,1.0,3,True
+428008,195816,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Bind,3,KRÜ Esports,NRG,13,7,Shyy,24007,vyse,1.89,322.0,25.0,8.0,4.0,85.0,192.0,36.0,3.0,0.0,3,True
+428008,195816,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Bind,3,KRÜ Esports,NRG,13,7,adverso,3826,viper,1.59,279.0,21.0,10.0,10.0,80.0,177.0,17.0,4.0,2.0,3,True
+428008,195816,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Bind,3,KRÜ Esports,NRG,13,7,keznit,2462,raze,1.15,226.0,14.0,12.0,8.0,80.0,151.0,16.0,4.0,1.0,3,True
+428008,195816,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Bind,3,KRÜ Esports,NRG,13,7,Melser,1311,brimstone,0.87,125.0,10.0,9.0,6.0,85.0,76.0,22.0,0.0,2.0,3,True
+428008,195816,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 2,2025-02-01,Bind,3,KRÜ Esports,NRG,13,7,Mazino,7603,skye,0.35,91.0,7.0,16.0,5.0,55.0,60.0,35.0,1.0,3.0,3,True
+428009,195817,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,LEVIATÁN,MIBR,13,7,kiNgg,8549,omen,1.31,241.0,17.0,12.0,8.0,85.0,173.0,33.0,1.0,2.0,3,True
+428009,195817,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,LEVIATÁN,MIBR,13,7,tex,1818,killjoy,1.26,197.0,16.0,9.0,1.0,85.0,126.0,41.0,1.0,2.0,3,True
+428009,195817,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,LEVIATÁN,MIBR,13,7,Demon1,26171,raze,1.18,245.0,18.0,12.0,6.0,75.0,171.0,37.0,1.0,3.0,3,True
+428009,195817,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,LEVIATÁN,MIBR,13,7,nataNk,5004,fade,1.14,192.0,13.0,8.0,5.0,90.0,138.0,24.0,1.0,3.0,3,True
+428009,195817,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,LEVIATÁN,MIBR,13,7,C0M,619,viper,1.11,195.0,14.0,11.0,3.0,80.0,134.0,22.0,3.0,2.0,3,True
+428009,195817,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,MIBR,LEVIATÁN,7,13,aspas,8480,raze,1.24,260.0,16.0,15.0,2.0,65.0,176.0,18.0,7.0,1.0,3,True
+428009,195817,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,MIBR,LEVIATÁN,7,13,cortezia,5395,cypher,0.85,222.0,15.0,16.0,0.0,55.0,144.0,36.0,2.0,1.0,3,True
+428009,195817,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,MIBR,LEVIATÁN,7,13,nzr,725,fade,0.52,107.0,8.0,16.0,0.0,40.0,78.0,16.0,0.0,0.0,3,True
+428009,195817,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,MIBR,LEVIATÁN,7,13,xenom,20240,omen,0.51,103.0,7.0,15.0,4.0,60.0,64.0,18.0,1.0,3.0,3,True
+428009,195817,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Lotus,1,MIBR,LEVIATÁN,7,13,artzin,5957,breach,0.47,109.0,6.0,16.0,5.0,45.0,85.0,24.0,2.0,2.0,3,True
+428009,195818,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Pearl,2,LEVIATÁN,MIBR,9,13,Demon1,26171,jett,1.28,300.0,23.0,16.0,8.0,77.0,196.0,26.0,4.0,5.0,3,True
+428009,195818,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Pearl,2,LEVIATÁN,MIBR,9,13,tex,1818,vyse,1.12,188.0,15.0,14.0,5.0,73.0,122.0,33.0,1.0,2.0,3,True
+428009,195818,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Pearl,2,LEVIATÁN,MIBR,9,13,kiNgg,8549,astra,0.75,142.0,11.0,16.0,6.0,82.0,101.0,31.0,1.0,1.0,3,True
+428009,195818,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Pearl,2,LEVIATÁN,MIBR,9,13,nataNk,5004,phoenix,0.71,180.0,12.0,19.0,11.0,77.0,120.0,17.0,2.0,2.0,3,True
+428009,195818,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Pearl,2,LEVIATÁN,MIBR,9,13,C0M,619,sova,0.64,146.0,12.0,17.0,6.0,68.0,100.0,27.0,2.0,2.0,3,True
+428009,195818,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Pearl,2,MIBR,LEVIATÁN,13,9,artzin,5957,kayo,1.29,269.0,19.0,16.0,12.0,91.0,181.0,13.0,2.0,3.0,3,True
+428009,195818,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Pearl,2,MIBR,LEVIATÁN,13,9,nzr,725,sova,1.22,179.0,14.0,13.0,11.0,82.0,129.0,36.0,1.0,0.0,3,True
+428009,195818,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Pearl,2,MIBR,LEVIATÁN,13,9,aspas,8480,jett,1.14,205.0,16.0,13.0,4.0,77.0,139.0,21.0,4.0,2.0,3,True
+428009,195818,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Pearl,2,MIBR,LEVIATÁN,13,9,xenom,20240,astra,1.04,198.0,17.0,15.0,2.0,73.0,126.0,48.0,2.0,4.0,3,True
+428009,195818,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Pearl,2,MIBR,LEVIATÁN,13,9,cortezia,5395,killjoy,0.93,210.0,16.0,16.0,3.0,68.0,138.0,43.0,3.0,1.0,3,True
+428009,195819,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,LEVIATÁN,MIBR,12,14,tex,1818,cypher,1.06,167.0,17.0,16.0,2.0,65.0,122.0,34.0,2.0,1.0,3,True
+428009,195819,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,LEVIATÁN,MIBR,12,14,nataNk,5004,skye,1.02,219.0,20.0,19.0,9.0,73.0,156.0,30.0,4.0,4.0,3,True
+428009,195819,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,LEVIATÁN,MIBR,12,14,Demon1,26171,raze,0.87,206.0,20.0,22.0,4.0,73.0,134.0,16.0,1.0,5.0,3,True
+428009,195819,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,LEVIATÁN,MIBR,12,14,kiNgg,8549,omen,0.77,176.0,16.0,20.0,9.0,77.0,120.0,25.0,3.0,3.0,3,True
+428009,195819,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,LEVIATÁN,MIBR,12,14,C0M,619,viper,0.74,170.0,13.0,19.0,12.0,81.0,103.0,10.0,0.0,3.0,3,True
+428009,195819,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,MIBR,LEVIATÁN,14,12,artzin,5957,raze,1.38,313.0,26.0,21.0,6.0,77.0,205.0,10.0,8.0,6.0,3,True
+428009,195819,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,MIBR,LEVIATÁN,14,12,xenom,20240,astra,1.31,192.0,20.0,12.0,13.0,85.0,122.0,33.0,0.0,1.0,3,True
+428009,195819,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,MIBR,LEVIATÁN,14,12,cortezia,5395,viper,1.18,242.0,22.0,17.0,14.0,81.0,149.0,21.0,4.0,1.0,3,True
+428009,195819,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,MIBR,LEVIATÁN,14,12,aspas,8480,jett,1.07,201.0,19.0,17.0,3.0,81.0,122.0,16.0,4.0,2.0,3,True
+428009,195819,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Split,3,MIBR,LEVIATÁN,14,12,nzr,725,skye,0.71,129.0,9.0,19.0,13.0,73.0,95.0,24.0,0.0,0.0,3,True
+428010,195820,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,1,LOUD,KRÜ Esports,5,13,pANcada,683,brimstone,1.31,248.0,15.0,15.0,7.0,83.0,192.0,38.0,1.0,0.0,3,True
+428010,195820,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,1,LOUD,KRÜ Esports,5,13,tuyz,2408,deadlock,1.16,204.0,13.0,14.0,5.0,72.0,132.0,37.0,3.0,1.0,3,True
+428010,195820,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,1,LOUD,KRÜ Esports,5,13,v1nny,1586,kayo,0.58,113.0,5.0,13.0,12.0,67.0,87.0,33.0,0.0,3.0,3,True
+428010,195820,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,1,LOUD,KRÜ Esports,5,13,cauanzin,6193,skye,0.52,167.0,9.0,16.0,6.0,67.0,105.0,28.0,2.0,2.0,3,True
+428010,195820,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,1,LOUD,KRÜ Esports,5,13,dgzin,8873,raze,0.51,186.0,13.0,18.0,0.0,50.0,110.0,34.0,2.0,4.0,3,True
+428010,195820,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,1,KRÜ Esports,LOUD,13,5,Melser,1311,brimstone,2.04,345.0,26.0,8.0,8.0,100.0,222.0,25.0,3.0,0.0,3,True
+428010,195820,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,1,KRÜ Esports,LOUD,13,5,adverso,3826,viper,1.37,252.0,16.0,11.0,8.0,89.0,164.0,12.0,1.0,0.0,3,True
+428010,195820,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,1,KRÜ Esports,LOUD,13,5,keznit,2462,raze,1.07,201.0,12.0,12.0,7.0,78.0,144.0,13.0,3.0,3.0,3,True
+428010,195820,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,1,KRÜ Esports,LOUD,13,5,Shyy,24007,vyse,0.96,167.0,11.0,11.0,5.0,78.0,112.0,27.0,1.0,2.0,3,True
+428010,195820,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Bind,1,KRÜ Esports,LOUD,13,5,Mazino,7603,skye,0.84,179.0,11.0,13.0,10.0,94.0,108.0,17.0,2.0,3.0,3,True
+428010,195821,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Haven,2,LOUD,KRÜ Esports,11,13,dgzin,8873,jett,1.23,252.0,23.0,15.0,1.0,63.0,179.0,28.0,6.0,3.0,3,True
+428010,195821,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Haven,2,LOUD,KRÜ Esports,11,13,pANcada,683,omen,1.1,189.0,17.0,17.0,4.0,67.0,135.0,38.0,3.0,1.0,3,True
+428010,195821,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Haven,2,LOUD,KRÜ Esports,11,13,tuyz,2408,cypher,0.99,185.0,15.0,15.0,8.0,71.0,118.0,34.0,3.0,2.0,3,True
+428010,195821,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Haven,2,LOUD,KRÜ Esports,11,13,v1nny,1586,breach,0.8,155.0,13.0,16.0,6.0,67.0,99.0,26.0,1.0,0.0,3,True
+428010,195821,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Haven,2,LOUD,KRÜ Esports,11,13,cauanzin,6193,sova,0.59,155.0,12.0,20.0,2.0,54.0,108.0,36.0,1.0,4.0,3,True
+428010,195821,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Haven,2,KRÜ Esports,LOUD,13,11,Shyy,24007,cypher,1.41,225.0,18.0,14.0,6.0,79.0,160.0,28.0,1.0,0.0,3,True
+428010,195821,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Haven,2,KRÜ Esports,LOUD,13,11,Mazino,7603,breach,1.19,219.0,21.0,15.0,7.0,71.0,151.0,41.0,1.0,2.0,3,True
+428010,195821,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Haven,2,KRÜ Esports,LOUD,13,11,Melser,1311,omen,1.0,220.0,19.0,17.0,6.0,75.0,127.0,31.0,2.0,1.0,3,True
+428010,195821,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Haven,2,KRÜ Esports,LOUD,13,11,keznit,2462,jett,0.88,175.0,15.0,17.0,1.0,67.0,119.0,23.0,3.0,6.0,3,True
+428010,195821,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 3,2025-02-02,Haven,2,KRÜ Esports,LOUD,13,11,adverso,3826,sova,0.72,152.0,10.0,17.0,10.0,63.0,102.0,12.0,3.0,5.0,3,True
+428001,195791,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Abyss,1,Sentinels,G2 Esports,7,13,Zellsis,729,kayo,1.31,268.0,20.0,16.0,6.0,70.0,163.0,34.0,2.0,0.0,3,True
+428001,195791,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Abyss,1,Sentinels,G2 Esports,7,13,bang,3880,astra,0.84,167.0,11.0,13.0,5.0,75.0,122.0,28.0,1.0,4.0,3,True
+428001,195791,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Abyss,1,Sentinels,G2 Esports,7,13,zekken,4004,jett,0.73,167.0,11.0,14.0,2.0,60.0,111.0,16.0,4.0,3.0,3,True
+428001,195791,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Abyss,1,Sentinels,G2 Esports,7,13,johnqt,1265,sova,0.66,132.0,9.0,14.0,4.0,65.0,90.0,32.0,0.0,0.0,3,True
+428001,195791,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Abyss,1,Sentinels,G2 Esports,7,13,N4RRATE,36245,omen,0.29,104.0,6.0,18.0,7.0,50.0,70.0,39.0,1.0,5.0,3,True
+428001,195791,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Abyss,1,G2 Esports,Sentinels,13,7,leaf,7873,chamber,1.54,294.0,21.0,12.0,5.0,80.0,186.0,28.0,4.0,1.0,3,True
+428001,195791,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Abyss,1,G2 Esports,Sentinels,13,7,trent,15500,sova,1.23,211.0,15.0,10.0,6.0,70.0,137.0,19.0,1.0,1.0,3,True
+428001,195791,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Abyss,1,G2 Esports,Sentinels,13,7,JonahP,4581,breach,1.17,170.0,13.0,9.0,9.0,70.0,103.0,21.0,2.0,1.0,3,True
+428001,195791,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Abyss,1,G2 Esports,Sentinels,13,7,jawgemo,3993,yoru,0.99,216.0,15.0,15.0,3.0,60.0,133.0,23.0,5.0,3.0,3,True
+428001,195791,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Abyss,1,G2 Esports,Sentinels,13,7,valyn,3885,astra,0.78,137.0,10.0,12.0,5.0,60.0,98.0,26.0,0.0,2.0,3,True
+428001,195792,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Pearl,2,Sentinels,G2 Esports,7,13,N4RRATE,36245,fade,1.27,268.0,19.0,15.0,7.0,85.0,185.0,28.0,1.0,3.0,3,True
+428001,195792,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Pearl,2,Sentinels,G2 Esports,7,13,bang,3880,astra,1.05,191.0,14.0,14.0,9.0,70.0,116.0,33.0,1.0,2.0,3,True
+428001,195792,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Pearl,2,Sentinels,G2 Esports,7,13,zekken,4004,yoru,0.84,219.0,15.0,19.0,5.0,70.0,131.0,30.0,4.0,1.0,3,True
+428001,195792,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Pearl,2,Sentinels,G2 Esports,7,13,johnqt,1265,tejo,0.7,140.0,9.0,15.0,4.0,60.0,96.0,27.0,1.0,1.0,3,True
+428001,195792,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Pearl,2,Sentinels,G2 Esports,7,13,Zellsis,729,vyse,0.69,149.0,9.0,16.0,4.0,70.0,115.0,26.0,2.0,4.0,3,True
+428001,195792,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Pearl,2,G2 Esports,Sentinels,13,7,jawgemo,3993,yoru,1.41,293.0,21.0,14.0,13.0,80.0,186.0,15.0,4.0,0.0,3,True
+428001,195792,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Pearl,2,G2 Esports,Sentinels,13,7,valyn,3885,astra,1.31,259.0,20.0,12.0,6.0,70.0,143.0,19.0,2.0,2.0,3,True
+428001,195792,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Pearl,2,G2 Esports,Sentinels,13,7,JonahP,4581,vyse,1.18,195.0,13.0,11.0,11.0,80.0,148.0,20.0,2.0,1.0,3,True
+428001,195792,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Pearl,2,G2 Esports,Sentinels,13,7,trent,15500,sova,1.11,218.0,16.0,13.0,3.0,65.0,145.0,26.0,1.0,2.0,3,True
+428001,195792,2274,VCT 2025: Americas Kickoff,Main Event: Upper Final,2025-02-06,Pearl,2,G2 Esports,Sentinels,13,7,leaf,7873,chamber,0.53,129.0,9.0,16.0,3.0,60.0,84.0,11.0,2.0,4.0,3,True
+428011,195823,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Bind,1,MIBR,KRÜ Esports,8,13,aspas,8480,raze,1.76,331.0,24.0,13.0,4.0,90.0,210.0,31.0,4.0,2.0,3,True
+428011,195823,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Bind,1,MIBR,KRÜ Esports,8,13,cortezia,5395,viper,1.06,221.0,15.0,14.0,6.0,71.0,144.0,37.0,2.0,1.0,3,True
+428011,195823,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Bind,1,MIBR,KRÜ Esports,8,13,artzin,5957,yoru,0.76,189.0,13.0,18.0,7.0,76.0,123.0,20.0,4.0,3.0,3,True
+428011,195823,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Bind,1,MIBR,KRÜ Esports,8,13,xenom,20240,brimstone,0.68,140.0,10.0,16.0,6.0,62.0,88.0,35.0,0.0,4.0,3,True
+428011,195823,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Bind,1,MIBR,KRÜ Esports,8,13,nzr,725,skye,0.39,110.0,7.0,18.0,9.0,52.0,76.0,17.0,0.0,1.0,3,True
+428011,195823,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Bind,1,KRÜ Esports,MIBR,13,8,Shyy,24007,vyse,1.89,321.0,23.0,9.0,7.0,86.0,217.0,28.0,2.0,0.0,3,True
+428011,195823,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Bind,1,KRÜ Esports,MIBR,13,8,Melser,1311,brimstone,1.17,239.0,18.0,15.0,15.0,86.0,132.0,29.0,2.0,1.0,3,True
+428011,195823,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Bind,1,KRÜ Esports,MIBR,13,8,keznit,2462,raze,1.06,231.0,16.0,16.0,4.0,86.0,153.0,18.0,6.0,3.0,3,True
+428011,195823,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Bind,1,KRÜ Esports,MIBR,13,8,adverso,3826,viper,0.8,141.0,10.0,14.0,9.0,71.0,86.0,23.0,1.0,3.0,3,True
+428011,195823,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Bind,1,KRÜ Esports,MIBR,13,8,Mazino,7603,skye,0.71,143.0,12.0,15.0,10.0,62.0,85.0,34.0,0.0,3.0,3,True
+428011,195824,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Abyss,2,MIBR,KRÜ Esports,13,8,aspas,8480,jett,2.02,370.0,29.0,9.0,2.0,90.0,238.0,20.0,3.0,1.0,3,True
+428011,195824,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Abyss,2,MIBR,KRÜ Esports,13,8,cortezia,5395,cypher,1.32,240.0,19.0,11.0,4.0,76.0,163.0,50.0,3.0,3.0,3,True
+428011,195824,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Abyss,2,MIBR,KRÜ Esports,13,8,xenom,20240,astra,0.86,148.0,11.0,13.0,11.0,81.0,89.0,33.0,1.0,0.0,3,True
+428011,195824,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Abyss,2,MIBR,KRÜ Esports,13,8,nzr,725,sova,0.83,137.0,10.0,12.0,4.0,71.0,84.0,29.0,0.0,1.0,3,True
+428011,195824,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Abyss,2,MIBR,KRÜ Esports,13,8,artzin,5957,kayo,0.69,178.0,13.0,17.0,7.0,71.0,116.0,28.0,4.0,5.0,3,True
+428011,195824,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Abyss,2,KRÜ Esports,MIBR,8,13,Shyy,24007,viper,1.14,248.0,16.0,17.0,8.0,76.0,152.0,15.0,1.0,1.0,3,True
+428011,195824,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Abyss,2,KRÜ Esports,MIBR,8,13,adverso,3826,sova,0.93,190.0,13.0,15.0,9.0,71.0,127.0,20.0,0.0,2.0,3,True
+428011,195824,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Abyss,2,KRÜ Esports,MIBR,8,13,Melser,1311,astra,0.9,173.0,12.0,16.0,7.0,67.0,105.0,38.0,3.0,2.0,3,True
+428011,195824,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Abyss,2,KRÜ Esports,MIBR,8,13,Mazino,7603,kayo,0.85,151.0,12.0,17.0,15.0,76.0,76.0,26.0,3.0,1.0,3,True
+428011,195824,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Abyss,2,KRÜ Esports,MIBR,8,13,keznit,2462,jett,0.48,103.0,9.0,17.0,2.0,52.0,59.0,18.0,3.0,5.0,3,True
+428011,195825,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Split,3,MIBR,KRÜ Esports,13,11,aspas,8480,jett,1.8,340.0,29.0,14.0,1.0,83.0,208.0,30.0,7.0,1.0,3,True
+428011,195825,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Split,3,MIBR,KRÜ Esports,13,11,nzr,725,skye,1.27,175.0,15.0,12.0,14.0,83.0,121.0,24.0,0.0,0.0,3,True
+428011,195825,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Split,3,MIBR,KRÜ Esports,13,11,xenom,20240,astra,1.04,179.0,15.0,14.0,15.0,88.0,109.0,32.0,3.0,1.0,3,True
+428011,195825,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Split,3,MIBR,KRÜ Esports,13,11,artzin,5957,raze,0.77,193.0,17.0,17.0,4.0,67.0,120.0,18.0,4.0,5.0,3,True
+428011,195825,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Split,3,MIBR,KRÜ Esports,13,11,cortezia,5395,viper,0.54,144.0,11.0,17.0,5.0,83.0,93.0,19.0,2.0,1.0,3,True
+428011,195825,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Split,3,KRÜ Esports,MIBR,11,13,Shyy,24007,cypher,1.21,201.0,18.0,14.0,2.0,79.0,147.0,33.0,1.0,1.0,3,True
+428011,195825,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Split,3,KRÜ Esports,MIBR,11,13,adverso,3826,viper,0.88,214.0,18.0,21.0,2.0,63.0,150.0,17.0,2.0,5.0,3,True
+428011,195825,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Split,3,KRÜ Esports,MIBR,11,13,Melser,1311,omen,0.87,144.0,12.0,16.0,10.0,75.0,93.0,31.0,0.0,3.0,3,True
+428011,195825,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Split,3,KRÜ Esports,MIBR,11,13,keznit,2462,raze,0.86,212.0,16.0,18.0,1.0,67.0,138.0,11.0,3.0,2.0,3,True
+428011,195825,2274,VCT 2025: Americas Kickoff,Main Event: Lower Round 4,2025-02-06,Split,3,KRÜ Esports,MIBR,11,13,Mazino,7603,skye,0.68,143.0,10.0,18.0,8.0,67.0,111.0,19.0,2.0,5.0,3,True
+428012,195826,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Lotus,1,Sentinels,MIBR,13,7,N4RRATE,36245,fade,1.64,270.0,19.0,9.0,5.0,75.0,174.0,26.0,1.0,1.0,5,True
+428012,195826,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Lotus,1,Sentinels,MIBR,13,7,Zellsis,729,vyse,1.52,313.0,24.0,12.0,5.0,70.0,209.0,33.0,3.0,1.0,5,True
+428012,195826,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Lotus,1,Sentinels,MIBR,13,7,johnqt,1265,viper,1.1,140.0,10.0,10.0,10.0,70.0,89.0,27.0,1.0,0.0,5,True
+428012,195826,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Lotus,1,Sentinels,MIBR,13,7,bang,3880,omen,1.02,186.0,13.0,13.0,6.0,70.0,102.0,35.0,4.0,2.0,5,True
+428012,195826,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Lotus,1,Sentinels,MIBR,13,7,zekken,4004,raze,0.79,178.0,10.0,14.0,5.0,75.0,138.0,23.0,3.0,4.0,5,True
+428012,195826,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Lotus,1,MIBR,Sentinels,7,13,xenom,20240,omen,1.02,203.0,14.0,13.0,4.0,75.0,127.0,39.0,2.0,1.0,5,True
+428012,195826,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Lotus,1,MIBR,Sentinels,7,13,nzr,725,breach,1.0,148.0,11.0,14.0,7.0,80.0,98.0,33.0,0.0,0.0,5,True
+428012,195826,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Lotus,1,MIBR,Sentinels,7,13,aspas,8480,jett,0.83,233.0,15.0,16.0,5.0,65.0,170.0,37.0,5.0,5.0,5,True
+428012,195826,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Lotus,1,MIBR,Sentinels,7,13,artzin,5957,raze,0.64,144.0,10.0,16.0,2.0,55.0,99.0,29.0,1.0,5.0,5,True
+428012,195826,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Lotus,1,MIBR,Sentinels,7,13,cortezia,5395,cypher,0.46,119.0,8.0,17.0,2.0,50.0,75.0,44.0,0.0,1.0,5,True
+428012,195827,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Abyss,2,Sentinels,MIBR,13,5,Zellsis,729,kayo,1.42,280.0,18.0,13.0,17.0,78.0,158.0,24.0,1.0,1.0,5,True
+428012,195827,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Abyss,2,Sentinels,MIBR,13,5,bang,3880,astra,1.4,224.0,13.0,9.0,14.0,83.0,149.0,38.0,3.0,0.0,5,True
+428012,195827,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Abyss,2,Sentinels,MIBR,13,5,zekken,4004,jett,1.28,234.0,17.0,11.0,4.0,78.0,181.0,33.0,4.0,4.0,5,True
+428012,195827,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Abyss,2,Sentinels,MIBR,13,5,johnqt,1265,sova,1.24,178.0,11.0,9.0,10.0,94.0,125.0,30.0,3.0,1.0,5,True
+428012,195827,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Abyss,2,Sentinels,MIBR,13,5,N4RRATE,36245,omen,1.16,229.0,14.0,13.0,13.0,89.0,148.0,22.0,1.0,0.0,5,True
+428012,195827,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Abyss,2,MIBR,Sentinels,5,13,xenom,20240,astra,1.08,244.0,15.0,15.0,3.0,67.0,174.0,35.0,2.0,2.0,5,True
+428012,195827,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Abyss,2,MIBR,Sentinels,5,13,nzr,725,sova,0.94,194.0,12.0,12.0,4.0,61.0,124.0,37.0,0.0,1.0,5,True
+428012,195827,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Abyss,2,MIBR,Sentinels,5,13,aspas,8480,jett,0.71,191.0,11.0,16.0,2.0,67.0,111.0,33.0,3.0,3.0,5,True
+428012,195827,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Abyss,2,MIBR,Sentinels,5,13,cortezia,5395,cypher,0.68,173.0,12.0,15.0,4.0,50.0,102.0,32.0,0.0,3.0,5,True
+428012,195827,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Abyss,2,MIBR,Sentinels,5,13,artzin,5957,kayo,0.25,83.0,3.0,15.0,5.0,50.0,60.0,21.0,1.0,3.0,5,True
+428012,195828,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Pearl,3,Sentinels,MIBR,19,21,johnqt,1265,tejo,1.06,184.0,27.0,28.0,8.0,73.0,126.0,25.0,2.0,5.0,5,True
+428012,195828,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Pearl,3,Sentinels,MIBR,19,21,bang,3880,astra,1.03,201.0,24.0,30.0,25.0,85.0,142.0,38.0,2.0,3.0,5,True
+428012,195828,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Pearl,3,Sentinels,MIBR,19,21,Zellsis,729,vyse,1.0,224.0,31.0,32.0,10.0,70.0,153.0,33.0,5.0,1.0,5,True
+428012,195828,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Pearl,3,Sentinels,MIBR,19,21,zekken,4004,yoru,0.96,233.0,32.0,31.0,10.0,63.0,144.0,24.0,9.0,9.0,5,True
+428012,195828,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Pearl,3,Sentinels,MIBR,19,21,N4RRATE,36245,fade,0.84,148.0,19.0,29.0,13.0,73.0,93.0,15.0,0.0,4.0,5,True
+428012,195828,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Pearl,3,MIBR,Sentinels,21,19,xenom,20240,astra,1.32,228.0,33.0,23.0,22.0,83.0,145.0,27.0,4.0,1.0,5,True
+428012,195828,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Pearl,3,MIBR,Sentinels,21,19,aspas,8480,jett,1.31,250.0,37.0,22.0,2.0,78.0,157.0,26.0,9.0,2.0,5,True
+428012,195828,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Pearl,3,MIBR,Sentinels,21,19,cortezia,5395,killjoy,1.01,210.0,29.0,27.0,6.0,68.0,154.0,27.0,1.0,2.0,5,True
+428012,195828,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Pearl,3,MIBR,Sentinels,21,19,artzin,5957,kayo,0.81,210.0,28.0,30.0,11.0,65.0,131.0,23.0,7.0,12.0,5,True
+428012,195828,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Pearl,3,MIBR,Sentinels,21,19,nzr,725,sova,0.66,166.0,23.0,31.0,7.0,68.0,123.0,29.0,1.0,1.0,5,True
+428012,195829,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Split,4,Sentinels,MIBR,13,7,zekken,4004,yoru,1.56,310.0,23.0,14.0,7.0,75.0,184.0,24.0,6.0,4.0,5,True
+428012,195829,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Split,4,Sentinels,MIBR,13,7,N4RRATE,36245,breach,1.19,200.0,15.0,10.0,7.0,80.0,109.0,26.0,1.0,1.0,5,True
+428012,195829,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Split,4,Sentinels,MIBR,13,7,Zellsis,729,viper,1.13,191.0,12.0,12.0,11.0,70.0,137.0,19.0,1.0,1.0,5,True
+428012,195829,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Split,4,Sentinels,MIBR,13,7,johnqt,1265,tejo,0.93,175.0,11.0,12.0,6.0,80.0,121.0,13.0,2.0,1.0,5,True
+428012,195829,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Split,4,Sentinels,MIBR,13,7,bang,3880,omen,0.86,152.0,11.0,13.0,9.0,75.0,95.0,36.0,0.0,3.0,5,True
+428012,195829,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Split,4,MIBR,Sentinels,7,13,nzr,725,skye,1.19,272.0,19.0,16.0,6.0,75.0,180.0,30.0,4.0,1.0,5,True
+428012,195829,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Split,4,MIBR,Sentinels,7,13,xenom,20240,astra,0.83,143.0,10.0,12.0,6.0,70.0,101.0,24.0,0.0,0.0,5,True
+428012,195829,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Split,4,MIBR,Sentinels,7,13,artzin,5957,raze,0.72,172.0,10.0,15.0,6.0,70.0,119.0,17.0,3.0,4.0,5,True
+428012,195829,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Split,4,MIBR,Sentinels,7,13,cortezia,5395,viper,0.71,174.0,11.0,14.0,2.0,60.0,129.0,23.0,1.0,0.0,5,True
+428012,195829,2274,VCT 2025: Americas Kickoff,Main Event: Lower Final,2025-02-07,Split,4,MIBR,Sentinels,7,13,aspas,8480,jett,0.53,132.0,11.0,15.0,0.0,60.0,95.0,33.0,2.0,5.0,5,True
+428002,195794,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Split,1,G2 Esports,Sentinels,4,13,valyn,3885,astra,0.9,207.0,12.0,15.0,3.0,65.0,146.0,21.0,2.0,2.0,5,True
+428002,195794,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Split,1,G2 Esports,Sentinels,4,13,jawgemo,3993,yoru,0.71,200.0,11.0,17.0,5.0,76.0,127.0,15.0,2.0,2.0,5,True
+428002,195794,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Split,1,G2 Esports,Sentinels,4,13,leaf,7873,viper,0.71,174.0,9.0,16.0,4.0,71.0,130.0,14.0,1.0,1.0,5,True
+428002,195794,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Split,1,G2 Esports,Sentinels,4,13,trent,15500,tejo,0.64,155.0,10.0,15.0,2.0,53.0,102.0,30.0,1.0,3.0,5,True
+428002,195794,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Split,1,G2 Esports,Sentinels,4,13,JonahP,4581,breach,0.54,147.0,8.0,15.0,4.0,59.0,98.0,17.0,0.0,3.0,5,True
+428002,195794,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Split,1,Sentinels,G2 Esports,13,4,johnqt,1265,tejo,1.54,208.0,14.0,7.0,6.0,82.0,137.0,47.0,0.0,0.0,5,True
+428002,195794,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Split,1,Sentinels,G2 Esports,13,4,N4RRATE,36245,breach,1.41,240.0,16.0,9.0,8.0,88.0,153.0,25.0,2.0,2.0,5,True
+428002,195794,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Split,1,Sentinels,G2 Esports,13,4,Zellsis,729,viper,1.21,268.0,18.0,11.0,2.0,88.0,174.0,24.0,3.0,1.0,5,True
+428002,195794,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Split,1,Sentinels,G2 Esports,13,4,zekken,4004,yoru,1.2,252.0,17.0,12.0,3.0,88.0,176.0,43.0,3.0,2.0,5,True
+428002,195794,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Split,1,Sentinels,G2 Esports,13,4,bang,3880,omen,1.19,221.0,13.0,11.0,10.0,88.0,137.0,32.0,3.0,1.0,5,True
+428002,195795,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Pearl,2,G2 Esports,Sentinels,13,8,valyn,3885,astra,1.19,191.0,13.0,11.0,9.0,67.0,139.0,26.0,2.0,0.0,5,True
+428002,195795,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Pearl,2,G2 Esports,Sentinels,13,8,leaf,7873,chamber,1.14,183.0,14.0,12.0,4.0,76.0,117.0,33.0,5.0,3.0,5,True
+428002,195795,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Pearl,2,G2 Esports,Sentinels,13,8,JonahP,4581,vyse,1.12,223.0,18.0,14.0,9.0,81.0,119.0,23.0,1.0,3.0,5,True
+428002,195795,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Pearl,2,G2 Esports,Sentinels,13,8,jawgemo,3993,yoru,1.11,228.0,18.0,14.0,3.0,76.0,139.0,28.0,2.0,4.0,5,True
+428002,195795,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Pearl,2,G2 Esports,Sentinels,13,8,trent,15500,sova,1.04,173.0,12.0,12.0,7.0,71.0,124.0,19.0,1.0,0.0,5,True
+428002,195795,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Pearl,2,Sentinels,G2 Esports,8,13,Zellsis,729,vyse,1.05,169.0,13.0,14.0,4.0,67.0,115.0,17.0,0.0,2.0,5,True
+428002,195795,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Pearl,2,Sentinels,G2 Esports,8,13,bang,3880,astra,1.0,182.0,12.0,14.0,10.0,71.0,129.0,31.0,2.0,2.0,5,True
+428002,195795,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Pearl,2,Sentinels,G2 Esports,8,13,zekken,4004,yoru,1.0,220.0,16.0,16.0,3.0,62.0,135.0,22.0,2.0,4.0,5,True
+428002,195795,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Pearl,2,Sentinels,G2 Esports,8,13,johnqt,1265,tejo,0.68,160.0,11.0,16.0,5.0,67.0,101.0,31.0,3.0,1.0,5,True
+428002,195795,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Pearl,2,Sentinels,G2 Esports,8,13,N4RRATE,36245,fade,0.67,150.0,11.0,15.0,7.0,71.0,87.0,14.0,3.0,2.0,5,True
+428002,195796,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Abyss,3,G2 Esports,Sentinels,9,13,trent,15500,sova,1.18,246.0,17.0,15.0,6.0,73.0,168.0,26.0,3.0,0.0,5,True
+428002,195796,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Abyss,3,G2 Esports,Sentinels,9,13,leaf,7873,chamber,1.09,216.0,17.0,17.0,2.0,64.0,147.0,33.0,3.0,2.0,5,True
+428002,195796,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Abyss,3,G2 Esports,Sentinels,9,13,JonahP,4581,breach,0.72,105.0,8.0,15.0,8.0,73.0,65.0,23.0,1.0,1.0,5,True
+428002,195796,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Abyss,3,G2 Esports,Sentinels,9,13,valyn,3885,astra,0.69,115.0,8.0,14.0,8.0,59.0,74.0,21.0,1.0,4.0,5,True
+428002,195796,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Abyss,3,G2 Esports,Sentinels,9,13,jawgemo,3993,yoru,0.56,170.0,14.0,19.0,2.0,50.0,116.0,26.0,2.0,5.0,5,True
+428002,195796,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Abyss,3,Sentinels,G2 Esports,13,9,johnqt,1265,tejo,1.57,263.0,20.0,11.0,3.0,82.0,191.0,23.0,4.0,1.0,5,True
+428002,195796,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Abyss,3,Sentinels,G2 Esports,13,9,bang,3880,astra,1.08,223.0,16.0,14.0,12.0,82.0,124.0,42.0,1.0,2.0,5,True
+428002,195796,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Abyss,3,Sentinels,G2 Esports,13,9,N4RRATE,36245,omen,1.01,162.0,14.0,13.0,3.0,73.0,113.0,33.0,2.0,0.0,5,True
+428002,195796,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Abyss,3,Sentinels,G2 Esports,13,9,Zellsis,729,kayo,0.94,161.0,12.0,15.0,18.0,73.0,86.0,18.0,1.0,2.0,5,True
+428002,195796,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Abyss,3,Sentinels,G2 Esports,13,9,zekken,4004,jett,0.91,190.0,16.0,13.0,2.0,59.0,133.0,31.0,4.0,5.0,5,True
+428002,195797,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Fracture,4,G2 Esports,Sentinels,13,5,trent,15500,tejo,1.64,264.0,18.0,7.0,1.0,89.0,170.0,31.0,4.0,1.0,5,True
+428002,195797,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Fracture,4,G2 Esports,Sentinels,13,5,valyn,3885,brimstone,1.39,237.0,17.0,9.0,10.0,89.0,147.0,18.0,2.0,0.0,5,True
+428002,195797,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Fracture,4,G2 Esports,Sentinels,13,5,jawgemo,3993,raze,1.21,263.0,17.0,11.0,6.0,83.0,150.0,15.0,6.0,4.0,5,True
+428002,195797,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Fracture,4,G2 Esports,Sentinels,13,5,leaf,7873,vyse,1.0,178.0,12.0,9.0,7.0,67.0,119.0,30.0,0.0,1.0,5,True
+428002,195797,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Fracture,4,G2 Esports,Sentinels,13,5,JonahP,4581,breach,0.97,121.0,9.0,9.0,8.0,83.0,70.0,20.0,0.0,0.0,5,True
+428002,195797,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Fracture,4,Sentinels,G2 Esports,5,13,johnqt,1265,tejo,0.9,163.0,9.0,14.0,6.0,56.0,120.0,31.0,0.0,2.0,5,True
+428002,195797,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Fracture,4,Sentinels,G2 Esports,5,13,zekken,4004,yoru,0.88,160.0,10.0,13.0,2.0,61.0,113.0,25.0,2.0,3.0,5,True
+428002,195797,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Fracture,4,Sentinels,G2 Esports,5,13,Zellsis,729,vyse,0.85,194.0,11.0,15.0,5.0,56.0,161.0,24.0,0.0,5.0,5,True
+428002,195797,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Fracture,4,Sentinels,G2 Esports,5,13,N4RRATE,36245,breach,0.74,151.0,9.0,15.0,4.0,61.0,103.0,30.0,2.0,1.0,5,True
+428002,195797,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Fracture,4,Sentinels,G2 Esports,5,13,bang,3880,brimstone,0.52,122.0,6.0,16.0,7.0,56.0,78.0,31.0,2.0,1.0,5,True
+428002,195798,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Haven,5,G2 Esports,Sentinels,13,10,trent,15500,tejo,1.51,265.0,23.0,14.0,5.0,74.0,191.0,21.0,4.0,1.0,5,True
+428002,195798,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Haven,5,G2 Esports,Sentinels,13,10,valyn,3885,astra,1.35,227.0,19.0,14.0,10.0,78.0,147.0,17.0,0.0,1.0,5,True
+428002,195798,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Haven,5,G2 Esports,Sentinels,13,10,JonahP,4581,breach,1.04,189.0,15.0,15.0,12.0,74.0,111.0,21.0,1.0,1.0,5,True
+428002,195798,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Haven,5,G2 Esports,Sentinels,13,10,leaf,7873,vyse,0.89,193.0,16.0,17.0,3.0,61.0,118.0,25.0,4.0,3.0,5,True
+428002,195798,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Haven,5,G2 Esports,Sentinels,13,10,jawgemo,3993,yoru,0.71,162.0,13.0,19.0,4.0,70.0,101.0,25.0,2.0,6.0,5,True
+428002,195798,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Haven,5,Sentinels,G2 Esports,10,13,bang,3880,omen,1.12,228.0,19.0,17.0,10.0,78.0,153.0,51.0,2.0,1.0,5,True
+428002,195798,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Haven,5,Sentinels,G2 Esports,10,13,N4RRATE,36245,iso,1.09,281.0,21.0,19.0,7.0,74.0,177.0,33.0,7.0,2.0,5,True
+428002,195798,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Haven,5,Sentinels,G2 Esports,10,13,johnqt,1265,sova,1.04,201.0,15.0,16.0,7.0,70.0,159.0,36.0,1.0,2.0,5,True
+428002,195798,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Haven,5,Sentinels,G2 Esports,10,13,zekken,4004,yoru,0.83,161.0,15.0,16.0,3.0,65.0,101.0,22.0,1.0,3.0,5,True
+428002,195798,2274,VCT 2025: Americas Kickoff,Main Event: Grand Final,2025-02-08,Haven,5,Sentinels,G2 Esports,10,13,Zellsis,729,cypher,0.51,124.0,9.0,18.0,6.0,57.0,80.0,26.0,1.0,3.0,5,True

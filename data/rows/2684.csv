@@ -1,0 +1,791 @@
+match_id,game_id,event_id,event,stage,date,map,map_order,team,opp,team_rounds,opp_rounds,player,player_id,agent,rating,acs,k,d,a,kast,adr,hs,fk,fd,best_of,completed
+594740,244304,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,1,Natus Vincere,Karmine Corp,13,11,hiro,29867,viper,1.09,222.0,20.0,15.0,4.0,79.0,143.0,39.0,1.0,1.0,3,True
+594740,244304,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,1,Natus Vincere,Karmine Corp,13,11,Shao,384,omen,1.02,201.0,17.0,16.0,5.0,71.0,137.0,35.0,1.0,3.0,3,True
+594740,244304,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,1,Natus Vincere,Karmine Corp,13,11,Filu,4544,raze,1.02,226.0,19.0,16.0,4.0,71.0,153.0,40.0,2.0,3.0,3,True
+594740,244304,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,1,Natus Vincere,Karmine Corp,13,11,Ruxic,18677,chamber,1.02,189.0,18.0,14.0,1.0,63.0,115.0,23.0,5.0,2.0,3,True
+594740,244304,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,1,Natus Vincere,Karmine Corp,13,11,sociablEE,5568,skye,0.58,106.0,9.0,15.0,4.0,67.0,55.0,6.0,3.0,3.0,3,True
+594740,244304,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,1,Karmine Corp,Natus Vincere,11,13,Avez,5654,tejo,1.3,289.0,22.0,18.0,8.0,63.0,196.0,28.0,2.0,1.0,3,True
+594740,244304,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,1,Karmine Corp,Natus Vincere,11,13,SUYGETSU,2858,viper,1.11,203.0,18.0,15.0,2.0,75.0,138.0,38.0,3.0,1.0,3,True
+594740,244304,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,1,Karmine Corp,Natus Vincere,11,13,LewN,20144,waylay,0.97,177.0,15.0,16.0,5.0,67.0,118.0,39.0,4.0,7.0,3,True
+594740,244304,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,1,Karmine Corp,Natus Vincere,11,13,dos9,16215,astra,0.93,145.0,12.0,14.0,9.0,79.0,106.0,33.0,0.0,2.0,3,True
+594740,244304,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,1,Karmine Corp,Natus Vincere,11,13,sheydos,1428,skye,0.52,115.0,9.0,20.0,9.0,67.0,65.0,38.0,3.0,1.0,3,True
+594740,244305,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Haven,2,Natus Vincere,Karmine Corp,13,7,Ruxic,18677,viper,1.59,286.0,19.0,11.0,12.0,90.0,211.0,14.0,0.0,0.0,3,True
+594740,244305,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Haven,2,Natus Vincere,Karmine Corp,13,7,sociablEE,5568,omen,1.44,243.0,17.0,11.0,9.0,80.0,167.0,32.0,0.0,0.0,3,True
+594740,244305,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Haven,2,Natus Vincere,Karmine Corp,13,7,hiro,29867,killjoy,1.4,286.0,21.0,11.0,2.0,90.0,180.0,22.0,8.0,2.0,3,True
+594740,244305,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Haven,2,Natus Vincere,Karmine Corp,13,7,Filu,4544,yoru,0.92,178.0,14.0,13.0,3.0,75.0,121.0,36.0,3.0,4.0,3,True
+594740,244305,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Haven,2,Natus Vincere,Karmine Corp,13,7,Shao,384,sova,0.77,130.0,9.0,12.0,4.0,65.0,86.0,24.0,2.0,1.0,3,True
+594740,244305,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Haven,2,Karmine Corp,Natus Vincere,7,13,SUYGETSU,2858,cypher,1.1,243.0,18.0,15.0,1.0,70.0,147.0,58.0,3.0,2.0,3,True
+594740,244305,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Haven,2,Karmine Corp,Natus Vincere,7,13,dos9,16215,omen,0.95,196.0,13.0,16.0,12.0,85.0,112.0,45.0,0.0,1.0,3,True
+594740,244305,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Haven,2,Karmine Corp,Natus Vincere,7,13,Avez,5654,phoenix,0.85,191.0,12.0,16.0,5.0,70.0,122.0,17.0,2.0,6.0,3,True
+594740,244305,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Haven,2,Karmine Corp,Natus Vincere,7,13,sheydos,1428,sova,0.62,113.0,9.0,16.0,2.0,65.0,87.0,19.0,0.0,1.0,3,True
+594740,244305,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Haven,2,Karmine Corp,Natus Vincere,7,13,LewN,20144,yoru,0.39,93.0,6.0,17.0,3.0,50.0,74.0,30.0,2.0,3.0,3,True
+594741,244307,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Abyss,1,FUT Esports,Gentle Mates,8,13,xeus,12793,waylay,1.12,245.0,19.0,16.0,3.0,62.0,158.0,55.0,2.0,5.0,3,True
+594741,244307,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Abyss,1,FUT Esports,Gentle Mates,8,13,yetujey,8369,cypher,0.93,135.0,10.0,11.0,1.0,67.0,84.0,35.0,2.0,2.0,3,True
+594741,244307,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Abyss,1,FUT Esports,Gentle Mates,8,13,MrFaliN,8044,sova,0.76,159.0,10.0,15.0,6.0,71.0,96.0,36.0,0.0,4.0,3,True
+594741,244307,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Abyss,1,FUT Esports,Gentle Mates,8,13,KROSTALY,15735,tejo,0.67,110.0,9.0,16.0,0.0,57.0,80.0,35.0,1.0,2.0,3,True
+594741,244307,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Abyss,1,FUT Esports,Gentle Mates,8,13,baha,10114,astra,0.46,131.0,8.0,18.0,5.0,57.0,95.0,27.0,1.0,1.0,3,True
+594741,244307,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Abyss,1,Gentle Mates,FUT Esports,13,8,Minny,23169,brimstone,1.54,298.0,24.0,11.0,8.0,95.0,200.0,65.0,1.0,1.0,3,True
+594741,244307,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Abyss,1,Gentle Mates,FUT Esports,13,8,bipo,18400,waylay,1.08,170.0,13.0,12.0,1.0,62.0,119.0,52.0,4.0,1.0,3,True
+594741,244307,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Abyss,1,Gentle Mates,FUT Esports,13,8,marteen,10307,yoru,0.99,175.0,13.0,12.0,3.0,71.0,111.0,45.0,5.0,3.0,3,True
+594741,244307,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Abyss,1,Gentle Mates,FUT Esports,13,8,starxo,565,sova,0.89,125.0,9.0,11.0,3.0,76.0,91.0,27.0,1.0,0.0,3,True
+594741,244307,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Abyss,1,Gentle Mates,FUT Esports,13,8,GLYPH,8286,astra,0.79,198.0,14.0,15.0,3.0,71.0,123.0,26.0,3.0,1.0,3,True
+594741,244308,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,2,FUT Esports,Gentle Mates,6,13,xeus,12793,raze,1.02,235.0,16.0,17.0,1.0,63.0,149.0,32.0,4.0,2.0,3,True
+594741,244308,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,2,FUT Esports,Gentle Mates,6,13,yetujey,8369,waylay,0.82,198.0,12.0,15.0,5.0,74.0,125.0,24.0,1.0,3.0,3,True
+594741,244308,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,2,FUT Esports,Gentle Mates,6,13,KROSTALY,15735,fade,0.77,164.0,10.0,15.0,6.0,74.0,106.0,33.0,1.0,1.0,3,True
+594741,244308,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,2,FUT Esports,Gentle Mates,6,13,baha,10114,viper,0.76,131.0,11.0,14.0,2.0,63.0,94.0,33.0,2.0,1.0,3,True
+594741,244308,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,2,FUT Esports,Gentle Mates,6,13,MrFaliN,8044,omen,0.56,160.0,10.0,17.0,5.0,63.0,96.0,39.0,2.0,2.0,3,True
+594741,244308,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,2,Gentle Mates,FUT Esports,13,6,starxo,565,fade,1.78,303.0,22.0,9.0,8.0,84.0,192.0,23.0,0.0,0.0,3,True
+594741,244308,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,2,Gentle Mates,FUT Esports,13,6,marteen,10307,yoru,1.27,214.0,15.0,10.0,7.0,74.0,117.0,24.0,3.0,4.0,3,True
+594741,244308,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,2,Gentle Mates,FUT Esports,13,6,GLYPH,8286,astra,1.07,171.0,12.0,12.0,8.0,74.0,123.0,32.0,0.0,1.0,3,True
+594741,244308,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,2,Gentle Mates,FUT Esports,13,6,Minny,23169,viper,0.95,173.0,13.0,12.0,3.0,68.0,114.0,31.0,2.0,0.0,3,True
+594741,244308,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-20,Split,2,Gentle Mates,FUT Esports,13,6,bipo,18400,raze,0.92,270.0,16.0,16.0,6.0,58.0,174.0,21.0,4.0,5.0,3,True
+594742,244310,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,PCIFIC Esports,BBL Esports,10,13,seven,8376,yoru,1.42,230.0,20.0,15.0,5.0,70.0,173.0,39.0,5.0,1.0,3,True
+594742,244310,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,PCIFIC Esports,BBL Esports,10,13,al0rante,5292,astra,1.26,281.0,23.0,19.0,5.0,74.0,177.0,49.0,2.0,0.0,3,True
+594742,244310,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,PCIFIC Esports,BBL Esports,10,13,qpert,7105,omen,0.75,154.0,13.0,18.0,4.0,70.0,102.0,23.0,1.0,3.0,3,True
+594742,244310,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,PCIFIC Esports,BBL Esports,10,13,cNed,573,waylay,0.6,140.0,11.0,20.0,8.0,61.0,93.0,24.0,3.0,6.0,3,True
+594742,244310,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,PCIFIC Esports,BBL Esports,10,13,NINJA,28948,sova,0.54,119.0,10.0,17.0,5.0,61.0,84.0,19.0,0.0,2.0,3,True
+594742,244310,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,BBL Esports,PCIFIC Esports,13,10,Rosé,5565,sova,1.59,260.0,23.0,12.0,3.0,83.0,187.0,27.0,1.0,3.0,3,True
+594742,244310,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,BBL Esports,PCIFIC Esports,13,10,Loita,24344,viper,1.34,245.0,21.0,14.0,4.0,78.0,178.0,38.0,2.0,1.0,3,True
+594742,244310,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,BBL Esports,PCIFIC Esports,13,10,Lar0k,31305,jett,0.95,213.0,17.0,16.0,7.0,61.0,150.0,26.0,3.0,2.0,3,True
+594742,244310,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,BBL Esports,PCIFIC Esports,13,10,lovers rock,40935,yoru,0.73,189.0,16.0,18.0,1.0,78.0,114.0,38.0,5.0,2.0,3,True
+594742,244310,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,BBL Esports,PCIFIC Esports,13,10,Crewen,12795,cypher,0.65,144.0,11.0,17.0,11.0,70.0,95.0,24.0,1.0,3.0,3,True
+594742,244311,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Abyss,2,PCIFIC Esports,BBL Esports,13,7,seven,8376,kayo,2.16,367.0,27.0,10.0,11.0,85.0,215.0,42.0,4.0,0.0,3,True
+594742,244311,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Abyss,2,PCIFIC Esports,BBL Esports,13,7,al0rante,5292,brimstone,1.37,212.0,18.0,11.0,6.0,65.0,133.0,50.0,2.0,1.0,3,True
+594742,244311,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Abyss,2,PCIFIC Esports,BBL Esports,13,7,qpert,7105,omen,1.1,179.0,11.0,10.0,4.0,75.0,129.0,35.0,2.0,2.0,3,True
+594742,244311,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Abyss,2,PCIFIC Esports,BBL Esports,13,7,NINJA,28948,tejo,0.81,165.0,10.0,13.0,8.0,80.0,132.0,18.0,1.0,1.0,3,True
+594742,244311,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Abyss,2,PCIFIC Esports,BBL Esports,13,7,cNed,573,waylay,0.55,114.0,10.0,15.0,2.0,50.0,73.0,25.0,2.0,5.0,3,True
+594742,244311,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Abyss,2,BBL Esports,PCIFIC Esports,7,13,lovers rock,40935,yoru,1.13,225.0,17.0,14.0,3.0,65.0,151.0,39.0,3.0,1.0,3,True
+594742,244311,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Abyss,2,BBL Esports,PCIFIC Esports,7,13,Loita,24344,omen,0.87,169.0,10.0,14.0,9.0,65.0,121.0,27.0,2.0,4.0,3,True
+594742,244311,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Abyss,2,BBL Esports,PCIFIC Esports,7,13,Lar0k,31305,waylay,0.85,219.0,15.0,18.0,5.0,55.0,144.0,43.0,4.0,2.0,3,True
+594742,244311,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Abyss,2,BBL Esports,PCIFIC Esports,7,13,Crewen,12795,cypher,0.63,124.0,9.0,15.0,3.0,60.0,82.0,47.0,0.0,3.0,3,True
+594742,244311,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Abyss,2,BBL Esports,PCIFIC Esports,7,13,Rosé,5565,sova,0.56,122.0,8.0,15.0,3.0,55.0,102.0,33.0,0.0,1.0,3,True
+594742,244312,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Pearl,3,PCIFIC Esports,BBL Esports,4,13,cNed,573,yoru,1.12,212.0,12.0,13.0,3.0,88.0,127.0,29.0,5.0,2.0,3,True
+594742,244312,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Pearl,3,PCIFIC Esports,BBL Esports,4,13,NINJA,28948,fade,1.03,216.0,15.0,14.0,4.0,65.0,136.0,29.0,2.0,2.0,3,True
+594742,244312,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Pearl,3,PCIFIC Esports,BBL Esports,4,13,qpert,7105,astra,0.6,114.0,7.0,15.0,7.0,53.0,69.0,54.0,0.0,2.0,3,True
+594742,244312,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Pearl,3,PCIFIC Esports,BBL Esports,4,13,seven,8376,sage,0.56,129.0,7.0,15.0,6.0,53.0,73.0,18.0,1.0,1.0,3,True
+594742,244312,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Pearl,3,PCIFIC Esports,BBL Esports,4,13,al0rante,5292,killjoy,0.45,132.0,8.0,14.0,2.0,41.0,88.0,31.0,1.0,1.0,3,True
+594742,244312,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Pearl,3,BBL Esports,PCIFIC Esports,13,4,lovers rock,40935,yoru,2.09,441.0,28.0,8.0,1.0,88.0,278.0,27.0,5.0,1.0,3,True
+594742,244312,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Pearl,3,BBL Esports,PCIFIC Esports,13,4,Loita,24344,astra,1.65,241.0,16.0,7.0,11.0,82.0,168.0,55.0,1.0,1.0,3,True
+594742,244312,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Pearl,3,BBL Esports,PCIFIC Esports,13,4,Rosé,5565,sova,1.14,210.0,11.0,10.0,8.0,71.0,142.0,30.0,0.0,1.0,3,True
+594742,244312,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Pearl,3,BBL Esports,PCIFIC Esports,13,4,Crewen,12795,cypher,0.8,152.0,10.0,12.0,5.0,82.0,95.0,29.0,1.0,2.0,3,True
+594742,244312,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Pearl,3,BBL Esports,PCIFIC Esports,13,4,Lar0k,31305,neon,0.47,102.0,6.0,12.0,1.0,59.0,62.0,13.0,1.0,4.0,3,True
+594743,244313,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,ULF Esports,Team Vitality,3,13,Favian,41720,jett,0.92,197.0,11.0,15.0,2.0,63.0,132.0,52.0,1.0,2.0,3,True
+594743,244313,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,ULF Esports,Team Vitality,3,13,audaz,40843,viper,0.89,174.0,8.0,14.0,4.0,38.0,113.0,30.0,2.0,0.0,3,True
+594743,244313,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,ULF Esports,Team Vitality,3,13,nekky,12670,sova,0.61,111.0,6.0,13.0,2.0,44.0,78.0,19.0,1.0,0.0,3,True
+594743,244313,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,ULF Esports,Team Vitality,3,13,sturNN,12226,astra,0.32,102.0,5.0,15.0,3.0,56.0,65.0,43.0,0.0,3.0,3,True
+594743,244313,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,ULF Esports,Team Vitality,3,13,d3mur,16447,yoru,0.32,76.0,5.0,14.0,0.0,44.0,43.0,44.0,1.0,6.0,3,True
+594743,244313,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,Team Vitality,ULF Esports,13,3,Derke,5022,jett,1.99,403.0,23.0,8.0,5.0,88.0,249.0,22.0,7.0,2.0,3,True
+594743,244313,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,Team Vitality,ULF Esports,13,3,Chronicle,458,viper,1.52,238.0,15.0,5.0,3.0,81.0,142.0,14.0,1.0,0.0,3,True
+594743,244313,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,Team Vitality,ULF Esports,13,3,Jamppi,9780,yoru,1.16,203.0,14.0,7.0,3.0,81.0,129.0,30.0,0.0,0.0,3,True
+594743,244313,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,Team Vitality,ULF Esports,13,3,PROFEK,5554,omen,0.99,216.0,12.0,8.0,5.0,88.0,131.0,31.0,2.0,1.0,3,True
+594743,244313,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Breeze,1,Team Vitality,ULF Esports,13,3,UNFAKE,4521,sova,0.9,124.0,7.0,7.0,4.0,75.0,74.0,40.0,1.0,2.0,3,True
+594743,244314,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Corrode,2,ULF Esports,Team Vitality,1,13,nekky,12670,fade,0.64,161.0,7.0,13.0,3.0,79.0,124.0,31.0,1.0,2.0,3,True
+594743,244314,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Corrode,2,ULF Esports,Team Vitality,1,13,audaz,40843,omen,0.59,139.0,6.0,14.0,4.0,86.0,90.0,44.0,0.0,0.0,3,True
+594743,244314,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Corrode,2,ULF Esports,Team Vitality,1,13,sturNN,12226,astra,0.58,148.0,6.0,13.0,1.0,43.0,93.0,29.0,0.0,1.0,3,True
+594743,244314,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Corrode,2,ULF Esports,Team Vitality,1,13,Favian,41720,breach,0.53,145.0,6.0,14.0,3.0,64.0,97.0,37.0,1.0,0.0,3,True
+594743,244314,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Corrode,2,ULF Esports,Team Vitality,1,13,d3mur,16447,neon,0.45,159.0,6.0,13.0,2.0,36.0,108.0,21.0,2.0,7.0,3,True
+594743,244314,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Corrode,2,Team Vitality,ULF Esports,13,1,Derke,5022,phoenix,1.74,383.0,19.0,8.0,4.0,93.0,269.0,23.0,5.0,1.0,3,True
+594743,244314,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Corrode,2,Team Vitality,ULF Esports,13,1,PROFEK,5554,astra,1.64,177.0,11.0,1.0,5.0,100.0,124.0,50.0,1.0,0.0,3,True
+594743,244314,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Corrode,2,Team Vitality,ULF Esports,13,1,Chronicle,458,chamber,1.48,252.0,14.0,7.0,4.0,93.0,204.0,38.0,1.0,1.0,3,True
+594743,244314,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Corrode,2,Team Vitality,ULF Esports,13,1,UNFAKE,4521,sova,1.31,200.0,10.0,6.0,6.0,93.0,140.0,25.0,0.0,1.0,3,True
+594743,244314,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 1,2026-01-21,Corrode,2,Team Vitality,ULF Esports,13,1,Jamppi,9780,yoru,1.24,251.0,13.0,9.0,4.0,79.0,161.0,27.0,3.0,1.0,3,True
+594744,244316,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,1,Team Heretics,Natus Vincere,10,13,RieNs,10971,fade,1.21,278.0,23.0,19.0,5.0,61.0,182.0,30.0,2.0,1.0,3,True
+594744,244316,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,1,Team Heretics,Natus Vincere,10,13,Boo,1144,brimstone,1.02,176.0,17.0,17.0,4.0,65.0,114.0,39.0,0.0,2.0,3,True
+594744,244316,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,1,Team Heretics,Natus Vincere,10,13,Wo0t,21328,yoru,1.01,189.0,15.0,17.0,8.0,74.0,112.0,38.0,4.0,3.0,3,True
+594744,244316,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,1,Team Heretics,Natus Vincere,10,13,benjyfishy,29873,viper,0.65,139.0,10.0,19.0,7.0,57.0,105.0,31.0,2.0,3.0,3,True
+594744,244316,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,1,Team Heretics,Natus Vincere,10,13,ComeBack,40591,raze,0.52,134.0,9.0,20.0,5.0,61.0,93.0,38.0,2.0,4.0,3,True
+594744,244316,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,1,Natus Vincere,Team Heretics,13,10,hiro,29867,tejo,1.45,230.0,23.0,11.0,6.0,83.0,167.0,33.0,0.0,1.0,3,True
+594744,244316,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,1,Natus Vincere,Team Heretics,13,10,Ruxic,18677,viper,1.32,263.0,22.0,16.0,7.0,78.0,168.0,24.0,4.0,2.0,3,True
+594744,244316,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,1,Natus Vincere,Team Heretics,13,10,Shao,384,brimstone,1.14,219.0,17.0,15.0,11.0,78.0,152.0,44.0,2.0,1.0,3,True
+594744,244316,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,1,Natus Vincere,Team Heretics,13,10,Filu,4544,raze,1.02,225.0,16.0,16.0,8.0,83.0,148.0,21.0,5.0,2.0,3,True
+594744,244316,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,1,Natus Vincere,Team Heretics,13,10,sociablEE,5568,skye,0.79,164.0,14.0,16.0,10.0,78.0,100.0,22.0,2.0,4.0,3,True
+594744,244317,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Haven,2,Team Heretics,Natus Vincere,13,11,RieNs,10971,sova,1.27,242.0,22.0,14.0,8.0,75.0,168.0,40.0,1.0,3.0,3,True
+594744,244317,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Haven,2,Team Heretics,Natus Vincere,13,11,ComeBack,40591,neon,1.26,238.0,21.0,15.0,3.0,71.0,151.0,36.0,5.0,5.0,3,True
+594744,244317,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Haven,2,Team Heretics,Natus Vincere,13,11,benjyfishy,29873,cypher,1.08,164.0,14.0,13.0,8.0,67.0,114.0,37.0,1.0,1.0,3,True
+594744,244317,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Haven,2,Team Heretics,Natus Vincere,13,11,Boo,1144,omen,0.99,165.0,13.0,15.0,16.0,75.0,90.0,26.0,3.0,1.0,3,True
+594744,244317,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Haven,2,Team Heretics,Natus Vincere,13,11,Wo0t,21328,yoru,0.97,175.0,14.0,15.0,5.0,75.0,110.0,27.0,3.0,1.0,3,True
+594744,244317,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Haven,2,Natus Vincere,Team Heretics,11,13,hiro,29867,killjoy,1.15,198.0,19.0,15.0,1.0,63.0,137.0,39.0,3.0,1.0,3,True
+594744,244317,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Haven,2,Natus Vincere,Team Heretics,11,13,sociablEE,5568,omen,0.94,202.0,17.0,17.0,7.0,71.0,133.0,27.0,0.0,3.0,3,True
+594744,244317,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Haven,2,Natus Vincere,Team Heretics,11,13,Shao,384,sova,0.83,143.0,10.0,16.0,7.0,67.0,109.0,37.0,2.0,0.0,3,True
+594744,244317,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Haven,2,Natus Vincere,Team Heretics,11,13,Filu,4544,yoru,0.77,188.0,16.0,18.0,1.0,63.0,125.0,16.0,2.0,4.0,3,True
+594744,244317,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Haven,2,Natus Vincere,Team Heretics,11,13,Ruxic,18677,viper,0.66,142.0,10.0,18.0,5.0,54.0,95.0,12.0,4.0,5.0,3,True
+594744,244318,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Split,3,Team Heretics,Natus Vincere,6,13,benjyfishy,29873,viper,0.86,146.0,11.0,13.0,2.0,42.0,105.0,45.0,0.0,5.0,3,True
+594744,244318,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Split,3,Team Heretics,Natus Vincere,6,13,Wo0t,21328,yoru,0.79,197.0,12.0,16.0,3.0,58.0,139.0,29.0,2.0,3.0,3,True
+594744,244318,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Split,3,Team Heretics,Natus Vincere,6,13,ComeBack,40591,raze,0.75,163.0,9.0,16.0,7.0,58.0,120.0,22.0,1.0,5.0,3,True
+594744,244318,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Split,3,Team Heretics,Natus Vincere,6,13,Boo,1144,omen,0.72,120.0,8.0,15.0,6.0,58.0,71.0,37.0,2.0,1.0,3,True
+594744,244318,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Split,3,Team Heretics,Natus Vincere,6,13,RieNs,10971,fade,0.55,105.0,7.0,16.0,4.0,58.0,74.0,20.0,0.0,0.0,3,True
+594744,244318,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Split,3,Natus Vincere,Team Heretics,13,6,hiro,29867,viper,1.52,291.0,19.0,10.0,9.0,84.0,196.0,26.0,5.0,3.0,3,True
+594744,244318,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Split,3,Natus Vincere,Team Heretics,13,6,sociablEE,5568,skye,1.44,213.0,17.0,8.0,8.0,84.0,159.0,25.0,1.0,0.0,3,True
+594744,244318,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Split,3,Natus Vincere,Team Heretics,13,6,Ruxic,18677,chamber,1.34,216.0,16.0,8.0,3.0,79.0,131.0,20.0,4.0,0.0,3,True
+594744,244318,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Split,3,Natus Vincere,Team Heretics,13,6,Filu,4544,raze,1.22,234.0,16.0,11.0,5.0,79.0,183.0,30.0,2.0,2.0,3,True
+594744,244318,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Split,3,Natus Vincere,Team Heretics,13,6,Shao,384,omen,0.89,121.0,8.0,10.0,11.0,84.0,74.0,31.0,2.0,0.0,3,True
+594745,244319,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Pearl,1,GIANTX,Gentle Mates,10,13,grubinho,5550,astra,1.23,253.0,19.0,16.0,7.0,78.0,161.0,36.0,3.0,3.0,3,True
+594745,244319,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Pearl,1,GIANTX,Gentle Mates,10,13,Flickless,6959,kayo,1.08,191.0,17.0,15.0,10.0,83.0,113.0,35.0,2.0,1.0,3,True
+594745,244319,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Pearl,1,GIANTX,Gentle Mates,10,13,westside,34684,killjoy,0.91,152.0,13.0,14.0,2.0,65.0,105.0,46.0,0.0,1.0,3,True
+594745,244319,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Pearl,1,GIANTX,Gentle Mates,10,13,Cloud,4181,sova,0.65,161.0,13.0,17.0,1.0,74.0,103.0,43.0,3.0,2.0,3,True
+594745,244319,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Pearl,1,GIANTX,Gentle Mates,10,13,ara,11332,neon,0.49,103.0,8.0,16.0,5.0,61.0,72.0,18.0,4.0,4.0,3,True
+594745,244319,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Pearl,1,Gentle Mates,GIANTX,13,10,Minny,23169,cypher,1.39,223.0,18.0,13.0,5.0,78.0,146.0,44.0,3.0,1.0,3,True
+594745,244319,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Pearl,1,Gentle Mates,GIANTX,13,10,starxo,565,fade,1.21,232.0,20.0,16.0,6.0,83.0,171.0,23.0,1.0,2.0,3,True
+594745,244319,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Pearl,1,Gentle Mates,GIANTX,13,10,GLYPH,8286,astra,1.11,147.0,12.0,11.0,8.0,74.0,88.0,22.0,1.0,2.0,3,True
+594745,244319,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Pearl,1,Gentle Mates,GIANTX,13,10,marteen,10307,yoru,0.95,136.0,12.0,13.0,7.0,78.0,94.0,53.0,2.0,1.0,3,True
+594745,244319,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Pearl,1,Gentle Mates,GIANTX,13,10,bipo,18400,neon,0.88,203.0,16.0,17.0,5.0,74.0,143.0,16.0,4.0,6.0,3,True
+594745,244320,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,2,GIANTX,Gentle Mates,10,13,Flickless,6959,viper,1.34,252.0,20.0,15.0,5.0,61.0,168.0,40.0,5.0,1.0,3,True
+594745,244320,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,2,GIANTX,Gentle Mates,10,13,westside,34684,sage,0.82,160.0,14.0,18.0,6.0,65.0,110.0,45.0,3.0,2.0,3,True
+594745,244320,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,2,GIANTX,Gentle Mates,10,13,grubinho,5550,brimstone,0.8,168.0,14.0,17.0,7.0,65.0,108.0,31.0,0.0,1.0,3,True
+594745,244320,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,2,GIANTX,Gentle Mates,10,13,Cloud,4181,skye,0.6,167.0,15.0,21.0,1.0,61.0,103.0,30.0,2.0,2.0,3,True
+594745,244320,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,2,GIANTX,Gentle Mates,10,13,ara,11332,raze,0.55,171.0,12.0,21.0,7.0,57.0,116.0,32.0,3.0,4.0,3,True
+594745,244320,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,2,Gentle Mates,GIANTX,13,10,Minny,23169,viper,1.53,280.0,23.0,13.0,8.0,87.0,175.0,39.0,0.0,2.0,3,True
+594745,244320,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,2,Gentle Mates,GIANTX,13,10,starxo,565,fade,1.28,276.0,22.0,16.0,10.0,91.0,163.0,21.0,1.0,0.0,3,True
+594745,244320,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,2,Gentle Mates,GIANTX,13,10,GLYPH,8286,astra,1.11,205.0,18.0,14.0,9.0,83.0,128.0,33.0,1.0,3.0,3,True
+594745,244320,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,2,Gentle Mates,GIANTX,13,10,marteen,10307,yoru,0.99,221.0,19.0,16.0,4.0,74.0,123.0,31.0,6.0,3.0,3,True
+594745,244320,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-22,Bind,2,Gentle Mates,GIANTX,13,10,bipo,18400,waylay,0.62,136.0,10.0,16.0,7.0,65.0,82.0,13.0,2.0,5.0,3,True
+594746,244322,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,FNATIC,BBL Esports,11,13,crashies,4,sova,1.21,264.0,24.0,20.0,6.0,79.0,167.0,22.0,1.0,1.0,3,True
+594746,244322,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,FNATIC,BBL Esports,11,13,kaajak,9554,neon,1.15,256.0,21.0,18.0,4.0,58.0,149.0,23.0,5.0,4.0,3,True
+594746,244322,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,FNATIC,BBL Esports,11,13,Alfajer,9810,sage,1.06,183.0,16.0,15.0,5.0,67.0,120.0,28.0,3.0,3.0,3,True
+594746,244322,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,FNATIC,BBL Esports,11,13,Boaster,438,astra,0.71,119.0,10.0,16.0,4.0,50.0,88.0,31.0,0.0,0.0,3,True
+594746,244322,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,FNATIC,BBL Esports,11,13,Veqaj,12928,viper,0.61,145.0,11.0,19.0,5.0,54.0,103.0,39.0,2.0,5.0,3,True
+594746,244322,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,BBL Esports,FNATIC,13,11,Lar0k,31305,jett,1.4,299.0,26.0,17.0,3.0,79.0,207.0,45.0,6.0,2.0,3,True
+594746,244322,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,BBL Esports,FNATIC,13,11,Crewen,12795,cypher,1.35,254.0,23.0,15.0,4.0,88.0,161.0,39.0,1.0,0.0,3,True
+594746,244322,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,BBL Esports,FNATIC,13,11,Loita,24344,viper,0.87,176.0,14.0,16.0,5.0,71.0,113.0,32.0,2.0,4.0,3,True
+594746,244322,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,BBL Esports,FNATIC,13,11,lovers rock,40935,yoru,0.78,188.0,15.0,17.0,2.0,54.0,113.0,22.0,3.0,5.0,3,True
+594746,244322,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,BBL Esports,FNATIC,13,11,Rosé,5565,sova,0.64,120.0,10.0,17.0,4.0,71.0,88.0,17.0,1.0,0.0,3,True
+594746,244323,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Haven,2,FNATIC,BBL Esports,4,13,Veqaj,12928,viper,1.49,307.0,18.0,13.0,5.0,82.0,182.0,46.0,1.0,0.0,3,True
+594746,244323,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Haven,2,FNATIC,BBL Esports,4,13,crashies,4,sova,0.92,198.0,12.0,14.0,3.0,65.0,141.0,43.0,0.0,1.0,3,True
+594746,244323,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Haven,2,FNATIC,BBL Esports,4,13,Boaster,438,omen,0.82,143.0,9.0,13.0,2.0,53.0,92.0,36.0,0.0,2.0,3,True
+594746,244323,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Haven,2,FNATIC,BBL Esports,4,13,kaajak,9554,yoru,0.38,130.0,7.0,16.0,2.0,47.0,88.0,56.0,1.0,4.0,3,True
+594746,244323,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Haven,2,FNATIC,BBL Esports,4,13,Alfajer,9810,killjoy,0.15,113.0,5.0,17.0,1.0,47.0,77.0,22.0,3.0,5.0,3,True
+594746,244323,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Haven,2,BBL Esports,FNATIC,13,4,Lar0k,31305,neon,1.89,390.0,25.0,12.0,4.0,94.0,235.0,35.0,3.0,0.0,3,True
+594746,244323,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Haven,2,BBL Esports,FNATIC,13,4,lovers rock,40935,yoru,1.23,288.0,19.0,11.0,2.0,94.0,163.0,42.0,8.0,1.0,3,True
+594746,244323,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Haven,2,BBL Esports,FNATIC,13,4,Loita,24344,omen,1.21,158.0,10.0,6.0,10.0,82.0,105.0,43.0,0.0,1.0,3,True
+594746,244323,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Haven,2,BBL Esports,FNATIC,13,4,Rosé,5565,sova,0.78,168.0,10.0,11.0,8.0,88.0,125.0,23.0,1.0,1.0,3,True
+594746,244323,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Haven,2,BBL Esports,FNATIC,13,4,Crewen,12795,cypher,0.68,129.0,9.0,11.0,3.0,71.0,97.0,24.0,0.0,2.0,3,True
+594747,244325,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,Team Liquid,Team Vitality,11,13,nAts,457,viper,1.19,252.0,21.0,18.0,1.0,63.0,171.0,48.0,3.0,3.0,3,True
+594747,244325,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,Team Liquid,Team Vitality,11,13,kamo,14681,sova,0.92,163.0,14.0,16.0,6.0,58.0,100.0,26.0,1.0,1.0,3,True
+594747,244325,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,Team Liquid,Team Vitality,11,13,purp0,1885,jett,0.88,160.0,13.0,16.0,3.0,63.0,95.0,39.0,2.0,4.0,3,True
+594747,244325,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,Team Liquid,Team Vitality,11,13,Kicks,11134,astra,0.85,136.0,11.0,14.0,5.0,63.0,108.0,28.0,2.0,2.0,3,True
+594747,244325,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,Team Liquid,Team Vitality,11,13,MiniBoo,18350,yoru,0.66,125.0,10.0,18.0,3.0,50.0,89.0,33.0,1.0,5.0,3,True
+594747,244325,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,Team Vitality,Team Liquid,13,11,Derke,5022,jett,1.42,281.0,25.0,14.0,3.0,71.0,180.0,25.0,4.0,3.0,3,True
+594747,244325,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,Team Vitality,Team Liquid,13,11,UNFAKE,4521,sova,1.15,186.0,16.0,11.0,5.0,75.0,118.0,44.0,4.0,1.0,3,True
+594747,244325,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,Team Vitality,Team Liquid,13,11,Jamppi,9780,yoru,0.87,180.0,16.0,15.0,2.0,67.0,121.0,37.0,3.0,4.0,3,True
+594747,244325,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,Team Vitality,Team Liquid,13,11,PROFEK,5554,omen,0.76,161.0,13.0,15.0,6.0,75.0,103.0,42.0,1.0,0.0,3,True
+594747,244325,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Breeze,1,Team Vitality,Team Liquid,13,11,Chronicle,458,viper,0.76,136.0,12.0,14.0,4.0,75.0,85.0,12.0,3.0,1.0,3,True
+594747,244326,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Pearl,2,Team Liquid,Team Vitality,14,12,kamo,14681,fade,1.55,306.0,28.0,15.0,9.0,77.0,200.0,49.0,1.0,0.0,3,True
+594747,244326,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Pearl,2,Team Liquid,Team Vitality,14,12,Kicks,11134,brimstone,1.16,186.0,17.0,14.0,17.0,73.0,124.0,20.0,2.0,0.0,3,True
+594747,244326,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Pearl,2,Team Liquid,Team Vitality,14,12,MiniBoo,18350,yoru,1.08,221.0,19.0,17.0,6.0,81.0,129.0,32.0,8.0,4.0,3,True
+594747,244326,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Pearl,2,Team Liquid,Team Vitality,14,12,nAts,457,killjoy,0.98,200.0,18.0,17.0,5.0,69.0,143.0,22.0,2.0,5.0,3,True
+594747,244326,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Pearl,2,Team Liquid,Team Vitality,14,12,purp0,1885,waylay,0.88,191.0,18.0,17.0,5.0,69.0,127.0,38.0,1.0,3.0,3,True
+594747,244326,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Pearl,2,Team Vitality,Team Liquid,12,14,PROFEK,5554,astra,1.18,242.0,23.0,18.0,6.0,65.0,146.0,23.0,4.0,0.0,3,True
+594747,244326,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Pearl,2,Team Vitality,Team Liquid,12,14,Chronicle,458,sage,0.88,168.0,15.0,18.0,11.0,62.0,111.0,27.0,2.0,3.0,3,True
+594747,244326,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Pearl,2,Team Vitality,Team Liquid,12,14,Derke,5022,yoru,0.7,209.0,20.0,24.0,2.0,62.0,128.0,26.0,5.0,4.0,3,True
+594747,244326,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Pearl,2,Team Vitality,Team Liquid,12,14,UNFAKE,4521,fade,0.7,144.0,12.0,20.0,6.0,58.0,90.0,12.0,1.0,3.0,3,True
+594747,244326,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Pearl,2,Team Vitality,Team Liquid,12,14,Jamppi,9780,tejo,0.67,131.0,10.0,20.0,8.0,54.0,107.0,21.0,0.0,4.0,3,True
+594747,244327,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Corrode,3,Team Liquid,Team Vitality,9,13,MiniBoo,18350,waylay,1.27,266.0,19.0,15.0,4.0,68.0,174.0,54.0,8.0,4.0,3,True
+594747,244327,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Corrode,3,Team Liquid,Team Vitality,9,13,purp0,1885,kayo,1.05,178.0,15.0,12.0,4.0,73.0,112.0,61.0,1.0,1.0,3,True
+594747,244327,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Corrode,3,Team Liquid,Team Vitality,9,13,Kicks,11134,omen,1.04,173.0,13.0,14.0,7.0,73.0,111.0,35.0,1.0,0.0,3,True
+594747,244327,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Corrode,3,Team Liquid,Team Vitality,9,13,nAts,457,astra,0.74,150.0,12.0,16.0,6.0,59.0,86.0,35.0,2.0,1.0,3,True
+594747,244327,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Corrode,3,Team Liquid,Team Vitality,9,13,kamo,14681,sova,0.53,115.0,9.0,16.0,4.0,64.0,73.0,36.0,0.0,4.0,3,True
+594747,244327,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Corrode,3,Team Vitality,Team Liquid,13,9,Chronicle,458,chamber,1.23,192.0,16.0,11.0,1.0,64.0,119.0,63.0,3.0,1.0,3,True
+594747,244327,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Corrode,3,Team Vitality,Team Liquid,13,9,Derke,5022,phoenix,1.15,207.0,16.0,14.0,8.0,73.0,128.0,27.0,5.0,4.0,3,True
+594747,244327,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Corrode,3,Team Vitality,Team Liquid,13,9,UNFAKE,4521,sova,1.04,155.0,11.0,12.0,6.0,64.0,121.0,46.0,0.0,1.0,3,True
+594747,244327,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Corrode,3,Team Vitality,Team Liquid,13,9,Jamppi,9780,yoru,0.94,220.0,19.0,17.0,4.0,64.0,140.0,31.0,0.0,5.0,3,True
+594747,244327,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 2,2026-01-23,Corrode,3,Team Vitality,Team Liquid,13,9,PROFEK,5554,astra,0.86,159.0,11.0,14.0,9.0,73.0,106.0,20.0,2.0,1.0,3,True
+594751,244339,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,Karmine Corp,Team Liquid,13,2,dos9,16215,omen,1.62,247.0,16.0,6.0,3.0,87.0,159.0,26.0,0.0,2.0,3,True
+594751,244339,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,Karmine Corp,Team Liquid,13,2,LewN,20144,jett,1.61,374.0,21.0,10.0,1.0,80.0,234.0,26.0,8.0,2.0,3,True
+594751,244339,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,Karmine Corp,Team Liquid,13,2,SUYGETSU,2858,astra,1.35,181.0,10.0,5.0,6.0,80.0,115.0,35.0,2.0,0.0,3,True
+594751,244339,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,Karmine Corp,Team Liquid,13,2,Avez,5654,kayo,1.34,280.0,14.0,10.0,10.0,73.0,171.0,20.0,1.0,0.0,3,True
+594751,244339,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,Karmine Corp,Team Liquid,13,2,sheydos,1428,sova,0.87,111.0,6.0,6.0,4.0,87.0,77.0,8.0,0.0,0.0,3,True
+594751,244339,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,Team Liquid,Karmine Corp,2,13,purp0,1885,breach,0.67,174.0,8.0,14.0,5.0,67.0,117.0,38.0,1.0,0.0,3,True
+594751,244339,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,Team Liquid,Karmine Corp,2,13,kamo,14681,tejo,0.66,157.0,8.0,13.0,1.0,53.0,99.0,39.0,0.0,2.0,3,True
+594751,244339,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,Team Liquid,Karmine Corp,2,13,nAts,457,cypher,0.6,111.0,6.0,12.0,1.0,53.0,79.0,25.0,0.0,0.0,3,True
+594751,244339,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,Team Liquid,Karmine Corp,2,13,wayne,24628,omen,0.56,153.0,7.0,14.0,4.0,80.0,115.0,32.0,1.0,2.0,3,True
+594751,244339,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,Team Liquid,Karmine Corp,2,13,MiniBoo,18350,waylay,0.49,165.0,8.0,15.0,1.0,47.0,111.0,53.0,2.0,7.0,3,True
+594751,244340,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,2,Karmine Corp,Team Liquid,8,13,SUYGETSU,2858,viper,1.33,241.0,18.0,12.0,0.0,67.0,169.0,50.0,3.0,2.0,3,True
+594751,244340,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,2,Karmine Corp,Team Liquid,8,13,sheydos,1428,skye,1.14,201.0,14.0,13.0,6.0,62.0,126.0,35.0,3.0,1.0,3,True
+594751,244340,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,2,Karmine Corp,Team Liquid,8,13,dos9,16215,astra,0.79,175.0,12.0,16.0,5.0,76.0,120.0,15.0,1.0,2.0,3,True
+594751,244340,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,2,Karmine Corp,Team Liquid,8,13,Avez,5654,tejo,0.65,150.0,12.0,17.0,0.0,57.0,92.0,46.0,1.0,1.0,3,True
+594751,244340,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,2,Karmine Corp,Team Liquid,8,13,LewN,20144,waylay,0.29,98.0,6.0,18.0,4.0,67.0,63.0,33.0,1.0,6.0,3,True
+594751,244340,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,2,Team Liquid,Karmine Corp,13,8,MiniBoo,18350,raze,1.57,302.0,23.0,12.0,3.0,76.0,191.0,21.0,5.0,4.0,3,True
+594751,244340,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,2,Team Liquid,Karmine Corp,13,8,purp0,1885,fade,1.22,208.0,17.0,13.0,7.0,81.0,150.0,34.0,2.0,3.0,3,True
+594751,244340,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,2,Team Liquid,Karmine Corp,13,8,nAts,457,viper,1.11,213.0,14.0,10.0,7.0,95.0,154.0,28.0,0.0,0.0,3,True
+594751,244340,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,2,Team Liquid,Karmine Corp,13,8,kamo,14681,yoru,0.91,203.0,15.0,15.0,6.0,71.0,143.0,42.0,4.0,2.0,3,True
+594751,244340,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,2,Team Liquid,Karmine Corp,13,8,wayne,24628,astra,0.68,99.0,7.0,12.0,10.0,81.0,56.0,19.0,1.0,0.0,3,True
+594751,244341,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Breeze,3,Karmine Corp,Team Liquid,10,13,dos9,16215,omen,0.95,180.0,15.0,17.0,12.0,87.0,109.0,20.0,1.0,4.0,3,True
+594751,244341,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Breeze,3,Karmine Corp,Team Liquid,10,13,sheydos,1428,sova,0.8,172.0,14.0,19.0,5.0,74.0,108.0,26.0,0.0,1.0,3,True
+594751,244341,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Breeze,3,Karmine Corp,Team Liquid,10,13,LewN,20144,yoru,0.77,198.0,16.0,20.0,4.0,65.0,132.0,37.0,3.0,5.0,3,True
+594751,244341,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Breeze,3,Karmine Corp,Team Liquid,10,13,SUYGETSU,2858,astra,0.76,167.0,14.0,19.0,8.0,65.0,102.0,45.0,2.0,3.0,3,True
+594751,244341,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Breeze,3,Karmine Corp,Team Liquid,10,13,Avez,5654,phoenix,0.69,195.0,15.0,20.0,5.0,65.0,124.0,20.0,1.0,3.0,3,True
+594751,244341,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Breeze,3,Team Liquid,Karmine Corp,13,10,wayne,24628,astra,1.59,217.0,22.0,10.0,7.0,83.0,150.0,33.0,1.0,0.0,3,True
+594751,244341,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Breeze,3,Team Liquid,Karmine Corp,13,10,purp0,1885,jett,1.43,288.0,23.0,15.0,4.0,78.0,188.0,46.0,5.0,1.0,3,True
+594751,244341,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Breeze,3,Team Liquid,Karmine Corp,13,10,MiniBoo,18350,yoru,1.29,256.0,20.0,16.0,13.0,96.0,166.0,43.0,7.0,3.0,3,True
+594751,244341,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Breeze,3,Team Liquid,Karmine Corp,13,10,kamo,14681,sova,1.04,207.0,16.0,16.0,11.0,83.0,141.0,33.0,2.0,1.0,3,True
+594751,244341,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Breeze,3,Team Liquid,Karmine Corp,13,10,nAts,457,viper,0.78,161.0,14.0,17.0,8.0,65.0,114.0,18.0,1.0,2.0,3,True
+594752,244342,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,FUT Esports,FNATIC,3,13,xeus,12793,waylay,0.72,140.0,8.0,13.0,0.0,63.0,86.0,54.0,1.0,1.0,3,True
+594752,244342,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,FUT Esports,FNATIC,3,13,KROSTALY,15735,kayo,0.69,201.0,11.0,15.0,1.0,56.0,118.0,42.0,1.0,2.0,3,True
+594752,244342,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,FUT Esports,FNATIC,3,13,baha,10114,astra,0.62,176.0,9.0,15.0,1.0,50.0,117.0,50.0,0.0,3.0,3,True
+594752,244342,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,FUT Esports,FNATIC,3,13,MrFaliN,8044,sova,0.51,104.0,5.0,13.0,2.0,38.0,74.0,70.0,0.0,3.0,3,True
+594752,244342,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,FUT Esports,FNATIC,3,13,yetujey,8369,cypher,0.34,116.0,6.0,14.0,0.0,44.0,77.0,39.0,1.0,4.0,3,True
+594752,244342,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,FNATIC,FUT Esports,13,3,Veqaj,12928,kayo,1.59,271.0,15.0,9.0,17.0,94.0,186.0,26.0,1.0,0.0,3,True
+594752,244342,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,FNATIC,FUT Esports,13,3,Alfajer,9810,vyse,1.33,255.0,16.0,8.0,1.0,88.0,167.0,31.0,5.0,1.0,3,True
+594752,244342,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,FNATIC,FUT Esports,13,3,Boaster,438,astra,1.29,198.0,13.0,7.0,9.0,94.0,129.0,23.0,2.0,0.0,3,True
+594752,244342,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,FNATIC,FUT Esports,13,3,kaajak,9554,jett,1.27,236.0,15.0,8.0,2.0,75.0,157.0,57.0,3.0,2.0,3,True
+594752,244342,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Abyss,1,FNATIC,FUT Esports,13,3,crashies,4,sova,1.22,183.0,11.0,7.0,7.0,88.0,118.0,42.0,2.0,0.0,3,True
+594752,244343,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Corrode,2,FUT Esports,FNATIC,18,16,xeus,12793,waylay,1.27,272.0,33.0,26.0,6.0,79.0,173.0,45.0,7.0,5.0,3,True
+594752,244343,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Corrode,2,FUT Esports,FNATIC,18,16,MrFaliN,8044,fade,1.18,215.0,28.0,22.0,10.0,74.0,139.0,33.0,6.0,3.0,3,True
+594752,244343,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Corrode,2,FUT Esports,FNATIC,18,16,yetujey,8369,omen,0.89,176.0,20.0,24.0,11.0,71.0,119.0,30.0,1.0,3.0,3,True
+594752,244343,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Corrode,2,FUT Esports,FNATIC,18,16,KROSTALY,15735,kayo,0.84,165.0,19.0,24.0,10.0,74.0,111.0,21.0,2.0,3.0,3,True
+594752,244343,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Corrode,2,FUT Esports,FNATIC,18,16,baha,10114,astra,0.83,165.0,20.0,22.0,10.0,68.0,101.0,35.0,1.0,3.0,3,True
+594752,244343,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Corrode,2,FNATIC,FUT Esports,16,18,Alfajer,9810,vyse,1.48,259.0,33.0,20.0,6.0,79.0,177.0,44.0,5.0,1.0,3,True
+594752,244343,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Corrode,2,FNATIC,FUT Esports,16,18,Veqaj,12928,kayo,1.22,212.0,24.0,22.0,24.0,76.0,130.0,28.0,4.0,2.0,3,True
+594752,244343,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Corrode,2,FNATIC,FUT Esports,16,18,crashies,4,sova,1.13,224.0,25.0,24.0,13.0,74.0,144.0,30.0,1.0,2.0,3,True
+594752,244343,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Corrode,2,FNATIC,FUT Esports,16,18,kaajak,9554,waylay,0.7,177.0,20.0,26.0,4.0,50.0,111.0,50.0,5.0,9.0,3,True
+594752,244343,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Corrode,2,FNATIC,FUT Esports,16,18,Boaster,438,astra,0.55,133.0,16.0,28.0,12.0,62.0,77.0,27.0,2.0,3.0,3,True
+594752,244344,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,3,FUT Esports,FNATIC,14,16,xeus,12793,neon,0.99,213.0,24.0,24.0,3.0,70.0,134.0,47.0,9.0,4.0,3,True
+594752,244344,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,3,FUT Esports,FNATIC,14,16,MrFaliN,8044,astra,0.97,166.0,18.0,20.0,14.0,60.0,116.0,26.0,1.0,3.0,3,True
+594752,244344,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,3,FUT Esports,FNATIC,14,16,yetujey,8369,waylay,0.83,176.0,18.0,22.0,8.0,73.0,120.0,22.0,2.0,3.0,3,True
+594752,244344,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,3,FUT Esports,FNATIC,14,16,KROSTALY,15735,fade,0.83,170.0,18.0,22.0,3.0,63.0,124.0,33.0,4.0,2.0,3,True
+594752,244344,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,3,FUT Esports,FNATIC,14,16,baha,10114,viper,0.54,156.0,16.0,25.0,5.0,53.0,100.0,26.0,0.0,2.0,3,True
+594752,244344,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,3,FNATIC,FUT Esports,16,14,Alfajer,9810,raze,1.47,284.0,29.0,21.0,9.0,90.0,210.0,26.0,6.0,4.0,3,True
+594752,244344,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,3,FNATIC,FUT Esports,16,14,crashies,4,fade,1.17,172.0,20.0,15.0,9.0,90.0,116.0,35.0,1.0,1.0,3,True
+594752,244344,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,3,FNATIC,FUT Esports,16,14,Veqaj,12928,viper,1.06,235.0,25.0,21.0,7.0,67.0,166.0,30.0,5.0,5.0,3,True
+594752,244344,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,3,FNATIC,FUT Esports,16,14,kaajak,9554,yoru,1.04,181.0,19.0,17.0,10.0,73.0,124.0,35.0,2.0,3.0,3,True
+594752,244344,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-27,Split,3,FNATIC,FUT Esports,16,14,Boaster,438,astra,1.03,179.0,20.0,20.0,10.0,73.0,110.0,23.0,0.0,3.0,3,True
+594753,244345,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Abyss,1,PCIFIC Esports,GIANTX,8,13,al0rante,5292,brimstone,1.3,268.0,20.0,15.0,6.0,81.0,163.0,47.0,3.0,3.0,3,True
+594753,244345,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Abyss,1,PCIFIC Esports,GIANTX,8,13,seven,8376,kayo,1.07,229.0,16.0,15.0,7.0,71.0,140.0,37.0,1.0,2.0,3,True
+594753,244345,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Abyss,1,PCIFIC Esports,GIANTX,8,13,NINJA,28948,tejo,0.86,173.0,11.0,14.0,6.0,81.0,130.0,24.0,0.0,2.0,3,True
+594753,244345,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Abyss,1,PCIFIC Esports,GIANTX,8,13,qpert,7105,omen,0.81,174.0,13.0,15.0,5.0,76.0,115.0,26.0,1.0,2.0,3,True
+594753,244345,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Abyss,1,PCIFIC Esports,GIANTX,8,13,cNed,573,waylay,0.67,136.0,11.0,15.0,2.0,52.0,79.0,35.0,3.0,4.0,3,True
+594753,244345,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Abyss,1,GIANTX,PCIFIC Esports,13,8,ara,11332,waylay,1.4,244.0,21.0,14.0,2.0,76.0,163.0,33.0,4.0,2.0,3,True
+594753,244345,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Abyss,1,GIANTX,PCIFIC Esports,13,8,grubinho,5550,astra,1.22,215.0,16.0,12.0,8.0,81.0,127.0,23.0,3.0,0.0,3,True
+594753,244345,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Abyss,1,GIANTX,PCIFIC Esports,13,8,Cloud,4181,tejo,1.15,217.0,15.0,13.0,9.0,81.0,155.0,17.0,2.0,3.0,3,True
+594753,244345,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Abyss,1,GIANTX,PCIFIC Esports,13,8,westside,34684,chamber,0.9,208.0,14.0,17.0,0.0,62.0,141.0,37.0,3.0,3.0,3,True
+594753,244345,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Abyss,1,GIANTX,PCIFIC Esports,13,8,Flickless,6959,breach,0.66,123.0,8.0,15.0,14.0,76.0,76.0,33.0,1.0,0.0,3,True
+594753,244346,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,PCIFIC Esports,GIANTX,14,12,qpert,7105,astra,1.28,188.0,16.0,13.0,12.0,81.0,123.0,32.0,1.0,1.0,3,True
+594753,244346,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,PCIFIC Esports,GIANTX,14,12,seven,8376,veto,1.17,235.0,22.0,18.0,1.0,62.0,149.0,31.0,5.0,6.0,3,True
+594753,244346,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,PCIFIC Esports,GIANTX,14,12,NINJA,28948,fade,1.06,208.0,19.0,18.0,8.0,65.0,120.0,23.0,4.0,3.0,3,True
+594753,244346,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,PCIFIC Esports,GIANTX,14,12,al0rante,5292,viper,1.02,211.0,19.0,21.0,8.0,69.0,140.0,47.0,0.0,1.0,3,True
+594753,244346,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,PCIFIC Esports,GIANTX,14,12,cNed,573,yoru,0.93,173.0,14.0,18.0,8.0,69.0,121.0,26.0,2.0,3.0,3,True
+594753,244346,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,GIANTX,PCIFIC Esports,12,14,Cloud,4181,skye,1.19,291.0,29.0,20.0,5.0,65.0,194.0,26.0,3.0,2.0,3,True
+594753,244346,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,GIANTX,PCIFIC Esports,12,14,westside,34684,sage,0.97,206.0,20.0,17.0,3.0,69.0,140.0,41.0,2.0,3.0,3,True
+594753,244346,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,GIANTX,PCIFIC Esports,12,14,Flickless,6959,viper,0.86,192.0,16.0,19.0,10.0,65.0,124.0,19.0,3.0,3.0,3,True
+594753,244346,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,GIANTX,PCIFIC Esports,12,14,ara,11332,raze,0.85,148.0,14.0,18.0,3.0,65.0,103.0,29.0,5.0,4.0,3,True
+594753,244346,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,GIANTX,PCIFIC Esports,12,14,grubinho,5550,brimstone,0.73,117.0,9.0,16.0,16.0,65.0,69.0,17.0,1.0,0.0,3,True
+594753,244347,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Split,3,PCIFIC Esports,GIANTX,10,13,al0rante,5292,viper,1.1,272.0,22.0,20.0,2.0,65.0,180.0,44.0,1.0,3.0,3,True
+594753,244347,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Split,3,PCIFIC Esports,GIANTX,10,13,seven,8376,kayo,1.08,237.0,16.0,18.0,13.0,65.0,161.0,16.0,5.0,2.0,3,True
+594753,244347,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Split,3,PCIFIC Esports,GIANTX,10,13,qpert,7105,omen,0.91,90.0,7.0,12.0,9.0,78.0,63.0,32.0,1.0,1.0,3,True
+594753,244347,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Split,3,PCIFIC Esports,GIANTX,10,13,cNed,573,waylay,0.83,146.0,15.0,16.0,4.0,74.0,101.0,26.0,1.0,6.0,3,True
+594753,244347,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Split,3,PCIFIC Esports,GIANTX,10,13,NINJA,28948,fade,0.8,179.0,15.0,18.0,3.0,65.0,117.0,30.0,1.0,2.0,3,True
+594753,244347,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Split,3,GIANTX,PCIFIC Esports,13,10,Cloud,4181,skye,1.23,302.0,23.0,19.0,10.0,83.0,201.0,39.0,3.0,1.0,3,True
+594753,244347,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Split,3,GIANTX,PCIFIC Esports,13,10,Flickless,6959,breach,1.12,184.0,16.0,13.0,7.0,78.0,119.0,18.0,1.0,0.0,3,True
+594753,244347,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Split,3,GIANTX,PCIFIC Esports,13,10,westside,34684,viper,1.07,213.0,18.0,16.0,4.0,87.0,134.0,25.0,3.0,1.0,3,True
+594753,244347,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Split,3,GIANTX,PCIFIC Esports,13,10,grubinho,5550,omen,1.03,116.0,11.0,12.0,11.0,78.0,82.0,28.0,3.0,0.0,3,True
+594753,244347,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Split,3,GIANTX,PCIFIC Esports,13,10,ara,11332,raze,0.89,187.0,16.0,15.0,4.0,74.0,127.0,29.0,4.0,7.0,3,True
+594754,244348,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Haven,1,ULF Esports,Team Heretics,7,13,audaz,40843,omen,0.98,242.0,17.0,19.0,4.0,60.0,149.0,66.0,0.0,3.0,3,True
+594754,244348,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Haven,1,ULF Esports,Team Heretics,7,13,nekky,12670,sova,0.88,182.0,11.0,15.0,7.0,75.0,137.0,21.0,1.0,1.0,3,True
+594754,244348,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Haven,1,ULF Esports,Team Heretics,7,13,Favian,41720,viper,0.87,210.0,13.0,18.0,4.0,60.0,145.0,30.0,2.0,3.0,3,True
+594754,244348,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Haven,1,ULF Esports,Team Heretics,7,13,d3mur,16447,neon,0.83,238.0,16.0,16.0,2.0,60.0,135.0,35.0,3.0,4.0,3,True
+594754,244348,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Haven,1,ULF Esports,Team Heretics,7,13,sturNN,12226,killjoy,0.42,84.0,7.0,16.0,2.0,40.0,55.0,43.0,0.0,3.0,3,True
+594754,244348,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Haven,1,Team Heretics,ULF Esports,13,7,benjyfishy,29873,cypher,1.71,337.0,26.0,11.0,5.0,70.0,196.0,57.0,6.0,1.0,3,True
+594754,244348,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Haven,1,Team Heretics,ULF Esports,13,7,Wo0t,21328,yoru,1.31,226.0,17.0,10.0,6.0,85.0,153.0,42.0,2.0,0.0,3,True
+594754,244348,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Haven,1,Team Heretics,ULF Esports,13,7,RieNs,10971,sova,1.12,199.0,16.0,13.0,4.0,90.0,122.0,42.0,2.0,1.0,3,True
+594754,244348,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Haven,1,Team Heretics,ULF Esports,13,7,Boo,1144,omen,1.09,199.0,14.0,14.0,11.0,90.0,132.0,27.0,1.0,0.0,3,True
+594754,244348,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Haven,1,Team Heretics,ULF Esports,13,7,ComeBack,40591,neon,0.68,180.0,11.0,16.0,5.0,75.0,121.0,24.0,3.0,4.0,3,True
+594754,244349,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,ULF Esports,Team Heretics,8,13,audaz,40843,brimstone,1.12,241.0,19.0,18.0,8.0,86.0,157.0,43.0,1.0,1.0,3,True
+594754,244349,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,ULF Esports,Team Heretics,8,13,nekky,12670,skye,1.01,240.0,18.0,17.0,5.0,71.0,154.0,27.0,1.0,2.0,3,True
+594754,244349,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,ULF Esports,Team Heretics,8,13,sturNN,12226,viper,0.79,190.0,14.0,17.0,3.0,71.0,112.0,31.0,2.0,2.0,3,True
+594754,244349,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,ULF Esports,Team Heretics,8,13,Favian,41720,chamber,0.74,151.0,13.0,17.0,2.0,52.0,105.0,32.0,2.0,4.0,3,True
+594754,244349,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,ULF Esports,Team Heretics,8,13,d3mur,16447,waylay,0.47,148.0,8.0,18.0,6.0,67.0,99.0,19.0,1.0,5.0,3,True
+594754,244349,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,Team Heretics,ULF Esports,13,8,ComeBack,40591,waylay,1.47,280.0,22.0,13.0,3.0,71.0,178.0,39.0,8.0,3.0,3,True
+594754,244349,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,Team Heretics,ULF Esports,13,8,Boo,1144,brimstone,1.45,242.0,17.0,11.0,14.0,90.0,147.0,50.0,1.0,1.0,3,True
+594754,244349,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,Team Heretics,ULF Esports,13,8,RieNs,10971,gekko,1.29,270.0,22.0,16.0,6.0,90.0,185.0,43.0,1.0,0.0,3,True
+594754,244349,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,Team Heretics,ULF Esports,13,8,benjyfishy,29873,viper,1.11,229.0,18.0,16.0,6.0,86.0,142.0,28.0,4.0,1.0,3,True
+594754,244349,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 1,2026-01-28,Bind,2,Team Heretics,ULF Esports,13,8,Wo0t,21328,fade,0.51,118.0,8.0,16.0,7.0,76.0,96.0,29.0,0.0,2.0,3,True
+594748,244328,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,1,Natus Vincere,Gentle Mates,7,13,hiro,29867,tejo,1.26,273.0,18.0,15.0,3.0,65.0,166.0,18.0,0.0,3.0,3,True
+594748,244328,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,1,Natus Vincere,Gentle Mates,7,13,Shao,384,astra,1.16,219.0,15.0,14.0,1.0,50.0,134.0,40.0,3.0,2.0,3,True
+594748,244328,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,1,Natus Vincere,Gentle Mates,7,13,Ruxic,18677,omen,0.57,117.0,9.0,15.0,4.0,65.0,76.0,50.0,0.0,3.0,3,True
+594748,244328,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,1,Natus Vincere,Gentle Mates,7,13,sociablEE,5568,skye,0.51,103.0,6.0,16.0,4.0,70.0,72.0,22.0,1.0,2.0,3,True
+594748,244328,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,1,Natus Vincere,Gentle Mates,7,13,Filu,4544,raze,0.25,120.0,7.0,18.0,2.0,45.0,87.0,12.0,2.0,4.0,3,True
+594748,244328,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,1,Gentle Mates,Natus Vincere,13,7,bipo,18400,waylay,1.34,252.0,18.0,12.0,6.0,80.0,181.0,30.0,3.0,0.0,3,True
+594748,244328,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,1,Gentle Mates,Natus Vincere,13,7,marteen,10307,yoru,1.21,266.0,20.0,14.0,5.0,60.0,154.0,41.0,4.0,1.0,3,True
+594748,244328,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,1,Gentle Mates,Natus Vincere,13,7,Minny,23169,brimstone,1.13,174.0,12.0,10.0,11.0,80.0,103.0,18.0,1.0,2.0,3,True
+594748,244328,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,1,Gentle Mates,Natus Vincere,13,7,GLYPH,8286,astra,1.11,156.0,11.0,8.0,5.0,85.0,86.0,17.0,3.0,0.0,3,True
+594748,244328,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,1,Gentle Mates,Natus Vincere,13,7,starxo,565,sova,1.04,250.0,17.0,13.0,7.0,75.0,175.0,33.0,3.0,3.0,3,True
+594748,244329,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Bind,2,Natus Vincere,Gentle Mates,9,13,hiro,29867,tejo,1.2,222.0,18.0,15.0,4.0,73.0,159.0,36.0,2.0,3.0,3,True
+594748,244329,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Bind,2,Natus Vincere,Gentle Mates,9,13,sociablEE,5568,skye,1.07,169.0,14.0,15.0,8.0,91.0,121.0,30.0,1.0,0.0,3,True
+594748,244329,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Bind,2,Natus Vincere,Gentle Mates,9,13,Ruxic,18677,viper,0.97,188.0,14.0,15.0,7.0,64.0,120.0,21.0,4.0,2.0,3,True
+594748,244329,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Bind,2,Natus Vincere,Gentle Mates,9,13,Shao,384,brimstone,0.86,201.0,16.0,18.0,6.0,77.0,132.0,37.0,2.0,1.0,3,True
+594748,244329,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Bind,2,Natus Vincere,Gentle Mates,9,13,Filu,4544,raze,0.41,136.0,9.0,21.0,7.0,64.0,101.0,18.0,3.0,4.0,3,True
+594748,244329,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Bind,2,Gentle Mates,Natus Vincere,13,9,Minny,23169,viper,1.57,273.0,24.0,12.0,7.0,64.0,179.0,49.0,2.0,2.0,3,True
+594748,244329,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Bind,2,Gentle Mates,Natus Vincere,13,9,marteen,10307,yoru,1.5,335.0,26.0,16.0,6.0,91.0,221.0,28.0,6.0,1.0,3,True
+594748,244329,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Bind,2,Gentle Mates,Natus Vincere,13,9,GLYPH,8286,astra,0.99,169.0,13.0,14.0,16.0,77.0,104.0,18.0,0.0,3.0,3,True
+594748,244329,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Bind,2,Gentle Mates,Natus Vincere,13,9,bipo,18400,waylay,0.78,162.0,12.0,16.0,5.0,73.0,102.0,26.0,1.0,4.0,3,True
+594748,244329,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Bind,2,Gentle Mates,Natus Vincere,13,9,starxo,565,fade,0.76,116.0,9.0,13.0,4.0,82.0,84.0,21.0,1.0,2.0,3,True
+594749,244331,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Haven,1,BBL Esports,Team Vitality,13,9,Lar0k,31305,neon,1.64,303.0,25.0,13.0,5.0,77.0,193.0,38.0,4.0,3.0,3,True
+594749,244331,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Haven,1,BBL Esports,Team Vitality,13,9,lovers rock,40935,yoru,1.27,259.0,20.0,16.0,12.0,86.0,156.0,17.0,6.0,3.0,3,True
+594749,244331,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Haven,1,BBL Esports,Team Vitality,13,9,Loita,24344,omen,1.07,189.0,17.0,13.0,6.0,77.0,122.0,41.0,2.0,0.0,3,True
+594749,244331,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Haven,1,BBL Esports,Team Vitality,13,9,Rosé,5565,sova,0.74,135.0,9.0,14.0,6.0,73.0,105.0,18.0,1.0,0.0,3,True
+594749,244331,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Haven,1,BBL Esports,Team Vitality,13,9,Crewen,12795,cypher,0.74,159.0,12.0,16.0,3.0,68.0,110.0,48.0,1.0,2.0,3,True
+594749,244331,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Haven,1,Team Vitality,BBL Esports,9,13,Chronicle,458,viper,1.62,327.0,25.0,14.0,6.0,68.0,219.0,28.0,1.0,4.0,3,True
+594749,244331,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Haven,1,Team Vitality,BBL Esports,9,13,PROFEK,5554,omen,0.82,158.0,11.0,17.0,12.0,68.0,105.0,12.0,2.0,3.0,3,True
+594749,244331,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Haven,1,Team Vitality,BBL Esports,9,13,Jamppi,9780,sova,0.75,176.0,12.0,17.0,5.0,68.0,121.0,31.0,2.0,1.0,3,True
+594749,244331,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Haven,1,Team Vitality,BBL Esports,9,13,UNFAKE,4521,killjoy,0.58,135.0,10.0,17.0,5.0,73.0,96.0,16.0,1.0,3.0,3,True
+594749,244331,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Haven,1,Team Vitality,BBL Esports,9,13,Derke,5022,yoru,0.57,153.0,13.0,18.0,0.0,50.0,95.0,28.0,2.0,3.0,3,True
+594749,244332,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,2,BBL Esports,Team Vitality,13,8,lovers rock,40935,yoru,1.59,304.0,21.0,13.0,11.0,90.0,189.0,22.0,5.0,2.0,3,True
+594749,244332,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,2,BBL Esports,Team Vitality,13,8,Rosé,5565,sova,1.1,195.0,15.0,12.0,4.0,81.0,133.0,31.0,0.0,0.0,3,True
+594749,244332,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,2,BBL Esports,Team Vitality,13,8,Loita,24344,omen,1.09,165.0,13.0,12.0,5.0,76.0,108.0,31.0,1.0,2.0,3,True
+594749,244332,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,2,BBL Esports,Team Vitality,13,8,Crewen,12795,cypher,0.87,172.0,14.0,13.0,3.0,71.0,116.0,38.0,0.0,1.0,3,True
+594749,244332,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,2,BBL Esports,Team Vitality,13,8,Lar0k,31305,waylay,0.8,207.0,17.0,17.0,2.0,62.0,123.0,21.0,4.0,6.0,3,True
+594749,244332,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,2,Team Vitality,BBL Esports,8,13,Jamppi,9780,yoru,1.4,285.0,20.0,15.0,5.0,62.0,186.0,37.0,4.0,4.0,3,True
+594749,244332,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,2,Team Vitality,BBL Esports,8,13,PROFEK,5554,astra,1.0,179.0,15.0,14.0,3.0,81.0,111.0,15.0,3.0,0.0,3,True
+594749,244332,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,2,Team Vitality,BBL Esports,8,13,UNFAKE,4521,sova,0.77,150.0,12.0,15.0,1.0,67.0,112.0,40.0,0.0,1.0,3,True
+594749,244332,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,2,Team Vitality,BBL Esports,8,13,Chronicle,458,veto,0.6,175.0,12.0,18.0,4.0,71.0,117.0,17.0,2.0,2.0,3,True
+594749,244332,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Round 3,2026-01-29,Abyss,2,Team Vitality,BBL Esports,8,13,Derke,5022,waylay,0.39,114.0,8.0,20.0,3.0,52.0,79.0,30.0,2.0,3.0,3,True
+594755,244351,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Corrode,1,Team Liquid,FNATIC,5,13,nAts,457,astra,1.22,241.0,16.0,14.0,5.0,83.0,165.0,35.0,3.0,0.0,3,True
+594755,244351,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Corrode,1,Team Liquid,FNATIC,5,13,purp0,1885,kayo,0.83,187.0,12.0,15.0,5.0,67.0,122.0,63.0,1.0,1.0,3,True
+594755,244351,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Corrode,1,Team Liquid,FNATIC,5,13,kamo,14681,sova,0.7,200.0,11.0,16.0,4.0,50.0,122.0,35.0,1.0,3.0,3,True
+594755,244351,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Corrode,1,Team Liquid,FNATIC,5,13,MiniBoo,18350,waylay,0.5,145.0,9.0,15.0,3.0,56.0,87.0,29.0,4.0,4.0,3,True
+594755,244351,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Corrode,1,Team Liquid,FNATIC,5,13,wayne,24628,omen,0.48,105.0,8.0,15.0,1.0,67.0,76.0,33.0,0.0,1.0,3,True
+594755,244351,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Corrode,1,FNATIC,Team Liquid,13,5,Alfajer,9810,vyse,1.63,282.0,18.0,10.0,2.0,78.0,186.0,46.0,1.0,2.0,3,True
+594755,244351,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Corrode,1,FNATIC,Team Liquid,13,5,crashies,4,sova,1.41,292.0,19.0,10.0,4.0,72.0,201.0,35.0,0.0,1.0,3,True
+594755,244351,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Corrode,1,FNATIC,Team Liquid,13,5,Veqaj,12928,kayo,1.2,234.0,16.0,11.0,7.0,67.0,154.0,48.0,1.0,2.0,3,True
+594755,244351,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Corrode,1,FNATIC,Team Liquid,13,5,kaajak,9554,waylay,1.01,209.0,14.0,13.0,2.0,61.0,115.0,31.0,5.0,4.0,3,True
+594755,244351,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Corrode,1,FNATIC,Team Liquid,13,5,Boaster,438,astra,0.66,118.0,8.0,12.0,3.0,67.0,74.0,38.0,2.0,0.0,3,True
+594755,244352,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Split,2,Team Liquid,FNATIC,9,13,purp0,1885,fade,1.28,213.0,16.0,11.0,4.0,77.0,147.0,39.0,1.0,0.0,3,True
+594755,244352,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Split,2,Team Liquid,FNATIC,9,13,wayne,24628,astra,1.15,231.0,19.0,17.0,8.0,73.0,156.0,33.0,2.0,2.0,3,True
+594755,244352,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Split,2,Team Liquid,FNATIC,9,13,MiniBoo,18350,raze,0.84,187.0,14.0,18.0,5.0,50.0,128.0,27.0,4.0,2.0,3,True
+594755,244352,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Split,2,Team Liquid,FNATIC,9,13,kamo,14681,yoru,0.66,116.0,10.0,17.0,3.0,59.0,73.0,35.0,3.0,4.0,3,True
+594755,244352,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Split,2,Team Liquid,FNATIC,9,13,nAts,457,viper,0.38,107.0,7.0,17.0,1.0,50.0,76.0,33.0,1.0,3.0,3,True
+594755,244352,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Split,2,FNATIC,Team Liquid,13,9,kaajak,9554,yoru,1.32,253.0,20.0,12.0,3.0,77.0,145.0,33.0,4.0,3.0,3,True
+594755,244352,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Split,2,FNATIC,Team Liquid,13,9,Alfajer,9810,raze,1.23,262.0,19.0,15.0,6.0,77.0,177.0,26.0,4.0,4.0,3,True
+594755,244352,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Split,2,FNATIC,Team Liquid,13,9,crashies,4,fade,1.21,199.0,17.0,13.0,3.0,77.0,122.0,44.0,2.0,0.0,3,True
+594755,244352,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Split,2,FNATIC,Team Liquid,13,9,Boaster,438,astra,0.95,133.0,11.0,12.0,11.0,82.0,88.0,43.0,0.0,3.0,3,True
+594755,244352,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Split,2,FNATIC,Team Liquid,13,9,Veqaj,12928,viper,0.85,193.0,13.0,14.0,4.0,59.0,153.0,27.0,1.0,1.0,3,True
+594756,244354,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Abyss,1,GIANTX,Team Heretics,13,10,Cloud,4181,tejo,1.36,276.0,20.0,17.0,12.0,83.0,194.0,24.0,0.0,1.0,3,True
+594756,244354,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Abyss,1,GIANTX,Team Heretics,13,10,Flickless,6959,breach,1.06,202.0,18.0,17.0,7.0,74.0,112.0,28.0,0.0,1.0,3,True
+594756,244354,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Abyss,1,GIANTX,Team Heretics,13,10,westside,34684,chamber,1.05,217.0,18.0,18.0,3.0,61.0,155.0,48.0,4.0,4.0,3,True
+594756,244354,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Abyss,1,GIANTX,Team Heretics,13,10,ara,11332,waylay,0.84,179.0,16.0,18.0,5.0,70.0,115.0,43.0,3.0,7.0,3,True
+594756,244354,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Abyss,1,GIANTX,Team Heretics,13,10,grubinho,5550,astra,0.62,131.0,11.0,18.0,9.0,65.0,86.0,16.0,1.0,2.0,3,True
+594756,244354,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Abyss,1,Team Heretics,GIANTX,10,13,ComeBack,40591,jett,1.28,283.0,25.0,17.0,2.0,78.0,184.0,28.0,5.0,1.0,3,True
+594756,244354,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Abyss,1,Team Heretics,GIANTX,10,13,Wo0t,21328,kayo,1.26,231.0,18.0,16.0,13.0,83.0,137.0,33.0,2.0,1.0,3,True
+594756,244354,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Abyss,1,Team Heretics,GIANTX,10,13,Boo,1144,astra,0.93,190.0,16.0,16.0,9.0,83.0,122.0,42.0,2.0,1.0,3,True
+594756,244354,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Abyss,1,Team Heretics,GIANTX,10,13,RieNs,10971,sova,0.76,160.0,14.0,16.0,2.0,52.0,106.0,27.0,3.0,3.0,3,True
+594756,244354,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Abyss,1,Team Heretics,GIANTX,10,13,benjyfishy,29873,cypher,0.71,191.0,15.0,19.0,8.0,61.0,116.0,31.0,3.0,2.0,3,True
+594756,244355,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Haven,2,GIANTX,Team Heretics,13,7,ara,11332,neon,1.76,308.0,21.0,9.0,8.0,85.0,192.0,28.0,8.0,1.0,3,True
+594756,244355,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Haven,2,GIANTX,Team Heretics,13,7,Flickless,6959,viper,1.69,343.0,23.0,12.0,9.0,75.0,227.0,25.0,2.0,1.0,3,True
+594756,244355,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Haven,2,GIANTX,Team Heretics,13,7,Cloud,4181,sova,1.2,200.0,15.0,9.0,4.0,80.0,122.0,25.0,1.0,1.0,3,True
+594756,244355,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Haven,2,GIANTX,Team Heretics,13,7,grubinho,5550,omen,0.81,147.0,11.0,14.0,7.0,75.0,104.0,35.0,0.0,1.0,3,True
+594756,244355,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Haven,2,GIANTX,Team Heretics,13,7,westside,34684,veto,0.52,95.0,8.0,14.0,1.0,50.0,69.0,50.0,2.0,3.0,3,True
+594756,244355,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Haven,2,Team Heretics,GIANTX,7,13,Boo,1144,omen,1.02,179.0,13.0,14.0,8.0,80.0,118.0,28.0,2.0,1.0,3,True
+594756,244355,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Haven,2,Team Heretics,GIANTX,7,13,ComeBack,40591,neon,1.0,256.0,18.0,17.0,0.0,60.0,153.0,37.0,3.0,3.0,3,True
+594756,244355,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Haven,2,Team Heretics,GIANTX,7,13,Wo0t,21328,yoru,0.86,207.0,13.0,15.0,3.0,60.0,137.0,25.0,1.0,4.0,3,True
+594756,244355,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Haven,2,Team Heretics,GIANTX,7,13,RieNs,10971,sova,0.69,140.0,9.0,16.0,6.0,50.0,94.0,39.0,1.0,1.0,3,True
+594756,244355,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 2,2026-01-30,Haven,2,Team Heretics,GIANTX,7,13,benjyfishy,29873,cypher,0.38,65.0,5.0,16.0,4.0,60.0,43.0,33.0,0.0,4.0,3,True
+594761,244371,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Haven,1,Karmine Corp,FUT Esports,14,12,dos9,16215,omen,1.35,266.0,25.0,15.0,11.0,81.0,163.0,42.0,2.0,1.0,3,True
+594761,244371,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Haven,1,Karmine Corp,FUT Esports,14,12,Avez,5654,phoenix,1.23,238.0,22.0,17.0,13.0,85.0,134.0,38.0,7.0,4.0,3,True
+594761,244371,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Haven,1,Karmine Corp,FUT Esports,14,12,LewN,20144,yoru,0.97,184.0,17.0,16.0,4.0,69.0,122.0,25.0,4.0,3.0,3,True
+594761,244371,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Haven,1,Karmine Corp,FUT Esports,14,12,sheydos,1428,sova,0.88,176.0,16.0,17.0,2.0,77.0,111.0,24.0,0.0,2.0,3,True
+594761,244371,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Haven,1,Karmine Corp,FUT Esports,14,12,SUYGETSU,2858,cypher,0.85,198.0,17.0,19.0,5.0,81.0,138.0,28.0,1.0,2.0,3,True
+594761,244371,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Haven,1,FUT Esports,Karmine Corp,12,14,yetujey,8369,viper,1.22,196.0,16.0,15.0,10.0,69.0,138.0,24.0,3.0,0.0,3,True
+594761,244371,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Haven,1,FUT Esports,Karmine Corp,12,14,KROSTALY,15735,fade,1.16,263.0,24.0,20.0,4.0,77.0,159.0,29.0,3.0,2.0,3,True
+594761,244371,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Haven,1,FUT Esports,Karmine Corp,12,14,MrFaliN,8044,omen,0.98,158.0,14.0,18.0,13.0,62.0,91.0,30.0,3.0,3.0,3,True
+594761,244371,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Haven,1,FUT Esports,Karmine Corp,12,14,xeus,12793,waylay,0.92,211.0,19.0,22.0,7.0,69.0,139.0,41.0,2.0,6.0,3,True
+594761,244371,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Haven,1,FUT Esports,Karmine Corp,12,14,baha,10114,killjoy,0.45,132.0,11.0,22.0,1.0,54.0,95.0,21.0,1.0,3.0,3,True
+594761,244372,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,2,Karmine Corp,FUT Esports,8,13,LewN,20144,waylay,1.27,276.0,21.0,15.0,1.0,71.0,159.0,36.0,6.0,4.0,3,True
+594761,244372,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,2,Karmine Corp,FUT Esports,8,13,dos9,16215,astra,0.84,197.0,15.0,16.0,5.0,52.0,130.0,39.0,1.0,3.0,3,True
+594761,244372,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,2,Karmine Corp,FUT Esports,8,13,sheydos,1428,skye,0.64,118.0,8.0,15.0,10.0,71.0,68.0,37.0,0.0,1.0,3,True
+594761,244372,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,2,Karmine Corp,FUT Esports,8,13,Avez,5654,tejo,0.64,139.0,9.0,16.0,1.0,57.0,101.0,18.0,3.0,1.0,3,True
+594761,244372,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,2,Karmine Corp,FUT Esports,8,13,SUYGETSU,2858,viper,0.63,147.0,9.0,17.0,4.0,43.0,102.0,32.0,1.0,1.0,3,True
+594761,244372,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,2,FUT Esports,Karmine Corp,13,8,MrFaliN,8044,astra,1.41,229.0,18.0,10.0,7.0,81.0,165.0,27.0,1.0,0.0,3,True
+594761,244372,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,2,FUT Esports,Karmine Corp,13,8,KROSTALY,15735,fade,1.24,210.0,17.0,14.0,6.0,86.0,130.0,33.0,1.0,1.0,3,True
+594761,244372,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,2,FUT Esports,Karmine Corp,13,8,baha,10114,viper,1.16,233.0,17.0,14.0,3.0,67.0,144.0,24.0,3.0,2.0,3,True
+594761,244372,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,2,FUT Esports,Karmine Corp,13,8,xeus,12793,neon,0.94,173.0,14.0,10.0,1.0,67.0,98.0,31.0,3.0,3.0,3,True
+594761,244372,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,2,FUT Esports,Karmine Corp,13,8,yetujey,8369,waylay,0.92,194.0,13.0,14.0,3.0,71.0,145.0,38.0,2.0,5.0,3,True
+594761,244373,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Pearl,3,Karmine Corp,FUT Esports,13,7,dos9,16215,astra,1.45,223.0,16.0,10.0,14.0,80.0,133.0,30.0,2.0,2.0,3,True
+594761,244373,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Pearl,3,Karmine Corp,FUT Esports,13,7,LewN,20144,yoru,1.29,245.0,20.0,13.0,1.0,85.0,146.0,38.0,4.0,1.0,3,True
+594761,244373,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Pearl,3,Karmine Corp,FUT Esports,13,7,Avez,5654,tejo,1.08,180.0,14.0,12.0,5.0,85.0,133.0,29.0,2.0,4.0,3,True
+594761,244373,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Pearl,3,Karmine Corp,FUT Esports,13,7,sheydos,1428,fade,1.06,182.0,13.0,10.0,7.0,75.0,122.0,24.0,0.0,2.0,3,True
+594761,244373,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Pearl,3,Karmine Corp,FUT Esports,13,7,SUYGETSU,2858,killjoy,0.9,199.0,13.0,12.0,5.0,80.0,150.0,19.0,3.0,0.0,3,True
+594761,244373,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Pearl,3,FUT Esports,Karmine Corp,7,13,MrFaliN,8044,fade,1.12,198.0,14.0,15.0,4.0,65.0,138.0,41.0,0.0,1.0,3,True
+594761,244373,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Pearl,3,FUT Esports,Karmine Corp,7,13,yetujey,8369,chamber,1.03,203.0,14.0,16.0,1.0,70.0,132.0,24.0,1.0,2.0,3,True
+594761,244373,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Pearl,3,FUT Esports,Karmine Corp,7,13,xeus,12793,waylay,0.66,144.0,10.0,14.0,3.0,60.0,90.0,26.0,6.0,4.0,3,True
+594761,244373,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Pearl,3,FUT Esports,Karmine Corp,7,13,baha,10114,astra,0.61,146.0,10.0,17.0,6.0,50.0,90.0,43.0,2.0,2.0,3,True
+594761,244373,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Pearl,3,FUT Esports,Karmine Corp,7,13,KROSTALY,15735,tejo,0.53,107.0,9.0,14.0,1.0,65.0,70.0,37.0,0.0,2.0,3,True
+594762,244374,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,1,PCIFIC Esports,ULF Esports,5,13,al0rante,5292,viper,1.0,215.0,13.0,14.0,2.0,78.0,137.0,43.0,1.0,3.0,3,True
+594762,244374,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,1,PCIFIC Esports,ULF Esports,5,13,cNed,573,waylay,0.85,190.0,12.0,15.0,2.0,72.0,115.0,29.0,3.0,1.0,3,True
+594762,244374,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,1,PCIFIC Esports,ULF Esports,5,13,NINJA,28948,fade,0.72,135.0,8.0,15.0,6.0,50.0,90.0,38.0,1.0,2.0,3,True
+594762,244374,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,1,PCIFIC Esports,ULF Esports,5,13,qpert,7105,omen,0.56,124.0,8.0,14.0,1.0,56.0,77.0,35.0,1.0,3.0,3,True
+594762,244374,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,1,PCIFIC Esports,ULF Esports,5,13,seven,8376,kayo,0.55,93.0,5.0,13.0,4.0,50.0,61.0,28.0,1.0,2.0,3,True
+594762,244374,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,1,ULF Esports,PCIFIC Esports,13,5,audaz,40843,omen,1.42,200.0,14.0,7.0,10.0,89.0,128.0,43.0,3.0,0.0,3,True
+594762,244374,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,1,ULF Esports,PCIFIC Esports,13,5,d3mur,16447,waylay,1.29,244.0,17.0,8.0,0.0,78.0,158.0,27.0,4.0,4.0,3,True
+594762,244374,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,1,ULF Esports,PCIFIC Esports,13,5,Favian,41720,breach,1.12,201.0,14.0,10.0,8.0,83.0,136.0,35.0,0.0,0.0,3,True
+594762,244374,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,1,ULF Esports,PCIFIC Esports,13,5,sturNN,12226,viper,1.02,218.0,15.0,10.0,2.0,72.0,125.0,10.0,2.0,2.0,3,True
+594762,244374,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Split,1,ULF Esports,PCIFIC Esports,13,5,nekky,12670,fade,0.85,176.0,11.0,11.0,3.0,61.0,116.0,22.0,2.0,1.0,3,True
+594762,244375,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Abyss,2,PCIFIC Esports,ULF Esports,8,13,NINJA,28948,tejo,1.31,255.0,20.0,15.0,4.0,76.0,168.0,28.0,1.0,1.0,3,True
+594762,244375,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Abyss,2,PCIFIC Esports,ULF Esports,8,13,al0rante,5292,brimstone,0.95,223.0,16.0,17.0,4.0,76.0,150.0,44.0,0.0,4.0,3,True
+594762,244375,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Abyss,2,PCIFIC Esports,ULF Esports,8,13,seven,8376,kayo,0.83,197.0,13.0,17.0,14.0,76.0,135.0,29.0,1.0,4.0,3,True
+594762,244375,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Abyss,2,PCIFIC Esports,ULF Esports,8,13,cNed,573,waylay,0.72,173.0,13.0,18.0,3.0,67.0,116.0,26.0,3.0,3.0,3,True
+594762,244375,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Abyss,2,PCIFIC Esports,ULF Esports,8,13,qpert,7105,omen,0.69,116.0,7.0,15.0,9.0,62.0,75.0,28.0,1.0,2.0,3,True
+594762,244375,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Abyss,2,ULF Esports,PCIFIC Esports,13,8,audaz,40843,astra,1.34,261.0,18.0,14.0,10.0,90.0,162.0,54.0,3.0,1.0,3,True
+594762,244375,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Abyss,2,ULF Esports,PCIFIC Esports,13,8,Favian,41720,waylay,1.18,227.0,20.0,16.0,6.0,86.0,155.0,31.0,5.0,1.0,3,True
+594762,244375,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Abyss,2,ULF Esports,PCIFIC Esports,13,8,d3mur,16447,jett,1.14,214.0,17.0,13.0,2.0,76.0,132.0,32.0,3.0,3.0,3,True
+594762,244375,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Abyss,2,ULF Esports,PCIFIC Esports,13,8,nekky,12670,sova,0.86,202.0,15.0,15.0,4.0,62.0,131.0,46.0,2.0,1.0,3,True
+594762,244375,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 1,2026-02-03,Abyss,2,ULF Esports,PCIFIC Esports,13,8,sturNN,12226,breach,0.69,157.0,12.0,16.0,7.0,86.0,94.0,48.0,1.0,0.0,3,True
+594757,244357,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Split,1,Natus Vincere,FNATIC,10,13,hiro,29867,viper,1.29,220.0,18.0,13.0,7.0,74.0,144.0,45.0,1.0,1.0,3,True
+594757,244357,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Split,1,Natus Vincere,FNATIC,10,13,Ruxic,18677,chamber,1.27,287.0,24.0,17.0,2.0,87.0,176.0,16.0,5.0,0.0,3,True
+594757,244357,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Split,1,Natus Vincere,FNATIC,10,13,sociablEE,5568,skye,0.92,245.0,18.0,20.0,12.0,74.0,171.0,20.0,1.0,4.0,3,True
+594757,244357,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Split,1,Natus Vincere,FNATIC,10,13,Filu,4544,raze,0.82,179.0,15.0,17.0,1.0,65.0,125.0,27.0,2.0,4.0,3,True
+594757,244357,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Split,1,Natus Vincere,FNATIC,10,13,Shao,384,omen,0.24,61.0,5.0,19.0,6.0,57.0,36.0,20.0,1.0,4.0,3,True
+594757,244357,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Split,1,FNATIC,Natus Vincere,13,10,Veqaj,12928,viper,1.46,294.0,24.0,15.0,4.0,83.0,184.0,28.0,3.0,1.0,3,True
+594757,244357,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Split,1,FNATIC,Natus Vincere,13,10,kaajak,9554,yoru,1.2,221.0,19.0,15.0,6.0,78.0,132.0,20.0,2.0,3.0,3,True
+594757,244357,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Split,1,FNATIC,Natus Vincere,13,10,Alfajer,9810,raze,1.18,265.0,20.0,17.0,4.0,87.0,173.0,31.0,8.0,1.0,3,True
+594757,244357,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Split,1,FNATIC,Natus Vincere,13,10,crashies,4,fade,0.88,154.0,14.0,15.0,5.0,52.0,101.0,21.0,0.0,1.0,3,True
+594757,244357,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Split,1,FNATIC,Natus Vincere,13,10,Boaster,438,astra,0.54,105.0,9.0,18.0,8.0,70.0,59.0,28.0,0.0,4.0,3,True
+594757,244358,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,Natus Vincere,FNATIC,13,6,Filu,4544,neon,1.65,308.0,23.0,9.0,1.0,84.0,191.0,26.0,5.0,1.0,3,True
+594757,244358,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,Natus Vincere,FNATIC,13,6,hiro,29867,sova,1.65,258.0,17.0,9.0,8.0,74.0,169.0,32.0,2.0,0.0,3,True
+594757,244358,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,Natus Vincere,FNATIC,13,6,sociablEE,5568,yoru,0.99,198.0,14.0,12.0,2.0,53.0,112.0,25.0,2.0,3.0,3,True
+594757,244358,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,Natus Vincere,FNATIC,13,6,Ruxic,18677,viper,0.89,151.0,11.0,11.0,2.0,58.0,104.0,35.0,1.0,3.0,3,True
+594757,244358,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,Natus Vincere,FNATIC,13,6,Shao,384,astra,0.78,97.0,7.0,9.0,1.0,74.0,68.0,27.0,0.0,2.0,3,True
+594757,244358,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,FNATIC,Natus Vincere,6,13,Alfajer,9810,viper,1.07,198.0,14.0,14.0,1.0,74.0,133.0,41.0,1.0,1.0,3,True
+594757,244358,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,FNATIC,Natus Vincere,6,13,crashies,4,sova,0.79,158.0,10.0,13.0,3.0,68.0,102.0,29.0,0.0,1.0,3,True
+594757,244358,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,FNATIC,Natus Vincere,6,13,Boaster,438,astra,0.63,133.0,9.0,14.0,4.0,63.0,84.0,33.0,0.0,2.0,3,True
+594757,244358,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,FNATIC,Natus Vincere,6,13,kaajak,9554,yoru,0.55,165.0,10.0,16.0,3.0,58.0,100.0,38.0,3.0,3.0,3,True
+594757,244358,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,FNATIC,Natus Vincere,6,13,Veqaj,12928,jett,0.54,127.0,7.0,15.0,3.0,47.0,86.0,21.0,5.0,3.0,3,True
+594757,244359,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Bind,3,Natus Vincere,FNATIC,15,17,hiro,29867,tejo,1.71,284.0,33.0,15.0,10.0,81.0,192.0,31.0,1.0,2.0,3,True
+594757,244359,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Bind,3,Natus Vincere,FNATIC,15,17,Ruxic,18677,viper,1.09,204.0,23.0,20.0,6.0,66.0,134.0,32.0,4.0,6.0,3,True
+594757,244359,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Bind,3,Natus Vincere,FNATIC,15,17,Filu,4544,raze,0.91,195.0,23.0,25.0,0.0,59.0,136.0,33.0,3.0,5.0,3,True
+594757,244359,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Bind,3,Natus Vincere,FNATIC,15,17,sociablEE,5568,skye,0.68,160.0,17.0,24.0,7.0,63.0,94.0,37.0,1.0,4.0,3,True
+594757,244359,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Bind,3,Natus Vincere,FNATIC,15,17,Shao,384,brimstone,0.52,117.0,10.0,25.0,11.0,63.0,81.0,35.0,4.0,2.0,3,True
+594757,244359,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Bind,3,FNATIC,Natus Vincere,17,15,Veqaj,12928,viper,1.13,214.0,26.0,20.0,9.0,69.0,141.0,33.0,1.0,2.0,3,True
+594757,244359,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Bind,3,FNATIC,Natus Vincere,17,15,kaajak,9554,yoru,1.05,249.0,27.0,22.0,4.0,75.0,153.0,23.0,10.0,6.0,3,True
+594757,244359,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Bind,3,FNATIC,Natus Vincere,17,15,Alfajer,9810,raze,1.03,234.0,26.0,24.0,4.0,69.0,152.0,30.0,8.0,2.0,3,True
+594757,244359,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Bind,3,FNATIC,Natus Vincere,17,15,crashies,4,fade,0.98,147.0,17.0,18.0,5.0,63.0,102.0,49.0,0.0,1.0,3,True
+594757,244359,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Bind,3,FNATIC,Natus Vincere,17,15,Boaster,438,brimstone,0.75,139.0,13.0,22.0,16.0,78.0,102.0,37.0,0.0,2.0,3,True
+594758,244360,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Abyss,1,Team Vitality,GIANTX,13,0,Chronicle,458,veto,2.17,368.0,20.0,5.0,1.0,100.0,262.0,44.0,4.0,0.0,3,True
+594758,244360,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Abyss,1,Team Vitality,GIANTX,13,0,PROFEK,5554,astra,1.92,239.0,13.0,1.0,5.0,100.0,157.0,38.0,0.0,1.0,3,True
+594758,244360,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Abyss,1,Team Vitality,GIANTX,13,0,UNFAKE,4521,sova,1.46,176.0,9.0,4.0,6.0,100.0,145.0,56.0,0.0,0.0,3,True
+594758,244360,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Abyss,1,Team Vitality,GIANTX,13,0,Derke,5022,waylay,1.45,212.0,10.0,4.0,6.0,85.0,165.0,42.0,2.0,1.0,3,True
+594758,244360,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Abyss,1,Team Vitality,GIANTX,13,0,Jamppi,9780,yoru,0.97,196.0,9.0,8.0,3.0,85.0,111.0,29.0,3.0,2.0,3,True
+594758,244360,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Abyss,1,GIANTX,Team Vitality,0,13,ara,11332,waylay,0.89,206.0,9.0,12.0,0.0,46.0,113.0,47.0,2.0,2.0,3,True
+594758,244360,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Abyss,1,GIANTX,Team Vitality,0,13,grubinho,5550,astra,0.39,95.0,4.0,11.0,0.0,46.0,57.0,23.0,0.0,2.0,3,True
+594758,244360,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Abyss,1,GIANTX,Team Vitality,0,13,Flickless,6959,breach,0.37,134.0,5.0,13.0,3.0,46.0,84.0,22.0,1.0,1.0,3,True
+594758,244360,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Abyss,1,GIANTX,Team Vitality,0,13,westside,34684,chamber,0.15,101.0,3.0,13.0,1.0,54.0,77.0,20.0,1.0,1.0,3,True
+594758,244360,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Abyss,1,GIANTX,Team Vitality,0,13,Cloud,4181,tejo,0.07,43.0,1.0,12.0,2.0,46.0,44.0,10.0,0.0,3.0,3,True
+594758,244361,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,Team Vitality,GIANTX,13,11,Derke,5022,jett,1.2,229.0,20.0,16.0,2.0,71.0,167.0,31.0,6.0,1.0,3,True
+594758,244361,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,Team Vitality,GIANTX,13,11,Jamppi,9780,yoru,1.14,248.0,20.0,17.0,5.0,63.0,152.0,26.0,4.0,4.0,3,True
+594758,244361,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,Team Vitality,GIANTX,13,11,UNFAKE,4521,sova,1.1,206.0,16.0,14.0,4.0,63.0,152.0,31.0,1.0,3.0,3,True
+594758,244361,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,Team Vitality,GIANTX,13,11,Chronicle,458,viper,1.06,189.0,17.0,15.0,2.0,63.0,129.0,32.0,1.0,2.0,3,True
+594758,244361,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,Team Vitality,GIANTX,13,11,PROFEK,5554,omen,0.65,120.0,9.0,16.0,6.0,63.0,76.0,17.0,2.0,0.0,3,True
+594758,244361,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,GIANTX,Team Vitality,11,13,Flickless,6959,kayo,1.25,210.0,19.0,15.0,14.0,75.0,128.0,36.0,1.0,1.0,3,True
+594758,244361,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,GIANTX,Team Vitality,11,13,westside,34684,viper,1.04,176.0,16.0,14.0,2.0,63.0,121.0,45.0,2.0,1.0,3,True
+594758,244361,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,GIANTX,Team Vitality,11,13,Cloud,4181,sova,0.95,176.0,13.0,17.0,13.0,83.0,130.0,10.0,1.0,1.0,3,True
+594758,244361,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,GIANTX,Team Vitality,11,13,grubinho,5550,omen,0.82,181.0,15.0,18.0,7.0,58.0,120.0,29.0,2.0,5.0,3,True
+594758,244361,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 3,2026-02-04,Breeze,2,GIANTX,Team Vitality,11,13,ara,11332,jett,0.75,173.0,15.0,18.0,3.0,63.0,113.0,31.0,4.0,6.0,3,True
+594763,244378,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Haven,1,Team Heretics,Karmine Corp,13,8,RieNs,10971,sova,1.32,230.0,18.0,12.0,4.0,71.0,149.0,31.0,3.0,1.0,3,True
+594763,244378,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Haven,1,Team Heretics,Karmine Corp,13,8,Boo,1144,omen,1.22,186.0,15.0,12.0,7.0,81.0,130.0,25.0,1.0,3.0,3,True
+594763,244378,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Haven,1,Team Heretics,Karmine Corp,13,8,Wo0t,21328,yoru,1.19,239.0,16.0,13.0,9.0,95.0,169.0,36.0,2.0,2.0,3,True
+594763,244378,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Haven,1,Team Heretics,Karmine Corp,13,8,ComeBack,40591,neon,0.9,205.0,16.0,15.0,4.0,67.0,133.0,45.0,4.0,2.0,3,True
+594763,244378,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Haven,1,Team Heretics,Karmine Corp,13,8,benjyfishy,29873,cypher,0.89,188.0,14.0,16.0,6.0,67.0,126.0,42.0,1.0,2.0,3,True
+594763,244378,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Haven,1,Karmine Corp,Team Heretics,8,13,dos9,16215,omen,1.11,190.0,15.0,14.0,7.0,81.0,132.0,39.0,3.0,2.0,3,True
+594763,244378,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Haven,1,Karmine Corp,Team Heretics,8,13,LewN,20144,yoru,1.1,243.0,18.0,16.0,4.0,71.0,156.0,47.0,2.0,2.0,3,True
+594763,244378,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Haven,1,Karmine Corp,Team Heretics,8,13,SUYGETSU,2858,cypher,0.93,188.0,15.0,15.0,3.0,57.0,131.0,48.0,1.0,1.0,3,True
+594763,244378,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Haven,1,Karmine Corp,Team Heretics,8,13,sheydos,1428,sova,0.86,160.0,11.0,15.0,7.0,67.0,121.0,54.0,2.0,1.0,3,True
+594763,244378,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Haven,1,Karmine Corp,Team Heretics,8,13,Avez,5654,phoenix,0.49,138.0,9.0,19.0,6.0,71.0,101.0,32.0,2.0,5.0,3,True
+594763,244379,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Corrode,2,Team Heretics,Karmine Corp,13,11,benjyfishy,29873,viper,1.49,278.0,25.0,14.0,5.0,79.0,173.0,26.0,4.0,0.0,3,True
+594763,244379,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Corrode,2,Team Heretics,Karmine Corp,13,11,Wo0t,21328,tejo,1.25,277.0,22.0,18.0,9.0,88.0,174.0,29.0,6.0,1.0,3,True
+594763,244379,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Corrode,2,Team Heretics,Karmine Corp,13,11,ComeBack,40591,jett,0.89,155.0,13.0,17.0,4.0,63.0,105.0,32.0,4.0,3.0,3,True
+594763,244379,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Corrode,2,Team Heretics,Karmine Corp,13,11,Boo,1144,brimstone,0.79,122.0,10.0,13.0,13.0,88.0,80.0,29.0,0.0,1.0,3,True
+594763,244379,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Corrode,2,Team Heretics,Karmine Corp,13,11,RieNs,10971,fade,0.72,157.0,14.0,19.0,5.0,75.0,114.0,34.0,3.0,2.0,3,True
+594763,244379,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Corrode,2,Karmine Corp,Team Heretics,11,13,SUYGETSU,2858,astra,1.14,215.0,18.0,16.0,13.0,79.0,140.0,43.0,2.0,5.0,3,True
+594763,244379,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Corrode,2,Karmine Corp,Team Heretics,11,13,Avez,5654,tejo,1.08,242.0,20.0,18.0,5.0,71.0,152.0,22.0,1.0,4.0,3,True
+594763,244379,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Corrode,2,Karmine Corp,Team Heretics,11,13,dos9,16215,omen,0.97,144.0,12.0,14.0,10.0,75.0,99.0,52.0,0.0,3.0,3,True
+594763,244379,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Corrode,2,Karmine Corp,Team Heretics,11,13,sheydos,1428,fade,0.88,172.0,15.0,16.0,5.0,75.0,110.0,47.0,1.0,1.0,3,True
+594763,244379,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Corrode,2,Karmine Corp,Team Heretics,11,13,LewN,20144,waylay,0.8,190.0,15.0,20.0,9.0,75.0,105.0,27.0,3.0,4.0,3,True
+594763,252723,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Abyss,3,Team Heretics,Karmine Corp,2,13,RieNs,10971,sova,0.93,231.0,11.0,14.0,2.0,60.0,154.0,54.0,3.0,0.0,3,True
+594763,252723,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Abyss,3,Team Heretics,Karmine Corp,2,13,Boo,1144,astra,0.6,146.0,6.0,14.0,5.0,67.0,95.0,37.0,1.0,1.0,3,True
+594763,252723,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Abyss,3,Team Heretics,Karmine Corp,2,13,benjyfishy,29873,cypher,0.5,126.0,7.0,14.0,1.0,40.0,76.0,35.0,1.0,3.0,3,True
+594763,252723,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Abyss,3,Team Heretics,Karmine Corp,2,13,ComeBack,40591,jett,0.39,111.0,4.0,14.0,4.0,47.0,88.0,24.0,0.0,4.0,3,True
+594763,252723,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Abyss,3,Team Heretics,Karmine Corp,2,13,Wo0t,21328,kayo,0.34,83.0,3.0,13.0,3.0,53.0,64.0,19.0,0.0,2.0,3,True
+594763,252723,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Abyss,3,Karmine Corp,Team Heretics,13,2,LewN,20144,jett,2.02,370.0,21.0,6.0,1.0,87.0,242.0,44.0,6.0,2.0,3,True
+594763,252723,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Abyss,3,Karmine Corp,Team Heretics,13,2,SUYGETSU,2858,astra,1.38,175.0,10.0,5.0,9.0,80.0,128.0,28.0,0.0,1.0,3,True
+594763,252723,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Abyss,3,Karmine Corp,Team Heretics,13,2,sheydos,1428,sova,1.36,206.0,11.0,5.0,5.0,87.0,127.0,27.0,1.0,0.0,3,True
+594763,252723,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Abyss,3,Karmine Corp,Team Heretics,13,2,dos9,16215,omen,1.34,271.0,15.0,9.0,5.0,100.0,165.0,41.0,2.0,0.0,3,True
+594763,252723,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Abyss,3,Karmine Corp,Team Heretics,13,2,Avez,5654,kayo,1.33,216.0,12.0,7.0,15.0,80.0,144.0,27.0,1.0,2.0,3,True
+594764,244380,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Split,1,Team Liquid,ULF Esports,8,13,wayne,24628,omen,1.39,257.0,19.0,14.0,10.0,86.0,170.0,36.0,1.0,1.0,3,True
+594764,244380,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Split,1,Team Liquid,ULF Esports,8,13,kamo,14681,yoru,1.1,235.0,16.0,15.0,7.0,76.0,154.0,27.0,1.0,2.0,3,True
+594764,244380,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Split,1,Team Liquid,ULF Esports,8,13,nAts,457,viper,1.06,195.0,16.0,15.0,4.0,71.0,127.0,30.0,0.0,4.0,3,True
+594764,244380,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Split,1,Team Liquid,ULF Esports,8,13,MiniBoo,18350,raze,0.93,223.0,16.0,17.0,3.0,71.0,142.0,29.0,5.0,5.0,3,True
+594764,244380,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Split,1,Team Liquid,ULF Esports,8,13,purp0,1885,fade,0.64,144.0,10.0,15.0,2.0,71.0,98.0,55.0,2.0,0.0,3,True
+594764,244380,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Split,1,ULF Esports,Team Liquid,13,8,nekky,12670,fade,1.42,300.0,23.0,15.0,7.0,76.0,178.0,21.0,1.0,1.0,3,True
+594764,244380,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Split,1,ULF Esports,Team Liquid,13,8,audaz,40843,omen,1.0,174.0,12.0,12.0,6.0,81.0,107.0,37.0,4.0,3.0,3,True
+594764,244380,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Split,1,ULF Esports,Team Liquid,13,8,Favian,41720,breach,0.87,218.0,17.0,18.0,6.0,67.0,131.0,33.0,2.0,1.0,3,True
+594764,244380,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Split,1,ULF Esports,Team Liquid,13,8,sturNN,12226,viper,0.83,191.0,15.0,17.0,3.0,71.0,118.0,18.0,3.0,0.0,3,True
+594764,244380,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Split,1,ULF Esports,Team Liquid,13,8,d3mur,16447,waylay,0.56,128.0,9.0,15.0,4.0,71.0,86.0,19.0,2.0,4.0,3,True
+594764,244382,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Pearl,2,Team Liquid,ULF Esports,14,12,MiniBoo,18350,yoru,1.37,281.0,26.0,17.0,3.0,85.0,157.0,33.0,7.0,2.0,3,True
+594764,244382,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Pearl,2,Team Liquid,ULF Esports,14,12,wayne,24628,brimstone,1.35,216.0,20.0,14.0,16.0,92.0,129.0,35.0,1.0,0.0,3,True
+594764,244382,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Pearl,2,Team Liquid,ULF Esports,14,12,kamo,14681,fade,1.23,229.0,21.0,16.0,13.0,77.0,153.0,41.0,1.0,3.0,3,True
+594764,244382,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Pearl,2,Team Liquid,ULF Esports,14,12,purp0,1885,waylay,0.86,132.0,14.0,16.0,4.0,85.0,85.0,57.0,6.0,2.0,3,True
+594764,244382,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Pearl,2,Team Liquid,ULF Esports,14,12,nAts,457,killjoy,0.83,182.0,15.0,19.0,5.0,73.0,129.0,27.0,3.0,1.0,3,True
+594764,244382,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Pearl,2,ULF Esports,Team Liquid,12,14,d3mur,16447,neon,0.99,216.0,21.0,19.0,4.0,62.0,132.0,29.0,3.0,3.0,3,True
+594764,244382,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Pearl,2,ULF Esports,Team Liquid,12,14,nekky,12670,sova,0.95,205.0,18.0,19.0,4.0,69.0,138.0,30.0,0.0,1.0,3,True
+594764,244382,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Pearl,2,ULF Esports,Team Liquid,12,14,audaz,40843,astra,0.86,149.0,13.0,17.0,8.0,65.0,94.0,30.0,0.0,2.0,3,True
+594764,244382,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Pearl,2,ULF Esports,Team Liquid,12,14,Favian,41720,kayo,0.79,183.0,15.0,21.0,12.0,65.0,118.0,27.0,1.0,5.0,3,True
+594764,244382,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Pearl,2,ULF Esports,Team Liquid,12,14,sturNN,12226,chamber,0.66,154.0,15.0,21.0,3.0,58.0,93.0,16.0,4.0,7.0,3,True
+594764,252724,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Breeze,3,Team Liquid,ULF Esports,13,5,wayne,24628,omen,1.75,274.0,20.0,8.0,1.0,78.0,204.0,50.0,1.0,1.0,3,True
+594764,252724,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Breeze,3,Team Liquid,ULF Esports,13,5,kamo,14681,yoru,1.69,335.0,22.0,11.0,3.0,83.0,227.0,39.0,6.0,2.0,3,True
+594764,252724,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Breeze,3,Team Liquid,ULF Esports,13,5,MiniBoo,18350,neon,1.0,146.0,10.0,11.0,4.0,94.0,101.0,22.0,0.0,0.0,3,True
+594764,252724,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Breeze,3,Team Liquid,ULF Esports,13,5,purp0,1885,sova,0.85,134.0,9.0,10.0,4.0,72.0,81.0,44.0,2.0,0.0,3,True
+594764,252724,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Breeze,3,Team Liquid,ULF Esports,13,5,nAts,457,viper,0.63,158.0,10.0,12.0,3.0,67.0,111.0,19.0,2.0,4.0,3,True
+594764,252724,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Breeze,3,ULF Esports,Team Liquid,5,13,sturNN,12226,viper,1.09,216.0,14.0,13.0,6.0,72.0,134.0,24.0,0.0,3.0,3,True
+594764,252724,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Breeze,3,ULF Esports,Team Liquid,5,13,d3mur,16447,neon,0.96,207.0,13.0,13.0,2.0,67.0,124.0,26.0,1.0,2.0,3,True
+594764,252724,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Breeze,3,ULF Esports,Team Liquid,5,13,nekky,12670,sova,0.68,130.0,7.0,14.0,6.0,61.0,99.0,28.0,1.0,1.0,3,True
+594764,252724,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Breeze,3,ULF Esports,Team Liquid,5,13,Favian,41720,waylay,0.59,185.0,12.0,17.0,2.0,61.0,100.0,27.0,4.0,4.0,3,True
+594764,252724,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 2,2026-02-05,Breeze,3,ULF Esports,Team Liquid,5,13,audaz,40843,astra,0.45,84.0,6.0,14.0,0.0,56.0,59.0,36.0,1.0,1.0,3,True
+594765,244383,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Haven,1,Natus Vincere,Team Heretics,5,13,Ruxic,18677,viper,1.4,263.0,16.0,13.0,6.0,67.0,191.0,32.0,1.0,4.0,3,True
+594765,244383,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Haven,1,Natus Vincere,Team Heretics,5,13,hiro,29867,killjoy,0.77,181.0,13.0,16.0,1.0,50.0,120.0,25.0,0.0,2.0,3,True
+594765,244383,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Haven,1,Natus Vincere,Team Heretics,5,13,Shao,384,sova,0.72,179.0,11.0,17.0,7.0,67.0,132.0,43.0,1.0,2.0,3,True
+594765,244383,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Haven,1,Natus Vincere,Team Heretics,5,13,sociablEE,5568,omen,0.42,129.0,7.0,16.0,5.0,44.0,84.0,35.0,0.0,3.0,3,True
+594765,244383,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Haven,1,Natus Vincere,Team Heretics,5,13,Filu,4544,yoru,0.31,127.0,7.0,17.0,1.0,50.0,85.0,47.0,1.0,4.0,3,True
+594765,244383,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Haven,1,Team Heretics,Natus Vincere,13,5,ComeBack,40591,neon,2.08,455.0,29.0,12.0,5.0,94.0,255.0,26.0,5.0,0.0,3,True
+594765,244383,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Haven,1,Team Heretics,Natus Vincere,13,5,benjyfishy,29873,cypher,1.59,277.0,19.0,9.0,3.0,83.0,177.0,45.0,3.0,0.0,3,True
+594765,244383,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Haven,1,Team Heretics,Natus Vincere,13,5,Wo0t,21328,yoru,1.06,165.0,12.0,9.0,9.0,89.0,98.0,31.0,2.0,2.0,3,True
+594765,244383,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Haven,1,Team Heretics,Natus Vincere,13,5,RieNs,10971,sova,0.95,178.0,11.0,11.0,6.0,72.0,117.0,32.0,4.0,1.0,3,True
+594765,244383,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Haven,1,Team Heretics,Natus Vincere,13,5,Boo,1144,omen,0.71,125.0,8.0,13.0,9.0,78.0,73.0,26.0,1.0,0.0,3,True
+594765,244384,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,2,Natus Vincere,Team Heretics,4,13,Ruxic,18677,viper,0.88,200.0,12.0,14.0,0.0,53.0,159.0,31.0,0.0,4.0,3,True
+594765,244384,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,2,Natus Vincere,Team Heretics,4,13,hiro,29867,sova,0.84,163.0,9.0,13.0,4.0,59.0,114.0,28.0,1.0,1.0,3,True
+594765,244384,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,2,Natus Vincere,Team Heretics,4,13,Filu,4544,neon,0.72,213.0,12.0,16.0,4.0,65.0,138.0,38.0,3.0,3.0,3,True
+594765,244384,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,2,Natus Vincere,Team Heretics,4,13,sociablEE,5568,yoru,0.54,128.0,8.0,16.0,0.0,41.0,80.0,18.0,1.0,2.0,3,True
+594765,244384,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,2,Natus Vincere,Team Heretics,4,13,Shao,384,astra,0.43,108.0,7.0,15.0,3.0,53.0,78.0,40.0,0.0,2.0,3,True
+594765,244384,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,2,Team Heretics,Natus Vincere,13,4,benjyfishy,29873,viper,1.81,296.0,19.0,8.0,5.0,94.0,220.0,45.0,1.0,0.0,3,True
+594765,244384,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,2,Team Heretics,Natus Vincere,13,4,Boo,1144,sage,1.3,147.0,11.0,5.0,3.0,88.0,95.0,32.0,2.0,0.0,3,True
+594765,244384,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,2,Team Heretics,Natus Vincere,13,4,Wo0t,21328,chamber,1.17,200.0,13.0,9.0,4.0,100.0,127.0,15.0,4.0,1.0,3,True
+594765,244384,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,2,Team Heretics,Natus Vincere,13,4,ComeBack,40591,neon,1.13,273.0,17.0,14.0,6.0,76.0,181.0,32.0,3.0,2.0,3,True
+594765,244384,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,2,Team Heretics,Natus Vincere,13,4,RieNs,10971,sova,1.06,225.0,14.0,12.0,5.0,82.0,161.0,46.0,2.0,2.0,3,True
+594766,244386,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,1,GIANTX,Team Liquid,4,13,grubinho,5550,omen,1.17,242.0,14.0,13.0,5.0,59.0,161.0,46.0,3.0,3.0,3,True
+594766,244386,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,1,GIANTX,Team Liquid,4,13,westside,34684,viper,1.01,181.0,11.0,11.0,3.0,59.0,119.0,42.0,1.0,1.0,3,True
+594766,244386,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,1,GIANTX,Team Liquid,4,13,Cloud,4181,sova,0.61,159.0,8.0,13.0,2.0,65.0,109.0,23.0,0.0,1.0,3,True
+594766,244386,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,1,GIANTX,Team Liquid,4,13,ara,11332,jett,0.36,89.0,5.0,14.0,2.0,47.0,60.0,6.0,0.0,2.0,3,True
+594766,244386,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,1,GIANTX,Team Liquid,4,13,Flickless,6959,kayo,0.3,68.0,4.0,14.0,2.0,41.0,40.0,40.0,0.0,6.0,3,True
+594766,244386,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,1,Team Liquid,GIANTX,13,4,MiniBoo,18350,neon,1.57,332.0,19.0,9.0,7.0,88.0,223.0,44.0,5.0,1.0,3,True
+594766,244386,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,1,Team Liquid,GIANTX,13,4,wayne,24628,omen,1.41,187.0,14.0,8.0,5.0,76.0,106.0,27.0,1.0,0.0,3,True
+594766,244386,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,1,Team Liquid,GIANTX,13,4,nAts,457,viper,1.33,220.0,12.0,8.0,9.0,88.0,167.0,41.0,2.0,1.0,3,True
+594766,244386,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,1,Team Liquid,GIANTX,13,4,purp0,1885,sova,1.19,172.0,11.0,7.0,6.0,94.0,107.0,22.0,1.0,0.0,3,True
+594766,244386,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Breeze,1,Team Liquid,GIANTX,13,4,kamo,14681,yoru,0.82,155.0,9.0,10.0,3.0,65.0,105.0,36.0,4.0,2.0,3,True
+594766,244387,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Pearl,2,GIANTX,Team Liquid,13,6,westside,34684,killjoy,1.35,270.0,19.0,13.0,6.0,84.0,178.0,32.0,6.0,2.0,3,True
+594766,244387,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Pearl,2,GIANTX,Team Liquid,13,6,ara,11332,neon,1.26,229.0,18.0,12.0,1.0,89.0,148.0,28.0,3.0,0.0,3,True
+594766,244387,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Pearl,2,GIANTX,Team Liquid,13,6,grubinho,5550,astra,1.23,237.0,17.0,13.0,6.0,84.0,159.0,28.0,2.0,0.0,3,True
+594766,244387,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Pearl,2,GIANTX,Team Liquid,13,6,Flickless,6959,kayo,1.18,206.0,13.0,11.0,10.0,89.0,122.0,21.0,2.0,1.0,3,True
+594766,244387,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Pearl,2,GIANTX,Team Liquid,13,6,Cloud,4181,sova,0.86,178.0,12.0,12.0,5.0,74.0,123.0,35.0,1.0,2.0,3,True
+594766,244387,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Pearl,2,Team Liquid,GIANTX,6,13,wayne,24628,brimstone,1.02,247.0,17.0,17.0,5.0,68.0,156.0,42.0,1.0,1.0,3,True
+594766,244387,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Pearl,2,Team Liquid,GIANTX,6,13,nAts,457,killjoy,1.02,212.0,13.0,14.0,4.0,74.0,162.0,19.0,1.0,3.0,3,True
+594766,244387,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Pearl,2,Team Liquid,GIANTX,6,13,kamo,14681,fade,0.76,173.0,12.0,16.0,6.0,79.0,112.0,23.0,1.0,2.0,3,True
+594766,244387,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Pearl,2,Team Liquid,GIANTX,6,13,MiniBoo,18350,yoru,0.7,152.0,9.0,17.0,6.0,79.0,110.0,29.0,2.0,2.0,3,True
+594766,244387,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Pearl,2,Team Liquid,GIANTX,6,13,purp0,1885,waylay,0.62,117.0,10.0,15.0,2.0,58.0,77.0,47.0,0.0,6.0,3,True
+594766,244388,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Bind,3,GIANTX,Team Liquid,14,16,Cloud,4181,skye,1.2,206.0,19.0,18.0,10.0,80.0,143.0,27.0,0.0,1.0,3,True
+594766,244388,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Bind,3,GIANTX,Team Liquid,14,16,westside,34684,sage,1.12,249.0,26.0,22.0,6.0,73.0,168.0,37.0,5.0,3.0,3,True
+594766,244388,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Bind,3,GIANTX,Team Liquid,14,16,grubinho,5550,brimstone,0.9,189.0,19.0,22.0,8.0,63.0,118.0,35.0,2.0,4.0,3,True
+594766,244388,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Bind,3,GIANTX,Team Liquid,14,16,ara,11332,raze,0.86,168.0,18.0,19.0,2.0,70.0,107.0,37.0,3.0,6.0,3,True
+594766,244388,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Bind,3,GIANTX,Team Liquid,14,16,Flickless,6959,viper,0.81,161.0,16.0,24.0,14.0,60.0,105.0,24.0,5.0,1.0,3,True
+594766,244388,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Bind,3,Team Liquid,GIANTX,16,14,MiniBoo,18350,waylay,1.29,250.0,26.0,19.0,5.0,67.0,166.0,33.0,6.0,5.0,3,True
+594766,244388,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Bind,3,Team Liquid,GIANTX,16,14,nAts,457,viper,1.26,246.0,25.0,18.0,8.0,70.0,176.0,22.0,2.0,3.0,3,True
+594766,244388,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Bind,3,Team Liquid,GIANTX,16,14,purp0,1885,skye,1.21,226.0,23.0,20.0,16.0,87.0,147.0,42.0,5.0,2.0,3,True
+594766,244388,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Bind,3,Team Liquid,GIANTX,16,14,wayne,24628,brimstone,0.99,203.0,19.0,21.0,17.0,83.0,131.0,33.0,0.0,1.0,3,True
+594766,244388,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 3,2026-02-06,Bind,3,Team Liquid,GIANTX,16,14,kamo,14681,gekko,0.59,106.0,12.0,20.0,4.0,63.0,74.0,22.0,2.0,4.0,3,True
+594767,244389,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Abyss,1,Team Heretics,Team Liquid,11,13,benjyfishy,29873,veto,1.09,246.0,23.0,19.0,2.0,58.0,166.0,49.0,5.0,1.0,3,True
+594767,244389,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Abyss,1,Team Heretics,Team Liquid,11,13,RieNs,10971,sova,1.06,193.0,17.0,16.0,3.0,67.0,130.0,56.0,1.0,2.0,3,True
+594767,244389,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Abyss,1,Team Heretics,Team Liquid,11,13,Boo,1144,astra,1.0,174.0,14.0,15.0,12.0,79.0,113.0,24.0,1.0,2.0,3,True
+594767,244389,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Abyss,1,Team Heretics,Team Liquid,11,13,Wo0t,21328,waylay,0.72,165.0,14.0,18.0,4.0,63.0,106.0,30.0,3.0,3.0,3,True
+594767,244389,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Abyss,1,Team Heretics,Team Liquid,11,13,ComeBack,40591,yoru,0.64,161.0,12.0,20.0,5.0,71.0,103.0,24.0,4.0,1.0,3,True
+594767,244389,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Abyss,1,Team Liquid,Team Heretics,13,11,kamo,14681,yoru,1.85,342.0,29.0,17.0,6.0,83.0,232.0,51.0,3.0,2.0,3,True
+594767,244389,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Abyss,1,Team Liquid,Team Heretics,13,11,nAts,457,cypher,0.93,170.0,15.0,15.0,3.0,83.0,120.0,30.0,1.0,2.0,3,True
+594767,244389,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Abyss,1,Team Liquid,Team Heretics,13,11,purp0,1885,sova,0.91,182.0,15.0,17.0,4.0,67.0,118.0,43.0,1.0,0.0,3,True
+594767,244389,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Abyss,1,Team Liquid,Team Heretics,13,11,MiniBoo,18350,waylay,0.75,208.0,17.0,18.0,4.0,75.0,143.0,39.0,3.0,6.0,3,True
+594767,244389,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Abyss,1,Team Liquid,Team Heretics,13,11,wayne,24628,omen,0.69,132.0,12.0,18.0,10.0,75.0,86.0,52.0,1.0,4.0,3,True
+594767,244390,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Bind,2,Team Heretics,Team Liquid,3,13,ComeBack,40591,waylay,0.78,127.0,8.0,12.0,0.0,50.0,74.0,47.0,3.0,2.0,3,True
+594767,244390,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Bind,2,Team Heretics,Team Liquid,3,13,Wo0t,21328,fade,0.78,174.0,9.0,13.0,1.0,69.0,123.0,46.0,2.0,2.0,3,True
+594767,244390,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Bind,2,Team Heretics,Team Liquid,3,13,benjyfishy,29873,viper,0.63,171.0,8.0,15.0,4.0,63.0,107.0,26.0,2.0,2.0,3,True
+594767,244390,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Bind,2,Team Heretics,Team Liquid,3,13,Boo,1144,brimstone,0.57,124.0,6.0,13.0,4.0,44.0,90.0,44.0,0.0,1.0,3,True
+594767,244390,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Bind,2,Team Heretics,Team Liquid,3,13,RieNs,10971,gekko,0.53,153.0,8.0,15.0,5.0,63.0,109.0,30.0,1.0,1.0,3,True
+594767,244390,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Bind,2,Team Liquid,Team Heretics,13,3,MiniBoo,18350,neon,1.94,360.0,22.0,7.0,6.0,100.0,233.0,32.0,2.0,0.0,3,True
+594767,244390,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Bind,2,Team Liquid,Team Heretics,13,3,nAts,457,viper,1.71,346.0,21.0,9.0,3.0,94.0,235.0,26.0,2.0,1.0,3,True
+594767,244390,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Bind,2,Team Liquid,Team Heretics,13,3,wayne,24628,brimstone,1.09,145.0,7.0,5.0,8.0,94.0,107.0,39.0,2.0,1.0,3,True
+594767,244390,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Bind,2,Team Liquid,Team Heretics,13,3,purp0,1885,skye,0.99,104.0,6.0,5.0,6.0,94.0,87.0,35.0,0.0,1.0,3,True
+594767,244390,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 4,2026-02-12,Bind,2,Team Liquid,Team Heretics,13,3,kamo,14681,waylay,0.78,204.0,12.0,13.0,7.0,88.0,135.0,33.0,2.0,5.0,3,True
+594759,244363,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Abyss,1,FNATIC,Team Vitality,13,5,crashies,4,sova,1.48,261.0,18.0,10.0,5.0,72.0,174.0,33.0,1.0,0.0,3,True
+594759,244363,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Abyss,1,FNATIC,Team Vitality,13,5,Veqaj,12928,kayo,1.47,200.0,14.0,8.0,11.0,83.0,132.0,40.0,2.0,2.0,3,True
+594759,244363,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Abyss,1,FNATIC,Team Vitality,13,5,Alfajer,9810,vyse,1.12,209.0,12.0,10.0,8.0,89.0,146.0,37.0,3.0,0.0,3,True
+594759,244363,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Abyss,1,FNATIC,Team Vitality,13,5,kaajak,9554,jett,1.01,239.0,15.0,13.0,2.0,72.0,148.0,21.0,6.0,2.0,3,True
+594759,244363,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Abyss,1,FNATIC,Team Vitality,13,5,Boaster,438,astra,0.78,118.0,9.0,11.0,6.0,67.0,70.0,41.0,0.0,2.0,3,True
+594759,244363,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Abyss,1,Team Vitality,FNATIC,5,13,Derke,5022,waylay,1.12,256.0,15.0,16.0,7.0,78.0,172.0,32.0,1.0,2.0,3,True
+594759,244363,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Abyss,1,Team Vitality,FNATIC,5,13,UNFAKE,4521,sova,0.85,137.0,9.0,13.0,1.0,72.0,90.0,35.0,0.0,0.0,3,True
+594759,244363,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Abyss,1,Team Vitality,FNATIC,5,13,Jamppi,9780,yoru,0.83,152.0,11.0,12.0,0.0,50.0,90.0,62.0,2.0,5.0,3,True
+594759,244363,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Abyss,1,Team Vitality,FNATIC,5,13,Chronicle,458,veto,0.65,169.0,9.0,14.0,4.0,56.0,115.0,15.0,2.0,4.0,3,True
+594759,244363,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Abyss,1,Team Vitality,FNATIC,5,13,PROFEK,5554,astra,0.54,126.0,8.0,15.0,3.0,78.0,86.0,48.0,1.0,1.0,3,True
+594759,244364,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Bind,2,FNATIC,Team Vitality,13,8,Alfajer,9810,raze,1.84,358.0,28.0,11.0,5.0,95.0,238.0,30.0,4.0,1.0,3,True
+594759,244364,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Bind,2,FNATIC,Team Vitality,13,8,Veqaj,12928,viper,1.42,282.0,22.0,11.0,4.0,71.0,171.0,26.0,1.0,2.0,3,True
+594759,244364,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Bind,2,FNATIC,Team Vitality,13,8,kaajak,9554,yoru,1.13,233.0,18.0,13.0,5.0,86.0,141.0,35.0,5.0,3.0,3,True
+594759,244364,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Bind,2,FNATIC,Team Vitality,13,8,crashies,4,fade,0.74,110.0,8.0,11.0,2.0,57.0,76.0,22.0,1.0,2.0,3,True
+594759,244364,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Bind,2,FNATIC,Team Vitality,13,8,Boaster,438,brimstone,0.65,97.0,6.0,11.0,12.0,86.0,55.0,15.0,0.0,2.0,3,True
+594759,244364,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Bind,2,Team Vitality,FNATIC,8,13,PROFEK,5554,brimstone,1.23,224.0,17.0,14.0,5.0,67.0,148.0,32.0,0.0,1.0,3,True
+594759,244364,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Bind,2,Team Vitality,FNATIC,8,13,Derke,5022,raze,1.12,216.0,15.0,15.0,5.0,62.0,134.0,21.0,3.0,7.0,3,True
+594759,244364,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Bind,2,Team Vitality,FNATIC,8,13,Chronicle,458,viper,0.92,177.0,12.0,14.0,6.0,67.0,121.0,29.0,3.0,1.0,3,True
+594759,244364,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Bind,2,Team Vitality,FNATIC,8,13,UNFAKE,4521,skye,0.39,111.0,8.0,19.0,3.0,52.0,76.0,35.0,4.0,1.0,3,True
+594759,244364,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Round 4,2026-02-13,Bind,2,Team Vitality,FNATIC,8,13,Jamppi,9780,tejo,0.19,76.0,5.0,20.0,2.0,52.0,66.0,26.0,0.0,1.0,3,True
+594750,244334,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Haven,1,Gentle Mates,BBL Esports,13,11,marteen,10307,yoru,1.44,266.0,23.0,15.0,7.0,75.0,173.0,37.0,1.0,2.0,5,True
+594750,244334,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Haven,1,Gentle Mates,BBL Esports,13,11,bipo,18400,neon,1.09,217.0,19.0,19.0,8.0,71.0,144.0,35.0,4.0,4.0,5,True
+594750,244334,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Haven,1,Gentle Mates,BBL Esports,13,11,GLYPH,8286,astra,1.02,191.0,16.0,16.0,7.0,71.0,120.0,16.0,5.0,2.0,5,True
+594750,244334,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Haven,1,Gentle Mates,BBL Esports,13,11,starxo,565,sova,0.75,121.0,10.0,16.0,4.0,58.0,89.0,43.0,0.0,2.0,5,True
+594750,244334,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Haven,1,Gentle Mates,BBL Esports,13,11,Minny,23169,cypher,0.73,182.0,16.0,22.0,5.0,67.0,132.0,37.0,3.0,1.0,5,True
+594750,244334,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Haven,1,BBL Esports,Gentle Mates,11,13,Loita,24344,omen,1.23,222.0,19.0,14.0,9.0,79.0,153.0,36.0,0.0,0.0,5,True
+594750,244334,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Haven,1,BBL Esports,Gentle Mates,11,13,Lar0k,31305,neon,1.12,223.0,20.0,17.0,7.0,83.0,127.0,41.0,5.0,4.0,5,True
+594750,244334,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Haven,1,BBL Esports,Gentle Mates,11,13,Crewen,12795,cypher,1.1,217.0,19.0,17.0,8.0,67.0,133.0,36.0,2.0,2.0,5,True
+594750,244334,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Haven,1,BBL Esports,Gentle Mates,11,13,lovers rock,40935,yoru,0.77,178.0,15.0,18.0,4.0,71.0,129.0,17.0,2.0,4.0,5,True
+594750,244334,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Haven,1,BBL Esports,Gentle Mates,11,13,Rosé,5565,sova,0.7,165.0,15.0,18.0,4.0,67.0,113.0,18.0,2.0,3.0,5,True
+594750,244335,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Abyss,2,Gentle Mates,BBL Esports,13,15,marteen,10307,yoru,1.74,363.0,39.0,18.0,3.0,86.0,221.0,28.0,10.0,3.0,5,True
+594750,244335,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Abyss,2,Gentle Mates,BBL Esports,13,15,bipo,18400,waylay,0.97,173.0,19.0,15.0,6.0,71.0,123.0,26.0,1.0,4.0,5,True
+594750,244335,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Abyss,2,Gentle Mates,BBL Esports,13,15,Minny,23169,brimstone,0.93,185.0,19.0,19.0,8.0,79.0,127.0,50.0,1.0,1.0,5,True
+594750,244335,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Abyss,2,Gentle Mates,BBL Esports,13,15,GLYPH,8286,astra,0.68,119.0,12.0,17.0,9.0,68.0,91.0,23.0,2.0,3.0,5,True
+594750,244335,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Abyss,2,Gentle Mates,BBL Esports,13,15,starxo,565,sova,0.64,150.0,14.0,20.0,7.0,61.0,103.0,17.0,1.0,2.0,5,True
+594750,244335,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Abyss,2,BBL Esports,Gentle Mates,15,13,Loita,24344,omen,1.39,244.0,23.0,17.0,10.0,75.0,169.0,46.0,3.0,1.0,5,True
+594750,244335,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Abyss,2,BBL Esports,Gentle Mates,15,13,Rosé,5565,sova,1.15,205.0,20.0,18.0,9.0,68.0,142.0,27.0,0.0,1.0,5,True
+594750,244335,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Abyss,2,BBL Esports,Gentle Mates,15,13,lovers rock,40935,yoru,1.04,218.0,21.0,23.0,5.0,61.0,143.0,21.0,5.0,3.0,5,True
+594750,244335,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Abyss,2,BBL Esports,Gentle Mates,15,13,Lar0k,31305,waylay,0.82,175.0,17.0,22.0,3.0,64.0,108.0,40.0,4.0,5.0,5,True
+594750,244335,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Abyss,2,BBL Esports,Gentle Mates,15,13,Crewen,12795,cypher,0.27,84.0,8.0,24.0,1.0,39.0,61.0,50.0,1.0,5.0,5,True
+594750,244336,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Pearl,3,Gentle Mates,BBL Esports,14,16,Minny,23169,cypher,1.1,208.0,23.0,21.0,3.0,73.0,137.0,32.0,3.0,8.0,5,True
+594750,244336,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Pearl,3,Gentle Mates,BBL Esports,14,16,marteen,10307,yoru,1.09,241.0,23.0,22.0,9.0,63.0,162.0,21.0,2.0,3.0,5,True
+594750,244336,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Pearl,3,Gentle Mates,BBL Esports,14,16,bipo,18400,neon,0.98,209.0,23.0,21.0,3.0,77.0,132.0,27.0,3.0,6.0,5,True
+594750,244336,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Pearl,3,Gentle Mates,BBL Esports,14,16,GLYPH,8286,astra,0.91,153.0,16.0,21.0,13.0,80.0,97.0,25.0,1.0,1.0,5,True
+594750,244336,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Pearl,3,Gentle Mates,BBL Esports,14,16,starxo,565,fade,0.82,192.0,18.0,23.0,6.0,63.0,126.0,23.0,3.0,0.0,5,True
+594750,244336,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Pearl,3,BBL Esports,Gentle Mates,16,14,lovers rock,40935,yoru,1.4,259.0,31.0,17.0,5.0,83.0,161.0,12.0,5.0,2.0,5,True
+594750,244336,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Pearl,3,BBL Esports,Gentle Mates,16,14,Crewen,12795,cypher,1.25,239.0,28.0,20.0,6.0,73.0,134.0,24.0,4.0,0.0,5,True
+594750,244336,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Pearl,3,BBL Esports,Gentle Mates,16,14,Loita,24344,astra,0.89,151.0,16.0,20.0,14.0,67.0,94.0,45.0,2.0,6.0,5,True
+594750,244336,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Pearl,3,BBL Esports,Gentle Mates,16,14,Lar0k,31305,neon,0.86,196.0,18.0,21.0,15.0,80.0,129.0,24.0,4.0,3.0,5,True
+594750,244336,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Pearl,3,BBL Esports,Gentle Mates,16,14,Rosé,5565,sova,0.55,152.0,15.0,25.0,5.0,63.0,100.0,36.0,3.0,1.0,5,True
+594750,244337,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Split,4,Gentle Mates,BBL Esports,13,4,Minny,23169,viper,1.68,274.0,18.0,8.0,5.0,88.0,174.0,31.0,1.0,0.0,5,True
+594750,244337,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Split,4,Gentle Mates,BBL Esports,13,4,starxo,565,fade,1.39,227.0,15.0,8.0,5.0,76.0,149.0,36.0,4.0,0.0,5,True
+594750,244337,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Split,4,Gentle Mates,BBL Esports,13,4,bipo,18400,raze,1.07,217.0,16.0,10.0,3.0,76.0,135.0,21.0,2.0,2.0,5,True
+594750,244337,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Split,4,Gentle Mates,BBL Esports,13,4,marteen,10307,yoru,1.05,205.0,12.0,11.0,6.0,71.0,139.0,18.0,2.0,5.0,5,True
+594750,244337,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Split,4,Gentle Mates,BBL Esports,13,4,GLYPH,8286,astra,1.03,153.0,10.0,8.0,8.0,76.0,104.0,10.0,1.0,0.0,5,True
+594750,244337,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Split,4,BBL Esports,Gentle Mates,4,13,Lar0k,31305,raze,1.1,229.0,13.0,14.0,5.0,65.0,170.0,24.0,2.0,2.0,5,True
+594750,244337,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Split,4,BBL Esports,Gentle Mates,4,13,Rosé,5565,fade,0.68,151.0,9.0,14.0,1.0,53.0,96.0,12.0,2.0,1.0,5,True
+594750,244337,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Split,4,BBL Esports,Gentle Mates,4,13,Crewen,12795,viper,0.65,186.0,10.0,15.0,2.0,53.0,111.0,41.0,2.0,4.0,5,True
+594750,244337,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Split,4,BBL Esports,Gentle Mates,4,13,lovers rock,40935,yoru,0.64,140.0,8.0,14.0,2.0,41.0,79.0,13.0,0.0,2.0,5,True
+594750,244337,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Split,4,BBL Esports,Gentle Mates,4,13,Loita,24344,omen,0.57,115.0,5.0,14.0,4.0,47.0,82.0,33.0,1.0,1.0,5,True
+594750,244338,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Corrode,5,Gentle Mates,BBL Esports,6,13,GLYPH,8286,astra,1.1,195.0,13.0,12.0,4.0,58.0,122.0,21.0,0.0,1.0,5,True
+594750,244338,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Corrode,5,Gentle Mates,BBL Esports,6,13,bipo,18400,waylay,0.96,203.0,14.0,14.0,2.0,58.0,126.0,22.0,5.0,2.0,5,True
+594750,244338,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Corrode,5,Gentle Mates,BBL Esports,6,13,Minny,23169,viper,0.78,164.0,10.0,15.0,2.0,63.0,125.0,23.0,3.0,0.0,5,True
+594750,244338,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Corrode,5,Gentle Mates,BBL Esports,6,13,marteen,10307,yoru,0.77,158.0,9.0,15.0,6.0,63.0,109.0,33.0,2.0,4.0,5,True
+594750,244338,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Corrode,5,Gentle Mates,BBL Esports,6,13,starxo,565,fade,0.44,89.0,5.0,15.0,7.0,47.0,74.0,29.0,0.0,2.0,5,True
+594750,244338,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Corrode,5,BBL Esports,Gentle Mates,13,6,lovers rock,40935,yoru,1.78,324.0,23.0,9.0,3.0,89.0,201.0,18.0,2.0,2.0,5,True
+594750,244338,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Corrode,5,BBL Esports,Gentle Mates,13,6,Loita,24344,omen,1.17,201.0,15.0,12.0,10.0,74.0,126.0,35.0,1.0,3.0,5,True
+594750,244338,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Corrode,5,BBL Esports,Gentle Mates,13,6,Lar0k,31305,waylay,1.04,188.0,13.0,11.0,3.0,63.0,125.0,39.0,3.0,2.0,5,True
+594750,244338,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Corrode,5,BBL Esports,Gentle Mates,13,6,Rosé,5565,sova,0.98,156.0,11.0,9.0,6.0,79.0,112.0,28.0,0.0,0.0,5,True
+594750,244338,2684,VCT 2026: EMEA Kickoff,Main Event: Upper Final,2026-02-13,Corrode,5,BBL Esports,Gentle Mates,13,6,Crewen,12795,viper,0.88,150.0,9.0,10.0,4.0,63.0,96.0,35.0,3.0,3.0,5,True
+594768,244392,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Corrode,1,Team Vitality,Team Liquid,13,8,Derke,5022,phoenix,1.58,312.0,23.0,14.0,8.0,90.0,198.0,25.0,4.0,0.0,3,True
+594768,244392,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Corrode,1,Team Vitality,Team Liquid,13,8,Chronicle,458,chamber,1.24,214.0,17.0,11.0,3.0,86.0,142.0,23.0,2.0,2.0,3,True
+594768,244392,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Corrode,1,Team Vitality,Team Liquid,13,8,Jamppi,9780,yoru,0.93,193.0,15.0,12.0,4.0,76.0,105.0,30.0,3.0,1.0,3,True
+594768,244392,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Corrode,1,Team Vitality,Team Liquid,13,8,PROFEK,5554,astra,0.92,128.0,11.0,12.0,8.0,71.0,84.0,50.0,1.0,5.0,3,True
+594768,244392,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Corrode,1,Team Vitality,Team Liquid,13,8,UNFAKE,4521,sova,0.9,174.0,11.0,15.0,9.0,81.0,123.0,47.0,3.0,0.0,3,True
+594768,244392,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Corrode,1,Team Liquid,Team Vitality,8,13,kamo,14681,yoru,1.17,244.0,16.0,15.0,6.0,71.0,165.0,33.0,2.0,3.0,3,True
+594768,244392,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Corrode,1,Team Liquid,Team Vitality,8,13,MiniBoo,18350,waylay,1.07,257.0,17.0,18.0,6.0,81.0,157.0,29.0,3.0,5.0,3,True
+594768,244392,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Corrode,1,Team Liquid,Team Vitality,8,13,purp0,1885,fade,0.73,161.0,13.0,15.0,1.0,52.0,109.0,56.0,1.0,3.0,3,True
+594768,244392,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Corrode,1,Team Liquid,Team Vitality,8,13,wayne,24628,omen,0.71,117.0,9.0,14.0,6.0,67.0,77.0,45.0,0.0,1.0,3,True
+594768,244392,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Corrode,1,Team Liquid,Team Vitality,8,13,nAts,457,cypher,0.68,130.0,9.0,15.0,5.0,67.0,89.0,28.0,2.0,1.0,3,True
+594768,244393,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Bind,2,Team Vitality,Team Liquid,3,13,Jamppi,9780,tejo,1.11,242.0,14.0,15.0,3.0,69.0,160.0,32.0,3.0,0.0,3,True
+594768,244393,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Bind,2,Team Vitality,Team Liquid,3,13,Chronicle,458,viper,0.89,210.0,12.0,14.0,1.0,56.0,142.0,30.0,2.0,2.0,3,True
+594768,244393,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Bind,2,Team Vitality,Team Liquid,3,13,PROFEK,5554,brimstone,0.69,141.0,9.0,14.0,4.0,69.0,110.0,47.0,0.0,2.0,3,True
+594768,244393,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Bind,2,Team Vitality,Team Liquid,3,13,UNFAKE,4521,skye,0.42,101.0,5.0,15.0,4.0,63.0,71.0,33.0,0.0,1.0,3,True
+594768,244393,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Bind,2,Team Vitality,Team Liquid,3,13,Derke,5022,raze,0.42,136.0,5.0,15.0,6.0,44.0,100.0,17.0,0.0,6.0,3,True
+594768,244393,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Bind,2,Team Liquid,Team Vitality,13,3,nAts,457,viper,1.58,277.0,18.0,7.0,3.0,94.0,186.0,29.0,2.0,0.0,3,True
+594768,244393,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Bind,2,Team Liquid,Team Vitality,13,3,wayne,24628,brimstone,1.44,313.0,18.0,10.0,13.0,94.0,201.0,28.0,2.0,0.0,3,True
+594768,244393,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Bind,2,Team Liquid,Team Vitality,13,3,MiniBoo,18350,neon,1.41,306.0,20.0,11.0,0.0,94.0,181.0,34.0,2.0,2.0,3,True
+594768,244393,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Bind,2,Team Liquid,Team Vitality,13,3,purp0,1885,skye,1.07,125.0,7.0,7.0,10.0,75.0,67.0,50.0,1.0,0.0,3,True
+594768,244393,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Bind,2,Team Liquid,Team Vitality,13,3,kamo,14681,waylay,0.84,167.0,10.0,10.0,5.0,88.0,101.0,50.0,4.0,3.0,3,True
+594768,244394,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Breeze,3,Team Vitality,Team Liquid,9,13,Jamppi,9780,yoru,1.5,303.0,25.0,16.0,5.0,86.0,176.0,39.0,5.0,2.0,3,True
+594768,244394,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Breeze,3,Team Vitality,Team Liquid,9,13,Chronicle,458,viper,1.27,217.0,18.0,15.0,3.0,73.0,154.0,30.0,3.0,1.0,3,True
+594768,244394,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Breeze,3,Team Vitality,Team Liquid,9,13,Derke,5022,jett,1.18,257.0,18.0,16.0,7.0,91.0,169.0,23.0,5.0,3.0,3,True
+594768,244394,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Breeze,3,Team Vitality,Team Liquid,9,13,PROFEK,5554,omen,0.75,172.0,13.0,16.0,5.0,68.0,119.0,44.0,0.0,1.0,3,True
+594768,244394,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Breeze,3,Team Vitality,Team Liquid,9,13,UNFAKE,4521,sova,0.38,89.0,6.0,17.0,7.0,59.0,65.0,44.0,0.0,2.0,3,True
+594768,244394,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Breeze,3,Team Liquid,Team Vitality,13,9,nAts,457,viper,1.32,262.0,22.0,15.0,5.0,73.0,184.0,31.0,2.0,4.0,3,True
+594768,244394,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Breeze,3,Team Liquid,Team Vitality,13,9,kamo,14681,yoru,1.04,210.0,16.0,15.0,5.0,77.0,129.0,33.0,4.0,2.0,3,True
+594768,244394,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Breeze,3,Team Liquid,Team Vitality,13,9,purp0,1885,sova,1.0,159.0,14.0,14.0,4.0,64.0,111.0,52.0,0.0,0.0,3,True
+594768,244394,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Breeze,3,Team Liquid,Team Vitality,13,9,wayne,24628,omen,0.93,185.0,15.0,17.0,7.0,73.0,128.0,30.0,0.0,2.0,3,True
+594768,244394,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Round 5,2026-02-14,Breeze,3,Team Liquid,Team Vitality,13,9,MiniBoo,18350,neon,0.62,171.0,13.0,19.0,7.0,59.0,117.0,36.0,3.0,5.0,3,True
+594760,244366,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Abyss,1,Gentle Mates,FNATIC,10,13,bipo,18400,waylay,1.27,281.0,23.0,17.0,5.0,70.0,175.0,30.0,4.0,1.0,5,True
+594760,244366,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Abyss,1,Gentle Mates,FNATIC,10,13,marteen,10307,yoru,1.1,235.0,19.0,17.0,7.0,96.0,147.0,37.0,5.0,3.0,5,True
+594760,244366,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Abyss,1,Gentle Mates,FNATIC,10,13,Minny,23169,brimstone,0.77,161.0,14.0,18.0,3.0,48.0,109.0,39.0,2.0,4.0,5,True
+594760,244366,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Abyss,1,Gentle Mates,FNATIC,10,13,starxo,565,sova,0.74,156.0,11.0,17.0,1.0,61.0,114.0,25.0,2.0,0.0,5,True
+594760,244366,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Abyss,1,Gentle Mates,FNATIC,10,13,GLYPH,8286,astra,0.62,123.0,10.0,16.0,5.0,65.0,86.0,9.0,1.0,1.0,5,True
+594760,244366,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Abyss,1,FNATIC,Gentle Mates,13,10,Veqaj,12928,kayo,1.86,305.0,26.0,13.0,17.0,87.0,183.0,30.0,0.0,1.0,5,True
+594760,244366,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Abyss,1,FNATIC,Gentle Mates,13,10,kaajak,9554,jett,1.15,241.0,21.0,15.0,2.0,61.0,148.0,31.0,5.0,7.0,5,True
+594760,244366,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Abyss,1,FNATIC,Gentle Mates,13,10,crashies,4,sova,0.98,217.0,18.0,16.0,6.0,74.0,144.0,30.0,0.0,2.0,5,True
+594760,244366,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Abyss,1,FNATIC,Gentle Mates,13,10,Boaster,438,astra,0.8,107.0,8.0,15.0,7.0,70.0,75.0,38.0,2.0,2.0,5,True
+594760,244366,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Abyss,1,FNATIC,Gentle Mates,13,10,Alfajer,9810,vyse,0.61,158.0,12.0,18.0,2.0,61.0,106.0,30.0,2.0,2.0,5,True
+594760,244367,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Corrode,2,Gentle Mates,FNATIC,14,16,marteen,10307,yoru,1.49,316.0,33.0,20.0,6.0,73.0,204.0,28.0,6.0,5.0,5,True
+594760,244367,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Corrode,2,Gentle Mates,FNATIC,14,16,Minny,23169,viper,1.22,263.0,27.0,21.0,6.0,77.0,159.0,38.0,6.0,3.0,5,True
+594760,244367,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Corrode,2,Gentle Mates,FNATIC,14,16,GLYPH,8286,astra,0.8,152.0,16.0,19.0,11.0,73.0,97.0,24.0,2.0,0.0,5,True
+594760,244367,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Corrode,2,Gentle Mates,FNATIC,14,16,bipo,18400,waylay,0.76,178.0,20.0,24.0,4.0,67.0,116.0,32.0,0.0,1.0,5,True
+594760,244367,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Corrode,2,Gentle Mates,FNATIC,14,16,starxo,565,fade,0.52,133.0,14.0,24.0,4.0,53.0,84.0,28.0,1.0,6.0,5,True
+594760,244367,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Corrode,2,FNATIC,Gentle Mates,16,14,Alfajer,9810,vyse,1.38,271.0,31.0,21.0,6.0,73.0,180.0,47.0,4.0,3.0,5,True
+594760,244367,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Corrode,2,FNATIC,Gentle Mates,16,14,crashies,4,sova,0.99,163.0,17.0,20.0,10.0,60.0,104.0,27.0,2.0,2.0,5,True
+594760,244367,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Corrode,2,FNATIC,Gentle Mates,16,14,Boaster,438,astra,0.94,191.0,18.0,21.0,13.0,70.0,127.0,33.0,4.0,3.0,5,True
+594760,244367,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Corrode,2,FNATIC,Gentle Mates,16,14,kaajak,9554,waylay,0.93,205.0,23.0,23.0,2.0,63.0,143.0,33.0,5.0,5.0,5,True
+594760,244367,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Corrode,2,FNATIC,Gentle Mates,16,14,Veqaj,12928,kayo,0.78,196.0,19.0,25.0,14.0,67.0,139.0,33.0,0.0,2.0,5,True
+594760,244368,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Split,3,Gentle Mates,FNATIC,13,6,marteen,10307,yoru,2.28,399.0,28.0,9.0,5.0,89.0,253.0,41.0,4.0,0.0,5,True
+594760,244368,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Split,3,Gentle Mates,FNATIC,13,6,starxo,565,fade,0.93,140.0,9.0,10.0,4.0,74.0,87.0,20.0,0.0,1.0,5,True
+594760,244368,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Split,3,Gentle Mates,FNATIC,13,6,Minny,23169,viper,0.85,160.0,11.0,13.0,3.0,63.0,110.0,41.0,0.0,3.0,5,True
+594760,244368,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Split,3,Gentle Mates,FNATIC,13,6,bipo,18400,raze,0.73,163.0,11.0,13.0,2.0,63.0,100.0,16.0,0.0,5.0,5,True
+594760,244368,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Split,3,Gentle Mates,FNATIC,13,6,GLYPH,8286,astra,0.67,123.0,8.0,13.0,6.0,63.0,79.0,20.0,3.0,3.0,5,True
+594760,244368,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Split,3,FNATIC,Gentle Mates,6,13,Alfajer,9810,raze,1.25,249.0,16.0,13.0,1.0,68.0,153.0,27.0,5.0,1.0,5,True
+594760,244368,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Split,3,FNATIC,Gentle Mates,6,13,crashies,4,fade,0.95,233.0,15.0,15.0,4.0,84.0,167.0,42.0,1.0,0.0,5,True
+594760,244368,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Split,3,FNATIC,Gentle Mates,6,13,Veqaj,12928,viper,0.88,200.0,14.0,14.0,2.0,68.0,141.0,46.0,4.0,2.0,5,True
+594760,244368,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Split,3,FNATIC,Gentle Mates,6,13,kaajak,9554,yoru,0.8,146.0,10.0,12.0,2.0,58.0,85.0,25.0,2.0,3.0,5,True
+594760,244368,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Split,3,FNATIC,Gentle Mates,6,13,Boaster,438,astra,0.36,58.0,3.0,13.0,2.0,47.0,45.0,6.0,0.0,1.0,5,True
+594760,244369,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Bind,4,Gentle Mates,FNATIC,14,12,marteen,10307,yoru,1.2,249.0,23.0,18.0,5.0,69.0,141.0,32.0,3.0,2.0,5,True
+594760,244369,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Bind,4,Gentle Mates,FNATIC,14,12,bipo,18400,waylay,1.08,228.0,22.0,18.0,3.0,62.0,150.0,23.0,3.0,5.0,5,True
+594760,244369,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Bind,4,Gentle Mates,FNATIC,14,12,starxo,565,fade,1.03,182.0,17.0,17.0,12.0,58.0,104.0,22.0,4.0,2.0,5,True
+594760,244369,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Bind,4,Gentle Mates,FNATIC,14,12,Minny,23169,viper,1.0,182.0,17.0,17.0,2.0,85.0,121.0,44.0,3.0,1.0,5,True
+594760,244369,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Bind,4,Gentle Mates,FNATIC,14,12,GLYPH,8286,astra,0.88,181.0,16.0,19.0,8.0,73.0,114.0,23.0,1.0,2.0,5,True
+594760,244369,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Bind,4,FNATIC,Gentle Mates,12,14,Boaster,438,brimstone,1.13,196.0,19.0,16.0,8.0,81.0,122.0,34.0,1.0,1.0,5,True
+594760,244369,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Bind,4,FNATIC,Gentle Mates,12,14,Veqaj,12928,viper,0.95,251.0,22.0,23.0,5.0,65.0,180.0,48.0,4.0,3.0,5,True
+594760,244369,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Bind,4,FNATIC,Gentle Mates,12,14,kaajak,9554,yoru,0.85,200.0,19.0,21.0,4.0,69.0,129.0,44.0,4.0,4.0,5,True
+594760,244369,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Bind,4,FNATIC,Gentle Mates,12,14,Alfajer,9810,raze,0.84,201.0,17.0,20.0,6.0,73.0,137.0,22.0,2.0,5.0,5,True
+594760,244369,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Bind,4,FNATIC,Gentle Mates,12,14,crashies,4,fade,0.7,114.0,12.0,15.0,2.0,62.0,82.0,38.0,1.0,1.0,5,True
+594760,244370,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Haven,5,Gentle Mates,FNATIC,14,12,Minny,23169,cypher,1.32,212.0,22.0,13.0,4.0,81.0,142.0,60.0,6.0,2.0,5,True
+594760,244370,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Haven,5,Gentle Mates,FNATIC,14,12,marteen,10307,yoru,1.18,248.0,23.0,19.0,5.0,88.0,163.0,37.0,5.0,2.0,5,True
+594760,244370,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Haven,5,Gentle Mates,FNATIC,14,12,starxo,565,sova,1.15,200.0,17.0,17.0,11.0,73.0,148.0,21.0,3.0,1.0,5,True
+594760,244370,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Haven,5,Gentle Mates,FNATIC,14,12,bipo,18400,neon,1.06,183.0,17.0,16.0,5.0,73.0,129.0,30.0,1.0,5.0,5,True
+594760,244370,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Haven,5,Gentle Mates,FNATIC,14,12,GLYPH,8286,astra,0.8,118.0,9.0,17.0,14.0,69.0,76.0,25.0,1.0,0.0,5,True
+594760,244370,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Haven,5,FNATIC,Gentle Mates,12,14,Veqaj,12928,viper,1.16,240.0,22.0,16.0,8.0,85.0,143.0,16.0,4.0,2.0,5,True
+594760,244370,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Haven,5,FNATIC,Gentle Mates,12,14,crashies,4,sova,1.16,218.0,22.0,18.0,6.0,77.0,156.0,41.0,1.0,2.0,5,True
+594760,244370,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Haven,5,FNATIC,Gentle Mates,12,14,Alfajer,9810,killjoy,1.08,218.0,20.0,17.0,5.0,77.0,149.0,35.0,2.0,2.0,5,True
+594760,244370,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Haven,5,FNATIC,Gentle Mates,12,14,kaajak,9554,yoru,0.6,121.0,11.0,18.0,5.0,54.0,99.0,30.0,1.0,8.0,5,True
+594760,244370,2684,VCT 2026: EMEA Kickoff,Main Event: Middle Final,2026-02-14,Haven,5,FNATIC,Gentle Mates,12,14,Boaster,438,omen,0.45,92.0,7.0,19.0,6.0,58.0,72.0,23.0,2.0,2.0,5,True
+594769,244395,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Corrode,1,FNATIC,Team Liquid,6,13,crashies,4,sova,1.04,193.0,13.0,12.0,2.0,84.0,106.0,26.0,0.0,0.0,5,True
+594769,244395,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Corrode,1,FNATIC,Team Liquid,6,13,Veqaj,12928,kayo,1.02,234.0,15.0,17.0,7.0,79.0,138.0,44.0,2.0,3.0,5,True
+594769,244395,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Corrode,1,FNATIC,Team Liquid,6,13,Alfajer,9810,vyse,1.0,225.0,15.0,15.0,2.0,63.0,147.0,65.0,3.0,2.0,5,True
+594769,244395,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Corrode,1,FNATIC,Team Liquid,6,13,kaajak,9554,waylay,0.56,132.0,8.0,15.0,3.0,53.0,84.0,32.0,3.0,2.0,5,True
+594769,244395,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Corrode,1,FNATIC,Team Liquid,6,13,Boaster,438,astra,0.5,142.0,8.0,16.0,5.0,53.0,104.0,23.0,1.0,3.0,5,True
+594769,244395,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Corrode,1,Team Liquid,FNATIC,13,6,nAts,457,brimstone,1.58,281.0,20.0,11.0,7.0,84.0,181.0,21.0,3.0,0.0,5,True
+594769,244395,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Corrode,1,Team Liquid,FNATIC,13,6,MiniBoo,18350,neon,1.31,254.0,18.0,11.0,4.0,79.0,160.0,21.0,3.0,2.0,5,True
+594769,244395,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Corrode,1,Team Liquid,FNATIC,13,6,wayne,24628,sage,1.24,212.0,15.0,10.0,8.0,84.0,132.0,34.0,2.0,2.0,5,True
+594769,244395,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Corrode,1,Team Liquid,FNATIC,13,6,purp0,1885,skye,1.13,211.0,14.0,12.0,5.0,79.0,129.0,41.0,2.0,0.0,5,True
+594769,244395,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Corrode,1,Team Liquid,FNATIC,13,6,kamo,14681,waylay,0.42,118.0,8.0,15.0,5.0,74.0,83.0,27.0,0.0,5.0,5,True
+594769,244396,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Bind,2,FNATIC,Team Liquid,10,13,Boaster,438,brimstone,1.13,173.0,13.0,14.0,11.0,74.0,115.0,28.0,0.0,1.0,5,True
+594769,244396,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Bind,2,FNATIC,Team Liquid,10,13,Alfajer,9810,raze,1.04,223.0,19.0,18.0,2.0,65.0,144.0,26.0,3.0,3.0,5,True
+594769,244396,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Bind,2,FNATIC,Team Liquid,10,13,kaajak,9554,yoru,0.96,214.0,17.0,18.0,2.0,61.0,146.0,36.0,4.0,0.0,5,True
+594769,244396,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Bind,2,FNATIC,Team Liquid,10,13,crashies,4,fade,0.78,156.0,12.0,18.0,9.0,74.0,103.0,20.0,3.0,2.0,5,True
+594769,244396,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Bind,2,FNATIC,Team Liquid,10,13,Veqaj,12928,viper,0.58,144.0,9.0,19.0,8.0,52.0,96.0,43.0,3.0,4.0,5,True
+594769,244396,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Bind,2,Team Liquid,FNATIC,13,10,kamo,14681,waylay,1.57,274.0,24.0,12.0,4.0,87.0,167.0,38.0,3.0,1.0,5,True
+594769,244396,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Bind,2,Team Liquid,FNATIC,13,10,nAts,457,viper,1.39,309.0,24.0,14.0,4.0,74.0,209.0,31.0,2.0,3.0,5,True
+594769,244396,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Bind,2,Team Liquid,FNATIC,13,10,MiniBoo,18350,neon,1.14,242.0,20.0,14.0,5.0,83.0,163.0,26.0,2.0,4.0,5,True
+594769,244396,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Bind,2,Team Liquid,FNATIC,13,10,purp0,1885,skye,0.74,92.0,8.0,12.0,8.0,65.0,54.0,35.0,1.0,3.0,5,True
+594769,244396,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Bind,2,Team Liquid,FNATIC,13,10,wayne,24628,brimstone,0.71,152.0,11.0,18.0,13.0,83.0,101.0,31.0,2.0,2.0,5,True
+594769,244397,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Abyss,3,FNATIC,Team Liquid,16,18,Alfajer,9810,vyse,1.22,283.0,34.0,25.0,5.0,76.0,190.0,44.0,3.0,0.0,5,True
+594769,244397,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Abyss,3,FNATIC,Team Liquid,16,18,kaajak,9554,jett,1.19,245.0,30.0,23.0,5.0,62.0,157.0,30.0,7.0,7.0,5,True
+594769,244397,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Abyss,3,FNATIC,Team Liquid,16,18,Veqaj,12928,kayo,1.03,175.0,20.0,22.0,24.0,74.0,120.0,44.0,2.0,4.0,5,True
+594769,244397,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Abyss,3,FNATIC,Team Liquid,16,18,crashies,4,sova,0.92,195.0,21.0,24.0,10.0,68.0,133.0,25.0,5.0,2.0,5,True
+594769,244397,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Abyss,3,FNATIC,Team Liquid,16,18,Boaster,438,astra,0.79,110.0,12.0,19.0,10.0,68.0,72.0,20.0,2.0,2.0,5,True
+594769,244397,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Abyss,3,Team Liquid,FNATIC,18,16,MiniBoo,18350,neon,1.16,271.0,31.0,27.0,6.0,65.0,177.0,26.0,5.0,2.0,5,True
+594769,244397,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Abyss,3,Team Liquid,FNATIC,18,16,nAts,457,cypher,1.11,203.0,25.0,22.0,4.0,59.0,139.0,23.0,1.0,5.0,5,True
+594769,244397,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Abyss,3,Team Liquid,FNATIC,18,16,wayne,24628,omen,1.0,177.0,22.0,22.0,9.0,65.0,111.0,29.0,3.0,3.0,5,True
+594769,244397,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Abyss,3,Team Liquid,FNATIC,18,16,kamo,14681,waylay,0.79,170.0,19.0,24.0,7.0,74.0,111.0,27.0,4.0,6.0,5,True
+594769,244397,2684,VCT 2026: EMEA Kickoff,Main Event: Lower Final,2026-02-15,Abyss,3,Team Liquid,FNATIC,18,16,purp0,1885,sova,0.79,128.0,16.0,22.0,3.0,65.0,84.0,54.0,2.0,3.0,5,True

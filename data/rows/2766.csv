@@ -1,0 +1,321 @@
+match_id,game_id,event_id,event,stage,date,map,map_order,team,opp,team_rounds,opp_rounds,player,player_id,agent,rating,acs,k,d,a,kast,adr,hs,fk,fd,best_of,completed
+753455,283184,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Ascent,1,Team Liquid,Paper Rex,4,13,trexx,2168,sova,0.89,241.0,12.0,15.0,5.0,53.0,160.0,24.0,1.0,2.0,3,True
+753455,283184,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Ascent,1,Team Liquid,Paper Rex,4,13,nAts,457,cypher,0.87,188.0,11.0,14.0,2.0,53.0,153.0,18.0,0.0,3.0,3,True
+753455,283184,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Ascent,1,Team Liquid,Paper Rex,4,13,Kicks,11134,omen,0.81,166.0,9.0,14.0,6.0,53.0,114.0,24.0,1.0,1.0,3,True
+753455,283184,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Ascent,1,Team Liquid,Paper Rex,4,13,GSR,50813,jett,0.68,162.0,9.0,15.0,1.0,65.0,124.0,18.0,1.0,2.0,3,True
+753455,283184,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Ascent,1,Team Liquid,Paper Rex,4,13,kamo,14681,phoenix,0.56,195.0,9.0,16.0,4.0,71.0,128.0,36.0,0.0,6.0,3,True
+753455,283184,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Ascent,1,Paper Rex,Team Liquid,13,4,something,17086,yoru,1.6,313.0,20.0,10.0,4.0,76.0,200.0,33.0,3.0,2.0,3,True
+753455,283184,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Ascent,1,Paper Rex,Team Liquid,13,4,d4v41,9803,chamber,1.24,179.0,12.0,8.0,3.0,94.0,116.0,18.0,6.0,1.0,3,True
+753455,283184,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Ascent,1,Paper Rex,Team Liquid,13,4,Jinggg,7378,sage,1.2,228.0,14.0,11.0,8.0,82.0,148.0,28.0,1.0,0.0,3,True
+753455,283184,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Ascent,1,Paper Rex,Team Liquid,13,4,f0rsakeN,9801,omen,1.16,251.0,16.0,13.0,4.0,71.0,172.0,32.0,2.0,0.0,3,True
+753455,283184,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Ascent,1,Paper Rex,Team Liquid,13,4,invy,8504,sova,1.08,179.0,12.0,8.0,1.0,71.0,126.0,36.0,2.0,0.0,3,True
+753455,283185,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Haven,2,Team Liquid,Paper Rex,13,7,kamo,14681,raze,1.53,315.0,22.0,13.0,4.0,75.0,206.0,22.0,3.0,3.0,3,True
+753455,283185,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Haven,2,Team Liquid,Paper Rex,13,7,Kicks,11134,harbor,1.2,164.0,12.0,11.0,9.0,85.0,121.0,29.0,2.0,0.0,3,True
+753455,283185,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Haven,2,Team Liquid,Paper Rex,13,7,GSR,50813,yoru,1.17,207.0,14.0,12.0,5.0,80.0,138.0,32.0,3.0,1.0,3,True
+753455,283185,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Haven,2,Team Liquid,Paper Rex,13,7,nAts,457,killjoy,1.04,210.0,15.0,11.0,2.0,65.0,133.0,22.0,2.0,4.0,3,True
+753455,283185,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Haven,2,Team Liquid,Paper Rex,13,7,trexx,2168,fade,0.88,172.0,12.0,13.0,7.0,80.0,142.0,31.0,1.0,1.0,3,True
+753455,283185,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Haven,2,Paper Rex,Team Liquid,7,13,something,17086,yoru,1.3,209.0,18.0,11.0,1.0,70.0,118.0,30.0,2.0,1.0,3,True
+753455,283185,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Haven,2,Paper Rex,Team Liquid,7,13,Jinggg,7378,phoenix,0.9,197.0,14.0,16.0,5.0,65.0,122.0,22.0,2.0,1.0,3,True
+753455,283185,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Haven,2,Paper Rex,Team Liquid,7,13,invy,8504,fade,0.83,186.0,10.0,15.0,14.0,65.0,125.0,25.0,1.0,0.0,3,True
+753455,283185,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Haven,2,Paper Rex,Team Liquid,7,13,f0rsakeN,9801,astra,0.51,141.0,9.0,17.0,8.0,65.0,86.0,21.0,2.0,4.0,3,True
+753455,283185,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Haven,2,Paper Rex,Team Liquid,7,13,d4v41,9803,chamber,0.47,130.0,9.0,16.0,3.0,55.0,81.0,17.0,2.0,5.0,3,True
+753455,283186,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,3,Team Liquid,Paper Rex,10,13,GSR,50813,yoru,1.25,261.0,21.0,17.0,4.0,70.0,168.0,35.0,2.0,2.0,3,True
+753455,283186,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,3,Team Liquid,Paper Rex,10,13,trexx,2168,fade,0.99,166.0,14.0,17.0,10.0,87.0,105.0,33.0,1.0,1.0,3,True
+753455,283186,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,3,Team Liquid,Paper Rex,10,13,nAts,457,cypher,0.92,159.0,14.0,16.0,2.0,61.0,106.0,25.0,0.0,4.0,3,True
+753455,283186,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,3,Team Liquid,Paper Rex,10,13,kamo,14681,raze,0.75,227.0,18.0,21.0,2.0,65.0,148.0,19.0,5.0,5.0,3,True
+753455,283186,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,3,Team Liquid,Paper Rex,10,13,Kicks,11134,omen,0.63,117.0,7.0,18.0,14.0,57.0,73.0,18.0,1.0,2.0,3,True
+753455,283186,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,3,Paper Rex,Team Liquid,13,10,d4v41,9803,vyse,1.4,277.0,25.0,12.0,1.0,78.0,170.0,36.0,2.0,0.0,3,True
+753455,283186,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,3,Paper Rex,Team Liquid,13,10,something,17086,yoru,1.29,225.0,20.0,12.0,3.0,78.0,140.0,34.0,1.0,3.0,3,True
+753455,283186,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,3,Paper Rex,Team Liquid,13,10,invy,8504,fade,1.18,248.0,19.0,16.0,11.0,78.0,154.0,32.0,4.0,1.0,3,True
+753455,283186,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,3,Paper Rex,Team Liquid,13,10,f0rsakeN,9801,omen,1.03,169.0,15.0,14.0,5.0,87.0,132.0,34.0,2.0,1.0,3,True
+753455,283186,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,3,Paper Rex,Team Liquid,13,10,Jinggg,7378,raze,0.5,155.0,10.0,20.0,6.0,74.0,109.0,15.0,5.0,4.0,3,True
+753454,283181,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,1,TYLOO,G2 Esports,6,13,SiuFatBB,7849,fade,1.01,161.0,13.0,12.0,2.0,63.0,101.0,27.0,2.0,3.0,3,True
+753454,283181,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,1,TYLOO,G2 Esports,6,13,slowly,41739,chamber,0.89,193.0,13.0,14.0,2.0,68.0,122.0,25.0,0.0,2.0,3,True
+753454,283181,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,1,TYLOO,G2 Esports,6,13,Erv,55085,omen,0.87,169.0,10.0,14.0,4.0,79.0,119.0,48.0,2.0,1.0,3,True
+753454,283181,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,1,TYLOO,G2 Esports,6,13,Scales,39485,viper,0.79,152.0,10.0,13.0,1.0,53.0,111.0,74.0,2.0,2.0,3,True
+753454,283181,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,1,TYLOO,G2 Esports,6,13,splash,36685,neon,0.66,176.0,11.0,16.0,2.0,63.0,109.0,42.0,2.0,3.0,3,True
+753454,283181,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,1,G2 Esports,TYLOO,13,6,trent,15500,skye,1.36,234.0,16.0,11.0,8.0,84.0,150.0,30.0,3.0,0.0,3,True
+753454,283181,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,1,G2 Esports,TYLOO,13,6,BABYBAY,2170,vyse,1.33,220.0,17.0,10.0,3.0,68.0,136.0,26.0,0.0,1.0,3,True
+753454,283181,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,1,G2 Esports,TYLOO,13,6,leaf,7873,viper,1.18,200.0,13.0,11.0,7.0,74.0,130.0,16.0,3.0,1.0,3,True
+753454,283181,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,1,G2 Esports,TYLOO,13,6,valyn,3885,omen,1.14,221.0,15.0,11.0,8.0,74.0,123.0,27.0,3.0,3.0,3,True
+753454,283181,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Lotus,1,G2 Esports,TYLOO,13,6,jawgemo,3993,raze,0.52,132.0,8.0,14.0,4.0,74.0,84.0,11.0,2.0,3.0,3,True
+753454,283182,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Sunset,2,TYLOO,G2 Esports,3,13,Scales,39485,sage,0.97,224.0,11.0,14.0,4.0,56.0,157.0,28.0,1.0,0.0,3,True
+753454,283182,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Sunset,2,TYLOO,G2 Esports,3,13,Erv,55085,omen,0.71,112.0,7.0,13.0,1.0,56.0,70.0,22.0,0.0,2.0,3,True
+753454,283182,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Sunset,2,TYLOO,G2 Esports,3,13,slowly,41739,chamber,0.62,192.0,10.0,16.0,0.0,44.0,124.0,23.0,2.0,4.0,3,True
+753454,283182,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Sunset,2,TYLOO,G2 Esports,3,13,splash,36685,neon,0.58,194.0,11.0,17.0,2.0,75.0,120.0,39.0,2.0,4.0,3,True
+753454,283182,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Sunset,2,TYLOO,G2 Esports,3,13,SiuFatBB,7849,fade,0.29,108.0,4.0,15.0,2.0,44.0,81.0,39.0,0.0,1.0,3,True
+753454,283182,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Sunset,2,G2 Esports,TYLOO,13,3,trent,15500,skye,2.01,350.0,22.0,6.0,12.0,100.0,202.0,33.0,1.0,0.0,3,True
+753454,283182,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Sunset,2,G2 Esports,TYLOO,13,3,jawgemo,3993,neon,1.5,320.0,19.0,10.0,7.0,88.0,239.0,17.0,1.0,1.0,3,True
+753454,283182,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Sunset,2,G2 Esports,TYLOO,13,3,valyn,3885,omen,1.3,252.0,15.0,10.0,5.0,88.0,175.0,31.0,3.0,1.0,3,True
+753454,283182,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Sunset,2,G2 Esports,TYLOO,13,3,leaf,7873,sage,1.12,196.0,11.0,10.0,5.0,88.0,120.0,20.0,2.0,0.0,3,True
+753454,283182,2766,Valorant Champions 2026,Group Stage: Opening (C),2026-09-24,Sunset,2,G2 Esports,TYLOO,13,3,BABYBAY,2170,chamber,0.94,144.0,8.0,7.0,2.0,75.0,99.0,46.0,4.0,3.0,3,True
+753460,283199,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Lotus,1,Nongshim RedForce,NRG,5,13,Xross,42772,fade,0.85,158.0,11.0,13.0,1.0,78.0,98.0,14.0,0.0,0.0,3,True
+753460,283199,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Lotus,1,Nongshim RedForce,NRG,5,13,Francis,31828,chamber,0.81,217.0,13.0,15.0,3.0,67.0,140.0,19.0,3.0,7.0,3,True
+753460,283199,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Lotus,1,Nongshim RedForce,NRG,5,13,Ivy,31829,viper,0.8,163.0,10.0,13.0,2.0,56.0,99.0,29.0,1.0,2.0,3,True
+753460,283199,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Lotus,1,Nongshim RedForce,NRG,5,13,Rb,488,omen,0.74,162.0,10.0,15.0,4.0,39.0,105.0,18.0,1.0,0.0,3,True
+753460,283199,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Lotus,1,Nongshim RedForce,NRG,5,13,Dambi,31827,neon,0.53,103.0,6.0,15.0,5.0,56.0,72.0,31.0,1.0,3.0,3,True
+753460,283199,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Lotus,1,NRG,Nongshim RedForce,13,5,mada,5132,raze,1.77,340.0,22.0,11.0,6.0,94.0,210.0,14.0,5.0,1.0,3,True
+753460,283199,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Lotus,1,NRG,Nongshim RedForce,13,5,brawk,2172,vyse,1.21,257.0,15.0,10.0,4.0,89.0,163.0,19.0,2.0,1.0,3,True
+753460,283199,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Lotus,1,NRG,Nongshim RedForce,13,5,skuba,11118,viper,1.1,175.0,12.0,9.0,3.0,78.0,123.0,25.0,0.0,1.0,3,True
+753460,283199,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Lotus,1,NRG,Nongshim RedForce,13,5,keiko,11494,omen,1.09,171.0,12.0,10.0,8.0,83.0,122.0,43.0,4.0,3.0,3,True
+753460,283199,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Lotus,1,NRG,Nongshim RedForce,13,5,Ethan,11225,fade,1.0,141.0,10.0,10.0,9.0,89.0,100.0,21.0,1.0,0.0,3,True
+753460,283200,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Split,2,Nongshim RedForce,NRG,10,13,Xross,42772,fade,1.03,212.0,16.0,16.0,7.0,74.0,158.0,25.0,1.0,1.0,3,True
+753460,283200,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Split,2,Nongshim RedForce,NRG,10,13,Francis,31828,yoru,0.87,164.0,13.0,15.0,4.0,65.0,115.0,18.0,2.0,3.0,3,True
+753460,283200,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Split,2,Nongshim RedForce,NRG,10,13,Rb,488,omen,0.86,136.0,13.0,14.0,4.0,78.0,85.0,42.0,0.0,3.0,3,True
+753460,283200,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Split,2,Nongshim RedForce,NRG,10,13,Dambi,31827,neon,0.66,170.0,12.0,19.0,8.0,61.0,111.0,19.0,5.0,4.0,3,True
+753460,283200,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Split,2,Nongshim RedForce,NRG,10,13,Ivy,31829,viper,0.5,134.0,11.0,18.0,2.0,52.0,91.0,18.0,3.0,1.0,3,True
+753460,283200,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Split,2,NRG,Nongshim RedForce,13,10,skuba,11118,viper,1.31,212.0,18.0,13.0,11.0,83.0,134.0,17.0,3.0,4.0,3,True
+753460,283200,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Split,2,NRG,Nongshim RedForce,13,10,keiko,11494,raze,1.3,238.0,20.0,14.0,2.0,78.0,139.0,13.0,2.0,3.0,3,True
+753460,283200,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Split,2,NRG,Nongshim RedForce,13,10,brawk,2172,fade,1.22,203.0,17.0,13.0,8.0,74.0,135.0,28.0,1.0,0.0,3,True
+753460,283200,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Split,2,NRG,Nongshim RedForce,13,10,Ethan,11225,omen,1.1,170.0,15.0,13.0,10.0,83.0,105.0,34.0,2.0,1.0,3,True
+753460,283200,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Split,2,NRG,Nongshim RedForce,13,10,mada,5132,neon,1.1,155.0,12.0,12.0,10.0,83.0,100.0,29.0,4.0,3.0,3,True
+753459,283196,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Sunset,1,Karmine Corp,Xi Lai Gaming,13,3,Avez,5654,fade,1.71,280.0,19.0,7.0,3.0,88.0,167.0,34.0,1.0,2.0,3,True
+753459,283196,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Sunset,1,Karmine Corp,Xi Lai Gaming,13,3,LewN,20144,neon,1.29,260.0,15.0,9.0,3.0,81.0,172.0,50.0,3.0,2.0,3,True
+753459,283196,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Sunset,1,Karmine Corp,Xi Lai Gaming,13,3,dos9,16215,omen,1.2,191.0,11.0,8.0,9.0,81.0,111.0,36.0,0.0,0.0,3,True
+753459,283196,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Sunset,1,Karmine Corp,Xi Lai Gaming,13,3,N4RRATE,36245,chamber,1.08,252.0,14.0,12.0,6.0,94.0,159.0,16.0,2.0,2.0,3,True
+753459,283196,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Sunset,1,Karmine Corp,Xi Lai Gaming,13,3,SUYGETSU,2858,viper,0.93,152.0,9.0,9.0,5.0,75.0,102.0,35.0,2.0,2.0,3,True
+753459,283196,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Sunset,1,Xi Lai Gaming,Karmine Corp,3,13,WsLeo,24308,fade,1.11,248.0,15.0,12.0,5.0,75.0,156.0,39.0,1.0,2.0,3,True
+753459,283196,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Sunset,1,Xi Lai Gaming,Karmine Corp,3,13,Rarga,22047,yoru,1.07,244.0,13.0,14.0,1.0,69.0,138.0,45.0,3.0,1.0,3,True
+753459,283196,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Sunset,1,Xi Lai Gaming,Karmine Corp,3,13,NoMan,11527,waylay,0.49,162.0,8.0,16.0,3.0,69.0,112.0,33.0,3.0,4.0,3,True
+753459,283196,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Sunset,1,Xi Lai Gaming,Karmine Corp,3,13,happywei,37927,cypher,0.44,81.0,4.0,11.0,4.0,69.0,60.0,33.0,1.0,0.0,3,True
+753459,283196,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Sunset,1,Xi Lai Gaming,Karmine Corp,3,13,Lysoar,37489,omen,0.33,95.0,5.0,15.0,4.0,31.0,66.0,27.0,0.0,1.0,3,True
+753459,283197,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Abyss,2,Karmine Corp,Xi Lai Gaming,13,6,N4RRATE,36245,yoru,2.07,365.0,25.0,7.0,5.0,84.0,223.0,30.0,8.0,0.0,3,True
+753459,283197,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Abyss,2,Karmine Corp,Xi Lai Gaming,13,6,Avez,5654,sova,1.12,212.0,14.0,10.0,7.0,79.0,144.0,26.0,3.0,0.0,3,True
+753459,283197,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Abyss,2,Karmine Corp,Xi Lai Gaming,13,6,SUYGETSU,2858,cypher,1.06,166.0,12.0,10.0,5.0,74.0,106.0,33.0,1.0,0.0,3,True
+753459,283197,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Abyss,2,Karmine Corp,Xi Lai Gaming,13,6,dos9,16215,omen,0.95,114.0,9.0,8.0,10.0,84.0,65.0,33.0,1.0,0.0,3,True
+753459,283197,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Abyss,2,Karmine Corp,Xi Lai Gaming,13,6,LewN,20144,waylay,0.82,187.0,12.0,13.0,7.0,84.0,133.0,24.0,3.0,1.0,3,True
+753459,283197,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Abyss,2,Xi Lai Gaming,Karmine Corp,6,13,Lysoar,37489,astra,0.93,188.0,13.0,15.0,2.0,58.0,106.0,26.0,0.0,1.0,3,True
+753459,283197,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Abyss,2,Xi Lai Gaming,Karmine Corp,6,13,happywei,37927,harbor,0.77,137.0,10.0,16.0,3.0,63.0,97.0,27.0,0.0,2.0,3,True
+753459,283197,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Abyss,2,Xi Lai Gaming,Karmine Corp,6,13,NoMan,11527,waylay,0.61,134.0,7.0,15.0,2.0,63.0,93.0,29.0,0.0,2.0,3,True
+753459,283197,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Abyss,2,Xi Lai Gaming,Karmine Corp,6,13,WsLeo,24308,sova,0.53,117.0,7.0,15.0,5.0,53.0,76.0,19.0,0.0,4.0,3,True
+753459,283197,2766,Valorant Champions 2026,Group Stage: Opening (D),2026-09-25,Abyss,2,Xi Lai Gaming,Karmine Corp,6,13,Rarga,22047,yoru,0.37,92.0,6.0,16.0,2.0,37.0,59.0,38.0,1.0,7.0,3,True
+753449,283166,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Abyss,1,Global Esports,Team Vitality,10,13,xavi8k,7754,astra,1.28,235.0,21.0,16.0,8.0,70.0,132.0,29.0,1.0,0.0,3,True
+753449,283166,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Abyss,1,Global Esports,Team Vitality,10,13,UdoTan,4428,waylay,1.07,232.0,18.0,18.0,3.0,65.0,159.0,38.0,7.0,5.0,3,True
+753449,283166,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Abyss,1,Global Esports,Team Vitality,10,13,Kr1stal,5796,sova,0.94,176.0,12.0,16.0,8.0,65.0,126.0,32.0,1.0,1.0,3,True
+753449,283166,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Abyss,1,Global Esports,Team Vitality,10,13,Autumn,872,yoru,0.85,184.0,16.0,17.0,3.0,61.0,106.0,20.0,3.0,4.0,3,True
+753449,283166,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Abyss,1,Global Esports,Team Vitality,10,13,PatMen,13744,omen,0.71,129.0,11.0,17.0,10.0,74.0,89.0,32.0,0.0,1.0,3,True
+753449,283166,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Abyss,1,Team Vitality,Global Esports,13,10,PROFEK,5554,astra,1.18,213.0,18.0,13.0,6.0,74.0,133.0,39.0,0.0,1.0,3,True
+753449,283166,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Abyss,1,Team Vitality,Global Esports,13,10,Sayonara,33902,sova,1.09,195.0,17.0,14.0,3.0,70.0,136.0,29.0,0.0,2.0,3,True
+753449,283166,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Abyss,1,Team Vitality,Global Esports,13,10,Jamppi,9780,yoru,1.0,228.0,18.0,17.0,3.0,65.0,134.0,33.0,2.0,2.0,3,True
+753449,283166,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Abyss,1,Team Vitality,Global Esports,13,10,Chronicle,458,harbor,0.86,197.0,14.0,17.0,8.0,52.0,144.0,27.0,2.0,3.0,3,True
+753449,283166,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Abyss,1,Team Vitality,Global Esports,13,10,Derke,5022,jett,0.73,203.0,17.0,17.0,1.0,70.0,134.0,31.0,7.0,4.0,3,True
+753449,283167,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Ascent,2,Global Esports,Team Vitality,13,9,PatMen,13744,omen,1.59,311.0,25.0,15.0,9.0,95.0,191.0,35.0,3.0,1.0,3,True
+753449,283167,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Ascent,2,Global Esports,Team Vitality,13,9,Kr1stal,5796,sova,1.15,212.0,16.0,16.0,8.0,64.0,145.0,21.0,2.0,1.0,3,True
+753449,283167,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Ascent,2,Global Esports,Team Vitality,13,9,Autumn,872,chamber,0.98,207.0,16.0,18.0,5.0,82.0,136.0,35.0,5.0,3.0,3,True
+753449,283167,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Ascent,2,Global Esports,Team Vitality,13,9,UdoTan,4428,neon,0.81,192.0,15.0,17.0,4.0,68.0,112.0,27.0,2.0,3.0,3,True
+753449,283167,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Ascent,2,Global Esports,Team Vitality,13,9,xavi8k,7754,sage,0.67,131.0,10.0,17.0,12.0,55.0,87.0,20.0,1.0,1.0,3,True
+753449,283167,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Ascent,2,Team Vitality,Global Esports,9,13,Jamppi,9780,sage,1.47,301.0,22.0,15.0,12.0,77.0,190.0,42.0,2.0,1.0,3,True
+753449,283167,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Ascent,2,Team Vitality,Global Esports,9,13,PROFEK,5554,omen,1.12,243.0,18.0,18.0,15.0,68.0,167.0,32.0,1.0,1.0,3,True
+753449,283167,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Ascent,2,Team Vitality,Global Esports,9,13,Chronicle,458,chamber,0.9,197.0,13.0,16.0,7.0,68.0,127.0,25.0,2.0,4.0,3,True
+753449,283167,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Ascent,2,Team Vitality,Global Esports,9,13,Derke,5022,yoru,0.83,220.0,17.0,18.0,3.0,59.0,137.0,35.0,3.0,5.0,3,True
+753449,283167,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Ascent,2,Team Vitality,Global Esports,9,13,Sayonara,33902,sova,0.73,151.0,13.0,15.0,3.0,59.0,90.0,22.0,1.0,2.0,3,True
+753449,283168,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,3,Global Esports,Team Vitality,11,13,xavi8k,7754,astra,1.38,234.0,23.0,16.0,6.0,58.0,157.0,32.0,3.0,5.0,3,True
+753449,283168,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,3,Global Esports,Team Vitality,11,13,Kr1stal,5796,tejo,0.97,201.0,16.0,20.0,12.0,67.0,158.0,17.0,0.0,0.0,3,True
+753449,283168,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,3,Global Esports,Team Vitality,11,13,UdoTan,4428,raze,0.92,258.0,20.0,23.0,6.0,63.0,154.0,35.0,6.0,4.0,3,True
+753449,283168,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,3,Global Esports,Team Vitality,11,13,PatMen,13744,skye,0.85,175.0,13.0,20.0,9.0,63.0,134.0,40.0,1.0,2.0,3,True
+753449,283168,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,3,Global Esports,Team Vitality,11,13,Autumn,872,veto,0.67,128.0,11.0,17.0,2.0,63.0,85.0,31.0,0.0,3.0,3,True
+753449,283168,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,3,Team Vitality,Global Esports,13,11,Derke,5022,chamber,1.18,256.0,22.0,18.0,3.0,79.0,160.0,35.0,5.0,3.0,3,True
+753449,283168,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,3,Team Vitality,Global Esports,13,11,Chronicle,458,neon,1.17,305.0,26.0,18.0,4.0,71.0,188.0,31.0,2.0,4.0,3,True
+753449,283168,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,3,Team Vitality,Global Esports,13,11,Jamppi,9780,phoenix,1.02,207.0,20.0,16.0,2.0,71.0,131.0,25.0,3.0,0.0,3,True
+753449,283168,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,3,Team Vitality,Global Esports,13,11,PROFEK,5554,harbor,0.98,170.0,14.0,15.0,8.0,88.0,117.0,21.0,2.0,2.0,3,True
+753449,283168,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,3,Team Vitality,Global Esports,13,11,Sayonara,33902,sova,0.81,159.0,13.0,16.0,6.0,79.0,103.0,33.0,2.0,1.0,3,True
+753450,283169,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Lotus,1,LOUD,EDward Gaming,13,8,tkzin,41224,neon,1.65,336.0,28.0,12.0,3.0,67.0,218.0,33.0,0.0,3.0,3,True
+753450,283169,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Lotus,1,LOUD,EDward Gaming,13,8,erde,29242,omen,1.16,221.0,16.0,12.0,9.0,67.0,143.0,38.0,2.0,1.0,3,True
+753450,283169,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Lotus,1,LOUD,EDward Gaming,13,8,DaviH,10885,fade,1.09,167.0,9.0,11.0,16.0,81.0,114.0,7.0,2.0,1.0,3,True
+753450,283169,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Lotus,1,LOUD,EDward Gaming,13,8,lukxo,28716,chamber,1.03,157.0,11.0,11.0,4.0,62.0,112.0,20.0,4.0,5.0,3,True
+753450,283169,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Lotus,1,LOUD,EDward Gaming,13,8,Darker,10557,viper,0.78,110.0,7.0,12.0,5.0,76.0,82.0,22.0,2.0,1.0,3,True
+753450,283169,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Lotus,1,EDward Gaming,LOUD,8,13,ZmjjKK,3520,chamber,1.35,229.0,17.0,12.0,0.0,71.0,130.0,21.0,6.0,0.0,3,True
+753450,283169,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Lotus,1,EDward Gaming,LOUD,8,13,CHICHOO,15559,viper,0.97,195.0,13.0,14.0,3.0,48.0,140.0,27.0,0.0,2.0,3,True
+753450,283169,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Lotus,1,EDward Gaming,LOUD,8,13,Smoggy,4742,omen,0.77,119.0,8.0,13.0,6.0,67.0,83.0,24.0,1.0,1.0,3,True
+753450,283169,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Lotus,1,EDward Gaming,LOUD,8,13,nobody,3017,fade,0.64,124.0,9.0,15.0,6.0,57.0,77.0,21.0,1.0,2.0,3,True
+753450,283169,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Lotus,1,EDward Gaming,LOUD,8,13,stew,16924,neon,0.56,145.0,11.0,17.0,2.0,57.0,94.0,31.0,3.0,5.0,3,True
+753450,283170,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,2,LOUD,EDward Gaming,13,5,DaviH,10885,fade,1.63,243.0,17.0,8.0,8.0,89.0,166.0,17.0,2.0,0.0,3,True
+753450,283170,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,2,LOUD,EDward Gaming,13,5,lukxo,28716,chamber,1.39,209.0,15.0,8.0,3.0,89.0,134.0,23.0,3.0,0.0,3,True
+753450,283170,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,2,LOUD,EDward Gaming,13,5,tkzin,41224,neon,1.34,304.0,19.0,12.0,4.0,67.0,197.0,35.0,6.0,2.0,3,True
+753450,283170,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,2,LOUD,EDward Gaming,13,5,Darker,10557,omen,1.25,211.0,12.0,12.0,15.0,78.0,150.0,30.0,0.0,0.0,3,True
+753450,283170,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,2,LOUD,EDward Gaming,13,5,erde,29242,sage,0.72,99.0,7.0,8.0,6.0,72.0,72.0,32.0,2.0,3.0,3,True
+753450,283170,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,2,EDward Gaming,LOUD,5,13,nobody,3017,tejo,1.11,219.0,14.0,14.0,6.0,83.0,133.0,18.0,0.0,0.0,3,True
+753450,283170,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,2,EDward Gaming,LOUD,5,13,Smoggy,4742,omen,1.05,204.0,14.0,13.0,3.0,67.0,144.0,34.0,2.0,2.0,3,True
+753450,283170,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,2,EDward Gaming,LOUD,5,13,ZmjjKK,3520,waylay,0.71,186.0,11.0,15.0,1.0,61.0,130.0,42.0,2.0,6.0,3,True
+753450,283170,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,2,EDward Gaming,LOUD,5,13,CHICHOO,15559,cypher,0.55,77.0,4.0,13.0,3.0,50.0,54.0,29.0,1.0,1.0,3,True
+753450,283170,2766,Valorant Champions 2026,Group Stage: Opening (B),2026-09-26,Summit,2,EDward Gaming,LOUD,5,13,stew,16924,breach,0.39,106.0,5.0,15.0,8.0,56.0,89.0,29.0,0.0,4.0,3,True
+753444,283151,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,1,100 Thieves,T1,13,8,Cryocells,4147,chamber,1.69,289.0,23.0,9.0,0.0,86.0,166.0,18.0,6.0,0.0,3,True
+753444,283151,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,1,100 Thieves,T1,13,8,bang,3880,harbor,1.63,271.0,19.0,8.0,9.0,86.0,174.0,36.0,1.0,1.0,3,True
+753444,283151,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,1,100 Thieves,T1,13,8,vora,20140,fade,1.28,228.0,16.0,10.0,7.0,81.0,150.0,25.0,1.0,1.0,3,True
+753444,283151,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,1,100 Thieves,T1,13,8,Timotino,29893,neon,1.25,251.0,22.0,12.0,4.0,81.0,178.0,31.0,1.0,4.0,3,True
+753444,283151,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,1,100 Thieves,T1,13,8,Asuna,601,sage,0.77,126.0,7.0,12.0,10.0,67.0,76.0,17.0,2.0,4.0,3,True
+753444,283151,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,1,T1,100 Thieves,8,13,Meteor,13039,chamber,1.05,190.0,14.0,15.0,1.0,52.0,126.0,22.0,3.0,2.0,3,True
+753444,283151,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,1,T1,100 Thieves,8,13,Munchkin,2489,sage,0.98,256.0,17.0,18.0,5.0,52.0,169.0,33.0,1.0,2.0,3,True
+753444,283151,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,1,T1,100 Thieves,8,13,iZu,29833,fade,0.85,129.0,9.0,15.0,6.0,48.0,81.0,28.0,1.0,0.0,3,True
+753444,283151,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,1,T1,100 Thieves,8,13,stax,485,omen,0.49,101.0,7.0,18.0,8.0,43.0,57.0,24.0,2.0,2.0,3,True
+753444,283151,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,1,T1,100 Thieves,8,13,BuZz,804,neon,0.04,100.0,4.0,21.0,5.0,33.0,79.0,22.0,3.0,5.0,3,True
+753444,283152,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,2,100 Thieves,T1,13,9,Asuna,601,phoenix,1.58,260.0,22.0,11.0,4.0,77.0,171.0,18.0,6.0,1.0,3,True
+753444,283152,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,2,100 Thieves,T1,13,9,Cryocells,4147,cypher,1.36,277.0,22.0,14.0,6.0,86.0,172.0,21.0,2.0,0.0,3,True
+753444,283152,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,2,100 Thieves,T1,13,9,Timotino,29893,jett,1.18,237.0,17.0,13.0,4.0,86.0,149.0,30.0,7.0,3.0,3,True
+753444,283152,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,2,100 Thieves,T1,13,9,bang,3880,omen,1.08,165.0,14.0,13.0,13.0,73.0,108.0,43.0,1.0,1.0,3,True
+753444,283152,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,2,100 Thieves,T1,13,9,vora,20140,sova,0.87,147.0,9.0,13.0,12.0,77.0,121.0,24.0,0.0,1.0,3,True
+753444,283152,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,2,T1,100 Thieves,9,13,iZu,29833,sova,1.28,203.0,17.0,12.0,5.0,77.0,133.0,37.0,1.0,2.0,3,True
+753444,283152,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,2,T1,100 Thieves,9,13,Meteor,13039,chamber,1.03,240.0,17.0,17.0,5.0,64.0,157.0,20.0,2.0,4.0,3,True
+753444,283152,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,2,T1,100 Thieves,9,13,Munchkin,2489,sage,0.74,153.0,11.0,17.0,4.0,59.0,111.0,38.0,0.0,2.0,3,True
+753444,283152,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,2,T1,100 Thieves,9,13,BuZz,804,neon,0.53,179.0,14.0,20.0,3.0,59.0,102.0,12.0,3.0,6.0,3,True
+753444,283152,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,2,T1,100 Thieves,9,13,stax,485,omen,0.39,71.0,5.0,18.0,5.0,55.0,47.0,54.0,0.0,2.0,3,True
+753445,283154,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,1,JD Gaming,FUT Esports,1,13,BerLIN,7857,sova,0.72,198.0,8.0,14.0,2.0,57.0,128.0,30.0,2.0,1.0,3,True
+753445,283154,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,1,JD Gaming,FUT Esports,1,13,zhe,49476,yoru,0.64,159.0,8.0,13.0,1.0,43.0,87.0,28.0,1.0,2.0,3,True
+753445,283154,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,1,JD Gaming,FUT Esports,1,13,crownfisher,64969,omen,0.3,83.0,4.0,13.0,0.0,50.0,61.0,50.0,0.0,2.0,3,True
+753445,283154,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,1,JD Gaming,FUT Esports,1,13,jkuro,3519,deadlock,0.17,75.0,2.0,14.0,3.0,43.0,55.0,9.0,0.0,2.0,3,True
+753445,283154,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,1,JD Gaming,FUT Esports,1,13,Yuicaw,11218,cypher,0.13,44.0,2.0,13.0,1.0,29.0,30.0,13.0,0.0,4.0,3,True
+753445,283154,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,1,FUT Esports,JD Gaming,13,1,KROSTALY,15735,sova,1.94,331.0,17.0,4.0,3.0,86.0,190.0,17.0,3.0,1.0,3,True
+753445,283154,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,1,FUT Esports,JD Gaming,13,1,s0pp,39357,jett,1.78,376.0,20.0,6.0,1.0,79.0,213.0,37.0,5.0,0.0,3,True
+753445,283154,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,1,FUT Esports,JD Gaming,13,1,sociablEE,5568,omen,1.45,210.0,12.0,4.0,5.0,93.0,147.0,14.0,0.0,1.0,3,True
+753445,283154,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,1,FUT Esports,JD Gaming,13,1,yetujey,8369,cypher,1.32,158.0,9.0,4.0,3.0,86.0,123.0,33.0,0.0,1.0,3,True
+753445,283154,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Ascent,1,FUT Esports,JD Gaming,13,1,xeus,12793,phoenix,1.17,174.0,9.0,6.0,6.0,100.0,122.0,48.0,3.0,0.0,3,True
+753445,283155,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,2,JD Gaming,FUT Esports,10,13,jkuro,3519,waylay,1.22,274.0,22.0,17.0,3.0,74.0,179.0,51.0,5.0,2.0,3,True
+753445,283155,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,2,JD Gaming,FUT Esports,10,13,BerLIN,7857,fade,1.1,198.0,17.0,16.0,6.0,65.0,139.0,39.0,1.0,1.0,3,True
+753445,283155,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,2,JD Gaming,FUT Esports,10,13,crownfisher,64969,omen,0.92,168.0,12.0,17.0,12.0,78.0,112.0,30.0,1.0,0.0,3,True
+753445,283155,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,2,JD Gaming,FUT Esports,10,13,Yuicaw,11218,cypher,0.86,163.0,13.0,20.0,7.0,65.0,118.0,38.0,1.0,1.0,3,True
+753445,283155,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,2,JD Gaming,FUT Esports,10,13,zhe,49476,yoru,0.64,151.0,12.0,18.0,5.0,61.0,86.0,22.0,6.0,5.0,3,True
+753445,283155,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,2,FUT Esports,JD Gaming,13,10,yetujey,8369,cypher,1.19,207.0,18.0,13.0,7.0,74.0,150.0,29.0,1.0,0.0,3,True
+753445,283155,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,2,FUT Esports,JD Gaming,13,10,xeus,12793,phoenix,1.17,264.0,23.0,17.0,3.0,65.0,158.0,48.0,2.0,4.0,3,True
+753445,283155,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,2,FUT Esports,JD Gaming,13,10,s0pp,39357,neon,1.07,268.0,21.0,17.0,4.0,74.0,166.0,24.0,6.0,6.0,3,True
+753445,283155,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,2,FUT Esports,JD Gaming,13,10,KROSTALY,15735,fade,1.06,190.0,17.0,14.0,3.0,70.0,119.0,25.0,0.0,2.0,3,True
+753445,283155,2766,Valorant Champions 2026,Group Stage: Opening (A),2026-09-27,Summit,2,FUT Esports,JD Gaming,13,10,sociablEE,5568,harbor,0.74,136.0,9.0,15.0,18.0,78.0,92.0,16.0,0.0,2.0,3,True
+753456,283187,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Split,1,G2 Esports,Paper Rex,13,9,trent,15500,skye,1.23,223.0,19.0,13.0,7.0,73.0,140.0,28.0,0.0,1.0,3,True
+753456,283187,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Split,1,G2 Esports,Paper Rex,13,9,BABYBAY,2170,chamber,1.21,240.0,19.0,14.0,3.0,77.0,145.0,25.0,3.0,4.0,3,True
+753456,283187,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Split,1,G2 Esports,Paper Rex,13,9,leaf,7873,viper,1.1,199.0,16.0,14.0,5.0,68.0,144.0,40.0,3.0,2.0,3,True
+753456,283187,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Split,1,G2 Esports,Paper Rex,13,9,jawgemo,3993,neon,1.03,212.0,15.0,14.0,7.0,73.0,147.0,23.0,3.0,1.0,3,True
+753456,283187,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Split,1,G2 Esports,Paper Rex,13,9,valyn,3885,omen,0.83,176.0,14.0,16.0,5.0,77.0,112.0,30.0,2.0,3.0,3,True
+753456,283187,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Split,1,Paper Rex,G2 Esports,9,13,Jinggg,7378,raze,1.41,269.0,20.0,15.0,4.0,77.0,182.0,22.0,1.0,2.0,3,True
+753456,283187,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Split,1,Paper Rex,G2 Esports,9,13,d4v41,9803,viper,0.91,226.0,17.0,20.0,4.0,64.0,152.0,22.0,5.0,3.0,3,True
+753456,283187,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Split,1,Paper Rex,G2 Esports,9,13,f0rsakeN,9801,omen,0.84,159.0,14.0,16.0,7.0,68.0,103.0,26.0,1.0,0.0,3,True
+753456,283187,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Split,1,Paper Rex,G2 Esports,9,13,invy,8504,fade,0.72,141.0,12.0,16.0,4.0,73.0,99.0,38.0,3.0,1.0,3,True
+753456,283187,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Split,1,Paper Rex,G2 Esports,9,13,something,17086,yoru,0.63,128.0,8.0,16.0,6.0,55.0,103.0,20.0,1.0,5.0,3,True
+753456,283188,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Haven,2,G2 Esports,Paper Rex,11,13,BABYBAY,2170,chamber,1.35,279.0,25.0,17.0,1.0,63.0,196.0,36.0,5.0,5.0,3,True
+753456,283188,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Haven,2,G2 Esports,Paper Rex,11,13,valyn,3885,omen,1.04,212.0,15.0,18.0,11.0,83.0,142.0,50.0,2.0,0.0,3,True
+753456,283188,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Haven,2,G2 Esports,Paper Rex,11,13,leaf,7873,yoru,0.94,189.0,16.0,18.0,8.0,71.0,124.0,26.0,3.0,1.0,3,True
+753456,283188,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Haven,2,G2 Esports,Paper Rex,11,13,jawgemo,3993,neon,0.67,181.0,13.0,19.0,6.0,71.0,118.0,20.0,3.0,5.0,3,True
+753456,283188,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Haven,2,G2 Esports,Paper Rex,11,13,trent,15500,fade,0.65,121.0,11.0,17.0,3.0,58.0,76.0,35.0,0.0,0.0,3,True
+753456,283188,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Haven,2,Paper Rex,G2 Esports,13,11,d4v41,9803,chamber,1.37,225.0,20.0,13.0,5.0,75.0,149.0,25.0,3.0,2.0,3,True
+753456,283188,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Haven,2,Paper Rex,G2 Esports,13,11,f0rsakeN,9801,astra,1.3,228.0,21.0,16.0,8.0,71.0,141.0,30.0,2.0,0.0,3,True
+753456,283188,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Haven,2,Paper Rex,G2 Esports,13,11,Jinggg,7378,phoenix,1.12,250.0,22.0,17.0,4.0,71.0,156.0,28.0,3.0,3.0,3,True
+753456,283188,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Haven,2,Paper Rex,G2 Esports,13,11,invy,8504,fade,0.83,144.0,11.0,14.0,9.0,79.0,101.0,25.0,0.0,1.0,3,True
+753456,283188,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Haven,2,Paper Rex,G2 Esports,13,11,something,17086,yoru,0.59,184.0,15.0,20.0,1.0,58.0,125.0,40.0,3.0,7.0,3,True
+753456,283189,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Lotus,3,G2 Esports,Paper Rex,9,13,valyn,3885,omen,1.17,215.0,15.0,14.0,4.0,77.0,142.0,36.0,3.0,1.0,3,True
+753456,283189,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Lotus,3,G2 Esports,Paper Rex,9,13,jawgemo,3993,raze,1.12,280.0,23.0,18.0,2.0,68.0,176.0,22.0,2.0,3.0,3,True
+753456,283189,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Lotus,3,G2 Esports,Paper Rex,9,13,BABYBAY,2170,vyse,0.77,165.0,12.0,16.0,3.0,59.0,113.0,28.0,1.0,0.0,3,True
+753456,283189,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Lotus,3,G2 Esports,Paper Rex,9,13,leaf,7873,viper,0.72,149.0,11.0,17.0,5.0,64.0,95.0,26.0,4.0,6.0,3,True
+753456,283189,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Lotus,3,G2 Esports,Paper Rex,9,13,trent,15500,skye,0.61,123.0,8.0,18.0,12.0,68.0,76.0,26.0,1.0,1.0,3,True
+753456,283189,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Lotus,3,Paper Rex,G2 Esports,13,9,Jinggg,7378,raze,1.27,259.0,19.0,16.0,4.0,68.0,183.0,18.0,4.0,1.0,3,True
+753456,283189,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Lotus,3,Paper Rex,G2 Esports,13,9,invy,8504,fade,1.2,214.0,18.0,14.0,6.0,73.0,138.0,34.0,0.0,2.0,3,True
+753456,283189,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Lotus,3,Paper Rex,G2 Esports,13,9,d4v41,9803,vyse,1.19,236.0,20.0,13.0,2.0,73.0,156.0,29.0,4.0,1.0,3,True
+753456,283189,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Lotus,3,Paper Rex,G2 Esports,13,9,something,17086,yoru,1.11,203.0,17.0,12.0,2.0,64.0,140.0,32.0,1.0,4.0,3,True
+753456,283189,2766,Valorant Champions 2026,Group Stage: Winner's (C),2026-09-29,Lotus,3,Paper Rex,G2 Esports,13,9,f0rsakeN,9801,omen,0.72,125.0,9.0,14.0,11.0,64.0,85.0,26.0,2.0,3.0,3,True
+753461,283202,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Ascent,1,Karmine Corp,NRG,13,7,SUYGETSU,2858,cypher,1.42,244.0,19.0,9.0,3.0,85.0,143.0,29.0,4.0,1.0,3,True
+753461,283202,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Ascent,1,Karmine Corp,NRG,13,7,LewN,20144,neon,1.13,199.0,15.0,11.0,2.0,65.0,112.0,26.0,4.0,2.0,3,True
+753461,283202,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Ascent,1,Karmine Corp,NRG,13,7,N4RRATE,36245,phoenix,1.09,231.0,15.0,14.0,7.0,75.0,145.0,26.0,2.0,3.0,3,True
+753461,283202,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Ascent,1,Karmine Corp,NRG,13,7,dos9,16215,omen,1.02,106.0,8.0,9.0,10.0,80.0,80.0,21.0,0.0,0.0,3,True
+753461,283202,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Ascent,1,Karmine Corp,NRG,13,7,Avez,5654,sova,0.83,167.0,11.0,13.0,6.0,65.0,112.0,44.0,2.0,2.0,3,True
+753461,283202,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Ascent,1,NRG,Karmine Corp,7,13,skuba,11118,cypher,1.17,191.0,14.0,12.0,3.0,75.0,139.0,35.0,0.0,1.0,3,True
+753461,283202,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Ascent,1,NRG,Karmine Corp,7,13,brawk,2172,sova,1.11,224.0,14.0,13.0,6.0,70.0,148.0,11.0,3.0,0.0,3,True
+753461,283202,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Ascent,1,NRG,Karmine Corp,7,13,Ethan,11225,omen,0.84,144.0,9.0,15.0,14.0,70.0,89.0,20.0,0.0,0.0,3,True
+753461,283202,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Ascent,1,NRG,Karmine Corp,7,13,keiko,11494,jett,0.83,178.0,11.0,14.0,2.0,60.0,116.0,23.0,4.0,6.0,3,True
+753461,283202,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Ascent,1,NRG,Karmine Corp,7,13,mada,5132,phoenix,0.57,126.0,8.0,14.0,5.0,65.0,77.0,19.0,1.0,5.0,3,True
+753461,283203,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Summit,2,Karmine Corp,NRG,11,13,SUYGETSU,2858,viper,1.17,223.0,20.0,16.0,5.0,75.0,156.0,41.0,2.0,2.0,3,True
+753461,283203,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Summit,2,Karmine Corp,NRG,11,13,dos9,16215,omen,1.0,174.0,15.0,17.0,9.0,79.0,119.0,44.0,0.0,2.0,3,True
+753461,283203,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Summit,2,Karmine Corp,NRG,11,13,Avez,5654,fade,0.91,234.0,21.0,19.0,6.0,75.0,169.0,23.0,0.0,2.0,3,True
+753461,283203,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Summit,2,Karmine Corp,NRG,11,13,LewN,20144,neon,0.91,190.0,17.0,17.0,2.0,79.0,128.0,31.0,5.0,3.0,3,True
+753461,283203,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Summit,2,Karmine Corp,NRG,11,13,N4RRATE,36245,chamber,0.67,162.0,14.0,20.0,3.0,58.0,116.0,29.0,3.0,4.0,3,True
+753461,283203,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Summit,2,NRG,Karmine Corp,13,11,Ethan,11225,kayo,1.4,249.0,22.0,15.0,11.0,75.0,142.0,32.0,2.0,2.0,3,True
+753461,283203,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Summit,2,NRG,Karmine Corp,13,11,keiko,11494,brimstone,1.1,197.0,17.0,17.0,11.0,88.0,126.0,35.0,2.0,1.0,3,True
+753461,283203,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Summit,2,NRG,Karmine Corp,13,11,skuba,11118,cypher,0.93,163.0,14.0,17.0,5.0,75.0,117.0,36.0,0.0,0.0,3,True
+753461,283203,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Summit,2,NRG,Karmine Corp,13,11,brawk,2172,sova,0.88,169.0,15.0,18.0,7.0,71.0,103.0,23.0,2.0,2.0,3,True
+753461,283203,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Summit,2,NRG,Karmine Corp,13,11,mada,5132,neon,0.75,194.0,16.0,20.0,6.0,79.0,116.0,32.0,7.0,5.0,3,True
+753461,283204,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Haven,3,Karmine Corp,NRG,9,13,dos9,16215,omen,1.16,157.0,12.0,11.0,7.0,82.0,97.0,25.0,1.0,1.0,3,True
+753461,283204,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Haven,3,Karmine Corp,NRG,9,13,Avez,5654,sova,1.09,166.0,11.0,12.0,7.0,68.0,110.0,27.0,0.0,3.0,3,True
+753461,283204,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Haven,3,Karmine Corp,NRG,9,13,N4RRATE,36245,phoenix,0.8,145.0,10.0,16.0,5.0,73.0,100.0,28.0,3.0,2.0,3,True
+753461,283204,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Haven,3,Karmine Corp,NRG,9,13,LewN,20144,neon,0.73,178.0,14.0,18.0,2.0,64.0,110.0,26.0,6.0,3.0,3,True
+753461,283204,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Haven,3,Karmine Corp,NRG,9,13,SUYGETSU,2858,cypher,0.5,97.0,7.0,16.0,5.0,50.0,73.0,33.0,0.0,3.0,3,True
+753461,283204,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Haven,3,NRG,Karmine Corp,13,9,mada,5132,neon,1.45,281.0,23.0,12.0,8.0,82.0,177.0,19.0,6.0,5.0,3,True
+753461,283204,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Haven,3,NRG,Karmine Corp,13,9,brawk,2172,sova,1.22,205.0,15.0,9.0,7.0,82.0,123.0,13.0,2.0,0.0,3,True
+753461,283204,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Haven,3,NRG,Karmine Corp,13,9,keiko,11494,chamber,1.14,176.0,14.0,8.0,3.0,77.0,100.0,19.0,2.0,1.0,3,True
+753461,283204,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Haven,3,NRG,Karmine Corp,13,9,Ethan,11225,phoenix,0.99,182.0,13.0,12.0,8.0,95.0,132.0,19.0,1.0,3.0,3,True
+753461,283204,2766,Valorant Champions 2026,Group Stage: Winner's (D),2026-09-29,Haven,3,NRG,Karmine Corp,13,9,skuba,11118,omen,0.68,105.0,8.0,13.0,14.0,73.0,57.0,27.0,1.0,1.0,3,True
+753451,285206,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Ascent,1,Team Vitality,LOUD,13,7,PROFEK,5554,omen,1.53,279.0,22.0,10.0,3.0,90.0,169.0,54.0,3.0,2.0,3,True
+753451,285206,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Ascent,1,Team Vitality,LOUD,13,7,Sayonara,33902,sova,1.07,171.0,15.0,11.0,3.0,70.0,117.0,37.0,1.0,0.0,3,True
+753451,285206,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Ascent,1,Team Vitality,LOUD,13,7,Jamppi,9780,sage,1.06,207.0,15.0,13.0,5.0,80.0,144.0,36.0,3.0,0.0,3,True
+753451,285206,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Ascent,1,Team Vitality,LOUD,13,7,Chronicle,458,chamber,1.0,148.0,10.0,8.0,3.0,60.0,94.0,21.0,1.0,3.0,3,True
+753451,285206,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Ascent,1,Team Vitality,LOUD,13,7,Derke,5022,yoru,0.76,171.0,13.0,14.0,1.0,75.0,126.0,27.0,4.0,3.0,3,True
+753451,285206,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Ascent,1,LOUD,Team Vitality,7,13,lukxo,28716,yoru,1.18,276.0,19.0,15.0,1.0,65.0,167.0,36.0,5.0,5.0,3,True
+753451,285206,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Ascent,1,LOUD,Team Vitality,7,13,DaviH,10885,sova,0.91,164.0,10.0,13.0,5.0,70.0,115.0,28.0,0.0,0.0,3,True
+753451,285206,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Ascent,1,LOUD,Team Vitality,7,13,tkzin,41224,waylay,0.88,144.0,10.0,14.0,2.0,70.0,101.0,21.0,1.0,1.0,3,True
+753451,285206,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Ascent,1,LOUD,Team Vitality,7,13,Darker,10557,cypher,0.65,121.0,9.0,17.0,4.0,65.0,70.0,21.0,1.0,3.0,3,True
+753451,285206,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Ascent,1,LOUD,Team Vitality,7,13,erde,29242,omen,0.65,145.0,8.0,16.0,8.0,70.0,97.0,21.0,1.0,3.0,3,True
+753451,285207,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Summit,2,Team Vitality,LOUD,19,17,Sayonara,33902,fade,1.19,196.0,27.0,21.0,8.0,69.0,131.0,40.0,2.0,0.0,3,True
+753451,285207,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Summit,2,Team Vitality,LOUD,19,17,Chronicle,458,neon,1.12,273.0,32.0,29.0,8.0,69.0,176.0,29.0,8.0,5.0,3,True
+753451,285207,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Summit,2,Team Vitality,LOUD,19,17,Jamppi,9780,phoenix,1.04,234.0,28.0,27.0,12.0,69.0,156.0,42.0,2.0,4.0,3,True
+753451,285207,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Summit,2,Team Vitality,LOUD,19,17,Derke,5022,chamber,0.99,224.0,29.0,27.0,4.0,69.0,140.0,23.0,7.0,6.0,3,True
+753451,285207,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Summit,2,Team Vitality,LOUD,19,17,PROFEK,5554,harbor,0.92,152.0,20.0,24.0,16.0,78.0,100.0,31.0,0.0,2.0,3,True
+753451,285207,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Summit,2,LOUD,Team Vitality,17,19,lukxo,28716,chamber,1.33,260.0,35.0,24.0,3.0,72.0,175.0,34.0,6.0,6.0,3,True
+753451,285207,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Summit,2,LOUD,Team Vitality,17,19,tkzin,41224,neon,1.27,300.0,37.0,29.0,5.0,67.0,199.0,43.0,4.0,4.0,3,True
+753451,285207,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Summit,2,LOUD,Team Vitality,17,19,erde,29242,sage,0.96,197.0,23.0,26.0,17.0,69.0,129.0,25.0,5.0,6.0,3,True
+753451,285207,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Summit,2,LOUD,Team Vitality,17,19,DaviH,10885,fade,0.95,182.0,23.0,25.0,9.0,69.0,117.0,32.0,1.0,1.0,3,True
+753451,285207,2766,Valorant Champions 2026,Group Stage: Winner's (B),2026-09-30,Summit,2,LOUD,Team Vitality,17,19,Darker,10557,omen,0.38,104.0,10.0,32.0,22.0,69.0,67.0,14.0,1.0,2.0,3,True
+753446,283157,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Split,1,100 Thieves,FUT Esports,13,5,Timotino,29893,neon,1.29,295.0,18.0,12.0,5.0,78.0,177.0,22.0,5.0,3.0,3,True
+753446,283157,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Split,1,100 Thieves,FUT Esports,13,5,bang,3880,viper,1.27,225.0,14.0,10.0,9.0,83.0,149.0,33.0,1.0,1.0,3,True
+753446,283157,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Split,1,100 Thieves,FUT Esports,13,5,vora,20140,skye,1.14,164.0,11.0,9.0,4.0,89.0,94.0,23.0,1.0,0.0,3,True
+753446,283157,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Split,1,100 Thieves,FUT Esports,13,5,Asuna,601,omen,1.14,207.0,13.0,11.0,11.0,83.0,111.0,15.0,1.0,0.0,3,True
+753446,283157,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Split,1,100 Thieves,FUT Esports,13,5,Cryocells,4147,chamber,1.04,180.0,13.0,11.0,2.0,78.0,116.0,20.0,5.0,1.0,3,True
+753446,283157,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Split,1,FUT Esports,100 Thieves,5,13,yetujey,8369,viper,1.23,249.0,17.0,12.0,1.0,72.0,142.0,26.0,0.0,2.0,3,True
+753446,283157,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Split,1,FUT Esports,100 Thieves,5,13,KROSTALY,15735,skye,0.94,185.0,12.0,13.0,6.0,78.0,109.0,23.0,2.0,2.0,3,True
+753446,283157,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Split,1,FUT Esports,100 Thieves,5,13,xeus,12793,raze,0.62,180.0,11.0,15.0,3.0,67.0,114.0,41.0,2.0,5.0,3,True
+753446,283157,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Split,1,FUT Esports,100 Thieves,5,13,sociablEE,5568,omen,0.43,121.0,7.0,15.0,2.0,44.0,81.0,21.0,0.0,2.0,3,True
+753446,283157,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Split,1,FUT Esports,100 Thieves,5,13,s0pp,39357,neon,0.37,103.0,6.0,14.0,2.0,67.0,68.0,35.0,1.0,2.0,3,True
+753446,283158,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Lotus,2,100 Thieves,FUT Esports,13,10,Asuna,601,omen,1.25,200.0,15.0,13.0,10.0,78.0,142.0,27.0,3.0,0.0,3,True
+753446,283158,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Lotus,2,100 Thieves,FUT Esports,13,10,Timotino,29893,neon,1.14,238.0,17.0,15.0,9.0,74.0,148.0,20.0,5.0,2.0,3,True
+753446,283158,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Lotus,2,100 Thieves,FUT Esports,13,10,vora,20140,skye,1.08,176.0,17.0,14.0,9.0,74.0,120.0,22.0,2.0,0.0,3,True
+753446,283158,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Lotus,2,100 Thieves,FUT Esports,13,10,Cryocells,4147,chamber,0.97,202.0,17.0,14.0,3.0,70.0,138.0,17.0,1.0,2.0,3,True
+753446,283158,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Lotus,2,100 Thieves,FUT Esports,13,10,bang,3880,viper,0.95,197.0,15.0,14.0,12.0,65.0,130.0,29.0,3.0,5.0,3,True
+753446,283158,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Lotus,2,FUT Esports,100 Thieves,10,13,KROSTALY,15735,fade,1.08,206.0,16.0,17.0,4.0,61.0,133.0,14.0,1.0,3.0,3,True
+753446,283158,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Lotus,2,FUT Esports,100 Thieves,10,13,sociablEE,5568,omen,1.02,154.0,14.0,14.0,7.0,52.0,106.0,41.0,1.0,5.0,3,True
+753446,283158,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Lotus,2,FUT Esports,100 Thieves,10,13,xeus,12793,jett,0.96,187.0,14.0,17.0,5.0,78.0,141.0,37.0,2.0,3.0,3,True
+753446,283158,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Lotus,2,FUT Esports,100 Thieves,10,13,s0pp,39357,neon,0.94,168.0,13.0,16.0,4.0,57.0,121.0,35.0,3.0,3.0,3,True
+753446,283158,2766,Valorant Champions 2026,Group Stage: Winner's (A),2026-09-30,Lotus,2,FUT Esports,100 Thieves,10,13,yetujey,8369,cypher,0.77,168.0,13.0,17.0,3.0,65.0,112.0,22.0,2.0,0.0,3,True
+753457,283190,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Split,1,TYLOO,Team Liquid,8,13,slowly,41739,jett,1.22,246.0,19.0,16.0,1.0,52.0,178.0,36.0,2.0,3.0,3,True
+753457,283190,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Split,1,TYLOO,Team Liquid,8,13,Erv,55085,omen,0.97,176.0,14.0,15.0,8.0,71.0,110.0,38.0,0.0,1.0,3,True
+753457,283190,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Split,1,TYLOO,Team Liquid,8,13,SiuFatBB,7849,skye,0.8,122.0,9.0,15.0,4.0,57.0,84.0,27.0,2.0,3.0,3,True
+753457,283190,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Split,1,TYLOO,Team Liquid,8,13,splash,36685,raze,0.73,183.0,11.0,18.0,4.0,76.0,123.0,18.0,2.0,4.0,3,True
+753457,283190,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Split,1,TYLOO,Team Liquid,8,13,Scales,39485,viper,0.47,131.0,8.0,18.0,7.0,43.0,93.0,27.0,1.0,3.0,3,True
+753457,283190,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Split,1,Team Liquid,TYLOO,13,8,kamo,14681,raze,1.73,371.0,29.0,13.0,2.0,81.0,230.0,28.0,8.0,1.0,3,True
+753457,283190,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Split,1,Team Liquid,TYLOO,13,8,GSR,50813,yoru,1.54,259.0,21.0,10.0,6.0,90.0,164.0,36.0,3.0,1.0,3,True
+753457,283190,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Split,1,Team Liquid,TYLOO,13,8,Kicks,11134,astra,1.08,175.0,13.0,11.0,9.0,67.0,116.0,29.0,2.0,0.0,3,True
+753457,283190,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Split,1,Team Liquid,TYLOO,13,8,nAts,457,viper,0.9,178.0,14.0,14.0,5.0,71.0,121.0,27.0,1.0,4.0,3,True
+753457,283190,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Split,1,Team Liquid,TYLOO,13,8,trexx,2168,fade,0.57,93.0,5.0,13.0,7.0,71.0,64.0,3.0,0.0,1.0,3,True
+753457,283191,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Summit,2,TYLOO,Team Liquid,13,7,slowly,41739,waylay,1.48,313.0,23.0,13.0,3.0,85.0,190.0,54.0,4.0,2.0,3,True
+753457,283191,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Summit,2,TYLOO,Team Liquid,13,7,SiuFatBB,7849,fade,1.22,134.0,11.0,8.0,3.0,65.0,83.0,50.0,0.0,0.0,3,True
+753457,283191,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Summit,2,TYLOO,Team Liquid,13,7,splash,36685,phoenix,1.1,229.0,15.0,14.0,6.0,75.0,155.0,44.0,4.0,3.0,3,True
+753457,283191,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Summit,2,TYLOO,Team Liquid,13,7,Erv,55085,omen,0.95,166.0,11.0,12.0,9.0,75.0,95.0,42.0,2.0,0.0,3,True
+753457,283191,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Summit,2,TYLOO,Team Liquid,13,7,Scales,39485,cypher,0.66,139.0,10.0,13.0,2.0,60.0,95.0,43.0,2.0,3.0,3,True
+753457,283191,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Summit,2,Team Liquid,TYLOO,7,13,Kicks,11134,harbor,0.98,209.0,14.0,14.0,6.0,55.0,118.0,47.0,0.0,0.0,3,True
+753457,283191,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Summit,2,Team Liquid,TYLOO,7,13,trexx,2168,fade,0.98,177.0,12.0,13.0,5.0,60.0,127.0,30.0,0.0,1.0,3,True
+753457,283191,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Summit,2,Team Liquid,TYLOO,7,13,nAts,457,vyse,0.79,155.0,10.0,13.0,0.0,55.0,121.0,27.0,1.0,2.0,3,True
+753457,283191,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Summit,2,Team Liquid,TYLOO,7,13,GSR,50813,yoru,0.72,192.0,14.0,16.0,2.0,70.0,106.0,30.0,5.0,5.0,3,True
+753457,283191,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Summit,2,Team Liquid,TYLOO,7,13,kamo,14681,raze,0.7,144.0,10.0,14.0,1.0,65.0,89.0,20.0,2.0,4.0,3,True
+753457,283192,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Lotus,3,TYLOO,Team Liquid,2,13,splash,36685,neon,0.8,205.0,10.0,14.0,1.0,53.0,132.0,41.0,3.0,3.0,3,True
+753457,283192,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Lotus,3,TYLOO,Team Liquid,2,13,Scales,39485,viper,0.75,179.0,9.0,12.0,1.0,53.0,116.0,40.0,1.0,2.0,3,True
+753457,283192,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Lotus,3,TYLOO,Team Liquid,2,13,Erv,55085,omen,0.48,118.0,6.0,14.0,2.0,40.0,79.0,27.0,1.0,1.0,3,True
+753457,283192,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Lotus,3,TYLOO,Team Liquid,2,13,SiuFatBB,7849,fade,0.4,89.0,4.0,12.0,1.0,40.0,60.0,18.0,0.0,1.0,3,True
+753457,283192,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Lotus,3,TYLOO,Team Liquid,2,13,slowly,41739,chamber,0.16,74.0,3.0,14.0,0.0,33.0,54.0,40.0,0.0,3.0,3,True
+753457,283192,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Lotus,3,Team Liquid,TYLOO,13,2,trexx,2168,fade,1.54,200.0,10.0,4.0,11.0,87.0,150.0,30.0,0.0,0.0,3,True
+753457,283192,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Lotus,3,Team Liquid,TYLOO,13,2,kamo,14681,raze,1.54,260.0,14.0,7.0,4.0,73.0,180.0,24.0,3.0,1.0,3,True
+753457,283192,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Lotus,3,Team Liquid,TYLOO,13,2,Kicks,11134,omen,1.47,245.0,15.0,6.0,3.0,87.0,158.0,37.0,3.0,1.0,3,True
+753457,283192,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Lotus,3,Team Liquid,TYLOO,13,2,GSR,50813,yoru,1.44,260.0,14.0,8.0,5.0,87.0,186.0,31.0,3.0,1.0,3,True
+753457,283192,2766,Valorant Champions 2026,Group Stage: Elimination (C),2026-10-01,Lotus,3,Team Liquid,TYLOO,13,2,nAts,457,cypher,1.3,231.0,13.0,7.0,2.0,87.0,150.0,24.0,1.0,2.0,3,True
+753462,283205,2766,Valorant Champions 2026,Group Stage: Elimination (D),2026-10-01,Summit,1,Xi Lai Gaming,Nongshim RedForce,11,13,Lysoar,37489,omen,1.37,262.0,22.0,17.0,11.0,71.0,173.0,32.0,2.0,2.0,3,False
+753462,283205,2766,Valorant Champions 2026,Group Stage: Elimination (D),2026-10-01,Summit,1,Xi Lai Gaming,Nongshim RedForce,11,13,happywei,37927,sage,1.19,219.0,20.0,17.0,4.0,79.0,149.0,33.0,1.0,1.0,3,False
+753462,283205,2766,Valorant Champions 2026,Group Stage: Elimination (D),2026-10-01,Summit,1,Xi Lai Gaming,Nongshim RedForce,11,13,WsLeo,24308,fade,1.09,158.0,13.0,14.0,12.0,67.0,92.0,24.0,4.0,2.0,3,False
+753462,283205,2766,Valorant Champions 2026,Group Stage: Elimination (D),2026-10-01,Summit,1,Xi Lai Gaming,Nongshim RedForce,11,13,Rarga,22047,chamber,1.06,199.0,18.0,18.0,4.0,71.0,119.0,12.0,3.0,3.0,3,False
+753462,283205,2766,Valorant Champions 2026,Group Stage: Elimination (D),2026-10-01,Summit,1,Xi Lai Gaming,Nongshim RedForce,11,13,NoMan,11527,waylay,0.23,118.0,8.0,23.0,7.0,46.0,90.0,38.0,1.0,5.0,3,False
+753462,283205,2766,Valorant Champions 2026,Group Stage: Elimination (D),2026-10-01,Summit,1,Nongshim RedForce,Xi Lai Gaming,13,11,Francis,31828,chamber,1.28,295.0,25.0,17.0,3.0,75.0,168.0,22.0,6.0,2.0,3,False
+753462,283205,2766,Valorant Champions 2026,Group Stage: Elimination (D),2026-10-01,Summit,1,Nongshim RedForce,Xi Lai Gaming,13,11,Rb,488,harbor,1.13,250.0,21.0,16.0,10.0,83.0,166.0,43.0,1.0,2.0,3,False
+753462,283205,2766,Valorant Champions 2026,Group Stage: Elimination (D),2026-10-01,Summit,1,Nongshim RedForce,Xi Lai Gaming,13,11,Xross,42772,fade,1.08,155.0,13.0,12.0,6.0,83.0,106.0,38.0,2.0,1.0,3,False
+753462,283205,2766,Valorant Champions 2026,Group Stage: Elimination (D),2026-10-01,Summit,1,Nongshim RedForce,Xi Lai Gaming,13,11,Ivy,31829,sage,0.87,157.0,13.0,15.0,7.0,67.0,123.0,36.0,0.0,4.0,3,False
+753462,283205,2766,Valorant Champions 2026,Group Stage: Elimination (D),2026-10-01,Summit,1,Nongshim RedForce,Xi Lai Gaming,13,11,Dambi,31827,neon,0.72,217.0,17.0,21.0,3.0,71.0,136.0,33.0,4.0,2.0,3,False

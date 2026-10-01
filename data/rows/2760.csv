@@ -1,0 +1,591 @@
+match_id,game_id,event_id,event,stage,date,map,map_order,team,opp,team_rounds,opp_rounds,player,player_id,agent,rating,acs,k,d,a,kast,adr,hs,fk,fd,best_of,completed
+625788,254143,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,Gentle Mates,EDward Gaming,13,11,Minny,23169,cypher,1.33,241.0,21.0,16.0,5.0,71.0,163.0,42.0,1.0,1.0,3,True
+625788,254143,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,Gentle Mates,EDward Gaming,13,11,starxo,565,sova,1.07,207.0,17.0,15.0,4.0,58.0,125.0,26.0,4.0,5.0,3,True
+625788,254143,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,Gentle Mates,EDward Gaming,13,11,marteen,10307,yoru,0.94,164.0,12.0,15.0,7.0,63.0,107.0,26.0,2.0,4.0,3,True
+625788,254143,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,Gentle Mates,EDward Gaming,13,11,bipo,18400,neon,0.93,162.0,14.0,13.0,6.0,63.0,104.0,21.0,2.0,4.0,3,True
+625788,254143,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,Gentle Mates,EDward Gaming,13,11,GLYPH,8286,astra,0.85,114.0,10.0,15.0,8.0,54.0,73.0,25.0,1.0,0.0,3,True
+625788,254143,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,EDward Gaming,Gentle Mates,11,13,ZmjjKK,3520,chamber,1.21,240.0,21.0,14.0,1.0,67.0,153.0,28.0,6.0,2.0,3,True
+625788,254143,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,EDward Gaming,Gentle Mates,11,13,cb,39697,neon,0.93,204.0,19.0,15.0,0.0,71.0,128.0,33.0,3.0,2.0,3,True
+625788,254143,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,EDward Gaming,Gentle Mates,11,13,nobody,3017,sova,0.92,147.0,13.0,14.0,3.0,50.0,101.0,18.0,0.0,2.0,3,True
+625788,254143,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,EDward Gaming,Gentle Mates,11,13,Smoggy,4742,omen,0.81,148.0,10.0,16.0,9.0,71.0,104.0,23.0,3.0,2.0,3,True
+625788,254143,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,EDward Gaming,Gentle Mates,11,13,CHICHOO,15559,viper,0.8,146.0,11.0,15.0,5.0,58.0,106.0,21.0,2.0,2.0,3,True
+625788,254144,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Pearl,2,Gentle Mates,EDward Gaming,13,7,marteen,10307,yoru,1.7,288.0,20.0,9.0,10.0,85.0,191.0,33.0,2.0,2.0,3,True
+625788,254144,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Pearl,2,Gentle Mates,EDward Gaming,13,7,GLYPH,8286,astra,1.46,291.0,20.0,13.0,14.0,95.0,185.0,23.0,1.0,0.0,3,True
+625788,254144,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Pearl,2,Gentle Mates,EDward Gaming,13,7,Minny,23169,cypher,1.22,216.0,16.0,11.0,4.0,80.0,120.0,29.0,2.0,2.0,3,True
+625788,254144,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Pearl,2,Gentle Mates,EDward Gaming,13,7,starxo,565,fade,0.95,129.0,7.0,10.0,11.0,75.0,91.0,15.0,0.0,1.0,3,True
+625788,254144,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Pearl,2,Gentle Mates,EDward Gaming,13,7,bipo,18400,neon,0.73,146.0,11.0,14.0,2.0,65.0,92.0,23.0,5.0,5.0,3,True
+625788,254144,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Pearl,2,EDward Gaming,Gentle Mates,7,13,CHICHOO,15559,killjoy,0.94,169.0,13.0,14.0,2.0,65.0,114.0,31.0,2.0,2.0,3,True
+625788,254144,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Pearl,2,EDward Gaming,Gentle Mates,7,13,cb,39697,yoru,0.9,203.0,15.0,16.0,1.0,70.0,136.0,33.0,3.0,1.0,3,True
+625788,254144,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Pearl,2,EDward Gaming,Gentle Mates,7,13,Smoggy,4742,astra,0.86,159.0,12.0,13.0,4.0,75.0,102.0,37.0,1.0,1.0,3,True
+625788,254144,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Pearl,2,EDward Gaming,Gentle Mates,7,13,ZmjjKK,3520,neon,0.72,147.0,11.0,15.0,2.0,50.0,94.0,52.0,3.0,5.0,3,True
+625788,254144,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Pearl,2,EDward Gaming,Gentle Mates,7,13,nobody,3017,sova,0.46,121.0,6.0,16.0,4.0,40.0,80.0,10.0,1.0,1.0,3,True
+625791,254152,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,Xi Lai Gaming,NRG,2,13,happywei,37927,viper,0.9,255.0,11.0,12.0,1.0,53.0,186.0,17.0,3.0,0.0,3,True
+625791,254152,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,Xi Lai Gaming,NRG,2,13,Rarga,22047,neon,0.47,189.0,9.0,13.0,1.0,47.0,111.0,25.0,0.0,4.0,3,True
+625791,254152,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,Xi Lai Gaming,NRG,2,13,NoMan,11527,killjoy,0.43,119.0,5.0,13.0,2.0,47.0,71.0,29.0,1.0,3.0,3,True
+625791,254152,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,Xi Lai Gaming,NRG,2,13,Lysoar,37489,omen,0.41,74.0,3.0,12.0,6.0,67.0,49.0,12.0,0.0,2.0,3,True
+625791,254152,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,Xi Lai Gaming,NRG,2,13,WsLeo,24308,sova,0.33,78.0,4.0,12.0,1.0,47.0,53.0,5.0,0.0,2.0,3,True
+625791,254152,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,NRG,Xi Lai Gaming,13,2,mada,5132,neon,1.75,304.0,17.0,7.0,4.0,93.0,179.0,23.0,5.0,2.0,3,True
+625791,254152,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,NRG,Xi Lai Gaming,13,2,keiko,11494,viper,1.58,213.0,12.0,4.0,7.0,100.0,123.0,25.0,1.0,0.0,3,True
+625791,254152,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,NRG,Xi Lai Gaming,13,2,skuba,11118,killjoy,1.44,244.0,14.0,7.0,4.0,93.0,159.0,14.0,4.0,0.0,3,True
+625791,254152,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,NRG,Xi Lai Gaming,13,2,brawk,2172,sova,1.26,200.0,10.0,8.0,6.0,80.0,138.0,19.0,0.0,0.0,3,True
+625791,254152,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Haven,1,NRG,Xi Lai Gaming,13,2,Ethan,11225,omen,1.17,155.0,9.0,6.0,8.0,87.0,86.0,15.0,1.0,2.0,3,True
+625791,254153,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Abyss,2,Xi Lai Gaming,NRG,10,13,Lysoar,37489,omen,1.24,225.0,21.0,14.0,5.0,91.0,141.0,40.0,0.0,1.0,3,True
+625791,254153,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Abyss,2,Xi Lai Gaming,NRG,10,13,happywei,37927,astra,1.03,178.0,15.0,14.0,9.0,74.0,111.0,25.0,2.0,2.0,3,True
+625791,254153,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Abyss,2,Xi Lai Gaming,NRG,10,13,Rarga,22047,yoru,0.94,241.0,19.0,20.0,7.0,83.0,161.0,29.0,7.0,2.0,3,True
+625791,254153,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Abyss,2,Xi Lai Gaming,NRG,10,13,WsLeo,24308,sova,0.84,169.0,13.0,16.0,9.0,83.0,111.0,36.0,2.0,1.0,3,True
+625791,254153,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Abyss,2,Xi Lai Gaming,NRG,10,13,NoMan,11527,waylay,0.76,131.0,13.0,16.0,1.0,78.0,94.0,52.0,3.0,2.0,3,True
+625791,254153,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Abyss,2,NRG,Xi Lai Gaming,13,10,keiko,11494,omen,1.29,284.0,23.0,17.0,5.0,74.0,178.0,48.0,4.0,1.0,3,True
+625791,254153,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Abyss,2,NRG,Xi Lai Gaming,13,10,brawk,2172,sova,1.02,209.0,17.0,17.0,6.0,74.0,145.0,23.0,1.0,1.0,3,True
+625791,254153,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Abyss,2,NRG,Xi Lai Gaming,13,10,Ethan,11225,tejo,0.96,136.0,10.0,14.0,8.0,65.0,98.0,18.0,1.0,2.0,3,True
+625791,254153,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Abyss,2,NRG,Xi Lai Gaming,13,10,skuba,11118,viper,0.81,141.0,13.0,16.0,3.0,70.0,92.0,43.0,0.0,5.0,3,True
+625791,254153,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-02-28,Abyss,2,NRG,Xi Lai Gaming,13,10,mada,5132,waylay,0.68,165.0,12.0,19.0,5.0,78.0,104.0,29.0,2.0,5.0,3,True
+625790,254149,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,1,G2 Esports,Paper Rex,9,13,leaf,7873,viper,1.26,254.0,20.0,16.0,5.0,64.0,156.0,27.0,3.0,1.0,3,True
+625790,254149,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,1,G2 Esports,Paper Rex,9,13,valyn,3885,astra,1.21,245.0,18.0,15.0,10.0,91.0,167.0,29.0,0.0,1.0,3,True
+625790,254149,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,1,G2 Esports,Paper Rex,9,13,trent,15500,fade,1.04,187.0,16.0,14.0,4.0,64.0,122.0,25.0,3.0,1.0,3,True
+625790,254149,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,1,G2 Esports,Paper Rex,9,13,jawgemo,3993,neon,0.65,189.0,15.0,20.0,3.0,77.0,115.0,27.0,4.0,6.0,3,True
+625790,254149,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,1,G2 Esports,Paper Rex,9,13,BABYBAY,2170,waylay,0.56,124.0,9.0,17.0,6.0,59.0,91.0,12.0,0.0,3.0,3,True
+625790,254149,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,1,Paper Rex,G2 Esports,13,9,invy,8504,fade,1.26,226.0,17.0,14.0,3.0,73.0,159.0,28.0,3.0,0.0,3,True
+625790,254149,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,1,Paper Rex,G2 Esports,13,9,f0rsakeN,9801,omen,1.18,235.0,18.0,15.0,8.0,82.0,163.0,25.0,2.0,1.0,3,True
+625790,254149,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,1,Paper Rex,G2 Esports,13,9,d4v41,9803,viper,1.11,218.0,17.0,15.0,7.0,68.0,168.0,30.0,2.0,3.0,3,True
+625790,254149,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,1,Paper Rex,G2 Esports,13,9,something,17086,yoru,1.0,191.0,17.0,16.0,1.0,55.0,118.0,29.0,2.0,2.0,3,True
+625790,254149,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,1,Paper Rex,G2 Esports,13,9,Jinggg,7378,raze,0.69,166.0,13.0,18.0,1.0,64.0,116.0,23.0,3.0,4.0,3,True
+625790,254150,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Corrode,2,G2 Esports,Paper Rex,5,13,valyn,3885,astra,1.12,218.0,13.0,14.0,9.0,72.0,152.0,35.0,2.0,0.0,3,True
+625790,254150,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Corrode,2,G2 Esports,Paper Rex,5,13,trent,15500,skye,1.03,190.0,11.0,14.0,12.0,72.0,121.0,29.0,0.0,2.0,3,True
+625790,254150,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Corrode,2,G2 Esports,Paper Rex,5,13,jawgemo,3993,iso,0.9,230.0,14.0,17.0,2.0,72.0,156.0,26.0,4.0,2.0,3,True
+625790,254150,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Corrode,2,G2 Esports,Paper Rex,5,13,leaf,7873,viper,0.59,145.0,9.0,16.0,4.0,56.0,98.0,16.0,2.0,1.0,3,True
+625790,254150,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Corrode,2,G2 Esports,Paper Rex,5,13,BABYBAY,2170,waylay,0.48,153.0,8.0,17.0,3.0,61.0,102.0,19.0,4.0,1.0,3,True
+625790,254150,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Corrode,2,Paper Rex,G2 Esports,13,5,f0rsakeN,9801,viper,1.72,368.0,23.0,11.0,8.0,83.0,236.0,40.0,2.0,1.0,3,True
+625790,254150,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Corrode,2,Paper Rex,G2 Esports,13,5,d4v41,9803,vyse,1.4,272.0,18.0,11.0,6.0,67.0,187.0,36.0,0.0,1.0,3,True
+625790,254150,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Corrode,2,Paper Rex,G2 Esports,13,5,invy,8504,fade,1.18,204.0,14.0,10.0,2.0,78.0,136.0,37.0,1.0,2.0,3,True
+625790,254150,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Corrode,2,Paper Rex,G2 Esports,13,5,Jinggg,7378,omen,1.14,229.0,14.0,11.0,9.0,83.0,153.0,33.0,2.0,1.0,3,True
+625790,254150,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Corrode,2,Paper Rex,G2 Esports,13,5,something,17086,waylay,0.71,133.0,9.0,12.0,1.0,78.0,92.0,29.0,1.0,7.0,3,True
+625789,254146,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Breeze,1,T1,Team Liquid,8,13,stax,485,sova,1.56,265.0,21.0,13.0,2.0,62.0,184.0,39.0,1.0,0.0,3,True
+625789,254146,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Breeze,1,T1,Team Liquid,8,13,Munchkin,2489,viper,1.01,216.0,14.0,15.0,7.0,67.0,139.0,25.0,3.0,2.0,3,True
+625789,254146,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Breeze,1,T1,Team Liquid,8,13,iZu,29833,yoru,0.89,215.0,16.0,17.0,1.0,52.0,146.0,31.0,2.0,5.0,3,True
+625789,254146,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Breeze,1,T1,Team Liquid,8,13,BuZz,804,jett,0.81,163.0,11.0,16.0,6.0,67.0,126.0,26.0,1.0,4.0,3,True
+625789,254146,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Breeze,1,T1,Team Liquid,8,13,Meteor,13039,astra,0.26,79.0,4.0,17.0,2.0,29.0,56.0,26.0,1.0,2.0,3,True
+625789,254146,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Breeze,1,Team Liquid,T1,13,8,MiniBoo,18350,neon,1.28,270.0,20.0,15.0,6.0,71.0,180.0,46.0,4.0,2.0,3,True
+625789,254146,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Breeze,1,Team Liquid,T1,13,8,kamo,14681,yoru,1.27,241.0,17.0,12.0,10.0,67.0,161.0,44.0,4.0,3.0,3,True
+625789,254146,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Breeze,1,Team Liquid,T1,13,8,purp0,1885,sova,1.15,184.0,15.0,11.0,4.0,81.0,133.0,45.0,1.0,0.0,3,True
+625789,254146,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Breeze,1,Team Liquid,T1,13,8,nAts,457,viper,0.95,169.0,14.0,13.0,1.0,67.0,119.0,48.0,2.0,1.0,3,True
+625789,254146,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Breeze,1,Team Liquid,T1,13,8,wayne,24628,omen,0.75,157.0,12.0,15.0,6.0,62.0,97.0,44.0,2.0,2.0,3,True
+625789,254147,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,2,T1,Team Liquid,13,15,stax,485,fade,1.32,221.0,24.0,17.0,6.0,79.0,140.0,27.0,1.0,2.0,3,True
+625789,254147,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,2,T1,Team Liquid,13,15,iZu,29833,yoru,1.16,239.0,26.0,20.0,2.0,64.0,154.0,30.0,4.0,2.0,3,True
+625789,254147,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,2,T1,Team Liquid,13,15,BuZz,804,raze,0.82,205.0,17.0,22.0,8.0,68.0,146.0,12.0,2.0,3.0,3,True
+625789,254147,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,2,T1,Team Liquid,13,15,Munchkin,2489,omen,0.78,166.0,13.0,21.0,15.0,68.0,113.0,11.0,3.0,3.0,3,True
+625789,254147,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,2,T1,Team Liquid,13,15,Meteor,13039,viper,0.66,176.0,17.0,22.0,3.0,54.0,115.0,33.0,1.0,7.0,3,True
+625789,254147,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,2,Team Liquid,T1,15,13,wayne,24628,omen,1.23,225.0,22.0,18.0,7.0,79.0,143.0,24.0,4.0,3.0,3,True
+625789,254147,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,2,Team Liquid,T1,15,13,purp0,1885,skye,1.12,227.0,22.0,20.0,9.0,79.0,147.0,40.0,3.0,0.0,3,True
+625789,254147,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,2,Team Liquid,T1,15,13,nAts,457,viper,1.04,238.0,24.0,22.0,7.0,75.0,155.0,32.0,1.0,2.0,3,True
+625789,254147,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,2,Team Liquid,T1,15,13,MiniBoo,18350,neon,1.02,202.0,18.0,19.0,9.0,79.0,125.0,23.0,7.0,4.0,3,True
+625789,254147,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 1,2026-03-01,Split,2,Team Liquid,T1,15,13,kamo,14681,waylay,0.81,159.0,16.0,18.0,3.0,71.0,100.0,48.0,2.0,2.0,3,True
+626529,254342,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Split,1,Paper Rex,NRG,13,10,invy,8504,fade,1.45,253.0,20.0,10.0,3.0,87.0,165.0,38.0,2.0,1.0,3,True
+626529,254342,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Split,1,Paper Rex,NRG,13,10,f0rsakeN,9801,omen,1.39,268.0,24.0,14.0,9.0,78.0,175.0,40.0,2.0,0.0,3,True
+626529,254342,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Split,1,Paper Rex,NRG,13,10,d4v41,9803,viper,1.06,179.0,15.0,11.0,3.0,78.0,121.0,25.0,3.0,1.0,3,True
+626529,254342,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Split,1,Paper Rex,NRG,13,10,Jinggg,7378,raze,0.73,161.0,12.0,13.0,5.0,70.0,108.0,19.0,2.0,7.0,3,True
+626529,254342,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Split,1,Paper Rex,NRG,13,10,something,17086,yoru,0.43,117.0,9.0,18.0,8.0,65.0,69.0,27.0,2.0,2.0,3,True
+626529,254342,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Split,1,NRG,Paper Rex,10,13,keiko,11494,omen,1.05,191.0,16.0,14.0,10.0,78.0,110.0,32.0,3.0,1.0,3,True
+626529,254342,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Split,1,NRG,Paper Rex,10,13,Ethan,11225,skye,0.98,180.0,14.0,15.0,7.0,70.0,130.0,34.0,2.0,1.0,3,True
+626529,254342,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Split,1,NRG,Paper Rex,10,13,brawk,2172,vyse,0.92,178.0,14.0,16.0,6.0,74.0,127.0,29.0,1.0,0.0,3,True
+626529,254342,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Split,1,NRG,Paper Rex,10,13,mada,5132,neon,0.84,183.0,15.0,17.0,4.0,57.0,116.0,23.0,4.0,5.0,3,True
+626529,254342,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Split,1,NRG,Paper Rex,10,13,skuba,11118,viper,0.26,98.0,7.0,18.0,3.0,43.0,70.0,32.0,1.0,4.0,3,True
+626529,254343,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,2,Paper Rex,NRG,10,13,invy,8504,fade,1.36,266.0,21.0,14.0,8.0,78.0,173.0,20.0,2.0,2.0,3,True
+626529,254343,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,2,Paper Rex,NRG,10,13,Jinggg,7378,raze,1.03,221.0,19.0,18.0,0.0,74.0,141.0,22.0,5.0,1.0,3,True
+626529,254343,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,2,Paper Rex,NRG,10,13,something,17086,yoru,0.94,135.0,13.0,14.0,7.0,52.0,77.0,33.0,1.0,4.0,3,True
+626529,254343,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,2,Paper Rex,NRG,10,13,d4v41,9803,astra,0.54,97.0,8.0,16.0,5.0,57.0,69.0,24.0,0.0,0.0,3,True
+626529,254343,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,2,Paper Rex,NRG,10,13,f0rsakeN,9801,veto,0.32,125.0,9.0,20.0,2.0,57.0,89.0,38.0,4.0,4.0,3,True
+626529,254343,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,2,NRG,Paper Rex,13,10,mada,5132,waylay,1.22,256.0,23.0,15.0,1.0,74.0,153.0,44.0,4.0,2.0,3,True
+626529,254343,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,2,NRG,Paper Rex,13,10,keiko,11494,killjoy,1.16,186.0,15.0,12.0,2.0,70.0,128.0,35.0,2.0,3.0,3,True
+626529,254343,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,2,NRG,Paper Rex,13,10,Ethan,11225,tejo,1.06,164.0,13.0,13.0,4.0,83.0,114.0,27.0,1.0,1.0,3,True
+626529,254343,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,2,NRG,Paper Rex,13,10,skuba,11118,astra,1.06,199.0,15.0,15.0,10.0,87.0,126.0,33.0,2.0,1.0,3,True
+626529,254343,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,2,NRG,Paper Rex,13,10,brawk,2172,sova,0.98,201.0,16.0,15.0,5.0,70.0,139.0,20.0,2.0,5.0,3,True
+626529,254344,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Haven,3,Paper Rex,NRG,13,11,d4v41,9803,chamber,1.25,221.0,22.0,13.0,1.0,67.0,161.0,34.0,1.0,2.0,3,True
+626529,254344,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Haven,3,Paper Rex,NRG,13,11,f0rsakeN,9801,omen,1.14,198.0,16.0,13.0,9.0,75.0,123.0,29.0,3.0,3.0,3,True
+626529,254344,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Haven,3,Paper Rex,NRG,13,11,invy,8504,fade,1.07,215.0,19.0,14.0,10.0,75.0,130.0,18.0,2.0,5.0,3,True
+626529,254344,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Haven,3,Paper Rex,NRG,13,11,Jinggg,7378,phoenix,1.03,178.0,14.0,12.0,5.0,79.0,117.0,25.0,2.0,2.0,3,True
+626529,254344,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Haven,3,Paper Rex,NRG,13,11,something,17086,yoru,0.74,141.0,10.0,14.0,5.0,71.0,100.0,16.0,1.0,3.0,3,True
+626529,254344,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Haven,3,NRG,Paper Rex,11,13,keiko,11494,viper,1.11,216.0,16.0,17.0,5.0,63.0,152.0,42.0,3.0,2.0,3,True
+626529,254344,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Haven,3,NRG,Paper Rex,11,13,mada,5132,neon,1.09,211.0,16.0,16.0,7.0,83.0,130.0,23.0,8.0,2.0,3,True
+626529,254344,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Haven,3,NRG,Paper Rex,11,13,skuba,11118,killjoy,1.02,151.0,15.0,14.0,3.0,71.0,114.0,22.0,2.0,2.0,3,True
+626529,254344,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Haven,3,NRG,Paper Rex,11,13,brawk,2172,sova,0.75,132.0,10.0,17.0,8.0,58.0,99.0,20.0,2.0,1.0,3,True
+626529,254344,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Haven,3,NRG,Paper Rex,11,13,Ethan,11225,omen,0.61,107.0,9.0,17.0,8.0,58.0,62.0,12.0,0.0,2.0,3,True
+626530,254345,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,1,Gentle Mates,Team Liquid,13,11,marteen,10307,yoru,1.72,339.0,30.0,17.0,8.0,79.0,200.0,29.0,5.0,3.0,3,True
+626530,254345,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,1,Gentle Mates,Team Liquid,13,11,starxo,565,fade,1.45,211.0,17.0,13.0,17.0,88.0,142.0,19.0,0.0,0.0,3,True
+626530,254345,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,1,Gentle Mates,Team Liquid,13,11,Minny,23169,cypher,0.87,184.0,16.0,19.0,4.0,75.0,127.0,39.0,4.0,5.0,3,True
+626530,254345,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,1,Gentle Mates,Team Liquid,13,11,bipo,18400,neon,0.78,177.0,14.0,19.0,9.0,83.0,112.0,23.0,2.0,4.0,3,True
+626530,254345,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,1,Gentle Mates,Team Liquid,13,11,GLYPH,8286,astra,0.61,111.0,8.0,18.0,12.0,79.0,72.0,9.0,0.0,1.0,3,True
+626530,254345,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,1,Team Liquid,Gentle Mates,11,13,kamo,14681,waylay,1.08,256.0,23.0,19.0,6.0,67.0,163.0,53.0,4.0,2.0,3,True
+626530,254345,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,1,Team Liquid,Gentle Mates,11,13,nAts,457,viper,1.06,210.0,16.0,15.0,6.0,79.0,139.0,22.0,2.0,2.0,3,True
+626530,254345,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,1,Team Liquid,Gentle Mates,11,13,purp0,1885,skye,0.93,158.0,15.0,13.0,7.0,83.0,101.0,45.0,0.0,1.0,3,True
+626530,254345,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,1,Team Liquid,Gentle Mates,11,13,MiniBoo,18350,neon,0.91,203.0,18.0,19.0,7.0,67.0,131.0,35.0,5.0,4.0,3,True
+626530,254345,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Pearl,1,Team Liquid,Gentle Mates,11,13,wayne,24628,harbor,0.79,173.0,14.0,19.0,13.0,63.0,121.0,29.0,2.0,2.0,3,True
+626530,254346,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Bind,2,Gentle Mates,Team Liquid,13,3,marteen,10307,yoru,1.65,298.0,18.0,8.0,3.0,81.0,188.0,42.0,2.0,1.0,3,True
+626530,254346,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Bind,2,Gentle Mates,Team Liquid,13,3,starxo,565,fade,1.34,186.0,12.0,7.0,7.0,88.0,122.0,21.0,1.0,1.0,3,True
+626530,254346,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Bind,2,Gentle Mates,Team Liquid,13,3,Minny,23169,viper,1.18,222.0,13.0,9.0,4.0,69.0,144.0,36.0,0.0,3.0,3,True
+626530,254346,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Bind,2,Gentle Mates,Team Liquid,13,3,GLYPH,8286,astra,1.17,218.0,12.0,9.0,8.0,88.0,134.0,24.0,1.0,1.0,3,True
+626530,254346,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Bind,2,Gentle Mates,Team Liquid,13,3,bipo,18400,waylay,1.08,206.0,12.0,11.0,6.0,88.0,128.0,26.0,2.0,4.0,3,True
+626530,254346,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Bind,2,Team Liquid,Gentle Mates,3,13,wayne,24628,brimstone,0.87,209.0,11.0,13.0,5.0,63.0,118.0,28.0,2.0,1.0,3,True
+626530,254346,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Bind,2,Team Liquid,Gentle Mates,3,13,nAts,457,viper,0.84,198.0,10.0,13.0,4.0,56.0,141.0,27.0,0.0,0.0,3,True
+626530,254346,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Bind,2,Team Liquid,Gentle Mates,3,13,purp0,1885,skye,0.69,142.0,8.0,13.0,3.0,69.0,92.0,28.0,2.0,0.0,3,True
+626530,254346,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Bind,2,Team Liquid,Gentle Mates,3,13,kamo,14681,waylay,0.53,135.0,7.0,14.0,4.0,63.0,94.0,30.0,1.0,3.0,3,True
+626530,254346,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (1-0),2026-03-02,Bind,2,Team Liquid,Gentle Mates,3,13,MiniBoo,18350,neon,0.41,157.0,8.0,14.0,1.0,69.0,105.0,44.0,5.0,2.0,3,True
+626532,254348,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Bind,1,EDward Gaming,T1,1,13,ZmjjKK,3520,chamber,0.97,152.0,8.0,11.0,4.0,64.0,109.0,5.0,0.0,3.0,3,True
+626532,254348,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Bind,1,EDward Gaming,T1,1,13,Smoggy,4742,brimstone,0.71,162.0,7.0,14.0,5.0,57.0,115.0,30.0,1.0,2.0,3,True
+626532,254348,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Bind,1,EDward Gaming,T1,1,13,CHICHOO,15559,viper,0.63,160.0,7.0,13.0,3.0,57.0,101.0,28.0,1.0,3.0,3,True
+626532,254348,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Bind,1,EDward Gaming,T1,1,13,cb,39697,neon,0.6,132.0,6.0,13.0,5.0,71.0,77.0,6.0,2.0,1.0,3,True
+626532,254348,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Bind,1,EDward Gaming,T1,1,13,nobody,3017,skye,0.1,61.0,2.0,14.0,3.0,29.0,41.0,13.0,0.0,1.0,3,True
+626532,254348,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Bind,1,T1,EDward Gaming,13,1,stax,485,fade,1.65,218.0,12.0,3.0,7.0,100.0,147.0,15.0,0.0,0.0,3,True
+626532,254348,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Bind,1,T1,EDward Gaming,13,1,BuZz,804,waylay,1.56,341.0,18.0,8.0,2.0,79.0,207.0,21.0,5.0,2.0,3,True
+626532,254348,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Bind,1,T1,EDward Gaming,13,1,Munchkin,2489,brimstone,1.56,235.0,10.0,4.0,14.0,100.0,136.0,20.0,1.0,0.0,3,True
+626532,254348,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Bind,1,T1,EDward Gaming,13,1,Meteor,13039,viper,1.17,217.0,12.0,7.0,0.0,86.0,142.0,43.0,2.0,0.0,3,True
+626532,254348,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Bind,1,T1,EDward Gaming,13,1,iZu,29833,yoru,1.13,236.0,13.0,8.0,3.0,64.0,156.0,48.0,2.0,2.0,3,True
+626532,254349,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,EDward Gaming,T1,10,13,ZmjjKK,3520,chamber,1.32,290.0,25.0,18.0,2.0,70.0,185.0,33.0,4.0,1.0,3,True
+626532,254349,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,EDward Gaming,T1,10,13,CHICHOO,15559,viper,1.07,219.0,17.0,17.0,9.0,70.0,127.0,35.0,2.0,2.0,3,True
+626532,254349,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,EDward Gaming,T1,10,13,nobody,3017,sova,0.99,223.0,17.0,17.0,2.0,87.0,128.0,18.0,3.0,1.0,3,True
+626532,254349,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,EDward Gaming,T1,10,13,Smoggy,4742,omen,0.71,136.0,11.0,17.0,6.0,65.0,95.0,34.0,1.0,2.0,3,True
+626532,254349,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,EDward Gaming,T1,10,13,cb,39697,neon,0.47,123.0,10.0,20.0,4.0,65.0,78.0,24.0,1.0,6.0,3,True
+626532,254349,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,T1,EDward Gaming,13,10,iZu,29833,omen,1.23,228.0,18.0,15.0,15.0,83.0,142.0,40.0,3.0,2.0,3,True
+626532,254349,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,T1,EDward Gaming,13,10,Munchkin,2489,viper,1.14,232.0,19.0,15.0,11.0,74.0,158.0,25.0,1.0,2.0,3,True
+626532,254349,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,T1,EDward Gaming,13,10,stax,485,sova,1.11,233.0,19.0,17.0,6.0,74.0,158.0,25.0,1.0,3.0,3,True
+626532,254349,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,T1,EDward Gaming,13,10,BuZz,804,neon,1.04,235.0,17.0,17.0,10.0,87.0,150.0,16.0,6.0,3.0,3,True
+626532,254349,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,T1,EDward Gaming,13,10,Meteor,13039,killjoy,0.98,175.0,16.0,16.0,3.0,74.0,124.0,39.0,1.0,1.0,3,True
+626533,254351,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Abyss,1,Xi Lai Gaming,G2 Esports,8,13,happywei,37927,astra,1.09,195.0,17.0,15.0,7.0,62.0,121.0,40.0,3.0,3.0,3,True
+626533,254351,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Abyss,1,Xi Lai Gaming,G2 Esports,8,13,Lysoar,37489,omen,1.06,271.0,20.0,17.0,3.0,76.0,159.0,38.0,2.0,0.0,3,True
+626533,254351,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Abyss,1,Xi Lai Gaming,G2 Esports,8,13,Rarga,22047,yoru,0.81,213.0,15.0,18.0,4.0,71.0,145.0,38.0,1.0,2.0,3,True
+626533,254351,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Abyss,1,Xi Lai Gaming,G2 Esports,8,13,NoMan,11527,waylay,0.74,161.0,13.0,15.0,3.0,62.0,100.0,24.0,5.0,3.0,3,True
+626533,254351,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Abyss,1,Xi Lai Gaming,G2 Esports,8,13,WsLeo,24308,sova,0.61,117.0,7.0,16.0,12.0,81.0,92.0,24.0,1.0,1.0,3,True
+626533,254351,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Abyss,1,G2 Esports,Xi Lai Gaming,13,8,leaf,7873,astra,1.38,219.0,17.0,12.0,7.0,76.0,139.0,32.0,3.0,1.0,3,True
+626533,254351,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Abyss,1,G2 Esports,Xi Lai Gaming,13,8,valyn,3885,harbor,1.27,258.0,18.0,14.0,7.0,86.0,159.0,21.0,2.0,2.0,3,True
+626533,254351,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Abyss,1,G2 Esports,Xi Lai Gaming,13,8,BABYBAY,2170,waylay,1.15,258.0,19.0,17.0,4.0,71.0,180.0,31.0,2.0,2.0,3,True
+626533,254351,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Abyss,1,G2 Esports,Xi Lai Gaming,13,8,trent,15500,sova,1.09,186.0,15.0,13.0,4.0,71.0,133.0,32.0,1.0,1.0,3,True
+626533,254351,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Abyss,1,G2 Esports,Xi Lai Gaming,13,8,jawgemo,3993,neon,0.62,156.0,12.0,16.0,1.0,52.0,101.0,46.0,1.0,6.0,3,True
+626533,254352,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,Xi Lai Gaming,G2 Esports,3,13,happywei,37927,viper,1.03,225.0,10.0,14.0,4.0,63.0,161.0,19.0,0.0,2.0,3,True
+626533,254352,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,Xi Lai Gaming,G2 Esports,3,13,NoMan,11527,killjoy,0.94,209.0,12.0,14.0,2.0,56.0,118.0,26.0,2.0,1.0,3,True
+626533,254352,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,Xi Lai Gaming,G2 Esports,3,13,WsLeo,24308,sova,0.82,158.0,7.0,13.0,5.0,50.0,125.0,23.0,2.0,1.0,3,True
+626533,254352,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,Xi Lai Gaming,G2 Esports,3,13,Rarga,22047,neon,0.64,198.0,10.0,15.0,3.0,50.0,125.0,34.0,3.0,5.0,3,True
+626533,254352,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,Xi Lai Gaming,G2 Esports,3,13,Lysoar,37489,omen,0.58,124.0,8.0,15.0,4.0,56.0,90.0,41.0,0.0,0.0,3,True
+626533,254352,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,G2 Esports,Xi Lai Gaming,13,3,jawgemo,3993,phoenix,1.9,394.0,23.0,9.0,1.0,88.0,255.0,40.0,2.0,1.0,3,True
+626533,254352,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,G2 Esports,Xi Lai Gaming,13,3,leaf,7873,yoru,1.28,259.0,14.0,9.0,6.0,69.0,178.0,19.0,2.0,2.0,3,True
+626533,254352,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,G2 Esports,Xi Lai Gaming,13,3,trent,15500,fade,1.07,196.0,12.0,9.0,2.0,88.0,125.0,28.0,1.0,0.0,3,True
+626533,254352,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,G2 Esports,Xi Lai Gaming,13,3,BABYBAY,2170,chamber,0.89,177.0,11.0,10.0,2.0,75.0,114.0,33.0,3.0,2.0,3,True
+626533,254352,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 2 (0-1),2026-03-03,Haven,2,G2 Esports,Xi Lai Gaming,13,3,valyn,3885,astra,0.87,173.0,11.0,10.0,9.0,88.0,103.0,9.0,1.0,2.0,3,True
+626535,254357,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,NRG,Team Liquid,13,11,keiko,11494,jett,1.36,261.0,24.0,16.0,2.0,75.0,166.0,36.0,5.0,1.0,3,True
+626535,254357,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,NRG,Team Liquid,13,11,mada,5132,yoru,1.14,279.0,24.0,20.0,8.0,88.0,170.0,39.0,6.0,2.0,3,True
+626535,254357,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,NRG,Team Liquid,13,11,brawk,2172,sova,1.09,208.0,17.0,16.0,7.0,75.0,140.0,39.0,1.0,3.0,3,True
+626535,254357,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,NRG,Team Liquid,13,11,skuba,11118,viper,1.04,195.0,16.0,16.0,11.0,75.0,130.0,26.0,4.0,1.0,3,True
+626535,254357,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,NRG,Team Liquid,13,11,Ethan,11225,omen,0.52,125.0,8.0,19.0,11.0,75.0,91.0,28.0,1.0,0.0,3,True
+626535,254357,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,Team Liquid,NRG,11,13,purp0,1885,sova,1.18,230.0,21.0,16.0,4.0,75.0,151.0,45.0,0.0,1.0,3,True
+626535,254357,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,Team Liquid,NRG,11,13,wayne,24628,omen,1.17,227.0,20.0,17.0,7.0,67.0,142.0,36.0,2.0,3.0,3,True
+626535,254357,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,Team Liquid,NRG,11,13,nAts,457,viper,1.0,173.0,15.0,16.0,8.0,71.0,102.0,23.0,0.0,3.0,3,True
+626535,254357,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,Team Liquid,NRG,11,13,kamo,14681,yoru,0.74,170.0,15.0,19.0,4.0,71.0,107.0,24.0,1.0,2.0,3,True
+626535,254357,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,Team Liquid,NRG,11,13,MiniBoo,18350,neon,0.59,185.0,16.0,21.0,1.0,58.0,118.0,38.0,4.0,8.0,3,True
+626535,254358,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Abyss,2,NRG,Team Liquid,13,4,keiko,11494,omen,1.8,307.0,19.0,5.0,4.0,94.0,199.0,43.0,2.0,0.0,3,True
+626535,254358,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Abyss,2,NRG,Team Liquid,13,4,skuba,11118,viper,1.39,246.0,14.0,8.0,4.0,82.0,166.0,23.0,2.0,1.0,3,True
+626535,254358,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Abyss,2,NRG,Team Liquid,13,4,Ethan,11225,tejo,1.27,180.0,12.0,7.0,3.0,100.0,129.0,15.0,3.0,1.0,3,True
+626535,254358,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Abyss,2,NRG,Team Liquid,13,4,brawk,2172,sova,1.19,192.0,12.0,8.0,4.0,82.0,131.0,42.0,0.0,0.0,3,True
+626535,254358,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Abyss,2,NRG,Team Liquid,13,4,mada,5132,waylay,0.75,142.0,10.0,12.0,1.0,71.0,84.0,53.0,3.0,4.0,3,True
+626535,254358,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Abyss,2,Team Liquid,NRG,4,13,kamo,14681,yoru,0.94,222.0,13.0,13.0,3.0,82.0,141.0,45.0,0.0,1.0,3,True
+626535,254358,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Abyss,2,Team Liquid,NRG,4,13,nAts,457,astra,0.6,153.0,9.0,14.0,0.0,53.0,103.0,39.0,3.0,3.0,3,True
+626535,254358,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Abyss,2,Team Liquid,NRG,4,13,wayne,24628,harbor,0.49,100.0,7.0,14.0,1.0,53.0,58.0,22.0,0.0,0.0,3,True
+626535,254358,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Abyss,2,Team Liquid,NRG,4,13,MiniBoo,18350,neon,0.4,118.0,5.0,15.0,2.0,76.0,90.0,17.0,2.0,3.0,3,True
+626535,254358,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Abyss,2,Team Liquid,NRG,4,13,purp0,1885,skye,0.11,78.0,5.0,16.0,1.0,53.0,56.0,50.0,1.0,3.0,3,True
+626534,254354,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,G2 Esports,T1,13,6,leaf,7873,viper,1.3,238.0,16.0,11.0,5.0,74.0,156.0,23.0,2.0,2.0,3,True
+626534,254354,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,G2 Esports,T1,13,6,jawgemo,3993,neon,1.25,289.0,19.0,16.0,4.0,84.0,212.0,26.0,5.0,2.0,3,True
+626534,254354,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,G2 Esports,T1,13,6,trent,15500,sova,1.16,166.0,11.0,11.0,10.0,79.0,116.0,24.0,1.0,0.0,3,True
+626534,254354,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,G2 Esports,T1,13,6,BABYBAY,2170,yoru,1.06,204.0,15.0,11.0,4.0,58.0,126.0,27.0,1.0,6.0,3,True
+626534,254354,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,G2 Esports,T1,13,6,valyn,3885,astra,0.68,147.0,10.0,14.0,4.0,63.0,102.0,15.0,0.0,0.0,3,True
+626534,254354,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,T1,G2 Esports,6,13,iZu,29833,yoru,1.2,207.0,15.0,12.0,3.0,68.0,143.0,42.0,2.0,4.0,3,True
+626534,254354,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,T1,G2 Esports,6,13,Meteor,13039,astra,0.86,233.0,15.0,17.0,7.0,68.0,147.0,38.0,1.0,1.0,3,True
+626534,254354,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,T1,G2 Esports,6,13,BuZz,804,jett,0.85,240.0,15.0,17.0,5.0,79.0,144.0,28.0,6.0,3.0,3,True
+626534,254354,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,T1,G2 Esports,6,13,Munchkin,2489,viper,0.78,165.0,8.0,12.0,8.0,68.0,119.0,14.0,0.0,0.0,3,True
+626534,254354,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Breeze,1,T1,G2 Esports,6,13,stax,485,sova,0.76,130.0,10.0,13.0,2.0,68.0,85.0,32.0,1.0,1.0,3,True
+626534,254355,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Haven,2,G2 Esports,T1,16,14,trent,15500,fade,1.62,280.0,32.0,17.0,8.0,80.0,163.0,33.0,0.0,1.0,3,True
+626534,254355,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Haven,2,G2 Esports,T1,16,14,jawgemo,3993,phoenix,1.03,226.0,24.0,22.0,5.0,77.0,161.0,27.0,1.0,4.0,3,True
+626534,254355,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Haven,2,G2 Esports,T1,16,14,valyn,3885,astra,0.98,184.0,17.0,19.0,13.0,90.0,125.0,25.0,1.0,0.0,3,True
+626534,254355,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Haven,2,G2 Esports,T1,16,14,BABYBAY,2170,chamber,0.8,172.0,19.0,19.0,4.0,67.0,101.0,10.0,3.0,5.0,3,True
+626534,254355,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Haven,2,G2 Esports,T1,16,14,leaf,7873,yoru,0.74,184.0,19.0,23.0,6.0,70.0,120.0,24.0,6.0,9.0,3,True
+626534,254355,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Haven,2,T1,G2 Esports,14,16,iZu,29833,cypher,1.22,263.0,29.0,22.0,5.0,60.0,181.0,50.0,2.0,2.0,3,True
+626534,254355,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Haven,2,T1,G2 Esports,14,16,Munchkin,2489,omen,1.11,192.0,19.0,20.0,10.0,77.0,126.0,18.0,5.0,1.0,3,True
+626534,254355,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Haven,2,T1,G2 Esports,14,16,BuZz,804,yoru,1.01,236.0,24.0,24.0,6.0,70.0,161.0,26.0,7.0,5.0,3,True
+626534,254355,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Haven,2,T1,G2 Esports,14,16,Meteor,13039,iso,0.83,179.0,17.0,24.0,6.0,77.0,120.0,25.0,5.0,3.0,3,True
+626534,254355,2760,Valorant Masters Santiago 2026,Swiss Stage: Round 3,2026-03-04,Haven,2,T1,G2 Esports,14,16,stax,485,sova,0.56,99.0,11.0,21.0,5.0,63.0,72.0,19.0,0.0,0.0,3,True
+626539,254366,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,FURIA,Paper Rex,13,9,eeiu,796,sova,1.47,265.0,22.0,13.0,3.0,73.0,186.0,30.0,4.0,0.0,3,True
+626539,254366,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,FURIA,Paper Rex,13,9,nerve,754,viper,1.41,228.0,17.0,14.0,8.0,86.0,153.0,30.0,3.0,1.0,3,True
+626539,254366,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,FURIA,Paper Rex,13,9,artzin,5957,killjoy,1.07,201.0,15.0,15.0,8.0,82.0,151.0,20.0,0.0,2.0,3,True
+626539,254366,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,FURIA,Paper Rex,13,9,koalanoob,3722,omen,0.92,236.0,19.0,19.0,5.0,82.0,155.0,26.0,3.0,1.0,3,True
+626539,254366,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,FURIA,Paper Rex,13,9,alym,48025,neon,0.63,173.0,12.0,18.0,5.0,64.0,118.0,21.0,2.0,6.0,3,True
+626539,254366,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Paper Rex,FURIA,9,13,d4v41,9803,chamber,1.19,250.0,21.0,16.0,2.0,77.0,164.0,35.0,3.0,1.0,3,True
+626539,254366,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Paper Rex,FURIA,9,13,something,17086,yoru,1.14,206.0,18.0,15.0,6.0,64.0,140.0,37.0,3.0,4.0,3,True
+626539,254366,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Paper Rex,FURIA,9,13,f0rsakeN,9801,omen,0.82,186.0,15.0,18.0,4.0,59.0,120.0,24.0,2.0,4.0,3,True
+626539,254366,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Paper Rex,FURIA,9,13,Jinggg,7378,phoenix,0.76,205.0,14.0,18.0,8.0,77.0,128.0,30.0,2.0,2.0,3,True
+626539,254366,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Paper Rex,FURIA,9,13,invy,8504,fade,0.67,174.0,11.0,18.0,9.0,73.0,126.0,44.0,0.0,1.0,3,True
+626539,254367,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Breeze,2,FURIA,Paper Rex,4,13,koalanoob,3722,yoru,0.92,187.0,11.0,15.0,5.0,65.0,104.0,19.0,3.0,2.0,3,True
+626539,254367,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Breeze,2,FURIA,Paper Rex,4,13,eeiu,796,sova,0.83,206.0,12.0,14.0,2.0,47.0,140.0,25.0,0.0,1.0,3,True
+626539,254367,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Breeze,2,FURIA,Paper Rex,4,13,nerve,754,viper,0.66,109.0,7.0,12.0,1.0,59.0,75.0,50.0,0.0,1.0,3,True
+626539,254367,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Breeze,2,FURIA,Paper Rex,4,13,alym,48025,neon,0.64,173.0,9.0,15.0,3.0,53.0,125.0,18.0,2.0,6.0,3,True
+626539,254367,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Breeze,2,FURIA,Paper Rex,4,13,artzin,5957,omen,0.6,120.0,6.0,15.0,6.0,71.0,89.0,11.0,1.0,1.0,3,True
+626539,254367,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Breeze,2,Paper Rex,FURIA,13,4,something,17086,jett,1.49,267.0,17.0,9.0,3.0,82.0,181.0,33.0,4.0,0.0,3,True
+626539,254367,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Breeze,2,Paper Rex,FURIA,13,4,d4v41,9803,viper,1.31,197.0,12.0,7.0,5.0,94.0,122.0,32.0,3.0,1.0,3,True
+626539,254367,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Breeze,2,Paper Rex,FURIA,13,4,Jinggg,7378,omen,1.28,286.0,20.0,11.0,0.0,88.0,183.0,28.0,0.0,1.0,3,True
+626539,254367,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Breeze,2,Paper Rex,FURIA,13,4,invy,8504,sova,1.18,173.0,11.0,7.0,6.0,88.0,120.0,16.0,0.0,1.0,3,True
+626539,254367,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Breeze,2,Paper Rex,FURIA,13,4,f0rsakeN,9801,yoru,0.92,193.0,11.0,11.0,4.0,76.0,131.0,35.0,4.0,3.0,3,True
+626539,254368,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Split,3,FURIA,Paper Rex,7,13,eeiu,796,fade,1.49,326.0,22.0,15.0,5.0,75.0,223.0,39.0,3.0,1.0,3,True
+626539,254368,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Split,3,FURIA,Paper Rex,7,13,koalanoob,3722,yoru,0.83,200.0,13.0,16.0,6.0,70.0,132.0,16.0,2.0,2.0,3,True
+626539,254368,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Split,3,FURIA,Paper Rex,7,13,artzin,5957,omen,0.58,123.0,8.0,16.0,7.0,50.0,80.0,14.0,0.0,1.0,3,True
+626539,254368,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Split,3,FURIA,Paper Rex,7,13,nerve,754,viper,0.51,149.0,10.0,17.0,2.0,55.0,102.0,22.0,2.0,1.0,3,True
+626539,254368,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Split,3,FURIA,Paper Rex,7,13,alym,48025,waylay,0.38,118.0,8.0,16.0,4.0,55.0,74.0,38.0,3.0,5.0,3,True
+626539,254368,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Split,3,Paper Rex,FURIA,13,7,something,17086,yoru,1.66,266.0,21.0,10.0,2.0,85.0,164.0,31.0,1.0,2.0,3,True
+626539,254368,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Split,3,Paper Rex,FURIA,13,7,d4v41,9803,viper,1.47,305.0,24.0,15.0,3.0,80.0,216.0,32.0,2.0,1.0,3,True
+626539,254368,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Split,3,Paper Rex,FURIA,13,7,invy,8504,fade,1.25,177.0,14.0,10.0,7.0,85.0,114.0,28.0,0.0,1.0,3,True
+626539,254368,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Split,3,Paper Rex,FURIA,13,7,Jinggg,7378,raze,0.94,223.0,14.0,15.0,4.0,75.0,140.0,20.0,6.0,3.0,3,True
+626539,254368,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Split,3,Paper Rex,FURIA,13,7,f0rsakeN,9801,omen,0.84,118.0,7.0,11.0,10.0,70.0,86.0,20.0,1.0,3.0,3,True
+626537,254360,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Nongshim RedForce,Gentle Mates,13,10,Ivy,31829,killjoy,1.43,268.0,24.0,13.0,3.0,83.0,192.0,37.0,1.0,1.0,3,True
+626537,254360,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Nongshim RedForce,Gentle Mates,13,10,Rb,488,omen,0.97,168.0,15.0,14.0,6.0,70.0,110.0,30.0,1.0,3.0,3,True
+626537,254360,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Nongshim RedForce,Gentle Mates,13,10,Xross,42772,sova,0.94,205.0,14.0,19.0,6.0,74.0,139.0,27.0,5.0,1.0,3,True
+626537,254360,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Nongshim RedForce,Gentle Mates,13,10,Dambi,31827,neon,0.93,205.0,19.0,17.0,4.0,61.0,130.0,33.0,4.0,1.0,3,True
+626537,254360,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Nongshim RedForce,Gentle Mates,13,10,Francis,31828,yoru,0.46,125.0,9.0,18.0,5.0,65.0,77.0,15.0,2.0,4.0,3,True
+626537,254360,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Gentle Mates,Nongshim RedForce,10,13,marteen,10307,yoru,1.67,341.0,28.0,18.0,6.0,87.0,211.0,42.0,5.0,0.0,3,True
+626537,254360,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Gentle Mates,Nongshim RedForce,10,13,GLYPH,8286,astra,1.09,210.0,17.0,16.0,7.0,74.0,142.0,35.0,2.0,3.0,3,True
+626537,254360,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Gentle Mates,Nongshim RedForce,10,13,starxo,565,sova,0.9,134.0,10.0,14.0,3.0,70.0,111.0,25.0,1.0,0.0,3,True
+626537,254360,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Gentle Mates,Nongshim RedForce,10,13,Minny,23169,cypher,0.86,164.0,13.0,15.0,6.0,83.0,102.0,20.0,2.0,6.0,3,True
+626537,254360,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Haven,1,Gentle Mates,Nongshim RedForce,10,13,bipo,18400,neon,0.7,162.0,13.0,18.0,7.0,57.0,118.0,30.0,0.0,4.0,3,True
+626537,254361,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Corrode,2,Nongshim RedForce,Gentle Mates,13,10,Francis,31828,yoru,1.34,276.0,23.0,15.0,7.0,91.0,191.0,20.0,4.0,1.0,3,True
+626537,254361,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Corrode,2,Nongshim RedForce,Gentle Mates,13,10,Dambi,31827,neon,1.29,261.0,22.0,15.0,4.0,78.0,133.0,16.0,7.0,1.0,3,True
+626537,254361,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Corrode,2,Nongshim RedForce,Gentle Mates,13,10,Xross,42772,fade,1.2,171.0,15.0,11.0,10.0,78.0,125.0,33.0,1.0,0.0,3,True
+626537,254361,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Corrode,2,Nongshim RedForce,Gentle Mates,13,10,Ivy,31829,viper,1.12,276.0,22.0,16.0,8.0,74.0,177.0,29.0,4.0,4.0,3,True
+626537,254361,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Corrode,2,Nongshim RedForce,Gentle Mates,13,10,Rb,488,omen,0.92,131.0,9.0,13.0,16.0,78.0,102.0,43.0,1.0,0.0,3,True
+626537,254361,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Corrode,2,Gentle Mates,Nongshim RedForce,10,13,GLYPH,8286,astra,1.23,177.0,14.0,15.0,13.0,70.0,113.0,22.0,0.0,2.0,3,True
+626537,254361,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Corrode,2,Gentle Mates,Nongshim RedForce,10,13,marteen,10307,phoenix,1.14,256.0,19.0,20.0,7.0,65.0,161.0,30.0,4.0,4.0,3,True
+626537,254361,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Corrode,2,Gentle Mates,Nongshim RedForce,10,13,starxo,565,sova,1.09,238.0,17.0,18.0,9.0,65.0,165.0,20.0,1.0,1.0,3,True
+626537,254361,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Corrode,2,Gentle Mates,Nongshim RedForce,10,13,bipo,18400,neon,0.58,151.0,14.0,19.0,2.0,57.0,87.0,19.0,1.0,6.0,3,True
+626537,254361,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-06,Corrode,2,Gentle Mates,Nongshim RedForce,10,13,Minny,23169,kayo,0.46,102.0,6.0,19.0,15.0,70.0,69.0,20.0,0.0,4.0,3,True
+626540,254369,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Pearl,1,BBL Esports,NRG,6,13,lovers rock,40935,yoru,1.18,266.0,16.0,18.0,3.0,63.0,180.0,13.0,3.0,1.0,3,True
+626540,254369,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Pearl,1,BBL Esports,NRG,6,13,Loita,24344,astra,0.94,188.0,13.0,16.0,4.0,42.0,139.0,44.0,0.0,2.0,3,True
+626540,254369,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Pearl,1,BBL Esports,NRG,6,13,Crewen,12795,cypher,0.66,173.0,11.0,18.0,2.0,53.0,119.0,62.0,2.0,2.0,3,True
+626540,254369,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Pearl,1,BBL Esports,NRG,6,13,Rosé,5565,sova,0.41,111.0,7.0,17.0,4.0,42.0,80.0,33.0,1.0,5.0,3,True
+626540,254369,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Pearl,1,BBL Esports,NRG,6,13,Lar0k,31305,neon,0.14,49.0,3.0,17.0,3.0,42.0,33.0,20.0,0.0,3.0,3,True
+626540,254369,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Pearl,1,NRG,BBL Esports,13,6,skuba,11118,astra,1.93,289.0,22.0,6.0,14.0,95.0,173.0,20.0,5.0,1.0,3,True
+626540,254369,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Pearl,1,NRG,BBL Esports,13,6,keiko,11494,killjoy,1.49,257.0,20.0,10.0,3.0,95.0,170.0,40.0,3.0,0.0,3,True
+626540,254369,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Pearl,1,NRG,BBL Esports,13,6,Ethan,11225,tejo,1.29,253.0,18.0,12.0,10.0,95.0,160.0,23.0,1.0,0.0,3,True
+626540,254369,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Pearl,1,NRG,BBL Esports,13,6,mada,5132,waylay,1.04,196.0,14.0,10.0,5.0,63.0,134.0,31.0,3.0,3.0,3,True
+626540,254369,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Pearl,1,NRG,BBL Esports,13,6,brawk,2172,sova,0.91,169.0,12.0,12.0,6.0,79.0,110.0,15.0,1.0,2.0,3,True
+626540,254370,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,BBL Esports,NRG,13,6,Lar0k,31305,waylay,2.14,360.0,27.0,9.0,5.0,95.0,237.0,32.0,7.0,1.0,3,True
+626540,254370,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,BBL Esports,NRG,13,6,Loita,24344,omen,1.03,130.0,10.0,9.0,7.0,84.0,83.0,40.0,1.0,2.0,3,True
+626540,254370,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,BBL Esports,NRG,13,6,lovers rock,40935,yoru,1.01,209.0,14.0,13.0,7.0,89.0,126.0,25.0,2.0,2.0,3,True
+626540,254370,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,BBL Esports,NRG,13,6,Crewen,12795,cypher,0.91,212.0,14.0,13.0,5.0,58.0,133.0,39.0,2.0,2.0,3,True
+626540,254370,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,BBL Esports,NRG,13,6,Rosé,5565,sova,0.74,129.0,8.0,11.0,7.0,74.0,90.0,16.0,0.0,0.0,3,True
+626540,254370,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,NRG,BBL Esports,6,13,Ethan,11225,tejo,0.96,185.0,12.0,15.0,5.0,68.0,121.0,18.0,2.0,3.0,3,True
+626540,254370,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,NRG,BBL Esports,6,13,skuba,11118,viper,0.85,200.0,12.0,15.0,3.0,68.0,130.0,18.0,2.0,1.0,3,True
+626540,254370,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,NRG,BBL Esports,6,13,mada,5132,waylay,0.71,193.0,13.0,15.0,1.0,42.0,118.0,57.0,1.0,3.0,3,True
+626540,254370,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,NRG,BBL Esports,6,13,brawk,2172,sova,0.63,115.0,8.0,15.0,4.0,53.0,94.0,19.0,0.0,1.0,3,True
+626540,254370,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,NRG,BBL Esports,6,13,keiko,11494,omen,0.51,142.0,10.0,16.0,5.0,63.0,79.0,15.0,2.0,4.0,3,True
+626540,254371,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,3,BBL Esports,NRG,15,17,Loita,24344,omen,1.16,230.0,27.0,24.0,14.0,75.0,145.0,28.0,1.0,3.0,3,True
+626540,254371,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,3,BBL Esports,NRG,15,17,lovers rock,40935,yoru,1.15,247.0,28.0,22.0,6.0,81.0,151.0,17.0,1.0,2.0,3,True
+626540,254371,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,3,BBL Esports,NRG,15,17,Crewen,12795,viper,1.05,192.0,21.0,21.0,10.0,63.0,135.0,34.0,3.0,1.0,3,True
+626540,254371,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,3,BBL Esports,NRG,15,17,Lar0k,31305,neon,0.8,173.0,18.0,24.0,8.0,69.0,106.0,18.0,5.0,6.0,3,True
+626540,254371,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,3,BBL Esports,NRG,15,17,Rosé,5565,fade,0.71,154.0,18.0,23.0,8.0,56.0,97.0,32.0,4.0,6.0,3,True
+626540,254371,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,3,NRG,BBL Esports,17,15,brawk,2172,vyse,1.25,213.0,20.0,20.0,14.0,69.0,151.0,10.0,1.0,1.0,3,True
+626540,254371,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,3,NRG,BBL Esports,17,15,Ethan,11225,skye,1.09,208.0,25.0,21.0,12.0,75.0,138.0,20.0,2.0,2.0,3,True
+626540,254371,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,3,NRG,BBL Esports,17,15,keiko,11494,omen,1.07,222.0,27.0,23.0,5.0,72.0,147.0,43.0,4.0,2.0,3,True
+626540,254371,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,3,NRG,BBL Esports,17,15,mada,5132,neon,1.07,225.0,24.0,24.0,9.0,75.0,148.0,21.0,9.0,6.0,3,True
+626540,254371,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,3,NRG,BBL Esports,17,15,skuba,11118,viper,0.73,161.0,18.0,24.0,5.0,69.0,108.0,13.0,2.0,3.0,3,True
+626538,254363,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,1,All Gamers,G2 Esports,6,13,f4ngeer,21216,waylay,1.25,255.0,16.0,12.0,3.0,68.0,167.0,42.0,4.0,3.0,3,True
+626538,254363,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,1,All Gamers,G2 Esports,6,13,Au1,55038,viper,0.79,174.0,10.0,15.0,2.0,58.0,112.0,21.0,2.0,2.0,3,True
+626538,254363,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,1,All Gamers,G2 Esports,6,13,Shr1mp,25494,skye,0.77,157.0,10.0,13.0,6.0,84.0,96.0,43.0,1.0,2.0,3,True
+626538,254363,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,1,All Gamers,G2 Esports,6,13,iamgrq,58959,omen,0.7,159.0,12.0,14.0,4.0,63.0,89.0,26.0,0.0,0.0,3,True
+626538,254363,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,1,All Gamers,G2 Esports,6,13,K1ra,46748,raze,0.45,130.0,7.0,14.0,2.0,63.0,93.0,15.0,1.0,4.0,3,True
+626538,254363,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,1,G2 Esports,All Gamers,13,6,BABYBAY,2170,waylay,1.5,222.0,16.0,9.0,4.0,74.0,134.0,29.0,4.0,1.0,3,True
+626538,254363,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,1,G2 Esports,All Gamers,13,6,valyn,3885,astra,1.23,187.0,12.0,9.0,8.0,74.0,135.0,21.0,1.0,0.0,3,True
+626538,254363,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,1,G2 Esports,All Gamers,13,6,trent,15500,fade,1.12,146.0,11.0,9.0,6.0,68.0,90.0,19.0,0.0,0.0,3,True
+626538,254363,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,1,G2 Esports,All Gamers,13,6,leaf,7873,viper,1.07,213.0,14.0,13.0,7.0,79.0,143.0,13.0,2.0,2.0,3,True
+626538,254363,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Split,1,G2 Esports,All Gamers,13,6,jawgemo,3993,neon,0.84,216.0,15.0,15.0,4.0,63.0,120.0,13.0,4.0,5.0,3,True
+626538,254364,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,All Gamers,G2 Esports,4,13,K1ra,46748,astra,0.8,168.0,11.0,14.0,3.0,59.0,110.0,28.0,3.0,4.0,3,True
+626538,254364,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,All Gamers,G2 Esports,4,13,iamgrq,58959,waylay,0.78,224.0,13.0,14.0,1.0,71.0,133.0,26.0,1.0,3.0,3,True
+626538,254364,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,All Gamers,G2 Esports,4,13,Au1,55038,harbor,0.73,187.0,11.0,14.0,3.0,59.0,129.0,20.0,1.0,2.0,3,True
+626538,254364,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,All Gamers,G2 Esports,4,13,Shr1mp,25494,sova,0.62,128.0,6.0,14.0,3.0,65.0,101.0,30.0,1.0,0.0,3,True
+626538,254364,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,All Gamers,G2 Esports,4,13,f4ngeer,21216,yoru,0.44,120.0,6.0,15.0,2.0,53.0,86.0,47.0,1.0,1.0,3,True
+626538,254364,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,G2 Esports,All Gamers,13,4,valyn,3885,harbor,1.58,262.0,16.0,9.0,7.0,88.0,177.0,41.0,2.0,2.0,3,True
+626538,254364,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,G2 Esports,All Gamers,13,4,BABYBAY,2170,waylay,1.58,285.0,18.0,8.0,5.0,88.0,176.0,36.0,3.0,0.0,3,True
+626538,254364,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,G2 Esports,All Gamers,13,4,trent,15500,sova,1.45,213.0,12.0,8.0,9.0,76.0,145.0,36.0,2.0,1.0,3,True
+626538,254364,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,G2 Esports,All Gamers,13,4,jawgemo,3993,neon,1.12,223.0,16.0,12.0,5.0,65.0,129.0,32.0,2.0,3.0,3,True
+626538,254364,2760,Valorant Masters Santiago 2026,Playoffs: Upper Quarterfinals,2026-03-07,Abyss,2,G2 Esports,All Gamers,13,4,leaf,7873,astra,0.89,158.0,9.0,10.0,10.0,76.0,104.0,31.0,1.0,1.0,3,True
+626546,254389,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Haven,1,FURIA,BBL Esports,7,13,eeiu,796,sova,1.09,201.0,14.0,12.0,5.0,65.0,130.0,39.0,5.0,0.0,3,True
+626546,254389,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Haven,1,FURIA,BBL Esports,7,13,nerve,754,viper,0.91,159.0,10.0,14.0,8.0,60.0,102.0,35.0,1.0,0.0,3,True
+626546,254389,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Haven,1,FURIA,BBL Esports,7,13,koalanoob,3722,omen,0.86,200.0,15.0,15.0,4.0,70.0,126.0,14.0,1.0,2.0,3,True
+626546,254389,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Haven,1,FURIA,BBL Esports,7,13,alym,48025,neon,0.79,204.0,14.0,16.0,4.0,65.0,112.0,18.0,5.0,2.0,3,True
+626546,254389,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Haven,1,FURIA,BBL Esports,7,13,artzin,5957,killjoy,0.77,190.0,13.0,15.0,3.0,60.0,135.0,25.0,1.0,3.0,3,True
+626546,254389,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Haven,1,BBL Esports,FURIA,13,7,lovers rock,40935,yoru,1.23,231.0,18.0,13.0,2.0,70.0,133.0,13.0,2.0,2.0,3,True
+626546,254389,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Haven,1,BBL Esports,FURIA,13,7,Crewen,12795,cypher,1.15,245.0,18.0,14.0,4.0,70.0,158.0,46.0,1.0,4.0,3,True
+626546,254389,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Haven,1,BBL Esports,FURIA,13,7,Loita,24344,omen,1.07,177.0,10.0,13.0,16.0,80.0,110.0,20.0,2.0,1.0,3,True
+626546,254389,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Haven,1,BBL Esports,FURIA,13,7,Lar0k,31305,neon,1.06,210.0,17.0,14.0,4.0,70.0,140.0,29.0,1.0,3.0,3,True
+626546,254389,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Haven,1,BBL Esports,FURIA,13,7,Rosé,5565,sova,0.92,159.0,9.0,12.0,7.0,55.0,108.0,26.0,1.0,3.0,3,True
+626546,254390,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Breeze,2,FURIA,BBL Esports,13,10,eeiu,796,sova,1.15,217.0,19.0,15.0,6.0,65.0,145.0,29.0,0.0,3.0,3,True
+626546,254390,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Breeze,2,FURIA,BBL Esports,13,10,alym,48025,neon,1.06,234.0,20.0,17.0,3.0,61.0,148.0,44.0,4.0,3.0,3,True
+626546,254390,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Breeze,2,FURIA,BBL Esports,13,10,koalanoob,3722,yoru,1.04,179.0,15.0,13.0,6.0,65.0,110.0,20.0,1.0,3.0,3,True
+626546,254390,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Breeze,2,FURIA,BBL Esports,13,10,nerve,754,viper,0.97,228.0,16.0,19.0,8.0,74.0,153.0,30.0,1.0,2.0,3,True
+626546,254390,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Breeze,2,FURIA,BBL Esports,13,10,artzin,5957,omen,0.94,195.0,17.0,17.0,7.0,70.0,111.0,29.0,4.0,2.0,3,True
+626546,254390,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Breeze,2,BBL Esports,FURIA,10,13,Lar0k,31305,jett,1.73,355.0,31.0,16.0,1.0,83.0,216.0,35.0,6.0,1.0,3,True
+626546,254390,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Breeze,2,BBL Esports,FURIA,10,13,Rosé,5565,sova,0.9,189.0,15.0,16.0,5.0,74.0,141.0,41.0,1.0,0.0,3,True
+626546,254390,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Breeze,2,BBL Esports,FURIA,10,13,Loita,24344,viper,0.85,157.0,13.0,18.0,8.0,65.0,118.0,44.0,1.0,1.0,3,True
+626546,254390,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Breeze,2,BBL Esports,FURIA,10,13,Crewen,12795,cypher,0.73,168.0,14.0,19.0,2.0,65.0,122.0,48.0,3.0,2.0,3,True
+626546,254390,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Breeze,2,BBL Esports,FURIA,10,13,lovers rock,40935,yoru,0.44,107.0,8.0,18.0,5.0,61.0,79.0,12.0,2.0,6.0,3,True
+626546,254391,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Abyss,3,FURIA,BBL Esports,11,13,eeiu,796,sova,1.32,246.0,22.0,14.0,8.0,83.0,172.0,41.0,0.0,1.0,3,True
+626546,254391,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Abyss,3,FURIA,BBL Esports,11,13,artzin,5957,astra,1.25,259.0,23.0,18.0,6.0,79.0,166.0,29.0,3.0,2.0,3,True
+626546,254391,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Abyss,3,FURIA,BBL Esports,11,13,alym,48025,waylay,0.99,177.0,15.0,16.0,7.0,67.0,116.0,28.0,5.0,4.0,3,True
+626546,254391,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Abyss,3,FURIA,BBL Esports,11,13,koalanoob,3722,omen,0.83,144.0,13.0,17.0,7.0,67.0,90.0,23.0,2.0,2.0,3,True
+626546,254391,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Abyss,3,FURIA,BBL Esports,11,13,nerve,754,tejo,0.67,143.0,10.0,17.0,5.0,67.0,103.0,8.0,2.0,3.0,3,True
+626546,254391,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Abyss,3,BBL Esports,FURIA,13,11,Loita,24344,omen,1.27,255.0,23.0,17.0,13.0,71.0,151.0,30.0,0.0,2.0,3,True
+626546,254391,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Abyss,3,BBL Esports,FURIA,13,11,Crewen,12795,cypher,1.15,205.0,18.0,14.0,4.0,71.0,149.0,20.0,3.0,0.0,3,True
+626546,254391,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Abyss,3,BBL Esports,FURIA,13,11,Rosé,5565,sova,0.94,169.0,12.0,17.0,7.0,67.0,119.0,31.0,3.0,1.0,3,True
+626546,254391,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Abyss,3,BBL Esports,FURIA,13,11,Lar0k,31305,waylay,0.85,181.0,13.0,17.0,7.0,63.0,130.0,17.0,0.0,5.0,3,True
+626546,254391,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Abyss,3,BBL Esports,FURIA,13,11,lovers rock,40935,yoru,0.7,159.0,14.0,18.0,2.0,63.0,100.0,22.0,6.0,4.0,3,True
+626545,254386,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Pearl,1,Gentle Mates,All Gamers,13,5,marteen,10307,yoru,1.55,275.0,20.0,10.0,7.0,89.0,175.0,35.0,3.0,1.0,3,True
+626545,254386,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Pearl,1,Gentle Mates,All Gamers,13,5,starxo,565,fade,1.32,278.0,17.0,12.0,11.0,83.0,196.0,31.0,1.0,0.0,3,True
+626545,254386,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Pearl,1,Gentle Mates,All Gamers,13,5,bipo,18400,neon,1.13,213.0,16.0,12.0,2.0,72.0,130.0,19.0,4.0,3.0,3,True
+626545,254386,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Pearl,1,Gentle Mates,All Gamers,13,5,Minny,23169,cypher,1.1,179.0,12.0,9.0,4.0,89.0,112.0,65.0,4.0,1.0,3,True
+626545,254386,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Pearl,1,Gentle Mates,All Gamers,13,5,GLYPH,8286,astra,0.88,178.0,12.0,12.0,7.0,72.0,124.0,31.0,0.0,1.0,3,True
+626545,254386,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Pearl,1,All Gamers,Gentle Mates,5,13,Shr1mp,25494,fade,1.19,226.0,14.0,14.0,4.0,61.0,146.0,39.0,1.0,1.0,3,True
+626545,254386,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Pearl,1,All Gamers,Gentle Mates,5,13,Au1,55038,killjoy,0.87,210.0,12.0,16.0,2.0,61.0,140.0,21.0,1.0,2.0,3,True
+626545,254386,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Pearl,1,All Gamers,Gentle Mates,5,13,f4ngeer,21216,yoru,0.72,172.0,12.0,15.0,1.0,61.0,117.0,33.0,3.0,3.0,3,True
+626545,254386,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Pearl,1,All Gamers,Gentle Mates,5,13,K1ra,46748,astra,0.72,173.0,11.0,15.0,1.0,44.0,121.0,30.0,0.0,2.0,3,True
+626545,254386,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Pearl,1,All Gamers,Gentle Mates,5,13,iamgrq,58959,waylay,0.51,147.0,6.0,17.0,6.0,61.0,106.0,26.0,1.0,4.0,3,True
+626545,254387,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Split,2,Gentle Mates,All Gamers,4,13,marteen,10307,yoru,1.02,184.0,10.0,13.0,3.0,71.0,126.0,14.0,3.0,1.0,3,True
+626545,254387,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Split,2,Gentle Mates,All Gamers,4,13,starxo,565,fade,0.93,174.0,11.0,13.0,3.0,65.0,107.0,41.0,0.0,0.0,3,True
+626545,254387,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Split,2,Gentle Mates,All Gamers,4,13,GLYPH,8286,astra,0.67,163.0,9.0,14.0,3.0,59.0,110.0,24.0,2.0,0.0,3,True
+626545,254387,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Split,2,Gentle Mates,All Gamers,4,13,Minny,23169,viper,0.63,165.0,8.0,14.0,1.0,59.0,117.0,27.0,2.0,1.0,3,True
+626545,254387,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Split,2,Gentle Mates,All Gamers,4,13,bipo,18400,raze,0.44,128.0,7.0,15.0,2.0,53.0,83.0,27.0,4.0,4.0,3,True
+626545,254387,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Split,2,All Gamers,Gentle Mates,13,4,iamgrq,58959,omen,1.68,246.0,17.0,6.0,4.0,88.0,156.0,27.0,1.0,0.0,3,True
+626545,254387,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Split,2,All Gamers,Gentle Mates,13,4,K1ra,46748,raze,1.54,319.0,22.0,11.0,2.0,71.0,208.0,27.0,0.0,3.0,3,True
+626545,254387,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Split,2,All Gamers,Gentle Mates,13,4,Au1,55038,viper,1.08,233.0,13.0,11.0,6.0,82.0,152.0,9.0,2.0,4.0,3,True
+626545,254387,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Split,2,All Gamers,Gentle Mates,13,4,Shr1mp,25494,skye,0.93,116.0,7.0,8.0,10.0,76.0,77.0,21.0,2.0,1.0,3,True
+626545,254387,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Split,2,All Gamers,Gentle Mates,13,4,f4ngeer,21216,waylay,0.89,147.0,10.0,9.0,3.0,82.0,95.0,20.0,1.0,3.0,3,True
+626545,254388,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Bind,3,Gentle Mates,All Gamers,8,13,marteen,10307,yoru,1.37,262.0,19.0,13.0,6.0,71.0,162.0,30.0,2.0,3.0,3,True
+626545,254388,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Bind,3,Gentle Mates,All Gamers,8,13,Minny,23169,viper,0.86,172.0,13.0,16.0,3.0,67.0,107.0,16.0,4.0,5.0,3,True
+626545,254388,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Bind,3,Gentle Mates,All Gamers,8,13,bipo,18400,waylay,0.67,166.0,11.0,18.0,5.0,67.0,109.0,30.0,3.0,2.0,3,True
+626545,254388,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Bind,3,Gentle Mates,All Gamers,8,13,starxo,565,fade,0.53,118.0,9.0,17.0,1.0,48.0,76.0,19.0,1.0,1.0,3,True
+626545,254388,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Bind,3,Gentle Mates,All Gamers,8,13,GLYPH,8286,astra,0.41,79.0,4.0,15.0,4.0,57.0,61.0,30.0,0.0,0.0,3,True
+626545,254388,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Bind,3,All Gamers,Gentle Mates,13,8,K1ra,46748,raze,1.51,281.0,22.0,13.0,2.0,76.0,172.0,22.0,3.0,4.0,3,True
+626545,254388,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Bind,3,All Gamers,Gentle Mates,13,8,iamgrq,58959,brimstone,1.3,213.0,16.0,10.0,19.0,81.0,131.0,36.0,0.0,2.0,3,True
+626545,254388,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Bind,3,All Gamers,Gentle Mates,13,8,f4ngeer,21216,yoru,1.15,225.0,17.0,12.0,1.0,67.0,138.0,21.0,6.0,3.0,3,True
+626545,254388,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Bind,3,All Gamers,Gentle Mates,13,8,Au1,55038,viper,1.1,164.0,12.0,10.0,9.0,76.0,118.0,10.0,0.0,0.0,3,True
+626545,254388,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 1,2026-03-08,Bind,3,All Gamers,Gentle Mates,13,8,Shr1mp,25494,fade,0.92,137.0,12.0,11.0,2.0,81.0,98.0,37.0,2.0,1.0,3,True
+626541,254373,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Corrode,1,Nongshim RedForce,G2 Esports,13,7,Dambi,31827,neon,1.65,376.0,25.0,15.0,8.0,80.0,224.0,15.0,6.0,3.0,3,True
+626541,254373,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Corrode,1,Nongshim RedForce,G2 Esports,13,7,Ivy,31829,viper,1.27,190.0,16.0,9.0,1.0,70.0,123.0,48.0,0.0,0.0,3,True
+626541,254373,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Corrode,1,Nongshim RedForce,G2 Esports,13,7,Francis,31828,yoru,1.24,238.0,17.0,14.0,6.0,85.0,159.0,26.0,3.0,1.0,3,True
+626541,254373,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Corrode,1,Nongshim RedForce,G2 Esports,13,7,Rb,488,omen,1.07,165.0,12.0,11.0,11.0,75.0,97.0,13.0,4.0,3.0,3,True
+626541,254373,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Corrode,1,Nongshim RedForce,G2 Esports,13,7,Xross,42772,fade,0.76,131.0,10.0,12.0,6.0,75.0,100.0,41.0,0.0,0.0,3,True
+626541,254373,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Corrode,1,G2 Esports,Nongshim RedForce,7,13,leaf,7873,viper,1.0,268.0,18.0,17.0,4.0,70.0,174.0,19.0,1.0,2.0,3,True
+626541,254373,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Corrode,1,G2 Esports,Nongshim RedForce,7,13,trent,15500,skye,0.86,191.0,12.0,16.0,5.0,60.0,132.0,25.0,2.0,1.0,3,True
+626541,254373,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Corrode,1,G2 Esports,Nongshim RedForce,7,13,jawgemo,3993,iso,0.86,190.0,14.0,16.0,2.0,65.0,130.0,36.0,2.0,3.0,3,True
+626541,254373,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Corrode,1,G2 Esports,Nongshim RedForce,7,13,valyn,3885,astra,0.84,174.0,12.0,14.0,7.0,50.0,105.0,10.0,1.0,3.0,3,True
+626541,254373,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Corrode,1,G2 Esports,Nongshim RedForce,7,13,BABYBAY,2170,waylay,0.22,93.0,5.0,17.0,1.0,40.0,69.0,15.0,1.0,4.0,3,True
+626541,254374,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Split,2,Nongshim RedForce,G2 Esports,14,12,Xross,42772,fade,1.29,236.0,19.0,16.0,12.0,77.0,144.0,30.0,1.0,1.0,3,True
+626541,254374,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Split,2,Nongshim RedForce,G2 Esports,14,12,Dambi,31827,neon,1.2,261.0,24.0,18.0,6.0,77.0,148.0,13.0,4.0,6.0,3,True
+626541,254374,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Split,2,Nongshim RedForce,G2 Esports,14,12,Francis,31828,yoru,1.17,258.0,23.0,21.0,3.0,77.0,173.0,39.0,3.0,5.0,3,True
+626541,254374,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Split,2,Nongshim RedForce,G2 Esports,14,12,Ivy,31829,viper,1.04,192.0,18.0,18.0,4.0,73.0,129.0,50.0,3.0,0.0,3,True
+626541,254374,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Split,2,Nongshim RedForce,G2 Esports,14,12,Rb,488,omen,0.76,107.0,9.0,15.0,16.0,73.0,61.0,14.0,1.0,2.0,3,True
+626541,254374,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Split,2,G2 Esports,Nongshim RedForce,12,14,leaf,7873,viper,1.15,263.0,25.0,18.0,1.0,65.0,159.0,22.0,4.0,2.0,3,True
+626541,254374,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Split,2,G2 Esports,Nongshim RedForce,12,14,valyn,3885,astra,0.94,197.0,18.0,21.0,6.0,69.0,120.0,20.0,3.0,0.0,3,True
+626541,254374,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Split,2,G2 Esports,Nongshim RedForce,12,14,trent,15500,fade,0.92,155.0,16.0,17.0,9.0,77.0,103.0,27.0,1.0,3.0,3,True
+626541,254374,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Split,2,G2 Esports,Nongshim RedForce,12,14,BABYBAY,2170,waylay,0.82,176.0,14.0,18.0,7.0,77.0,130.0,17.0,1.0,4.0,3,True
+626541,254374,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Split,2,G2 Esports,Nongshim RedForce,12,14,jawgemo,3993,neon,0.65,154.0,15.0,19.0,4.0,54.0,95.0,15.0,5.0,3.0,3,True
+626541,256753,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Abyss,3,Nongshim RedForce,G2 Esports,7,13,Dambi,31827,waylay,1.02,249.0,17.0,15.0,0.0,60.0,154.0,27.0,4.0,4.0,3,True
+626541,256753,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Abyss,3,Nongshim RedForce,G2 Esports,7,13,Xross,42772,sova,0.89,194.0,13.0,15.0,4.0,70.0,136.0,24.0,1.0,0.0,3,True
+626541,256753,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Abyss,3,Nongshim RedForce,G2 Esports,7,13,Rb,488,omen,0.83,167.0,12.0,15.0,5.0,65.0,108.0,25.0,1.0,0.0,3,True
+626541,256753,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Abyss,3,Nongshim RedForce,G2 Esports,7,13,Ivy,31829,astra,0.8,151.0,10.0,15.0,5.0,60.0,94.0,48.0,2.0,1.0,3,True
+626541,256753,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Abyss,3,Nongshim RedForce,G2 Esports,7,13,Francis,31828,yoru,0.25,87.0,5.0,18.0,5.0,50.0,62.0,33.0,1.0,6.0,3,True
+626541,256753,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Abyss,3,G2 Esports,Nongshim RedForce,13,7,BABYBAY,2170,waylay,1.27,257.0,18.0,13.0,4.0,75.0,157.0,41.0,6.0,4.0,3,True
+626541,256753,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Abyss,3,G2 Esports,Nongshim RedForce,13,7,trent,15500,sova,1.25,202.0,12.0,12.0,7.0,80.0,148.0,24.0,2.0,0.0,3,True
+626541,256753,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Abyss,3,G2 Esports,Nongshim RedForce,13,7,leaf,7873,astra,1.24,193.0,15.0,10.0,5.0,80.0,127.0,33.0,1.0,1.0,3,True
+626541,256753,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Abyss,3,G2 Esports,Nongshim RedForce,13,7,valyn,3885,harbor,1.21,178.0,15.0,10.0,7.0,75.0,122.0,21.0,0.0,0.0,3,True
+626541,256753,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Abyss,3,G2 Esports,Nongshim RedForce,13,7,jawgemo,3993,neon,1.01,202.0,16.0,12.0,1.0,75.0,126.0,19.0,2.0,4.0,3,True
+626542,254375,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Pearl,1,Paper Rex,NRG,12,14,something,17086,yoru,1.13,205.0,18.0,17.0,6.0,81.0,147.0,24.0,5.0,1.0,3,True
+626542,254375,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Pearl,1,Paper Rex,NRG,12,14,f0rsakeN,9801,astra,0.95,219.0,22.0,21.0,7.0,73.0,134.0,25.0,1.0,5.0,3,True
+626542,254375,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Pearl,1,Paper Rex,NRG,12,14,d4v41,9803,vyse,0.95,203.0,20.0,17.0,6.0,73.0,145.0,34.0,2.0,3.0,3,True
+626542,254375,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Pearl,1,Paper Rex,NRG,12,14,Jinggg,7378,phoenix,0.89,232.0,19.0,21.0,8.0,73.0,164.0,23.0,4.0,2.0,3,True
+626542,254375,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Pearl,1,Paper Rex,NRG,12,14,invy,8504,sova,0.77,147.0,12.0,15.0,7.0,73.0,107.0,38.0,0.0,3.0,3,True
+626542,254375,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Pearl,1,NRG,Paper Rex,14,12,skuba,11118,astra,1.46,279.0,26.0,18.0,10.0,88.0,181.0,42.0,5.0,3.0,3,True
+626542,254375,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Pearl,1,NRG,Paper Rex,14,12,mada,5132,waylay,1.12,220.0,21.0,18.0,4.0,62.0,134.0,24.0,7.0,4.0,3,True
+626542,254375,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Pearl,1,NRG,Paper Rex,14,12,keiko,11494,killjoy,0.97,206.0,19.0,19.0,6.0,85.0,146.0,26.0,1.0,1.0,3,True
+626542,254375,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Pearl,1,NRG,Paper Rex,14,12,brawk,2172,sova,0.91,179.0,12.0,20.0,11.0,73.0,147.0,21.0,1.0,1.0,3,True
+626542,254375,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Pearl,1,NRG,Paper Rex,14,12,Ethan,11225,tejo,0.74,138.0,13.0,18.0,5.0,73.0,88.0,16.0,0.0,3.0,3,True
+626542,254376,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Bind,2,Paper Rex,NRG,11,13,d4v41,9803,skye,1.19,205.0,19.0,14.0,5.0,71.0,135.0,24.0,1.0,1.0,3,True
+626542,254376,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Bind,2,Paper Rex,NRG,11,13,invy,8504,brimstone,1.11,195.0,17.0,16.0,9.0,71.0,136.0,37.0,1.0,1.0,3,True
+626542,254376,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Bind,2,Paper Rex,NRG,11,13,something,17086,gekko,0.99,166.0,15.0,14.0,9.0,71.0,98.0,22.0,2.0,4.0,3,True
+626542,254376,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Bind,2,Paper Rex,NRG,11,13,Jinggg,7378,raze,0.81,172.0,14.0,17.0,4.0,54.0,110.0,11.0,4.0,4.0,3,True
+626542,254376,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Bind,2,Paper Rex,NRG,11,13,f0rsakeN,9801,harbor,0.77,195.0,15.0,19.0,8.0,71.0,125.0,22.0,3.0,3.0,3,True
+626542,254376,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Bind,2,NRG,Paper Rex,13,11,skuba,11118,viper,1.24,220.0,19.0,14.0,3.0,67.0,139.0,29.0,2.0,3.0,3,True
+626542,254376,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Bind,2,NRG,Paper Rex,13,11,mada,5132,yoru,1.18,203.0,15.0,13.0,4.0,71.0,137.0,31.0,5.0,2.0,3,True
+626542,254376,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Bind,2,NRG,Paper Rex,13,11,brawk,2172,brimstone,1.16,188.0,16.0,15.0,8.0,75.0,138.0,26.0,1.0,0.0,3,True
+626542,254376,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Bind,2,NRG,Paper Rex,13,11,Ethan,11225,fade,0.81,187.0,15.0,18.0,7.0,75.0,118.0,23.0,1.0,3.0,3,True
+626542,254376,2760,Valorant Masters Santiago 2026,Playoffs: Upper Semifinals,2026-03-09,Bind,2,NRG,Paper Rex,13,11,keiko,11494,raze,0.68,179.0,15.0,20.0,2.0,58.0,120.0,25.0,4.0,3.0,3,True
+626548,254395,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Haven,1,G2 Esports,BBL Esports,13,5,jawgemo,3993,phoenix,1.91,391.0,25.0,13.0,3.0,83.0,248.0,44.0,5.0,2.0,3,True
+626548,254395,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Haven,1,G2 Esports,BBL Esports,13,5,valyn,3885,astra,1.39,206.0,15.0,7.0,6.0,83.0,125.0,16.0,2.0,0.0,3,True
+626548,254395,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Haven,1,G2 Esports,BBL Esports,13,5,leaf,7873,yoru,1.13,257.0,17.0,13.0,6.0,78.0,160.0,21.0,5.0,2.0,3,True
+626548,254395,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Haven,1,G2 Esports,BBL Esports,13,5,trent,15500,fade,0.92,130.0,8.0,10.0,10.0,78.0,95.0,19.0,0.0,0.0,3,True
+626548,254395,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Haven,1,G2 Esports,BBL Esports,13,5,BABYBAY,2170,chamber,0.69,60.0,4.0,8.0,2.0,67.0,47.0,36.0,1.0,1.0,3,True
+626548,254395,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Haven,1,BBL Esports,G2 Esports,5,13,lovers rock,40935,yoru,1.0,220.0,12.0,15.0,4.0,61.0,165.0,19.0,3.0,2.0,3,True
+626548,254395,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Haven,1,BBL Esports,G2 Esports,5,13,Rosé,5565,sova,0.93,245.0,15.0,15.0,5.0,67.0,153.0,36.0,0.0,1.0,3,True
+626548,254395,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Haven,1,BBL Esports,G2 Esports,5,13,Loita,24344,omen,0.76,140.0,9.0,12.0,7.0,67.0,87.0,39.0,0.0,1.0,3,True
+626548,254395,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Haven,1,BBL Esports,G2 Esports,5,13,Crewen,12795,cypher,0.61,141.0,9.0,13.0,0.0,50.0,104.0,35.0,0.0,3.0,3,True
+626548,254395,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Haven,1,BBL Esports,G2 Esports,5,13,Lar0k,31305,neon,0.45,94.0,6.0,14.0,3.0,67.0,65.0,32.0,2.0,6.0,3,True
+626548,256892,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Breeze,2,G2 Esports,BBL Esports,13,8,trent,15500,sova,1.52,253.0,19.0,12.0,9.0,71.0,182.0,47.0,1.0,1.0,3,True
+626548,256892,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Breeze,2,G2 Esports,BBL Esports,13,8,BABYBAY,2170,yoru,1.16,200.0,16.0,13.0,3.0,67.0,116.0,21.0,3.0,3.0,3,True
+626548,256892,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Breeze,2,G2 Esports,BBL Esports,13,8,valyn,3885,astra,1.0,147.0,12.0,13.0,4.0,57.0,82.0,18.0,2.0,1.0,3,True
+626548,256892,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Breeze,2,G2 Esports,BBL Esports,13,8,jawgemo,3993,neon,1.0,222.0,18.0,17.0,4.0,76.0,147.0,23.0,5.0,4.0,3,True
+626548,256892,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Breeze,2,G2 Esports,BBL Esports,13,8,leaf,7873,viper,0.67,122.0,7.0,15.0,12.0,71.0,92.0,21.0,0.0,1.0,3,True
+626548,256892,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Breeze,2,BBL Esports,G2 Esports,8,13,Lar0k,31305,jett,1.4,323.0,22.0,15.0,3.0,76.0,219.0,40.0,4.0,4.0,3,True
+626548,256892,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Breeze,2,BBL Esports,G2 Esports,8,13,Loita,24344,viper,1.17,222.0,18.0,14.0,5.0,76.0,153.0,61.0,1.0,1.0,3,True
+626548,256892,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Breeze,2,BBL Esports,G2 Esports,8,13,Crewen,12795,cypher,0.93,169.0,14.0,12.0,4.0,71.0,108.0,33.0,2.0,2.0,3,True
+626548,256892,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Breeze,2,BBL Esports,G2 Esports,8,13,lovers rock,40935,yoru,0.72,134.0,9.0,14.0,3.0,52.0,89.0,20.0,1.0,0.0,3,True
+626548,256892,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Breeze,2,BBL Esports,G2 Esports,8,13,Rosé,5565,sova,0.36,100.0,7.0,17.0,4.0,57.0,75.0,40.0,2.0,4.0,3,True
+626547,254392,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Corrode,1,Paper Rex,All Gamers,10,13,invy,8504,fade,1.47,250.0,21.0,14.0,3.0,78.0,170.0,29.0,1.0,2.0,3,True
+626547,254392,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Corrode,1,Paper Rex,All Gamers,10,13,Jinggg,7378,omen,1.32,294.0,24.0,18.0,6.0,74.0,176.0,31.0,2.0,1.0,3,True
+626547,254392,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Corrode,1,Paper Rex,All Gamers,10,13,f0rsakeN,9801,viper,0.88,182.0,16.0,16.0,3.0,74.0,123.0,29.0,3.0,1.0,3,True
+626547,254392,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Corrode,1,Paper Rex,All Gamers,10,13,something,17086,waylay,0.72,159.0,12.0,18.0,8.0,70.0,123.0,46.0,3.0,4.0,3,True
+626547,254392,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Corrode,1,Paper Rex,All Gamers,10,13,d4v41,9803,vyse,0.38,79.0,5.0,16.0,5.0,70.0,59.0,14.0,1.0,5.0,3,True
+626547,254392,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Corrode,1,All Gamers,Paper Rex,13,10,K1ra,46748,omen,1.19,144.0,12.0,10.0,10.0,83.0,96.0,54.0,0.0,1.0,3,True
+626547,254392,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Corrode,1,All Gamers,Paper Rex,13,10,Shr1mp,25494,fade,1.09,193.0,16.0,15.0,8.0,78.0,139.0,33.0,1.0,3.0,3,True
+626547,254392,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Corrode,1,All Gamers,Paper Rex,13,10,Au1,55038,viper,1.05,234.0,20.0,17.0,5.0,74.0,137.0,19.0,3.0,0.0,3,True
+626547,254392,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Corrode,1,All Gamers,Paper Rex,13,10,f4ngeer,21216,chamber,1.04,244.0,20.0,18.0,4.0,65.0,161.0,30.0,5.0,4.0,3,True
+626547,254392,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Corrode,1,All Gamers,Paper Rex,13,10,iamgrq,58959,neon,0.78,182.0,14.0,18.0,5.0,83.0,110.0,22.0,4.0,2.0,3,True
+626547,254393,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Pearl,2,Paper Rex,All Gamers,13,7,something,17086,yoru,1.64,257.0,19.0,8.0,3.0,95.0,166.0,30.0,1.0,1.0,3,True
+626547,254393,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Pearl,2,Paper Rex,All Gamers,13,7,d4v41,9803,vyse,1.29,221.0,18.0,12.0,6.0,80.0,151.0,30.0,1.0,4.0,3,True
+626547,254393,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Pearl,2,Paper Rex,All Gamers,13,7,invy,8504,sova,1.12,191.0,13.0,12.0,6.0,80.0,137.0,15.0,3.0,0.0,3,True
+626547,254393,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Pearl,2,Paper Rex,All Gamers,13,7,Jinggg,7378,neon,1.05,240.0,18.0,13.0,6.0,75.0,153.0,25.0,2.0,5.0,3,True
+626547,254393,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Pearl,2,Paper Rex,All Gamers,13,7,f0rsakeN,9801,astra,0.74,135.0,9.0,13.0,9.0,65.0,88.0,8.0,1.0,2.0,3,True
+626547,254393,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Pearl,2,All Gamers,Paper Rex,7,13,f4ngeer,21216,yoru,1.58,324.0,23.0,15.0,4.0,75.0,201.0,26.0,6.0,1.0,3,True
+626547,254393,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Pearl,2,All Gamers,Paper Rex,7,13,Shr1mp,25494,fade,0.77,128.0,9.0,14.0,4.0,70.0,90.0,19.0,1.0,0.0,3,True
+626547,254393,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Pearl,2,All Gamers,Paper Rex,7,13,Au1,55038,killjoy,0.77,169.0,11.0,17.0,2.0,55.0,135.0,12.0,1.0,0.0,3,True
+626547,254393,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Pearl,2,All Gamers,Paper Rex,7,13,K1ra,46748,astra,0.69,153.0,10.0,15.0,4.0,55.0,105.0,25.0,1.0,3.0,3,True
+626547,254393,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Pearl,2,All Gamers,Paper Rex,7,13,iamgrq,58959,neon,0.43,110.0,5.0,16.0,7.0,70.0,90.0,15.0,3.0,4.0,3,True
+626547,254394,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Split,3,Paper Rex,All Gamers,13,4,something,17086,yoru,1.92,335.0,23.0,7.0,2.0,94.0,194.0,28.0,6.0,0.0,3,True
+626547,254394,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Split,3,Paper Rex,All Gamers,13,4,Jinggg,7378,raze,1.54,287.0,18.0,10.0,5.0,82.0,182.0,20.0,3.0,0.0,3,True
+626547,254394,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Split,3,Paper Rex,All Gamers,13,4,invy,8504,fade,1.52,241.0,15.0,9.0,8.0,94.0,150.0,25.0,4.0,1.0,3,True
+626547,254394,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Split,3,Paper Rex,All Gamers,13,4,d4v41,9803,viper,0.96,180.0,12.0,10.0,4.0,71.0,121.0,23.0,0.0,2.0,3,True
+626547,254394,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Split,3,Paper Rex,All Gamers,13,4,f0rsakeN,9801,omen,0.74,143.0,7.0,11.0,14.0,76.0,107.0,35.0,0.0,1.0,3,True
+626547,254394,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Split,3,All Gamers,Paper Rex,4,13,Shr1mp,25494,skye,0.89,188.0,12.0,15.0,4.0,53.0,111.0,36.0,1.0,2.0,3,True
+626547,254394,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Split,3,All Gamers,Paper Rex,4,13,K1ra,46748,raze,0.61,179.0,10.0,15.0,1.0,65.0,106.0,11.0,3.0,2.0,3,True
+626547,254394,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Split,3,All Gamers,Paper Rex,4,13,Au1,55038,viper,0.58,172.0,8.0,15.0,5.0,59.0,135.0,24.0,0.0,2.0,3,True
+626547,254394,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Split,3,All Gamers,Paper Rex,4,13,f4ngeer,21216,waylay,0.57,158.0,10.0,16.0,0.0,53.0,108.0,45.0,0.0,4.0,3,True
+626547,254394,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 2,2026-03-10,Split,3,All Gamers,Paper Rex,4,13,iamgrq,58959,omen,0.49,130.0,7.0,14.0,3.0,47.0,87.0,25.0,0.0,3.0,3,True
+626543,254378,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Bind,1,Nongshim RedForce,NRG,13,9,Francis,31828,yoru,1.76,319.0,24.0,12.0,6.0,82.0,200.0,21.0,7.0,3.0,3,True
+626543,254378,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Bind,1,Nongshim RedForce,NRG,13,9,Rb,488,brimstone,1.13,215.0,17.0,15.0,9.0,77.0,138.0,23.0,2.0,1.0,3,True
+626543,254378,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Bind,1,Nongshim RedForce,NRG,13,9,Dambi,31827,neon,0.99,232.0,19.0,18.0,5.0,77.0,137.0,14.0,3.0,3.0,3,True
+626543,254378,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Bind,1,Nongshim RedForce,NRG,13,9,Xross,42772,fade,0.75,144.0,11.0,16.0,7.0,73.0,105.0,39.0,0.0,1.0,3,True
+626543,254378,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Bind,1,Nongshim RedForce,NRG,13,9,Ivy,31829,viper,0.66,109.0,8.0,14.0,7.0,64.0,83.0,31.0,1.0,1.0,3,True
+626543,254378,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Bind,1,NRG,Nongshim RedForce,9,13,skuba,11118,viper,1.07,233.0,18.0,16.0,5.0,73.0,143.0,21.0,4.0,2.0,3,True
+626543,254378,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Bind,1,NRG,Nongshim RedForce,9,13,keiko,11494,raze,0.99,225.0,19.0,19.0,1.0,91.0,144.0,23.0,2.0,2.0,3,True
+626543,254378,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Bind,1,NRG,Nongshim RedForce,9,13,brawk,2172,brimstone,0.88,171.0,13.0,15.0,5.0,59.0,132.0,51.0,0.0,2.0,3,True
+626543,254378,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Bind,1,NRG,Nongshim RedForce,9,13,Ethan,11225,fade,0.88,147.0,13.0,12.0,4.0,68.0,93.0,13.0,0.0,1.0,3,True
+626543,254378,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Bind,1,NRG,Nongshim RedForce,9,13,mada,5132,yoru,0.65,162.0,12.0,17.0,5.0,73.0,113.0,15.0,3.0,6.0,3,True
+626543,254379,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Abyss,2,Nongshim RedForce,NRG,13,11,Francis,31828,yoru,1.25,225.0,20.0,15.0,5.0,79.0,150.0,22.0,1.0,1.0,3,True
+626543,254379,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Abyss,2,Nongshim RedForce,NRG,13,11,Ivy,31829,cypher,1.11,206.0,19.0,14.0,5.0,75.0,131.0,35.0,2.0,2.0,3,True
+626543,254379,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Abyss,2,Nongshim RedForce,NRG,13,11,Xross,42772,sova,0.93,174.0,16.0,16.0,1.0,83.0,116.0,31.0,2.0,0.0,3,True
+626543,254379,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Abyss,2,Nongshim RedForce,NRG,13,11,Rb,488,omen,0.91,179.0,15.0,16.0,12.0,79.0,123.0,23.0,2.0,2.0,3,True
+626543,254379,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Abyss,2,Nongshim RedForce,NRG,13,11,Dambi,31827,waylay,0.85,200.0,16.0,18.0,6.0,75.0,123.0,29.0,6.0,6.0,3,True
+626543,254379,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Abyss,2,NRG,Nongshim RedForce,11,13,keiko,11494,omen,1.47,258.0,22.0,16.0,9.0,71.0,164.0,45.0,2.0,2.0,3,True
+626543,254379,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Abyss,2,NRG,Nongshim RedForce,11,13,skuba,11118,viper,1.21,229.0,22.0,17.0,3.0,71.0,156.0,27.0,1.0,2.0,3,True
+626543,254379,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Abyss,2,NRG,Nongshim RedForce,11,13,brawk,2172,sova,0.88,166.0,13.0,16.0,7.0,67.0,119.0,18.0,2.0,2.0,3,True
+626543,254379,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Abyss,2,NRG,Nongshim RedForce,11,13,mada,5132,waylay,0.72,168.0,14.0,20.0,3.0,54.0,101.0,16.0,3.0,3.0,3,True
+626543,254379,2760,Valorant Masters Santiago 2026,Playoffs: Upper Final,2026-03-13,Abyss,2,NRG,Nongshim RedForce,11,13,Ethan,11225,tejo,0.35,97.0,7.0,19.0,2.0,58.0,66.0,22.0,3.0,4.0,3,True
+626549,254398,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Haven,1,Paper Rex,G2 Esports,11,13,d4v41,9803,chamber,1.25,237.0,22.0,15.0,0.0,71.0,147.0,30.0,6.0,1.0,3,True
+626549,254398,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Haven,1,Paper Rex,G2 Esports,11,13,Jinggg,7378,phoenix,1.03,226.0,16.0,18.0,13.0,83.0,168.0,43.0,2.0,1.0,3,True
+626549,254398,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Haven,1,Paper Rex,G2 Esports,11,13,f0rsakeN,9801,omen,0.97,205.0,16.0,17.0,4.0,67.0,150.0,33.0,2.0,1.0,3,True
+626549,254398,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Haven,1,Paper Rex,G2 Esports,11,13,something,17086,yoru,0.79,168.0,15.0,17.0,3.0,58.0,105.0,31.0,2.0,3.0,3,True
+626549,254398,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Haven,1,Paper Rex,G2 Esports,11,13,invy,8504,fade,0.75,167.0,11.0,17.0,9.0,67.0,122.0,38.0,3.0,3.0,3,True
+626549,254398,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Haven,1,G2 Esports,Paper Rex,13,11,jawgemo,3993,phoenix,1.36,265.0,24.0,17.0,2.0,71.0,173.0,21.0,0.0,5.0,3,True
+626549,254398,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Haven,1,G2 Esports,Paper Rex,13,11,valyn,3885,astra,1.14,175.0,14.0,13.0,9.0,71.0,111.0,35.0,3.0,4.0,3,True
+626549,254398,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Haven,1,G2 Esports,Paper Rex,13,11,trent,15500,fade,1.13,195.0,16.0,15.0,7.0,75.0,138.0,29.0,1.0,0.0,3,True
+626549,254398,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Haven,1,G2 Esports,Paper Rex,13,11,leaf,7873,yoru,0.86,217.0,18.0,18.0,6.0,63.0,137.0,27.0,2.0,3.0,3,True
+626549,254398,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Haven,1,G2 Esports,Paper Rex,13,11,BABYBAY,2170,chamber,0.76,144.0,12.0,17.0,3.0,63.0,89.0,10.0,3.0,3.0,3,True
+626549,254399,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Breeze,2,Paper Rex,G2 Esports,13,9,something,17086,jett,1.38,261.0,21.0,11.0,1.0,82.0,169.0,21.0,2.0,2.0,3,True
+626549,254399,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Breeze,2,Paper Rex,G2 Esports,13,9,f0rsakeN,9801,yoru,1.22,272.0,21.0,14.0,6.0,82.0,170.0,36.0,3.0,4.0,3,True
+626549,254399,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Breeze,2,Paper Rex,G2 Esports,13,9,invy,8504,sova,1.19,228.0,18.0,13.0,5.0,82.0,188.0,38.0,1.0,2.0,3,True
+626549,254399,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Breeze,2,Paper Rex,G2 Esports,13,9,Jinggg,7378,omen,1.06,156.0,14.0,12.0,5.0,73.0,109.0,35.0,2.0,3.0,3,True
+626549,254399,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Breeze,2,Paper Rex,G2 Esports,13,9,d4v41,9803,viper,0.73,157.0,12.0,15.0,5.0,59.0,104.0,44.0,2.0,1.0,3,True
+626549,254399,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Breeze,2,G2 Esports,Paper Rex,9,13,trent,15500,sova,1.34,206.0,17.0,14.0,5.0,64.0,147.0,41.0,2.0,0.0,3,True
+626549,254399,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Breeze,2,G2 Esports,Paper Rex,9,13,jawgemo,3993,neon,1.03,243.0,16.0,19.0,9.0,68.0,174.0,18.0,4.0,3.0,3,True
+626549,254399,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Breeze,2,G2 Esports,Paper Rex,9,13,valyn,3885,astra,0.9,163.0,11.0,18.0,9.0,73.0,113.0,27.0,4.0,1.0,3,True
+626549,254399,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Breeze,2,G2 Esports,Paper Rex,9,13,leaf,7873,viper,0.65,174.0,12.0,19.0,5.0,50.0,112.0,27.0,2.0,4.0,3,True
+626549,254399,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Breeze,2,G2 Esports,Paper Rex,9,13,BABYBAY,2170,yoru,0.59,103.0,9.0,16.0,4.0,55.0,61.0,9.0,0.0,2.0,3,True
+626549,254400,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Corrode,3,Paper Rex,G2 Esports,13,4,something,17086,waylay,1.86,290.0,21.0,5.0,4.0,94.0,145.0,18.0,6.0,1.0,3,True
+626549,254400,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Corrode,3,Paper Rex,G2 Esports,13,4,d4v41,9803,vyse,1.53,271.0,19.0,9.0,3.0,94.0,177.0,33.0,2.0,0.0,3,True
+626549,254400,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Corrode,3,Paper Rex,G2 Esports,13,4,Jinggg,7378,omen,1.51,277.0,15.0,8.0,11.0,82.0,194.0,27.0,3.0,1.0,3,True
+626549,254400,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Corrode,3,Paper Rex,G2 Esports,13,4,f0rsakeN,9801,viper,1.16,244.0,14.0,10.0,7.0,82.0,175.0,30.0,2.0,0.0,3,True
+626549,254400,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Corrode,3,Paper Rex,G2 Esports,13,4,invy,8504,fade,0.69,135.0,8.0,9.0,4.0,65.0,94.0,19.0,0.0,2.0,3,True
+626549,254400,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Corrode,3,G2 Esports,Paper Rex,4,13,jawgemo,3993,neon,0.87,193.0,12.0,15.0,2.0,47.0,104.0,17.0,3.0,3.0,3,True
+626549,254400,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Corrode,3,G2 Esports,Paper Rex,4,13,leaf,7873,vyse,0.83,150.0,8.0,15.0,6.0,65.0,105.0,19.0,1.0,3.0,3,True
+626549,254400,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Corrode,3,G2 Esports,Paper Rex,4,13,BABYBAY,2170,yoru,0.61,131.0,7.0,15.0,3.0,53.0,89.0,23.0,0.0,2.0,3,True
+626549,254400,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Corrode,3,G2 Esports,Paper Rex,4,13,trent,15500,fade,0.59,162.0,9.0,16.0,4.0,65.0,116.0,37.0,0.0,1.0,3,True
+626549,254400,2760,Valorant Masters Santiago 2026,Playoffs: Lower Round 3,2026-03-13,Corrode,3,G2 Esports,Paper Rex,4,13,valyn,3885,astra,0.3,96.0,5.0,16.0,2.0,41.0,66.0,17.0,0.0,4.0,3,True
+626550,254401,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Pearl,1,NRG,Paper Rex,13,8,keiko,11494,killjoy,1.46,260.0,23.0,12.0,1.0,62.0,158.0,21.0,3.0,2.0,5,True
+626550,254401,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Pearl,1,NRG,Paper Rex,13,8,mada,5132,waylay,1.18,291.0,20.0,19.0,5.0,81.0,195.0,30.0,8.0,0.0,5,True
+626550,254401,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Pearl,1,NRG,Paper Rex,13,8,Ethan,11225,tejo,1.06,199.0,17.0,14.0,6.0,76.0,140.0,31.0,0.0,1.0,5,True
+626550,254401,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Pearl,1,NRG,Paper Rex,13,8,brawk,2172,sova,0.89,155.0,9.0,14.0,9.0,71.0,113.0,10.0,0.0,2.0,5,True
+626550,254401,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Pearl,1,NRG,Paper Rex,13,8,skuba,11118,astra,0.84,187.0,15.0,16.0,6.0,71.0,113.0,19.0,2.0,3.0,5,True
+626550,254401,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Pearl,1,Paper Rex,NRG,8,13,invy,8504,sova,1.25,280.0,20.0,16.0,4.0,67.0,193.0,26.0,1.0,4.0,5,True
+626550,254401,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Pearl,1,Paper Rex,NRG,8,13,f0rsakeN,9801,astra,1.14,251.0,19.0,18.0,8.0,71.0,155.0,27.0,2.0,1.0,5,True
+626550,254401,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Pearl,1,Paper Rex,NRG,8,13,something,17086,yoru,0.81,173.0,13.0,16.0,3.0,71.0,127.0,27.0,3.0,2.0,5,True
+626550,254401,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Pearl,1,Paper Rex,NRG,8,13,d4v41,9803,vyse,0.72,181.0,13.0,17.0,5.0,48.0,114.0,29.0,0.0,0.0,5,True
+626550,254401,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Pearl,1,Paper Rex,NRG,8,13,Jinggg,7378,neon,0.54,131.0,10.0,17.0,3.0,57.0,90.0,22.0,2.0,6.0,5,True
+626550,254402,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Split,2,NRG,Paper Rex,7,13,skuba,11118,viper,1.12,225.0,16.0,16.0,5.0,60.0,141.0,25.0,1.0,2.0,5,True
+626550,254402,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Split,2,NRG,Paper Rex,7,13,mada,5132,neon,0.82,210.0,13.0,17.0,5.0,55.0,128.0,13.0,5.0,6.0,5,True
+626550,254402,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Split,2,NRG,Paper Rex,7,13,keiko,11494,omen,0.79,139.0,9.0,15.0,7.0,55.0,91.0,34.0,0.0,1.0,5,True
+626550,254402,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Split,2,NRG,Paper Rex,7,13,Ethan,11225,skye,0.71,134.0,11.0,16.0,4.0,55.0,91.0,24.0,1.0,1.0,5,True
+626550,254402,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Split,2,NRG,Paper Rex,7,13,brawk,2172,vyse,0.7,123.0,8.0,14.0,3.0,60.0,81.0,31.0,2.0,1.0,5,True
+626550,254402,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Split,2,Paper Rex,NRG,13,7,something,17086,yoru,1.45,295.0,21.0,11.0,4.0,85.0,181.0,18.0,3.0,1.0,5,True
+626550,254402,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Split,2,Paper Rex,NRG,13,7,d4v41,9803,viper,1.25,214.0,16.0,10.0,5.0,85.0,141.0,26.0,3.0,1.0,5,True
+626550,254402,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Split,2,Paper Rex,NRG,13,7,invy,8504,fade,1.15,192.0,14.0,11.0,6.0,80.0,129.0,45.0,0.0,0.0,5,True
+626550,254402,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Split,2,Paper Rex,NRG,13,7,Jinggg,7378,raze,1.09,238.0,17.0,13.0,7.0,85.0,157.0,19.0,3.0,3.0,5,True
+626550,254402,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Split,2,Paper Rex,NRG,13,7,f0rsakeN,9801,omen,0.76,130.0,10.0,12.0,6.0,75.0,82.0,25.0,2.0,4.0,5,True
+626550,254403,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Corrode,3,NRG,Paper Rex,6,13,skuba,11118,viper,1.37,278.0,19.0,13.0,5.0,79.0,176.0,27.0,2.0,0.0,5,True
+626550,254403,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Corrode,3,NRG,Paper Rex,6,13,keiko,11494,omen,0.88,193.0,12.0,16.0,8.0,84.0,122.0,29.0,1.0,1.0,5,True
+626550,254403,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Corrode,3,NRG,Paper Rex,6,13,mada,5132,waylay,0.78,201.0,12.0,15.0,4.0,53.0,124.0,24.0,4.0,7.0,5,True
+626550,254403,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Corrode,3,NRG,Paper Rex,6,13,brawk,2172,sova,0.69,169.0,11.0,15.0,4.0,68.0,117.0,30.0,1.0,0.0,5,True
+626550,254403,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Corrode,3,NRG,Paper Rex,6,13,Ethan,11225,skye,0.56,120.0,8.0,17.0,5.0,53.0,85.0,23.0,0.0,3.0,5,True
+626550,254403,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Corrode,3,Paper Rex,NRG,13,6,d4v41,9803,vyse,1.36,235.0,18.0,12.0,3.0,79.0,147.0,33.0,1.0,0.0,5,True
+626550,254403,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Corrode,3,Paper Rex,NRG,13,6,f0rsakeN,9801,viper,1.2,235.0,17.0,13.0,6.0,74.0,159.0,23.0,2.0,0.0,5,True
+626550,254403,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Corrode,3,Paper Rex,NRG,13,6,invy,8504,fade,1.15,218.0,15.0,12.0,3.0,68.0,154.0,33.0,4.0,4.0,5,True
+626550,254403,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Corrode,3,Paper Rex,NRG,13,6,Jinggg,7378,omen,1.06,233.0,15.0,12.0,6.0,68.0,154.0,31.0,2.0,2.0,5,True
+626550,254403,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Corrode,3,Paper Rex,NRG,13,6,something,17086,waylay,0.85,176.0,11.0,13.0,3.0,58.0,139.0,28.0,2.0,2.0,5,True
+626550,254404,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Breeze,4,NRG,Paper Rex,9,13,skuba,11118,viper,1.28,227.0,19.0,14.0,2.0,73.0,147.0,39.0,2.0,1.0,5,True
+626550,254404,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Breeze,4,NRG,Paper Rex,9,13,mada,5132,yoru,1.23,222.0,17.0,15.0,7.0,91.0,147.0,58.0,5.0,3.0,5,True
+626550,254404,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Breeze,4,NRG,Paper Rex,9,13,Ethan,11225,omen,1.07,234.0,17.0,17.0,5.0,59.0,161.0,38.0,2.0,2.0,5,True
+626550,254404,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Breeze,4,NRG,Paper Rex,9,13,brawk,2172,sova,0.85,189.0,13.0,16.0,5.0,68.0,126.0,23.0,0.0,0.0,5,True
+626550,254404,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Breeze,4,NRG,Paper Rex,9,13,keiko,11494,jett,0.56,150.0,12.0,19.0,2.0,64.0,106.0,48.0,2.0,5.0,5,True
+626550,254404,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Breeze,4,Paper Rex,NRG,13,9,Jinggg,7378,omen,1.37,247.0,19.0,14.0,9.0,77.0,156.0,16.0,2.0,2.0,5,True
+626550,254404,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Breeze,4,Paper Rex,NRG,13,9,f0rsakeN,9801,yoru,1.11,247.0,19.0,18.0,9.0,73.0,148.0,29.0,5.0,5.0,5,True
+626550,254404,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Breeze,4,Paper Rex,NRG,13,9,d4v41,9803,viper,1.09,208.0,19.0,13.0,0.0,73.0,143.0,34.0,1.0,0.0,5,True
+626550,254404,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Breeze,4,Paper Rex,NRG,13,9,invy,8504,sova,0.95,193.0,15.0,15.0,4.0,64.0,140.0,41.0,0.0,0.0,5,True
+626550,254404,2760,Valorant Masters Santiago 2026,Playoffs: Lower Final,2026-03-14,Breeze,4,Paper Rex,NRG,13,9,something,17086,jett,0.47,127.0,9.0,18.0,5.0,64.0,100.0,32.0,3.0,4.0,5,True
+626544,254381,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Corrode,1,Nongshim RedForce,Paper Rex,13,11,Xross,42772,fade,1.27,259.0,25.0,16.0,4.0,75.0,172.0,31.0,2.0,0.0,5,True
+626544,254381,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Corrode,1,Nongshim RedForce,Paper Rex,13,11,Ivy,31829,viper,1.07,183.0,16.0,13.0,6.0,71.0,120.0,47.0,2.0,2.0,5,True
+626544,254381,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Corrode,1,Nongshim RedForce,Paper Rex,13,11,Rb,488,omen,1.05,218.0,19.0,17.0,9.0,71.0,131.0,22.0,1.0,1.0,5,True
+626544,254381,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Corrode,1,Nongshim RedForce,Paper Rex,13,11,Dambi,31827,neon,0.92,198.0,16.0,19.0,6.0,71.0,129.0,19.0,4.0,5.0,5,True
+626544,254381,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Corrode,1,Nongshim RedForce,Paper Rex,13,11,Francis,31828,yoru,0.73,167.0,12.0,19.0,7.0,79.0,110.0,26.0,3.0,4.0,5,True
+626544,254381,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Corrode,1,Paper Rex,Nongshim RedForce,11,13,Jinggg,7378,omen,1.37,252.0,23.0,16.0,9.0,83.0,156.0,41.0,1.0,1.0,5,True
+626544,254381,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Corrode,1,Paper Rex,Nongshim RedForce,11,13,something,17086,waylay,1.14,253.0,20.0,18.0,6.0,71.0,159.0,17.0,7.0,3.0,5,True
+626544,254381,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Corrode,1,Paper Rex,Nongshim RedForce,11,13,d4v41,9803,vyse,1.0,203.0,17.0,18.0,7.0,58.0,151.0,32.0,0.0,1.0,5,True
+626544,254381,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Corrode,1,Paper Rex,Nongshim RedForce,11,13,f0rsakeN,9801,viper,0.74,169.0,13.0,18.0,5.0,67.0,122.0,38.0,3.0,6.0,5,True
+626544,254381,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Corrode,1,Paper Rex,Nongshim RedForce,11,13,invy,8504,fade,0.71,129.0,11.0,18.0,10.0,58.0,75.0,45.0,1.0,1.0,5,True
+626544,254382,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Split,2,Nongshim RedForce,Paper Rex,13,4,Ivy,31829,viper,1.58,290.0,19.0,8.0,2.0,88.0,175.0,33.0,2.0,0.0,5,True
+626544,254382,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Split,2,Nongshim RedForce,Paper Rex,13,4,Xross,42772,fade,1.45,224.0,14.0,7.0,8.0,88.0,140.0,18.0,3.0,1.0,5,True
+626544,254382,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Split,2,Nongshim RedForce,Paper Rex,13,4,Francis,31828,yoru,1.37,268.0,17.0,10.0,6.0,94.0,181.0,19.0,4.0,1.0,5,True
+626544,254382,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Split,2,Nongshim RedForce,Paper Rex,13,4,Dambi,31827,neon,1.17,220.0,14.0,10.0,5.0,71.0,125.0,12.0,3.0,1.0,5,True
+626544,254382,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Split,2,Nongshim RedForce,Paper Rex,13,4,Rb,488,omen,1.04,181.0,12.0,9.0,8.0,76.0,114.0,23.0,1.0,1.0,5,True
+626544,254382,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Split,2,Paper Rex,Nongshim RedForce,4,13,f0rsakeN,9801,omen,1.16,296.0,15.0,16.0,1.0,71.0,194.0,19.0,0.0,0.0,5,True
+626544,254382,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Split,2,Paper Rex,Nongshim RedForce,4,13,invy,8504,fade,0.75,191.0,12.0,15.0,1.0,53.0,123.0,33.0,1.0,1.0,5,True
+626544,254382,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Split,2,Paper Rex,Nongshim RedForce,4,13,d4v41,9803,viper,0.73,163.0,9.0,15.0,1.0,47.0,104.0,44.0,2.0,2.0,5,True
+626544,254382,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Split,2,Paper Rex,Nongshim RedForce,4,13,Jinggg,7378,raze,0.62,110.0,7.0,13.0,1.0,47.0,73.0,17.0,1.0,3.0,5,True
+626544,254382,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Split,2,Paper Rex,Nongshim RedForce,4,13,something,17086,yoru,0.02,41.0,1.0,17.0,2.0,29.0,36.0,13.0,0.0,7.0,5,True
+626544,254383,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Abyss,3,Nongshim RedForce,Paper Rex,13,3,Xross,42772,sova,2.15,358.0,21.0,5.0,5.0,94.0,245.0,23.0,1.0,0.0,5,True
+626544,254383,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Abyss,3,Nongshim RedForce,Paper Rex,13,3,Francis,31828,yoru,1.27,283.0,17.0,11.0,4.0,69.0,172.0,43.0,5.0,0.0,5,True
+626544,254383,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Abyss,3,Nongshim RedForce,Paper Rex,13,3,Dambi,31827,waylay,1.08,172.0,11.0,9.0,2.0,75.0,124.0,24.0,2.0,2.0,5,True
+626544,254383,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Abyss,3,Nongshim RedForce,Paper Rex,13,3,Ivy,31829,cypher,0.96,218.0,13.0,11.0,6.0,75.0,153.0,45.0,2.0,1.0,5,True
+626544,254383,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Abyss,3,Nongshim RedForce,Paper Rex,13,3,Rb,488,omen,0.87,112.0,6.0,7.0,8.0,75.0,67.0,14.0,2.0,1.0,5,True
+626544,254383,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Abyss,3,Paper Rex,Nongshim RedForce,3,13,d4v41,9803,vyse,1.3,245.0,15.0,13.0,1.0,56.0,151.0,37.0,1.0,0.0,5,True
+626544,254383,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Abyss,3,Paper Rex,Nongshim RedForce,3,13,Jinggg,7378,omen,0.78,155.0,9.0,13.0,3.0,75.0,108.0,36.0,1.0,4.0,5,True
+626544,254383,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Abyss,3,Paper Rex,Nongshim RedForce,3,13,something,17086,yoru,0.59,155.0,7.0,14.0,2.0,56.0,112.0,24.0,1.0,1.0,5,True
+626544,254383,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Abyss,3,Paper Rex,Nongshim RedForce,3,13,invy,8504,sova,0.54,113.0,6.0,13.0,3.0,56.0,71.0,26.0,0.0,1.0,5,True
+626544,254383,2760,Valorant Masters Santiago 2026,Playoffs: Grand Final,2026-03-15,Abyss,3,Paper Rex,Nongshim RedForce,3,13,f0rsakeN,9801,waylay,0.32,114.0,6.0,15.0,2.0,44.0,69.0,20.0,1.0,6.0,5,True
