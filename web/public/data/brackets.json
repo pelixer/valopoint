@@ -1,0 +1,230 @@
+{
+ "generated_at": "2026-10-01T14:43:00+00:00",
+ "brackets": [
+  {
+   "id": "vlr-2766",
+   "event_id": 2766,
+   "name": "Valorant Champions 2026",
+   "region": "INTL",
+   "kind": "groups",
+   "teams": [
+    "100 Thieves",
+    "EDward Gaming",
+    "FUT Esports",
+    "G2 Esports",
+    "Global Esports",
+    "JD Gaming",
+    "Karmine Corp",
+    "LOUD",
+    "NRG",
+    "Nongshim RedForce",
+    "Paper Rex",
+    "T1",
+    "TYLOO",
+    "Team Liquid",
+    "Team Vitality",
+    "Xi Lai Gaming"
+   ],
+   "matches": [
+    {
+     "id": "A-O1",
+     "a": "100 Thieves",
+     "b": "T1",
+     "best_of": 3,
+     "round": "그룹 A 오프닝",
+     "vlr_id": 753444,
+     "time": "2026-09-27T09:00:00+00:00"
+    },
+    {
+     "id": "A-O2",
+     "a": "JD Gaming",
+     "b": "FUT Esports",
+     "best_of": 3,
+     "round": "그룹 A 오프닝",
+     "vlr_id": 753445,
+     "time": "2026-09-27T11:35:00+00:00"
+    },
+    {
+     "id": "A-W",
+     "a": "100 Thieves",
+     "b": "FUT Esports",
+     "best_of": 3,
+     "round": "그룹 A 승자전",
+     "vlr_id": 753446,
+     "time": "2026-09-30T11:55:00+00:00"
+    },
+    {
+     "id": "A-E",
+     "a": "T1",
+     "b": "JD Gaming",
+     "best_of": 3,
+     "round": "그룹 A 패자전",
+     "vlr_id": 753447,
+     "time": "2026-10-02T12:00:00+00:00"
+    },
+    {
+     "id": "A-D",
+     "a": "L:A-W",
+     "b": "W:A-E",
+     "best_of": 3,
+     "round": "그룹 A 최종전",
+     "vlr_id": 753448,
+     "time": "2026-10-04T09:00:00+00:00"
+    },
+    {
+     "id": "B-O1",
+     "a": "Global Esports",
+     "b": "Team Vitality",
+     "best_of": 3,
+     "round": "그룹 B 오프닝",
+     "vlr_id": 753449,
+     "time": "2026-09-26T09:00:00+00:00"
+    },
+    {
+     "id": "B-O2",
+     "a": "LOUD",
+     "b": "EDward Gaming",
+     "best_of": 3,
+     "round": "그룹 B 오프닝",
+     "vlr_id": 753450,
+     "time": "2026-09-26T12:30:00+00:00"
+    },
+    {
+     "id": "B-W",
+     "a": "Team Vitality",
+     "b": "LOUD",
+     "best_of": 3,
+     "round": "그룹 B 승자전",
+     "vlr_id": 753451,
+     "time": "2026-09-30T09:00:00+00:00"
+    },
+    {
+     "id": "B-E",
+     "a": "Global Esports",
+     "b": "EDward Gaming",
+     "best_of": 3,
+     "round": "그룹 B 패자전",
+     "vlr_id": 753452,
+     "time": "2026-10-02T09:00:00+00:00"
+    },
+    {
+     "id": "B-D",
+     "a": "L:B-W",
+     "b": "W:B-E",
+     "best_of": 3,
+     "round": "그룹 B 최종전",
+     "vlr_id": 753453,
+     "time": "2026-10-04T12:00:00+00:00"
+    },
+    {
+     "id": "C-O1",
+     "a": "TYLOO",
+     "b": "G2 Esports",
+     "best_of": 3,
+     "round": "그룹 C 오프닝",
+     "vlr_id": 753454,
+     "time": "2026-09-24T12:25:00+00:00"
+    },
+    {
+     "id": "C-O2",
+     "a": "Team Liquid",
+     "b": "Paper Rex",
+     "best_of": 3,
+     "round": "그룹 C 오프닝",
+     "vlr_id": 753455,
+     "time": "2026-09-24T09:00:00+00:00"
+    },
+    {
+     "id": "C-W",
+     "a": "G2 Esports",
+     "b": "Paper Rex",
+     "best_of": 3,
+     "round": "그룹 C 승자전",
+     "vlr_id": 753456,
+     "time": "2026-09-29T09:00:00+00:00"
+    },
+    {
+     "id": "C-E",
+     "a": "TYLOO",
+     "b": "Team Liquid",
+     "best_of": 3,
+     "round": "그룹 C 패자전",
+     "vlr_id": 753457,
+     "time": "2026-10-01T09:00:00+00:00"
+    },
+    {
+     "id": "C-D",
+     "a": "G2 Esports",
+     "b": "Team Liquid",
+     "best_of": 3,
+     "round": "그룹 C 최종전",
+     "vlr_id": 753458,
+     "time": "2026-10-03T09:00:00+00:00"
+    },
+    {
+     "id": "D-O1",
+     "a": "Karmine Corp",
+     "b": "Xi Lai Gaming",
+     "best_of": 3,
+     "round": "그룹 D 오프닝",
+     "vlr_id": 753459,
+     "time": "2026-09-25T11:25:00+00:00"
+    },
+    {
+     "id": "D-O2",
+     "a": "Nongshim RedForce",
+     "b": "NRG",
+     "best_of": 3,
+     "round": "그룹 D 오프닝",
+     "vlr_id": 753460,
+     "time": "2026-09-25T09:00:00+00:00"
+    },
+    {
+     "id": "D-W",
+     "a": "Karmine Corp",
+     "b": "NRG",
+     "best_of": 3,
+     "round": "그룹 D 승자전",
+     "vlr_id": 753461,
+     "time": "2026-09-29T12:30:00+00:00"
+    },
+    {
+     "id": "D-E",
+     "a": "Xi Lai Gaming",
+     "b": "Nongshim RedForce",
+     "best_of": 3,
+     "round": "그룹 D 패자전",
+     "vlr_id": 753462,
+     "time": "2026-10-01T12:05:00+00:00"
+    },
+    {
+     "id": "D-D",
+     "a": "Karmine Corp",
+     "b": "Nongshim RedForce",
+     "best_of": 3,
+     "round": "그룹 D 최종전",
+     "vlr_id": 753463,
+     "time": "2026-10-03T12:00:00+00:00"
+    }
+   ],
+   "final": "D-D",
+   "results": {
+    "A-O1": "100 Thieves",
+    "A-O2": "FUT Esports",
+    "A-W": "100 Thieves",
+    "B-O1": "Team Vitality",
+    "B-O2": "LOUD",
+    "B-W": "Team Vitality",
+    "C-O1": "G2 Esports",
+    "C-O2": "Paper Rex",
+    "C-W": "Paper Rex",
+    "C-E": "Team Liquid",
+    "D-O1": "Karmine Corp",
+    "D-O2": "NRG",
+    "D-W": "NRG",
+    "D-E": "Nongshim RedForce"
+   },
+   "assumed": []
+  }
+ ]
+}
