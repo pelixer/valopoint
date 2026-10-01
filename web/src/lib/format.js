@@ -24,3 +24,12 @@ export function kst(iso) {
     hour: '2-digit', minute: '2-digit', hour12: false,
   }).format(d) + ' KST';
 }
+
+export function kstShort(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return '';
+  return new Intl.DateTimeFormat('ko-KR', {
+    timeZone: 'Asia/Seoul', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false,
+  }).format(d);
+}

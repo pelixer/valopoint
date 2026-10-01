@@ -12,8 +12,12 @@ def main(argv=None):
     ap.add_argument("--data", default="data", help="data dir with events.json and rows/")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
-    s = sub.add_parser("events", help="discover VCT events from vlr.gg into events.json")
-    s.add_argument("--years", type=int, nargs="+", default=[2025, 2026])
+    s = sub.add_parser("events", help="discover VCT events from vlr.gg and merge into events.json")
+    s.add_argument("--years", type=int, nargs="+", help="default: last year and this year")
+
+    s = sub.add_parser("bracket", help="scrape the most relevant ongoing event's bracket")
+    s.add_argument("--event", type=int, help="force a specific event id")
+    s.add_argument("--out", default="web/public/data/brackets.json")
 
     s = sub.add_parser("scrape", help="scrape events listed in events.json")
     s.add_argument("--event", type=int, nargs="*", help="only these event ids")
@@ -41,13 +45,35 @@ def main(argv=None):
     data = Path(a.data)
 
     if a.cmd == "events":
+        from datetime import date
         from .scrape.events import discover
         from .scrape.vlr import Fetcher
-        ev = discover(Fetcher(), a.years)
+        years = a.years or [date.today().year - 1, date.today().year]
+        found = discover(Fetcher(), years)
+        path = data / "events.json"
+        old = {e["event_id"]: e for e in json.loads(path.read_text(encoding="utf-8"))} if path.exists() else {}
+        merged = {**{e["event_id"]: e for e in found}}
+        for eid, e in old.items():          # keep completion flags and hand edits
+            merged[eid] = {**merged.get(eid, {}), **e}
+        ev = sorted(merged.values(), key=lambda e: -e["event_id"])
         data.mkdir(exist_ok=True)
-        (data / "events.json").write_text(json.dumps(ev, indent=1, ensure_ascii=False), encoding="utf-8")
-        for e in ev:
-            print(e)
+        path.write_text(json.dumps(ev, indent=1, ensure_ascii=False), encoding="utf-8")
+        print(f"{len(ev)} events ({len(set(merged) - set(old))} new)")
+        return
+    if a.cmd == "bracket":
+        from datetime import datetime, timezone
+        from pathlib import Path as P
+        from .scrape.bracket import pick_event, scrape_bracket
+        from .scrape.vlr import Fetcher
+        ev = json.loads((data / "events.json").read_text(encoding="utf-8"))
+        target = next((e for e in ev if e["event_id"] == a.event), None) if a.event else pick_event(ev)
+        if target is None:
+            print("no event"); return
+        br = scrape_bracket(Fetcher(delay=1.0), target)
+        out = {"generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"), "brackets": [br]}
+        P(a.out).parent.mkdir(parents=True, exist_ok=True)
+        P(a.out).write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"{target['name']}: {len(br['matches'])} matches, {len(br['results'])} played, kind={br['kind']}")
         return
     if a.cmd == "scrape":
         from .scrape.vlr import Fetcher, scrape_event

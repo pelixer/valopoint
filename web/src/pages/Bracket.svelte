@@ -1,16 +1,17 @@
 <script>
   import { app, persisted } from '../lib/store.svelte.js';
   import { simulateBracket } from '../lib/engine.js';
-  import { pct } from '../lib/format.js';
+  import { fx, kst, kstShort, pct } from '../lib/format.js';
 
-  const brackets = app.model.brackets ?? [];
   const store = persisted('bracket-locks', {});
   let idx = $state(0);
-  let br = $derived(brackets[idx]);
-  // official results from the data file + my own locks / what-ifs
+  let br = $derived(app.brackets[idx]);
+  // official results from vlr.gg + my own what-if locks
   let mine = $state(store.get());
   let locked = $derived(br ? { ...(br.results ?? {}), ...(mine[br.id] ?? {}) } : {});
-  let sim = $derived(br ? simulateBracket(app.engine, br, locked, 20000) : null);
+  let full = $derived(br?.kind === 'full' || br?.kind === undefined);
+  let sim = $derived(br && br.matches.length ? simulateBracket(app.engine, br, locked, 20000) : null);
+  let ev = $derived(app.model.event_eval);
 
   function known(ref, res) {
     if (ref.startsWith('W:')) return res[ref.slice(2)]?.[0];
@@ -18,7 +19,6 @@
     const m = /^S(\d+)$/.exec(ref);
     return m ? br.teams[Number(m[1]) - 1] : ref;
   }
-  // teams determined by seeds + locked results (null if still open)
   let fixed = $derived.by(() => {
     if (!br) return {};
     const res = {}, out = {};
@@ -30,8 +30,18 @@
     }
     return out;
   });
+  let rounds = $derived.by(() => {
+    const g = [];
+    for (const m of br?.matches ?? []) {
+      const last = g.at(-1);
+      if (last && last.round === m.round) last.items.push(m);
+      else g.push({ round: m.round, items: [m] });
+    }
+    return g;
+  });
 
   function lock(mid, team) {
+    if (br.results?.[mid]) return;
     const cur = { ...(mine[br.id] ?? {}) };
     if (cur[mid] === team) delete cur[mid];
     else cur[mid] = team;
@@ -43,52 +53,94 @@
     store.set(mine);
   }
   const top = (o, n) => Object.entries(o ?? {}).slice(0, n);
+  const played = (m) => !!br.results?.[m.id];
 </script>
 
-<h1>대진표 시뮬레이션</h1>
-{#if !brackets.length}
-  <p class="muted">등록된 대진표가 없습니다. <code>data/brackets/*.json</code>에 추가하세요.</p>
+<h1>대진표</h1>
+{#if !app.brackets.length}
+  <p class="muted">아직 수집된 대진이 없습니다. 매일 00시·12시(KST)에 진행 중인 대회의 대진을 불러옵니다.</p>
 {:else}
-  {#if brackets.length > 1}
+  {#if app.brackets.length > 1}
     <select bind:value={idx} style="margin-bottom:10px">
-      {#each brackets as b, i}<option value={i}>{b.name}</option>{/each}
+      {#each app.brackets as b, i}<option value={i}>{b.name}</option>{/each}
     </select>
   {/if}
-  <p class="muted small">{br.name} · 20,000회 몬테카를로. 경기를 탭해 승자를 고정하면(실제 결과·가정) 나머지 확률이 즉시 갱신됩니다.</p>
+  <div class="card small">
+    <b>{br.name}</b>
+    <div class="muted">대진 갱신 {kst(app.bracketsAt)} · 완료 {Object.keys(br.results ?? {}).length}/{br.matches.length}경기 · 20,000회 시뮬레이션</div>
+    {#if br.assumed?.length}<div class="muted">플레이오프 대진({br.assumed.join(', ')})은 조별 순위 기반 추정이며, 확정되면 자동으로 바뀝니다.</div>{/if}
+  </div>
 
-  <h2>우승 확률</h2>
+  {#if full && sim}
+    <h2>우승 확률</h2>
+    <div class="list">
+      {#each top(sim.champion, 16) as [t, p]}
+        <div class="row">
+          <div class="grow title">{t}</div>
+          <div style="width:40%"><div class="bar"><span style="width:{p * 100}%"></span></div></div>
+          <span class="num" style="width:52px; text-align:right">{pct(p, 1)}</span>
+        </div>
+      {/each}
+    </div>
+  {/if}
+
+  <h2>경기 <button class="btn small" style="float:right" onclick={reset}>내 가정 초기화</button></h2>
+  <p class="muted small">경기를 탭하면 그 팀이 이긴다고 가정하고 이후 확률을 다시 계산합니다(내 기기에만 저장).</p>
+  {#each rounds as r}
+    <div class="muted small" style="margin:14px 2px 6px; font-weight:600">{r.round}</div>
+    {#each r.items as m}
+      {@const f = fixed[m.id]}
+      <div class="card">
+        <div class="muted small">{kstShort(m.time)} · Bo{m.best_of ?? 3}{played(m) ? ' · 종료' : ''}</div>
+        {#if f.a && f.b}
+          {@const p = app.engine.series(f.a, f.b, m.best_of ?? 3).p}
+          <div style="display:flex; gap:8px; margin-top:6px">
+            {#each [[f.a, p], [f.b, 1 - p]] as [t, q]}
+              <button class="btn" style="flex:1; text-align:left; {locked[m.id] === t ? 'border-color:var(--accent); background:#3a1f25' : ''}"
+                onclick={() => lock(m.id, t)} disabled={played(m)}>
+                <div style="font-weight:600">{t}</div>
+                <div class="muted small">
+                  {#if played(m)}{locked[m.id] === t ? '승' : '패'} · 예측 {pct(q)}
+                  {:else if locked[m.id]}{locked[m.id] === t ? '승 (가정)' : '패 (가정)'}
+                  {:else}{pct(q)}{/if}
+                </div>
+              </button>
+            {/each}
+          </div>
+        {:else if sim}
+          <div class="small" style="margin-top:6px">
+            <span class="muted">진출 예상:</span>
+            {#each top(sim.slot[m.id], 4) as [t, q], i}{i ? ', ' : ' '}{t} {pct(q)}{/each}
+          </div>
+        {/if}
+      </div>
+    {/each}
+  {/each}
+{/if}
+
+{#if ev?.matches?.length}
+  <h2>예측 검증 · {ev.name}</h2>
+  <div class="card small">
+    <p class="muted" style="margin-top:0">각 팀의 첫 경기는 대회 전 데이터(지역리그 등)만으로, 두 번째 경기부터는 그 전까지의 챔스 결과까지 넣어 다시 학습한 모델로 경기 전에 예측했을 때의 성적입니다.</p>
+    <table>
+      <thead><tr><th>구분</th><th>경기</th><th>적중</th><th>Log loss</th></tr></thead>
+      <tbody>
+        {#each [['전체 (시리즈)', ev.summary.series_all], ['팀별 첫 경기', ev.summary.series_first_match], ['두 번째 경기부터', ev.summary.series_later], ['맵 단위', ev.summary.maps], ['맵 단위 · Elo 비교', ev.summary.maps_elo]] as [label, s]}
+          <tr><td>{label}</td><td class="num">{s.n}</td><td class="num">{s.n ? pct(s.accuracy) : '–'}</td><td class="num">{s.n ? fx(s.log_loss, 3) : '–'}</td></tr>
+        {/each}
+      </tbody>
+    </table>
+    <p class="muted">표본이 작아 적중률은 운의 영향이 큽니다. Log loss(낮을수록 좋음, 동전 0.693)가 더 믿을 만한 지표입니다.</p>
+  </div>
   <div class="list">
-    {#each top(sim.champion, 16) as [t, p]}
-      <div class="row">
-        <div class="grow title">{t}</div>
-        <div style="width:40%"><div class="bar"><span style="width:{p * 100}%"></span></div></div>
-        <span class="num" style="width:48px; text-align:right">{pct(p, 1)}</span>
+    {#each ev.matches as m}
+      <div class="row small">
+        <span style="width:18px; color:{m.correct ? 'var(--good)' : 'var(--bad)'}; font-weight:700">{m.correct ? '○' : '×'}</span>
+        <div class="grow">
+          <div><b>{m.team_a}</b> {m.score} <b>{m.team_b}</b></div>
+          <div class="muted">{m.stage} · 예측 {m.p >= 0.5 ? m.team_a : m.team_b} 승 {pct(Math.max(m.p, 1 - m.p))} · {m.basis_a === 'pre-event' || m.basis_b === 'pre-event' ? '대회 전 기준' : '대회 결과 반영'}</div>
+        </div>
       </div>
     {/each}
   </div>
-
-  <h2>경기 <button class="btn small" style="float:right" onclick={reset}>내 고정 초기화</button></h2>
-  {#each br.matches as m}
-    {@const fx_ = fixed[m.id]}
-    <div class="card">
-      <div class="muted small">{m.round ?? m.id} · Bo{m.best_of ?? 3}{br.results?.[m.id] ? ' · 공식 결과' : ''}</div>
-      {#if fx_.a && fx_.b}
-        {@const p = app.engine.series(fx_.a, fx_.b, m.best_of ?? 3).p}
-        <div style="display:flex; gap:8px; margin-top:6px">
-          {#each [[fx_.a, p], [fx_.b, 1 - p]] as [t, q]}
-            <button class="btn" style="flex:1; text-align:left; {locked[m.id] === t ? 'border-color:var(--accent); background:#3a1f25' : ''}"
-              onclick={() => lock(m.id, t)} disabled={!!br.results?.[m.id]}>
-              <div style="font-weight:600">{t}</div>
-              <div class="muted small">{locked[m.id] ? (locked[m.id] === t ? '승 (고정)' : '패') : pct(q)}</div>
-            </button>
-          {/each}
-        </div>
-      {:else}
-        <div class="small" style="margin-top:6px">
-          <span class="muted">진출 예상:</span>
-          {#each top(sim.slot[m.id], 4) as [t, q], i}{i ? ', ' : ' '}{t} {pct(q)}{/each}
-        </div>
-      {/if}
-    </div>
-  {/each}
 {/if}

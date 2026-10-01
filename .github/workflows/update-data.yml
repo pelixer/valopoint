@@ -1,22 +1,17 @@
-# Scrape vlr.gg, refit the model and commit web/public/data/model.json.
-# deploy-pages.yml then rebuilds the site when this workflow finishes.
+# Daily at 00:00 KST: discover new events, scrape stats, refresh the bracket,
+# refit the model. deploy-pages then rebuilds the site.
 name: update-data
 
 on:
   workflow_dispatch:
-    inputs:
-      discover_events:
-        description: "Re-discover VCT events (overwrites data/events.json)"
-        type: boolean
-        default: false
   schedule:
-    - cron: "17 */3 * * *"   # every 3 hours (cron is UTC; KST = UTC+9); completed events are skipped
+    - cron: "0 15 * * *"   # 15:00 UTC = 00:00 KST
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-data
+  group: data-commit
   cancel-in-progress: false
 
 jobs:
@@ -36,22 +31,25 @@ jobs:
           path: data/cache
           key: vlr-cache-${{ github.run_id }}
           restore-keys: vlr-cache-
-      - name: Discover events
-        if: ${{ inputs.discover_events || hashFiles('data/events.json') == '' }}
+      - name: Discover events (merge new ones)
         timeout-minutes: 10
-        run: valopoint events --years 2025 2026
+        run: valopoint events
       - name: Scrape
         timeout-minutes: 240
         run: valopoint scrape
-      - name: Commit scraped rows
+      - name: Bracket
+        timeout-minutes: 10
+        continue-on-error: true
+        run: valopoint bracket
+      - name: Commit scraped rows and bracket
         if: always()
         run: |
           git config user.name "valopoint-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/events.json data/rows || true
+          git add data/events.json data/rows web/public/data/brackets.json 2>/dev/null || true
           git diff --cached --quiet && echo "no new rows" && exit 0
           git commit -m "data: scrape $(TZ=Asia/Seoul date +%Y-%m-%d\ %H:%M\ KST)"
-          git push
+          git pull --rebase -q origin main && git push
       - name: Export model
         run: valopoint export --source vlr.gg
       - name: Commit model
@@ -59,4 +57,4 @@ jobs:
           git add web/public/data/model.json
           git diff --cached --quiet && echo "no model change" && exit 0
           git commit -m "data: model $(TZ=Asia/Seoul date +%Y-%m-%d\ %H:%M\ KST)"
-          git push
+          git pull --rebase -q origin main && git push

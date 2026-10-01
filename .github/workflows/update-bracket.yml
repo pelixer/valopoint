@@ -1,0 +1,34 @@
+# Midday bracket refresh at 12:00 KST (the 00:00 KST refresh runs inside update-data).
+name: update-bracket
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"   # 03:00 UTC = 12:00 KST
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+
+jobs:
+  bracket:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -e .
+      - run: valopoint bracket
+      - name: Commit
+        run: |
+          git config user.name "valopoint-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add web/public/data/brackets.json
+          git diff --cached --quiet && echo "no change" && exit 0
+          git commit -m "data: bracket $(TZ=Asia/Seoul date +%Y-%m-%d\ %H:%M\ KST)"
+          git pull --rebase -q origin main && git push
