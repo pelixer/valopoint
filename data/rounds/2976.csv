@@ -1,0 +1,3120 @@
+match_id,game_id,round,winner,loser,win_side,how
+712803,276498,1,FUT Esports,Natus Vincere,def,defuse
+712803,276498,2,FUT Esports,Natus Vincere,def,elim
+712803,276498,3,Natus Vincere,FUT Esports,atk,elim
+712803,276498,4,Natus Vincere,FUT Esports,atk,boom
+712803,276498,5,FUT Esports,Natus Vincere,def,elim
+712803,276498,6,Natus Vincere,FUT Esports,atk,elim
+712803,276498,7,Natus Vincere,FUT Esports,atk,boom
+712803,276498,8,Natus Vincere,FUT Esports,atk,elim
+712803,276498,9,Natus Vincere,FUT Esports,atk,elim
+712803,276498,10,Natus Vincere,FUT Esports,atk,elim
+712803,276498,11,Natus Vincere,FUT Esports,atk,elim
+712803,276498,12,FUT Esports,Natus Vincere,def,elim
+712803,276498,13,FUT Esports,Natus Vincere,atk,elim
+712803,276498,14,FUT Esports,Natus Vincere,atk,elim
+712803,276498,15,Natus Vincere,FUT Esports,def,elim
+712803,276498,16,Natus Vincere,FUT Esports,def,elim
+712803,276498,17,Natus Vincere,FUT Esports,def,defuse
+712803,276498,18,Natus Vincere,FUT Esports,def,elim
+712803,276498,19,Natus Vincere,FUT Esports,def,elim
+712803,276499,1,FUT Esports,Natus Vincere,atk,elim
+712803,276499,2,FUT Esports,Natus Vincere,atk,elim
+712803,276499,3,Natus Vincere,FUT Esports,def,elim
+712803,276499,4,Natus Vincere,FUT Esports,def,elim
+712803,276499,5,Natus Vincere,FUT Esports,def,elim
+712803,276499,6,FUT Esports,Natus Vincere,atk,elim
+712803,276499,7,FUT Esports,Natus Vincere,atk,elim
+712803,276499,8,Natus Vincere,FUT Esports,def,elim
+712803,276499,9,Natus Vincere,FUT Esports,def,elim
+712803,276499,10,Natus Vincere,FUT Esports,def,elim
+712803,276499,11,Natus Vincere,FUT Esports,def,defuse
+712803,276499,12,FUT Esports,Natus Vincere,atk,elim
+712803,276499,13,Natus Vincere,FUT Esports,atk,elim
+712803,276499,14,Natus Vincere,FUT Esports,atk,elim
+712803,276499,15,Natus Vincere,FUT Esports,atk,elim
+712803,276499,16,Natus Vincere,FUT Esports,atk,elim
+712803,276499,17,FUT Esports,Natus Vincere,def,defuse
+712803,276499,18,Natus Vincere,FUT Esports,atk,elim
+712803,276499,19,FUT Esports,Natus Vincere,def,elim
+712803,276499,20,FUT Esports,Natus Vincere,def,elim
+712803,276499,21,FUT Esports,Natus Vincere,def,elim
+712803,276499,22,Natus Vincere,FUT Esports,atk,elim
+712804,276501,1,Team Liquid,Eternal Fire,atk,elim
+712804,276501,2,Team Liquid,Eternal Fire,atk,elim
+712804,276501,3,Team Liquid,Eternal Fire,atk,elim
+712804,276501,4,Eternal Fire,Team Liquid,def,elim
+712804,276501,5,Eternal Fire,Team Liquid,def,elim
+712804,276501,6,Eternal Fire,Team Liquid,def,elim
+712804,276501,7,Eternal Fire,Team Liquid,def,defuse
+712804,276501,8,Eternal Fire,Team Liquid,def,elim
+712804,276501,9,Eternal Fire,Team Liquid,def,elim
+712804,276501,10,Eternal Fire,Team Liquid,def,elim
+712804,276501,11,Eternal Fire,Team Liquid,def,elim
+712804,276501,12,Team Liquid,Eternal Fire,atk,elim
+712804,276501,13,Eternal Fire,Team Liquid,atk,elim
+712804,276501,14,Eternal Fire,Team Liquid,atk,elim
+712804,276501,15,Eternal Fire,Team Liquid,atk,elim
+712804,276501,16,Team Liquid,Eternal Fire,def,elim
+712804,276501,17,Team Liquid,Eternal Fire,def,elim
+712804,276501,18,Eternal Fire,Team Liquid,atk,boom
+712804,276501,19,Eternal Fire,Team Liquid,atk,elim
+712804,276502,1,Eternal Fire,Team Liquid,def,elim
+712804,276502,2,Eternal Fire,Team Liquid,def,elim
+712804,276502,3,Eternal Fire,Team Liquid,def,elim
+712804,276502,4,Eternal Fire,Team Liquid,def,elim
+712804,276502,5,Eternal Fire,Team Liquid,def,elim
+712804,276502,6,Eternal Fire,Team Liquid,def,elim
+712804,276502,7,Eternal Fire,Team Liquid,def,defuse
+712804,276502,8,Team Liquid,Eternal Fire,atk,elim
+712804,276502,9,Eternal Fire,Team Liquid,def,elim
+712804,276502,10,Eternal Fire,Team Liquid,def,elim
+712804,276502,11,Team Liquid,Eternal Fire,atk,elim
+712804,276502,12,Eternal Fire,Team Liquid,def,elim
+712804,276502,13,Eternal Fire,Team Liquid,atk,elim
+712804,276502,14,Eternal Fire,Team Liquid,atk,elim
+712804,276502,15,Eternal Fire,Team Liquid,atk,elim
+712805,276504,1,GIANTX,FNATIC,atk,elim
+712805,276504,2,GIANTX,FNATIC,atk,elim
+712805,276504,3,FNATIC,GIANTX,def,elim
+712805,276504,4,FNATIC,GIANTX,def,time
+712805,276504,5,GIANTX,FNATIC,atk,elim
+712805,276504,6,GIANTX,FNATIC,atk,elim
+712805,276504,7,FNATIC,GIANTX,def,defuse
+712805,276504,8,FNATIC,GIANTX,def,elim
+712805,276504,9,GIANTX,FNATIC,atk,boom
+712805,276504,10,FNATIC,GIANTX,def,elim
+712805,276504,11,FNATIC,GIANTX,def,elim
+712805,276504,12,GIANTX,FNATIC,atk,elim
+712805,276504,13,FNATIC,GIANTX,atk,elim
+712805,276504,14,GIANTX,FNATIC,def,defuse
+712805,276504,15,FNATIC,GIANTX,atk,elim
+712805,276504,16,FNATIC,GIANTX,atk,elim
+712805,276504,17,GIANTX,FNATIC,def,defuse
+712805,276504,18,GIANTX,FNATIC,def,time
+712805,276504,19,FNATIC,GIANTX,atk,elim
+712805,276504,20,GIANTX,FNATIC,def,elim
+712805,276504,21,FNATIC,GIANTX,atk,boom
+712805,276504,22,FNATIC,GIANTX,atk,boom
+712805,276504,23,GIANTX,FNATIC,def,defuse
+712805,276504,24,GIANTX,FNATIC,def,elim
+712805,276504,25,FNATIC,GIANTX,def,elim
+712805,276504,26,GIANTX,FNATIC,def,elim
+712805,276504,27,FNATIC,GIANTX,def,elim
+712805,276504,28,FNATIC,GIANTX,atk,elim
+712805,276505,1,FNATIC,GIANTX,def,time
+712805,276505,2,FNATIC,GIANTX,def,elim
+712805,276505,3,FNATIC,GIANTX,def,defuse
+712805,276505,4,FNATIC,GIANTX,def,elim
+712805,276505,5,FNATIC,GIANTX,def,time
+712805,276505,6,GIANTX,FNATIC,atk,elim
+712805,276505,7,FNATIC,GIANTX,def,defuse
+712805,276505,8,GIANTX,FNATIC,atk,elim
+712805,276505,9,FNATIC,GIANTX,def,time
+712805,276505,10,FNATIC,GIANTX,def,elim
+712805,276505,11,GIANTX,FNATIC,atk,boom
+712805,276505,12,FNATIC,GIANTX,def,elim
+712805,276505,13,FNATIC,GIANTX,atk,elim
+712805,276505,14,FNATIC,GIANTX,atk,elim
+712805,276505,15,GIANTX,FNATIC,def,elim
+712805,276505,16,GIANTX,FNATIC,def,defuse
+712805,276505,17,GIANTX,FNATIC,def,defuse
+712805,276505,18,FNATIC,GIANTX,atk,elim
+712805,276505,19,GIANTX,FNATIC,def,elim
+712805,276505,20,GIANTX,FNATIC,def,defuse
+712805,276505,21,GIANTX,FNATIC,def,defuse
+712805,276505,22,FNATIC,GIANTX,atk,elim
+712806,276507,1,PCIFIC Esports,Gentle Mates,atk,elim
+712806,276507,2,Gentle Mates,PCIFIC Esports,def,elim
+712806,276507,3,Gentle Mates,PCIFIC Esports,def,elim
+712806,276507,4,Gentle Mates,PCIFIC Esports,def,elim
+712806,276507,5,PCIFIC Esports,Gentle Mates,atk,elim
+712806,276507,6,PCIFIC Esports,Gentle Mates,atk,elim
+712806,276507,7,Gentle Mates,PCIFIC Esports,def,elim
+712806,276507,8,PCIFIC Esports,Gentle Mates,atk,elim
+712806,276507,9,PCIFIC Esports,Gentle Mates,atk,elim
+712806,276507,10,PCIFIC Esports,Gentle Mates,atk,elim
+712806,276507,11,PCIFIC Esports,Gentle Mates,atk,elim
+712806,276507,12,Gentle Mates,PCIFIC Esports,def,defuse
+712806,276507,13,PCIFIC Esports,Gentle Mates,def,defuse
+712806,276507,14,PCIFIC Esports,Gentle Mates,def,elim
+712806,276507,15,PCIFIC Esports,Gentle Mates,def,elim
+712806,276507,16,PCIFIC Esports,Gentle Mates,def,elim
+712806,276507,17,PCIFIC Esports,Gentle Mates,def,defuse
+712806,276507,18,PCIFIC Esports,Gentle Mates,def,defuse
+712806,276508,1,PCIFIC Esports,Gentle Mates,def,elim
+712806,276508,2,PCIFIC Esports,Gentle Mates,def,elim
+712806,276508,3,Gentle Mates,PCIFIC Esports,atk,elim
+712806,276508,4,Gentle Mates,PCIFIC Esports,atk,elim
+712806,276508,5,Gentle Mates,PCIFIC Esports,atk,elim
+712806,276508,6,Gentle Mates,PCIFIC Esports,atk,boom
+712806,276508,7,PCIFIC Esports,Gentle Mates,def,time
+712806,276508,8,Gentle Mates,PCIFIC Esports,atk,elim
+712806,276508,9,PCIFIC Esports,Gentle Mates,def,defuse
+712806,276508,10,PCIFIC Esports,Gentle Mates,def,defuse
+712806,276508,11,Gentle Mates,PCIFIC Esports,atk,boom
+712806,276508,12,Gentle Mates,PCIFIC Esports,atk,elim
+712806,276508,13,Gentle Mates,PCIFIC Esports,def,elim
+712806,276508,14,Gentle Mates,PCIFIC Esports,def,elim
+712806,276508,15,Gentle Mates,PCIFIC Esports,def,defuse
+712806,276508,16,Gentle Mates,PCIFIC Esports,def,elim
+712806,276508,17,Gentle Mates,PCIFIC Esports,def,elim
+712806,276508,18,Gentle Mates,PCIFIC Esports,def,elim
+712806,276509,1,Gentle Mates,PCIFIC Esports,atk,elim
+712806,276509,2,Gentle Mates,PCIFIC Esports,atk,boom
+712806,276509,3,PCIFIC Esports,Gentle Mates,def,defuse
+712806,276509,4,Gentle Mates,PCIFIC Esports,atk,elim
+712806,276509,5,Gentle Mates,PCIFIC Esports,atk,elim
+712806,276509,6,Gentle Mates,PCIFIC Esports,atk,elim
+712806,276509,7,PCIFIC Esports,Gentle Mates,def,defuse
+712806,276509,8,Gentle Mates,PCIFIC Esports,atk,boom
+712806,276509,9,Gentle Mates,PCIFIC Esports,atk,boom
+712806,276509,10,PCIFIC Esports,Gentle Mates,def,elim
+712806,276509,11,Gentle Mates,PCIFIC Esports,atk,boom
+712806,276509,12,PCIFIC Esports,Gentle Mates,def,defuse
+712806,276509,13,Gentle Mates,PCIFIC Esports,def,defuse
+712806,276509,14,Gentle Mates,PCIFIC Esports,def,elim
+712806,276509,15,Gentle Mates,PCIFIC Esports,def,elim
+712806,276509,16,Gentle Mates,PCIFIC Esports,def,elim
+712806,276509,17,Gentle Mates,PCIFIC Esports,def,defuse
+712807,276510,1,Karmine Corp,Eternal Fire,atk,elim
+712807,276510,2,Karmine Corp,Eternal Fire,atk,elim
+712807,276510,3,Karmine Corp,Eternal Fire,atk,elim
+712807,276510,4,Karmine Corp,Eternal Fire,atk,elim
+712807,276510,5,Karmine Corp,Eternal Fire,atk,elim
+712807,276510,6,Karmine Corp,Eternal Fire,atk,elim
+712807,276510,7,Eternal Fire,Karmine Corp,def,elim
+712807,276510,8,Karmine Corp,Eternal Fire,atk,elim
+712807,276510,9,Karmine Corp,Eternal Fire,atk,elim
+712807,276510,10,Karmine Corp,Eternal Fire,atk,elim
+712807,276510,11,Karmine Corp,Eternal Fire,atk,elim
+712807,276510,12,Karmine Corp,Eternal Fire,atk,elim
+712807,276510,13,Karmine Corp,Eternal Fire,def,defuse
+712807,276510,14,Eternal Fire,Karmine Corp,atk,elim
+712807,276510,15,Eternal Fire,Karmine Corp,atk,elim
+712807,276510,16,Eternal Fire,Karmine Corp,atk,boom
+712807,276510,17,Eternal Fire,Karmine Corp,atk,elim
+712807,276510,18,Eternal Fire,Karmine Corp,atk,elim
+712807,276510,19,Karmine Corp,Eternal Fire,def,defuse
+712807,276511,1,Karmine Corp,Eternal Fire,def,defuse
+712807,276511,2,Karmine Corp,Eternal Fire,def,elim
+712807,276511,3,Karmine Corp,Eternal Fire,def,defuse
+712807,276511,4,Karmine Corp,Eternal Fire,def,defuse
+712807,276511,5,Eternal Fire,Karmine Corp,atk,elim
+712807,276511,6,Eternal Fire,Karmine Corp,atk,elim
+712807,276511,7,Karmine Corp,Eternal Fire,def,elim
+712807,276511,8,Karmine Corp,Eternal Fire,def,defuse
+712807,276511,9,Eternal Fire,Karmine Corp,atk,boom
+712807,276511,10,Eternal Fire,Karmine Corp,atk,elim
+712807,276511,11,Karmine Corp,Eternal Fire,def,elim
+712807,276511,12,Eternal Fire,Karmine Corp,atk,boom
+712807,276511,13,Eternal Fire,Karmine Corp,def,elim
+712807,276511,14,Eternal Fire,Karmine Corp,def,elim
+712807,276511,15,Karmine Corp,Eternal Fire,atk,elim
+712807,276511,16,Karmine Corp,Eternal Fire,atk,elim
+712807,276511,17,Eternal Fire,Karmine Corp,def,defuse
+712807,276511,18,Eternal Fire,Karmine Corp,def,defuse
+712807,276511,19,Eternal Fire,Karmine Corp,def,defuse
+712807,276511,20,Eternal Fire,Karmine Corp,def,elim
+712807,276511,21,Eternal Fire,Karmine Corp,def,elim
+712807,276511,22,Karmine Corp,Eternal Fire,atk,elim
+712807,276511,23,Karmine Corp,Eternal Fire,atk,elim
+712807,276511,24,Karmine Corp,Eternal Fire,atk,elim
+712807,276511,25,Karmine Corp,Eternal Fire,def,defuse
+712807,276511,26,Eternal Fire,Karmine Corp,def,elim
+712807,276511,27,Karmine Corp,Eternal Fire,def,defuse
+712807,276511,28,Karmine Corp,Eternal Fire,atk,elim
+712808,276513,1,Natus Vincere,Team Vitality,atk,elim
+712808,276513,2,Natus Vincere,Team Vitality,atk,elim
+712808,276513,3,Team Vitality,Natus Vincere,def,defuse
+712808,276513,4,Natus Vincere,Team Vitality,atk,boom
+712808,276513,5,Natus Vincere,Team Vitality,atk,elim
+712808,276513,6,Team Vitality,Natus Vincere,def,elim
+712808,276513,7,Natus Vincere,Team Vitality,atk,elim
+712808,276513,8,Natus Vincere,Team Vitality,atk,boom
+712808,276513,9,Team Vitality,Natus Vincere,def,time
+712808,276513,10,Team Vitality,Natus Vincere,def,defuse
+712808,276513,11,Natus Vincere,Team Vitality,atk,elim
+712808,276513,12,Natus Vincere,Team Vitality,atk,elim
+712808,276513,13,Team Vitality,Natus Vincere,atk,elim
+712808,276513,14,Natus Vincere,Team Vitality,def,defuse
+712808,276513,15,Team Vitality,Natus Vincere,atk,elim
+712808,276513,16,Team Vitality,Natus Vincere,atk,boom
+712808,276513,17,Team Vitality,Natus Vincere,atk,elim
+712808,276513,18,Natus Vincere,Team Vitality,def,elim
+712808,276513,19,Natus Vincere,Team Vitality,def,elim
+712808,276513,20,Team Vitality,Natus Vincere,atk,elim
+712808,276513,21,Natus Vincere,Team Vitality,def,defuse
+712808,276513,22,Natus Vincere,Team Vitality,def,elim
+712808,276514,1,Natus Vincere,Team Vitality,def,elim
+712808,276514,2,Natus Vincere,Team Vitality,def,elim
+712808,276514,3,Team Vitality,Natus Vincere,atk,elim
+712808,276514,4,Team Vitality,Natus Vincere,atk,elim
+712808,276514,5,Team Vitality,Natus Vincere,atk,elim
+712808,276514,6,Team Vitality,Natus Vincere,atk,boom
+712808,276514,7,Team Vitality,Natus Vincere,atk,elim
+712808,276514,8,Team Vitality,Natus Vincere,atk,boom
+712808,276514,9,Team Vitality,Natus Vincere,atk,boom
+712808,276514,10,Natus Vincere,Team Vitality,def,defuse
+712808,276514,11,Team Vitality,Natus Vincere,atk,boom
+712808,276514,12,Natus Vincere,Team Vitality,def,elim
+712808,276514,13,Team Vitality,Natus Vincere,def,elim
+712808,276514,14,Team Vitality,Natus Vincere,def,defuse
+712808,276514,15,Team Vitality,Natus Vincere,def,defuse
+712808,276514,16,Natus Vincere,Team Vitality,atk,boom
+712808,276514,17,Team Vitality,Natus Vincere,def,defuse
+712808,276514,18,Natus Vincere,Team Vitality,atk,boom
+712808,276514,19,Team Vitality,Natus Vincere,def,defuse
+712808,276515,1,Team Vitality,Natus Vincere,atk,elim
+712808,276515,2,Natus Vincere,Team Vitality,def,elim
+712808,276515,3,Natus Vincere,Team Vitality,def,defuse
+712808,276515,4,Natus Vincere,Team Vitality,def,defuse
+712808,276515,5,Natus Vincere,Team Vitality,def,defuse
+712808,276515,6,Team Vitality,Natus Vincere,atk,elim
+712808,276515,7,Team Vitality,Natus Vincere,atk,elim
+712808,276515,8,Natus Vincere,Team Vitality,def,defuse
+712808,276515,9,Team Vitality,Natus Vincere,atk,boom
+712808,276515,10,Team Vitality,Natus Vincere,atk,elim
+712808,276515,11,Team Vitality,Natus Vincere,atk,elim
+712808,276515,12,Team Vitality,Natus Vincere,atk,elim
+712808,276515,13,Natus Vincere,Team Vitality,atk,elim
+712808,276515,14,Natus Vincere,Team Vitality,atk,boom
+712808,276515,15,Team Vitality,Natus Vincere,def,elim
+712808,276515,16,Team Vitality,Natus Vincere,def,defuse
+712808,276515,17,Team Vitality,Natus Vincere,def,elim
+712808,276515,18,Natus Vincere,Team Vitality,atk,elim
+712808,276515,19,Team Vitality,Natus Vincere,def,defuse
+712808,276515,20,Natus Vincere,Team Vitality,atk,boom
+712808,276515,21,Team Vitality,Natus Vincere,def,time
+712808,276515,22,Team Vitality,Natus Vincere,def,defuse
+712809,276516,1,FUT Esports,Gentle Mates,def,elim
+712809,276516,2,FUT Esports,Gentle Mates,def,defuse
+712809,276516,3,Gentle Mates,FUT Esports,atk,elim
+712809,276516,4,Gentle Mates,FUT Esports,atk,elim
+712809,276516,5,Gentle Mates,FUT Esports,atk,elim
+712809,276516,6,FUT Esports,Gentle Mates,def,defuse
+712809,276516,7,FUT Esports,Gentle Mates,def,defuse
+712809,276516,8,FUT Esports,Gentle Mates,def,elim
+712809,276516,9,FUT Esports,Gentle Mates,def,elim
+712809,276516,10,FUT Esports,Gentle Mates,def,defuse
+712809,276516,11,FUT Esports,Gentle Mates,def,defuse
+712809,276516,12,Gentle Mates,FUT Esports,atk,elim
+712809,276516,13,Gentle Mates,FUT Esports,def,elim
+712809,276516,14,Gentle Mates,FUT Esports,def,elim
+712809,276516,15,FUT Esports,Gentle Mates,atk,boom
+712809,276516,16,FUT Esports,Gentle Mates,atk,elim
+712809,276516,17,Gentle Mates,FUT Esports,def,elim
+712809,276516,18,FUT Esports,Gentle Mates,atk,elim
+712809,276516,19,FUT Esports,Gentle Mates,atk,elim
+712809,276516,20,Gentle Mates,FUT Esports,def,elim
+712809,276516,21,Gentle Mates,FUT Esports,def,elim
+712809,276516,22,FUT Esports,Gentle Mates,atk,elim
+712809,276517,1,FUT Esports,Gentle Mates,atk,elim
+712809,276517,2,FUT Esports,Gentle Mates,atk,elim
+712809,276517,3,Gentle Mates,FUT Esports,def,defuse
+712809,276517,4,FUT Esports,Gentle Mates,atk,elim
+712809,276517,5,FUT Esports,Gentle Mates,atk,elim
+712809,276517,6,Gentle Mates,FUT Esports,def,elim
+712809,276517,7,FUT Esports,Gentle Mates,atk,boom
+712809,276517,8,FUT Esports,Gentle Mates,atk,elim
+712809,276517,9,FUT Esports,Gentle Mates,atk,elim
+712809,276517,10,Gentle Mates,FUT Esports,def,elim
+712809,276517,11,Gentle Mates,FUT Esports,def,defuse
+712809,276517,12,FUT Esports,Gentle Mates,atk,elim
+712809,276517,13,Gentle Mates,FUT Esports,atk,boom
+712809,276517,14,Gentle Mates,FUT Esports,atk,elim
+712809,276517,15,Gentle Mates,FUT Esports,atk,elim
+712809,276517,16,Gentle Mates,FUT Esports,atk,elim
+712809,276517,17,Gentle Mates,FUT Esports,atk,elim
+712809,276517,18,Gentle Mates,FUT Esports,atk,elim
+712809,276517,19,Gentle Mates,FUT Esports,atk,boom
+712809,276517,20,FUT Esports,Gentle Mates,def,elim
+712809,276517,21,FUT Esports,Gentle Mates,def,elim
+712809,276517,22,FUT Esports,Gentle Mates,def,defuse
+712809,276517,23,Gentle Mates,FUT Esports,atk,elim
+712809,276517,24,FUT Esports,Gentle Mates,def,defuse
+712809,276517,25,FUT Esports,Gentle Mates,atk,elim
+712809,276517,26,FUT Esports,Gentle Mates,def,defuse
+712810,276519,1,Team Heretics,Team Liquid,def,defuse
+712810,276519,2,Team Heretics,Team Liquid,def,elim
+712810,276519,3,Team Heretics,Team Liquid,def,time
+712810,276519,4,Team Heretics,Team Liquid,def,elim
+712810,276519,5,Team Liquid,Team Heretics,atk,elim
+712810,276519,6,Team Heretics,Team Liquid,def,defuse
+712810,276519,7,Team Heretics,Team Liquid,def,elim
+712810,276519,8,Team Liquid,Team Heretics,atk,elim
+712810,276519,9,Team Heretics,Team Liquid,def,elim
+712810,276519,10,Team Heretics,Team Liquid,def,elim
+712810,276519,11,Team Heretics,Team Liquid,def,elim
+712810,276519,12,Team Heretics,Team Liquid,def,elim
+712810,276519,13,Team Heretics,Team Liquid,atk,elim
+712810,276519,14,Team Liquid,Team Heretics,def,elim
+712810,276519,15,Team Liquid,Team Heretics,def,elim
+712810,276519,16,Team Liquid,Team Heretics,def,elim
+712810,276519,17,Team Liquid,Team Heretics,def,defuse
+712810,276519,18,Team Liquid,Team Heretics,def,time
+712810,276519,19,Team Heretics,Team Liquid,atk,elim
+712810,276519,20,Team Liquid,Team Heretics,def,defuse
+712810,276519,21,Team Liquid,Team Heretics,def,elim
+712810,276519,22,Team Liquid,Team Heretics,def,elim
+712810,276519,23,Team Liquid,Team Heretics,def,elim
+712810,276519,24,Team Liquid,Team Heretics,def,elim
+712810,276519,25,Team Liquid,Team Heretics,atk,elim
+712810,276519,26,Team Liquid,Team Heretics,def,defuse
+712810,276520,1,Team Heretics,Team Liquid,atk,elim
+712810,276520,2,Team Heretics,Team Liquid,atk,elim
+712810,276520,3,Team Liquid,Team Heretics,def,elim
+712810,276520,4,Team Liquid,Team Heretics,def,defuse
+712810,276520,5,Team Liquid,Team Heretics,def,defuse
+712810,276520,6,Team Liquid,Team Heretics,def,defuse
+712810,276520,7,Team Liquid,Team Heretics,def,defuse
+712810,276520,8,Team Liquid,Team Heretics,def,defuse
+712810,276520,9,Team Heretics,Team Liquid,atk,elim
+712810,276520,10,Team Liquid,Team Heretics,def,elim
+712810,276520,11,Team Heretics,Team Liquid,atk,boom
+712810,276520,12,Team Heretics,Team Liquid,atk,elim
+712810,276520,13,Team Heretics,Team Liquid,def,defuse
+712810,276520,14,Team Heretics,Team Liquid,def,defuse
+712810,276520,15,Team Heretics,Team Liquid,def,defuse
+712810,276520,16,Team Heretics,Team Liquid,def,defuse
+712810,276520,17,Team Liquid,Team Heretics,atk,elim
+712810,276520,18,Team Liquid,Team Heretics,atk,elim
+712810,276520,19,Team Liquid,Team Heretics,atk,elim
+712810,276520,20,Team Heretics,Team Liquid,def,defuse
+712810,276520,21,Team Liquid,Team Heretics,atk,elim
+712810,276520,22,Team Liquid,Team Heretics,atk,elim
+712810,276520,23,Team Liquid,Team Heretics,atk,elim
+712811,276522,1,GIANTX,Karmine Corp,atk,elim
+712811,276522,2,GIANTX,Karmine Corp,atk,elim
+712811,276522,3,Karmine Corp,GIANTX,def,defuse
+712811,276522,4,Karmine Corp,GIANTX,def,time
+712811,276522,5,Karmine Corp,GIANTX,def,defuse
+712811,276522,6,Karmine Corp,GIANTX,def,elim
+712811,276522,7,GIANTX,Karmine Corp,atk,elim
+712811,276522,8,Karmine Corp,GIANTX,def,time
+712811,276522,9,Karmine Corp,GIANTX,def,defuse
+712811,276522,10,Karmine Corp,GIANTX,def,elim
+712811,276522,11,GIANTX,Karmine Corp,atk,elim
+712811,276522,12,GIANTX,Karmine Corp,atk,elim
+712811,276522,13,Karmine Corp,GIANTX,atk,boom
+712811,276522,14,Karmine Corp,GIANTX,atk,boom
+712811,276522,15,Karmine Corp,GIANTX,atk,boom
+712811,276522,16,Karmine Corp,GIANTX,atk,elim
+712811,276522,17,GIANTX,Karmine Corp,def,elim
+712811,276522,18,GIANTX,Karmine Corp,def,defuse
+712811,276522,19,Karmine Corp,GIANTX,atk,elim
+712811,276522,20,GIANTX,Karmine Corp,def,defuse
+712811,276522,21,Karmine Corp,GIANTX,atk,elim
+712811,276523,1,Karmine Corp,GIANTX,def,elim
+712811,276523,2,Karmine Corp,GIANTX,def,elim
+712811,276523,3,GIANTX,Karmine Corp,atk,boom
+712811,276523,4,GIANTX,Karmine Corp,atk,elim
+712811,276523,5,GIANTX,Karmine Corp,atk,elim
+712811,276523,6,Karmine Corp,GIANTX,def,elim
+712811,276523,7,Karmine Corp,GIANTX,def,time
+712811,276523,8,Karmine Corp,GIANTX,def,elim
+712811,276523,9,Karmine Corp,GIANTX,def,time
+712811,276523,10,Karmine Corp,GIANTX,def,elim
+712811,276523,11,Karmine Corp,GIANTX,def,elim
+712811,276523,12,GIANTX,Karmine Corp,atk,elim
+712811,276523,13,Karmine Corp,GIANTX,atk,elim
+712811,276523,14,Karmine Corp,GIANTX,atk,elim
+712811,276523,15,Karmine Corp,GIANTX,atk,elim
+712811,276523,16,Karmine Corp,GIANTX,atk,elim
+712811,276523,17,Karmine Corp,GIANTX,atk,elim
+712812,276525,1,BBL Esports,Team Vitality,atk,elim
+712812,276525,2,BBL Esports,Team Vitality,atk,elim
+712812,276525,3,Team Vitality,BBL Esports,def,elim
+712812,276525,4,BBL Esports,Team Vitality,atk,elim
+712812,276525,5,BBL Esports,Team Vitality,atk,boom
+712812,276525,6,BBL Esports,Team Vitality,atk,elim
+712812,276525,7,Team Vitality,BBL Esports,def,defuse
+712812,276525,8,BBL Esports,Team Vitality,atk,elim
+712812,276525,9,BBL Esports,Team Vitality,atk,boom
+712812,276525,10,BBL Esports,Team Vitality,atk,elim
+712812,276525,11,BBL Esports,Team Vitality,atk,boom
+712812,276525,12,BBL Esports,Team Vitality,atk,elim
+712812,276525,13,Team Vitality,BBL Esports,atk,elim
+712812,276525,14,Team Vitality,BBL Esports,atk,elim
+712812,276525,15,Team Vitality,BBL Esports,atk,elim
+712812,276525,16,BBL Esports,Team Vitality,def,time
+712812,276525,17,Team Vitality,BBL Esports,atk,boom
+712812,276525,18,Team Vitality,BBL Esports,atk,elim
+712812,276525,19,Team Vitality,BBL Esports,atk,elim
+712812,276525,20,Team Vitality,BBL Esports,atk,elim
+712812,276525,21,Team Vitality,BBL Esports,atk,boom
+712812,276525,22,Team Vitality,BBL Esports,atk,elim
+712812,276525,23,BBL Esports,Team Vitality,def,defuse
+712812,276525,24,BBL Esports,Team Vitality,def,defuse
+712812,276526,1,BBL Esports,Team Vitality,def,elim
+712812,276526,2,BBL Esports,Team Vitality,def,elim
+712812,276526,3,BBL Esports,Team Vitality,def,defuse
+712812,276526,4,BBL Esports,Team Vitality,def,elim
+712812,276526,5,Team Vitality,BBL Esports,atk,elim
+712812,276526,6,BBL Esports,Team Vitality,def,time
+712812,276526,7,Team Vitality,BBL Esports,atk,elim
+712812,276526,8,BBL Esports,Team Vitality,def,elim
+712812,276526,9,BBL Esports,Team Vitality,def,defuse
+712812,276526,10,BBL Esports,Team Vitality,def,defuse
+712812,276526,11,Team Vitality,BBL Esports,atk,elim
+712812,276526,12,Team Vitality,BBL Esports,atk,elim
+712812,276526,13,BBL Esports,Team Vitality,atk,elim
+712812,276526,14,BBL Esports,Team Vitality,atk,elim
+712812,276526,15,BBL Esports,Team Vitality,atk,elim
+712812,276526,16,Team Vitality,BBL Esports,def,elim
+712812,276526,17,Team Vitality,BBL Esports,def,elim
+712812,276526,18,Team Vitality,BBL Esports,def,elim
+712812,276526,19,Team Vitality,BBL Esports,def,elim
+712812,276526,20,BBL Esports,Team Vitality,atk,elim
+712812,276526,21,Team Vitality,BBL Esports,def,defuse
+712812,276526,22,Team Vitality,BBL Esports,def,elim
+712812,276526,23,Team Vitality,BBL Esports,def,elim
+712812,276526,24,BBL Esports,Team Vitality,atk,boom
+712814,276528,1,FUT Esports,PCIFIC Esports,atk,elim
+712814,276528,2,FUT Esports,PCIFIC Esports,atk,elim
+712814,276528,3,PCIFIC Esports,FUT Esports,def,defuse
+712814,276528,4,FUT Esports,PCIFIC Esports,atk,elim
+712814,276528,5,FUT Esports,PCIFIC Esports,atk,elim
+712814,276528,6,FUT Esports,PCIFIC Esports,atk,boom
+712814,276528,7,FUT Esports,PCIFIC Esports,atk,elim
+712814,276528,8,FUT Esports,PCIFIC Esports,atk,boom
+712814,276528,9,FUT Esports,PCIFIC Esports,atk,elim
+712814,276528,10,FUT Esports,PCIFIC Esports,atk,elim
+712814,276528,11,PCIFIC Esports,FUT Esports,def,elim
+712814,276528,12,PCIFIC Esports,FUT Esports,def,defuse
+712814,276528,13,PCIFIC Esports,FUT Esports,atk,elim
+712814,276528,14,PCIFIC Esports,FUT Esports,atk,elim
+712814,276528,15,PCIFIC Esports,FUT Esports,atk,elim
+712814,276528,16,PCIFIC Esports,FUT Esports,atk,elim
+712814,276528,17,PCIFIC Esports,FUT Esports,atk,boom
+712814,276528,18,PCIFIC Esports,FUT Esports,atk,elim
+712814,276528,19,FUT Esports,PCIFIC Esports,def,elim
+712814,276528,20,FUT Esports,PCIFIC Esports,def,elim
+712814,276528,21,FUT Esports,PCIFIC Esports,def,defuse
+712814,276528,22,PCIFIC Esports,FUT Esports,atk,elim
+712814,276528,23,FUT Esports,PCIFIC Esports,def,elim
+712814,276529,1,PCIFIC Esports,FUT Esports,atk,boom
+712814,276529,2,PCIFIC Esports,FUT Esports,atk,boom
+712814,276529,3,FUT Esports,PCIFIC Esports,def,defuse
+712814,276529,4,FUT Esports,PCIFIC Esports,def,elim
+712814,276529,5,FUT Esports,PCIFIC Esports,def,elim
+712814,276529,6,FUT Esports,PCIFIC Esports,def,elim
+712814,276529,7,FUT Esports,PCIFIC Esports,def,elim
+712814,276529,8,PCIFIC Esports,FUT Esports,atk,boom
+712814,276529,9,FUT Esports,PCIFIC Esports,def,defuse
+712814,276529,10,PCIFIC Esports,FUT Esports,atk,elim
+712814,276529,11,FUT Esports,PCIFIC Esports,def,defuse
+712814,276529,12,FUT Esports,PCIFIC Esports,def,elim
+712814,276529,13,PCIFIC Esports,FUT Esports,def,defuse
+712814,276529,14,PCIFIC Esports,FUT Esports,def,elim
+712814,276529,15,FUT Esports,PCIFIC Esports,atk,elim
+712814,276529,16,PCIFIC Esports,FUT Esports,def,time
+712814,276529,17,PCIFIC Esports,FUT Esports,def,defuse
+712814,276529,18,PCIFIC Esports,FUT Esports,def,defuse
+712814,276529,19,FUT Esports,PCIFIC Esports,atk,elim
+712814,276529,20,PCIFIC Esports,FUT Esports,def,defuse
+712814,276529,21,PCIFIC Esports,FUT Esports,def,defuse
+712814,276529,22,PCIFIC Esports,FUT Esports,def,defuse
+712814,276529,23,FUT Esports,PCIFIC Esports,atk,elim
+712814,276529,24,FUT Esports,PCIFIC Esports,atk,elim
+712814,276529,25,PCIFIC Esports,FUT Esports,atk,elim
+712814,276529,26,PCIFIC Esports,FUT Esports,def,defuse
+712814,276530,1,FUT Esports,PCIFIC Esports,atk,elim
+712814,276530,2,FUT Esports,PCIFIC Esports,atk,boom
+712814,276530,3,PCIFIC Esports,FUT Esports,def,elim
+712814,276530,4,FUT Esports,PCIFIC Esports,atk,elim
+712814,276530,5,FUT Esports,PCIFIC Esports,atk,elim
+712814,276530,6,FUT Esports,PCIFIC Esports,atk,boom
+712814,276530,7,FUT Esports,PCIFIC Esports,atk,elim
+712814,276530,8,FUT Esports,PCIFIC Esports,atk,boom
+712814,276530,9,FUT Esports,PCIFIC Esports,atk,boom
+712814,276530,10,FUT Esports,PCIFIC Esports,atk,elim
+712814,276530,11,FUT Esports,PCIFIC Esports,atk,boom
+712814,276530,12,FUT Esports,PCIFIC Esports,atk,elim
+712814,276530,13,FUT Esports,PCIFIC Esports,def,elim
+712814,276530,14,FUT Esports,PCIFIC Esports,def,elim
+712815,276531,1,Karmine Corp,FNATIC,atk,elim
+712815,276531,2,FNATIC,Karmine Corp,def,elim
+712815,276531,3,FNATIC,Karmine Corp,def,elim
+712815,276531,4,Karmine Corp,FNATIC,atk,elim
+712815,276531,5,FNATIC,Karmine Corp,def,elim
+712815,276531,6,FNATIC,Karmine Corp,def,defuse
+712815,276531,7,Karmine Corp,FNATIC,atk,elim
+712815,276531,8,Karmine Corp,FNATIC,atk,boom
+712815,276531,9,Karmine Corp,FNATIC,atk,elim
+712815,276531,10,FNATIC,Karmine Corp,def,time
+712815,276531,11,Karmine Corp,FNATIC,atk,boom
+712815,276531,12,FNATIC,Karmine Corp,def,elim
+712815,276531,13,FNATIC,Karmine Corp,atk,elim
+712815,276531,14,FNATIC,Karmine Corp,atk,elim
+712815,276531,15,Karmine Corp,FNATIC,def,defuse
+712815,276531,16,Karmine Corp,FNATIC,def,defuse
+712815,276531,17,Karmine Corp,FNATIC,def,defuse
+712815,276531,18,FNATIC,Karmine Corp,atk,boom
+712815,276531,19,Karmine Corp,FNATIC,def,time
+712815,276531,20,FNATIC,Karmine Corp,atk,elim
+712815,276531,21,FNATIC,Karmine Corp,atk,elim
+712815,276531,22,Karmine Corp,FNATIC,def,time
+712815,276531,23,FNATIC,Karmine Corp,atk,elim
+712815,276531,24,Karmine Corp,FNATIC,def,elim
+712815,276531,25,FNATIC,Karmine Corp,def,defuse
+712815,276531,26,Karmine Corp,FNATIC,def,defuse
+712815,276531,27,FNATIC,Karmine Corp,def,elim
+712815,276531,28,Karmine Corp,FNATIC,def,defuse
+712815,276531,29,FNATIC,Karmine Corp,def,elim
+712815,276531,30,FNATIC,Karmine Corp,atk,elim
+712815,276532,1,FNATIC,Karmine Corp,atk,elim
+712815,276532,2,FNATIC,Karmine Corp,atk,elim
+712815,276532,3,Karmine Corp,FNATIC,def,elim
+712815,276532,4,Karmine Corp,FNATIC,def,time
+712815,276532,5,Karmine Corp,FNATIC,def,elim
+712815,276532,6,Karmine Corp,FNATIC,def,defuse
+712815,276532,7,Karmine Corp,FNATIC,def,elim
+712815,276532,8,Karmine Corp,FNATIC,def,elim
+712815,276532,9,FNATIC,Karmine Corp,atk,elim
+712815,276532,10,FNATIC,Karmine Corp,atk,elim
+712815,276532,11,FNATIC,Karmine Corp,atk,elim
+712815,276532,12,Karmine Corp,FNATIC,def,defuse
+712815,276532,13,Karmine Corp,FNATIC,atk,elim
+712815,276532,14,Karmine Corp,FNATIC,atk,boom
+712815,276532,15,Karmine Corp,FNATIC,atk,elim
+712815,276532,16,Karmine Corp,FNATIC,atk,elim
+712815,276532,17,Karmine Corp,FNATIC,atk,elim
+712815,276532,18,FNATIC,Karmine Corp,def,defuse
+712815,276532,19,Karmine Corp,FNATIC,atk,elim
+712815,276533,1,Karmine Corp,FNATIC,def,defuse
+712815,276533,2,Karmine Corp,FNATIC,def,elim
+712815,276533,3,FNATIC,Karmine Corp,atk,boom
+712815,276533,4,Karmine Corp,FNATIC,def,time
+712815,276533,5,FNATIC,Karmine Corp,atk,elim
+712815,276533,6,FNATIC,Karmine Corp,atk,boom
+712815,276533,7,Karmine Corp,FNATIC,def,defuse
+712815,276533,8,FNATIC,Karmine Corp,atk,elim
+712815,276533,9,FNATIC,Karmine Corp,atk,boom
+712815,276533,10,Karmine Corp,FNATIC,def,defuse
+712815,276533,11,FNATIC,Karmine Corp,atk,boom
+712815,276533,12,FNATIC,Karmine Corp,atk,elim
+712815,276533,13,Karmine Corp,FNATIC,atk,elim
+712815,276533,14,FNATIC,Karmine Corp,def,defuse
+712815,276533,15,FNATIC,Karmine Corp,def,defuse
+712815,276533,16,Karmine Corp,FNATIC,atk,boom
+712815,276533,17,FNATIC,Karmine Corp,def,time
+712815,276533,18,FNATIC,Karmine Corp,def,defuse
+712815,276533,19,Karmine Corp,FNATIC,atk,elim
+712815,276533,20,Karmine Corp,FNATIC,atk,boom
+712815,276533,21,Karmine Corp,FNATIC,atk,boom
+712815,276533,22,FNATIC,Karmine Corp,def,defuse
+712815,276533,23,Karmine Corp,FNATIC,atk,elim
+712815,276533,24,Karmine Corp,FNATIC,atk,elim
+712815,276533,25,Karmine Corp,FNATIC,def,defuse
+712815,276533,26,FNATIC,Karmine Corp,def,elim
+712815,276533,27,FNATIC,Karmine Corp,atk,elim
+712815,276533,28,Karmine Corp,FNATIC,atk,elim
+712815,276533,29,FNATIC,Karmine Corp,atk,elim
+712815,276533,30,Karmine Corp,FNATIC,atk,elim
+712815,276533,31,FNATIC,Karmine Corp,atk,elim
+712815,276533,32,FNATIC,Karmine Corp,def,elim
+712816,276534,1,Team Heretics,Eternal Fire,atk,elim
+712816,276534,2,Team Heretics,Eternal Fire,atk,elim
+712816,276534,3,Eternal Fire,Team Heretics,def,elim
+712816,276534,4,Eternal Fire,Team Heretics,def,elim
+712816,276534,5,Eternal Fire,Team Heretics,def,elim
+712816,276534,6,Eternal Fire,Team Heretics,def,elim
+712816,276534,7,Eternal Fire,Team Heretics,def,elim
+712816,276534,8,Team Heretics,Eternal Fire,atk,elim
+712816,276534,9,Team Heretics,Eternal Fire,atk,elim
+712816,276534,10,Team Heretics,Eternal Fire,atk,boom
+712816,276534,11,Team Heretics,Eternal Fire,atk,elim
+712816,276534,12,Team Heretics,Eternal Fire,atk,elim
+712816,276534,13,Eternal Fire,Team Heretics,atk,elim
+712816,276534,14,Eternal Fire,Team Heretics,atk,elim
+712816,276534,15,Eternal Fire,Team Heretics,atk,elim
+712816,276534,16,Team Heretics,Eternal Fire,def,defuse
+712816,276534,17,Team Heretics,Eternal Fire,def,defuse
+712816,276534,18,Eternal Fire,Team Heretics,atk,elim
+712816,276534,19,Team Heretics,Eternal Fire,def,elim
+712816,276534,20,Team Heretics,Eternal Fire,def,defuse
+712816,276534,21,Team Heretics,Eternal Fire,def,elim
+712816,276534,22,Eternal Fire,Team Heretics,atk,elim
+712816,276534,23,Team Heretics,Eternal Fire,def,defuse
+712816,276535,1,Team Heretics,Eternal Fire,atk,elim
+712816,276535,2,Team Heretics,Eternal Fire,atk,elim
+712816,276535,3,Team Heretics,Eternal Fire,atk,boom
+712816,276535,4,Team Heretics,Eternal Fire,atk,elim
+712816,276535,5,Team Heretics,Eternal Fire,atk,boom
+712816,276535,6,Team Heretics,Eternal Fire,atk,elim
+712816,276535,7,Team Heretics,Eternal Fire,atk,elim
+712816,276535,8,Team Heretics,Eternal Fire,atk,elim
+712816,276535,9,Team Heretics,Eternal Fire,atk,elim
+712816,276535,10,Team Heretics,Eternal Fire,atk,elim
+712816,276535,11,Team Heretics,Eternal Fire,atk,elim
+712816,276535,12,Team Heretics,Eternal Fire,atk,elim
+712816,276535,13,Team Heretics,Eternal Fire,def,elim
+712817,276537,1,Natus Vincere,Gentle Mates,atk,elim
+712817,276537,2,Natus Vincere,Gentle Mates,atk,elim
+712817,276537,3,Gentle Mates,Natus Vincere,def,time
+712817,276537,4,Gentle Mates,Natus Vincere,def,defuse
+712817,276537,5,Natus Vincere,Gentle Mates,atk,elim
+712817,276537,6,Gentle Mates,Natus Vincere,def,elim
+712817,276537,7,Gentle Mates,Natus Vincere,def,defuse
+712817,276537,8,Gentle Mates,Natus Vincere,def,defuse
+712817,276537,9,Natus Vincere,Gentle Mates,atk,boom
+712817,276537,10,Gentle Mates,Natus Vincere,def,elim
+712817,276537,11,Gentle Mates,Natus Vincere,def,defuse
+712817,276537,12,Gentle Mates,Natus Vincere,def,elim
+712817,276537,13,Natus Vincere,Gentle Mates,def,defuse
+712817,276537,14,Natus Vincere,Gentle Mates,def,elim
+712817,276537,15,Natus Vincere,Gentle Mates,def,elim
+712817,276537,16,Natus Vincere,Gentle Mates,def,defuse
+712817,276537,17,Natus Vincere,Gentle Mates,def,elim
+712817,276537,18,Gentle Mates,Natus Vincere,atk,elim
+712817,276537,19,Gentle Mates,Natus Vincere,atk,elim
+712817,276537,20,Gentle Mates,Natus Vincere,atk,boom
+712817,276537,21,Gentle Mates,Natus Vincere,atk,elim
+712817,276537,22,Natus Vincere,Gentle Mates,def,defuse
+712817,276537,23,Gentle Mates,Natus Vincere,atk,elim
+712817,276538,1,Gentle Mates,Natus Vincere,def,elim
+712817,276538,2,Gentle Mates,Natus Vincere,def,elim
+712817,276538,3,Gentle Mates,Natus Vincere,def,time
+712817,276538,4,Gentle Mates,Natus Vincere,def,elim
+712817,276538,5,Natus Vincere,Gentle Mates,atk,elim
+712817,276538,6,Gentle Mates,Natus Vincere,def,elim
+712817,276538,7,Natus Vincere,Gentle Mates,atk,elim
+712817,276538,8,Gentle Mates,Natus Vincere,def,elim
+712817,276538,9,Gentle Mates,Natus Vincere,def,defuse
+712817,276538,10,Natus Vincere,Gentle Mates,atk,elim
+712817,276538,11,Gentle Mates,Natus Vincere,def,elim
+712817,276538,12,Natus Vincere,Gentle Mates,atk,elim
+712817,276538,13,Natus Vincere,Gentle Mates,def,elim
+712817,276538,14,Natus Vincere,Gentle Mates,def,defuse
+712817,276538,15,Gentle Mates,Natus Vincere,atk,elim
+712817,276538,16,Natus Vincere,Gentle Mates,def,defuse
+712817,276538,17,Gentle Mates,Natus Vincere,atk,elim
+712817,276538,18,Gentle Mates,Natus Vincere,atk,elim
+712817,276538,19,Gentle Mates,Natus Vincere,atk,elim
+712817,276538,20,Gentle Mates,Natus Vincere,atk,elim
+712818,276540,1,BBL Esports,FUT Esports,atk,elim
+712818,276540,2,BBL Esports,FUT Esports,atk,elim
+712818,276540,3,FUT Esports,BBL Esports,def,defuse
+712818,276540,4,FUT Esports,BBL Esports,def,elim
+712818,276540,5,FUT Esports,BBL Esports,def,defuse
+712818,276540,6,FUT Esports,BBL Esports,def,elim
+712818,276540,7,FUT Esports,BBL Esports,def,elim
+712818,276540,8,BBL Esports,FUT Esports,atk,elim
+712818,276540,9,BBL Esports,FUT Esports,atk,elim
+712818,276540,10,BBL Esports,FUT Esports,atk,elim
+712818,276540,11,BBL Esports,FUT Esports,atk,elim
+712818,276540,12,BBL Esports,FUT Esports,atk,elim
+712818,276540,13,BBL Esports,FUT Esports,def,elim
+712818,276540,14,BBL Esports,FUT Esports,def,elim
+712818,276540,15,FUT Esports,BBL Esports,atk,elim
+712818,276540,16,BBL Esports,FUT Esports,def,elim
+712818,276540,17,BBL Esports,FUT Esports,def,elim
+712818,276540,18,BBL Esports,FUT Esports,def,elim
+712818,276540,19,FUT Esports,BBL Esports,atk,elim
+712818,276540,20,BBL Esports,FUT Esports,def,elim
+712818,276541,1,FUT Esports,BBL Esports,atk,elim
+712818,276541,2,FUT Esports,BBL Esports,atk,elim
+712818,276541,3,BBL Esports,FUT Esports,def,elim
+712818,276541,4,FUT Esports,BBL Esports,atk,elim
+712818,276541,5,FUT Esports,BBL Esports,atk,boom
+712818,276541,6,FUT Esports,BBL Esports,atk,elim
+712818,276541,7,FUT Esports,BBL Esports,atk,boom
+712818,276541,8,FUT Esports,BBL Esports,atk,elim
+712818,276541,9,BBL Esports,FUT Esports,def,elim
+712818,276541,10,FUT Esports,BBL Esports,atk,boom
+712818,276541,11,FUT Esports,BBL Esports,atk,boom
+712818,276541,12,FUT Esports,BBL Esports,atk,elim
+712818,276541,13,BBL Esports,FUT Esports,atk,elim
+712818,276541,14,BBL Esports,FUT Esports,atk,elim
+712818,276541,15,BBL Esports,FUT Esports,atk,boom
+712818,276541,16,BBL Esports,FUT Esports,atk,elim
+712818,276541,17,FUT Esports,BBL Esports,def,defuse
+712818,276541,18,FUT Esports,BBL Esports,def,elim
+712818,276541,19,BBL Esports,FUT Esports,atk,boom
+712818,276541,20,FUT Esports,BBL Esports,def,elim
+712818,276542,1,BBL Esports,FUT Esports,def,defuse
+712818,276542,2,BBL Esports,FUT Esports,def,elim
+712818,276542,3,FUT Esports,BBL Esports,atk,elim
+712818,276542,4,BBL Esports,FUT Esports,def,elim
+712818,276542,5,FUT Esports,BBL Esports,atk,elim
+712818,276542,6,FUT Esports,BBL Esports,atk,elim
+712818,276542,7,BBL Esports,FUT Esports,def,elim
+712818,276542,8,FUT Esports,BBL Esports,atk,boom
+712818,276542,9,FUT Esports,BBL Esports,atk,elim
+712818,276542,10,FUT Esports,BBL Esports,atk,elim
+712818,276542,11,FUT Esports,BBL Esports,atk,boom
+712818,276542,12,FUT Esports,BBL Esports,atk,elim
+712818,276542,13,BBL Esports,FUT Esports,atk,elim
+712818,276542,14,FUT Esports,BBL Esports,def,elim
+712818,276542,15,FUT Esports,BBL Esports,def,elim
+712818,276542,16,BBL Esports,FUT Esports,atk,boom
+712818,276542,17,FUT Esports,BBL Esports,def,elim
+712818,276542,18,BBL Esports,FUT Esports,atk,elim
+712818,276542,19,BBL Esports,FUT Esports,atk,elim
+712818,276542,20,FUT Esports,BBL Esports,def,defuse
+712818,276542,21,BBL Esports,FUT Esports,atk,elim
+712818,276542,22,BBL Esports,FUT Esports,atk,boom
+712818,276542,23,BBL Esports,FUT Esports,atk,elim
+712818,276542,24,FUT Esports,BBL Esports,def,defuse
+712819,276543,1,Team Liquid,FNATIC,atk,elim
+712819,276543,2,Team Liquid,FNATIC,atk,elim
+712819,276543,3,Team Liquid,FNATIC,atk,elim
+712819,276543,4,Team Liquid,FNATIC,atk,elim
+712819,276543,5,Team Liquid,FNATIC,atk,boom
+712819,276543,6,FNATIC,Team Liquid,def,defuse
+712819,276543,7,Team Liquid,FNATIC,atk,elim
+712819,276543,8,Team Liquid,FNATIC,atk,elim
+712819,276543,9,FNATIC,Team Liquid,def,elim
+712819,276543,10,Team Liquid,FNATIC,atk,boom
+712819,276543,11,FNATIC,Team Liquid,def,defuse
+712819,276543,12,FNATIC,Team Liquid,def,defuse
+712819,276543,13,Team Liquid,FNATIC,def,elim
+712819,276543,14,Team Liquid,FNATIC,def,elim
+712819,276543,15,Team Liquid,FNATIC,def,elim
+712819,276543,16,Team Liquid,FNATIC,def,elim
+712819,276543,17,FNATIC,Team Liquid,atk,elim
+712819,276543,18,FNATIC,Team Liquid,atk,elim
+712819,276543,19,Team Liquid,FNATIC,def,defuse
+712819,276544,1,FNATIC,Team Liquid,atk,elim
+712819,276544,2,FNATIC,Team Liquid,atk,elim
+712819,276544,3,Team Liquid,FNATIC,def,defuse
+712819,276544,4,Team Liquid,FNATIC,def,time
+712819,276544,5,Team Liquid,FNATIC,def,elim
+712819,276544,6,Team Liquid,FNATIC,def,elim
+712819,276544,7,Team Liquid,FNATIC,def,elim
+712819,276544,8,Team Liquid,FNATIC,def,elim
+712819,276544,9,Team Liquid,FNATIC,def,elim
+712819,276544,10,Team Liquid,FNATIC,def,elim
+712819,276544,11,Team Liquid,FNATIC,def,elim
+712819,276544,12,Team Liquid,FNATIC,def,elim
+712819,276544,13,FNATIC,Team Liquid,def,defuse
+712819,276544,14,FNATIC,Team Liquid,def,elim
+712819,276544,15,Team Liquid,FNATIC,atk,elim
+712819,276544,16,Team Liquid,FNATIC,atk,elim
+712819,276544,17,FNATIC,Team Liquid,def,elim
+712819,276544,18,Team Liquid,FNATIC,atk,elim
+712820,276546,1,Team Vitality,PCIFIC Esports,def,defuse
+712820,276546,2,Team Vitality,PCIFIC Esports,def,elim
+712820,276546,3,Team Vitality,PCIFIC Esports,def,elim
+712820,276546,4,Team Vitality,PCIFIC Esports,def,elim
+712820,276546,5,PCIFIC Esports,Team Vitality,atk,elim
+712820,276546,6,PCIFIC Esports,Team Vitality,atk,elim
+712820,276546,7,Team Vitality,PCIFIC Esports,def,defuse
+712820,276546,8,PCIFIC Esports,Team Vitality,atk,boom
+712820,276546,9,Team Vitality,PCIFIC Esports,def,elim
+712820,276546,10,PCIFIC Esports,Team Vitality,atk,boom
+712820,276546,11,PCIFIC Esports,Team Vitality,atk,elim
+712820,276546,12,Team Vitality,PCIFIC Esports,def,defuse
+712820,276546,13,Team Vitality,PCIFIC Esports,atk,elim
+712820,276546,14,Team Vitality,PCIFIC Esports,atk,boom
+712820,276546,15,Team Vitality,PCIFIC Esports,atk,elim
+712820,276546,16,Team Vitality,PCIFIC Esports,atk,elim
+712820,276546,17,Team Vitality,PCIFIC Esports,atk,boom
+712820,276546,18,PCIFIC Esports,Team Vitality,def,defuse
+712820,276546,19,Team Vitality,PCIFIC Esports,atk,elim
+712820,276547,1,PCIFIC Esports,Team Vitality,def,defuse
+712820,276547,2,Team Vitality,PCIFIC Esports,atk,elim
+712820,276547,3,Team Vitality,PCIFIC Esports,atk,elim
+712820,276547,4,PCIFIC Esports,Team Vitality,def,elim
+712820,276547,5,PCIFIC Esports,Team Vitality,def,elim
+712820,276547,6,PCIFIC Esports,Team Vitality,def,elim
+712820,276547,7,PCIFIC Esports,Team Vitality,def,elim
+712820,276547,8,Team Vitality,PCIFIC Esports,atk,elim
+712820,276547,9,PCIFIC Esports,Team Vitality,def,defuse
+712820,276547,10,Team Vitality,PCIFIC Esports,atk,elim
+712820,276547,11,Team Vitality,PCIFIC Esports,atk,elim
+712820,276547,12,Team Vitality,PCIFIC Esports,atk,elim
+712820,276547,13,Team Vitality,PCIFIC Esports,def,elim
+712820,276547,14,Team Vitality,PCIFIC Esports,def,elim
+712820,276547,15,Team Vitality,PCIFIC Esports,def,defuse
+712820,276547,16,Team Vitality,PCIFIC Esports,def,elim
+712820,276547,17,Team Vitality,PCIFIC Esports,def,elim
+712820,276547,18,Team Vitality,PCIFIC Esports,def,elim
+712820,276547,19,PCIFIC Esports,Team Vitality,atk,elim
+712820,276547,20,Team Vitality,PCIFIC Esports,def,defuse
+712821,276549,1,Eternal Fire,GIANTX,def,defuse
+712821,276549,2,GIANTX,Eternal Fire,atk,elim
+712821,276549,3,GIANTX,Eternal Fire,atk,elim
+712821,276549,4,GIANTX,Eternal Fire,atk,boom
+712821,276549,5,GIANTX,Eternal Fire,atk,boom
+712821,276549,6,GIANTX,Eternal Fire,atk,elim
+712821,276549,7,GIANTX,Eternal Fire,atk,elim
+712821,276549,8,Eternal Fire,GIANTX,def,defuse
+712821,276549,9,Eternal Fire,GIANTX,def,defuse
+712821,276549,10,GIANTX,Eternal Fire,atk,elim
+712821,276549,11,GIANTX,Eternal Fire,atk,elim
+712821,276549,12,GIANTX,Eternal Fire,atk,elim
+712821,276549,13,Eternal Fire,GIANTX,atk,elim
+712821,276549,14,GIANTX,Eternal Fire,def,defuse
+712821,276549,15,GIANTX,Eternal Fire,def,defuse
+712821,276549,16,Eternal Fire,GIANTX,atk,elim
+712821,276549,17,GIANTX,Eternal Fire,def,defuse
+712821,276549,18,GIANTX,Eternal Fire,def,elim
+712821,276550,1,Eternal Fire,GIANTX,def,elim
+712821,276550,2,Eternal Fire,GIANTX,def,elim
+712821,276550,3,GIANTX,Eternal Fire,atk,elim
+712821,276550,4,GIANTX,Eternal Fire,atk,elim
+712821,276550,5,GIANTX,Eternal Fire,atk,elim
+712821,276550,6,Eternal Fire,GIANTX,def,defuse
+712821,276550,7,GIANTX,Eternal Fire,atk,elim
+712821,276550,8,GIANTX,Eternal Fire,atk,elim
+712821,276550,9,Eternal Fire,GIANTX,def,defuse
+712821,276550,10,Eternal Fire,GIANTX,def,defuse
+712821,276550,11,Eternal Fire,GIANTX,def,time
+712821,276550,12,GIANTX,Eternal Fire,atk,elim
+712821,276550,13,GIANTX,Eternal Fire,def,defuse
+712821,276550,14,GIANTX,Eternal Fire,def,elim
+712821,276550,15,GIANTX,Eternal Fire,def,elim
+712821,276550,16,GIANTX,Eternal Fire,def,defuse
+712821,276550,17,GIANTX,Eternal Fire,def,defuse
+712821,276550,18,Eternal Fire,GIANTX,atk,elim
+712821,276550,19,GIANTX,Eternal Fire,def,elim
+712821,276550,20,GIANTX,Eternal Fire,def,defuse
+712822,276552,1,BBL Esports,Natus Vincere,atk,elim
+712822,276552,2,BBL Esports,Natus Vincere,atk,boom
+712822,276552,3,Natus Vincere,BBL Esports,def,defuse
+712822,276552,4,BBL Esports,Natus Vincere,atk,boom
+712822,276552,5,BBL Esports,Natus Vincere,atk,elim
+712822,276552,6,BBL Esports,Natus Vincere,atk,boom
+712822,276552,7,BBL Esports,Natus Vincere,atk,boom
+712822,276552,8,BBL Esports,Natus Vincere,atk,elim
+712822,276552,9,Natus Vincere,BBL Esports,def,defuse
+712822,276552,10,Natus Vincere,BBL Esports,def,elim
+712822,276552,11,Natus Vincere,BBL Esports,def,defuse
+712822,276552,12,Natus Vincere,BBL Esports,def,elim
+712822,276552,13,Natus Vincere,BBL Esports,atk,elim
+712822,276552,14,Natus Vincere,BBL Esports,atk,elim
+712822,276552,15,Natus Vincere,BBL Esports,atk,elim
+712822,276552,16,Natus Vincere,BBL Esports,atk,elim
+712822,276552,17,BBL Esports,Natus Vincere,def,elim
+712822,276552,18,Natus Vincere,BBL Esports,atk,elim
+712822,276552,19,BBL Esports,Natus Vincere,def,elim
+712822,276552,20,BBL Esports,Natus Vincere,def,defuse
+712822,276552,21,Natus Vincere,BBL Esports,atk,elim
+712822,276552,22,Natus Vincere,BBL Esports,atk,elim
+712822,276552,23,BBL Esports,Natus Vincere,def,time
+712822,276552,24,Natus Vincere,BBL Esports,atk,elim
+712822,276553,1,Natus Vincere,BBL Esports,atk,elim
+712822,276553,2,Natus Vincere,BBL Esports,atk,elim
+712822,276553,3,BBL Esports,Natus Vincere,def,time
+712822,276553,4,BBL Esports,Natus Vincere,def,time
+712822,276553,5,Natus Vincere,BBL Esports,atk,boom
+712822,276553,6,BBL Esports,Natus Vincere,def,elim
+712822,276553,7,BBL Esports,Natus Vincere,def,elim
+712822,276553,8,BBL Esports,Natus Vincere,def,elim
+712822,276553,9,BBL Esports,Natus Vincere,def,elim
+712822,276553,10,BBL Esports,Natus Vincere,def,elim
+712822,276553,11,BBL Esports,Natus Vincere,def,defuse
+712822,276553,12,Natus Vincere,BBL Esports,atk,elim
+712822,276553,13,Natus Vincere,BBL Esports,def,time
+712822,276553,14,Natus Vincere,BBL Esports,def,elim
+712822,276553,15,BBL Esports,Natus Vincere,atk,elim
+712822,276553,16,BBL Esports,Natus Vincere,atk,elim
+712822,276553,17,BBL Esports,Natus Vincere,atk,boom
+712822,276553,18,Natus Vincere,BBL Esports,def,elim
+712822,276553,19,Natus Vincere,BBL Esports,def,defuse
+712822,276553,20,Natus Vincere,BBL Esports,def,elim
+712822,276553,21,BBL Esports,Natus Vincere,atk,elim
+712822,276553,22,BBL Esports,Natus Vincere,atk,elim
+712822,276554,1,BBL Esports,Natus Vincere,def,defuse
+712822,276554,2,BBL Esports,Natus Vincere,def,elim
+712822,276554,3,Natus Vincere,BBL Esports,atk,elim
+712822,276554,4,BBL Esports,Natus Vincere,def,elim
+712822,276554,5,BBL Esports,Natus Vincere,def,defuse
+712822,276554,6,BBL Esports,Natus Vincere,def,elim
+712822,276554,7,BBL Esports,Natus Vincere,def,elim
+712822,276554,8,BBL Esports,Natus Vincere,def,elim
+712822,276554,9,BBL Esports,Natus Vincere,def,elim
+712822,276554,10,BBL Esports,Natus Vincere,def,defuse
+712822,276554,11,BBL Esports,Natus Vincere,def,defuse
+712822,276554,12,BBL Esports,Natus Vincere,def,time
+712822,276554,13,Natus Vincere,BBL Esports,def,elim
+712822,276554,14,Natus Vincere,BBL Esports,def,defuse
+712822,276554,15,BBL Esports,Natus Vincere,atk,boom
+712822,276554,16,BBL Esports,Natus Vincere,atk,elim
+712823,276555,1,Team Heretics,Karmine Corp,def,defuse
+712823,276555,2,Team Heretics,Karmine Corp,def,elim
+712823,276555,3,Karmine Corp,Team Heretics,atk,elim
+712823,276555,4,Karmine Corp,Team Heretics,atk,elim
+712823,276555,5,Karmine Corp,Team Heretics,atk,elim
+712823,276555,6,Karmine Corp,Team Heretics,atk,elim
+712823,276555,7,Karmine Corp,Team Heretics,atk,elim
+712823,276555,8,Team Heretics,Karmine Corp,def,elim
+712823,276555,9,Karmine Corp,Team Heretics,atk,elim
+712823,276555,10,Karmine Corp,Team Heretics,atk,elim
+712823,276555,11,Team Heretics,Karmine Corp,def,elim
+712823,276555,12,Karmine Corp,Team Heretics,atk,elim
+712823,276555,13,Karmine Corp,Team Heretics,def,defuse
+712823,276555,14,Karmine Corp,Team Heretics,def,defuse
+712823,276555,15,Karmine Corp,Team Heretics,def,elim
+712823,276555,16,Karmine Corp,Team Heretics,def,elim
+712823,276555,17,Karmine Corp,Team Heretics,def,defuse
+712823,276556,1,Karmine Corp,Team Heretics,atk,elim
+712823,276556,2,Karmine Corp,Team Heretics,atk,elim
+712823,276556,3,Karmine Corp,Team Heretics,atk,elim
+712823,276556,4,Karmine Corp,Team Heretics,atk,elim
+712823,276556,5,Team Heretics,Karmine Corp,def,time
+712823,276556,6,Karmine Corp,Team Heretics,atk,elim
+712823,276556,7,Karmine Corp,Team Heretics,atk,elim
+712823,276556,8,Karmine Corp,Team Heretics,atk,elim
+712823,276556,9,Karmine Corp,Team Heretics,atk,elim
+712823,276556,10,Karmine Corp,Team Heretics,atk,elim
+712823,276556,11,Karmine Corp,Team Heretics,atk,elim
+712823,276556,12,Karmine Corp,Team Heretics,atk,elim
+712823,276556,13,Karmine Corp,Team Heretics,def,elim
+712823,276556,14,Team Heretics,Karmine Corp,atk,elim
+712823,276556,15,Karmine Corp,Team Heretics,def,defuse
+712824,276558,1,Team Liquid,GIANTX,def,defuse
+712824,276558,2,Team Liquid,GIANTX,def,elim
+712824,276558,3,Team Liquid,GIANTX,def,elim
+712824,276558,4,Team Liquid,GIANTX,def,defuse
+712824,276558,5,GIANTX,Team Liquid,atk,elim
+712824,276558,6,Team Liquid,GIANTX,def,elim
+712824,276558,7,GIANTX,Team Liquid,atk,elim
+712824,276558,8,Team Liquid,GIANTX,def,time
+712824,276558,9,GIANTX,Team Liquid,atk,elim
+712824,276558,10,GIANTX,Team Liquid,atk,elim
+712824,276558,11,Team Liquid,GIANTX,def,defuse
+712824,276558,12,Team Liquid,GIANTX,def,elim
+712824,276558,13,GIANTX,Team Liquid,def,elim
+712824,276558,14,GIANTX,Team Liquid,def,elim
+712824,276558,15,Team Liquid,GIANTX,atk,boom
+712824,276558,16,Team Liquid,GIANTX,atk,boom
+712824,276558,17,Team Liquid,GIANTX,atk,elim
+712824,276558,18,Team Liquid,GIANTX,atk,boom
+712824,276558,19,Team Liquid,GIANTX,atk,elim
+712824,276559,1,Team Liquid,GIANTX,def,defuse
+712824,276559,2,Team Liquid,GIANTX,def,elim
+712824,276559,3,GIANTX,Team Liquid,atk,elim
+712824,276559,4,Team Liquid,GIANTX,def,defuse
+712824,276559,5,Team Liquid,GIANTX,def,defuse
+712824,276559,6,GIANTX,Team Liquid,atk,elim
+712824,276559,7,GIANTX,Team Liquid,atk,elim
+712824,276559,8,Team Liquid,GIANTX,def,defuse
+712824,276559,9,Team Liquid,GIANTX,def,elim
+712824,276559,10,GIANTX,Team Liquid,atk,elim
+712824,276559,11,GIANTX,Team Liquid,atk,boom
+712824,276559,12,GIANTX,Team Liquid,atk,elim
+712824,276559,13,Team Liquid,GIANTX,atk,elim
+712824,276559,14,Team Liquid,GIANTX,atk,boom
+712824,276559,15,Team Liquid,GIANTX,atk,boom
+712824,276559,16,Team Liquid,GIANTX,atk,elim
+712824,276559,17,Team Liquid,GIANTX,atk,boom
+712824,276559,18,Team Liquid,GIANTX,atk,elim
+712824,276559,19,GIANTX,Team Liquid,def,time
+712824,276559,20,Team Liquid,GIANTX,atk,elim
+712825,276561,1,Team Vitality,Gentle Mates,atk,elim
+712825,276561,2,Team Vitality,Gentle Mates,atk,boom
+712825,276561,3,Team Vitality,Gentle Mates,atk,boom
+712825,276561,4,Gentle Mates,Team Vitality,def,elim
+712825,276561,5,Gentle Mates,Team Vitality,def,time
+712825,276561,6,Team Vitality,Gentle Mates,atk,elim
+712825,276561,7,Team Vitality,Gentle Mates,atk,elim
+712825,276561,8,Team Vitality,Gentle Mates,atk,elim
+712825,276561,9,Gentle Mates,Team Vitality,def,defuse
+712825,276561,10,Team Vitality,Gentle Mates,atk,elim
+712825,276561,11,Team Vitality,Gentle Mates,atk,elim
+712825,276561,12,Team Vitality,Gentle Mates,atk,elim
+712825,276561,13,Gentle Mates,Team Vitality,atk,elim
+712825,276561,14,Gentle Mates,Team Vitality,atk,boom
+712825,276561,15,Gentle Mates,Team Vitality,atk,boom
+712825,276561,16,Team Vitality,Gentle Mates,def,defuse
+712825,276561,17,Gentle Mates,Team Vitality,atk,boom
+712825,276561,18,Gentle Mates,Team Vitality,atk,elim
+712825,276561,19,Gentle Mates,Team Vitality,atk,elim
+712825,276561,20,Team Vitality,Gentle Mates,def,defuse
+712825,276561,21,Gentle Mates,Team Vitality,atk,boom
+712825,276561,22,Gentle Mates,Team Vitality,atk,elim
+712825,276561,23,Team Vitality,Gentle Mates,def,defuse
+712825,276561,24,Gentle Mates,Team Vitality,atk,elim
+712825,276561,25,Team Vitality,Gentle Mates,atk,elim
+712825,276561,26,Gentle Mates,Team Vitality,atk,elim
+712825,276561,27,Gentle Mates,Team Vitality,def,elim
+712825,276561,28,Team Vitality,Gentle Mates,def,elim
+712825,276561,29,Gentle Mates,Team Vitality,def,defuse
+712825,276561,30,Gentle Mates,Team Vitality,atk,elim
+712825,276562,1,Team Vitality,Gentle Mates,atk,elim
+712825,276562,2,Team Vitality,Gentle Mates,atk,elim
+712825,276562,3,Team Vitality,Gentle Mates,atk,elim
+712825,276562,4,Team Vitality,Gentle Mates,atk,elim
+712825,276562,5,Gentle Mates,Team Vitality,def,elim
+712825,276562,6,Team Vitality,Gentle Mates,atk,elim
+712825,276562,7,Team Vitality,Gentle Mates,atk,elim
+712825,276562,8,Team Vitality,Gentle Mates,atk,boom
+712825,276562,9,Team Vitality,Gentle Mates,atk,elim
+712825,276562,10,Team Vitality,Gentle Mates,atk,elim
+712825,276562,11,Team Vitality,Gentle Mates,atk,elim
+712825,276562,12,Team Vitality,Gentle Mates,atk,elim
+712825,276562,13,Gentle Mates,Team Vitality,atk,elim
+712825,276562,14,Gentle Mates,Team Vitality,atk,elim
+712825,276562,15,Gentle Mates,Team Vitality,atk,elim
+712825,276562,16,Gentle Mates,Team Vitality,atk,elim
+712825,276562,17,Team Vitality,Gentle Mates,def,elim
+712825,276562,18,Gentle Mates,Team Vitality,atk,elim
+712825,276562,19,Gentle Mates,Team Vitality,atk,elim
+712825,276562,20,Team Vitality,Gentle Mates,def,elim
+712825,276563,1,Team Vitality,Gentle Mates,atk,elim
+712825,276563,2,Team Vitality,Gentle Mates,atk,elim
+712825,276563,3,Team Vitality,Gentle Mates,atk,elim
+712825,276563,4,Team Vitality,Gentle Mates,atk,elim
+712825,276563,5,Team Vitality,Gentle Mates,atk,elim
+712825,276563,6,Gentle Mates,Team Vitality,def,elim
+712825,276563,7,Gentle Mates,Team Vitality,def,elim
+712825,276563,8,Gentle Mates,Team Vitality,def,time
+712825,276563,9,Team Vitality,Gentle Mates,atk,elim
+712825,276563,10,Gentle Mates,Team Vitality,def,defuse
+712825,276563,11,Gentle Mates,Team Vitality,def,elim
+712825,276563,12,Gentle Mates,Team Vitality,def,elim
+712825,276563,13,Gentle Mates,Team Vitality,atk,elim
+712825,276563,14,Team Vitality,Gentle Mates,def,elim
+712825,276563,15,Gentle Mates,Team Vitality,atk,elim
+712825,276563,16,Team Vitality,Gentle Mates,def,defuse
+712825,276563,17,Team Vitality,Gentle Mates,def,elim
+712825,276563,18,Team Vitality,Gentle Mates,def,elim
+712825,276563,19,Gentle Mates,Team Vitality,atk,elim
+712825,276563,20,Team Vitality,Gentle Mates,def,time
+712825,276563,21,Team Vitality,Gentle Mates,def,elim
+712825,276563,22,Team Vitality,Gentle Mates,def,elim
+712826,276564,1,Natus Vincere,PCIFIC Esports,def,defuse
+712826,276564,2,Natus Vincere,PCIFIC Esports,def,elim
+712826,276564,3,PCIFIC Esports,Natus Vincere,atk,elim
+712826,276564,4,Natus Vincere,PCIFIC Esports,def,time
+712826,276564,5,PCIFIC Esports,Natus Vincere,atk,elim
+712826,276564,6,Natus Vincere,PCIFIC Esports,def,elim
+712826,276564,7,Natus Vincere,PCIFIC Esports,def,time
+712826,276564,8,PCIFIC Esports,Natus Vincere,atk,elim
+712826,276564,9,PCIFIC Esports,Natus Vincere,atk,elim
+712826,276564,10,Natus Vincere,PCIFIC Esports,def,time
+712826,276564,11,Natus Vincere,PCIFIC Esports,def,defuse
+712826,276564,12,PCIFIC Esports,Natus Vincere,atk,elim
+712826,276564,13,PCIFIC Esports,Natus Vincere,def,elim
+712826,276564,14,PCIFIC Esports,Natus Vincere,def,elim
+712826,276564,15,PCIFIC Esports,Natus Vincere,def,elim
+712826,276564,16,PCIFIC Esports,Natus Vincere,def,elim
+712826,276564,17,PCIFIC Esports,Natus Vincere,def,elim
+712826,276564,18,PCIFIC Esports,Natus Vincere,def,elim
+712826,276564,19,Natus Vincere,PCIFIC Esports,atk,boom
+712826,276564,20,Natus Vincere,PCIFIC Esports,atk,elim
+712826,276564,21,Natus Vincere,PCIFIC Esports,atk,elim
+712826,276564,22,Natus Vincere,PCIFIC Esports,atk,elim
+712826,276564,23,Natus Vincere,PCIFIC Esports,atk,elim
+712826,276564,24,Natus Vincere,PCIFIC Esports,atk,elim
+712826,276565,1,Natus Vincere,PCIFIC Esports,def,elim
+712826,276565,2,Natus Vincere,PCIFIC Esports,def,defuse
+712826,276565,3,PCIFIC Esports,Natus Vincere,atk,boom
+712826,276565,4,PCIFIC Esports,Natus Vincere,atk,elim
+712826,276565,5,PCIFIC Esports,Natus Vincere,atk,elim
+712826,276565,6,Natus Vincere,PCIFIC Esports,def,elim
+712826,276565,7,Natus Vincere,PCIFIC Esports,def,elim
+712826,276565,8,Natus Vincere,PCIFIC Esports,def,time
+712826,276565,9,Natus Vincere,PCIFIC Esports,def,time
+712826,276565,10,Natus Vincere,PCIFIC Esports,def,defuse
+712826,276565,11,Natus Vincere,PCIFIC Esports,def,defuse
+712826,276565,12,Natus Vincere,PCIFIC Esports,def,elim
+712826,276565,13,PCIFIC Esports,Natus Vincere,def,elim
+712826,276565,14,PCIFIC Esports,Natus Vincere,def,elim
+712826,276565,15,PCIFIC Esports,Natus Vincere,def,defuse
+712826,276565,16,PCIFIC Esports,Natus Vincere,def,elim
+712826,276565,17,PCIFIC Esports,Natus Vincere,def,elim
+712826,276565,18,PCIFIC Esports,Natus Vincere,def,defuse
+712826,276565,19,PCIFIC Esports,Natus Vincere,def,time
+712826,276565,20,Natus Vincere,PCIFIC Esports,atk,elim
+712826,276565,21,Natus Vincere,PCIFIC Esports,atk,elim
+712826,276565,22,Natus Vincere,PCIFIC Esports,atk,elim
+712826,276565,23,PCIFIC Esports,Natus Vincere,def,elim
+712826,276565,24,PCIFIC Esports,Natus Vincere,def,elim
+712826,276565,25,Natus Vincere,PCIFIC Esports,def,defuse
+712826,276565,26,Natus Vincere,PCIFIC Esports,atk,elim
+712827,276567,1,Eternal Fire,FNATIC,atk,elim
+712827,276567,2,Eternal Fire,FNATIC,atk,elim
+712827,276567,3,Eternal Fire,FNATIC,atk,elim
+712827,276567,4,Eternal Fire,FNATIC,atk,elim
+712827,276567,5,FNATIC,Eternal Fire,def,elim
+712827,276567,6,Eternal Fire,FNATIC,atk,boom
+712827,276567,7,Eternal Fire,FNATIC,atk,boom
+712827,276567,8,FNATIC,Eternal Fire,def,elim
+712827,276567,9,FNATIC,Eternal Fire,def,time
+712827,276567,10,Eternal Fire,FNATIC,atk,elim
+712827,276567,11,Eternal Fire,FNATIC,atk,elim
+712827,276567,12,Eternal Fire,FNATIC,atk,elim
+712827,276567,13,FNATIC,Eternal Fire,atk,elim
+712827,276567,14,FNATIC,Eternal Fire,atk,elim
+712827,276567,15,FNATIC,Eternal Fire,atk,elim
+712827,276567,16,FNATIC,Eternal Fire,atk,elim
+712827,276567,17,Eternal Fire,FNATIC,def,defuse
+712827,276567,18,FNATIC,Eternal Fire,atk,boom
+712827,276567,19,FNATIC,Eternal Fire,atk,elim
+712827,276567,20,FNATIC,Eternal Fire,atk,elim
+712827,276567,21,Eternal Fire,FNATIC,def,elim
+712827,276567,22,FNATIC,Eternal Fire,atk,elim
+712827,276567,23,Eternal Fire,FNATIC,def,time
+712827,276567,24,FNATIC,Eternal Fire,atk,elim
+712827,276567,25,Eternal Fire,FNATIC,atk,elim
+712827,276567,26,FNATIC,Eternal Fire,atk,elim
+712827,276567,27,Eternal Fire,FNATIC,atk,elim
+712827,276567,28,FNATIC,Eternal Fire,atk,elim
+712827,276567,29,Eternal Fire,FNATIC,atk,elim
+712827,276567,30,Eternal Fire,FNATIC,def,elim
+712827,276568,1,Eternal Fire,FNATIC,atk,elim
+712827,276568,2,Eternal Fire,FNATIC,atk,elim
+712827,276568,3,Eternal Fire,FNATIC,atk,boom
+712827,276568,4,Eternal Fire,FNATIC,atk,boom
+712827,276568,5,Eternal Fire,FNATIC,atk,elim
+712827,276568,6,Eternal Fire,FNATIC,atk,elim
+712827,276568,7,Eternal Fire,FNATIC,atk,boom
+712827,276568,8,Eternal Fire,FNATIC,atk,boom
+712827,276568,9,FNATIC,Eternal Fire,def,elim
+712827,276568,10,Eternal Fire,FNATIC,atk,elim
+712827,276568,11,Eternal Fire,FNATIC,atk,elim
+712827,276568,12,Eternal Fire,FNATIC,atk,elim
+712827,276568,13,FNATIC,Eternal Fire,atk,elim
+712827,276568,14,FNATIC,Eternal Fire,atk,elim
+712827,276568,15,Eternal Fire,FNATIC,def,time
+712827,276568,16,FNATIC,Eternal Fire,atk,elim
+712827,276568,17,Eternal Fire,FNATIC,def,defuse
+712828,276570,1,BBL Esports,Gentle Mates,atk,elim
+712828,276570,2,BBL Esports,Gentle Mates,atk,elim
+712828,276570,3,BBL Esports,Gentle Mates,atk,elim
+712828,276570,4,BBL Esports,Gentle Mates,atk,elim
+712828,276570,5,Gentle Mates,BBL Esports,def,defuse
+712828,276570,6,BBL Esports,Gentle Mates,atk,elim
+712828,276570,7,BBL Esports,Gentle Mates,atk,elim
+712828,276570,8,Gentle Mates,BBL Esports,def,time
+712828,276570,9,BBL Esports,Gentle Mates,atk,elim
+712828,276570,10,Gentle Mates,BBL Esports,def,defuse
+712828,276570,11,Gentle Mates,BBL Esports,def,elim
+712828,276570,12,BBL Esports,Gentle Mates,atk,elim
+712828,276570,13,Gentle Mates,BBL Esports,atk,elim
+712828,276570,14,Gentle Mates,BBL Esports,atk,elim
+712828,276570,15,Gentle Mates,BBL Esports,atk,elim
+712828,276570,16,BBL Esports,Gentle Mates,def,elim
+712828,276570,17,Gentle Mates,BBL Esports,atk,elim
+712828,276570,18,Gentle Mates,BBL Esports,atk,boom
+712828,276570,19,Gentle Mates,BBL Esports,atk,elim
+712828,276570,20,Gentle Mates,BBL Esports,atk,elim
+712828,276570,21,BBL Esports,Gentle Mates,def,elim
+712828,276570,22,Gentle Mates,BBL Esports,atk,boom
+712828,276570,23,Gentle Mates,BBL Esports,atk,elim
+712828,276571,1,Gentle Mates,BBL Esports,atk,elim
+712828,276571,2,BBL Esports,Gentle Mates,def,elim
+712828,276571,3,BBL Esports,Gentle Mates,def,elim
+712828,276571,4,Gentle Mates,BBL Esports,atk,elim
+712828,276571,5,BBL Esports,Gentle Mates,def,elim
+712828,276571,6,BBL Esports,Gentle Mates,def,elim
+712828,276571,7,BBL Esports,Gentle Mates,def,elim
+712828,276571,8,BBL Esports,Gentle Mates,def,defuse
+712828,276571,9,BBL Esports,Gentle Mates,def,elim
+712828,276571,10,BBL Esports,Gentle Mates,def,time
+712828,276571,11,BBL Esports,Gentle Mates,def,defuse
+712828,276571,12,BBL Esports,Gentle Mates,def,elim
+712828,276571,13,Gentle Mates,BBL Esports,def,time
+712828,276571,14,Gentle Mates,BBL Esports,def,elim
+712828,276571,15,Gentle Mates,BBL Esports,def,defuse
+712828,276571,16,BBL Esports,Gentle Mates,atk,elim
+712828,276571,17,BBL Esports,Gentle Mates,atk,boom
+712828,276571,18,BBL Esports,Gentle Mates,atk,elim
+712828,276572,1,Gentle Mates,BBL Esports,atk,elim
+712828,276572,2,Gentle Mates,BBL Esports,atk,elim
+712828,276572,3,Gentle Mates,BBL Esports,atk,elim
+712828,276572,4,Gentle Mates,BBL Esports,atk,elim
+712828,276572,5,Gentle Mates,BBL Esports,atk,boom
+712828,276572,6,BBL Esports,Gentle Mates,def,time
+712828,276572,7,BBL Esports,Gentle Mates,def,defuse
+712828,276572,8,Gentle Mates,BBL Esports,atk,elim
+712828,276572,9,BBL Esports,Gentle Mates,def,elim
+712828,276572,10,Gentle Mates,BBL Esports,atk,elim
+712828,276572,11,BBL Esports,Gentle Mates,def,defuse
+712828,276572,12,BBL Esports,Gentle Mates,def,elim
+712828,276572,13,BBL Esports,Gentle Mates,atk,elim
+712828,276572,14,BBL Esports,Gentle Mates,atk,boom
+712828,276572,15,Gentle Mates,BBL Esports,def,elim
+712828,276572,16,BBL Esports,Gentle Mates,atk,boom
+712828,276572,17,BBL Esports,Gentle Mates,atk,elim
+712828,276572,18,BBL Esports,Gentle Mates,atk,boom
+712828,276572,19,Gentle Mates,BBL Esports,def,elim
+712828,276572,20,BBL Esports,Gentle Mates,atk,elim
+712828,276572,21,BBL Esports,Gentle Mates,atk,elim
+712828,276572,22,Gentle Mates,BBL Esports,def,defuse
+712828,276572,23,BBL Esports,Gentle Mates,atk,elim
+712829,276573,1,Team Heretics,GIANTX,def,defuse
+712829,276573,2,Team Heretics,GIANTX,def,defuse
+712829,276573,3,GIANTX,Team Heretics,atk,elim
+712829,276573,4,GIANTX,Team Heretics,atk,elim
+712829,276573,5,Team Heretics,GIANTX,def,elim
+712829,276573,6,GIANTX,Team Heretics,atk,elim
+712829,276573,7,GIANTX,Team Heretics,atk,elim
+712829,276573,8,Team Heretics,GIANTX,def,defuse
+712829,276573,9,Team Heretics,GIANTX,def,defuse
+712829,276573,10,Team Heretics,GIANTX,def,time
+712829,276573,11,Team Heretics,GIANTX,def,defuse
+712829,276573,12,Team Heretics,GIANTX,def,elim
+712829,276573,13,Team Heretics,GIANTX,atk,elim
+712829,276573,14,Team Heretics,GIANTX,atk,boom
+712829,276573,15,GIANTX,Team Heretics,def,elim
+712829,276573,16,Team Heretics,GIANTX,atk,elim
+712829,276573,17,GIANTX,Team Heretics,def,defuse
+712829,276573,18,Team Heretics,GIANTX,atk,boom
+712829,276573,19,Team Heretics,GIANTX,atk,boom
+712829,276574,1,Team Heretics,GIANTX,def,defuse
+712829,276574,2,GIANTX,Team Heretics,atk,elim
+712829,276574,3,GIANTX,Team Heretics,atk,elim
+712829,276574,4,Team Heretics,GIANTX,def,time
+712829,276574,5,Team Heretics,GIANTX,def,defuse
+712829,276574,6,Team Heretics,GIANTX,def,elim
+712829,276574,7,GIANTX,Team Heretics,atk,elim
+712829,276574,8,Team Heretics,GIANTX,def,time
+712829,276574,9,Team Heretics,GIANTX,def,defuse
+712829,276574,10,Team Heretics,GIANTX,def,defuse
+712829,276574,11,Team Heretics,GIANTX,def,time
+712829,276574,12,Team Heretics,GIANTX,def,elim
+712829,276574,13,Team Heretics,GIANTX,atk,elim
+712829,276574,14,Team Heretics,GIANTX,atk,elim
+712829,276574,15,GIANTX,Team Heretics,def,elim
+712829,276574,16,GIANTX,Team Heretics,def,defuse
+712829,276574,17,GIANTX,Team Heretics,def,defuse
+712829,276574,18,GIANTX,Team Heretics,def,elim
+712829,276574,19,GIANTX,Team Heretics,def,elim
+712829,276574,20,GIANTX,Team Heretics,def,time
+712829,276574,21,GIANTX,Team Heretics,def,defuse
+712829,276574,22,Team Heretics,GIANTX,atk,elim
+712829,276574,23,Team Heretics,GIANTX,atk,elim
+712830,276576,1,Team Vitality,FUT Esports,atk,elim
+712830,276576,2,FUT Esports,Team Vitality,def,elim
+712830,276576,3,FUT Esports,Team Vitality,def,defuse
+712830,276576,4,Team Vitality,FUT Esports,atk,elim
+712830,276576,5,Team Vitality,FUT Esports,atk,elim
+712830,276576,6,Team Vitality,FUT Esports,atk,elim
+712830,276576,7,FUT Esports,Team Vitality,def,elim
+712830,276576,8,Team Vitality,FUT Esports,atk,elim
+712830,276576,9,Team Vitality,FUT Esports,atk,elim
+712830,276576,10,Team Vitality,FUT Esports,atk,elim
+712830,276576,11,FUT Esports,Team Vitality,def,defuse
+712830,276576,12,FUT Esports,Team Vitality,def,elim
+712830,276576,13,Team Vitality,FUT Esports,def,elim
+712830,276576,14,Team Vitality,FUT Esports,def,defuse
+712830,276576,15,Team Vitality,FUT Esports,def,defuse
+712830,276576,16,Team Vitality,FUT Esports,def,defuse
+712830,276576,17,FUT Esports,Team Vitality,atk,boom
+712830,276576,18,Team Vitality,FUT Esports,def,defuse
+712830,276576,19,Team Vitality,FUT Esports,def,defuse
+712830,276577,1,Team Vitality,FUT Esports,atk,elim
+712830,276577,2,Team Vitality,FUT Esports,atk,boom
+712830,276577,3,FUT Esports,Team Vitality,def,elim
+712830,276577,4,Team Vitality,FUT Esports,atk,boom
+712830,276577,5,FUT Esports,Team Vitality,def,defuse
+712830,276577,6,FUT Esports,Team Vitality,def,time
+712830,276577,7,Team Vitality,FUT Esports,atk,boom
+712830,276577,8,FUT Esports,Team Vitality,def,elim
+712830,276577,9,FUT Esports,Team Vitality,def,defuse
+712830,276577,10,Team Vitality,FUT Esports,atk,elim
+712830,276577,11,FUT Esports,Team Vitality,def,elim
+712830,276577,12,FUT Esports,Team Vitality,def,elim
+712830,276577,13,FUT Esports,Team Vitality,atk,elim
+712830,276577,14,FUT Esports,Team Vitality,atk,boom
+712830,276577,15,Team Vitality,FUT Esports,def,elim
+712830,276577,16,Team Vitality,FUT Esports,def,defuse
+712830,276577,17,Team Vitality,FUT Esports,def,elim
+712830,276577,18,FUT Esports,Team Vitality,atk,elim
+712830,276577,19,Team Vitality,FUT Esports,def,defuse
+712830,276577,20,Team Vitality,FUT Esports,def,elim
+712830,276577,21,FUT Esports,Team Vitality,atk,elim
+712830,276577,22,Team Vitality,FUT Esports,def,defuse
+712830,276577,23,Team Vitality,FUT Esports,def,elim
+712830,276577,24,FUT Esports,Team Vitality,atk,elim
+712830,276577,25,FUT Esports,Team Vitality,def,defuse
+712830,276577,26,FUT Esports,Team Vitality,atk,elim
+712830,276578,1,FUT Esports,Team Vitality,def,elim
+712830,276578,2,FUT Esports,Team Vitality,def,defuse
+712830,276578,3,Team Vitality,FUT Esports,atk,elim
+712830,276578,4,Team Vitality,FUT Esports,atk,boom
+712830,276578,5,Team Vitality,FUT Esports,atk,elim
+712830,276578,6,FUT Esports,Team Vitality,def,elim
+712830,276578,7,FUT Esports,Team Vitality,def,elim
+712830,276578,8,Team Vitality,FUT Esports,atk,boom
+712830,276578,9,Team Vitality,FUT Esports,atk,elim
+712830,276578,10,Team Vitality,FUT Esports,atk,boom
+712830,276578,11,Team Vitality,FUT Esports,atk,elim
+712830,276578,12,Team Vitality,FUT Esports,atk,elim
+712830,276578,13,Team Vitality,FUT Esports,def,defuse
+712830,276578,14,Team Vitality,FUT Esports,def,elim
+712830,276578,15,FUT Esports,Team Vitality,atk,elim
+712830,276578,16,Team Vitality,FUT Esports,def,defuse
+712830,276578,17,Team Vitality,FUT Esports,def,defuse
+712830,276578,18,FUT Esports,Team Vitality,atk,elim
+712830,276578,19,Team Vitality,FUT Esports,def,defuse
+712831,276579,1,Karmine Corp,Team Liquid,def,defuse
+712831,276579,2,Karmine Corp,Team Liquid,def,defuse
+712831,276579,3,Team Liquid,Karmine Corp,atk,elim
+712831,276579,4,Karmine Corp,Team Liquid,def,defuse
+712831,276579,5,Team Liquid,Karmine Corp,atk,elim
+712831,276579,6,Team Liquid,Karmine Corp,atk,elim
+712831,276579,7,Team Liquid,Karmine Corp,atk,elim
+712831,276579,8,Karmine Corp,Team Liquid,def,defuse
+712831,276579,9,Team Liquid,Karmine Corp,atk,elim
+712831,276579,10,Karmine Corp,Team Liquid,def,defuse
+712831,276579,11,Karmine Corp,Team Liquid,def,elim
+712831,276579,12,Karmine Corp,Team Liquid,def,defuse
+712831,276579,13,Team Liquid,Karmine Corp,def,defuse
+712831,276579,14,Team Liquid,Karmine Corp,def,elim
+712831,276579,15,Karmine Corp,Team Liquid,atk,elim
+712831,276579,16,Team Liquid,Karmine Corp,def,elim
+712831,276579,17,Team Liquid,Karmine Corp,def,elim
+712831,276579,18,Team Liquid,Karmine Corp,def,elim
+712831,276579,19,Karmine Corp,Team Liquid,atk,elim
+712831,276579,20,Team Liquid,Karmine Corp,def,elim
+712831,276579,21,Karmine Corp,Team Liquid,atk,boom
+712831,276579,22,Karmine Corp,Team Liquid,atk,elim
+712831,276579,23,Karmine Corp,Team Liquid,atk,elim
+712831,276579,24,Karmine Corp,Team Liquid,atk,elim
+712831,276580,1,Karmine Corp,Team Liquid,def,elim
+712831,276580,2,Karmine Corp,Team Liquid,def,elim
+712831,276580,3,Team Liquid,Karmine Corp,atk,elim
+712831,276580,4,Karmine Corp,Team Liquid,def,defuse
+712831,276580,5,Karmine Corp,Team Liquid,def,defuse
+712831,276580,6,Team Liquid,Karmine Corp,atk,elim
+712831,276580,7,Team Liquid,Karmine Corp,atk,elim
+712831,276580,8,Karmine Corp,Team Liquid,def,elim
+712831,276580,9,Karmine Corp,Team Liquid,def,elim
+712831,276580,10,Karmine Corp,Team Liquid,def,defuse
+712831,276580,11,Team Liquid,Karmine Corp,atk,boom
+712831,276580,12,Team Liquid,Karmine Corp,atk,elim
+712831,276580,13,Karmine Corp,Team Liquid,atk,boom
+712831,276580,14,Karmine Corp,Team Liquid,atk,boom
+712831,276580,15,Team Liquid,Karmine Corp,def,elim
+712831,276580,16,Karmine Corp,Team Liquid,atk,boom
+712831,276580,17,Karmine Corp,Team Liquid,atk,boom
+712831,276580,18,Team Liquid,Karmine Corp,def,defuse
+712831,276580,19,Team Liquid,Karmine Corp,def,time
+712831,276580,20,Team Liquid,Karmine Corp,def,time
+712831,276580,21,Team Liquid,Karmine Corp,def,elim
+712831,276580,22,Team Liquid,Karmine Corp,def,elim
+712831,276580,23,Team Liquid,Karmine Corp,def,defuse
+712831,276580,24,Team Liquid,Karmine Corp,def,elim
+712831,276581,1,Team Liquid,Karmine Corp,atk,elim
+712831,276581,2,Team Liquid,Karmine Corp,atk,elim
+712831,276581,3,Karmine Corp,Team Liquid,def,elim
+712831,276581,4,Team Liquid,Karmine Corp,atk,elim
+712831,276581,5,Team Liquid,Karmine Corp,atk,boom
+712831,276581,6,Karmine Corp,Team Liquid,def,defuse
+712831,276581,7,Karmine Corp,Team Liquid,def,defuse
+712831,276581,8,Team Liquid,Karmine Corp,atk,elim
+712831,276581,9,Karmine Corp,Team Liquid,def,defuse
+712831,276581,10,Karmine Corp,Team Liquid,def,defuse
+712831,276581,11,Karmine Corp,Team Liquid,def,defuse
+712831,276581,12,Team Liquid,Karmine Corp,atk,elim
+712831,276581,13,Team Liquid,Karmine Corp,def,elim
+712831,276581,14,Team Liquid,Karmine Corp,def,elim
+712831,276581,15,Karmine Corp,Team Liquid,atk,elim
+712831,276581,16,Team Liquid,Karmine Corp,def,elim
+712831,276581,17,Team Liquid,Karmine Corp,def,defuse
+712831,276581,18,Karmine Corp,Team Liquid,atk,elim
+712831,276581,19,Karmine Corp,Team Liquid,atk,elim
+712831,276581,20,Karmine Corp,Team Liquid,atk,elim
+712831,276581,21,Karmine Corp,Team Liquid,atk,elim
+712831,276581,22,Team Liquid,Karmine Corp,def,elim
+712831,276581,23,Karmine Corp,Team Liquid,atk,boom
+712831,276581,24,Karmine Corp,Team Liquid,atk,elim
+712832,276582,1,PCIFIC Esports,BBL Esports,def,elim
+712832,276582,2,PCIFIC Esports,BBL Esports,def,elim
+712832,276582,3,BBL Esports,PCIFIC Esports,atk,elim
+712832,276582,4,BBL Esports,PCIFIC Esports,atk,boom
+712832,276582,5,BBL Esports,PCIFIC Esports,atk,elim
+712832,276582,6,BBL Esports,PCIFIC Esports,atk,elim
+712832,276582,7,PCIFIC Esports,BBL Esports,def,defuse
+712832,276582,8,PCIFIC Esports,BBL Esports,def,defuse
+712832,276582,9,PCIFIC Esports,BBL Esports,def,elim
+712832,276582,10,PCIFIC Esports,BBL Esports,def,defuse
+712832,276582,11,PCIFIC Esports,BBL Esports,def,defuse
+712832,276582,12,BBL Esports,PCIFIC Esports,atk,elim
+712832,276582,13,BBL Esports,PCIFIC Esports,def,defuse
+712832,276582,14,BBL Esports,PCIFIC Esports,def,defuse
+712832,276582,15,BBL Esports,PCIFIC Esports,def,elim
+712832,276582,16,BBL Esports,PCIFIC Esports,def,elim
+712832,276582,17,BBL Esports,PCIFIC Esports,def,defuse
+712832,276582,18,BBL Esports,PCIFIC Esports,def,defuse
+712832,276582,19,BBL Esports,PCIFIC Esports,def,elim
+712832,276582,20,BBL Esports,PCIFIC Esports,def,elim
+712832,276583,1,PCIFIC Esports,BBL Esports,atk,elim
+712832,276583,2,PCIFIC Esports,BBL Esports,atk,elim
+712832,276583,3,PCIFIC Esports,BBL Esports,atk,elim
+712832,276583,4,BBL Esports,PCIFIC Esports,def,defuse
+712832,276583,5,BBL Esports,PCIFIC Esports,def,elim
+712832,276583,6,BBL Esports,PCIFIC Esports,def,elim
+712832,276583,7,PCIFIC Esports,BBL Esports,atk,elim
+712832,276583,8,PCIFIC Esports,BBL Esports,atk,boom
+712832,276583,9,BBL Esports,PCIFIC Esports,def,time
+712832,276583,10,PCIFIC Esports,BBL Esports,atk,boom
+712832,276583,11,PCIFIC Esports,BBL Esports,atk,boom
+712832,276583,12,PCIFIC Esports,BBL Esports,atk,elim
+712832,276583,13,PCIFIC Esports,BBL Esports,def,defuse
+712832,276583,14,PCIFIC Esports,BBL Esports,def,defuse
+712832,276583,15,BBL Esports,PCIFIC Esports,atk,elim
+712832,276583,16,BBL Esports,PCIFIC Esports,atk,boom
+712832,276583,17,PCIFIC Esports,BBL Esports,def,defuse
+712832,276583,18,BBL Esports,PCIFIC Esports,atk,boom
+712832,276583,19,BBL Esports,PCIFIC Esports,atk,boom
+712832,276583,20,PCIFIC Esports,BBL Esports,def,defuse
+712832,276583,21,BBL Esports,PCIFIC Esports,atk,boom
+712832,276583,22,PCIFIC Esports,BBL Esports,def,defuse
+712832,276584,1,PCIFIC Esports,BBL Esports,atk,elim
+712832,276584,2,PCIFIC Esports,BBL Esports,atk,elim
+712832,276584,3,BBL Esports,PCIFIC Esports,def,time
+712832,276584,4,BBL Esports,PCIFIC Esports,def,elim
+712832,276584,5,BBL Esports,PCIFIC Esports,def,elim
+712832,276584,6,BBL Esports,PCIFIC Esports,def,elim
+712832,276584,7,PCIFIC Esports,BBL Esports,atk,elim
+712832,276584,8,BBL Esports,PCIFIC Esports,def,elim
+712832,276584,9,BBL Esports,PCIFIC Esports,def,elim
+712832,276584,10,BBL Esports,PCIFIC Esports,def,elim
+712832,276584,11,BBL Esports,PCIFIC Esports,def,defuse
+712832,276584,12,PCIFIC Esports,BBL Esports,atk,elim
+712832,276584,13,BBL Esports,PCIFIC Esports,atk,elim
+712832,276584,14,BBL Esports,PCIFIC Esports,atk,boom
+712832,276584,15,PCIFIC Esports,BBL Esports,def,defuse
+712832,276584,16,BBL Esports,PCIFIC Esports,atk,boom
+712832,276584,17,PCIFIC Esports,BBL Esports,def,elim
+712832,276584,18,PCIFIC Esports,BBL Esports,def,defuse
+712832,276584,19,BBL Esports,PCIFIC Esports,atk,boom
+712832,276584,20,BBL Esports,PCIFIC Esports,atk,elim
+712833,276585,1,FNATIC,Team Heretics,atk,elim
+712833,276585,2,FNATIC,Team Heretics,atk,elim
+712833,276585,3,FNATIC,Team Heretics,atk,boom
+712833,276585,4,FNATIC,Team Heretics,atk,elim
+712833,276585,5,FNATIC,Team Heretics,atk,boom
+712833,276585,6,FNATIC,Team Heretics,atk,elim
+712833,276585,7,FNATIC,Team Heretics,atk,elim
+712833,276585,8,FNATIC,Team Heretics,atk,elim
+712833,276585,9,Team Heretics,FNATIC,def,time
+712833,276585,10,FNATIC,Team Heretics,atk,elim
+712833,276585,11,Team Heretics,FNATIC,def,defuse
+712833,276585,12,Team Heretics,FNATIC,def,elim
+712833,276585,13,Team Heretics,FNATIC,atk,elim
+712833,276585,14,Team Heretics,FNATIC,atk,elim
+712833,276585,15,Team Heretics,FNATIC,atk,boom
+712833,276585,16,FNATIC,Team Heretics,def,defuse
+712833,276585,17,Team Heretics,FNATIC,atk,boom
+712833,276585,18,Team Heretics,FNATIC,atk,boom
+712833,276585,19,Team Heretics,FNATIC,atk,elim
+712833,276585,20,Team Heretics,FNATIC,atk,elim
+712833,276585,21,Team Heretics,FNATIC,atk,boom
+712833,276585,22,Team Heretics,FNATIC,atk,elim
+712833,276585,23,FNATIC,Team Heretics,def,defuse
+712833,276585,24,Team Heretics,FNATIC,atk,elim
+712833,276586,1,Team Heretics,FNATIC,def,elim
+712833,276586,2,Team Heretics,FNATIC,def,defuse
+712833,276586,3,Team Heretics,FNATIC,def,elim
+712833,276586,4,Team Heretics,FNATIC,def,elim
+712833,276586,5,Team Heretics,FNATIC,def,elim
+712833,276586,6,Team Heretics,FNATIC,def,defuse
+712833,276586,7,Team Heretics,FNATIC,def,elim
+712833,276586,8,Team Heretics,FNATIC,def,time
+712833,276586,9,Team Heretics,FNATIC,def,elim
+712833,276586,10,Team Heretics,FNATIC,def,time
+712833,276586,11,Team Heretics,FNATIC,def,defuse
+712833,276586,12,Team Heretics,FNATIC,def,defuse
+712833,276586,13,Team Heretics,FNATIC,atk,elim
+729664,278908,1,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278908,2,GIANTX,Eintracht Frankfurt,atk,boom
+729664,278908,3,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278908,4,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278908,5,Eintracht Frankfurt,GIANTX,def,elim
+729664,278908,6,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278908,7,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278908,8,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278908,9,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278908,10,Eintracht Frankfurt,GIANTX,def,elim
+729664,278908,11,Eintracht Frankfurt,GIANTX,def,time
+729664,278908,12,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278908,13,GIANTX,Eintracht Frankfurt,def,elim
+729664,278908,14,GIANTX,Eintracht Frankfurt,def,elim
+729664,278908,15,Eintracht Frankfurt,GIANTX,atk,boom
+729664,278908,16,GIANTX,Eintracht Frankfurt,def,defuse
+729664,278908,17,Eintracht Frankfurt,GIANTX,atk,elim
+729664,278908,18,GIANTX,Eintracht Frankfurt,def,elim
+729664,278909,1,Eintracht Frankfurt,GIANTX,def,elim
+729664,278909,2,Eintracht Frankfurt,GIANTX,def,elim
+729664,278909,3,Eintracht Frankfurt,GIANTX,def,elim
+729664,278909,4,Eintracht Frankfurt,GIANTX,def,elim
+729664,278909,5,Eintracht Frankfurt,GIANTX,def,time
+729664,278909,6,Eintracht Frankfurt,GIANTX,def,elim
+729664,278909,7,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278909,8,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278909,9,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278909,10,Eintracht Frankfurt,GIANTX,def,elim
+729664,278909,11,Eintracht Frankfurt,GIANTX,def,elim
+729664,278909,12,Eintracht Frankfurt,GIANTX,def,elim
+729664,278909,13,GIANTX,Eintracht Frankfurt,def,elim
+729664,278909,14,GIANTX,Eintracht Frankfurt,def,defuse
+729664,278909,15,GIANTX,Eintracht Frankfurt,def,elim
+729664,278909,16,GIANTX,Eintracht Frankfurt,def,defuse
+729664,278909,17,Eintracht Frankfurt,GIANTX,atk,elim
+729664,278909,18,GIANTX,Eintracht Frankfurt,def,time
+729664,278909,19,GIANTX,Eintracht Frankfurt,def,defuse
+729664,278909,20,Eintracht Frankfurt,GIANTX,atk,boom
+729664,278909,21,Eintracht Frankfurt,GIANTX,atk,elim
+729664,278909,22,Eintracht Frankfurt,GIANTX,atk,elim
+729664,278910,1,Eintracht Frankfurt,GIANTX,atk,elim
+729664,278910,2,Eintracht Frankfurt,GIANTX,atk,elim
+729664,278910,3,Eintracht Frankfurt,GIANTX,atk,elim
+729664,278910,4,Eintracht Frankfurt,GIANTX,atk,elim
+729664,278910,5,Eintracht Frankfurt,GIANTX,atk,elim
+729664,278910,6,Eintracht Frankfurt,GIANTX,atk,elim
+729664,278910,7,GIANTX,Eintracht Frankfurt,def,defuse
+729664,278910,8,GIANTX,Eintracht Frankfurt,def,defuse
+729664,278910,9,GIANTX,Eintracht Frankfurt,def,elim
+729664,278910,10,GIANTX,Eintracht Frankfurt,def,defuse
+729664,278910,11,Eintracht Frankfurt,GIANTX,atk,boom
+729664,278910,12,Eintracht Frankfurt,GIANTX,atk,elim
+729664,278910,13,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278910,14,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278910,15,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278910,16,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278910,17,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278910,18,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278910,19,Eintracht Frankfurt,GIANTX,def,elim
+729664,278910,20,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278910,21,GIANTX,Eintracht Frankfurt,atk,elim
+729664,278910,22,GIANTX,Eintracht Frankfurt,atk,elim
+729665,278911,1,Joblife,Natus Vincere,def,defuse
+729665,278911,2,Joblife,Natus Vincere,def,elim
+729665,278911,3,Natus Vincere,Joblife,atk,boom
+729665,278911,4,Natus Vincere,Joblife,atk,elim
+729665,278911,5,Joblife,Natus Vincere,def,elim
+729665,278911,6,Joblife,Natus Vincere,def,defuse
+729665,278911,7,Natus Vincere,Joblife,atk,boom
+729665,278911,8,Natus Vincere,Joblife,atk,elim
+729665,278911,9,Joblife,Natus Vincere,def,elim
+729665,278911,10,Natus Vincere,Joblife,atk,elim
+729665,278911,11,Joblife,Natus Vincere,def,elim
+729665,278911,12,Natus Vincere,Joblife,atk,elim
+729665,278911,13,Natus Vincere,Joblife,def,elim
+729665,278911,14,Natus Vincere,Joblife,def,elim
+729665,278911,15,Joblife,Natus Vincere,atk,elim
+729665,278911,16,Joblife,Natus Vincere,atk,boom
+729665,278911,17,Joblife,Natus Vincere,atk,elim
+729665,278911,18,Joblife,Natus Vincere,atk,elim
+729665,278911,19,Joblife,Natus Vincere,atk,boom
+729665,278911,20,Joblife,Natus Vincere,atk,elim
+729665,278911,21,Joblife,Natus Vincere,atk,elim
+729665,278912,1,Natus Vincere,Joblife,def,elim
+729665,278912,2,Natus Vincere,Joblife,def,elim
+729665,278912,3,Joblife,Natus Vincere,atk,elim
+729665,278912,4,Natus Vincere,Joblife,def,elim
+729665,278912,5,Natus Vincere,Joblife,def,defuse
+729665,278912,6,Natus Vincere,Joblife,def,defuse
+729665,278912,7,Joblife,Natus Vincere,atk,elim
+729665,278912,8,Natus Vincere,Joblife,def,elim
+729665,278912,9,Joblife,Natus Vincere,atk,elim
+729665,278912,10,Joblife,Natus Vincere,atk,elim
+729665,278912,11,Joblife,Natus Vincere,atk,elim
+729665,278912,12,Natus Vincere,Joblife,def,defuse
+729665,278912,13,Natus Vincere,Joblife,atk,elim
+729665,278912,14,Natus Vincere,Joblife,atk,elim
+729665,278912,15,Natus Vincere,Joblife,atk,elim
+729665,278912,16,Natus Vincere,Joblife,atk,elim
+729665,278912,17,Natus Vincere,Joblife,atk,elim
+729665,278912,18,Joblife,Natus Vincere,def,elim
+729665,278912,19,Joblife,Natus Vincere,def,defuse
+729665,278912,20,Natus Vincere,Joblife,atk,elim
+729665,278913,1,Natus Vincere,Joblife,atk,elim
+729665,278913,2,Natus Vincere,Joblife,atk,elim
+729665,278913,3,Joblife,Natus Vincere,def,elim
+729665,278913,4,Natus Vincere,Joblife,atk,boom
+729665,278913,5,Joblife,Natus Vincere,def,elim
+729665,278913,6,Joblife,Natus Vincere,def,elim
+729665,278913,7,Joblife,Natus Vincere,def,time
+729665,278913,8,Joblife,Natus Vincere,def,elim
+729665,278913,9,Natus Vincere,Joblife,atk,elim
+729665,278913,10,Joblife,Natus Vincere,def,defuse
+729665,278913,11,Joblife,Natus Vincere,def,elim
+729665,278913,12,Natus Vincere,Joblife,atk,elim
+729665,278913,13,Natus Vincere,Joblife,def,defuse
+729665,278913,14,Natus Vincere,Joblife,def,elim
+729665,278913,15,Joblife,Natus Vincere,atk,elim
+729665,278913,16,Joblife,Natus Vincere,atk,elim
+729665,278913,17,Joblife,Natus Vincere,atk,elim
+729665,278913,18,Natus Vincere,Joblife,def,elim
+729665,278913,19,Natus Vincere,Joblife,def,elim
+729665,278913,20,Natus Vincere,Joblife,def,defuse
+729665,278913,21,Joblife,Natus Vincere,atk,elim
+729665,278913,22,Natus Vincere,Joblife,def,defuse
+729665,278913,23,Natus Vincere,Joblife,def,elim
+729665,278913,24,Joblife,Natus Vincere,atk,elim
+729665,278913,25,Joblife,Natus Vincere,def,elim
+729665,278913,26,Natus Vincere,Joblife,def,elim
+729665,278913,27,Joblife,Natus Vincere,def,elim
+729665,278913,28,Joblife,Natus Vincere,atk,elim
+729666,278914,1,Fire Flux Esports,PCIFIC Esports,def,defuse
+729666,278914,2,Fire Flux Esports,PCIFIC Esports,def,defuse
+729666,278914,3,Fire Flux Esports,PCIFIC Esports,def,elim
+729666,278914,4,Fire Flux Esports,PCIFIC Esports,def,defuse
+729666,278914,5,Fire Flux Esports,PCIFIC Esports,def,time
+729666,278914,6,PCIFIC Esports,Fire Flux Esports,atk,elim
+729666,278914,7,Fire Flux Esports,PCIFIC Esports,def,defuse
+729666,278914,8,Fire Flux Esports,PCIFIC Esports,def,time
+729666,278914,9,Fire Flux Esports,PCIFIC Esports,def,elim
+729666,278914,10,Fire Flux Esports,PCIFIC Esports,def,defuse
+729666,278914,11,PCIFIC Esports,Fire Flux Esports,atk,elim
+729666,278914,12,Fire Flux Esports,PCIFIC Esports,def,elim
+729666,278914,13,Fire Flux Esports,PCIFIC Esports,atk,elim
+729666,278914,14,PCIFIC Esports,Fire Flux Esports,def,elim
+729666,278914,15,PCIFIC Esports,Fire Flux Esports,def,elim
+729666,278914,16,Fire Flux Esports,PCIFIC Esports,atk,elim
+729666,278914,17,PCIFIC Esports,Fire Flux Esports,def,defuse
+729666,278914,18,Fire Flux Esports,PCIFIC Esports,atk,boom
+729666,278915,1,Fire Flux Esports,PCIFIC Esports,def,elim
+729666,278915,2,PCIFIC Esports,Fire Flux Esports,atk,elim
+729666,278915,3,PCIFIC Esports,Fire Flux Esports,atk,elim
+729666,278915,4,PCIFIC Esports,Fire Flux Esports,atk,elim
+729666,278915,5,PCIFIC Esports,Fire Flux Esports,atk,elim
+729666,278915,6,PCIFIC Esports,Fire Flux Esports,atk,elim
+729666,278915,7,Fire Flux Esports,PCIFIC Esports,def,elim
+729666,278915,8,Fire Flux Esports,PCIFIC Esports,def,elim
+729666,278915,9,Fire Flux Esports,PCIFIC Esports,def,elim
+729666,278915,10,Fire Flux Esports,PCIFIC Esports,def,time
+729666,278915,11,Fire Flux Esports,PCIFIC Esports,def,defuse
+729666,278915,12,Fire Flux Esports,PCIFIC Esports,def,defuse
+729666,278915,13,Fire Flux Esports,PCIFIC Esports,atk,elim
+729666,278915,14,Fire Flux Esports,PCIFIC Esports,atk,elim
+729666,278915,15,Fire Flux Esports,PCIFIC Esports,atk,boom
+729666,278915,16,Fire Flux Esports,PCIFIC Esports,atk,elim
+729666,278915,17,PCIFIC Esports,Fire Flux Esports,def,defuse
+729666,278915,18,Fire Flux Esports,PCIFIC Esports,atk,boom
+729666,278915,19,Fire Flux Esports,PCIFIC Esports,atk,boom
+729667,278917,1,Enterprise Esports,FNATIC,def,defuse
+729667,278917,2,Enterprise Esports,FNATIC,def,elim
+729667,278917,3,FNATIC,Enterprise Esports,atk,elim
+729667,278917,4,FNATIC,Enterprise Esports,atk,elim
+729667,278917,5,FNATIC,Enterprise Esports,atk,elim
+729667,278917,6,FNATIC,Enterprise Esports,atk,elim
+729667,278917,7,FNATIC,Enterprise Esports,atk,elim
+729667,278917,8,Enterprise Esports,FNATIC,def,defuse
+729667,278917,9,FNATIC,Enterprise Esports,atk,elim
+729667,278917,10,FNATIC,Enterprise Esports,atk,elim
+729667,278917,11,FNATIC,Enterprise Esports,atk,boom
+729667,278917,12,FNATIC,Enterprise Esports,atk,elim
+729667,278917,13,FNATIC,Enterprise Esports,def,defuse
+729667,278917,14,FNATIC,Enterprise Esports,def,defuse
+729667,278917,15,FNATIC,Enterprise Esports,def,defuse
+729667,278917,16,FNATIC,Enterprise Esports,def,elim
+729667,278918,1,FNATIC,Enterprise Esports,atk,elim
+729667,278918,2,FNATIC,Enterprise Esports,atk,boom
+729667,278918,3,Enterprise Esports,FNATIC,def,elim
+729667,278918,4,Enterprise Esports,FNATIC,def,defuse
+729667,278918,5,Enterprise Esports,FNATIC,def,elim
+729667,278918,6,Enterprise Esports,FNATIC,def,elim
+729667,278918,7,Enterprise Esports,FNATIC,def,defuse
+729667,278918,8,Enterprise Esports,FNATIC,def,elim
+729667,278918,9,Enterprise Esports,FNATIC,def,elim
+729667,278918,10,Enterprise Esports,FNATIC,def,defuse
+729667,278918,11,Enterprise Esports,FNATIC,def,defuse
+729667,278918,12,FNATIC,Enterprise Esports,atk,elim
+729667,278918,13,FNATIC,Enterprise Esports,def,defuse
+729667,278918,14,FNATIC,Enterprise Esports,def,defuse
+729667,278918,15,FNATIC,Enterprise Esports,def,elim
+729667,278918,16,FNATIC,Enterprise Esports,def,elim
+729667,278918,17,FNATIC,Enterprise Esports,def,elim
+729667,278918,18,FNATIC,Enterprise Esports,def,elim
+729667,278918,19,Enterprise Esports,FNATIC,atk,boom
+729667,278918,20,Enterprise Esports,FNATIC,atk,elim
+729667,278918,21,FNATIC,Enterprise Esports,def,elim
+729667,278918,22,Enterprise Esports,FNATIC,atk,boom
+729667,278918,23,Enterprise Esports,FNATIC,atk,elim
+729667,278919,1,FNATIC,Enterprise Esports,atk,elim
+729667,278919,2,FNATIC,Enterprise Esports,atk,elim
+729667,278919,3,Enterprise Esports,FNATIC,def,elim
+729667,278919,4,Enterprise Esports,FNATIC,def,time
+729667,278919,5,Enterprise Esports,FNATIC,def,defuse
+729667,278919,6,Enterprise Esports,FNATIC,def,elim
+729667,278919,7,Enterprise Esports,FNATIC,def,elim
+729667,278919,8,Enterprise Esports,FNATIC,def,time
+729667,278919,9,FNATIC,Enterprise Esports,atk,elim
+729667,278919,10,FNATIC,Enterprise Esports,atk,boom
+729667,278919,11,FNATIC,Enterprise Esports,atk,boom
+729667,278919,12,FNATIC,Enterprise Esports,atk,elim
+729667,278919,13,Enterprise Esports,FNATIC,atk,elim
+729667,278919,14,Enterprise Esports,FNATIC,atk,boom
+729667,278919,15,FNATIC,Enterprise Esports,def,defuse
+729667,278919,16,FNATIC,Enterprise Esports,def,defuse
+729667,278919,17,FNATIC,Enterprise Esports,def,elim
+729667,278919,18,FNATIC,Enterprise Esports,def,elim
+729667,278919,19,Enterprise Esports,FNATIC,atk,boom
+729667,278919,20,Enterprise Esports,FNATIC,atk,elim
+729667,278919,21,FNATIC,Enterprise Esports,def,time
+729667,278919,22,Enterprise Esports,FNATIC,atk,boom
+729667,278919,23,Enterprise Esports,FNATIC,atk,boom
+729667,278919,24,Enterprise Esports,FNATIC,atk,elim
+729668,278920,1,FUT Esports,GIANTX,def,elim
+729668,278920,2,FUT Esports,GIANTX,def,elim
+729668,278920,3,GIANTX,FUT Esports,atk,boom
+729668,278920,4,GIANTX,FUT Esports,atk,boom
+729668,278920,5,GIANTX,FUT Esports,atk,elim
+729668,278920,6,GIANTX,FUT Esports,atk,boom
+729668,278920,7,FUT Esports,GIANTX,def,defuse
+729668,278920,8,FUT Esports,GIANTX,def,defuse
+729668,278920,9,FUT Esports,GIANTX,def,elim
+729668,278920,10,GIANTX,FUT Esports,atk,elim
+729668,278920,11,GIANTX,FUT Esports,atk,elim
+729668,278920,12,FUT Esports,GIANTX,def,elim
+729668,278920,13,FUT Esports,GIANTX,atk,elim
+729668,278920,14,FUT Esports,GIANTX,atk,elim
+729668,278920,15,FUT Esports,GIANTX,atk,boom
+729668,278920,16,FUT Esports,GIANTX,atk,elim
+729668,278920,17,FUT Esports,GIANTX,atk,elim
+729668,278920,18,FUT Esports,GIANTX,atk,elim
+729668,278920,19,FUT Esports,GIANTX,atk,elim
+729668,278921,1,FUT Esports,GIANTX,def,defuse
+729668,278921,2,FUT Esports,GIANTX,def,elim
+729668,278921,3,GIANTX,FUT Esports,atk,elim
+729668,278921,4,GIANTX,FUT Esports,atk,elim
+729668,278921,5,GIANTX,FUT Esports,atk,elim
+729668,278921,6,FUT Esports,GIANTX,def,elim
+729668,278921,7,GIANTX,FUT Esports,atk,elim
+729668,278921,8,FUT Esports,GIANTX,def,defuse
+729668,278921,9,FUT Esports,GIANTX,def,elim
+729668,278921,10,GIANTX,FUT Esports,atk,elim
+729668,278921,11,GIANTX,FUT Esports,atk,elim
+729668,278921,12,FUT Esports,GIANTX,def,elim
+729668,278921,13,FUT Esports,GIANTX,atk,elim
+729668,278921,14,FUT Esports,GIANTX,atk,elim
+729668,278921,15,FUT Esports,GIANTX,atk,elim
+729668,278921,16,FUT Esports,GIANTX,atk,elim
+729668,278921,17,GIANTX,FUT Esports,def,defuse
+729668,278921,18,GIANTX,FUT Esports,def,defuse
+729668,278921,19,GIANTX,FUT Esports,def,time
+729668,278921,20,FUT Esports,GIANTX,atk,elim
+729668,278921,21,FUT Esports,GIANTX,atk,elim
+729668,278921,22,GIANTX,FUT Esports,def,defuse
+729668,278921,23,FUT Esports,GIANTX,atk,elim
+729669,278923,1,Joblife,Eternal Fire,def,defuse
+729669,278923,2,Joblife,Eternal Fire,def,elim
+729669,278923,3,Joblife,Eternal Fire,def,elim
+729669,278923,4,Eternal Fire,Joblife,atk,elim
+729669,278923,5,Eternal Fire,Joblife,atk,boom
+729669,278923,6,Eternal Fire,Joblife,atk,elim
+729669,278923,7,Eternal Fire,Joblife,atk,elim
+729669,278923,8,Eternal Fire,Joblife,atk,boom
+729669,278923,9,Joblife,Eternal Fire,def,defuse
+729669,278923,10,Joblife,Eternal Fire,def,defuse
+729669,278923,11,Eternal Fire,Joblife,atk,elim
+729669,278923,12,Joblife,Eternal Fire,def,elim
+729669,278923,13,Eternal Fire,Joblife,def,elim
+729669,278923,14,Eternal Fire,Joblife,def,elim
+729669,278923,15,Joblife,Eternal Fire,atk,elim
+729669,278923,16,Joblife,Eternal Fire,atk,elim
+729669,278923,17,Joblife,Eternal Fire,atk,boom
+729669,278923,18,Eternal Fire,Joblife,def,elim
+729669,278923,19,Joblife,Eternal Fire,atk,elim
+729669,278923,20,Eternal Fire,Joblife,def,elim
+729669,278923,21,Joblife,Eternal Fire,atk,elim
+729669,278923,22,Joblife,Eternal Fire,atk,elim
+729669,278923,23,Joblife,Eternal Fire,atk,elim
+729669,278924,1,Eternal Fire,Joblife,atk,elim
+729669,278924,2,Eternal Fire,Joblife,atk,boom
+729669,278924,3,Joblife,Eternal Fire,def,defuse
+729669,278924,4,Joblife,Eternal Fire,def,defuse
+729669,278924,5,Joblife,Eternal Fire,def,elim
+729669,278924,6,Eternal Fire,Joblife,atk,boom
+729669,278924,7,Joblife,Eternal Fire,def,elim
+729669,278924,8,Eternal Fire,Joblife,atk,boom
+729669,278924,9,Joblife,Eternal Fire,def,elim
+729669,278924,10,Joblife,Eternal Fire,def,elim
+729669,278924,11,Joblife,Eternal Fire,def,defuse
+729669,278924,12,Eternal Fire,Joblife,atk,elim
+729669,278924,13,Joblife,Eternal Fire,atk,elim
+729669,278924,14,Joblife,Eternal Fire,atk,elim
+729669,278924,15,Eternal Fire,Joblife,def,elim
+729669,278924,16,Eternal Fire,Joblife,def,elim
+729669,278924,17,Eternal Fire,Joblife,def,defuse
+729669,278924,18,Eternal Fire,Joblife,def,elim
+729669,278924,19,Joblife,Eternal Fire,atk,elim
+729669,278924,20,Eternal Fire,Joblife,def,time
+729669,278924,21,Eternal Fire,Joblife,def,elim
+729669,278924,22,Eternal Fire,Joblife,def,elim
+729669,278924,23,Joblife,Eternal Fire,atk,elim
+729669,278924,24,Joblife,Eternal Fire,atk,elim
+729669,278924,25,Eternal Fire,Joblife,atk,elim
+729669,278924,26,Eternal Fire,Joblife,def,elim
+729669,278925,1,Eternal Fire,Joblife,atk,elim
+729669,278925,2,Eternal Fire,Joblife,atk,elim
+729669,278925,3,Eternal Fire,Joblife,atk,elim
+729669,278925,4,Eternal Fire,Joblife,atk,elim
+729669,278925,5,Joblife,Eternal Fire,def,defuse
+729669,278925,6,Eternal Fire,Joblife,atk,boom
+729669,278925,7,Eternal Fire,Joblife,atk,elim
+729669,278925,8,Eternal Fire,Joblife,atk,elim
+729669,278925,9,Eternal Fire,Joblife,atk,boom
+729669,278925,10,Joblife,Eternal Fire,def,elim
+729669,278925,11,Joblife,Eternal Fire,def,elim
+729669,278925,12,Eternal Fire,Joblife,atk,elim
+729669,278925,13,Eternal Fire,Joblife,def,elim
+729669,278925,14,Joblife,Eternal Fire,atk,elim
+729669,278925,15,Joblife,Eternal Fire,atk,elim
+729669,278925,16,Joblife,Eternal Fire,atk,elim
+729669,278925,17,Joblife,Eternal Fire,atk,elim
+729669,278925,18,Eternal Fire,Joblife,def,defuse
+729669,278925,19,Eternal Fire,Joblife,def,elim
+729669,278925,20,Eternal Fire,Joblife,def,elim
+729670,278926,1,Team Heretics,Fire Flux Esports,def,elim
+729670,278926,2,Team Heretics,Fire Flux Esports,def,defuse
+729670,278926,3,Fire Flux Esports,Team Heretics,atk,boom
+729670,278926,4,Team Heretics,Fire Flux Esports,def,defuse
+729670,278926,5,Fire Flux Esports,Team Heretics,atk,boom
+729670,278926,6,Team Heretics,Fire Flux Esports,def,defuse
+729670,278926,7,Fire Flux Esports,Team Heretics,atk,boom
+729670,278926,8,Fire Flux Esports,Team Heretics,atk,elim
+729670,278926,9,Fire Flux Esports,Team Heretics,atk,elim
+729670,278926,10,Fire Flux Esports,Team Heretics,atk,elim
+729670,278926,11,Team Heretics,Fire Flux Esports,def,time
+729670,278926,12,Fire Flux Esports,Team Heretics,atk,elim
+729670,278926,13,Fire Flux Esports,Team Heretics,def,elim
+729670,278926,14,Team Heretics,Fire Flux Esports,atk,elim
+729670,278926,15,Team Heretics,Fire Flux Esports,atk,elim
+729670,278926,16,Team Heretics,Fire Flux Esports,atk,elim
+729670,278926,17,Team Heretics,Fire Flux Esports,atk,boom
+729670,278926,18,Team Heretics,Fire Flux Esports,atk,boom
+729670,278926,19,Team Heretics,Fire Flux Esports,atk,elim
+729670,278926,20,Team Heretics,Fire Flux Esports,atk,elim
+729670,278926,21,Fire Flux Esports,Team Heretics,def,defuse
+729670,278926,22,Team Heretics,Fire Flux Esports,atk,elim
+729670,278927,1,Fire Flux Esports,Team Heretics,def,elim
+729670,278927,2,Fire Flux Esports,Team Heretics,def,elim
+729670,278927,3,Team Heretics,Fire Flux Esports,atk,boom
+729670,278927,4,Team Heretics,Fire Flux Esports,atk,elim
+729670,278927,5,Fire Flux Esports,Team Heretics,def,elim
+729670,278927,6,Fire Flux Esports,Team Heretics,def,elim
+729670,278927,7,Fire Flux Esports,Team Heretics,def,elim
+729670,278927,8,Fire Flux Esports,Team Heretics,def,elim
+729670,278927,9,Fire Flux Esports,Team Heretics,def,elim
+729670,278927,10,Fire Flux Esports,Team Heretics,def,elim
+729670,278927,11,Fire Flux Esports,Team Heretics,def,defuse
+729670,278927,12,Fire Flux Esports,Team Heretics,def,defuse
+729670,278927,13,Fire Flux Esports,Team Heretics,atk,elim
+729670,278927,14,Fire Flux Esports,Team Heretics,atk,elim
+729670,278927,15,Fire Flux Esports,Team Heretics,atk,elim
+729670,278928,1,Team Heretics,Fire Flux Esports,atk,elim
+729670,278928,2,Team Heretics,Fire Flux Esports,atk,boom
+729670,278928,3,Fire Flux Esports,Team Heretics,def,elim
+729670,278928,4,Fire Flux Esports,Team Heretics,def,time
+729670,278928,5,Fire Flux Esports,Team Heretics,def,elim
+729670,278928,6,Fire Flux Esports,Team Heretics,def,elim
+729670,278928,7,Fire Flux Esports,Team Heretics,def,elim
+729670,278928,8,Fire Flux Esports,Team Heretics,def,elim
+729670,278928,9,Team Heretics,Fire Flux Esports,atk,boom
+729670,278928,10,Fire Flux Esports,Team Heretics,def,elim
+729670,278928,11,Fire Flux Esports,Team Heretics,def,elim
+729670,278928,12,Fire Flux Esports,Team Heretics,def,defuse
+729670,278928,13,Team Heretics,Fire Flux Esports,def,elim
+729670,278928,14,Team Heretics,Fire Flux Esports,def,elim
+729670,278928,15,Fire Flux Esports,Team Heretics,atk,elim
+729670,278928,16,Team Heretics,Fire Flux Esports,def,elim
+729670,278928,17,Team Heretics,Fire Flux Esports,def,elim
+729670,278928,18,Team Heretics,Fire Flux Esports,def,defuse
+729670,278928,19,Fire Flux Esports,Team Heretics,atk,elim
+729670,278928,20,Fire Flux Esports,Team Heretics,atk,boom
+729670,278928,21,Team Heretics,Fire Flux Esports,def,defuse
+729670,278928,22,Fire Flux Esports,Team Heretics,atk,elim
+729671,278929,1,Gentle Mates,Enterprise Esports,def,defuse
+729671,278929,2,Gentle Mates,Enterprise Esports,def,elim
+729671,278929,3,Gentle Mates,Enterprise Esports,def,defuse
+729671,278929,4,Enterprise Esports,Gentle Mates,atk,elim
+729671,278929,5,Gentle Mates,Enterprise Esports,def,elim
+729671,278929,6,Enterprise Esports,Gentle Mates,atk,elim
+729671,278929,7,Enterprise Esports,Gentle Mates,atk,elim
+729671,278929,8,Enterprise Esports,Gentle Mates,atk,boom
+729671,278929,9,Gentle Mates,Enterprise Esports,def,elim
+729671,278929,10,Gentle Mates,Enterprise Esports,def,elim
+729671,278929,11,Gentle Mates,Enterprise Esports,def,defuse
+729671,278929,12,Enterprise Esports,Gentle Mates,atk,elim
+729671,278929,13,Enterprise Esports,Gentle Mates,def,defuse
+729671,278929,14,Enterprise Esports,Gentle Mates,def,elim
+729671,278929,15,Enterprise Esports,Gentle Mates,def,defuse
+729671,278929,16,Enterprise Esports,Gentle Mates,def,elim
+729671,278929,17,Gentle Mates,Enterprise Esports,atk,elim
+729671,278929,18,Gentle Mates,Enterprise Esports,atk,boom
+729671,278929,19,Enterprise Esports,Gentle Mates,def,elim
+729671,278929,20,Enterprise Esports,Gentle Mates,def,elim
+729671,278929,21,Enterprise Esports,Gentle Mates,def,elim
+729671,278929,22,Enterprise Esports,Gentle Mates,def,elim
+729671,278930,1,Enterprise Esports,Gentle Mates,atk,elim
+729671,278930,2,Enterprise Esports,Gentle Mates,atk,elim
+729671,278930,3,Enterprise Esports,Gentle Mates,atk,boom
+729671,278930,4,Enterprise Esports,Gentle Mates,atk,elim
+729671,278930,5,Gentle Mates,Enterprise Esports,def,defuse
+729671,278930,6,Gentle Mates,Enterprise Esports,def,defuse
+729671,278930,7,Enterprise Esports,Gentle Mates,atk,elim
+729671,278930,8,Enterprise Esports,Gentle Mates,atk,elim
+729671,278930,9,Enterprise Esports,Gentle Mates,atk,elim
+729671,278930,10,Enterprise Esports,Gentle Mates,atk,elim
+729671,278930,11,Gentle Mates,Enterprise Esports,def,elim
+729671,278930,12,Enterprise Esports,Gentle Mates,atk,elim
+729671,278930,13,Gentle Mates,Enterprise Esports,atk,elim
+729671,278930,14,Gentle Mates,Enterprise Esports,atk,elim
+729671,278930,15,Enterprise Esports,Gentle Mates,def,defuse
+729671,278930,16,Enterprise Esports,Gentle Mates,def,elim
+729671,278930,17,Enterprise Esports,Gentle Mates,def,elim
+729671,278930,18,Gentle Mates,Enterprise Esports,atk,boom
+729671,278930,19,Enterprise Esports,Gentle Mates,def,elim
+729672,278932,1,FUT Esports,Eternal Fire,def,defuse
+729672,278932,2,FUT Esports,Eternal Fire,def,defuse
+729672,278932,3,Eternal Fire,FUT Esports,atk,elim
+729672,278932,4,FUT Esports,Eternal Fire,def,defuse
+729672,278932,5,FUT Esports,Eternal Fire,def,defuse
+729672,278932,6,FUT Esports,Eternal Fire,def,defuse
+729672,278932,7,FUT Esports,Eternal Fire,def,elim
+729672,278932,8,Eternal Fire,FUT Esports,atk,elim
+729672,278932,9,Eternal Fire,FUT Esports,atk,boom
+729672,278932,10,Eternal Fire,FUT Esports,atk,elim
+729672,278932,11,Eternal Fire,FUT Esports,atk,elim
+729672,278932,12,FUT Esports,Eternal Fire,def,elim
+729672,278932,13,Eternal Fire,FUT Esports,def,defuse
+729672,278932,14,Eternal Fire,FUT Esports,def,elim
+729672,278932,15,FUT Esports,Eternal Fire,atk,elim
+729672,278932,16,Eternal Fire,FUT Esports,def,elim
+729672,278932,17,Eternal Fire,FUT Esports,def,defuse
+729672,278932,18,FUT Esports,Eternal Fire,atk,boom
+729672,278932,19,FUT Esports,Eternal Fire,atk,elim
+729672,278932,20,FUT Esports,Eternal Fire,atk,boom
+729672,278932,21,Eternal Fire,FUT Esports,def,elim
+729672,278932,22,Eternal Fire,FUT Esports,def,elim
+729672,278932,23,FUT Esports,Eternal Fire,atk,elim
+729672,278932,24,Eternal Fire,FUT Esports,def,defuse
+729672,278932,25,Eternal Fire,FUT Esports,atk,elim
+729672,278932,26,FUT Esports,Eternal Fire,atk,elim
+729672,278932,27,FUT Esports,Eternal Fire,def,defuse
+729672,278932,28,FUT Esports,Eternal Fire,atk,elim
+729672,278933,1,FUT Esports,Eternal Fire,def,defuse
+729672,278933,2,Eternal Fire,FUT Esports,atk,elim
+729672,278933,3,Eternal Fire,FUT Esports,atk,boom
+729672,278933,4,FUT Esports,Eternal Fire,def,elim
+729672,278933,5,Eternal Fire,FUT Esports,atk,elim
+729672,278933,6,Eternal Fire,FUT Esports,atk,elim
+729672,278933,7,Eternal Fire,FUT Esports,atk,elim
+729672,278933,8,FUT Esports,Eternal Fire,def,elim
+729672,278933,9,FUT Esports,Eternal Fire,def,elim
+729672,278933,10,FUT Esports,Eternal Fire,def,elim
+729672,278933,11,FUT Esports,Eternal Fire,def,elim
+729672,278933,12,Eternal Fire,FUT Esports,atk,elim
+729672,278933,13,FUT Esports,Eternal Fire,atk,elim
+729672,278933,14,FUT Esports,Eternal Fire,atk,elim
+729672,278933,15,FUT Esports,Eternal Fire,atk,elim
+729672,278933,16,FUT Esports,Eternal Fire,atk,elim
+729672,278933,17,FUT Esports,Eternal Fire,atk,elim
+729672,278933,18,Eternal Fire,FUT Esports,def,elim
+729672,278933,19,FUT Esports,Eternal Fire,atk,elim
+729672,278933,20,Eternal Fire,FUT Esports,def,defuse
+729672,278933,21,Eternal Fire,FUT Esports,def,elim
+729672,278933,22,FUT Esports,Eternal Fire,atk,elim
+729673,278935,1,Enterprise Esports,Fire Flux Esports,atk,elim
+729673,278935,2,Enterprise Esports,Fire Flux Esports,atk,elim
+729673,278935,3,Enterprise Esports,Fire Flux Esports,atk,elim
+729673,278935,4,Fire Flux Esports,Enterprise Esports,def,elim
+729673,278935,5,Fire Flux Esports,Enterprise Esports,def,defuse
+729673,278935,6,Fire Flux Esports,Enterprise Esports,def,elim
+729673,278935,7,Fire Flux Esports,Enterprise Esports,def,time
+729673,278935,8,Enterprise Esports,Fire Flux Esports,atk,elim
+729673,278935,9,Fire Flux Esports,Enterprise Esports,def,elim
+729673,278935,10,Fire Flux Esports,Enterprise Esports,def,defuse
+729673,278935,11,Enterprise Esports,Fire Flux Esports,atk,elim
+729673,278935,12,Enterprise Esports,Fire Flux Esports,atk,elim
+729673,278935,13,Fire Flux Esports,Enterprise Esports,atk,elim
+729673,278935,14,Fire Flux Esports,Enterprise Esports,atk,elim
+729673,278935,15,Fire Flux Esports,Enterprise Esports,atk,elim
+729673,278935,16,Fire Flux Esports,Enterprise Esports,atk,elim
+729673,278935,17,Enterprise Esports,Fire Flux Esports,def,defuse
+729673,278935,18,Enterprise Esports,Fire Flux Esports,def,defuse
+729673,278935,19,Fire Flux Esports,Enterprise Esports,atk,elim
+729673,278935,20,Fire Flux Esports,Enterprise Esports,atk,elim
+729673,278935,21,Enterprise Esports,Fire Flux Esports,def,elim
+729673,278935,22,Enterprise Esports,Fire Flux Esports,def,elim
+729673,278935,23,Enterprise Esports,Fire Flux Esports,def,defuse
+729673,278935,24,Enterprise Esports,Fire Flux Esports,def,elim
+729673,278935,25,Enterprise Esports,Fire Flux Esports,atk,elim
+729673,278935,26,Fire Flux Esports,Enterprise Esports,atk,elim
+729673,278935,27,Enterprise Esports,Fire Flux Esports,atk,elim
+729673,278935,28,Enterprise Esports,Fire Flux Esports,def,defuse
+729673,278936,1,Enterprise Esports,Fire Flux Esports,def,defuse
+729673,278936,2,Fire Flux Esports,Enterprise Esports,atk,elim
+729673,278936,3,Fire Flux Esports,Enterprise Esports,atk,elim
+729673,278936,4,Enterprise Esports,Fire Flux Esports,def,defuse
+729673,278936,5,Enterprise Esports,Fire Flux Esports,def,time
+729673,278936,6,Enterprise Esports,Fire Flux Esports,def,elim
+729673,278936,7,Fire Flux Esports,Enterprise Esports,atk,boom
+729673,278936,8,Enterprise Esports,Fire Flux Esports,def,elim
+729673,278936,9,Enterprise Esports,Fire Flux Esports,def,elim
+729673,278936,10,Enterprise Esports,Fire Flux Esports,def,time
+729673,278936,11,Enterprise Esports,Fire Flux Esports,def,elim
+729673,278936,12,Fire Flux Esports,Enterprise Esports,atk,elim
+729673,278936,13,Fire Flux Esports,Enterprise Esports,def,defuse
+729673,278936,14,Fire Flux Esports,Enterprise Esports,def,elim
+729673,278936,15,Enterprise Esports,Fire Flux Esports,atk,elim
+729673,278936,16,Fire Flux Esports,Enterprise Esports,def,defuse
+729673,278936,17,Fire Flux Esports,Enterprise Esports,def,elim
+729673,278936,18,Fire Flux Esports,Enterprise Esports,def,elim
+729673,278936,19,Enterprise Esports,Fire Flux Esports,atk,elim
+729673,278936,20,Enterprise Esports,Fire Flux Esports,atk,elim
+729673,278936,21,Fire Flux Esports,Enterprise Esports,def,elim
+729673,278936,22,Enterprise Esports,Fire Flux Esports,atk,boom
+729673,278936,23,Enterprise Esports,Fire Flux Esports,atk,elim
+729674,278938,1,Eintracht Frankfurt,Gentle Mates,atk,elim
+729674,278938,2,Eintracht Frankfurt,Gentle Mates,atk,elim
+729674,278938,3,Gentle Mates,Eintracht Frankfurt,def,defuse
+729674,278938,4,Eintracht Frankfurt,Gentle Mates,atk,elim
+729674,278938,5,Eintracht Frankfurt,Gentle Mates,atk,boom
+729674,278938,6,Gentle Mates,Eintracht Frankfurt,def,time
+729674,278938,7,Eintracht Frankfurt,Gentle Mates,atk,elim
+729674,278938,8,Eintracht Frankfurt,Gentle Mates,atk,elim
+729674,278938,9,Eintracht Frankfurt,Gentle Mates,atk,elim
+729674,278938,10,Gentle Mates,Eintracht Frankfurt,def,defuse
+729674,278938,11,Gentle Mates,Eintracht Frankfurt,def,defuse
+729674,278938,12,Eintracht Frankfurt,Gentle Mates,atk,elim
+729674,278938,13,Gentle Mates,Eintracht Frankfurt,atk,elim
+729674,278938,14,Eintracht Frankfurt,Gentle Mates,def,elim
+729674,278938,15,Gentle Mates,Eintracht Frankfurt,atk,elim
+729674,278938,16,Gentle Mates,Eintracht Frankfurt,atk,elim
+729674,278938,17,Gentle Mates,Eintracht Frankfurt,atk,boom
+729674,278938,18,Gentle Mates,Eintracht Frankfurt,atk,boom
+729674,278938,19,Eintracht Frankfurt,Gentle Mates,def,elim
+729674,278938,20,Eintracht Frankfurt,Gentle Mates,def,elim
+729674,278938,21,Gentle Mates,Eintracht Frankfurt,atk,elim
+729674,278938,22,Gentle Mates,Eintracht Frankfurt,atk,boom
+729674,278938,23,Eintracht Frankfurt,Gentle Mates,def,defuse
+729674,278938,24,Eintracht Frankfurt,Gentle Mates,def,elim
+729674,278939,1,Eintracht Frankfurt,Gentle Mates,atk,elim
+729674,278939,2,Eintracht Frankfurt,Gentle Mates,atk,boom
+729674,278939,3,Gentle Mates,Eintracht Frankfurt,def,time
+729674,278939,4,Eintracht Frankfurt,Gentle Mates,atk,boom
+729674,278939,5,Eintracht Frankfurt,Gentle Mates,atk,boom
+729674,278939,6,Eintracht Frankfurt,Gentle Mates,atk,boom
+729674,278939,7,Gentle Mates,Eintracht Frankfurt,def,defuse
+729674,278939,8,Eintracht Frankfurt,Gentle Mates,atk,elim
+729674,278939,9,Eintracht Frankfurt,Gentle Mates,atk,elim
+729674,278939,10,Gentle Mates,Eintracht Frankfurt,def,elim
+729674,278939,11,Eintracht Frankfurt,Gentle Mates,atk,elim
+729674,278939,12,Gentle Mates,Eintracht Frankfurt,def,defuse
+729674,278939,13,Eintracht Frankfurt,Gentle Mates,def,elim
+729674,278939,14,Eintracht Frankfurt,Gentle Mates,def,defuse
+729674,278939,15,Gentle Mates,Eintracht Frankfurt,atk,elim
+729674,278939,16,Gentle Mates,Eintracht Frankfurt,atk,elim
+729674,278939,17,Gentle Mates,Eintracht Frankfurt,atk,elim
+729674,278939,18,Gentle Mates,Eintracht Frankfurt,atk,boom
+729674,278939,19,Gentle Mates,Eintracht Frankfurt,atk,elim
+729674,278939,20,Eintracht Frankfurt,Gentle Mates,def,elim
+729674,278939,21,Eintracht Frankfurt,Gentle Mates,def,elim
+729674,278939,22,Eintracht Frankfurt,Gentle Mates,def,defuse
+729675,278941,1,Natus Vincere,Team Heretics,atk,elim
+729675,278941,2,Natus Vincere,Team Heretics,atk,elim
+729675,278941,3,Team Heretics,Natus Vincere,def,defuse
+729675,278941,4,Team Heretics,Natus Vincere,def,defuse
+729675,278941,5,Team Heretics,Natus Vincere,def,defuse
+729675,278941,6,Natus Vincere,Team Heretics,atk,elim
+729675,278941,7,Natus Vincere,Team Heretics,atk,elim
+729675,278941,8,Natus Vincere,Team Heretics,atk,elim
+729675,278941,9,Team Heretics,Natus Vincere,def,elim
+729675,278941,10,Natus Vincere,Team Heretics,atk,elim
+729675,278941,11,Natus Vincere,Team Heretics,atk,elim
+729675,278941,12,Natus Vincere,Team Heretics,atk,elim
+729675,278941,13,Natus Vincere,Team Heretics,def,elim
+729675,278941,14,Team Heretics,Natus Vincere,atk,elim
+729675,278941,15,Team Heretics,Natus Vincere,atk,elim
+729675,278941,16,Team Heretics,Natus Vincere,atk,boom
+729675,278941,17,Team Heretics,Natus Vincere,atk,elim
+729675,278941,18,Team Heretics,Natus Vincere,atk,boom
+729675,278941,19,Team Heretics,Natus Vincere,atk,boom
+729675,278941,20,Natus Vincere,Team Heretics,def,elim
+729675,278941,21,Natus Vincere,Team Heretics,def,elim
+729675,278941,22,Team Heretics,Natus Vincere,atk,boom
+729675,278941,23,Natus Vincere,Team Heretics,def,defuse
+729675,278941,24,Team Heretics,Natus Vincere,atk,elim
+729675,278941,25,Team Heretics,Natus Vincere,def,defuse
+729675,278941,26,Natus Vincere,Team Heretics,def,defuse
+729675,278941,27,Team Heretics,Natus Vincere,def,defuse
+729675,278941,28,Team Heretics,Natus Vincere,atk,elim
+729675,278942,1,Team Heretics,Natus Vincere,atk,elim
+729675,278942,2,Team Heretics,Natus Vincere,atk,boom
+729675,278942,3,Team Heretics,Natus Vincere,atk,boom
+729675,278942,4,Team Heretics,Natus Vincere,atk,elim
+729675,278942,5,Natus Vincere,Team Heretics,def,elim
+729675,278942,6,Natus Vincere,Team Heretics,def,elim
+729675,278942,7,Natus Vincere,Team Heretics,def,defuse
+729675,278942,8,Team Heretics,Natus Vincere,atk,elim
+729675,278942,9,Natus Vincere,Team Heretics,def,elim
+729675,278942,10,Natus Vincere,Team Heretics,def,defuse
+729675,278942,11,Team Heretics,Natus Vincere,atk,elim
+729675,278942,12,Team Heretics,Natus Vincere,atk,elim
+729675,278942,13,Team Heretics,Natus Vincere,def,defuse
+729675,278942,14,Team Heretics,Natus Vincere,def,elim
+729675,278942,15,Natus Vincere,Team Heretics,atk,elim
+729675,278942,16,Natus Vincere,Team Heretics,atk,elim
+729675,278942,17,Natus Vincere,Team Heretics,atk,elim
+729675,278942,18,Natus Vincere,Team Heretics,atk,elim
+729675,278942,19,Natus Vincere,Team Heretics,atk,elim
+729675,278942,20,Natus Vincere,Team Heretics,atk,elim
+729675,278942,21,Natus Vincere,Team Heretics,atk,elim
+729675,278942,22,Team Heretics,Natus Vincere,def,time
+729675,278942,23,Team Heretics,Natus Vincere,def,elim
+729675,278942,24,Natus Vincere,Team Heretics,atk,elim
+729675,278943,1,Team Heretics,Natus Vincere,atk,boom
+729675,278943,2,Natus Vincere,Team Heretics,def,elim
+729675,278943,3,Natus Vincere,Team Heretics,def,defuse
+729675,278943,4,Natus Vincere,Team Heretics,def,elim
+729675,278943,5,Team Heretics,Natus Vincere,atk,elim
+729675,278943,6,Natus Vincere,Team Heretics,def,elim
+729675,278943,7,Team Heretics,Natus Vincere,atk,boom
+729675,278943,8,Team Heretics,Natus Vincere,atk,elim
+729675,278943,9,Team Heretics,Natus Vincere,atk,elim
+729675,278943,10,Team Heretics,Natus Vincere,atk,elim
+729675,278943,11,Natus Vincere,Team Heretics,def,elim
+729675,278943,12,Natus Vincere,Team Heretics,def,elim
+729675,278943,13,Team Heretics,Natus Vincere,def,defuse
+729675,278943,14,Team Heretics,Natus Vincere,def,elim
+729675,278943,15,Natus Vincere,Team Heretics,atk,boom
+729675,278943,16,Team Heretics,Natus Vincere,def,elim
+729675,278943,17,Team Heretics,Natus Vincere,def,defuse
+729675,278943,18,Team Heretics,Natus Vincere,def,elim
+729675,278943,19,Team Heretics,Natus Vincere,def,elim
+729675,278943,20,Team Heretics,Natus Vincere,def,elim
+729676,278944,1,Joblife,PCIFIC Esports,def,defuse
+729676,278944,2,Joblife,PCIFIC Esports,def,elim
+729676,278944,3,Joblife,PCIFIC Esports,def,elim
+729676,278944,4,PCIFIC Esports,Joblife,atk,elim
+729676,278944,5,Joblife,PCIFIC Esports,def,elim
+729676,278944,6,PCIFIC Esports,Joblife,atk,elim
+729676,278944,7,Joblife,PCIFIC Esports,def,elim
+729676,278944,8,PCIFIC Esports,Joblife,atk,boom
+729676,278944,9,PCIFIC Esports,Joblife,atk,elim
+729676,278944,10,Joblife,PCIFIC Esports,def,defuse
+729676,278944,11,Joblife,PCIFIC Esports,def,defuse
+729676,278944,12,Joblife,PCIFIC Esports,def,elim
+729676,278944,13,PCIFIC Esports,Joblife,def,defuse
+729676,278944,14,PCIFIC Esports,Joblife,def,elim
+729676,278944,15,Joblife,PCIFIC Esports,atk,boom
+729676,278944,16,Joblife,PCIFIC Esports,atk,elim
+729676,278944,17,Joblife,PCIFIC Esports,atk,elim
+729676,278944,18,Joblife,PCIFIC Esports,atk,elim
+729676,278944,19,Joblife,PCIFIC Esports,atk,elim
+729676,278945,1,PCIFIC Esports,Joblife,def,defuse
+729676,278945,2,PCIFIC Esports,Joblife,def,elim
+729676,278945,3,Joblife,PCIFIC Esports,atk,elim
+729676,278945,4,PCIFIC Esports,Joblife,def,elim
+729676,278945,5,Joblife,PCIFIC Esports,atk,elim
+729676,278945,6,Joblife,PCIFIC Esports,atk,boom
+729676,278945,7,PCIFIC Esports,Joblife,def,defuse
+729676,278945,8,PCIFIC Esports,Joblife,def,elim
+729676,278945,9,PCIFIC Esports,Joblife,def,elim
+729676,278945,10,PCIFIC Esports,Joblife,def,elim
+729676,278945,11,Joblife,PCIFIC Esports,atk,elim
+729676,278945,12,PCIFIC Esports,Joblife,def,elim
+729676,278945,13,Joblife,PCIFIC Esports,def,defuse
+729676,278945,14,Joblife,PCIFIC Esports,def,elim
+729676,278945,15,Joblife,PCIFIC Esports,def,defuse
+729676,278945,16,Joblife,PCIFIC Esports,def,elim
+729676,278945,17,PCIFIC Esports,Joblife,atk,boom
+729676,278945,18,PCIFIC Esports,Joblife,atk,elim
+729676,278945,19,PCIFIC Esports,Joblife,atk,elim
+729676,278945,20,PCIFIC Esports,Joblife,atk,elim
+729676,278945,21,PCIFIC Esports,Joblife,atk,elim
+729676,278946,1,Joblife,PCIFIC Esports,def,defuse
+729676,278946,2,Joblife,PCIFIC Esports,def,elim
+729676,278946,3,PCIFIC Esports,Joblife,atk,boom
+729676,278946,4,PCIFIC Esports,Joblife,atk,boom
+729676,278946,5,PCIFIC Esports,Joblife,atk,elim
+729676,278946,6,Joblife,PCIFIC Esports,def,defuse
+729676,278946,7,Joblife,PCIFIC Esports,def,elim
+729676,278946,8,Joblife,PCIFIC Esports,def,defuse
+729676,278946,9,PCIFIC Esports,Joblife,atk,elim
+729676,278946,10,PCIFIC Esports,Joblife,atk,boom
+729676,278946,11,Joblife,PCIFIC Esports,def,elim
+729676,278946,12,PCIFIC Esports,Joblife,atk,elim
+729676,278946,13,Joblife,PCIFIC Esports,atk,elim
+729676,278946,14,Joblife,PCIFIC Esports,atk,elim
+729676,278946,15,Joblife,PCIFIC Esports,atk,elim
+729676,278946,16,Joblife,PCIFIC Esports,atk,boom
+729676,278946,17,PCIFIC Esports,Joblife,def,defuse
+729676,278946,18,Joblife,PCIFIC Esports,atk,elim
+729676,278946,19,PCIFIC Esports,Joblife,def,elim
+729676,278946,20,PCIFIC Esports,Joblife,def,defuse
+729676,278946,21,Joblife,PCIFIC Esports,atk,elim
+729676,278946,22,PCIFIC Esports,Joblife,def,defuse
+729676,278946,23,Joblife,PCIFIC Esports,atk,elim
+729677,278947,1,FNATIC,GIANTX,atk,elim
+729677,278947,2,FNATIC,GIANTX,atk,elim
+729677,278947,3,GIANTX,FNATIC,def,defuse
+729677,278947,4,GIANTX,FNATIC,def,defuse
+729677,278947,5,GIANTX,FNATIC,def,defuse
+729677,278947,6,FNATIC,GIANTX,atk,boom
+729677,278947,7,FNATIC,GIANTX,atk,boom
+729677,278947,8,FNATIC,GIANTX,atk,elim
+729677,278947,9,GIANTX,FNATIC,def,elim
+729677,278947,10,FNATIC,GIANTX,atk,boom
+729677,278947,11,GIANTX,FNATIC,def,defuse
+729677,278947,12,FNATIC,GIANTX,atk,elim
+729677,278947,13,FNATIC,GIANTX,def,elim
+729677,278947,14,FNATIC,GIANTX,def,defuse
+729677,278947,15,FNATIC,GIANTX,def,elim
+729677,278947,16,FNATIC,GIANTX,def,elim
+729677,278947,17,GIANTX,FNATIC,atk,elim
+729677,278947,18,FNATIC,GIANTX,def,elim
+729677,278947,19,FNATIC,GIANTX,def,defuse
+729677,278948,1,FNATIC,GIANTX,def,elim
+729677,278948,2,FNATIC,GIANTX,def,defuse
+729677,278948,3,FNATIC,GIANTX,def,elim
+729677,278948,4,FNATIC,GIANTX,def,elim
+729677,278948,5,FNATIC,GIANTX,def,defuse
+729677,278948,6,GIANTX,FNATIC,atk,elim
+729677,278948,7,FNATIC,GIANTX,def,defuse
+729677,278948,8,GIANTX,FNATIC,atk,elim
+729677,278948,9,FNATIC,GIANTX,def,elim
+729677,278948,10,FNATIC,GIANTX,def,defuse
+729677,278948,11,FNATIC,GIANTX,def,defuse
+729677,278948,12,GIANTX,FNATIC,atk,elim
+729677,278948,13,GIANTX,FNATIC,def,defuse
+729677,278948,14,FNATIC,GIANTX,atk,elim
+729677,278948,15,FNATIC,GIANTX,atk,elim
+729677,278948,16,FNATIC,GIANTX,atk,elim
+729677,278948,17,GIANTX,FNATIC,def,defuse
+729677,278948,18,GIANTX,FNATIC,def,elim
+729677,278948,19,FNATIC,GIANTX,atk,elim
+729678,278950,1,Team Heretics,Eintracht Frankfurt,atk,elim
+729678,278950,2,Team Heretics,Eintracht Frankfurt,atk,boom
+729678,278950,3,Team Heretics,Eintracht Frankfurt,atk,elim
+729678,278950,4,Eintracht Frankfurt,Team Heretics,def,elim
+729678,278950,5,Eintracht Frankfurt,Team Heretics,def,elim
+729678,278950,6,Eintracht Frankfurt,Team Heretics,def,defuse
+729678,278950,7,Eintracht Frankfurt,Team Heretics,def,defuse
+729678,278950,8,Eintracht Frankfurt,Team Heretics,def,elim
+729678,278950,9,Team Heretics,Eintracht Frankfurt,atk,boom
+729678,278950,10,Team Heretics,Eintracht Frankfurt,atk,boom
+729678,278950,11,Eintracht Frankfurt,Team Heretics,def,elim
+729678,278950,12,Eintracht Frankfurt,Team Heretics,def,elim
+729678,278950,13,Eintracht Frankfurt,Team Heretics,atk,elim
+729678,278950,14,Team Heretics,Eintracht Frankfurt,def,defuse
+729678,278950,15,Team Heretics,Eintracht Frankfurt,def,defuse
+729678,278950,16,Eintracht Frankfurt,Team Heretics,atk,elim
+729678,278950,17,Eintracht Frankfurt,Team Heretics,atk,elim
+729678,278950,18,Eintracht Frankfurt,Team Heretics,atk,boom
+729678,278950,19,Team Heretics,Eintracht Frankfurt,def,defuse
+729678,278950,20,Team Heretics,Eintracht Frankfurt,def,elim
+729678,278950,21,Team Heretics,Eintracht Frankfurt,def,elim
+729678,278950,22,Team Heretics,Eintracht Frankfurt,def,defuse
+729678,278950,23,Eintracht Frankfurt,Team Heretics,atk,elim
+729678,278950,24,Eintracht Frankfurt,Team Heretics,atk,elim
+729678,278951,1,Team Heretics,Eintracht Frankfurt,def,elim
+729678,278951,2,Team Heretics,Eintracht Frankfurt,def,elim
+729678,278951,3,Team Heretics,Eintracht Frankfurt,def,defuse
+729678,278951,4,Team Heretics,Eintracht Frankfurt,def,elim
+729678,278951,5,Eintracht Frankfurt,Team Heretics,atk,elim
+729678,278951,6,Eintracht Frankfurt,Team Heretics,atk,boom
+729678,278951,7,Eintracht Frankfurt,Team Heretics,atk,elim
+729678,278951,8,Eintracht Frankfurt,Team Heretics,atk,elim
+729678,278951,9,Team Heretics,Eintracht Frankfurt,def,defuse
+729678,278951,10,Eintracht Frankfurt,Team Heretics,atk,boom
+729678,278951,11,Eintracht Frankfurt,Team Heretics,atk,elim
+729678,278951,12,Team Heretics,Eintracht Frankfurt,def,defuse
+729678,278951,13,Eintracht Frankfurt,Team Heretics,def,defuse
+729678,278951,14,Eintracht Frankfurt,Team Heretics,def,elim
+729678,278951,15,Team Heretics,Eintracht Frankfurt,atk,boom
+729678,278951,16,Eintracht Frankfurt,Team Heretics,def,elim
+729678,278951,17,Eintracht Frankfurt,Team Heretics,def,time
+729678,278951,18,Eintracht Frankfurt,Team Heretics,def,defuse
+729678,278951,19,Eintracht Frankfurt,Team Heretics,def,elim
+729678,278951,20,Eintracht Frankfurt,Team Heretics,def,elim
+729680,278953,1,FNATIC,Joblife,atk,elim
+729680,278953,2,Joblife,FNATIC,def,elim
+729680,278953,3,Joblife,FNATIC,def,elim
+729680,278953,4,Joblife,FNATIC,def,defuse
+729680,278953,5,Joblife,FNATIC,def,time
+729680,278953,6,Joblife,FNATIC,def,elim
+729680,278953,7,Joblife,FNATIC,def,defuse
+729680,278953,8,FNATIC,Joblife,atk,elim
+729680,278953,9,FNATIC,Joblife,atk,elim
+729680,278953,10,FNATIC,Joblife,atk,elim
+729680,278953,11,FNATIC,Joblife,atk,elim
+729680,278953,12,Joblife,FNATIC,def,defuse
+729680,278953,13,Joblife,FNATIC,atk,elim
+729680,278953,14,Joblife,FNATIC,atk,elim
+729680,278953,15,Joblife,FNATIC,atk,boom
+729680,278953,16,FNATIC,Joblife,def,defuse
+729680,278953,17,Joblife,FNATIC,atk,elim
+729680,278953,18,Joblife,FNATIC,atk,boom
+729680,278953,19,FNATIC,Joblife,def,elim
+729680,278953,20,FNATIC,Joblife,def,elim
+729680,278953,21,FNATIC,Joblife,def,elim
+729680,278953,22,FNATIC,Joblife,def,defuse
+729680,278953,23,FNATIC,Joblife,def,defuse
+729680,278953,24,Joblife,FNATIC,atk,elim
+729680,278954,1,Joblife,FNATIC,def,elim
+729680,278954,2,Joblife,FNATIC,def,elim
+729680,278954,3,Joblife,FNATIC,def,defuse
+729680,278954,4,Joblife,FNATIC,def,defuse
+729680,278954,5,Joblife,FNATIC,def,elim
+729680,278954,6,FNATIC,Joblife,atk,elim
+729680,278954,7,Joblife,FNATIC,def,defuse
+729680,278954,8,FNATIC,Joblife,atk,elim
+729680,278954,9,FNATIC,Joblife,atk,elim
+729680,278954,10,Joblife,FNATIC,def,elim
+729680,278954,11,FNATIC,Joblife,atk,elim
+729680,278954,12,Joblife,FNATIC,def,defuse
+729680,278954,13,Joblife,FNATIC,atk,elim
+729680,278954,14,Joblife,FNATIC,atk,boom
+729680,278954,15,FNATIC,Joblife,def,elim
+729680,278954,16,FNATIC,Joblife,def,defuse
+729680,278954,17,FNATIC,Joblife,def,defuse
+729680,278954,18,Joblife,FNATIC,atk,elim
+729680,278954,19,FNATIC,Joblife,def,time
+729680,278954,20,Joblife,FNATIC,atk,boom
+729680,278954,21,Joblife,FNATIC,atk,elim
+729681,278956,1,Eintracht Frankfurt,Eternal Fire,def,elim
+729681,278956,2,Eintracht Frankfurt,Eternal Fire,def,defuse
+729681,278956,3,Eternal Fire,Eintracht Frankfurt,atk,elim
+729681,278956,4,Eintracht Frankfurt,Eternal Fire,def,elim
+729681,278956,5,Eternal Fire,Eintracht Frankfurt,atk,elim
+729681,278956,6,Eternal Fire,Eintracht Frankfurt,atk,boom
+729681,278956,7,Eternal Fire,Eintracht Frankfurt,atk,elim
+729681,278956,8,Eternal Fire,Eintracht Frankfurt,atk,elim
+729681,278956,9,Eintracht Frankfurt,Eternal Fire,def,elim
+729681,278956,10,Eintracht Frankfurt,Eternal Fire,def,defuse
+729681,278956,11,Eternal Fire,Eintracht Frankfurt,atk,elim
+729681,278956,12,Eintracht Frankfurt,Eternal Fire,def,elim
+729681,278956,13,Eternal Fire,Eintracht Frankfurt,def,defuse
+729681,278956,14,Eternal Fire,Eintracht Frankfurt,def,elim
+729681,278956,15,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278956,16,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278956,17,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278956,18,Eternal Fire,Eintracht Frankfurt,def,defuse
+729681,278956,19,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278956,20,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278956,21,Eternal Fire,Eintracht Frankfurt,def,elim
+729681,278956,22,Eternal Fire,Eintracht Frankfurt,def,defuse
+729681,278956,23,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278956,24,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278957,1,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278957,2,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278957,3,Eintracht Frankfurt,Eternal Fire,atk,boom
+729681,278957,4,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278957,5,Eternal Fire,Eintracht Frankfurt,def,defuse
+729681,278957,6,Eintracht Frankfurt,Eternal Fire,atk,boom
+729681,278957,7,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278957,8,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278957,9,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278957,10,Eternal Fire,Eintracht Frankfurt,def,elim
+729681,278957,11,Eintracht Frankfurt,Eternal Fire,atk,elim
+729681,278957,12,Eternal Fire,Eintracht Frankfurt,def,elim
+729681,278957,13,Eternal Fire,Eintracht Frankfurt,atk,elim
+729681,278957,14,Eternal Fire,Eintracht Frankfurt,atk,elim
+729681,278957,15,Eternal Fire,Eintracht Frankfurt,atk,boom
+729681,278957,16,Eintracht Frankfurt,Eternal Fire,def,elim
+729681,278957,17,Eintracht Frankfurt,Eternal Fire,def,elim
+729681,278957,18,Eternal Fire,Eintracht Frankfurt,atk,boom
+729681,278957,19,Eintracht Frankfurt,Eternal Fire,def,elim
+729681,278957,20,Eintracht Frankfurt,Eternal Fire,def,elim
+729682,278959,1,Fire Flux Esports,Joblife,atk,elim
+729682,278959,2,Fire Flux Esports,Joblife,atk,elim
+729682,278959,3,Joblife,Fire Flux Esports,def,defuse
+729682,278959,4,Joblife,Fire Flux Esports,def,elim
+729682,278959,5,Joblife,Fire Flux Esports,def,elim
+729682,278959,6,Fire Flux Esports,Joblife,atk,elim
+729682,278959,7,Joblife,Fire Flux Esports,def,elim
+729682,278959,8,Fire Flux Esports,Joblife,atk,elim
+729682,278959,9,Joblife,Fire Flux Esports,def,time
+729682,278959,10,Fire Flux Esports,Joblife,atk,boom
+729682,278959,11,Fire Flux Esports,Joblife,atk,elim
+729682,278959,12,Fire Flux Esports,Joblife,atk,elim
+729682,278959,13,Fire Flux Esports,Joblife,def,defuse
+729682,278959,14,Fire Flux Esports,Joblife,def,elim
+729682,278959,15,Joblife,Fire Flux Esports,atk,elim
+729682,278959,16,Joblife,Fire Flux Esports,atk,boom
+729682,278959,17,Joblife,Fire Flux Esports,atk,boom
+729682,278959,18,Fire Flux Esports,Joblife,def,elim
+729682,278959,19,Fire Flux Esports,Joblife,def,elim
+729682,278959,20,Fire Flux Esports,Joblife,def,elim
+729682,278959,21,Joblife,Fire Flux Esports,atk,elim
+729682,278959,22,Fire Flux Esports,Joblife,def,defuse
+729682,278960,1,Fire Flux Esports,Joblife,def,elim
+729682,278960,2,Fire Flux Esports,Joblife,def,elim
+729682,278960,3,Joblife,Fire Flux Esports,atk,elim
+729682,278960,4,Fire Flux Esports,Joblife,def,elim
+729682,278960,5,Joblife,Fire Flux Esports,atk,boom
+729682,278960,6,Fire Flux Esports,Joblife,def,defuse
+729682,278960,7,Joblife,Fire Flux Esports,atk,boom
+729682,278960,8,Joblife,Fire Flux Esports,atk,boom
+729682,278960,9,Fire Flux Esports,Joblife,def,elim
+729682,278960,10,Fire Flux Esports,Joblife,def,elim
+729682,278960,11,Fire Flux Esports,Joblife,def,elim
+729682,278960,12,Fire Flux Esports,Joblife,def,elim
+729682,278960,13,Fire Flux Esports,Joblife,atk,elim
+729682,278960,14,Fire Flux Esports,Joblife,atk,elim
+729682,278960,15,Fire Flux Esports,Joblife,atk,boom
+729682,278960,16,Joblife,Fire Flux Esports,def,elim
+729682,278960,17,Joblife,Fire Flux Esports,def,defuse
+729682,278960,18,Joblife,Fire Flux Esports,def,elim
+729682,278960,19,Joblife,Fire Flux Esports,def,elim
+729682,278960,20,Fire Flux Esports,Joblife,atk,elim
+729682,278960,21,Fire Flux Esports,Joblife,atk,elim
+731396,279397,1,Team Liquid,FUT Esports,def,elim
+731396,279397,2,Team Liquid,FUT Esports,def,elim
+731396,279397,3,Team Liquid,FUT Esports,def,time
+731396,279397,4,Team Liquid,FUT Esports,def,elim
+731396,279397,5,Team Liquid,FUT Esports,def,elim
+731396,279397,6,Team Liquid,FUT Esports,def,elim
+731396,279397,7,Team Liquid,FUT Esports,def,defuse
+731396,279397,8,Team Liquid,FUT Esports,def,elim
+731396,279397,9,FUT Esports,Team Liquid,atk,elim
+731396,279397,10,Team Liquid,FUT Esports,def,defuse
+731396,279397,11,FUT Esports,Team Liquid,atk,elim
+731396,279397,12,FUT Esports,Team Liquid,atk,elim
+731396,279397,13,Team Liquid,FUT Esports,atk,elim
+731396,279397,14,FUT Esports,Team Liquid,def,elim
+731396,279397,15,FUT Esports,Team Liquid,def,elim
+731396,279397,16,FUT Esports,Team Liquid,def,elim
+731396,279397,17,FUT Esports,Team Liquid,def,defuse
+731396,279397,18,FUT Esports,Team Liquid,def,defuse
+731396,279397,19,FUT Esports,Team Liquid,def,elim
+731396,279397,20,FUT Esports,Team Liquid,def,elim
+731396,279397,21,Team Liquid,FUT Esports,atk,elim
+731396,279397,22,FUT Esports,Team Liquid,def,elim
+731396,279397,23,FUT Esports,Team Liquid,def,defuse
+731396,279397,24,FUT Esports,Team Liquid,def,elim
+731396,279398,1,Team Liquid,FUT Esports,atk,boom
+731396,279398,2,Team Liquid,FUT Esports,atk,elim
+731396,279398,3,Team Liquid,FUT Esports,atk,elim
+731396,279398,4,Team Liquid,FUT Esports,atk,elim
+731396,279398,5,FUT Esports,Team Liquid,def,defuse
+731396,279398,6,FUT Esports,Team Liquid,def,elim
+731396,279398,7,FUT Esports,Team Liquid,def,defuse
+731396,279398,8,FUT Esports,Team Liquid,def,defuse
+731396,279398,9,FUT Esports,Team Liquid,def,defuse
+731396,279398,10,FUT Esports,Team Liquid,def,elim
+731396,279398,11,Team Liquid,FUT Esports,atk,elim
+731396,279398,12,Team Liquid,FUT Esports,atk,elim
+731396,279398,13,FUT Esports,Team Liquid,atk,elim
+731396,279398,14,FUT Esports,Team Liquid,atk,elim
+731396,279398,15,FUT Esports,Team Liquid,atk,boom
+731396,279398,16,FUT Esports,Team Liquid,atk,elim
+731396,279398,17,FUT Esports,Team Liquid,atk,boom
+731396,279398,18,Team Liquid,FUT Esports,def,defuse
+731396,279398,19,FUT Esports,Team Liquid,atk,elim
+731396,279398,20,Team Liquid,FUT Esports,def,elim
+731396,279398,21,Team Liquid,FUT Esports,def,elim
+731396,279398,22,Team Liquid,FUT Esports,def,elim
+731396,279398,23,Team Liquid,FUT Esports,def,defuse
+731396,279398,24,FUT Esports,Team Liquid,atk,elim
+731397,279400,1,Team Vitality,Enterprise Esports,def,defuse
+731397,279400,2,Team Vitality,Enterprise Esports,def,elim
+731397,279400,3,Enterprise Esports,Team Vitality,atk,boom
+731397,279400,4,Team Vitality,Enterprise Esports,def,defuse
+731397,279400,5,Team Vitality,Enterprise Esports,def,defuse
+731397,279400,6,Team Vitality,Enterprise Esports,def,defuse
+731397,279400,7,Team Vitality,Enterprise Esports,def,time
+731397,279400,8,Team Vitality,Enterprise Esports,def,elim
+731397,279400,9,Team Vitality,Enterprise Esports,def,defuse
+731397,279400,10,Team Vitality,Enterprise Esports,def,elim
+731397,279400,11,Team Vitality,Enterprise Esports,def,defuse
+731397,279400,12,Enterprise Esports,Team Vitality,atk,elim
+731397,279400,13,Team Vitality,Enterprise Esports,atk,elim
+731397,279400,14,Team Vitality,Enterprise Esports,atk,elim
+731397,279400,15,Enterprise Esports,Team Vitality,def,defuse
+731397,279400,16,Enterprise Esports,Team Vitality,def,elim
+731397,279400,17,Enterprise Esports,Team Vitality,def,defuse
+731397,279400,18,Enterprise Esports,Team Vitality,def,defuse
+731397,279400,19,Team Vitality,Enterprise Esports,atk,elim
+731397,279401,1,Team Vitality,Enterprise Esports,def,defuse
+731397,279401,2,Enterprise Esports,Team Vitality,atk,elim
+731397,279401,3,Enterprise Esports,Team Vitality,atk,elim
+731397,279401,4,Team Vitality,Enterprise Esports,def,time
+731397,279401,5,Enterprise Esports,Team Vitality,atk,boom
+731397,279401,6,Enterprise Esports,Team Vitality,atk,elim
+731397,279401,7,Enterprise Esports,Team Vitality,atk,elim
+731397,279401,8,Enterprise Esports,Team Vitality,atk,elim
+731397,279401,9,Team Vitality,Enterprise Esports,def,defuse
+731397,279401,10,Enterprise Esports,Team Vitality,atk,elim
+731397,279401,11,Team Vitality,Enterprise Esports,def,elim
+731397,279401,12,Enterprise Esports,Team Vitality,atk,elim
+731397,279401,13,Team Vitality,Enterprise Esports,atk,elim
+731397,279401,14,Team Vitality,Enterprise Esports,atk,elim
+731397,279401,15,Team Vitality,Enterprise Esports,atk,elim
+731397,279401,16,Team Vitality,Enterprise Esports,atk,elim
+731397,279401,17,Team Vitality,Enterprise Esports,atk,elim
+731397,279401,18,Enterprise Esports,Team Vitality,def,elim
+731397,279401,19,Team Vitality,Enterprise Esports,atk,elim
+731397,279401,20,Team Vitality,Enterprise Esports,atk,elim
+731397,279401,21,Enterprise Esports,Team Vitality,def,elim
+731397,279401,22,Enterprise Esports,Team Vitality,def,defuse
+731397,279401,23,Enterprise Esports,Team Vitality,def,defuse
+731397,279401,24,Enterprise Esports,Team Vitality,def,elim
+731397,279402,1,Team Vitality,Enterprise Esports,def,defuse
+731397,279402,2,Team Vitality,Enterprise Esports,def,elim
+731397,279402,3,Enterprise Esports,Team Vitality,atk,elim
+731397,279402,4,Enterprise Esports,Team Vitality,atk,elim
+731397,279402,5,Enterprise Esports,Team Vitality,atk,elim
+731397,279402,6,Enterprise Esports,Team Vitality,atk,elim
+731397,279402,7,Enterprise Esports,Team Vitality,atk,elim
+731397,279402,8,Team Vitality,Enterprise Esports,def,elim
+731397,279402,9,Enterprise Esports,Team Vitality,atk,elim
+731397,279402,10,Enterprise Esports,Team Vitality,atk,elim
+731397,279402,11,Enterprise Esports,Team Vitality,atk,elim
+731397,279402,12,Enterprise Esports,Team Vitality,atk,elim
+731397,279402,13,Enterprise Esports,Team Vitality,def,defuse
+731397,279402,14,Enterprise Esports,Team Vitality,def,elim
+731397,279402,15,Team Vitality,Enterprise Esports,atk,elim
+731397,279402,16,Enterprise Esports,Team Vitality,def,elim
+731397,279402,17,Enterprise Esports,Team Vitality,def,elim
+731398,279403,1,BBL Esports,FUT Esports,atk,elim
+731398,279403,2,FUT Esports,BBL Esports,def,defuse
+731398,279403,3,BBL Esports,FUT Esports,atk,elim
+731398,279403,4,BBL Esports,FUT Esports,atk,boom
+731398,279403,5,BBL Esports,FUT Esports,atk,elim
+731398,279403,6,BBL Esports,FUT Esports,atk,elim
+731398,279403,7,FUT Esports,BBL Esports,def,defuse
+731398,279403,8,FUT Esports,BBL Esports,def,defuse
+731398,279403,9,FUT Esports,BBL Esports,def,elim
+731398,279403,10,FUT Esports,BBL Esports,def,elim
+731398,279403,11,BBL Esports,FUT Esports,atk,elim
+731398,279403,12,BBL Esports,FUT Esports,atk,elim
+731398,279403,13,BBL Esports,FUT Esports,def,defuse
+731398,279403,14,BBL Esports,FUT Esports,def,elim
+731398,279403,15,FUT Esports,BBL Esports,atk,elim
+731398,279403,16,FUT Esports,BBL Esports,atk,boom
+731398,279403,17,FUT Esports,BBL Esports,atk,boom
+731398,279403,18,BBL Esports,FUT Esports,def,elim
+731398,279403,19,BBL Esports,FUT Esports,def,elim
+731398,279403,20,BBL Esports,FUT Esports,def,elim
+731398,279403,21,BBL Esports,FUT Esports,def,defuse
+731398,279404,1,FUT Esports,BBL Esports,def,elim
+731398,279404,2,FUT Esports,BBL Esports,def,elim
+731398,279404,3,FUT Esports,BBL Esports,def,defuse
+731398,279404,4,FUT Esports,BBL Esports,def,elim
+731398,279404,5,BBL Esports,FUT Esports,atk,elim
+731398,279404,6,BBL Esports,FUT Esports,atk,elim
+731398,279404,7,BBL Esports,FUT Esports,atk,boom
+731398,279404,8,BBL Esports,FUT Esports,atk,elim
+731398,279404,9,FUT Esports,BBL Esports,def,elim
+731398,279404,10,BBL Esports,FUT Esports,atk,elim
+731398,279404,11,FUT Esports,BBL Esports,def,elim
+731398,279404,12,FUT Esports,BBL Esports,def,defuse
+731398,279404,13,FUT Esports,BBL Esports,atk,elim
+731398,279404,14,FUT Esports,BBL Esports,atk,boom
+731398,279404,15,FUT Esports,BBL Esports,atk,elim
+731398,279404,16,FUT Esports,BBL Esports,atk,elim
+731398,279404,17,FUT Esports,BBL Esports,atk,elim
+731398,279404,18,BBL Esports,FUT Esports,def,elim
+731398,279404,19,FUT Esports,BBL Esports,atk,elim
+731398,279405,1,FUT Esports,BBL Esports,atk,elim
+731398,279405,2,FUT Esports,BBL Esports,atk,elim
+731398,279405,3,BBL Esports,FUT Esports,def,elim
+731398,279405,4,FUT Esports,BBL Esports,atk,boom
+731398,279405,5,FUT Esports,BBL Esports,atk,elim
+731398,279405,6,BBL Esports,FUT Esports,def,elim
+731398,279405,7,BBL Esports,FUT Esports,def,elim
+731398,279405,8,FUT Esports,BBL Esports,atk,boom
+731398,279405,9,BBL Esports,FUT Esports,def,elim
+731398,279405,10,FUT Esports,BBL Esports,atk,elim
+731398,279405,11,BBL Esports,FUT Esports,def,time
+731398,279405,12,FUT Esports,BBL Esports,atk,elim
+731398,279405,13,FUT Esports,BBL Esports,def,elim
+731398,279405,14,FUT Esports,BBL Esports,def,elim
+731398,279405,15,FUT Esports,BBL Esports,def,elim
+731398,279405,16,FUT Esports,BBL Esports,def,elim
+731398,279405,17,FUT Esports,BBL Esports,def,defuse
+731398,279405,18,FUT Esports,BBL Esports,def,defuse
+731399,279406,1,Enterprise Esports,Karmine Corp,atk,elim
+731399,279406,2,Enterprise Esports,Karmine Corp,atk,boom
+731399,279406,3,Karmine Corp,Enterprise Esports,def,defuse
+731399,279406,4,Karmine Corp,Enterprise Esports,def,defuse
+731399,279406,5,Karmine Corp,Enterprise Esports,def,elim
+731399,279406,6,Enterprise Esports,Karmine Corp,atk,elim
+731399,279406,7,Karmine Corp,Enterprise Esports,def,defuse
+731399,279406,8,Karmine Corp,Enterprise Esports,def,elim
+731399,279406,9,Karmine Corp,Enterprise Esports,def,defuse
+731399,279406,10,Karmine Corp,Enterprise Esports,def,defuse
+731399,279406,11,Karmine Corp,Enterprise Esports,def,defuse
+731399,279406,12,Enterprise Esports,Karmine Corp,atk,elim
+731399,279406,13,Enterprise Esports,Karmine Corp,def,elim
+731399,279406,14,Enterprise Esports,Karmine Corp,def,elim
+731399,279406,15,Karmine Corp,Enterprise Esports,atk,elim
+731399,279406,16,Enterprise Esports,Karmine Corp,def,elim
+731399,279406,17,Enterprise Esports,Karmine Corp,def,elim
+731399,279406,18,Enterprise Esports,Karmine Corp,def,defuse
+731399,279406,19,Karmine Corp,Enterprise Esports,atk,elim
+731399,279406,20,Enterprise Esports,Karmine Corp,def,defuse
+731399,279406,21,Karmine Corp,Enterprise Esports,atk,elim
+731399,279406,22,Karmine Corp,Enterprise Esports,atk,elim
+731399,279406,23,Karmine Corp,Enterprise Esports,atk,elim
+731399,279407,1,Karmine Corp,Enterprise Esports,atk,elim
+731399,279407,2,Karmine Corp,Enterprise Esports,atk,elim
+731399,279407,3,Enterprise Esports,Karmine Corp,def,elim
+731399,279407,4,Enterprise Esports,Karmine Corp,def,defuse
+731399,279407,5,Enterprise Esports,Karmine Corp,def,defuse
+731399,279407,6,Enterprise Esports,Karmine Corp,def,elim
+731399,279407,7,Karmine Corp,Enterprise Esports,atk,boom
+731399,279407,8,Karmine Corp,Enterprise Esports,atk,elim
+731399,279407,9,Enterprise Esports,Karmine Corp,def,defuse
+731399,279407,10,Karmine Corp,Enterprise Esports,atk,elim
+731399,279407,11,Karmine Corp,Enterprise Esports,atk,elim
+731399,279407,12,Enterprise Esports,Karmine Corp,def,defuse
+731399,279407,13,Enterprise Esports,Karmine Corp,atk,elim
+731399,279407,14,Enterprise Esports,Karmine Corp,atk,elim
+731399,279407,15,Karmine Corp,Enterprise Esports,def,defuse
+731399,279407,16,Enterprise Esports,Karmine Corp,atk,boom
+731399,279407,17,Enterprise Esports,Karmine Corp,atk,elim
+731399,279407,18,Karmine Corp,Enterprise Esports,def,defuse
+731399,279407,19,Enterprise Esports,Karmine Corp,atk,elim
+731399,279407,20,Enterprise Esports,Karmine Corp,atk,elim
+731399,279407,21,Karmine Corp,Enterprise Esports,def,defuse
+731399,279407,22,Enterprise Esports,Karmine Corp,atk,elim
+731399,279408,1,Karmine Corp,Enterprise Esports,atk,elim
+731399,279408,2,Karmine Corp,Enterprise Esports,atk,elim
+731399,279408,3,Karmine Corp,Enterprise Esports,atk,elim
+731399,279408,4,Karmine Corp,Enterprise Esports,atk,elim
+731399,279408,5,Karmine Corp,Enterprise Esports,atk,boom
+731399,279408,6,Karmine Corp,Enterprise Esports,atk,elim
+731399,279408,7,Enterprise Esports,Karmine Corp,def,elim
+731399,279408,8,Karmine Corp,Enterprise Esports,atk,elim
+731399,279408,9,Enterprise Esports,Karmine Corp,def,defuse
+731399,279408,10,Enterprise Esports,Karmine Corp,def,defuse
+731399,279408,11,Karmine Corp,Enterprise Esports,atk,elim
+731399,279408,12,Karmine Corp,Enterprise Esports,atk,elim
+731399,279408,13,Karmine Corp,Enterprise Esports,def,elim
+731399,279408,14,Karmine Corp,Enterprise Esports,def,defuse
+731399,279408,15,Enterprise Esports,Karmine Corp,atk,elim
+731399,279408,16,Enterprise Esports,Karmine Corp,atk,boom
+731399,279408,17,Karmine Corp,Enterprise Esports,def,defuse
+731399,279408,18,Enterprise Esports,Karmine Corp,atk,boom
+731399,279408,19,Karmine Corp,Enterprise Esports,def,elim
+731400,279409,1,Karmine Corp,FUT Esports,atk,elim
+731400,279409,2,Karmine Corp,FUT Esports,atk,boom
+731400,279409,3,FUT Esports,Karmine Corp,def,elim
+731400,279409,4,Karmine Corp,FUT Esports,atk,elim
+731400,279409,5,Karmine Corp,FUT Esports,atk,elim
+731400,279409,6,FUT Esports,Karmine Corp,def,time
+731400,279409,7,Karmine Corp,FUT Esports,atk,boom
+731400,279409,8,Karmine Corp,FUT Esports,atk,boom
+731400,279409,9,Karmine Corp,FUT Esports,atk,elim
+731400,279409,10,Karmine Corp,FUT Esports,atk,elim
+731400,279409,11,Karmine Corp,FUT Esports,atk,elim
+731400,279409,12,Karmine Corp,FUT Esports,atk,elim
+731400,279409,13,FUT Esports,Karmine Corp,atk,elim
+731400,279409,14,FUT Esports,Karmine Corp,atk,elim
+731400,279409,15,FUT Esports,Karmine Corp,atk,elim
+731400,279409,16,FUT Esports,Karmine Corp,atk,elim
+731400,279409,17,Karmine Corp,FUT Esports,def,defuse
+731400,279409,18,Karmine Corp,FUT Esports,def,elim
+731400,279409,19,Karmine Corp,FUT Esports,def,defuse
+731400,279410,1,Karmine Corp,FUT Esports,atk,elim
+731400,279410,2,FUT Esports,Karmine Corp,def,elim
+731400,279410,3,FUT Esports,Karmine Corp,def,elim
+731400,279410,4,Karmine Corp,FUT Esports,atk,elim
+731400,279410,5,FUT Esports,Karmine Corp,def,defuse
+731400,279410,6,FUT Esports,Karmine Corp,def,elim
+731400,279410,7,FUT Esports,Karmine Corp,def,defuse
+731400,279410,8,Karmine Corp,FUT Esports,atk,elim
+731400,279410,9,Karmine Corp,FUT Esports,atk,elim
+731400,279410,10,FUT Esports,Karmine Corp,def,elim
+731400,279410,11,FUT Esports,Karmine Corp,def,elim
+731400,279410,12,Karmine Corp,FUT Esports,atk,elim
+731400,279410,13,Karmine Corp,FUT Esports,def,defuse
+731400,279410,14,Karmine Corp,FUT Esports,def,elim
+731400,279410,15,Karmine Corp,FUT Esports,def,time
+731400,279410,16,FUT Esports,Karmine Corp,atk,elim
+731400,279410,17,Karmine Corp,FUT Esports,def,defuse
+731400,279410,18,Karmine Corp,FUT Esports,def,time
+731400,279410,19,Karmine Corp,FUT Esports,def,defuse
+731400,279410,20,Karmine Corp,FUT Esports,def,defuse
+731400,279410,21,Karmine Corp,FUT Esports,def,elim
+731401,279412,1,Karmine Corp,Team Liquid,atk,elim
+731401,279412,2,Karmine Corp,Team Liquid,atk,elim
+731401,279412,3,Team Liquid,Karmine Corp,def,elim
+731401,279412,4,Karmine Corp,Team Liquid,atk,elim
+731401,279412,5,Karmine Corp,Team Liquid,atk,boom
+731401,279412,6,Karmine Corp,Team Liquid,atk,elim
+731401,279412,7,Karmine Corp,Team Liquid,atk,elim
+731401,279412,8,Team Liquid,Karmine Corp,def,time
+731401,279412,9,Team Liquid,Karmine Corp,def,elim
+731401,279412,10,Team Liquid,Karmine Corp,def,time
+731401,279412,11,Team Liquid,Karmine Corp,def,time
+731401,279412,12,Team Liquid,Karmine Corp,def,elim
+731401,279412,13,Karmine Corp,Team Liquid,def,elim
+731401,279412,14,Karmine Corp,Team Liquid,def,elim
+731401,279412,15,Karmine Corp,Team Liquid,def,elim
+731401,279412,16,Karmine Corp,Team Liquid,def,elim
+731401,279412,17,Team Liquid,Karmine Corp,atk,elim
+731401,279412,18,Karmine Corp,Team Liquid,def,elim
+731401,279412,19,Karmine Corp,Team Liquid,def,elim
+731401,279412,20,Karmine Corp,Team Liquid,def,elim
+731401,279413,1,Team Liquid,Karmine Corp,atk,elim
+731401,279413,2,Team Liquid,Karmine Corp,atk,elim
+731401,279413,3,Karmine Corp,Team Liquid,def,defuse
+731401,279413,4,Karmine Corp,Team Liquid,def,defuse
+731401,279413,5,Karmine Corp,Team Liquid,def,elim
+731401,279413,6,Karmine Corp,Team Liquid,def,elim
+731401,279413,7,Team Liquid,Karmine Corp,atk,elim
+731401,279413,8,Team Liquid,Karmine Corp,atk,boom
+731401,279413,9,Karmine Corp,Team Liquid,def,defuse
+731401,279413,10,Karmine Corp,Team Liquid,def,time
+731401,279413,11,Karmine Corp,Team Liquid,def,elim
+731401,279413,12,Karmine Corp,Team Liquid,def,elim
+731401,279413,13,Team Liquid,Karmine Corp,def,elim
+731401,279413,14,Karmine Corp,Team Liquid,atk,elim
+731401,279413,15,Karmine Corp,Team Liquid,atk,elim
+731401,279413,16,Karmine Corp,Team Liquid,atk,elim
+731401,279413,17,Karmine Corp,Team Liquid,atk,elim
+731401,279413,18,Team Liquid,Karmine Corp,def,time
+731401,279413,19,Karmine Corp,Team Liquid,atk,elim
+731401,279414,1,Team Liquid,Karmine Corp,def,elim
+731401,279414,2,Karmine Corp,Team Liquid,atk,elim
+731401,279414,3,Team Liquid,Karmine Corp,def,defuse
+731401,279414,4,Team Liquid,Karmine Corp,def,elim
+731401,279414,5,Karmine Corp,Team Liquid,atk,elim
+731401,279414,6,Karmine Corp,Team Liquid,atk,elim
+731401,279414,7,Karmine Corp,Team Liquid,atk,elim
+731401,279414,8,Team Liquid,Karmine Corp,def,defuse
+731401,279414,9,Karmine Corp,Team Liquid,atk,boom
+731401,279414,10,Team Liquid,Karmine Corp,def,defuse
+731401,279414,11,Team Liquid,Karmine Corp,def,elim
+731401,279414,12,Team Liquid,Karmine Corp,def,defuse
+731401,279414,13,Karmine Corp,Team Liquid,def,defuse
+731401,279414,14,Karmine Corp,Team Liquid,def,elim
+731401,279414,15,Team Liquid,Karmine Corp,atk,boom
+731401,279414,16,Team Liquid,Karmine Corp,atk,elim
+731401,279414,17,Team Liquid,Karmine Corp,atk,elim
+731401,279414,18,Team Liquid,Karmine Corp,atk,elim
+731401,279414,19,Team Liquid,Karmine Corp,atk,boom
+731401,279414,20,Team Liquid,Karmine Corp,atk,elim
+731401,279415,1,Team Liquid,Karmine Corp,atk,elim
+731401,279415,2,Team Liquid,Karmine Corp,atk,elim
+731401,279415,3,Team Liquid,Karmine Corp,atk,boom
+731401,279415,4,Team Liquid,Karmine Corp,atk,boom
+731401,279415,5,Team Liquid,Karmine Corp,atk,boom
+731401,279415,6,Team Liquid,Karmine Corp,atk,elim
+731401,279415,7,Team Liquid,Karmine Corp,atk,elim
+731401,279415,8,Karmine Corp,Team Liquid,def,elim
+731401,279415,9,Karmine Corp,Team Liquid,def,defuse
+731401,279415,10,Karmine Corp,Team Liquid,def,elim
+731401,279415,11,Karmine Corp,Team Liquid,def,defuse
+731401,279415,12,Karmine Corp,Team Liquid,def,elim
+731401,279415,13,Karmine Corp,Team Liquid,atk,elim
+731401,279415,14,Karmine Corp,Team Liquid,atk,elim
+731401,279415,15,Team Liquid,Karmine Corp,def,defuse
+731401,279415,16,Team Liquid,Karmine Corp,def,elim
+731401,279415,17,Karmine Corp,Team Liquid,atk,elim
+731401,279415,18,Team Liquid,Karmine Corp,def,defuse
+731401,279415,19,Karmine Corp,Team Liquid,atk,boom
+731401,279415,20,Karmine Corp,Team Liquid,atk,elim
+731401,279415,21,Karmine Corp,Team Liquid,atk,elim
+731401,279415,22,Karmine Corp,Team Liquid,atk,boom
+731401,279415,23,Karmine Corp,Team Liquid,atk,elim
+731402,279417,1,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279417,2,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279417,3,Eintracht Frankfurt,Team Liquid,def,elim
+731402,279417,4,Eintracht Frankfurt,Team Liquid,def,time
+731402,279417,5,Eintracht Frankfurt,Team Liquid,def,defuse
+731402,279417,6,Eintracht Frankfurt,Team Liquid,def,elim
+731402,279417,7,Eintracht Frankfurt,Team Liquid,def,defuse
+731402,279417,8,Eintracht Frankfurt,Team Liquid,def,time
+731402,279417,9,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279417,10,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279417,11,Eintracht Frankfurt,Team Liquid,def,defuse
+731402,279417,12,Eintracht Frankfurt,Team Liquid,def,elim
+731402,279417,13,Eintracht Frankfurt,Team Liquid,atk,elim
+731402,279417,14,Eintracht Frankfurt,Team Liquid,atk,elim
+731402,279417,15,Eintracht Frankfurt,Team Liquid,atk,boom
+731402,279417,16,Team Liquid,Eintracht Frankfurt,def,elim
+731402,279417,17,Eintracht Frankfurt,Team Liquid,atk,elim
+731402,279417,18,Team Liquid,Eintracht Frankfurt,def,elim
+731402,279417,19,Eintracht Frankfurt,Team Liquid,atk,elim
+731402,279418,1,Team Liquid,Eintracht Frankfurt,def,defuse
+731402,279418,2,Team Liquid,Eintracht Frankfurt,def,defuse
+731402,279418,3,Team Liquid,Eintracht Frankfurt,def,elim
+731402,279418,4,Team Liquid,Eintracht Frankfurt,def,elim
+731402,279418,5,Team Liquid,Eintracht Frankfurt,def,time
+731402,279418,6,Team Liquid,Eintracht Frankfurt,def,elim
+731402,279418,7,Team Liquid,Eintracht Frankfurt,def,elim
+731402,279418,8,Team Liquid,Eintracht Frankfurt,def,time
+731402,279418,9,Team Liquid,Eintracht Frankfurt,def,elim
+731402,279418,10,Team Liquid,Eintracht Frankfurt,def,elim
+731402,279418,11,Eintracht Frankfurt,Team Liquid,atk,elim
+731402,279418,12,Team Liquid,Eintracht Frankfurt,def,defuse
+731402,279418,13,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279418,14,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279419,1,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279419,2,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279419,3,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279419,4,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279419,5,Team Liquid,Eintracht Frankfurt,atk,boom
+731402,279419,6,Eintracht Frankfurt,Team Liquid,def,elim
+731402,279419,7,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279419,8,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279419,9,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279419,10,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279419,11,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279419,12,Team Liquid,Eintracht Frankfurt,atk,elim
+731402,279419,13,Team Liquid,Eintracht Frankfurt,def,defuse
+731402,279419,14,Team Liquid,Eintracht Frankfurt,def,elim
+731403,279420,1,Team Vitality,Fire Flux Esports,atk,elim
+731403,279420,2,Team Vitality,Fire Flux Esports,atk,elim
+731403,279420,3,Fire Flux Esports,Team Vitality,def,time
+731403,279420,4,Fire Flux Esports,Team Vitality,def,time
+731403,279420,5,Team Vitality,Fire Flux Esports,atk,boom
+731403,279420,6,Team Vitality,Fire Flux Esports,atk,elim
+731403,279420,7,Team Vitality,Fire Flux Esports,atk,boom
+731403,279420,8,Team Vitality,Fire Flux Esports,atk,elim
+731403,279420,9,Fire Flux Esports,Team Vitality,def,elim
+731403,279420,10,Team Vitality,Fire Flux Esports,atk,elim
+731403,279420,11,Fire Flux Esports,Team Vitality,def,elim
+731403,279420,12,Fire Flux Esports,Team Vitality,def,elim
+731403,279420,13,Team Vitality,Fire Flux Esports,def,elim
+731403,279420,14,Team Vitality,Fire Flux Esports,def,elim
+731403,279420,15,Fire Flux Esports,Team Vitality,atk,elim
+731403,279420,16,Team Vitality,Fire Flux Esports,def,defuse
+731403,279420,17,Team Vitality,Fire Flux Esports,def,defuse
+731403,279420,18,Team Vitality,Fire Flux Esports,def,defuse
+731403,279420,19,Fire Flux Esports,Team Vitality,atk,boom
+731403,279420,20,Fire Flux Esports,Team Vitality,atk,elim
+731403,279420,21,Fire Flux Esports,Team Vitality,atk,boom
+731403,279420,22,Fire Flux Esports,Team Vitality,atk,boom
+731403,279420,23,Fire Flux Esports,Team Vitality,atk,elim
+731403,279420,24,Team Vitality,Fire Flux Esports,def,defuse
+731403,279421,1,Team Vitality,Fire Flux Esports,atk,boom
+731403,279421,2,Fire Flux Esports,Team Vitality,def,elim
+731403,279421,3,Fire Flux Esports,Team Vitality,def,elim
+731403,279421,4,Fire Flux Esports,Team Vitality,def,elim
+731403,279421,5,Team Vitality,Fire Flux Esports,atk,elim
+731403,279421,6,Team Vitality,Fire Flux Esports,atk,elim
+731403,279421,7,Team Vitality,Fire Flux Esports,atk,elim
+731403,279421,8,Team Vitality,Fire Flux Esports,atk,elim
+731403,279421,9,Team Vitality,Fire Flux Esports,atk,elim
+731403,279421,10,Team Vitality,Fire Flux Esports,atk,elim
+731403,279421,11,Team Vitality,Fire Flux Esports,atk,elim
+731403,279421,12,Fire Flux Esports,Team Vitality,def,defuse
+731403,279421,13,Fire Flux Esports,Team Vitality,atk,elim
+731403,279421,14,Fire Flux Esports,Team Vitality,atk,boom
+731403,279421,15,Team Vitality,Fire Flux Esports,def,defuse
+731403,279421,16,Fire Flux Esports,Team Vitality,atk,boom
+731403,279421,17,Fire Flux Esports,Team Vitality,atk,elim
+731403,279421,18,Fire Flux Esports,Team Vitality,atk,boom
+731403,279421,19,Fire Flux Esports,Team Vitality,atk,boom
+731403,279421,20,Team Vitality,Fire Flux Esports,def,defuse
+731403,279421,21,Team Vitality,Fire Flux Esports,def,defuse
+731403,279421,22,Fire Flux Esports,Team Vitality,atk,elim
+731403,279421,23,Fire Flux Esports,Team Vitality,atk,elim
+731403,279421,24,Fire Flux Esports,Team Vitality,atk,elim
+731403,279422,1,Team Vitality,Fire Flux Esports,def,defuse
+731403,279422,2,Team Vitality,Fire Flux Esports,def,defuse
+731403,279422,3,Team Vitality,Fire Flux Esports,def,elim
+731403,279422,4,Fire Flux Esports,Team Vitality,atk,boom
+731403,279422,5,Team Vitality,Fire Flux Esports,def,defuse
+731403,279422,6,Fire Flux Esports,Team Vitality,atk,elim
+731403,279422,7,Fire Flux Esports,Team Vitality,atk,elim
+731403,279422,8,Fire Flux Esports,Team Vitality,atk,boom
+731403,279422,9,Team Vitality,Fire Flux Esports,def,time
+731403,279422,10,Fire Flux Esports,Team Vitality,atk,elim
+731403,279422,11,Fire Flux Esports,Team Vitality,atk,elim
+731403,279422,12,Team Vitality,Fire Flux Esports,def,defuse
+731403,279422,13,Fire Flux Esports,Team Vitality,def,defuse
+731403,279422,14,Fire Flux Esports,Team Vitality,def,elim
+731403,279422,15,Fire Flux Esports,Team Vitality,def,elim
+731403,279422,16,Fire Flux Esports,Team Vitality,def,elim
+731403,279422,17,Fire Flux Esports,Team Vitality,def,elim
+731403,279422,18,Team Vitality,Fire Flux Esports,atk,boom
+731403,279422,19,Fire Flux Esports,Team Vitality,def,elim
+731403,279422,20,Fire Flux Esports,Team Vitality,def,defuse
+731404,279423,1,Enterprise Esports,Team Liquid,atk,elim
+731404,279423,2,Enterprise Esports,Team Liquid,atk,elim
+731404,279423,3,Enterprise Esports,Team Liquid,atk,elim
+731404,279423,4,Team Liquid,Enterprise Esports,def,elim
+731404,279423,5,Team Liquid,Enterprise Esports,def,defuse
+731404,279423,6,Team Liquid,Enterprise Esports,def,defuse
+731404,279423,7,Team Liquid,Enterprise Esports,def,elim
+731404,279423,8,Team Liquid,Enterprise Esports,def,defuse
+731404,279423,9,Team Liquid,Enterprise Esports,def,defuse
+731404,279423,10,Team Liquid,Enterprise Esports,def,defuse
+731404,279423,11,Team Liquid,Enterprise Esports,def,elim
+731404,279423,12,Team Liquid,Enterprise Esports,def,elim
+731404,279423,13,Enterprise Esports,Team Liquid,def,defuse
+731404,279423,14,Team Liquid,Enterprise Esports,atk,boom
+731404,279423,15,Team Liquid,Enterprise Esports,atk,elim
+731404,279423,16,Team Liquid,Enterprise Esports,atk,elim
+731404,279423,17,Team Liquid,Enterprise Esports,atk,elim
+731404,279424,1,Enterprise Esports,Team Liquid,atk,elim
+731404,279424,2,Enterprise Esports,Team Liquid,atk,elim
+731404,279424,3,Enterprise Esports,Team Liquid,atk,boom
+731404,279424,4,Team Liquid,Enterprise Esports,def,elim
+731404,279424,5,Enterprise Esports,Team Liquid,atk,boom
+731404,279424,6,Enterprise Esports,Team Liquid,atk,boom
+731404,279424,7,Enterprise Esports,Team Liquid,atk,elim
+731404,279424,8,Enterprise Esports,Team Liquid,atk,boom
+731404,279424,9,Team Liquid,Enterprise Esports,def,defuse
+731404,279424,10,Team Liquid,Enterprise Esports,def,defuse
+731404,279424,11,Enterprise Esports,Team Liquid,atk,elim
+731404,279424,12,Team Liquid,Enterprise Esports,def,defuse
+731404,279424,13,Enterprise Esports,Team Liquid,def,elim
+731404,279424,14,Enterprise Esports,Team Liquid,def,defuse
+731404,279424,15,Team Liquid,Enterprise Esports,atk,elim
+731404,279424,16,Team Liquid,Enterprise Esports,atk,elim
+731404,279424,17,Team Liquid,Enterprise Esports,atk,boom
+731404,279424,18,Team Liquid,Enterprise Esports,atk,boom
+731404,279424,19,Team Liquid,Enterprise Esports,atk,elim
+731404,279424,20,Enterprise Esports,Team Liquid,def,defuse
+731404,279424,21,Enterprise Esports,Team Liquid,def,defuse
+731404,279424,22,Team Liquid,Enterprise Esports,atk,elim
+731404,279424,23,Team Liquid,Enterprise Esports,atk,elim
+731404,279424,24,Team Liquid,Enterprise Esports,atk,elim
+731404,279424,25,Team Liquid,Enterprise Esports,def,elim
+731404,279424,26,Team Liquid,Enterprise Esports,atk,elim
+731406,279426,1,Fire Flux Esports,BBL Esports,def,elim
+731406,279426,2,Fire Flux Esports,BBL Esports,def,elim
+731406,279426,3,BBL Esports,Fire Flux Esports,atk,elim
+731406,279426,4,Fire Flux Esports,BBL Esports,def,defuse
+731406,279426,5,Fire Flux Esports,BBL Esports,def,time
+731406,279426,6,BBL Esports,Fire Flux Esports,atk,elim
+731406,279426,7,Fire Flux Esports,BBL Esports,def,defuse
+731406,279426,8,Fire Flux Esports,BBL Esports,def,elim
+731406,279426,9,BBL Esports,Fire Flux Esports,atk,elim
+731406,279426,10,BBL Esports,Fire Flux Esports,atk,elim
+731406,279426,11,BBL Esports,Fire Flux Esports,atk,elim
+731406,279426,12,BBL Esports,Fire Flux Esports,atk,elim
+731406,279426,13,BBL Esports,Fire Flux Esports,def,defuse
+731406,279426,14,BBL Esports,Fire Flux Esports,def,defuse
+731406,279426,15,Fire Flux Esports,BBL Esports,atk,elim
+731406,279426,16,Fire Flux Esports,BBL Esports,atk,boom
+731406,279426,17,Fire Flux Esports,BBL Esports,atk,boom
+731406,279426,18,BBL Esports,Fire Flux Esports,def,defuse
+731406,279426,19,Fire Flux Esports,BBL Esports,atk,elim
+731406,279426,20,Fire Flux Esports,BBL Esports,atk,elim
+731406,279426,21,BBL Esports,Fire Flux Esports,def,elim
+731406,279426,22,BBL Esports,Fire Flux Esports,def,elim
+731406,279426,23,Fire Flux Esports,BBL Esports,atk,boom
+731406,279426,24,Fire Flux Esports,BBL Esports,atk,elim
+731406,279427,1,Fire Flux Esports,BBL Esports,atk,elim
+731406,279427,2,Fire Flux Esports,BBL Esports,atk,elim
+731406,279427,3,Fire Flux Esports,BBL Esports,atk,elim
+731406,279427,4,BBL Esports,Fire Flux Esports,def,elim
+731406,279427,5,BBL Esports,Fire Flux Esports,def,defuse
+731406,279427,6,Fire Flux Esports,BBL Esports,atk,elim
+731406,279427,7,BBL Esports,Fire Flux Esports,def,defuse
+731406,279427,8,Fire Flux Esports,BBL Esports,atk,elim
+731406,279427,9,BBL Esports,Fire Flux Esports,def,defuse
+731406,279427,10,Fire Flux Esports,BBL Esports,atk,boom
+731406,279427,11,BBL Esports,Fire Flux Esports,def,defuse
+731406,279427,12,BBL Esports,Fire Flux Esports,def,defuse
+731406,279427,13,Fire Flux Esports,BBL Esports,def,defuse
+731406,279427,14,Fire Flux Esports,BBL Esports,def,time
+731406,279427,15,Fire Flux Esports,BBL Esports,def,elim
+731406,279427,16,BBL Esports,Fire Flux Esports,atk,elim
+731406,279427,17,BBL Esports,Fire Flux Esports,atk,elim
+731406,279427,18,BBL Esports,Fire Flux Esports,atk,boom
+731406,279427,19,Fire Flux Esports,BBL Esports,def,elim
+731406,279427,20,Fire Flux Esports,BBL Esports,def,defuse
+731406,279427,21,BBL Esports,Fire Flux Esports,atk,boom
+731406,279427,22,BBL Esports,Fire Flux Esports,atk,boom
+731406,279427,23,Fire Flux Esports,BBL Esports,def,elim
+731406,279427,24,Fire Flux Esports,BBL Esports,def,defuse
+731407,279429,1,Team Liquid,Fire Flux Esports,def,defuse
+731407,279429,2,Team Liquid,Fire Flux Esports,def,elim
+731407,279429,3,Team Liquid,Fire Flux Esports,def,elim
+731407,279429,4,Team Liquid,Fire Flux Esports,def,defuse
+731407,279429,5,Team Liquid,Fire Flux Esports,def,defuse
+731407,279429,6,Team Liquid,Fire Flux Esports,def,elim
+731407,279429,7,Fire Flux Esports,Team Liquid,atk,elim
+731407,279429,8,Team Liquid,Fire Flux Esports,def,elim
+731407,279429,9,Team Liquid,Fire Flux Esports,def,elim
+731407,279429,10,Team Liquid,Fire Flux Esports,def,elim
+731407,279429,11,Team Liquid,Fire Flux Esports,def,defuse
+731407,279429,12,Fire Flux Esports,Team Liquid,atk,elim
+731407,279429,13,Team Liquid,Fire Flux Esports,atk,elim
+731407,279429,14,Fire Flux Esports,Team Liquid,def,elim
+731407,279429,15,Fire Flux Esports,Team Liquid,def,elim
+731407,279429,16,Fire Flux Esports,Team Liquid,def,defuse
+731407,279429,17,Fire Flux Esports,Team Liquid,def,elim
+731407,279429,18,Fire Flux Esports,Team Liquid,def,time
+731407,279429,19,Fire Flux Esports,Team Liquid,def,elim
+731407,279429,20,Fire Flux Esports,Team Liquid,def,elim
+731407,279429,21,Fire Flux Esports,Team Liquid,def,elim
+731407,279429,22,Team Liquid,Fire Flux Esports,atk,elim
+731407,279429,23,Team Liquid,Fire Flux Esports,atk,elim
+731407,279430,1,Team Liquid,Fire Flux Esports,def,elim
+731407,279430,2,Team Liquid,Fire Flux Esports,def,elim
+731407,279430,3,Team Liquid,Fire Flux Esports,def,elim
+731407,279430,4,Team Liquid,Fire Flux Esports,def,elim
+731407,279430,5,Fire Flux Esports,Team Liquid,atk,elim
+731407,279430,6,Fire Flux Esports,Team Liquid,atk,boom
+731407,279430,7,Team Liquid,Fire Flux Esports,def,defuse
+731407,279430,8,Team Liquid,Fire Flux Esports,def,elim
+731407,279430,9,Team Liquid,Fire Flux Esports,def,elim
+731407,279430,10,Team Liquid,Fire Flux Esports,def,elim
+731407,279430,11,Team Liquid,Fire Flux Esports,def,elim
+731407,279430,12,Team Liquid,Fire Flux Esports,def,defuse
+731407,279430,13,Fire Flux Esports,Team Liquid,def,elim
+731407,279430,14,Fire Flux Esports,Team Liquid,def,elim
+731407,279430,15,Team Liquid,Fire Flux Esports,atk,elim
+731407,279430,16,Fire Flux Esports,Team Liquid,def,defuse
+731407,279430,17,Fire Flux Esports,Team Liquid,def,elim
+731407,279430,18,Team Liquid,Fire Flux Esports,atk,elim
+731407,279430,19,Fire Flux Esports,Team Liquid,def,elim
+731407,279430,20,Fire Flux Esports,Team Liquid,def,elim
+731407,279430,21,Fire Flux Esports,Team Liquid,def,elim
+731407,279430,22,Fire Flux Esports,Team Liquid,def,elim
+731407,279430,23,Team Liquid,Fire Flux Esports,atk,elim
+731408,279432,1,Team Liquid,FUT Esports,atk,elim
+731408,279432,2,Team Liquid,FUT Esports,atk,elim
+731408,279432,3,FUT Esports,Team Liquid,def,elim
+731408,279432,4,Team Liquid,FUT Esports,atk,elim
+731408,279432,5,Team Liquid,FUT Esports,atk,boom
+731408,279432,6,Team Liquid,FUT Esports,atk,boom
+731408,279432,7,FUT Esports,Team Liquid,def,elim
+731408,279432,8,Team Liquid,FUT Esports,atk,elim
+731408,279432,9,Team Liquid,FUT Esports,atk,boom
+731408,279432,10,Team Liquid,FUT Esports,atk,elim
+731408,279432,11,Team Liquid,FUT Esports,atk,elim
+731408,279432,12,FUT Esports,Team Liquid,def,defuse
+731408,279432,13,Team Liquid,FUT Esports,def,elim
+731408,279432,14,Team Liquid,FUT Esports,def,elim
+731408,279432,15,FUT Esports,Team Liquid,atk,elim
+731408,279432,16,Team Liquid,FUT Esports,def,elim
+731408,279432,17,FUT Esports,Team Liquid,atk,elim
+731408,279432,18,Team Liquid,FUT Esports,def,defuse
+731408,279433,1,FUT Esports,Team Liquid,atk,elim
+731408,279433,2,FUT Esports,Team Liquid,atk,elim
+731408,279433,3,Team Liquid,FUT Esports,def,elim
+731408,279433,4,Team Liquid,FUT Esports,def,elim
+731408,279433,5,Team Liquid,FUT Esports,def,elim
+731408,279433,6,Team Liquid,FUT Esports,def,elim
+731408,279433,7,Team Liquid,FUT Esports,def,elim
+731408,279433,8,Team Liquid,FUT Esports,def,elim
+731408,279433,9,Team Liquid,FUT Esports,def,elim
+731408,279433,10,Team Liquid,FUT Esports,def,elim
+731408,279433,11,Team Liquid,FUT Esports,def,elim
+731408,279433,12,Team Liquid,FUT Esports,def,defuse
+731408,279433,13,Team Liquid,FUT Esports,atk,elim
+731408,279433,14,FUT Esports,Team Liquid,def,defuse
+731408,279433,15,FUT Esports,Team Liquid,def,elim
+731408,279433,16,FUT Esports,Team Liquid,def,elim
+731408,279433,17,FUT Esports,Team Liquid,def,elim
+731408,279433,18,FUT Esports,Team Liquid,def,elim
+731408,279433,19,FUT Esports,Team Liquid,def,defuse
+731408,279433,20,Team Liquid,FUT Esports,atk,elim
+731408,279433,21,Team Liquid,FUT Esports,atk,elim
+731408,279434,1,Team Liquid,FUT Esports,def,defuse
+731408,279434,2,Team Liquid,FUT Esports,def,defuse
+731408,279434,3,FUT Esports,Team Liquid,atk,elim
+731408,279434,4,Team Liquid,FUT Esports,def,defuse
+731408,279434,5,FUT Esports,Team Liquid,atk,elim
+731408,279434,6,FUT Esports,Team Liquid,atk,elim
+731408,279434,7,FUT Esports,Team Liquid,atk,elim
+731408,279434,8,Team Liquid,FUT Esports,def,elim
+731408,279434,9,FUT Esports,Team Liquid,atk,boom
+731408,279434,10,Team Liquid,FUT Esports,def,elim
+731408,279434,11,Team Liquid,FUT Esports,def,elim
+731408,279434,12,Team Liquid,FUT Esports,def,elim
+731408,279434,13,Team Liquid,FUT Esports,atk,elim
+731408,279434,14,Team Liquid,FUT Esports,atk,elim
+731408,279434,15,Team Liquid,FUT Esports,atk,elim
+731408,279434,16,FUT Esports,Team Liquid,def,defuse
+731408,279434,17,FUT Esports,Team Liquid,def,time
+731408,279434,18,FUT Esports,Team Liquid,def,time
+731408,279434,19,Team Liquid,FUT Esports,atk,elim
+731408,279434,20,FUT Esports,Team Liquid,def,elim
+731408,279434,21,FUT Esports,Team Liquid,def,elim
+731408,279434,22,Team Liquid,FUT Esports,atk,elim
+731408,279434,23,Team Liquid,FUT Esports,atk,elim

@@ -1,0 +1,1247 @@
+match_id,game_id,round,winner,loser,win_side,how
+429379,196067,1,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196067,2,Movistar KOI (KOI),Team Liquid,def,defuse
+429379,196067,3,Movistar KOI (KOI),Team Liquid,def,elim
+429379,196067,4,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196067,5,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196067,6,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196067,7,Movistar KOI (KOI),Team Liquid,def,defuse
+429379,196067,8,Movistar KOI (KOI),Team Liquid,def,defuse
+429379,196067,9,Movistar KOI (KOI),Team Liquid,def,defuse
+429379,196067,10,Movistar KOI (KOI),Team Liquid,def,elim
+429379,196067,11,Movistar KOI (KOI),Team Liquid,def,elim
+429379,196067,12,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196067,13,Movistar KOI (KOI),Team Liquid,atk,elim
+429379,196067,14,Movistar KOI (KOI),Team Liquid,atk,elim
+429379,196067,15,Team Liquid,Movistar KOI (KOI),def,elim
+429379,196067,16,Team Liquid,Movistar KOI (KOI),def,elim
+429379,196067,17,Team Liquid,Movistar KOI (KOI),def,elim
+429379,196067,18,Movistar KOI (KOI),Team Liquid,atk,elim
+429379,196067,19,Team Liquid,Movistar KOI (KOI),def,time
+429379,196067,20,Movistar KOI (KOI),Team Liquid,atk,elim
+429379,196067,21,Movistar KOI (KOI),Team Liquid,atk,boom
+429379,196067,22,Team Liquid,Movistar KOI (KOI),def,elim
+429379,196067,23,Movistar KOI (KOI),Team Liquid,atk,elim
+429379,196068,1,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196068,2,Team Liquid,Movistar KOI (KOI),atk,boom
+429379,196068,3,Team Liquid,Movistar KOI (KOI),atk,boom
+429379,196068,4,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196068,5,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196068,6,Team Liquid,Movistar KOI (KOI),atk,boom
+429379,196068,7,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196068,8,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196068,9,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196068,10,Team Liquid,Movistar KOI (KOI),atk,boom
+429379,196068,11,Movistar KOI (KOI),Team Liquid,def,elim
+429379,196068,12,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196068,13,Movistar KOI (KOI),Team Liquid,atk,elim
+429379,196068,14,Movistar KOI (KOI),Team Liquid,atk,elim
+429379,196068,15,Team Liquid,Movistar KOI (KOI),def,defuse
+429379,196068,16,Team Liquid,Movistar KOI (KOI),def,elim
+429379,196069,1,Movistar KOI (KOI),Team Liquid,atk,elim
+429379,196069,2,Movistar KOI (KOI),Team Liquid,atk,boom
+429379,196069,3,Team Liquid,Movistar KOI (KOI),def,elim
+429379,196069,4,Team Liquid,Movistar KOI (KOI),def,time
+429379,196069,5,Team Liquid,Movistar KOI (KOI),def,defuse
+429379,196069,6,Team Liquid,Movistar KOI (KOI),def,elim
+429379,196069,7,Team Liquid,Movistar KOI (KOI),def,elim
+429379,196069,8,Team Liquid,Movistar KOI (KOI),def,time
+429379,196069,9,Movistar KOI (KOI),Team Liquid,atk,elim
+429379,196069,10,Movistar KOI (KOI),Team Liquid,atk,boom
+429379,196069,11,Movistar KOI (KOI),Team Liquid,atk,elim
+429379,196069,12,Movistar KOI (KOI),Team Liquid,atk,elim
+429379,196069,13,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196069,14,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196069,15,Movistar KOI (KOI),Team Liquid,def,defuse
+429379,196069,16,Team Liquid,Movistar KOI (KOI),atk,boom
+429379,196069,17,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196069,18,Movistar KOI (KOI),Team Liquid,def,elim
+429379,196069,19,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196069,20,Movistar KOI (KOI),Team Liquid,def,defuse
+429379,196069,21,Movistar KOI (KOI),Team Liquid,def,defuse
+429379,196069,22,Team Liquid,Movistar KOI (KOI),atk,elim
+429379,196069,23,Team Liquid,Movistar KOI (KOI),atk,elim
+429380,196070,1,Karmine Corp,Natus Vincere,atk,elim
+429380,196070,2,Karmine Corp,Natus Vincere,atk,boom
+429380,196070,3,Natus Vincere,Karmine Corp,def,defuse
+429380,196070,4,Karmine Corp,Natus Vincere,atk,elim
+429380,196070,5,Karmine Corp,Natus Vincere,atk,boom
+429380,196070,6,Natus Vincere,Karmine Corp,def,defuse
+429380,196070,7,Karmine Corp,Natus Vincere,atk,boom
+429380,196070,8,Natus Vincere,Karmine Corp,def,elim
+429380,196070,9,Karmine Corp,Natus Vincere,atk,boom
+429380,196070,10,Natus Vincere,Karmine Corp,def,defuse
+429380,196070,11,Karmine Corp,Natus Vincere,atk,elim
+429380,196070,12,Natus Vincere,Karmine Corp,def,defuse
+429380,196070,13,Natus Vincere,Karmine Corp,atk,elim
+429380,196070,14,Natus Vincere,Karmine Corp,atk,elim
+429380,196070,15,Karmine Corp,Natus Vincere,def,defuse
+429380,196070,16,Natus Vincere,Karmine Corp,atk,boom
+429380,196070,17,Natus Vincere,Karmine Corp,atk,boom
+429380,196070,18,Karmine Corp,Natus Vincere,def,defuse
+429380,196070,19,Natus Vincere,Karmine Corp,atk,boom
+429380,196070,20,Natus Vincere,Karmine Corp,atk,elim
+429380,196070,21,Natus Vincere,Karmine Corp,atk,elim
+429380,196070,22,Karmine Corp,Natus Vincere,def,defuse
+429380,196070,23,Natus Vincere,Karmine Corp,atk,elim
+429380,196071,1,Karmine Corp,Natus Vincere,atk,elim
+429380,196071,2,Karmine Corp,Natus Vincere,atk,boom
+429380,196071,3,Karmine Corp,Natus Vincere,atk,boom
+429380,196071,4,Karmine Corp,Natus Vincere,atk,boom
+429380,196071,5,Karmine Corp,Natus Vincere,atk,boom
+429380,196071,6,Karmine Corp,Natus Vincere,atk,elim
+429380,196071,7,Natus Vincere,Karmine Corp,def,elim
+429380,196071,8,Karmine Corp,Natus Vincere,atk,boom
+429380,196071,9,Karmine Corp,Natus Vincere,atk,boom
+429380,196071,10,Karmine Corp,Natus Vincere,atk,elim
+429380,196071,11,Karmine Corp,Natus Vincere,atk,elim
+429380,196071,12,Natus Vincere,Karmine Corp,def,defuse
+429380,196071,13,Karmine Corp,Natus Vincere,def,defuse
+429380,196071,14,Karmine Corp,Natus Vincere,def,elim
+429380,196071,15,Karmine Corp,Natus Vincere,def,elim
+429380,196072,1,Natus Vincere,Karmine Corp,def,defuse
+429380,196072,2,Natus Vincere,Karmine Corp,def,elim
+429380,196072,3,Karmine Corp,Natus Vincere,atk,boom
+429380,196072,4,Karmine Corp,Natus Vincere,atk,elim
+429380,196072,5,Karmine Corp,Natus Vincere,atk,elim
+429380,196072,6,Karmine Corp,Natus Vincere,atk,elim
+429380,196072,7,Karmine Corp,Natus Vincere,atk,elim
+429380,196072,8,Karmine Corp,Natus Vincere,atk,boom
+429380,196072,9,Natus Vincere,Karmine Corp,def,elim
+429380,196072,10,Natus Vincere,Karmine Corp,def,defuse
+429380,196072,11,Natus Vincere,Karmine Corp,def,defuse
+429380,196072,12,Karmine Corp,Natus Vincere,atk,elim
+429380,196072,13,Karmine Corp,Natus Vincere,def,defuse
+429380,196072,14,Karmine Corp,Natus Vincere,def,elim
+429380,196072,15,Karmine Corp,Natus Vincere,def,elim
+429380,196072,16,Natus Vincere,Karmine Corp,atk,boom
+429380,196072,17,Karmine Corp,Natus Vincere,def,time
+429380,196072,18,Karmine Corp,Natus Vincere,def,defuse
+429380,196072,19,Karmine Corp,Natus Vincere,def,defuse
+429381,196073,1,GIANTX,BBL Esports,atk,elim
+429381,196073,2,GIANTX,BBL Esports,atk,elim
+429381,196073,3,GIANTX,BBL Esports,atk,elim
+429381,196073,4,GIANTX,BBL Esports,atk,elim
+429381,196073,5,BBL Esports,GIANTX,def,defuse
+429381,196073,6,GIANTX,BBL Esports,atk,elim
+429381,196073,7,BBL Esports,GIANTX,def,defuse
+429381,196073,8,BBL Esports,GIANTX,def,elim
+429381,196073,9,BBL Esports,GIANTX,def,elim
+429381,196073,10,BBL Esports,GIANTX,def,defuse
+429381,196073,11,BBL Esports,GIANTX,def,elim
+429381,196073,12,GIANTX,BBL Esports,atk,elim
+429381,196073,13,BBL Esports,GIANTX,atk,elim
+429381,196073,14,BBL Esports,GIANTX,atk,elim
+429381,196073,15,GIANTX,BBL Esports,def,elim
+429381,196073,16,GIANTX,BBL Esports,def,defuse
+429381,196073,17,GIANTX,BBL Esports,def,elim
+429381,196073,18,BBL Esports,GIANTX,atk,elim
+429381,196073,19,BBL Esports,GIANTX,atk,elim
+429381,196073,20,BBL Esports,GIANTX,atk,elim
+429381,196073,21,BBL Esports,GIANTX,atk,elim
+429381,196073,22,BBL Esports,GIANTX,atk,elim
+429381,196074,1,BBL Esports,GIANTX,atk,elim
+429381,196074,2,BBL Esports,GIANTX,atk,boom
+429381,196074,3,BBL Esports,GIANTX,atk,boom
+429381,196074,4,GIANTX,BBL Esports,def,defuse
+429381,196074,5,GIANTX,BBL Esports,def,elim
+429381,196074,6,BBL Esports,GIANTX,atk,elim
+429381,196074,7,GIANTX,BBL Esports,def,elim
+429381,196074,8,GIANTX,BBL Esports,def,defuse
+429381,196074,9,GIANTX,BBL Esports,def,elim
+429381,196074,10,GIANTX,BBL Esports,def,defuse
+429381,196074,11,GIANTX,BBL Esports,def,defuse
+429381,196074,12,BBL Esports,GIANTX,atk,elim
+429381,196074,13,BBL Esports,GIANTX,def,elim
+429381,196074,14,BBL Esports,GIANTX,def,elim
+429381,196074,15,GIANTX,BBL Esports,atk,elim
+429381,196074,16,BBL Esports,GIANTX,def,defuse
+429381,196074,17,BBL Esports,GIANTX,def,elim
+429381,196074,18,BBL Esports,GIANTX,def,defuse
+429381,196074,19,BBL Esports,GIANTX,def,elim
+429381,196074,20,BBL Esports,GIANTX,def,defuse
+429381,196074,21,GIANTX,BBL Esports,atk,elim
+429381,196074,22,GIANTX,BBL Esports,atk,elim
+429381,196074,23,GIANTX,BBL Esports,atk,boom
+429381,196074,24,GIANTX,BBL Esports,atk,elim
+429381,196074,25,GIANTX,BBL Esports,def,defuse
+429381,196074,26,GIANTX,BBL Esports,atk,elim
+429381,196075,1,BBL Esports,GIANTX,atk,elim
+429381,196075,2,BBL Esports,GIANTX,atk,elim
+429381,196075,3,BBL Esports,GIANTX,atk,elim
+429381,196075,4,GIANTX,BBL Esports,def,elim
+429381,196075,5,BBL Esports,GIANTX,atk,elim
+429381,196075,6,BBL Esports,GIANTX,atk,elim
+429381,196075,7,BBL Esports,GIANTX,atk,boom
+429381,196075,8,BBL Esports,GIANTX,atk,elim
+429381,196075,9,GIANTX,BBL Esports,def,defuse
+429381,196075,10,GIANTX,BBL Esports,def,defuse
+429381,196075,11,GIANTX,BBL Esports,def,defuse
+429381,196075,12,GIANTX,BBL Esports,def,elim
+429381,196075,13,BBL Esports,GIANTX,def,defuse
+429381,196075,14,BBL Esports,GIANTX,def,elim
+429381,196075,15,BBL Esports,GIANTX,def,defuse
+429381,196075,16,BBL Esports,GIANTX,def,time
+429381,196075,17,BBL Esports,GIANTX,def,elim
+429381,196075,18,BBL Esports,GIANTX,def,elim
+429382,196076,1,Gentle Mates,Apeks,def,elim
+429382,196076,2,Gentle Mates,Apeks,def,defuse
+429382,196076,3,Apeks,Gentle Mates,atk,elim
+429382,196076,4,Apeks,Gentle Mates,atk,elim
+429382,196076,5,Gentle Mates,Apeks,def,defuse
+429382,196076,6,Gentle Mates,Apeks,def,defuse
+429382,196076,7,Gentle Mates,Apeks,def,elim
+429382,196076,8,Apeks,Gentle Mates,atk,elim
+429382,196076,9,Apeks,Gentle Mates,atk,boom
+429382,196076,10,Apeks,Gentle Mates,atk,boom
+429382,196076,11,Apeks,Gentle Mates,atk,elim
+429382,196076,12,Gentle Mates,Apeks,def,defuse
+429382,196076,13,Gentle Mates,Apeks,atk,elim
+429382,196076,14,Gentle Mates,Apeks,atk,elim
+429382,196076,15,Gentle Mates,Apeks,atk,boom
+429382,196076,16,Gentle Mates,Apeks,atk,elim
+429382,196076,17,Apeks,Gentle Mates,def,defuse
+429382,196076,18,Gentle Mates,Apeks,atk,elim
+429382,196076,19,Gentle Mates,Apeks,atk,elim
+429382,196076,20,Gentle Mates,Apeks,atk,elim
+429382,196077,1,Gentle Mates,Apeks,atk,elim
+429382,196077,2,Gentle Mates,Apeks,atk,elim
+429382,196077,3,Apeks,Gentle Mates,def,defuse
+429382,196077,4,Gentle Mates,Apeks,atk,elim
+429382,196077,5,Gentle Mates,Apeks,atk,elim
+429382,196077,6,Gentle Mates,Apeks,atk,elim
+429382,196077,7,Apeks,Gentle Mates,def,elim
+429382,196077,8,Gentle Mates,Apeks,atk,elim
+429382,196077,9,Gentle Mates,Apeks,atk,elim
+429382,196077,10,Gentle Mates,Apeks,atk,boom
+429382,196077,11,Gentle Mates,Apeks,atk,elim
+429382,196077,12,Apeks,Gentle Mates,def,elim
+429382,196077,13,Apeks,Gentle Mates,atk,elim
+429382,196077,14,Apeks,Gentle Mates,atk,elim
+429382,196077,15,Apeks,Gentle Mates,atk,elim
+429382,196077,16,Apeks,Gentle Mates,atk,elim
+429382,196077,17,Apeks,Gentle Mates,atk,boom
+429382,196077,18,Gentle Mates,Apeks,def,defuse
+429382,196077,19,Apeks,Gentle Mates,atk,boom
+429382,196077,20,Apeks,Gentle Mates,atk,elim
+429382,196077,21,Gentle Mates,Apeks,def,elim
+429382,196077,22,Gentle Mates,Apeks,def,defuse
+429382,196077,23,Apeks,Gentle Mates,atk,elim
+429382,196077,24,Apeks,Gentle Mates,atk,elim
+429382,196077,25,Gentle Mates,Apeks,atk,elim
+429382,196077,26,Gentle Mates,Apeks,def,defuse
+429383,196079,1,FUT Esports,Team Liquid,def,elim
+429383,196079,2,FUT Esports,Team Liquid,def,defuse
+429383,196079,3,Team Liquid,FUT Esports,atk,elim
+429383,196079,4,FUT Esports,Team Liquid,def,elim
+429383,196079,5,FUT Esports,Team Liquid,def,elim
+429383,196079,6,Team Liquid,FUT Esports,atk,elim
+429383,196079,7,Team Liquid,FUT Esports,atk,elim
+429383,196079,8,FUT Esports,Team Liquid,def,defuse
+429383,196079,9,FUT Esports,Team Liquid,def,elim
+429383,196079,10,FUT Esports,Team Liquid,def,defuse
+429383,196079,11,FUT Esports,Team Liquid,def,defuse
+429383,196079,12,FUT Esports,Team Liquid,def,defuse
+429383,196079,13,Team Liquid,FUT Esports,def,elim
+429383,196079,14,Team Liquid,FUT Esports,def,elim
+429383,196079,15,FUT Esports,Team Liquid,atk,elim
+429383,196079,16,Team Liquid,FUT Esports,def,elim
+429383,196079,17,Team Liquid,FUT Esports,def,defuse
+429383,196079,18,FUT Esports,Team Liquid,atk,boom
+429383,196079,19,FUT Esports,Team Liquid,atk,elim
+429383,196079,20,FUT Esports,Team Liquid,atk,elim
+429383,196080,1,FUT Esports,Team Liquid,atk,elim
+429383,196080,2,FUT Esports,Team Liquid,atk,elim
+429383,196080,3,FUT Esports,Team Liquid,atk,elim
+429383,196080,4,FUT Esports,Team Liquid,atk,boom
+429383,196080,5,FUT Esports,Team Liquid,atk,elim
+429383,196080,6,FUT Esports,Team Liquid,atk,elim
+429383,196080,7,Team Liquid,FUT Esports,def,defuse
+429383,196080,8,FUT Esports,Team Liquid,atk,elim
+429383,196080,9,FUT Esports,Team Liquid,atk,elim
+429383,196080,10,Team Liquid,FUT Esports,def,elim
+429383,196080,11,Team Liquid,FUT Esports,def,elim
+429383,196080,12,FUT Esports,Team Liquid,atk,boom
+429383,196080,13,Team Liquid,FUT Esports,atk,elim
+429383,196080,14,Team Liquid,FUT Esports,atk,boom
+429383,196080,15,FUT Esports,Team Liquid,def,defuse
+429383,196080,16,FUT Esports,Team Liquid,def,defuse
+429383,196080,17,FUT Esports,Team Liquid,def,defuse
+429383,196080,18,Team Liquid,FUT Esports,atk,elim
+429383,196080,19,FUT Esports,Team Liquid,def,defuse
+429384,196082,1,Team Vitality,Karmine Corp,def,elim
+429384,196082,2,Team Vitality,Karmine Corp,def,elim
+429384,196082,3,Team Vitality,Karmine Corp,def,time
+429384,196082,4,Karmine Corp,Team Vitality,atk,elim
+429384,196082,5,Team Vitality,Karmine Corp,def,defuse
+429384,196082,6,Karmine Corp,Team Vitality,atk,elim
+429384,196082,7,Team Vitality,Karmine Corp,def,defuse
+429384,196082,8,Team Vitality,Karmine Corp,def,elim
+429384,196082,9,Team Vitality,Karmine Corp,def,elim
+429384,196082,10,Team Vitality,Karmine Corp,def,elim
+429384,196082,11,Karmine Corp,Team Vitality,atk,elim
+429384,196082,12,Karmine Corp,Team Vitality,atk,elim
+429384,196082,13,Team Vitality,Karmine Corp,atk,elim
+429384,196082,14,Team Vitality,Karmine Corp,atk,elim
+429384,196082,15,Karmine Corp,Team Vitality,def,defuse
+429384,196082,16,Team Vitality,Karmine Corp,atk,elim
+429384,196082,17,Team Vitality,Karmine Corp,atk,elim
+429384,196082,18,Team Vitality,Karmine Corp,atk,elim
+429384,196083,1,Karmine Corp,Team Vitality,atk,elim
+429384,196083,2,Karmine Corp,Team Vitality,atk,boom
+429384,196083,3,Team Vitality,Karmine Corp,def,time
+429384,196083,4,Team Vitality,Karmine Corp,def,defuse
+429384,196083,5,Team Vitality,Karmine Corp,def,elim
+429384,196083,6,Karmine Corp,Team Vitality,atk,elim
+429384,196083,7,Karmine Corp,Team Vitality,atk,boom
+429384,196083,8,Karmine Corp,Team Vitality,atk,boom
+429384,196083,9,Karmine Corp,Team Vitality,atk,elim
+429384,196083,10,Team Vitality,Karmine Corp,def,elim
+429384,196083,11,Team Vitality,Karmine Corp,def,elim
+429384,196083,12,Karmine Corp,Team Vitality,atk,boom
+429384,196083,13,Team Vitality,Karmine Corp,atk,elim
+429384,196083,14,Team Vitality,Karmine Corp,atk,boom
+429384,196083,15,Karmine Corp,Team Vitality,def,defuse
+429384,196083,16,Karmine Corp,Team Vitality,def,defuse
+429384,196083,17,Karmine Corp,Team Vitality,def,defuse
+429384,196083,18,Karmine Corp,Team Vitality,def,elim
+429384,196083,19,Karmine Corp,Team Vitality,def,elim
+429384,196083,20,Team Vitality,Karmine Corp,atk,elim
+429384,196083,21,Team Vitality,Karmine Corp,atk,boom
+429384,196083,22,Karmine Corp,Team Vitality,def,elim
+429384,196084,1,Team Vitality,Karmine Corp,atk,elim
+429384,196084,2,Team Vitality,Karmine Corp,atk,elim
+429384,196084,3,Team Vitality,Karmine Corp,atk,boom
+429384,196084,4,Team Vitality,Karmine Corp,atk,boom
+429384,196084,5,Team Vitality,Karmine Corp,atk,elim
+429384,196084,6,Karmine Corp,Team Vitality,def,time
+429384,196084,7,Karmine Corp,Team Vitality,def,defuse
+429384,196084,8,Karmine Corp,Team Vitality,def,defuse
+429384,196084,9,Team Vitality,Karmine Corp,atk,elim
+429384,196084,10,Team Vitality,Karmine Corp,atk,elim
+429384,196084,11,Karmine Corp,Team Vitality,def,time
+429384,196084,12,Karmine Corp,Team Vitality,def,defuse
+429384,196084,13,Team Vitality,Karmine Corp,def,defuse
+429384,196084,14,Team Vitality,Karmine Corp,def,elim
+429384,196084,15,Karmine Corp,Team Vitality,atk,elim
+429384,196084,16,Karmine Corp,Team Vitality,atk,boom
+429384,196084,17,Team Vitality,Karmine Corp,def,elim
+429384,196084,18,Karmine Corp,Team Vitality,atk,boom
+429384,196084,19,Karmine Corp,Team Vitality,atk,boom
+429384,196084,20,Karmine Corp,Team Vitality,atk,elim
+429384,196084,21,Karmine Corp,Team Vitality,atk,elim
+429384,196084,22,Karmine Corp,Team Vitality,atk,elim
+429384,196084,23,Team Vitality,Karmine Corp,def,defuse
+429384,196084,24,Team Vitality,Karmine Corp,def,elim
+429384,196084,25,Team Vitality,Karmine Corp,atk,elim
+429384,196084,26,Karmine Corp,Team Vitality,atk,elim
+429384,196084,27,Team Vitality,Karmine Corp,atk,elim
+429384,196084,28,Karmine Corp,Team Vitality,atk,elim
+429384,196084,29,Team Vitality,Karmine Corp,atk,elim
+429384,196084,30,Karmine Corp,Team Vitality,atk,elim
+429384,196084,31,Team Vitality,Karmine Corp,atk,elim
+429384,196084,32,Team Vitality,Karmine Corp,def,elim
+429385,196085,1,BBL Esports,FNATIC,def,defuse
+429385,196085,2,BBL Esports,FNATIC,def,elim
+429385,196085,3,FNATIC,BBL Esports,atk,elim
+429385,196085,4,BBL Esports,FNATIC,def,defuse
+429385,196085,5,FNATIC,BBL Esports,atk,boom
+429385,196085,6,FNATIC,BBL Esports,atk,elim
+429385,196085,7,BBL Esports,FNATIC,def,time
+429385,196085,8,BBL Esports,FNATIC,def,time
+429385,196085,9,BBL Esports,FNATIC,def,elim
+429385,196085,10,BBL Esports,FNATIC,def,elim
+429385,196085,11,BBL Esports,FNATIC,def,time
+429385,196085,12,BBL Esports,FNATIC,def,elim
+429385,196085,13,FNATIC,BBL Esports,def,elim
+429385,196085,14,FNATIC,BBL Esports,def,elim
+429385,196085,15,FNATIC,BBL Esports,def,defuse
+429385,196085,16,FNATIC,BBL Esports,def,elim
+429385,196085,17,FNATIC,BBL Esports,def,defuse
+429385,196085,18,BBL Esports,FNATIC,atk,boom
+429385,196085,19,BBL Esports,FNATIC,atk,boom
+429385,196085,20,BBL Esports,FNATIC,atk,elim
+429385,196085,21,BBL Esports,FNATIC,atk,boom
+429385,196086,1,FNATIC,BBL Esports,def,defuse
+429385,196086,2,BBL Esports,FNATIC,atk,boom
+429385,196086,3,FNATIC,BBL Esports,def,defuse
+429385,196086,4,FNATIC,BBL Esports,def,elim
+429385,196086,5,FNATIC,BBL Esports,def,defuse
+429385,196086,6,FNATIC,BBL Esports,def,defuse
+429385,196086,7,BBL Esports,FNATIC,atk,elim
+429385,196086,8,BBL Esports,FNATIC,atk,elim
+429385,196086,9,FNATIC,BBL Esports,def,defuse
+429385,196086,10,FNATIC,BBL Esports,def,elim
+429385,196086,11,FNATIC,BBL Esports,def,elim
+429385,196086,12,BBL Esports,FNATIC,atk,elim
+429385,196086,13,FNATIC,BBL Esports,atk,elim
+429385,196086,14,FNATIC,BBL Esports,atk,elim
+429385,196086,15,FNATIC,BBL Esports,atk,elim
+429385,196086,16,BBL Esports,FNATIC,def,defuse
+429385,196086,17,FNATIC,BBL Esports,atk,elim
+429385,196086,18,BBL Esports,FNATIC,def,elim
+429385,196086,19,BBL Esports,FNATIC,def,time
+429385,196086,20,BBL Esports,FNATIC,def,defuse
+429385,196086,21,FNATIC,BBL Esports,atk,elim
+429385,196087,1,FNATIC,BBL Esports,atk,elim
+429385,196087,2,FNATIC,BBL Esports,atk,elim
+429385,196087,3,FNATIC,BBL Esports,atk,elim
+429385,196087,4,BBL Esports,FNATIC,def,elim
+429385,196087,5,FNATIC,BBL Esports,atk,elim
+429385,196087,6,FNATIC,BBL Esports,atk,elim
+429385,196087,7,BBL Esports,FNATIC,def,defuse
+429385,196087,8,BBL Esports,FNATIC,def,elim
+429385,196087,9,FNATIC,BBL Esports,atk,boom
+429385,196087,10,FNATIC,BBL Esports,atk,boom
+429385,196087,11,FNATIC,BBL Esports,atk,elim
+429385,196087,12,FNATIC,BBL Esports,atk,elim
+429385,196087,13,BBL Esports,FNATIC,atk,elim
+429385,196087,14,BBL Esports,FNATIC,atk,boom
+429385,196087,15,BBL Esports,FNATIC,atk,boom
+429385,196087,16,BBL Esports,FNATIC,atk,boom
+429385,196087,17,BBL Esports,FNATIC,atk,boom
+429385,196087,18,BBL Esports,FNATIC,atk,elim
+429385,196087,19,BBL Esports,FNATIC,atk,boom
+429385,196087,20,BBL Esports,FNATIC,atk,elim
+429385,196087,21,BBL Esports,FNATIC,atk,elim
+429385,196087,22,FNATIC,BBL Esports,def,elim
+429385,196087,23,BBL Esports,FNATIC,atk,elim
+429386,196088,1,Gentle Mates,Team Heretics,def,elim
+429386,196088,2,Gentle Mates,Team Heretics,def,defuse
+429386,196088,3,Gentle Mates,Team Heretics,def,elim
+429386,196088,4,Gentle Mates,Team Heretics,def,elim
+429386,196088,5,Gentle Mates,Team Heretics,def,elim
+429386,196088,6,Gentle Mates,Team Heretics,def,defuse
+429386,196088,7,Team Heretics,Gentle Mates,atk,elim
+429386,196088,8,Team Heretics,Gentle Mates,atk,boom
+429386,196088,9,Gentle Mates,Team Heretics,def,elim
+429386,196088,10,Gentle Mates,Team Heretics,def,time
+429386,196088,11,Gentle Mates,Team Heretics,def,defuse
+429386,196088,12,Team Heretics,Gentle Mates,atk,elim
+429386,196088,13,Gentle Mates,Team Heretics,atk,elim
+429386,196088,14,Gentle Mates,Team Heretics,atk,elim
+429386,196088,15,Team Heretics,Gentle Mates,def,defuse
+429386,196088,16,Gentle Mates,Team Heretics,atk,elim
+429386,196088,17,Gentle Mates,Team Heretics,atk,elim
+429386,196089,1,Team Heretics,Gentle Mates,def,elim
+429386,196089,2,Team Heretics,Gentle Mates,def,elim
+429386,196089,3,Team Heretics,Gentle Mates,def,elim
+429386,196089,4,Team Heretics,Gentle Mates,def,elim
+429386,196089,5,Gentle Mates,Team Heretics,atk,boom
+429386,196089,6,Team Heretics,Gentle Mates,def,elim
+429386,196089,7,Team Heretics,Gentle Mates,def,defuse
+429386,196089,8,Team Heretics,Gentle Mates,def,time
+429386,196089,9,Team Heretics,Gentle Mates,def,elim
+429386,196089,10,Team Heretics,Gentle Mates,def,defuse
+429386,196089,11,Team Heretics,Gentle Mates,def,elim
+429386,196089,12,Team Heretics,Gentle Mates,def,elim
+429386,196089,13,Team Heretics,Gentle Mates,atk,elim
+429386,196089,14,Gentle Mates,Team Heretics,def,elim
+429386,196089,15,Gentle Mates,Team Heretics,def,elim
+429386,196089,16,Team Heretics,Gentle Mates,atk,elim
+429386,196090,1,Team Heretics,Gentle Mates,def,elim
+429386,196090,2,Team Heretics,Gentle Mates,def,elim
+429386,196090,3,Gentle Mates,Team Heretics,atk,elim
+429386,196090,4,Team Heretics,Gentle Mates,def,elim
+429386,196090,5,Team Heretics,Gentle Mates,def,defuse
+429386,196090,6,Team Heretics,Gentle Mates,def,elim
+429386,196090,7,Team Heretics,Gentle Mates,def,elim
+429386,196090,8,Gentle Mates,Team Heretics,atk,elim
+429386,196090,9,Team Heretics,Gentle Mates,def,time
+429386,196090,10,Team Heretics,Gentle Mates,def,elim
+429386,196090,11,Gentle Mates,Team Heretics,atk,elim
+429386,196090,12,Team Heretics,Gentle Mates,def,defuse
+429386,196090,13,Gentle Mates,Team Heretics,def,defuse
+429386,196090,14,Gentle Mates,Team Heretics,def,elim
+429386,196090,15,Gentle Mates,Team Heretics,def,elim
+429386,196090,16,Gentle Mates,Team Heretics,def,defuse
+429386,196090,17,Team Heretics,Gentle Mates,atk,elim
+429386,196090,18,Team Heretics,Gentle Mates,atk,boom
+429386,196090,19,Team Heretics,Gentle Mates,atk,elim
+429386,196090,20,Gentle Mates,Team Heretics,def,elim
+429386,196090,21,Team Heretics,Gentle Mates,atk,elim
+429387,196091,1,FUT Esports,Team Vitality,def,defuse
+429387,196091,2,FUT Esports,Team Vitality,def,defuse
+429387,196091,3,Team Vitality,FUT Esports,atk,elim
+429387,196091,4,Team Vitality,FUT Esports,atk,boom
+429387,196091,5,Team Vitality,FUT Esports,atk,boom
+429387,196091,6,Team Vitality,FUT Esports,atk,elim
+429387,196091,7,Team Vitality,FUT Esports,atk,boom
+429387,196091,8,Team Vitality,FUT Esports,atk,elim
+429387,196091,9,Team Vitality,FUT Esports,atk,elim
+429387,196091,10,Team Vitality,FUT Esports,atk,elim
+429387,196091,11,Team Vitality,FUT Esports,atk,elim
+429387,196091,12,FUT Esports,Team Vitality,def,defuse
+429387,196091,13,FUT Esports,Team Vitality,atk,elim
+429387,196091,14,FUT Esports,Team Vitality,atk,elim
+429387,196091,15,FUT Esports,Team Vitality,atk,elim
+429387,196091,16,FUT Esports,Team Vitality,atk,elim
+429387,196091,17,Team Vitality,FUT Esports,def,elim
+429387,196091,18,Team Vitality,FUT Esports,def,defuse
+429387,196091,19,Team Vitality,FUT Esports,def,defuse
+429387,196091,20,Team Vitality,FUT Esports,def,defuse
+429387,196092,1,Team Vitality,FUT Esports,def,elim
+429387,196092,2,Team Vitality,FUT Esports,def,defuse
+429387,196092,3,Team Vitality,FUT Esports,def,time
+429387,196092,4,FUT Esports,Team Vitality,atk,elim
+429387,196092,5,Team Vitality,FUT Esports,def,elim
+429387,196092,6,Team Vitality,FUT Esports,def,elim
+429387,196092,7,Team Vitality,FUT Esports,def,defuse
+429387,196092,8,Team Vitality,FUT Esports,def,elim
+429387,196092,9,Team Vitality,FUT Esports,def,elim
+429387,196092,10,Team Vitality,FUT Esports,def,elim
+429387,196092,11,Team Vitality,FUT Esports,def,elim
+429387,196092,12,Team Vitality,FUT Esports,def,elim
+429387,196092,13,Team Vitality,FUT Esports,atk,elim
+429387,196092,14,FUT Esports,Team Vitality,def,defuse
+429387,196092,15,FUT Esports,Team Vitality,def,elim
+429387,196092,16,FUT Esports,Team Vitality,def,defuse
+429387,196092,17,Team Vitality,FUT Esports,atk,elim
+429388,196094,1,Team Heretics,BBL Esports,def,defuse
+429388,196094,2,Team Heretics,BBL Esports,def,elim
+429388,196094,3,BBL Esports,Team Heretics,atk,elim
+429388,196094,4,BBL Esports,Team Heretics,atk,elim
+429388,196094,5,BBL Esports,Team Heretics,atk,elim
+429388,196094,6,BBL Esports,Team Heretics,atk,boom
+429388,196094,7,BBL Esports,Team Heretics,atk,boom
+429388,196094,8,BBL Esports,Team Heretics,atk,elim
+429388,196094,9,BBL Esports,Team Heretics,atk,elim
+429388,196094,10,Team Heretics,BBL Esports,def,defuse
+429388,196094,11,Team Heretics,BBL Esports,def,defuse
+429388,196094,12,Team Heretics,BBL Esports,def,time
+429388,196094,13,BBL Esports,Team Heretics,def,defuse
+429388,196094,14,BBL Esports,Team Heretics,def,elim
+429388,196094,15,Team Heretics,BBL Esports,atk,elim
+429388,196094,16,Team Heretics,BBL Esports,atk,elim
+429388,196094,17,Team Heretics,BBL Esports,atk,elim
+429388,196094,18,BBL Esports,Team Heretics,def,defuse
+429388,196094,19,BBL Esports,Team Heretics,def,defuse
+429388,196094,20,Team Heretics,BBL Esports,atk,elim
+429388,196094,21,Team Heretics,BBL Esports,atk,elim
+429388,196094,22,Team Heretics,BBL Esports,atk,elim
+429388,196094,23,Team Heretics,BBL Esports,atk,elim
+429388,196094,24,Team Heretics,BBL Esports,atk,elim
+429388,196095,1,Team Heretics,BBL Esports,atk,elim
+429388,196095,2,Team Heretics,BBL Esports,atk,elim
+429388,196095,3,Team Heretics,BBL Esports,atk,elim
+429388,196095,4,Team Heretics,BBL Esports,atk,elim
+429388,196095,5,Team Heretics,BBL Esports,atk,elim
+429388,196095,6,BBL Esports,Team Heretics,def,defuse
+429388,196095,7,BBL Esports,Team Heretics,def,elim
+429388,196095,8,BBL Esports,Team Heretics,def,defuse
+429388,196095,9,Team Heretics,BBL Esports,atk,elim
+429388,196095,10,Team Heretics,BBL Esports,atk,elim
+429388,196095,11,Team Heretics,BBL Esports,atk,elim
+429388,196095,12,BBL Esports,Team Heretics,def,elim
+429388,196095,13,BBL Esports,Team Heretics,atk,elim
+429388,196095,14,BBL Esports,Team Heretics,atk,elim
+429388,196095,15,Team Heretics,BBL Esports,def,elim
+429388,196095,16,Team Heretics,BBL Esports,def,time
+429388,196095,17,Team Heretics,BBL Esports,def,elim
+429388,196095,18,Team Heretics,BBL Esports,def,defuse
+429388,196095,19,BBL Esports,Team Heretics,atk,elim
+429388,196095,20,Team Heretics,BBL Esports,def,defuse
+429389,196097,1,Team Vitality,Team Heretics,atk,elim
+429389,196097,2,Team Vitality,Team Heretics,atk,elim
+429389,196097,3,Team Vitality,Team Heretics,atk,elim
+429389,196097,4,Team Heretics,Team Vitality,def,time
+429389,196097,5,Team Vitality,Team Heretics,atk,elim
+429389,196097,6,Team Vitality,Team Heretics,atk,elim
+429389,196097,7,Team Vitality,Team Heretics,atk,elim
+429389,196097,8,Team Vitality,Team Heretics,atk,elim
+429389,196097,9,Team Vitality,Team Heretics,atk,boom
+429389,196097,10,Team Heretics,Team Vitality,def,elim
+429389,196097,11,Team Heretics,Team Vitality,def,defuse
+429389,196097,12,Team Heretics,Team Vitality,def,defuse
+429389,196097,13,Team Heretics,Team Vitality,atk,elim
+429389,196097,14,Team Heretics,Team Vitality,atk,elim
+429389,196097,15,Team Heretics,Team Vitality,atk,elim
+429389,196097,16,Team Heretics,Team Vitality,atk,elim
+429389,196097,17,Team Heretics,Team Vitality,atk,elim
+429389,196097,18,Team Heretics,Team Vitality,atk,boom
+429389,196097,19,Team Vitality,Team Heretics,def,elim
+429389,196097,20,Team Vitality,Team Heretics,def,defuse
+429389,196097,21,Team Vitality,Team Heretics,def,elim
+429389,196097,22,Team Vitality,Team Heretics,def,defuse
+429389,196097,23,Team Vitality,Team Heretics,def,elim
+429389,196098,1,Team Vitality,Team Heretics,atk,elim
+429389,196098,2,Team Vitality,Team Heretics,atk,elim
+429389,196098,3,Team Vitality,Team Heretics,atk,elim
+429389,196098,4,Team Vitality,Team Heretics,atk,boom
+429389,196098,5,Team Vitality,Team Heretics,atk,boom
+429389,196098,6,Team Vitality,Team Heretics,atk,elim
+429389,196098,7,Team Vitality,Team Heretics,atk,elim
+429389,196098,8,Team Vitality,Team Heretics,atk,elim
+429389,196098,9,Team Vitality,Team Heretics,atk,elim
+429389,196098,10,Team Vitality,Team Heretics,atk,elim
+429389,196098,11,Team Vitality,Team Heretics,atk,boom
+429389,196098,12,Team Heretics,Team Vitality,def,defuse
+429389,196098,13,Team Vitality,Team Heretics,def,elim
+429389,196098,14,Team Vitality,Team Heretics,def,elim
+429390,196100,1,Team Liquid,Team Vitality,atk,elim
+429390,196100,2,Team Liquid,Team Vitality,atk,elim
+429390,196100,3,Team Liquid,Team Vitality,atk,boom
+429390,196100,4,Team Liquid,Team Vitality,atk,elim
+429390,196100,5,Team Liquid,Team Vitality,atk,elim
+429390,196100,6,Team Liquid,Team Vitality,atk,elim
+429390,196100,7,Team Liquid,Team Vitality,atk,elim
+429390,196100,8,Team Vitality,Team Liquid,def,defuse
+429390,196100,9,Team Liquid,Team Vitality,atk,elim
+429390,196100,10,Team Vitality,Team Liquid,def,elim
+429390,196100,11,Team Vitality,Team Liquid,def,defuse
+429390,196100,12,Team Liquid,Team Vitality,atk,elim
+429390,196100,13,Team Liquid,Team Vitality,def,defuse
+429390,196100,14,Team Liquid,Team Vitality,def,elim
+429390,196100,15,Team Vitality,Team Liquid,atk,elim
+429390,196100,16,Team Vitality,Team Liquid,atk,boom
+429390,196100,17,Team Vitality,Team Liquid,atk,elim
+429390,196100,18,Team Liquid,Team Vitality,def,elim
+429390,196100,19,Team Vitality,Team Liquid,atk,elim
+429390,196100,20,Team Vitality,Team Liquid,atk,elim
+429390,196100,21,Team Vitality,Team Liquid,atk,elim
+429390,196100,22,Team Vitality,Team Liquid,atk,boom
+429390,196100,23,Team Liquid,Team Vitality,def,elim
+429390,196101,1,Team Liquid,Team Vitality,def,defuse
+429390,196101,2,Team Liquid,Team Vitality,def,defuse
+429390,196101,3,Team Vitality,Team Liquid,atk,elim
+429390,196101,4,Team Liquid,Team Vitality,def,defuse
+429390,196101,5,Team Liquid,Team Vitality,def,time
+429390,196101,6,Team Liquid,Team Vitality,def,elim
+429390,196101,7,Team Vitality,Team Liquid,atk,boom
+429390,196101,8,Team Vitality,Team Liquid,atk,elim
+429390,196101,9,Team Liquid,Team Vitality,def,defuse
+429390,196101,10,Team Liquid,Team Vitality,def,defuse
+429390,196101,11,Team Liquid,Team Vitality,def,defuse
+429390,196101,12,Team Liquid,Team Vitality,def,defuse
+429390,196101,13,Team Vitality,Team Liquid,def,elim
+429390,196101,14,Team Vitality,Team Liquid,def,elim
+429390,196101,15,Team Vitality,Team Liquid,def,elim
+429390,196101,16,Team Liquid,Team Vitality,atk,elim
+429390,196101,17,Team Vitality,Team Liquid,def,defuse
+429390,196101,18,Team Liquid,Team Vitality,atk,elim
+429390,196101,19,Team Liquid,Team Vitality,atk,boom
+429390,196101,20,Team Liquid,Team Vitality,atk,elim
+429390,196102,1,Team Vitality,Team Liquid,atk,elim
+429390,196102,2,Team Vitality,Team Liquid,atk,elim
+429390,196102,3,Team Vitality,Team Liquid,atk,boom
+429390,196102,4,Team Vitality,Team Liquid,atk,boom
+429390,196102,5,Team Liquid,Team Vitality,def,elim
+429390,196102,6,Team Vitality,Team Liquid,atk,elim
+429390,196102,7,Team Vitality,Team Liquid,atk,elim
+429390,196102,8,Team Vitality,Team Liquid,atk,elim
+429390,196102,9,Team Vitality,Team Liquid,atk,elim
+429390,196102,10,Team Vitality,Team Liquid,atk,elim
+429390,196102,11,Team Vitality,Team Liquid,atk,elim
+429390,196102,12,Team Liquid,Team Vitality,def,elim
+429390,196102,13,Team Vitality,Team Liquid,def,defuse
+429390,196102,14,Team Liquid,Team Vitality,atk,elim
+429390,196102,15,Team Liquid,Team Vitality,atk,elim
+429390,196102,16,Team Vitality,Team Liquid,def,elim
+429390,196102,17,Team Liquid,Team Vitality,atk,elim
+429390,196102,18,Team Liquid,Team Vitality,atk,elim
+429390,196102,19,Team Vitality,Team Liquid,def,elim
+429390,196103,1,Team Liquid,Team Vitality,def,elim
+429390,196103,2,Team Liquid,Team Vitality,def,elim
+429390,196103,3,Team Liquid,Team Vitality,def,defuse
+429390,196103,4,Team Vitality,Team Liquid,atk,elim
+429390,196103,5,Team Vitality,Team Liquid,atk,elim
+429390,196103,6,Team Liquid,Team Vitality,def,elim
+429390,196103,7,Team Vitality,Team Liquid,atk,boom
+429390,196103,8,Team Vitality,Team Liquid,atk,boom
+429390,196103,9,Team Liquid,Team Vitality,def,defuse
+429390,196103,10,Team Vitality,Team Liquid,atk,boom
+429390,196103,11,Team Vitality,Team Liquid,atk,elim
+429390,196103,12,Team Vitality,Team Liquid,atk,elim
+429390,196103,13,Team Vitality,Team Liquid,def,defuse
+429390,196103,14,Team Vitality,Team Liquid,def,elim
+429390,196103,15,Team Liquid,Team Vitality,atk,elim
+429390,196103,16,Team Vitality,Team Liquid,def,defuse
+429390,196103,17,Team Vitality,Team Liquid,def,elim
+429390,196103,18,Team Liquid,Team Vitality,atk,elim
+429390,196103,19,Team Vitality,Team Liquid,def,defuse
+429390,196103,20,Team Vitality,Team Liquid,def,elim
+429390,196104,1,Team Vitality,Team Liquid,def,elim
+429390,196104,2,Team Vitality,Team Liquid,def,time
+429390,196104,3,Team Vitality,Team Liquid,def,defuse
+429390,196104,4,Team Vitality,Team Liquid,def,defuse
+429390,196104,5,Team Vitality,Team Liquid,def,elim
+429390,196104,6,Team Vitality,Team Liquid,def,defuse
+429390,196104,7,Team Vitality,Team Liquid,def,elim
+429390,196104,8,Team Liquid,Team Vitality,atk,elim
+429390,196104,9,Team Liquid,Team Vitality,atk,elim
+429390,196104,10,Team Liquid,Team Vitality,atk,boom
+429390,196104,11,Team Vitality,Team Liquid,def,elim
+429390,196104,12,Team Liquid,Team Vitality,atk,elim
+429390,196104,13,Team Vitality,Team Liquid,atk,elim
+429390,196104,14,Team Vitality,Team Liquid,atk,elim
+429390,196104,15,Team Liquid,Team Vitality,def,elim
+429390,196104,16,Team Vitality,Team Liquid,atk,boom
+429390,196104,17,Team Liquid,Team Vitality,def,time
+429390,196104,18,Team Vitality,Team Liquid,atk,elim
+429390,196104,19,Team Liquid,Team Vitality,def,defuse
+429390,196104,20,Team Liquid,Team Vitality,def,time
+429390,196104,21,Team Vitality,Team Liquid,atk,elim
+429391,196105,1,Gentle Mates,Movistar KOI (KOI),def,defuse
+429391,196105,2,Gentle Mates,Movistar KOI (KOI),def,defuse
+429391,196105,3,Gentle Mates,Movistar KOI (KOI),def,elim
+429391,196105,4,Gentle Mates,Movistar KOI (KOI),def,elim
+429391,196105,5,Gentle Mates,Movistar KOI (KOI),def,defuse
+429391,196105,6,Movistar KOI (KOI),Gentle Mates,atk,elim
+429391,196105,7,Gentle Mates,Movistar KOI (KOI),def,elim
+429391,196105,8,Gentle Mates,Movistar KOI (KOI),def,elim
+429391,196105,9,Gentle Mates,Movistar KOI (KOI),def,elim
+429391,196105,10,Gentle Mates,Movistar KOI (KOI),def,defuse
+429391,196105,11,Movistar KOI (KOI),Gentle Mates,atk,boom
+429391,196105,12,Gentle Mates,Movistar KOI (KOI),def,defuse
+429391,196105,13,Movistar KOI (KOI),Gentle Mates,def,defuse
+429391,196105,14,Gentle Mates,Movistar KOI (KOI),atk,elim
+429391,196105,15,Gentle Mates,Movistar KOI (KOI),atk,elim
+429391,196105,16,Gentle Mates,Movistar KOI (KOI),atk,elim
+429391,196106,1,Movistar KOI (KOI),Gentle Mates,atk,elim
+429391,196106,2,Movistar KOI (KOI),Gentle Mates,atk,elim
+429391,196106,3,Movistar KOI (KOI),Gentle Mates,atk,elim
+429391,196106,4,Movistar KOI (KOI),Gentle Mates,atk,elim
+429391,196106,5,Movistar KOI (KOI),Gentle Mates,atk,elim
+429391,196106,6,Gentle Mates,Movistar KOI (KOI),def,defuse
+429391,196106,7,Movistar KOI (KOI),Gentle Mates,atk,boom
+429391,196106,8,Gentle Mates,Movistar KOI (KOI),def,elim
+429391,196106,9,Gentle Mates,Movistar KOI (KOI),def,defuse
+429391,196106,10,Movistar KOI (KOI),Gentle Mates,atk,boom
+429391,196106,11,Movistar KOI (KOI),Gentle Mates,atk,boom
+429391,196106,12,Movistar KOI (KOI),Gentle Mates,atk,elim
+429391,196106,13,Gentle Mates,Movistar KOI (KOI),atk,elim
+429391,196106,14,Movistar KOI (KOI),Gentle Mates,def,elim
+429391,196106,15,Movistar KOI (KOI),Gentle Mates,def,elim
+429391,196106,16,Movistar KOI (KOI),Gentle Mates,def,elim
+429391,196106,17,Gentle Mates,Movistar KOI (KOI),atk,elim
+429391,196106,18,Gentle Mates,Movistar KOI (KOI),atk,elim
+429391,196106,19,Gentle Mates,Movistar KOI (KOI),atk,elim
+429391,196106,20,Movistar KOI (KOI),Gentle Mates,def,defuse
+429391,196107,1,Gentle Mates,Movistar KOI (KOI),def,elim
+429391,196107,2,Movistar KOI (KOI),Gentle Mates,atk,elim
+429391,196107,3,Movistar KOI (KOI),Gentle Mates,atk,elim
+429391,196107,4,Gentle Mates,Movistar KOI (KOI),def,elim
+429391,196107,5,Gentle Mates,Movistar KOI (KOI),def,defuse
+429391,196107,6,Gentle Mates,Movistar KOI (KOI),def,elim
+429391,196107,7,Movistar KOI (KOI),Gentle Mates,atk,elim
+429391,196107,8,Movistar KOI (KOI),Gentle Mates,atk,elim
+429391,196107,9,Gentle Mates,Movistar KOI (KOI),def,defuse
+429391,196107,10,Gentle Mates,Movistar KOI (KOI),def,elim
+429391,196107,11,Gentle Mates,Movistar KOI (KOI),def,elim
+429391,196107,12,Gentle Mates,Movistar KOI (KOI),def,defuse
+429391,196107,13,Movistar KOI (KOI),Gentle Mates,def,elim
+429391,196107,14,Gentle Mates,Movistar KOI (KOI),atk,elim
+429391,196107,15,Gentle Mates,Movistar KOI (KOI),atk,elim
+429391,196107,16,Gentle Mates,Movistar KOI (KOI),atk,elim
+429391,196107,17,Gentle Mates,Movistar KOI (KOI),atk,elim
+429391,196107,18,Movistar KOI (KOI),Gentle Mates,def,elim
+429391,196107,19,Gentle Mates,Movistar KOI (KOI),atk,elim
+429392,196108,1,FNATIC,Natus Vincere,atk,elim
+429392,196108,2,FNATIC,Natus Vincere,atk,boom
+429392,196108,3,FNATIC,Natus Vincere,atk,boom
+429392,196108,4,FNATIC,Natus Vincere,atk,elim
+429392,196108,5,Natus Vincere,FNATIC,def,defuse
+429392,196108,6,FNATIC,Natus Vincere,atk,boom
+429392,196108,7,Natus Vincere,FNATIC,def,elim
+429392,196108,8,Natus Vincere,FNATIC,def,elim
+429392,196108,9,FNATIC,Natus Vincere,atk,boom
+429392,196108,10,FNATIC,Natus Vincere,atk,boom
+429392,196108,11,FNATIC,Natus Vincere,atk,elim
+429392,196108,12,FNATIC,Natus Vincere,atk,elim
+429392,196108,13,Natus Vincere,FNATIC,atk,elim
+429392,196108,14,Natus Vincere,FNATIC,atk,elim
+429392,196108,15,FNATIC,Natus Vincere,def,defuse
+429392,196108,16,Natus Vincere,FNATIC,atk,elim
+429392,196108,17,Natus Vincere,FNATIC,atk,elim
+429392,196108,18,Natus Vincere,FNATIC,atk,elim
+429392,196108,19,Natus Vincere,FNATIC,atk,elim
+429392,196108,20,FNATIC,Natus Vincere,def,defuse
+429392,196108,21,FNATIC,Natus Vincere,def,elim
+429392,196108,22,FNATIC,Natus Vincere,def,defuse
+429392,196109,1,FNATIC,Natus Vincere,def,defuse
+429392,196109,2,FNATIC,Natus Vincere,def,elim
+429392,196109,3,FNATIC,Natus Vincere,def,defuse
+429392,196109,4,Natus Vincere,FNATIC,atk,elim
+429392,196109,5,Natus Vincere,FNATIC,atk,boom
+429392,196109,6,Natus Vincere,FNATIC,atk,elim
+429392,196109,7,FNATIC,Natus Vincere,def,elim
+429392,196109,8,FNATIC,Natus Vincere,def,elim
+429392,196109,9,FNATIC,Natus Vincere,def,defuse
+429392,196109,10,Natus Vincere,FNATIC,atk,elim
+429392,196109,11,Natus Vincere,FNATIC,atk,boom
+429392,196109,12,Natus Vincere,FNATIC,atk,elim
+429392,196109,13,Natus Vincere,FNATIC,def,defuse
+429392,196109,14,Natus Vincere,FNATIC,def,defuse
+429392,196109,15,FNATIC,Natus Vincere,atk,elim
+429392,196109,16,Natus Vincere,FNATIC,def,defuse
+429392,196109,17,Natus Vincere,FNATIC,def,elim
+429392,196109,18,Natus Vincere,FNATIC,def,time
+429392,196109,19,FNATIC,Natus Vincere,atk,elim
+429392,196109,20,Natus Vincere,FNATIC,def,elim
+429392,196109,21,Natus Vincere,FNATIC,def,elim
+429392,196110,1,Natus Vincere,FNATIC,def,defuse
+429392,196110,2,Natus Vincere,FNATIC,def,defuse
+429392,196110,3,FNATIC,Natus Vincere,atk,elim
+429392,196110,4,FNATIC,Natus Vincere,atk,elim
+429392,196110,5,FNATIC,Natus Vincere,atk,elim
+429392,196110,6,Natus Vincere,FNATIC,def,defuse
+429392,196110,7,Natus Vincere,FNATIC,def,defuse
+429392,196110,8,FNATIC,Natus Vincere,atk,boom
+429392,196110,9,Natus Vincere,FNATIC,def,defuse
+429392,196110,10,Natus Vincere,FNATIC,def,elim
+429392,196110,11,Natus Vincere,FNATIC,def,defuse
+429392,196110,12,Natus Vincere,FNATIC,def,defuse
+429392,196110,13,Natus Vincere,FNATIC,atk,elim
+429392,196110,14,FNATIC,Natus Vincere,def,defuse
+429392,196110,15,Natus Vincere,FNATIC,atk,elim
+429392,196110,16,Natus Vincere,FNATIC,atk,elim
+429392,196110,17,FNATIC,Natus Vincere,def,defuse
+429392,196110,18,FNATIC,Natus Vincere,def,defuse
+429392,196110,19,FNATIC,Natus Vincere,def,elim
+429392,196110,20,FNATIC,Natus Vincere,def,defuse
+429392,196110,21,FNATIC,Natus Vincere,def,defuse
+429392,196110,22,Natus Vincere,FNATIC,atk,elim
+429392,196110,23,FNATIC,Natus Vincere,def,elim
+429392,196110,24,FNATIC,Natus Vincere,def,elim
+429392,196110,25,FNATIC,Natus Vincere,atk,elim
+429392,196110,26,Natus Vincere,FNATIC,atk,elim
+429392,196110,27,FNATIC,Natus Vincere,atk,elim
+429392,196110,28,FNATIC,Natus Vincere,def,defuse
+429393,196111,1,Karmine Corp,GIANTX,atk,elim
+429393,196111,2,Karmine Corp,GIANTX,atk,elim
+429393,196111,3,GIANTX,Karmine Corp,def,elim
+429393,196111,4,Karmine Corp,GIANTX,atk,boom
+429393,196111,5,Karmine Corp,GIANTX,atk,elim
+429393,196111,6,Karmine Corp,GIANTX,atk,elim
+429393,196111,7,GIANTX,Karmine Corp,def,defuse
+429393,196111,8,GIANTX,Karmine Corp,def,elim
+429393,196111,9,GIANTX,Karmine Corp,def,time
+429393,196111,10,Karmine Corp,GIANTX,atk,elim
+429393,196111,11,GIANTX,Karmine Corp,def,time
+429393,196111,12,Karmine Corp,GIANTX,atk,elim
+429393,196111,13,Karmine Corp,GIANTX,def,defuse
+429393,196111,14,Karmine Corp,GIANTX,def,defuse
+429393,196111,15,GIANTX,Karmine Corp,atk,elim
+429393,196111,16,GIANTX,Karmine Corp,atk,elim
+429393,196111,17,GIANTX,Karmine Corp,atk,elim
+429393,196111,18,Karmine Corp,GIANTX,def,elim
+429393,196111,19,GIANTX,Karmine Corp,atk,boom
+429393,196111,20,GIANTX,Karmine Corp,atk,elim
+429393,196111,21,GIANTX,Karmine Corp,atk,boom
+429393,196111,22,GIANTX,Karmine Corp,atk,elim
+429393,196111,23,Karmine Corp,GIANTX,def,time
+429393,196111,24,Karmine Corp,GIANTX,def,defuse
+429393,196111,25,Karmine Corp,GIANTX,atk,elim
+429393,196111,26,Karmine Corp,GIANTX,def,elim
+429393,196112,1,Karmine Corp,GIANTX,atk,elim
+429393,196112,2,GIANTX,Karmine Corp,def,defuse
+429393,196112,3,GIANTX,Karmine Corp,def,defuse
+429393,196112,4,GIANTX,Karmine Corp,def,elim
+429393,196112,5,GIANTX,Karmine Corp,def,elim
+429393,196112,6,Karmine Corp,GIANTX,atk,elim
+429393,196112,7,Karmine Corp,GIANTX,atk,elim
+429393,196112,8,GIANTX,Karmine Corp,def,elim
+429393,196112,9,GIANTX,Karmine Corp,def,elim
+429393,196112,10,GIANTX,Karmine Corp,def,elim
+429393,196112,11,Karmine Corp,GIANTX,atk,boom
+429393,196112,12,Karmine Corp,GIANTX,atk,elim
+429393,196112,13,GIANTX,Karmine Corp,atk,elim
+429393,196112,14,GIANTX,Karmine Corp,atk,boom
+429393,196112,15,GIANTX,Karmine Corp,atk,boom
+429393,196112,16,Karmine Corp,GIANTX,def,defuse
+429393,196112,17,Karmine Corp,GIANTX,def,defuse
+429393,196112,18,GIANTX,Karmine Corp,atk,elim
+429393,196112,19,GIANTX,Karmine Corp,atk,boom
+429393,196112,20,Karmine Corp,GIANTX,def,elim
+429393,196112,21,GIANTX,Karmine Corp,atk,elim
+429393,196113,1,Karmine Corp,GIANTX,def,defuse
+429393,196113,2,Karmine Corp,GIANTX,def,defuse
+429393,196113,3,GIANTX,Karmine Corp,atk,boom
+429393,196113,4,GIANTX,Karmine Corp,atk,elim
+429393,196113,5,GIANTX,Karmine Corp,atk,elim
+429393,196113,6,Karmine Corp,GIANTX,def,elim
+429393,196113,7,GIANTX,Karmine Corp,atk,elim
+429393,196113,8,GIANTX,Karmine Corp,atk,elim
+429393,196113,9,GIANTX,Karmine Corp,atk,elim
+429393,196113,10,GIANTX,Karmine Corp,atk,boom
+429393,196113,11,Karmine Corp,GIANTX,def,defuse
+429393,196113,12,GIANTX,Karmine Corp,atk,elim
+429393,196113,13,Karmine Corp,GIANTX,atk,elim
+429393,196113,14,Karmine Corp,GIANTX,atk,elim
+429393,196113,15,Karmine Corp,GIANTX,atk,boom
+429393,196113,16,Karmine Corp,GIANTX,atk,elim
+429393,196113,17,Karmine Corp,GIANTX,atk,elim
+429393,196113,18,GIANTX,Karmine Corp,def,elim
+429393,196113,19,GIANTX,Karmine Corp,def,defuse
+429393,196113,20,Karmine Corp,GIANTX,atk,elim
+429393,196113,21,GIANTX,Karmine Corp,def,defuse
+429393,196113,22,GIANTX,Karmine Corp,def,elim
+429393,196113,23,GIANTX,Karmine Corp,def,elim
+429394,196114,1,Apeks,Team Liquid,atk,elim
+429394,196114,2,Apeks,Team Liquid,atk,boom
+429394,196114,3,Team Liquid,Apeks,def,defuse
+429394,196114,4,Apeks,Team Liquid,atk,elim
+429394,196114,5,Apeks,Team Liquid,atk,elim
+429394,196114,6,Team Liquid,Apeks,def,defuse
+429394,196114,7,Team Liquid,Apeks,def,elim
+429394,196114,8,Team Liquid,Apeks,def,elim
+429394,196114,9,Apeks,Team Liquid,atk,elim
+429394,196114,10,Team Liquid,Apeks,def,defuse
+429394,196114,11,Team Liquid,Apeks,def,defuse
+429394,196114,12,Apeks,Team Liquid,atk,elim
+429394,196114,13,Team Liquid,Apeks,atk,elim
+429394,196114,14,Team Liquid,Apeks,atk,elim
+429394,196114,15,Apeks,Team Liquid,def,defuse
+429394,196114,16,Team Liquid,Apeks,atk,elim
+429394,196114,17,Team Liquid,Apeks,atk,elim
+429394,196114,18,Team Liquid,Apeks,atk,elim
+429394,196114,19,Team Liquid,Apeks,atk,elim
+429394,196114,20,Apeks,Team Liquid,def,elim
+429394,196114,21,Apeks,Team Liquid,def,elim
+429394,196114,22,Team Liquid,Apeks,atk,elim
+429394,196115,1,Apeks,Team Liquid,def,elim
+429394,196115,2,Apeks,Team Liquid,def,defuse
+429394,196115,3,Apeks,Team Liquid,def,defuse
+429394,196115,4,Apeks,Team Liquid,def,elim
+429394,196115,5,Apeks,Team Liquid,def,defuse
+429394,196115,6,Apeks,Team Liquid,def,defuse
+429394,196115,7,Apeks,Team Liquid,def,defuse
+429394,196115,8,Apeks,Team Liquid,def,elim
+429394,196115,9,Team Liquid,Apeks,atk,elim
+429394,196115,10,Team Liquid,Apeks,atk,elim
+429394,196115,11,Team Liquid,Apeks,atk,elim
+429394,196115,12,Apeks,Team Liquid,def,defuse
+429394,196115,13,Apeks,Team Liquid,atk,elim
+429394,196115,14,Apeks,Team Liquid,atk,elim
+429394,196115,15,Team Liquid,Apeks,def,elim
+429394,196115,16,Team Liquid,Apeks,def,defuse
+429394,196115,17,Team Liquid,Apeks,def,elim
+429394,196115,18,Team Liquid,Apeks,def,time
+429394,196115,19,Team Liquid,Apeks,def,elim
+429394,196115,20,Apeks,Team Liquid,atk,elim
+429394,196115,21,Team Liquid,Apeks,def,elim
+429394,196115,22,Team Liquid,Apeks,def,elim
+429394,196115,23,Team Liquid,Apeks,def,elim
+429394,196115,24,Apeks,Team Liquid,atk,elim
+429394,196116,1,Team Liquid,Apeks,def,elim
+429394,196116,2,Team Liquid,Apeks,def,elim
+429394,196116,3,Team Liquid,Apeks,def,defuse
+429394,196116,4,Apeks,Team Liquid,atk,elim
+429394,196116,5,Team Liquid,Apeks,def,defuse
+429394,196116,6,Team Liquid,Apeks,def,elim
+429394,196116,7,Team Liquid,Apeks,def,elim
+429394,196116,8,Team Liquid,Apeks,def,elim
+429394,196116,9,Team Liquid,Apeks,def,elim
+429394,196116,10,Apeks,Team Liquid,atk,boom
+429394,196116,11,Apeks,Team Liquid,atk,elim
+429394,196116,12,Team Liquid,Apeks,def,elim
+429394,196116,13,Team Liquid,Apeks,atk,elim
+429394,196116,14,Team Liquid,Apeks,atk,elim
+429394,196116,15,Apeks,Team Liquid,def,elim
+429394,196116,16,Apeks,Team Liquid,def,elim
+429394,196116,17,Apeks,Team Liquid,def,elim
+429394,196116,18,Team Liquid,Apeks,atk,elim
+429394,196116,19,Team Liquid,Apeks,atk,elim
+429395,196117,1,FNATIC,Gentle Mates,atk,elim
+429395,196117,2,FNATIC,Gentle Mates,atk,elim
+429395,196117,3,FNATIC,Gentle Mates,atk,boom
+429395,196117,4,FNATIC,Gentle Mates,atk,boom
+429395,196117,5,FNATIC,Gentle Mates,atk,boom
+429395,196117,6,FNATIC,Gentle Mates,atk,boom
+429395,196117,7,FNATIC,Gentle Mates,atk,boom
+429395,196117,8,FNATIC,Gentle Mates,atk,elim
+429395,196117,9,FNATIC,Gentle Mates,atk,elim
+429395,196117,10,FNATIC,Gentle Mates,atk,elim
+429395,196117,11,FNATIC,Gentle Mates,atk,elim
+429395,196117,12,Gentle Mates,FNATIC,def,elim
+429395,196117,13,Gentle Mates,FNATIC,atk,elim
+429395,196117,14,Gentle Mates,FNATIC,atk,elim
+429395,196117,15,Gentle Mates,FNATIC,atk,boom
+429395,196117,16,Gentle Mates,FNATIC,atk,elim
+429395,196117,17,FNATIC,Gentle Mates,def,defuse
+429395,196117,18,FNATIC,Gentle Mates,def,defuse
+429395,196118,1,Gentle Mates,FNATIC,def,elim
+429395,196118,2,Gentle Mates,FNATIC,def,defuse
+429395,196118,3,FNATIC,Gentle Mates,atk,elim
+429395,196118,4,FNATIC,Gentle Mates,atk,elim
+429395,196118,5,FNATIC,Gentle Mates,atk,boom
+429395,196118,6,FNATIC,Gentle Mates,atk,boom
+429395,196118,7,FNATIC,Gentle Mates,atk,boom
+429395,196118,8,Gentle Mates,FNATIC,def,elim
+429395,196118,9,Gentle Mates,FNATIC,def,elim
+429395,196118,10,FNATIC,Gentle Mates,atk,elim
+429395,196118,11,Gentle Mates,FNATIC,def,defuse
+429395,196118,12,FNATIC,Gentle Mates,atk,elim
+429395,196118,13,FNATIC,Gentle Mates,def,defuse
+429395,196118,14,FNATIC,Gentle Mates,def,defuse
+429395,196118,15,FNATIC,Gentle Mates,def,defuse
+429395,196118,16,FNATIC,Gentle Mates,def,defuse
+429395,196118,17,Gentle Mates,FNATIC,atk,elim
+429395,196118,18,FNATIC,Gentle Mates,def,elim
+429395,196118,19,FNATIC,Gentle Mates,def,elim
+429396,196120,1,Team Liquid,GIANTX,atk,elim
+429396,196120,2,Team Liquid,GIANTX,atk,elim
+429396,196120,3,Team Liquid,GIANTX,atk,elim
+429396,196120,4,Team Liquid,GIANTX,atk,elim
+429396,196120,5,GIANTX,Team Liquid,def,elim
+429396,196120,6,GIANTX,Team Liquid,def,time
+429396,196120,7,GIANTX,Team Liquid,def,defuse
+429396,196120,8,Team Liquid,GIANTX,atk,elim
+429396,196120,9,Team Liquid,GIANTX,atk,elim
+429396,196120,10,GIANTX,Team Liquid,def,defuse
+429396,196120,11,Team Liquid,GIANTX,atk,elim
+429396,196120,12,Team Liquid,GIANTX,atk,elim
+429396,196120,13,Team Liquid,GIANTX,def,defuse
+429396,196120,14,Team Liquid,GIANTX,def,elim
+429396,196120,15,GIANTX,Team Liquid,atk,elim
+429396,196120,16,GIANTX,Team Liquid,atk,elim
+429396,196120,17,Team Liquid,GIANTX,def,elim
+429396,196120,18,Team Liquid,GIANTX,def,elim
+429396,196120,19,GIANTX,Team Liquid,atk,elim
+429396,196120,20,GIANTX,Team Liquid,atk,elim
+429396,196120,21,Team Liquid,GIANTX,def,defuse
+429396,196121,1,Team Liquid,GIANTX,atk,elim
+429396,196121,2,Team Liquid,GIANTX,atk,elim
+429396,196121,3,Team Liquid,GIANTX,atk,elim
+429396,196121,4,Team Liquid,GIANTX,atk,elim
+429396,196121,5,Team Liquid,GIANTX,atk,elim
+429396,196121,6,Team Liquid,GIANTX,atk,elim
+429396,196121,7,Team Liquid,GIANTX,atk,elim
+429396,196121,8,GIANTX,Team Liquid,def,elim
+429396,196121,9,GIANTX,Team Liquid,def,defuse
+429396,196121,10,Team Liquid,GIANTX,atk,elim
+429396,196121,11,GIANTX,Team Liquid,def,time
+429396,196121,12,GIANTX,Team Liquid,def,elim
+429396,196121,13,GIANTX,Team Liquid,atk,elim
+429396,196121,14,Team Liquid,GIANTX,def,defuse
+429396,196121,15,Team Liquid,GIANTX,def,defuse
+429396,196121,16,Team Liquid,GIANTX,def,time
+429396,196121,17,GIANTX,Team Liquid,atk,boom
+429396,196121,18,Team Liquid,GIANTX,def,defuse
+429396,196121,19,Team Liquid,GIANTX,def,elim
+429397,196123,1,FUT Esports,FNATIC,def,defuse
+429397,196123,2,FUT Esports,FNATIC,def,elim
+429397,196123,3,FNATIC,FUT Esports,atk,elim
+429397,196123,4,FNATIC,FUT Esports,atk,boom
+429397,196123,5,FNATIC,FUT Esports,atk,elim
+429397,196123,6,FUT Esports,FNATIC,def,time
+429397,196123,7,FNATIC,FUT Esports,atk,boom
+429397,196123,8,FNATIC,FUT Esports,atk,elim
+429397,196123,9,FNATIC,FUT Esports,atk,elim
+429397,196123,10,FUT Esports,FNATIC,def,defuse
+429397,196123,11,FNATIC,FUT Esports,atk,elim
+429397,196123,12,FUT Esports,FNATIC,def,elim
+429397,196123,13,FUT Esports,FNATIC,atk,elim
+429397,196123,14,FUT Esports,FNATIC,atk,elim
+429397,196123,15,FNATIC,FUT Esports,def,defuse
+429397,196123,16,FNATIC,FUT Esports,def,defuse
+429397,196123,17,FNATIC,FUT Esports,def,elim
+429397,196123,18,FUT Esports,FNATIC,atk,boom
+429397,196123,19,FUT Esports,FNATIC,atk,elim
+429397,196123,20,FUT Esports,FNATIC,atk,elim
+429397,196123,21,FUT Esports,FNATIC,atk,elim
+429397,196123,22,FUT Esports,FNATIC,atk,elim
+429397,196123,23,FUT Esports,FNATIC,atk,elim
+429397,196124,1,FUT Esports,FNATIC,atk,boom
+429397,196124,2,FNATIC,FUT Esports,def,defuse
+429397,196124,3,FNATIC,FUT Esports,def,defuse
+429397,196124,4,FUT Esports,FNATIC,atk,boom
+429397,196124,5,FUT Esports,FNATIC,atk,boom
+429397,196124,6,FNATIC,FUT Esports,def,defuse
+429397,196124,7,FNATIC,FUT Esports,def,defuse
+429397,196124,8,FNATIC,FUT Esports,def,elim
+429397,196124,9,FUT Esports,FNATIC,atk,elim
+429397,196124,10,FUT Esports,FNATIC,atk,elim
+429397,196124,11,FUT Esports,FNATIC,atk,elim
+429397,196124,12,FNATIC,FUT Esports,def,defuse
+429397,196124,13,FUT Esports,FNATIC,def,defuse
+429397,196124,14,FUT Esports,FNATIC,def,elim
+429397,196124,15,FUT Esports,FNATIC,def,elim
+429397,196124,16,FUT Esports,FNATIC,def,elim
+429397,196124,17,FUT Esports,FNATIC,def,defuse
+429397,196124,18,FUT Esports,FNATIC,def,elim
+429397,196124,19,FUT Esports,FNATIC,def,elim
+429398,196126,1,Team Liquid,BBL Esports,atk,elim
+429398,196126,2,BBL Esports,Team Liquid,def,defuse
+429398,196126,3,Team Liquid,BBL Esports,atk,elim
+429398,196126,4,Team Liquid,BBL Esports,atk,elim
+429398,196126,5,Team Liquid,BBL Esports,atk,elim
+429398,196126,6,BBL Esports,Team Liquid,def,defuse
+429398,196126,7,Team Liquid,BBL Esports,atk,boom
+429398,196126,8,Team Liquid,BBL Esports,atk,boom
+429398,196126,9,BBL Esports,Team Liquid,def,elim
+429398,196126,10,BBL Esports,Team Liquid,def,defuse
+429398,196126,11,Team Liquid,BBL Esports,atk,elim
+429398,196126,12,Team Liquid,BBL Esports,atk,elim
+429398,196126,13,BBL Esports,Team Liquid,atk,elim
+429398,196126,14,BBL Esports,Team Liquid,atk,elim
+429398,196126,15,BBL Esports,Team Liquid,atk,boom
+429398,196126,16,Team Liquid,BBL Esports,def,defuse
+429398,196126,17,BBL Esports,Team Liquid,atk,boom
+429398,196126,18,Team Liquid,BBL Esports,def,elim
+429398,196126,19,Team Liquid,BBL Esports,def,defuse
+429398,196126,20,BBL Esports,Team Liquid,atk,elim
+429398,196126,21,BBL Esports,Team Liquid,atk,elim
+429398,196126,22,BBL Esports,Team Liquid,atk,elim
+429398,196126,23,Team Liquid,BBL Esports,def,defuse
+429398,196126,24,Team Liquid,BBL Esports,def,elim
+429398,196127,1,BBL Esports,Team Liquid,atk,elim
+429398,196127,2,BBL Esports,Team Liquid,atk,elim
+429398,196127,3,Team Liquid,BBL Esports,def,defuse
+429398,196127,4,Team Liquid,BBL Esports,def,elim
+429398,196127,5,Team Liquid,BBL Esports,def,defuse
+429398,196127,6,BBL Esports,Team Liquid,atk,elim
+429398,196127,7,BBL Esports,Team Liquid,atk,elim
+429398,196127,8,BBL Esports,Team Liquid,atk,elim
+429398,196127,9,BBL Esports,Team Liquid,atk,elim
+429398,196127,10,BBL Esports,Team Liquid,atk,boom
+429398,196127,11,BBL Esports,Team Liquid,atk,elim
+429398,196127,12,BBL Esports,Team Liquid,atk,elim
+429398,196127,13,BBL Esports,Team Liquid,def,defuse
+429398,196127,14,Team Liquid,BBL Esports,atk,elim
+429398,196127,15,Team Liquid,BBL Esports,atk,elim
+429398,196127,16,BBL Esports,Team Liquid,def,elim
+429398,196127,17,Team Liquid,BBL Esports,atk,boom
+429398,196127,18,Team Liquid,BBL Esports,atk,elim
+429398,196127,19,BBL Esports,Team Liquid,def,defuse
+429398,196127,20,Team Liquid,BBL Esports,atk,boom
+429398,196127,21,Team Liquid,BBL Esports,atk,elim
+429398,196127,22,BBL Esports,Team Liquid,def,defuse
+429398,196128,1,BBL Esports,Team Liquid,def,elim
+429398,196128,2,BBL Esports,Team Liquid,def,elim
+429398,196128,3,Team Liquid,BBL Esports,atk,elim
+429398,196128,4,Team Liquid,BBL Esports,atk,boom
+429398,196128,5,Team Liquid,BBL Esports,atk,elim
+429398,196128,6,Team Liquid,BBL Esports,atk,elim
+429398,196128,7,BBL Esports,Team Liquid,def,defuse
+429398,196128,8,BBL Esports,Team Liquid,def,elim
+429398,196128,9,BBL Esports,Team Liquid,def,defuse
+429398,196128,10,Team Liquid,BBL Esports,atk,elim
+429398,196128,11,Team Liquid,BBL Esports,atk,boom
+429398,196128,12,BBL Esports,Team Liquid,def,elim
+429398,196128,13,BBL Esports,Team Liquid,atk,elim
+429398,196128,14,BBL Esports,Team Liquid,atk,elim
+429398,196128,15,BBL Esports,Team Liquid,atk,elim
+429398,196128,16,BBL Esports,Team Liquid,atk,elim
+429398,196128,17,Team Liquid,BBL Esports,def,elim
+429398,196128,18,Team Liquid,BBL Esports,def,defuse
+429398,196128,19,Team Liquid,BBL Esports,def,defuse
+429398,196128,20,Team Liquid,BBL Esports,def,defuse
+429398,196128,21,Team Liquid,BBL Esports,def,elim
+429398,196128,22,Team Liquid,BBL Esports,def,defuse
+429398,196128,23,Team Liquid,BBL Esports,def,defuse
+429400,196129,1,Team Liquid,FUT Esports,atk,elim
+429400,196129,2,Team Liquid,FUT Esports,atk,elim
+429400,196129,3,FUT Esports,Team Liquid,def,defuse
+429400,196129,4,Team Liquid,FUT Esports,atk,elim
+429400,196129,5,Team Liquid,FUT Esports,atk,elim
+429400,196129,6,FUT Esports,Team Liquid,def,defuse
+429400,196129,7,Team Liquid,FUT Esports,atk,elim
+429400,196129,8,FUT Esports,Team Liquid,def,defuse
+429400,196129,9,Team Liquid,FUT Esports,atk,boom
+429400,196129,10,Team Liquid,FUT Esports,atk,elim
+429400,196129,11,Team Liquid,FUT Esports,atk,elim
+429400,196129,12,FUT Esports,Team Liquid,def,elim
+429400,196129,13,Team Liquid,FUT Esports,def,elim
+429400,196129,14,Team Liquid,FUT Esports,def,defuse
+429400,196129,15,FUT Esports,Team Liquid,atk,elim
+429400,196129,16,FUT Esports,Team Liquid,atk,boom
+429400,196129,17,Team Liquid,FUT Esports,def,elim
+429400,196129,18,Team Liquid,FUT Esports,def,defuse
+429400,196129,19,FUT Esports,Team Liquid,atk,elim
+429400,196129,20,Team Liquid,FUT Esports,def,defuse
+429400,196130,1,Team Liquid,FUT Esports,def,elim
+429400,196130,2,Team Liquid,FUT Esports,def,elim
+429400,196130,3,FUT Esports,Team Liquid,atk,elim
+429400,196130,4,FUT Esports,Team Liquid,atk,boom
+429400,196130,5,FUT Esports,Team Liquid,atk,boom
+429400,196130,6,Team Liquid,FUT Esports,def,time
+429400,196130,7,FUT Esports,Team Liquid,atk,boom
+429400,196130,8,Team Liquid,FUT Esports,def,elim
+429400,196130,9,FUT Esports,Team Liquid,atk,elim
+429400,196130,10,FUT Esports,Team Liquid,atk,elim
+429400,196130,11,FUT Esports,Team Liquid,atk,elim
+429400,196130,12,Team Liquid,FUT Esports,def,elim
+429400,196130,13,FUT Esports,Team Liquid,def,defuse
+429400,196130,14,FUT Esports,Team Liquid,def,elim
+429400,196130,15,Team Liquid,FUT Esports,atk,elim
+429400,196130,16,Team Liquid,FUT Esports,atk,elim
+429400,196130,17,Team Liquid,FUT Esports,atk,boom
+429400,196130,18,Team Liquid,FUT Esports,atk,elim
+429400,196130,19,FUT Esports,Team Liquid,def,elim
+429400,196130,20,Team Liquid,FUT Esports,atk,boom
+429400,196130,21,Team Liquid,FUT Esports,atk,elim
+429400,196130,22,FUT Esports,Team Liquid,def,elim
+429400,196130,23,FUT Esports,Team Liquid,def,elim
+429400,196130,24,FUT Esports,Team Liquid,def,defuse
+429400,196131,1,FUT Esports,Team Liquid,atk,elim
+429400,196131,2,Team Liquid,FUT Esports,def,defuse
+429400,196131,3,Team Liquid,FUT Esports,def,elim
+429400,196131,4,FUT Esports,Team Liquid,atk,elim
+429400,196131,5,Team Liquid,FUT Esports,def,defuse
+429400,196131,6,Team Liquid,FUT Esports,def,defuse
+429400,196131,7,Team Liquid,FUT Esports,def,defuse
+429400,196131,8,Team Liquid,FUT Esports,def,defuse
+429400,196131,9,FUT Esports,Team Liquid,atk,elim
+429400,196131,10,FUT Esports,Team Liquid,atk,boom
+429400,196131,11,Team Liquid,FUT Esports,def,time
+429400,196131,12,Team Liquid,FUT Esports,def,elim
+429400,196131,13,Team Liquid,FUT Esports,atk,elim
+429400,196131,14,Team Liquid,FUT Esports,atk,elim
+429400,196131,15,Team Liquid,FUT Esports,atk,boom
+429400,196131,16,Team Liquid,FUT Esports,atk,elim
+429400,196131,17,Team Liquid,FUT Esports,atk,elim
+429401,196132,1,Team Liquid,Team Heretics,def,elim
+429401,196132,2,Team Liquid,Team Heretics,def,elim
+429401,196132,3,Team Liquid,Team Heretics,def,elim
+429401,196132,4,Team Liquid,Team Heretics,def,defuse
+429401,196132,5,Team Heretics,Team Liquid,atk,elim
+429401,196132,6,Team Liquid,Team Heretics,def,elim
+429401,196132,7,Team Liquid,Team Heretics,def,elim
+429401,196132,8,Team Heretics,Team Liquid,atk,elim
+429401,196132,9,Team Liquid,Team Heretics,def,elim
+429401,196132,10,Team Liquid,Team Heretics,def,elim
+429401,196132,11,Team Liquid,Team Heretics,def,elim
+429401,196132,12,Team Heretics,Team Liquid,atk,elim
+429401,196132,13,Team Liquid,Team Heretics,atk,elim
+429401,196132,14,Team Liquid,Team Heretics,atk,elim
+429401,196132,15,Team Heretics,Team Liquid,def,elim
+429401,196132,16,Team Liquid,Team Heretics,atk,elim
+429401,196132,17,Team Liquid,Team Heretics,atk,elim
+429401,196133,1,Team Heretics,Team Liquid,atk,elim
+429401,196133,2,Team Liquid,Team Heretics,def,elim
+429401,196133,3,Team Liquid,Team Heretics,def,elim
+429401,196133,4,Team Liquid,Team Heretics,def,elim
+429401,196133,5,Team Liquid,Team Heretics,def,elim
+429401,196133,6,Team Liquid,Team Heretics,def,time
+429401,196133,7,Team Heretics,Team Liquid,atk,elim
+429401,196133,8,Team Liquid,Team Heretics,def,defuse
+429401,196133,9,Team Liquid,Team Heretics,def,elim
+429401,196133,10,Team Liquid,Team Heretics,def,defuse
+429401,196133,11,Team Heretics,Team Liquid,atk,elim
+429401,196133,12,Team Heretics,Team Liquid,atk,elim
+429401,196133,13,Team Liquid,Team Heretics,atk,elim
+429401,196133,14,Team Liquid,Team Heretics,atk,elim
+429401,196133,15,Team Liquid,Team Heretics,atk,elim
+429401,196133,16,Team Liquid,Team Heretics,atk,elim
+429401,196133,17,Team Liquid,Team Heretics,atk,elim
+429401,196134,1,Team Liquid,Team Heretics,atk,elim
+429401,196134,2,Team Liquid,Team Heretics,atk,elim
+429401,196134,3,Team Heretics,Team Liquid,def,elim
+429401,196134,4,Team Heretics,Team Liquid,def,elim
+429401,196134,5,Team Heretics,Team Liquid,def,elim
+429401,196134,6,Team Liquid,Team Heretics,atk,elim
+429401,196134,7,Team Heretics,Team Liquid,def,elim
+429401,196134,8,Team Liquid,Team Heretics,atk,elim
+429401,196134,9,Team Liquid,Team Heretics,atk,elim
+429401,196134,10,Team Liquid,Team Heretics,atk,elim
+429401,196134,11,Team Liquid,Team Heretics,atk,elim
+429401,196134,12,Team Liquid,Team Heretics,atk,elim
+429401,196134,13,Team Liquid,Team Heretics,def,elim
+429401,196134,14,Team Liquid,Team Heretics,def,elim
+429401,196134,15,Team Liquid,Team Heretics,def,defuse
+429401,196134,16,Team Liquid,Team Heretics,def,elim
+429401,196134,17,Team Heretics,Team Liquid,atk,elim
+429401,196134,18,Team Heretics,Team Liquid,atk,elim
+429401,196134,19,Team Heretics,Team Liquid,atk,boom
+429401,196134,20,Team Liquid,Team Heretics,def,time

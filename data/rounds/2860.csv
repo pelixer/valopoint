@@ -1,0 +1,2214 @@
+match_id,game_id,round,winner,loser,win_side,how
+645474,258575,1,Sentinels,KRÜ Esports,atk,elim
+645474,258575,2,KRÜ Esports,Sentinels,def,defuse
+645474,258575,3,KRÜ Esports,Sentinels,def,elim
+645474,258575,4,Sentinels,KRÜ Esports,atk,elim
+645474,258575,5,KRÜ Esports,Sentinels,def,time
+645474,258575,6,KRÜ Esports,Sentinels,def,elim
+645474,258575,7,KRÜ Esports,Sentinels,def,elim
+645474,258575,8,KRÜ Esports,Sentinels,def,elim
+645474,258575,9,Sentinels,KRÜ Esports,atk,elim
+645474,258575,10,KRÜ Esports,Sentinels,def,defuse
+645474,258575,11,KRÜ Esports,Sentinels,def,elim
+645474,258575,12,Sentinels,KRÜ Esports,atk,elim
+645474,258575,13,KRÜ Esports,Sentinels,atk,elim
+645474,258575,14,KRÜ Esports,Sentinels,atk,elim
+645474,258575,15,Sentinels,KRÜ Esports,def,elim
+645474,258575,16,KRÜ Esports,Sentinels,atk,elim
+645474,258575,17,KRÜ Esports,Sentinels,atk,elim
+645474,258575,18,Sentinels,KRÜ Esports,def,elim
+645474,258575,19,Sentinels,KRÜ Esports,def,time
+645474,258575,20,Sentinels,KRÜ Esports,def,defuse
+645474,258575,21,KRÜ Esports,Sentinels,atk,elim
+645474,258576,1,KRÜ Esports,Sentinels,def,defuse
+645474,258576,2,KRÜ Esports,Sentinels,def,defuse
+645474,258576,3,KRÜ Esports,Sentinels,def,defuse
+645474,258576,4,Sentinels,KRÜ Esports,atk,elim
+645474,258576,5,Sentinels,KRÜ Esports,atk,elim
+645474,258576,6,Sentinels,KRÜ Esports,atk,boom
+645474,258576,7,Sentinels,KRÜ Esports,atk,boom
+645474,258576,8,Sentinels,KRÜ Esports,atk,elim
+645474,258576,9,KRÜ Esports,Sentinels,def,defuse
+645474,258576,10,KRÜ Esports,Sentinels,def,elim
+645474,258576,11,KRÜ Esports,Sentinels,def,elim
+645474,258576,12,KRÜ Esports,Sentinels,def,elim
+645474,258576,13,KRÜ Esports,Sentinels,atk,elim
+645474,258576,14,KRÜ Esports,Sentinels,atk,elim
+645474,258576,15,Sentinels,KRÜ Esports,def,elim
+645474,258576,16,KRÜ Esports,Sentinels,atk,elim
+645474,258576,17,Sentinels,KRÜ Esports,def,defuse
+645474,258576,18,Sentinels,KRÜ Esports,def,time
+645474,258576,19,KRÜ Esports,Sentinels,atk,elim
+645474,258576,20,Sentinels,KRÜ Esports,def,elim
+645474,258576,21,KRÜ Esports,Sentinels,atk,boom
+645474,258576,22,KRÜ Esports,Sentinels,atk,elim
+645475,258578,1,G2 Esports,MIBR,atk,elim
+645475,258578,2,G2 Esports,MIBR,atk,elim
+645475,258578,3,MIBR,G2 Esports,def,elim
+645475,258578,4,G2 Esports,MIBR,atk,elim
+645475,258578,5,G2 Esports,MIBR,atk,elim
+645475,258578,6,MIBR,G2 Esports,def,elim
+645475,258578,7,MIBR,G2 Esports,def,defuse
+645475,258578,8,MIBR,G2 Esports,def,elim
+645475,258578,9,G2 Esports,MIBR,atk,elim
+645475,258578,10,MIBR,G2 Esports,def,defuse
+645475,258578,11,MIBR,G2 Esports,def,elim
+645475,258578,12,G2 Esports,MIBR,atk,elim
+645475,258578,13,MIBR,G2 Esports,atk,elim
+645475,258578,14,MIBR,G2 Esports,atk,elim
+645475,258578,15,G2 Esports,MIBR,def,defuse
+645475,258578,16,MIBR,G2 Esports,atk,elim
+645475,258578,17,MIBR,G2 Esports,atk,boom
+645475,258578,18,MIBR,G2 Esports,atk,boom
+645475,258578,19,G2 Esports,MIBR,def,defuse
+645475,258578,20,MIBR,G2 Esports,atk,elim
+645475,258578,21,MIBR,G2 Esports,atk,elim
+645475,258579,1,MIBR,G2 Esports,def,defuse
+645475,258579,2,MIBR,G2 Esports,def,elim
+645475,258579,3,MIBR,G2 Esports,def,elim
+645475,258579,4,G2 Esports,MIBR,atk,elim
+645475,258579,5,G2 Esports,MIBR,atk,elim
+645475,258579,6,G2 Esports,MIBR,atk,elim
+645475,258579,7,G2 Esports,MIBR,atk,boom
+645475,258579,8,G2 Esports,MIBR,atk,elim
+645475,258579,9,G2 Esports,MIBR,atk,elim
+645475,258579,10,MIBR,G2 Esports,def,elim
+645475,258579,11,MIBR,G2 Esports,def,elim
+645475,258579,12,MIBR,G2 Esports,def,defuse
+645475,258579,13,G2 Esports,MIBR,def,elim
+645475,258579,14,G2 Esports,MIBR,def,elim
+645475,258579,15,MIBR,G2 Esports,atk,elim
+645475,258579,16,G2 Esports,MIBR,def,elim
+645475,258579,17,G2 Esports,MIBR,def,elim
+645475,258579,18,MIBR,G2 Esports,atk,elim
+645475,258579,19,MIBR,G2 Esports,atk,elim
+645475,258579,20,G2 Esports,MIBR,def,defuse
+645475,258579,21,MIBR,G2 Esports,atk,elim
+645475,258579,22,G2 Esports,MIBR,def,defuse
+645475,258579,23,MIBR,G2 Esports,atk,elim
+645475,258579,24,MIBR,G2 Esports,atk,elim
+645475,258579,25,MIBR,G2 Esports,def,defuse
+645475,258579,26,G2 Esports,MIBR,def,time
+645475,258579,27,MIBR,G2 Esports,def,elim
+645475,258579,28,G2 Esports,MIBR,def,elim
+645475,258579,29,MIBR,G2 Esports,def,elim
+645475,258579,30,MIBR,G2 Esports,atk,elim
+645476,258581,1,100 Thieves,Evil Geniuses,atk,elim
+645476,258581,2,100 Thieves,Evil Geniuses,atk,boom
+645476,258581,3,100 Thieves,Evil Geniuses,atk,boom
+645476,258581,4,Evil Geniuses,100 Thieves,def,defuse
+645476,258581,5,100 Thieves,Evil Geniuses,atk,boom
+645476,258581,6,100 Thieves,Evil Geniuses,atk,boom
+645476,258581,7,Evil Geniuses,100 Thieves,def,defuse
+645476,258581,8,Evil Geniuses,100 Thieves,def,elim
+645476,258581,9,Evil Geniuses,100 Thieves,def,elim
+645476,258581,10,Evil Geniuses,100 Thieves,def,elim
+645476,258581,11,100 Thieves,Evil Geniuses,atk,elim
+645476,258581,12,Evil Geniuses,100 Thieves,def,defuse
+645476,258581,13,Evil Geniuses,100 Thieves,atk,elim
+645476,258581,14,100 Thieves,Evil Geniuses,def,defuse
+645476,258581,15,100 Thieves,Evil Geniuses,def,elim
+645476,258581,16,100 Thieves,Evil Geniuses,def,elim
+645476,258581,17,100 Thieves,Evil Geniuses,def,defuse
+645476,258581,18,100 Thieves,Evil Geniuses,def,elim
+645476,258581,19,100 Thieves,Evil Geniuses,def,defuse
+645476,258581,20,Evil Geniuses,100 Thieves,atk,elim
+645476,258581,21,100 Thieves,Evil Geniuses,def,defuse
+645476,258582,1,100 Thieves,Evil Geniuses,atk,elim
+645476,258582,2,100 Thieves,Evil Geniuses,atk,elim
+645476,258582,3,100 Thieves,Evil Geniuses,atk,elim
+645476,258582,4,100 Thieves,Evil Geniuses,atk,elim
+645476,258582,5,Evil Geniuses,100 Thieves,def,defuse
+645476,258582,6,100 Thieves,Evil Geniuses,atk,elim
+645476,258582,7,100 Thieves,Evil Geniuses,atk,elim
+645476,258582,8,100 Thieves,Evil Geniuses,atk,elim
+645476,258582,9,Evil Geniuses,100 Thieves,def,defuse
+645476,258582,10,Evil Geniuses,100 Thieves,def,elim
+645476,258582,11,100 Thieves,Evil Geniuses,atk,elim
+645476,258582,12,100 Thieves,Evil Geniuses,atk,elim
+645476,258582,13,Evil Geniuses,100 Thieves,atk,elim
+645476,258582,14,100 Thieves,Evil Geniuses,def,defuse
+645476,258582,15,100 Thieves,Evil Geniuses,def,elim
+645476,258582,16,100 Thieves,Evil Geniuses,def,elim
+645476,258582,17,100 Thieves,Evil Geniuses,def,defuse
+645477,258584,1,ENVY,LOUD,def,defuse
+645477,258584,2,ENVY,LOUD,def,elim
+645477,258584,3,LOUD,ENVY,atk,elim
+645477,258584,4,ENVY,LOUD,def,defuse
+645477,258584,5,ENVY,LOUD,def,elim
+645477,258584,6,ENVY,LOUD,def,elim
+645477,258584,7,LOUD,ENVY,atk,elim
+645477,258584,8,ENVY,LOUD,def,elim
+645477,258584,9,ENVY,LOUD,def,elim
+645477,258584,10,LOUD,ENVY,atk,elim
+645477,258584,11,ENVY,LOUD,def,defuse
+645477,258584,12,ENVY,LOUD,def,elim
+645477,258584,13,ENVY,LOUD,atk,elim
+645477,258584,14,ENVY,LOUD,atk,elim
+645477,258584,15,LOUD,ENVY,def,elim
+645477,258584,16,LOUD,ENVY,def,defuse
+645477,258584,17,LOUD,ENVY,def,defuse
+645477,258584,18,LOUD,ENVY,def,defuse
+645477,258584,19,ENVY,LOUD,atk,elim
+645477,258584,20,LOUD,ENVY,def,elim
+645477,258584,21,LOUD,ENVY,def,defuse
+645477,258584,22,ENVY,LOUD,atk,elim
+645477,258585,1,ENVY,LOUD,def,elim
+645477,258585,2,LOUD,ENVY,atk,elim
+645477,258585,3,LOUD,ENVY,atk,elim
+645477,258585,4,LOUD,ENVY,atk,elim
+645477,258585,5,ENVY,LOUD,def,elim
+645477,258585,6,ENVY,LOUD,def,defuse
+645477,258585,7,ENVY,LOUD,def,elim
+645477,258585,8,LOUD,ENVY,atk,elim
+645477,258585,9,ENVY,LOUD,def,defuse
+645477,258585,10,LOUD,ENVY,atk,elim
+645477,258585,11,LOUD,ENVY,atk,boom
+645477,258585,12,LOUD,ENVY,atk,elim
+645477,258585,13,LOUD,ENVY,def,defuse
+645477,258585,14,LOUD,ENVY,def,elim
+645477,258585,15,ENVY,LOUD,atk,elim
+645477,258585,16,ENVY,LOUD,atk,boom
+645477,258585,17,ENVY,LOUD,atk,elim
+645477,258585,18,LOUD,ENVY,def,defuse
+645477,258585,19,LOUD,ENVY,def,elim
+645477,258585,20,ENVY,LOUD,atk,elim
+645477,258585,21,ENVY,LOUD,atk,elim
+645477,258585,22,LOUD,ENVY,def,elim
+645477,258585,23,ENVY,LOUD,atk,elim
+645477,258585,24,LOUD,ENVY,def,elim
+645477,258586,1,ENVY,LOUD,def,defuse
+645477,258586,2,LOUD,ENVY,atk,elim
+645477,258586,3,LOUD,ENVY,atk,elim
+645477,258586,4,ENVY,LOUD,def,defuse
+645477,258586,5,LOUD,ENVY,atk,elim
+645477,258586,6,ENVY,LOUD,def,elim
+645477,258586,7,LOUD,ENVY,atk,boom
+645477,258586,8,LOUD,ENVY,atk,elim
+645477,258586,9,LOUD,ENVY,atk,elim
+645477,258586,10,LOUD,ENVY,atk,elim
+645477,258586,11,LOUD,ENVY,atk,elim
+645477,258586,12,ENVY,LOUD,def,elim
+645477,258586,13,LOUD,ENVY,def,elim
+645477,258586,14,LOUD,ENVY,def,elim
+645477,258586,15,LOUD,ENVY,def,elim
+645477,258586,16,ENVY,LOUD,atk,elim
+645477,258586,17,LOUD,ENVY,def,elim
+645477,258586,18,ENVY,LOUD,atk,elim
+645477,258586,19,ENVY,LOUD,atk,elim
+645477,258586,20,ENVY,LOUD,atk,elim
+645477,258586,21,LOUD,ENVY,def,elim
+645478,258587,1,LEVIATÁN,Cloud9,atk,elim
+645478,258587,2,LEVIATÁN,Cloud9,atk,elim
+645478,258587,3,LEVIATÁN,Cloud9,atk,elim
+645478,258587,4,LEVIATÁN,Cloud9,atk,elim
+645478,258587,5,Cloud9,LEVIATÁN,def,defuse
+645478,258587,6,Cloud9,LEVIATÁN,def,elim
+645478,258587,7,LEVIATÁN,Cloud9,atk,boom
+645478,258587,8,LEVIATÁN,Cloud9,atk,elim
+645478,258587,9,Cloud9,LEVIATÁN,def,defuse
+645478,258587,10,Cloud9,LEVIATÁN,def,elim
+645478,258587,11,LEVIATÁN,Cloud9,atk,elim
+645478,258587,12,LEVIATÁN,Cloud9,atk,elim
+645478,258587,13,LEVIATÁN,Cloud9,def,elim
+645478,258587,14,LEVIATÁN,Cloud9,def,defuse
+645478,258587,15,Cloud9,LEVIATÁN,atk,elim
+645478,258587,16,LEVIATÁN,Cloud9,def,elim
+645478,258587,17,Cloud9,LEVIATÁN,atk,elim
+645478,258587,18,LEVIATÁN,Cloud9,def,elim
+645478,258587,19,LEVIATÁN,Cloud9,def,defuse
+645478,258588,1,LEVIATÁN,Cloud9,def,defuse
+645478,258588,2,LEVIATÁN,Cloud9,def,elim
+645478,258588,3,LEVIATÁN,Cloud9,def,defuse
+645478,258588,4,LEVIATÁN,Cloud9,def,defuse
+645478,258588,5,LEVIATÁN,Cloud9,def,time
+645478,258588,6,LEVIATÁN,Cloud9,def,defuse
+645478,258588,7,Cloud9,LEVIATÁN,atk,boom
+645478,258588,8,Cloud9,LEVIATÁN,atk,elim
+645478,258588,9,LEVIATÁN,Cloud9,def,elim
+645478,258588,10,LEVIATÁN,Cloud9,def,elim
+645478,258588,11,Cloud9,LEVIATÁN,atk,elim
+645478,258588,12,Cloud9,LEVIATÁN,atk,elim
+645478,258588,13,LEVIATÁN,Cloud9,atk,elim
+645478,258588,14,LEVIATÁN,Cloud9,atk,boom
+645478,258588,15,LEVIATÁN,Cloud9,atk,boom
+645478,258588,16,LEVIATÁN,Cloud9,atk,elim
+645478,258588,17,Cloud9,LEVIATÁN,def,defuse
+645478,258588,18,LEVIATÁN,Cloud9,atk,elim
+645479,258590,1,NRG,FURIA,def,defuse
+645479,258590,2,NRG,FURIA,def,elim
+645479,258590,3,FURIA,NRG,atk,elim
+645479,258590,4,FURIA,NRG,atk,boom
+645479,258590,5,FURIA,NRG,atk,boom
+645479,258590,6,FURIA,NRG,atk,boom
+645479,258590,7,FURIA,NRG,atk,elim
+645479,258590,8,FURIA,NRG,atk,elim
+645479,258590,9,FURIA,NRG,atk,elim
+645479,258590,10,FURIA,NRG,atk,elim
+645479,258590,11,NRG,FURIA,def,defuse
+645479,258590,12,NRG,FURIA,def,elim
+645479,258590,13,FURIA,NRG,def,defuse
+645479,258590,14,FURIA,NRG,def,elim
+645479,258590,15,NRG,FURIA,atk,boom
+645479,258590,16,NRG,FURIA,atk,elim
+645479,258590,17,NRG,FURIA,atk,boom
+645479,258590,18,FURIA,NRG,def,defuse
+645479,258590,19,FURIA,NRG,def,defuse
+645479,258590,20,FURIA,NRG,def,defuse
+645479,258591,1,NRG,FURIA,atk,elim
+645479,258591,2,NRG,FURIA,atk,elim
+645479,258591,3,FURIA,NRG,def,time
+645479,258591,4,FURIA,NRG,def,defuse
+645479,258591,5,FURIA,NRG,def,defuse
+645479,258591,6,FURIA,NRG,def,defuse
+645479,258591,7,FURIA,NRG,def,defuse
+645479,258591,8,FURIA,NRG,def,elim
+645479,258591,9,FURIA,NRG,def,elim
+645479,258591,10,FURIA,NRG,def,elim
+645479,258591,11,NRG,FURIA,atk,elim
+645479,258591,12,FURIA,NRG,def,defuse
+645479,258591,13,FURIA,NRG,atk,elim
+645479,258591,14,NRG,FURIA,def,defuse
+645479,258591,15,NRG,FURIA,def,elim
+645479,258591,16,FURIA,NRG,atk,elim
+645479,258591,17,FURIA,NRG,atk,elim
+645479,258591,18,NRG,FURIA,def,time
+645479,258591,19,NRG,FURIA,def,elim
+645479,258591,20,NRG,FURIA,def,defuse
+645479,258591,21,NRG,FURIA,def,defuse
+645479,258591,22,NRG,FURIA,def,elim
+645479,258591,23,FURIA,NRG,atk,elim
+645480,258593,1,Cloud9,ENVY,atk,elim
+645480,258593,2,Cloud9,ENVY,atk,elim
+645480,258593,3,Cloud9,ENVY,atk,elim
+645480,258593,4,Cloud9,ENVY,atk,elim
+645480,258593,5,Cloud9,ENVY,atk,boom
+645480,258593,6,ENVY,Cloud9,def,elim
+645480,258593,7,Cloud9,ENVY,atk,elim
+645480,258593,8,Cloud9,ENVY,atk,elim
+645480,258593,9,ENVY,Cloud9,def,defuse
+645480,258593,10,ENVY,Cloud9,def,defuse
+645480,258593,11,ENVY,Cloud9,def,elim
+645480,258593,12,Cloud9,ENVY,atk,elim
+645480,258593,13,ENVY,Cloud9,atk,elim
+645480,258593,14,ENVY,Cloud9,atk,elim
+645480,258593,15,ENVY,Cloud9,atk,boom
+645480,258593,16,Cloud9,ENVY,def,elim
+645480,258593,17,Cloud9,ENVY,def,elim
+645480,258593,18,ENVY,Cloud9,atk,elim
+645480,258593,19,ENVY,Cloud9,atk,boom
+645480,258593,20,ENVY,Cloud9,atk,elim
+645480,258593,21,ENVY,Cloud9,atk,elim
+645480,258593,22,Cloud9,ENVY,def,elim
+645480,258593,23,Cloud9,ENVY,def,defuse
+645480,258593,24,Cloud9,ENVY,def,elim
+645480,258594,1,Cloud9,ENVY,atk,elim
+645480,258594,2,Cloud9,ENVY,atk,elim
+645480,258594,3,ENVY,Cloud9,def,elim
+645480,258594,4,ENVY,Cloud9,def,time
+645480,258594,5,ENVY,Cloud9,def,elim
+645480,258594,6,ENVY,Cloud9,def,time
+645480,258594,7,ENVY,Cloud9,def,defuse
+645480,258594,8,ENVY,Cloud9,def,defuse
+645480,258594,9,ENVY,Cloud9,def,elim
+645480,258594,10,ENVY,Cloud9,def,defuse
+645480,258594,11,Cloud9,ENVY,atk,elim
+645480,258594,12,Cloud9,ENVY,atk,elim
+645480,258594,13,ENVY,Cloud9,atk,elim
+645480,258594,14,ENVY,Cloud9,atk,elim
+645480,258594,15,ENVY,Cloud9,atk,elim
+645480,258594,16,ENVY,Cloud9,atk,elim
+645480,258594,17,Cloud9,ENVY,def,time
+645480,258594,18,ENVY,Cloud9,atk,elim
+645480,258595,1,ENVY,Cloud9,def,elim
+645480,258595,2,ENVY,Cloud9,def,elim
+645480,258595,3,ENVY,Cloud9,def,elim
+645480,258595,4,ENVY,Cloud9,def,defuse
+645480,258595,5,ENVY,Cloud9,def,defuse
+645480,258595,6,Cloud9,ENVY,atk,elim
+645480,258595,7,Cloud9,ENVY,atk,elim
+645480,258595,8,Cloud9,ENVY,atk,boom
+645480,258595,9,Cloud9,ENVY,atk,boom
+645480,258595,10,ENVY,Cloud9,def,elim
+645480,258595,11,ENVY,Cloud9,def,elim
+645480,258595,12,ENVY,Cloud9,def,elim
+645480,258595,13,Cloud9,ENVY,def,defuse
+645480,258595,14,Cloud9,ENVY,def,defuse
+645480,258595,15,ENVY,Cloud9,atk,boom
+645480,258595,16,Cloud9,ENVY,def,defuse
+645480,258595,17,ENVY,Cloud9,atk,elim
+645480,258595,18,Cloud9,ENVY,def,elim
+645480,258595,19,ENVY,Cloud9,atk,elim
+645480,258595,20,ENVY,Cloud9,atk,elim
+645480,258595,21,Cloud9,ENVY,def,defuse
+645480,258595,22,ENVY,Cloud9,atk,elim
+645481,258596,1,Evil Geniuses,FURIA,atk,elim
+645481,258596,2,Evil Geniuses,FURIA,atk,elim
+645481,258596,3,Evil Geniuses,FURIA,atk,boom
+645481,258596,4,Evil Geniuses,FURIA,atk,elim
+645481,258596,5,Evil Geniuses,FURIA,atk,elim
+645481,258596,6,Evil Geniuses,FURIA,atk,elim
+645481,258596,7,FURIA,Evil Geniuses,def,defuse
+645481,258596,8,FURIA,Evil Geniuses,def,defuse
+645481,258596,9,FURIA,Evil Geniuses,def,defuse
+645481,258596,10,FURIA,Evil Geniuses,def,defuse
+645481,258596,11,Evil Geniuses,FURIA,atk,boom
+645481,258596,12,Evil Geniuses,FURIA,atk,elim
+645481,258596,13,FURIA,Evil Geniuses,atk,elim
+645481,258596,14,FURIA,Evil Geniuses,atk,elim
+645481,258596,15,Evil Geniuses,FURIA,def,defuse
+645481,258596,16,FURIA,Evil Geniuses,atk,elim
+645481,258596,17,Evil Geniuses,FURIA,def,elim
+645481,258596,18,Evil Geniuses,FURIA,def,defuse
+645481,258596,19,FURIA,Evil Geniuses,atk,elim
+645481,258596,20,FURIA,Evil Geniuses,atk,boom
+645481,258596,21,FURIA,Evil Geniuses,atk,elim
+645481,258596,22,FURIA,Evil Geniuses,atk,elim
+645481,258596,23,FURIA,Evil Geniuses,atk,boom
+645481,258596,24,Evil Geniuses,FURIA,def,elim
+645481,258596,25,Evil Geniuses,FURIA,atk,elim
+645481,258596,26,Evil Geniuses,FURIA,def,defuse
+645481,258597,1,FURIA,Evil Geniuses,atk,elim
+645481,258597,2,FURIA,Evil Geniuses,atk,elim
+645481,258597,3,FURIA,Evil Geniuses,atk,elim
+645481,258597,4,Evil Geniuses,FURIA,def,elim
+645481,258597,5,Evil Geniuses,FURIA,def,defuse
+645481,258597,6,FURIA,Evil Geniuses,atk,elim
+645481,258597,7,FURIA,Evil Geniuses,atk,elim
+645481,258597,8,FURIA,Evil Geniuses,atk,boom
+645481,258597,9,FURIA,Evil Geniuses,atk,elim
+645481,258597,10,Evil Geniuses,FURIA,def,defuse
+645481,258597,11,FURIA,Evil Geniuses,atk,elim
+645481,258597,12,FURIA,Evil Geniuses,atk,boom
+645481,258597,13,Evil Geniuses,FURIA,atk,elim
+645481,258597,14,Evil Geniuses,FURIA,atk,elim
+645481,258597,15,FURIA,Evil Geniuses,def,elim
+645481,258597,16,FURIA,Evil Geniuses,def,elim
+645481,258597,17,FURIA,Evil Geniuses,def,elim
+645481,258597,18,FURIA,Evil Geniuses,def,defuse
+645481,258598,1,FURIA,Evil Geniuses,atk,elim
+645481,258598,2,FURIA,Evil Geniuses,atk,elim
+645481,258598,3,FURIA,Evil Geniuses,atk,elim
+645481,258598,4,FURIA,Evil Geniuses,atk,elim
+645481,258598,5,Evil Geniuses,FURIA,def,defuse
+645481,258598,6,Evil Geniuses,FURIA,def,defuse
+645481,258598,7,Evil Geniuses,FURIA,def,defuse
+645481,258598,8,FURIA,Evil Geniuses,atk,elim
+645481,258598,9,Evil Geniuses,FURIA,def,defuse
+645481,258598,10,Evil Geniuses,FURIA,def,elim
+645481,258598,11,FURIA,Evil Geniuses,atk,elim
+645481,258598,12,Evil Geniuses,FURIA,def,elim
+645481,258598,13,Evil Geniuses,FURIA,atk,elim
+645481,258598,14,FURIA,Evil Geniuses,def,elim
+645481,258598,15,FURIA,Evil Geniuses,def,defuse
+645481,258598,16,Evil Geniuses,FURIA,atk,elim
+645481,258598,17,Evil Geniuses,FURIA,atk,elim
+645481,258598,18,FURIA,Evil Geniuses,def,defuse
+645481,258598,19,FURIA,Evil Geniuses,def,defuse
+645481,258598,20,Evil Geniuses,FURIA,atk,elim
+645481,258598,21,FURIA,Evil Geniuses,def,time
+645481,258598,22,FURIA,Evil Geniuses,def,elim
+645481,258598,23,FURIA,Evil Geniuses,def,elim
+645482,258599,1,G2 Esports,LEVIATÁN,def,defuse
+645482,258599,2,G2 Esports,LEVIATÁN,def,elim
+645482,258599,3,LEVIATÁN,G2 Esports,atk,elim
+645482,258599,4,G2 Esports,LEVIATÁN,def,elim
+645482,258599,5,LEVIATÁN,G2 Esports,atk,boom
+645482,258599,6,G2 Esports,LEVIATÁN,def,defuse
+645482,258599,7,G2 Esports,LEVIATÁN,def,defuse
+645482,258599,8,LEVIATÁN,G2 Esports,atk,boom
+645482,258599,9,G2 Esports,LEVIATÁN,def,defuse
+645482,258599,10,LEVIATÁN,G2 Esports,atk,boom
+645482,258599,11,LEVIATÁN,G2 Esports,atk,elim
+645482,258599,12,G2 Esports,LEVIATÁN,def,defuse
+645482,258599,13,G2 Esports,LEVIATÁN,atk,elim
+645482,258599,14,G2 Esports,LEVIATÁN,atk,boom
+645482,258599,15,G2 Esports,LEVIATÁN,atk,elim
+645482,258599,16,LEVIATÁN,G2 Esports,def,defuse
+645482,258599,17,G2 Esports,LEVIATÁN,atk,elim
+645482,258599,18,G2 Esports,LEVIATÁN,atk,elim
+645482,258599,19,G2 Esports,LEVIATÁN,atk,elim
+645482,258600,1,G2 Esports,LEVIATÁN,def,defuse
+645482,258600,2,G2 Esports,LEVIATÁN,def,elim
+645482,258600,3,LEVIATÁN,G2 Esports,atk,elim
+645482,258600,4,LEVIATÁN,G2 Esports,atk,elim
+645482,258600,5,LEVIATÁN,G2 Esports,atk,elim
+645482,258600,6,G2 Esports,LEVIATÁN,def,defuse
+645482,258600,7,G2 Esports,LEVIATÁN,def,elim
+645482,258600,8,LEVIATÁN,G2 Esports,atk,elim
+645482,258600,9,LEVIATÁN,G2 Esports,atk,elim
+645482,258600,10,G2 Esports,LEVIATÁN,def,time
+645482,258600,11,G2 Esports,LEVIATÁN,def,defuse
+645482,258600,12,LEVIATÁN,G2 Esports,atk,elim
+645482,258600,13,G2 Esports,LEVIATÁN,atk,elim
+645482,258600,14,G2 Esports,LEVIATÁN,atk,boom
+645482,258600,15,LEVIATÁN,G2 Esports,def,elim
+645482,258600,16,G2 Esports,LEVIATÁN,atk,boom
+645482,258600,17,LEVIATÁN,G2 Esports,def,defuse
+645482,258600,18,LEVIATÁN,G2 Esports,def,defuse
+645482,258600,19,LEVIATÁN,G2 Esports,def,elim
+645482,258600,20,G2 Esports,LEVIATÁN,atk,elim
+645482,258600,21,LEVIATÁN,G2 Esports,def,defuse
+645482,258600,22,G2 Esports,LEVIATÁN,atk,boom
+645482,258600,23,LEVIATÁN,G2 Esports,def,defuse
+645482,258600,24,LEVIATÁN,G2 Esports,def,elim
+645482,258601,1,LEVIATÁN,G2 Esports,atk,elim
+645482,258601,2,LEVIATÁN,G2 Esports,atk,elim
+645482,258601,3,LEVIATÁN,G2 Esports,atk,elim
+645482,258601,4,LEVIATÁN,G2 Esports,atk,elim
+645482,258601,5,G2 Esports,LEVIATÁN,def,defuse
+645482,258601,6,G2 Esports,LEVIATÁN,def,elim
+645482,258601,7,LEVIATÁN,G2 Esports,atk,elim
+645482,258601,8,LEVIATÁN,G2 Esports,atk,boom
+645482,258601,9,G2 Esports,LEVIATÁN,def,elim
+645482,258601,10,G2 Esports,LEVIATÁN,def,elim
+645482,258601,11,G2 Esports,LEVIATÁN,def,defuse
+645482,258601,12,G2 Esports,LEVIATÁN,def,defuse
+645482,258601,13,LEVIATÁN,G2 Esports,def,defuse
+645482,258601,14,LEVIATÁN,G2 Esports,def,elim
+645482,258601,15,G2 Esports,LEVIATÁN,atk,elim
+645482,258601,16,LEVIATÁN,G2 Esports,def,defuse
+645482,258601,17,G2 Esports,LEVIATÁN,atk,boom
+645482,258601,18,G2 Esports,LEVIATÁN,atk,elim
+645482,258601,19,LEVIATÁN,G2 Esports,def,defuse
+645482,258601,20,G2 Esports,LEVIATÁN,atk,elim
+645482,258601,21,LEVIATÁN,G2 Esports,def,elim
+645482,258601,22,G2 Esports,LEVIATÁN,atk,elim
+645482,258601,23,LEVIATÁN,G2 Esports,def,defuse
+645482,258601,24,G2 Esports,LEVIATÁN,atk,elim
+645482,258601,25,LEVIATÁN,G2 Esports,atk,elim
+645482,258601,26,LEVIATÁN,G2 Esports,def,defuse
+645483,258602,1,LOUD,MIBR,atk,elim
+645483,258602,2,LOUD,MIBR,atk,elim
+645483,258602,3,MIBR,LOUD,def,defuse
+645483,258602,4,MIBR,LOUD,def,defuse
+645483,258602,5,MIBR,LOUD,def,defuse
+645483,258602,6,MIBR,LOUD,def,elim
+645483,258602,7,MIBR,LOUD,def,defuse
+645483,258602,8,LOUD,MIBR,atk,boom
+645483,258602,9,MIBR,LOUD,def,elim
+645483,258602,10,MIBR,LOUD,def,elim
+645483,258602,11,MIBR,LOUD,def,elim
+645483,258602,12,MIBR,LOUD,def,elim
+645483,258602,13,LOUD,MIBR,def,elim
+645483,258602,14,LOUD,MIBR,def,elim
+645483,258602,15,MIBR,LOUD,atk,elim
+645483,258602,16,LOUD,MIBR,def,elim
+645483,258602,17,LOUD,MIBR,def,defuse
+645483,258602,18,MIBR,LOUD,atk,elim
+645483,258602,19,LOUD,MIBR,def,defuse
+645483,258602,20,LOUD,MIBR,def,defuse
+645483,258602,21,MIBR,LOUD,atk,boom
+645483,258602,22,LOUD,MIBR,def,elim
+645483,258602,23,MIBR,LOUD,atk,elim
+645483,258603,1,MIBR,LOUD,atk,elim
+645483,258603,2,MIBR,LOUD,atk,elim
+645483,258603,3,MIBR,LOUD,atk,boom
+645483,258603,4,LOUD,MIBR,def,elim
+645483,258603,5,MIBR,LOUD,atk,elim
+645483,258603,6,MIBR,LOUD,atk,boom
+645483,258603,7,MIBR,LOUD,atk,elim
+645483,258603,8,MIBR,LOUD,atk,boom
+645483,258603,9,LOUD,MIBR,def,defuse
+645483,258603,10,MIBR,LOUD,atk,boom
+645483,258603,11,MIBR,LOUD,atk,boom
+645483,258603,12,MIBR,LOUD,atk,elim
+645483,258603,13,MIBR,LOUD,def,elim
+645483,258603,14,LOUD,MIBR,atk,elim
+645483,258603,15,LOUD,MIBR,atk,elim
+645483,258603,16,MIBR,LOUD,def,elim
+645483,258603,17,MIBR,LOUD,def,elim
+645484,258605,1,KRÜ Esports,NRG,def,elim
+645484,258605,2,KRÜ Esports,NRG,def,defuse
+645484,258605,3,NRG,KRÜ Esports,atk,elim
+645484,258605,4,NRG,KRÜ Esports,atk,boom
+645484,258605,5,NRG,KRÜ Esports,atk,elim
+645484,258605,6,NRG,KRÜ Esports,atk,boom
+645484,258605,7,KRÜ Esports,NRG,def,defuse
+645484,258605,8,KRÜ Esports,NRG,def,defuse
+645484,258605,9,KRÜ Esports,NRG,def,defuse
+645484,258605,10,KRÜ Esports,NRG,def,elim
+645484,258605,11,NRG,KRÜ Esports,atk,elim
+645484,258605,12,KRÜ Esports,NRG,def,elim
+645484,258605,13,NRG,KRÜ Esports,def,defuse
+645484,258605,14,NRG,KRÜ Esports,def,defuse
+645484,258605,15,KRÜ Esports,NRG,atk,elim
+645484,258605,16,NRG,KRÜ Esports,def,elim
+645484,258605,17,NRG,KRÜ Esports,def,defuse
+645484,258605,18,KRÜ Esports,NRG,atk,boom
+645484,258605,19,KRÜ Esports,NRG,atk,elim
+645484,258605,20,KRÜ Esports,NRG,atk,elim
+645484,258605,21,KRÜ Esports,NRG,atk,elim
+645484,258605,22,NRG,KRÜ Esports,def,defuse
+645484,258605,23,KRÜ Esports,NRG,atk,elim
+645484,258606,1,KRÜ Esports,NRG,def,elim
+645484,258606,2,KRÜ Esports,NRG,def,elim
+645484,258606,3,NRG,KRÜ Esports,atk,elim
+645484,258606,4,KRÜ Esports,NRG,def,elim
+645484,258606,5,KRÜ Esports,NRG,def,defuse
+645484,258606,6,KRÜ Esports,NRG,def,elim
+645484,258606,7,KRÜ Esports,NRG,def,elim
+645484,258606,8,KRÜ Esports,NRG,def,defuse
+645484,258606,9,NRG,KRÜ Esports,atk,boom
+645484,258606,10,NRG,KRÜ Esports,atk,elim
+645484,258606,11,KRÜ Esports,NRG,def,defuse
+645484,258606,12,NRG,KRÜ Esports,atk,boom
+645484,258606,13,NRG,KRÜ Esports,def,elim
+645484,258606,14,NRG,KRÜ Esports,def,elim
+645484,258606,15,NRG,KRÜ Esports,def,elim
+645484,258606,16,KRÜ Esports,NRG,atk,boom
+645484,258606,17,KRÜ Esports,NRG,atk,boom
+645484,258606,18,KRÜ Esports,NRG,atk,boom
+645484,258606,19,NRG,KRÜ Esports,def,elim
+645484,258606,20,KRÜ Esports,NRG,atk,elim
+645484,258606,21,KRÜ Esports,NRG,atk,elim
+645485,258608,1,100 Thieves,Sentinels,def,defuse
+645485,258608,2,Sentinels,100 Thieves,atk,elim
+645485,258608,3,Sentinels,100 Thieves,atk,boom
+645485,258608,4,Sentinels,100 Thieves,atk,boom
+645485,258608,5,100 Thieves,Sentinels,def,elim
+645485,258608,6,100 Thieves,Sentinels,def,defuse
+645485,258608,7,Sentinels,100 Thieves,atk,boom
+645485,258608,8,Sentinels,100 Thieves,atk,boom
+645485,258608,9,Sentinels,100 Thieves,atk,elim
+645485,258608,10,100 Thieves,Sentinels,def,defuse
+645485,258608,11,Sentinels,100 Thieves,atk,elim
+645485,258608,12,100 Thieves,Sentinels,def,elim
+645485,258608,13,Sentinels,100 Thieves,def,defuse
+645485,258608,14,Sentinels,100 Thieves,def,elim
+645485,258608,15,Sentinels,100 Thieves,def,defuse
+645485,258608,16,Sentinels,100 Thieves,def,elim
+645485,258608,17,100 Thieves,Sentinels,atk,elim
+645485,258608,18,100 Thieves,Sentinels,atk,elim
+645485,258608,19,100 Thieves,Sentinels,atk,elim
+645485,258608,20,Sentinels,100 Thieves,def,defuse
+645485,258608,21,100 Thieves,Sentinels,atk,boom
+645485,258608,22,100 Thieves,Sentinels,atk,boom
+645485,258608,23,Sentinels,100 Thieves,def,elim
+645485,258609,1,100 Thieves,Sentinels,def,elim
+645485,258609,2,100 Thieves,Sentinels,def,elim
+645485,258609,3,Sentinels,100 Thieves,atk,boom
+645485,258609,4,100 Thieves,Sentinels,def,defuse
+645485,258609,5,100 Thieves,Sentinels,def,elim
+645485,258609,6,100 Thieves,Sentinels,def,elim
+645485,258609,7,Sentinels,100 Thieves,atk,boom
+645485,258609,8,Sentinels,100 Thieves,atk,elim
+645485,258609,9,100 Thieves,Sentinels,def,defuse
+645485,258609,10,100 Thieves,Sentinels,def,time
+645485,258609,11,Sentinels,100 Thieves,atk,boom
+645485,258609,12,100 Thieves,Sentinels,def,elim
+645485,258609,13,Sentinels,100 Thieves,def,elim
+645485,258609,14,Sentinels,100 Thieves,def,elim
+645485,258609,15,Sentinels,100 Thieves,def,time
+645485,258609,16,100 Thieves,Sentinels,atk,elim
+645485,258609,17,100 Thieves,Sentinels,atk,elim
+645485,258609,18,Sentinels,100 Thieves,def,time
+645485,258609,19,Sentinels,100 Thieves,def,elim
+645485,258609,20,100 Thieves,Sentinels,atk,elim
+645485,258609,21,Sentinels,100 Thieves,def,elim
+645485,258609,22,Sentinels,100 Thieves,def,elim
+645485,258609,23,100 Thieves,Sentinels,atk,elim
+645485,258609,24,Sentinels,100 Thieves,def,defuse
+645485,258609,25,100 Thieves,Sentinels,def,elim
+645485,258609,26,Sentinels,100 Thieves,def,elim
+645485,258609,27,100 Thieves,Sentinels,def,elim
+645485,258609,28,Sentinels,100 Thieves,def,elim
+645485,258609,29,100 Thieves,Sentinels,def,defuse
+645485,258609,30,Sentinels,100 Thieves,def,elim
+645485,258609,31,Sentinels,100 Thieves,atk,elim
+645485,258609,32,100 Thieves,Sentinels,atk,elim
+645485,258609,33,100 Thieves,Sentinels,def,defuse
+645485,258609,34,Sentinels,100 Thieves,def,elim
+645485,258609,35,Sentinels,100 Thieves,atk,elim
+645485,258609,36,Sentinels,100 Thieves,def,elim
+645486,258611,1,ENVY,LEVIATÁN,def,defuse
+645486,258611,2,ENVY,LEVIATÁN,def,defuse
+645486,258611,3,LEVIATÁN,ENVY,atk,elim
+645486,258611,4,LEVIATÁN,ENVY,atk,elim
+645486,258611,5,LEVIATÁN,ENVY,atk,elim
+645486,258611,6,LEVIATÁN,ENVY,atk,elim
+645486,258611,7,LEVIATÁN,ENVY,atk,elim
+645486,258611,8,LEVIATÁN,ENVY,atk,elim
+645486,258611,9,LEVIATÁN,ENVY,atk,elim
+645486,258611,10,LEVIATÁN,ENVY,atk,elim
+645486,258611,11,LEVIATÁN,ENVY,atk,elim
+645486,258611,12,LEVIATÁN,ENVY,atk,elim
+645486,258611,13,ENVY,LEVIATÁN,atk,elim
+645486,258611,14,ENVY,LEVIATÁN,atk,elim
+645486,258611,15,LEVIATÁN,ENVY,def,elim
+645486,258611,16,LEVIATÁN,ENVY,def,elim
+645486,258611,17,LEVIATÁN,ENVY,def,elim
+645486,258612,1,LEVIATÁN,ENVY,atk,boom
+645486,258612,2,LEVIATÁN,ENVY,atk,elim
+645486,258612,3,LEVIATÁN,ENVY,atk,elim
+645486,258612,4,LEVIATÁN,ENVY,atk,elim
+645486,258612,5,ENVY,LEVIATÁN,def,elim
+645486,258612,6,LEVIATÁN,ENVY,atk,elim
+645486,258612,7,LEVIATÁN,ENVY,atk,elim
+645486,258612,8,ENVY,LEVIATÁN,def,elim
+645486,258612,9,LEVIATÁN,ENVY,atk,elim
+645486,258612,10,LEVIATÁN,ENVY,atk,elim
+645486,258612,11,ENVY,LEVIATÁN,def,elim
+645486,258612,12,LEVIATÁN,ENVY,atk,elim
+645486,258612,13,LEVIATÁN,ENVY,def,elim
+645486,258612,14,LEVIATÁN,ENVY,def,elim
+645486,258612,15,LEVIATÁN,ENVY,def,elim
+645486,258612,16,ENVY,LEVIATÁN,atk,elim
+645486,258612,17,LEVIATÁN,ENVY,def,defuse
+645487,258614,1,LOUD,G2 Esports,atk,elim
+645487,258614,2,LOUD,G2 Esports,atk,elim
+645487,258614,3,LOUD,G2 Esports,atk,boom
+645487,258614,4,G2 Esports,LOUD,def,elim
+645487,258614,5,G2 Esports,LOUD,def,defuse
+645487,258614,6,LOUD,G2 Esports,atk,elim
+645487,258614,7,LOUD,G2 Esports,atk,elim
+645487,258614,8,G2 Esports,LOUD,def,defuse
+645487,258614,9,G2 Esports,LOUD,def,time
+645487,258614,10,G2 Esports,LOUD,def,defuse
+645487,258614,11,G2 Esports,LOUD,def,elim
+645487,258614,12,LOUD,G2 Esports,atk,boom
+645487,258614,13,LOUD,G2 Esports,def,elim
+645487,258614,14,LOUD,G2 Esports,def,elim
+645487,258614,15,G2 Esports,LOUD,atk,elim
+645487,258614,16,G2 Esports,LOUD,atk,boom
+645487,258614,17,G2 Esports,LOUD,atk,elim
+645487,258614,18,G2 Esports,LOUD,atk,elim
+645487,258614,19,LOUD,G2 Esports,def,defuse
+645487,258614,20,G2 Esports,LOUD,atk,elim
+645487,258614,21,G2 Esports,LOUD,atk,elim
+645487,258614,22,G2 Esports,LOUD,atk,elim
+645487,258615,1,LOUD,G2 Esports,atk,elim
+645487,258615,2,LOUD,G2 Esports,atk,elim
+645487,258615,3,G2 Esports,LOUD,def,elim
+645487,258615,4,G2 Esports,LOUD,def,elim
+645487,258615,5,G2 Esports,LOUD,def,defuse
+645487,258615,6,LOUD,G2 Esports,atk,elim
+645487,258615,7,LOUD,G2 Esports,atk,elim
+645487,258615,8,G2 Esports,LOUD,def,elim
+645487,258615,9,G2 Esports,LOUD,def,defuse
+645487,258615,10,G2 Esports,LOUD,def,elim
+645487,258615,11,G2 Esports,LOUD,def,defuse
+645487,258615,12,LOUD,G2 Esports,atk,elim
+645487,258615,13,LOUD,G2 Esports,def,elim
+645487,258615,14,LOUD,G2 Esports,def,defuse
+645487,258615,15,LOUD,G2 Esports,def,time
+645487,258615,16,G2 Esports,LOUD,atk,elim
+645487,258615,17,G2 Esports,LOUD,atk,elim
+645487,258615,18,LOUD,G2 Esports,def,time
+645487,258615,19,G2 Esports,LOUD,atk,elim
+645487,258615,20,G2 Esports,LOUD,atk,elim
+645487,258615,21,G2 Esports,LOUD,atk,elim
+645487,258615,22,LOUD,G2 Esports,def,elim
+645487,258615,23,G2 Esports,LOUD,atk,elim
+645488,258617,1,KRÜ Esports,FURIA,def,defuse
+645488,258617,2,KRÜ Esports,FURIA,def,elim
+645488,258617,3,KRÜ Esports,FURIA,def,elim
+645488,258617,4,FURIA,KRÜ Esports,atk,elim
+645488,258617,5,FURIA,KRÜ Esports,atk,elim
+645488,258617,6,KRÜ Esports,FURIA,def,elim
+645488,258617,7,KRÜ Esports,FURIA,def,defuse
+645488,258617,8,KRÜ Esports,FURIA,def,elim
+645488,258617,9,KRÜ Esports,FURIA,def,defuse
+645488,258617,10,KRÜ Esports,FURIA,def,defuse
+645488,258617,11,KRÜ Esports,FURIA,def,time
+645488,258617,12,KRÜ Esports,FURIA,def,defuse
+645488,258617,13,KRÜ Esports,FURIA,atk,elim
+645488,258617,14,FURIA,KRÜ Esports,def,elim
+645488,258617,15,FURIA,KRÜ Esports,def,defuse
+645488,258617,16,KRÜ Esports,FURIA,atk,elim
+645488,258617,17,KRÜ Esports,FURIA,atk,elim
+645488,258618,1,KRÜ Esports,FURIA,atk,elim
+645488,258618,2,KRÜ Esports,FURIA,atk,elim
+645488,258618,3,KRÜ Esports,FURIA,atk,elim
+645488,258618,4,KRÜ Esports,FURIA,atk,boom
+645488,258618,5,FURIA,KRÜ Esports,def,elim
+645488,258618,6,FURIA,KRÜ Esports,def,elim
+645488,258618,7,FURIA,KRÜ Esports,def,elim
+645488,258618,8,KRÜ Esports,FURIA,atk,elim
+645488,258618,9,FURIA,KRÜ Esports,def,elim
+645488,258618,10,FURIA,KRÜ Esports,def,defuse
+645488,258618,11,FURIA,KRÜ Esports,def,elim
+645488,258618,12,FURIA,KRÜ Esports,def,elim
+645488,258618,13,KRÜ Esports,FURIA,def,elim
+645488,258618,14,KRÜ Esports,FURIA,def,defuse
+645488,258618,15,FURIA,KRÜ Esports,atk,elim
+645488,258618,16,KRÜ Esports,FURIA,def,defuse
+645488,258618,17,KRÜ Esports,FURIA,def,elim
+645488,258618,18,FURIA,KRÜ Esports,atk,elim
+645488,258618,19,FURIA,KRÜ Esports,atk,elim
+645488,258618,20,KRÜ Esports,FURIA,def,defuse
+645488,258618,21,KRÜ Esports,FURIA,def,elim
+645488,258618,22,KRÜ Esports,FURIA,def,defuse
+645488,258618,23,KRÜ Esports,FURIA,def,elim
+645489,258620,1,100 Thieves,NRG,atk,elim
+645489,258620,2,100 Thieves,NRG,atk,boom
+645489,258620,3,100 Thieves,NRG,atk,elim
+645489,258620,4,100 Thieves,NRG,atk,elim
+645489,258620,5,100 Thieves,NRG,atk,boom
+645489,258620,6,NRG,100 Thieves,def,elim
+645489,258620,7,100 Thieves,NRG,atk,boom
+645489,258620,8,100 Thieves,NRG,atk,elim
+645489,258620,9,100 Thieves,NRG,atk,elim
+645489,258620,10,100 Thieves,NRG,atk,elim
+645489,258620,11,NRG,100 Thieves,def,elim
+645489,258620,12,NRG,100 Thieves,def,elim
+645489,258620,13,NRG,100 Thieves,atk,elim
+645489,258620,14,NRG,100 Thieves,atk,boom
+645489,258620,15,100 Thieves,NRG,def,defuse
+645489,258620,16,NRG,100 Thieves,atk,elim
+645489,258620,17,NRG,100 Thieves,atk,boom
+645489,258620,18,100 Thieves,NRG,def,elim
+645489,258620,19,NRG,100 Thieves,atk,elim
+645489,258620,20,NRG,100 Thieves,atk,elim
+645489,258620,21,100 Thieves,NRG,def,elim
+645489,258620,22,100 Thieves,NRG,def,defuse
+645489,258621,1,100 Thieves,NRG,def,defuse
+645489,258621,2,100 Thieves,NRG,def,elim
+645489,258621,3,NRG,100 Thieves,atk,boom
+645489,258621,4,NRG,100 Thieves,atk,boom
+645489,258621,5,100 Thieves,NRG,def,elim
+645489,258621,6,NRG,100 Thieves,atk,elim
+645489,258621,7,NRG,100 Thieves,atk,elim
+645489,258621,8,NRG,100 Thieves,atk,boom
+645489,258621,9,NRG,100 Thieves,atk,elim
+645489,258621,10,100 Thieves,NRG,def,defuse
+645489,258621,11,NRG,100 Thieves,atk,elim
+645489,258621,12,NRG,100 Thieves,atk,elim
+645489,258621,13,NRG,100 Thieves,def,elim
+645489,258621,14,100 Thieves,NRG,atk,elim
+645489,258621,15,100 Thieves,NRG,atk,elim
+645489,258621,16,100 Thieves,NRG,atk,elim
+645489,258621,17,100 Thieves,NRG,atk,elim
+645489,258621,18,NRG,100 Thieves,def,defuse
+645489,258621,19,NRG,100 Thieves,def,defuse
+645489,258621,20,100 Thieves,NRG,atk,boom
+645489,258621,21,100 Thieves,NRG,atk,elim
+645489,258621,22,NRG,100 Thieves,def,elim
+645489,258621,23,NRG,100 Thieves,def,defuse
+645489,258622,1,NRG,100 Thieves,atk,elim
+645489,258622,2,NRG,100 Thieves,atk,elim
+645489,258622,3,NRG,100 Thieves,atk,boom
+645489,258622,4,NRG,100 Thieves,atk,elim
+645489,258622,5,NRG,100 Thieves,atk,elim
+645489,258622,6,NRG,100 Thieves,atk,elim
+645489,258622,7,NRG,100 Thieves,atk,boom
+645489,258622,8,NRG,100 Thieves,atk,elim
+645489,258622,9,NRG,100 Thieves,atk,elim
+645489,258622,10,NRG,100 Thieves,atk,boom
+645489,258622,11,NRG,100 Thieves,atk,elim
+645489,258622,12,NRG,100 Thieves,atk,elim
+645489,258622,13,100 Thieves,NRG,atk,elim
+645489,258622,14,100 Thieves,NRG,atk,elim
+645489,258622,15,NRG,100 Thieves,def,defuse
+645490,258623,1,Sentinels,Evil Geniuses,atk,elim
+645490,258623,2,Sentinels,Evil Geniuses,atk,elim
+645490,258623,3,Evil Geniuses,Sentinels,def,defuse
+645490,258623,4,Sentinels,Evil Geniuses,atk,elim
+645490,258623,5,Evil Geniuses,Sentinels,def,elim
+645490,258623,6,Sentinels,Evil Geniuses,atk,boom
+645490,258623,7,Evil Geniuses,Sentinels,def,elim
+645490,258623,8,Evil Geniuses,Sentinels,def,defuse
+645490,258623,9,Sentinels,Evil Geniuses,atk,boom
+645490,258623,10,Evil Geniuses,Sentinels,def,defuse
+645490,258623,11,Sentinels,Evil Geniuses,atk,boom
+645490,258623,12,Sentinels,Evil Geniuses,atk,elim
+645490,258623,13,Sentinels,Evil Geniuses,def,defuse
+645490,258623,14,Sentinels,Evil Geniuses,def,elim
+645490,258623,15,Evil Geniuses,Sentinels,atk,elim
+645490,258623,16,Sentinels,Evil Geniuses,def,time
+645490,258623,17,Sentinels,Evil Geniuses,def,elim
+645490,258623,18,Evil Geniuses,Sentinels,atk,elim
+645490,258623,19,Sentinels,Evil Geniuses,def,elim
+645490,258623,20,Sentinels,Evil Geniuses,def,defuse
+645490,258624,1,Evil Geniuses,Sentinels,atk,elim
+645490,258624,2,Evil Geniuses,Sentinels,atk,elim
+645490,258624,3,Sentinels,Evil Geniuses,def,defuse
+645490,258624,4,Sentinels,Evil Geniuses,def,elim
+645490,258624,5,Evil Geniuses,Sentinels,atk,elim
+645490,258624,6,Sentinels,Evil Geniuses,def,defuse
+645490,258624,7,Sentinels,Evil Geniuses,def,time
+645490,258624,8,Evil Geniuses,Sentinels,atk,boom
+645490,258624,9,Sentinels,Evil Geniuses,def,elim
+645490,258624,10,Evil Geniuses,Sentinels,atk,elim
+645490,258624,11,Sentinels,Evil Geniuses,def,elim
+645490,258624,12,Sentinels,Evil Geniuses,def,defuse
+645490,258624,13,Evil Geniuses,Sentinels,def,elim
+645490,258624,14,Sentinels,Evil Geniuses,atk,elim
+645490,258624,15,Sentinels,Evil Geniuses,atk,elim
+645490,258624,16,Evil Geniuses,Sentinels,def,elim
+645490,258624,17,Evil Geniuses,Sentinels,def,elim
+645490,258624,18,Sentinels,Evil Geniuses,atk,boom
+645490,258624,19,Evil Geniuses,Sentinels,def,defuse
+645490,258624,20,Evil Geniuses,Sentinels,def,time
+645490,258624,21,Sentinels,Evil Geniuses,atk,elim
+645490,258624,22,Evil Geniuses,Sentinels,def,defuse
+645490,258624,23,Sentinels,Evil Geniuses,atk,elim
+645490,258624,24,Sentinels,Evil Geniuses,atk,elim
+645491,258626,1,MIBR,Cloud9,atk,elim
+645491,258626,2,Cloud9,MIBR,def,defuse
+645491,258626,3,Cloud9,MIBR,def,elim
+645491,258626,4,MIBR,Cloud9,atk,elim
+645491,258626,5,Cloud9,MIBR,def,elim
+645491,258626,6,MIBR,Cloud9,atk,boom
+645491,258626,7,Cloud9,MIBR,def,elim
+645491,258626,8,MIBR,Cloud9,atk,boom
+645491,258626,9,Cloud9,MIBR,def,defuse
+645491,258626,10,MIBR,Cloud9,atk,boom
+645491,258626,11,Cloud9,MIBR,def,elim
+645491,258626,12,Cloud9,MIBR,def,elim
+645491,258626,13,MIBR,Cloud9,def,defuse
+645491,258626,14,MIBR,Cloud9,def,defuse
+645491,258626,15,MIBR,Cloud9,def,defuse
+645491,258626,16,Cloud9,MIBR,atk,boom
+645491,258626,17,Cloud9,MIBR,atk,elim
+645491,258626,18,Cloud9,MIBR,atk,elim
+645491,258626,19,MIBR,Cloud9,def,defuse
+645491,258626,20,MIBR,Cloud9,def,elim
+645491,258626,21,Cloud9,MIBR,atk,elim
+645491,258626,22,MIBR,Cloud9,def,time
+645491,258626,23,Cloud9,MIBR,atk,elim
+645491,258626,24,MIBR,Cloud9,def,defuse
+645491,258626,25,Cloud9,MIBR,def,elim
+645491,258626,26,Cloud9,MIBR,atk,elim
+645491,258627,1,Cloud9,MIBR,def,elim
+645491,258627,2,Cloud9,MIBR,def,elim
+645491,258627,3,MIBR,Cloud9,atk,boom
+645491,258627,4,Cloud9,MIBR,def,defuse
+645491,258627,5,Cloud9,MIBR,def,elim
+645491,258627,6,Cloud9,MIBR,def,elim
+645491,258627,7,MIBR,Cloud9,atk,elim
+645491,258627,8,MIBR,Cloud9,atk,boom
+645491,258627,9,MIBR,Cloud9,atk,elim
+645491,258627,10,Cloud9,MIBR,def,defuse
+645491,258627,11,MIBR,Cloud9,atk,boom
+645491,258627,12,MIBR,Cloud9,atk,elim
+645491,258627,13,MIBR,Cloud9,def,elim
+645491,258627,14,MIBR,Cloud9,def,elim
+645491,258627,15,Cloud9,MIBR,atk,elim
+645491,258627,16,Cloud9,MIBR,atk,boom
+645491,258627,17,Cloud9,MIBR,atk,elim
+645491,258627,18,Cloud9,MIBR,atk,elim
+645491,258627,19,Cloud9,MIBR,atk,elim
+645491,258627,20,MIBR,Cloud9,def,defuse
+645491,258627,21,MIBR,Cloud9,def,elim
+645491,258627,22,MIBR,Cloud9,def,defuse
+645491,258627,23,MIBR,Cloud9,def,defuse
+645491,258627,24,Cloud9,MIBR,atk,elim
+645491,258627,25,Cloud9,MIBR,def,defuse
+645491,258627,26,Cloud9,MIBR,atk,elim
+645492,258629,1,NRG,Evil Geniuses,atk,elim
+645492,258629,2,NRG,Evil Geniuses,atk,elim
+645492,258629,3,Evil Geniuses,NRG,def,defuse
+645492,258629,4,NRG,Evil Geniuses,atk,elim
+645492,258629,5,NRG,Evil Geniuses,atk,elim
+645492,258629,6,NRG,Evil Geniuses,atk,boom
+645492,258629,7,NRG,Evil Geniuses,atk,elim
+645492,258629,8,NRG,Evil Geniuses,atk,elim
+645492,258629,9,NRG,Evil Geniuses,atk,boom
+645492,258629,10,Evil Geniuses,NRG,def,elim
+645492,258629,11,Evil Geniuses,NRG,def,elim
+645492,258629,12,NRG,Evil Geniuses,atk,elim
+645492,258629,13,Evil Geniuses,NRG,atk,elim
+645492,258629,14,Evil Geniuses,NRG,atk,elim
+645492,258629,15,NRG,Evil Geniuses,def,defuse
+645492,258629,16,Evil Geniuses,NRG,atk,elim
+645492,258629,17,Evil Geniuses,NRG,atk,elim
+645492,258629,18,NRG,Evil Geniuses,def,elim
+645492,258629,19,NRG,Evil Geniuses,def,elim
+645492,258629,20,Evil Geniuses,NRG,atk,boom
+645492,258629,21,NRG,Evil Geniuses,def,elim
+645492,258630,1,NRG,Evil Geniuses,atk,elim
+645492,258630,2,NRG,Evil Geniuses,atk,boom
+645492,258630,3,NRG,Evil Geniuses,atk,elim
+645492,258630,4,NRG,Evil Geniuses,atk,elim
+645492,258630,5,Evil Geniuses,NRG,def,time
+645492,258630,6,NRG,Evil Geniuses,atk,elim
+645492,258630,7,NRG,Evil Geniuses,atk,boom
+645492,258630,8,Evil Geniuses,NRG,def,elim
+645492,258630,9,Evil Geniuses,NRG,def,elim
+645492,258630,10,Evil Geniuses,NRG,def,defuse
+645492,258630,11,NRG,Evil Geniuses,atk,boom
+645492,258630,12,Evil Geniuses,NRG,def,defuse
+645492,258630,13,NRG,Evil Geniuses,def,elim
+645492,258630,14,NRG,Evil Geniuses,def,defuse
+645492,258630,15,Evil Geniuses,NRG,atk,boom
+645492,258630,16,NRG,Evil Geniuses,def,defuse
+645492,258630,17,NRG,Evil Geniuses,def,defuse
+645492,258630,18,NRG,Evil Geniuses,def,defuse
+645492,258630,19,Evil Geniuses,NRG,atk,boom
+645492,258630,20,Evil Geniuses,NRG,atk,elim
+645492,258630,21,Evil Geniuses,NRG,atk,elim
+645492,258630,22,NRG,Evil Geniuses,def,defuse
+645493,258632,1,LEVIATÁN,MIBR,atk,elim
+645493,258632,2,LEVIATÁN,MIBR,atk,elim
+645493,258632,3,LEVIATÁN,MIBR,atk,elim
+645493,258632,4,LEVIATÁN,MIBR,atk,elim
+645493,258632,5,LEVIATÁN,MIBR,atk,boom
+645493,258632,6,MIBR,LEVIATÁN,def,defuse
+645493,258632,7,MIBR,LEVIATÁN,def,time
+645493,258632,8,LEVIATÁN,MIBR,atk,elim
+645493,258632,9,MIBR,LEVIATÁN,def,defuse
+645493,258632,10,MIBR,LEVIATÁN,def,defuse
+645493,258632,11,MIBR,LEVIATÁN,def,time
+645493,258632,12,MIBR,LEVIATÁN,def,elim
+645493,258632,13,MIBR,LEVIATÁN,atk,boom
+645493,258632,14,MIBR,LEVIATÁN,atk,boom
+645493,258632,15,LEVIATÁN,MIBR,def,elim
+645493,258632,16,LEVIATÁN,MIBR,def,defuse
+645493,258632,17,LEVIATÁN,MIBR,def,defuse
+645493,258632,18,MIBR,LEVIATÁN,atk,boom
+645493,258632,19,MIBR,LEVIATÁN,atk,boom
+645493,258632,20,LEVIATÁN,MIBR,def,defuse
+645493,258632,21,MIBR,LEVIATÁN,atk,elim
+645493,258632,22,MIBR,LEVIATÁN,atk,elim
+645493,258632,23,MIBR,LEVIATÁN,atk,elim
+645493,258633,1,MIBR,LEVIATÁN,def,defuse
+645493,258633,2,MIBR,LEVIATÁN,def,elim
+645493,258633,3,LEVIATÁN,MIBR,atk,elim
+645493,258633,4,LEVIATÁN,MIBR,atk,elim
+645493,258633,5,LEVIATÁN,MIBR,atk,elim
+645493,258633,6,MIBR,LEVIATÁN,def,elim
+645493,258633,7,MIBR,LEVIATÁN,def,elim
+645493,258633,8,MIBR,LEVIATÁN,def,defuse
+645493,258633,9,LEVIATÁN,MIBR,atk,boom
+645493,258633,10,MIBR,LEVIATÁN,def,elim
+645493,258633,11,MIBR,LEVIATÁN,def,elim
+645493,258633,12,LEVIATÁN,MIBR,atk,boom
+645493,258633,13,MIBR,LEVIATÁN,atk,elim
+645493,258633,14,MIBR,LEVIATÁN,atk,boom
+645493,258633,15,MIBR,LEVIATÁN,atk,elim
+645493,258633,16,MIBR,LEVIATÁN,atk,elim
+645493,258633,17,LEVIATÁN,MIBR,def,elim
+645493,258633,18,LEVIATÁN,MIBR,def,defuse
+645493,258633,19,LEVIATÁN,MIBR,def,defuse
+645493,258633,20,LEVIATÁN,MIBR,def,elim
+645493,258633,21,LEVIATÁN,MIBR,def,defuse
+645493,258633,22,MIBR,LEVIATÁN,atk,elim
+645493,258633,23,MIBR,LEVIATÁN,atk,elim
+645494,258635,1,100 Thieves,KRÜ Esports,atk,elim
+645494,258635,2,100 Thieves,KRÜ Esports,atk,elim
+645494,258635,3,100 Thieves,KRÜ Esports,atk,elim
+645494,258635,4,100 Thieves,KRÜ Esports,atk,boom
+645494,258635,5,100 Thieves,KRÜ Esports,atk,elim
+645494,258635,6,100 Thieves,KRÜ Esports,atk,elim
+645494,258635,7,KRÜ Esports,100 Thieves,def,defuse
+645494,258635,8,KRÜ Esports,100 Thieves,def,defuse
+645494,258635,9,100 Thieves,KRÜ Esports,atk,boom
+645494,258635,10,100 Thieves,KRÜ Esports,atk,elim
+645494,258635,11,100 Thieves,KRÜ Esports,atk,elim
+645494,258635,12,100 Thieves,KRÜ Esports,atk,elim
+645494,258635,13,100 Thieves,KRÜ Esports,def,elim
+645494,258635,14,100 Thieves,KRÜ Esports,def,defuse
+645494,258635,15,KRÜ Esports,100 Thieves,atk,elim
+645494,258635,16,KRÜ Esports,100 Thieves,atk,boom
+645494,258635,17,100 Thieves,KRÜ Esports,def,defuse
+645494,258636,1,KRÜ Esports,100 Thieves,def,defuse
+645494,258636,2,KRÜ Esports,100 Thieves,def,elim
+645494,258636,3,100 Thieves,KRÜ Esports,atk,elim
+645494,258636,4,KRÜ Esports,100 Thieves,def,elim
+645494,258636,5,100 Thieves,KRÜ Esports,atk,elim
+645494,258636,6,100 Thieves,KRÜ Esports,atk,elim
+645494,258636,7,KRÜ Esports,100 Thieves,def,defuse
+645494,258636,8,KRÜ Esports,100 Thieves,def,defuse
+645494,258636,9,100 Thieves,KRÜ Esports,atk,elim
+645494,258636,10,KRÜ Esports,100 Thieves,def,elim
+645494,258636,11,KRÜ Esports,100 Thieves,def,elim
+645494,258636,12,100 Thieves,KRÜ Esports,atk,elim
+645494,258636,13,KRÜ Esports,100 Thieves,atk,elim
+645494,258636,14,KRÜ Esports,100 Thieves,atk,boom
+645494,258636,15,100 Thieves,KRÜ Esports,def,elim
+645494,258636,16,100 Thieves,KRÜ Esports,def,defuse
+645494,258636,17,KRÜ Esports,100 Thieves,atk,elim
+645494,258636,18,KRÜ Esports,100 Thieves,atk,elim
+645494,258636,19,100 Thieves,KRÜ Esports,def,defuse
+645494,258636,20,100 Thieves,KRÜ Esports,def,elim
+645494,258636,21,KRÜ Esports,100 Thieves,atk,elim
+645494,258636,22,100 Thieves,KRÜ Esports,def,time
+645494,258636,23,KRÜ Esports,100 Thieves,atk,elim
+645494,258637,1,100 Thieves,KRÜ Esports,def,defuse
+645494,258637,2,100 Thieves,KRÜ Esports,def,elim
+645494,258637,3,KRÜ Esports,100 Thieves,atk,elim
+645494,258637,4,100 Thieves,KRÜ Esports,def,defuse
+645494,258637,5,KRÜ Esports,100 Thieves,atk,elim
+645494,258637,6,KRÜ Esports,100 Thieves,atk,elim
+645494,258637,7,KRÜ Esports,100 Thieves,atk,elim
+645494,258637,8,KRÜ Esports,100 Thieves,atk,elim
+645494,258637,9,100 Thieves,KRÜ Esports,def,defuse
+645494,258637,10,100 Thieves,KRÜ Esports,def,defuse
+645494,258637,11,100 Thieves,KRÜ Esports,def,defuse
+645494,258637,12,100 Thieves,KRÜ Esports,def,elim
+645494,258637,13,100 Thieves,KRÜ Esports,atk,elim
+645494,258637,14,100 Thieves,KRÜ Esports,atk,elim
+645494,258637,15,KRÜ Esports,100 Thieves,def,elim
+645494,258637,16,100 Thieves,KRÜ Esports,atk,elim
+645494,258637,17,100 Thieves,KRÜ Esports,atk,elim
+645494,258637,18,100 Thieves,KRÜ Esports,atk,elim
+645494,258637,19,100 Thieves,KRÜ Esports,atk,elim
+645495,258638,1,FURIA,Sentinels,atk,elim
+645495,258638,2,FURIA,Sentinels,atk,elim
+645495,258638,3,Sentinels,FURIA,def,elim
+645495,258638,4,FURIA,Sentinels,atk,elim
+645495,258638,5,FURIA,Sentinels,atk,elim
+645495,258638,6,Sentinels,FURIA,def,defuse
+645495,258638,7,FURIA,Sentinels,atk,elim
+645495,258638,8,FURIA,Sentinels,atk,boom
+645495,258638,9,FURIA,Sentinels,atk,elim
+645495,258638,10,FURIA,Sentinels,atk,elim
+645495,258638,11,Sentinels,FURIA,def,defuse
+645495,258638,12,Sentinels,FURIA,def,defuse
+645495,258638,13,FURIA,Sentinels,def,defuse
+645495,258638,14,FURIA,Sentinels,def,elim
+645495,258638,15,FURIA,Sentinels,def,time
+645495,258638,16,FURIA,Sentinels,def,elim
+645495,258638,17,FURIA,Sentinels,def,elim
+645495,258639,1,Sentinels,FURIA,atk,elim
+645495,258639,2,Sentinels,FURIA,atk,elim
+645495,258639,3,Sentinels,FURIA,atk,boom
+645495,258639,4,Sentinels,FURIA,atk,elim
+645495,258639,5,Sentinels,FURIA,atk,elim
+645495,258639,6,FURIA,Sentinels,def,defuse
+645495,258639,7,Sentinels,FURIA,atk,elim
+645495,258639,8,Sentinels,FURIA,atk,elim
+645495,258639,9,Sentinels,FURIA,atk,elim
+645495,258639,10,Sentinels,FURIA,atk,boom
+645495,258639,11,Sentinels,FURIA,atk,elim
+645495,258639,12,FURIA,Sentinels,def,elim
+645495,258639,13,Sentinels,FURIA,def,elim
+645495,258639,14,FURIA,Sentinels,atk,elim
+645495,258639,15,FURIA,Sentinels,atk,elim
+645495,258639,16,FURIA,Sentinels,atk,elim
+645495,258639,17,FURIA,Sentinels,atk,elim
+645495,258639,18,Sentinels,FURIA,def,elim
+645495,258639,19,FURIA,Sentinels,atk,elim
+645495,258639,20,Sentinels,FURIA,def,time
+645495,258640,1,Sentinels,FURIA,def,defuse
+645495,258640,2,Sentinels,FURIA,def,defuse
+645495,258640,3,FURIA,Sentinels,atk,elim
+645495,258640,4,Sentinels,FURIA,def,time
+645495,258640,5,FURIA,Sentinels,atk,elim
+645495,258640,6,FURIA,Sentinels,atk,boom
+645495,258640,7,FURIA,Sentinels,atk,elim
+645495,258640,8,FURIA,Sentinels,atk,boom
+645495,258640,9,Sentinels,FURIA,def,elim
+645495,258640,10,Sentinels,FURIA,def,elim
+645495,258640,11,FURIA,Sentinels,atk,elim
+645495,258640,12,FURIA,Sentinels,atk,elim
+645495,258640,13,Sentinels,FURIA,atk,elim
+645495,258640,14,Sentinels,FURIA,atk,elim
+645495,258640,15,FURIA,Sentinels,def,elim
+645495,258640,16,FURIA,Sentinels,def,defuse
+645495,258640,17,FURIA,Sentinels,def,elim
+645495,258640,18,FURIA,Sentinels,def,defuse
+645495,258640,19,FURIA,Sentinels,def,elim
+645495,258640,20,FURIA,Sentinels,def,elim
+645496,258641,1,LOUD,Cloud9,atk,elim
+645496,258641,2,LOUD,Cloud9,atk,elim
+645496,258641,3,LOUD,Cloud9,atk,elim
+645496,258641,4,LOUD,Cloud9,atk,elim
+645496,258641,5,LOUD,Cloud9,atk,boom
+645496,258641,6,LOUD,Cloud9,atk,boom
+645496,258641,7,Cloud9,LOUD,def,defuse
+645496,258641,8,LOUD,Cloud9,atk,elim
+645496,258641,9,LOUD,Cloud9,atk,boom
+645496,258641,10,LOUD,Cloud9,atk,boom
+645496,258641,11,LOUD,Cloud9,atk,elim
+645496,258641,12,LOUD,Cloud9,atk,elim
+645496,258641,13,LOUD,Cloud9,def,elim
+645496,258641,14,LOUD,Cloud9,def,elim
+645496,258642,1,Cloud9,LOUD,atk,elim
+645496,258642,2,Cloud9,LOUD,atk,elim
+645496,258642,3,Cloud9,LOUD,atk,boom
+645496,258642,4,Cloud9,LOUD,atk,elim
+645496,258642,5,LOUD,Cloud9,def,elim
+645496,258642,6,Cloud9,LOUD,atk,boom
+645496,258642,7,Cloud9,LOUD,atk,elim
+645496,258642,8,LOUD,Cloud9,def,defuse
+645496,258642,9,Cloud9,LOUD,atk,elim
+645496,258642,10,Cloud9,LOUD,atk,elim
+645496,258642,11,Cloud9,LOUD,atk,elim
+645496,258642,12,LOUD,Cloud9,def,defuse
+645496,258642,13,Cloud9,LOUD,def,defuse
+645496,258642,14,LOUD,Cloud9,atk,elim
+645496,258642,15,LOUD,Cloud9,atk,elim
+645496,258642,16,LOUD,Cloud9,atk,boom
+645496,258642,17,Cloud9,LOUD,def,elim
+645496,258642,18,LOUD,Cloud9,atk,elim
+645496,258642,19,LOUD,Cloud9,atk,boom
+645496,258642,20,Cloud9,LOUD,def,defuse
+645496,258642,21,Cloud9,LOUD,def,elim
+645496,258643,1,Cloud9,LOUD,def,defuse
+645496,258643,2,Cloud9,LOUD,def,elim
+645496,258643,3,LOUD,Cloud9,atk,elim
+645496,258643,4,LOUD,Cloud9,atk,elim
+645496,258643,5,LOUD,Cloud9,atk,boom
+645496,258643,6,Cloud9,LOUD,def,defuse
+645496,258643,7,LOUD,Cloud9,atk,boom
+645496,258643,8,LOUD,Cloud9,atk,boom
+645496,258643,9,Cloud9,LOUD,def,elim
+645496,258643,10,Cloud9,LOUD,def,elim
+645496,258643,11,LOUD,Cloud9,atk,elim
+645496,258643,12,LOUD,Cloud9,atk,elim
+645496,258643,13,Cloud9,LOUD,atk,elim
+645496,258643,14,Cloud9,LOUD,atk,elim
+645496,258643,15,Cloud9,LOUD,atk,elim
+645496,258643,16,Cloud9,LOUD,atk,elim
+645496,258643,17,LOUD,Cloud9,def,defuse
+645496,258643,18,LOUD,Cloud9,def,time
+645496,258643,19,Cloud9,LOUD,atk,elim
+645496,258643,20,LOUD,Cloud9,def,elim
+645496,258643,21,Cloud9,LOUD,atk,elim
+645496,258643,22,LOUD,Cloud9,def,elim
+645496,258643,23,LOUD,Cloud9,def,elim
+645496,258643,24,LOUD,Cloud9,def,defuse
+645497,258644,1,ENVY,G2 Esports,atk,elim
+645497,258644,2,G2 Esports,ENVY,def,elim
+645497,258644,3,G2 Esports,ENVY,def,elim
+645497,258644,4,G2 Esports,ENVY,def,elim
+645497,258644,5,G2 Esports,ENVY,def,defuse
+645497,258644,6,G2 Esports,ENVY,def,elim
+645497,258644,7,ENVY,G2 Esports,atk,elim
+645497,258644,8,ENVY,G2 Esports,atk,elim
+645497,258644,9,G2 Esports,ENVY,def,defuse
+645497,258644,10,G2 Esports,ENVY,def,defuse
+645497,258644,11,G2 Esports,ENVY,def,elim
+645497,258644,12,G2 Esports,ENVY,def,elim
+645497,258644,13,ENVY,G2 Esports,def,elim
+645497,258644,14,G2 Esports,ENVY,atk,elim
+645497,258644,15,G2 Esports,ENVY,atk,elim
+645497,258644,16,G2 Esports,ENVY,atk,elim
+645497,258644,17,G2 Esports,ENVY,atk,elim
+645497,258645,1,G2 Esports,ENVY,def,defuse
+645497,258645,2,G2 Esports,ENVY,def,elim
+645497,258645,3,G2 Esports,ENVY,def,elim
+645497,258645,4,G2 Esports,ENVY,def,elim
+645497,258645,5,G2 Esports,ENVY,def,defuse
+645497,258645,6,G2 Esports,ENVY,def,elim
+645497,258645,7,G2 Esports,ENVY,def,elim
+645497,258645,8,ENVY,G2 Esports,atk,elim
+645497,258645,9,ENVY,G2 Esports,atk,elim
+645497,258645,10,ENVY,G2 Esports,atk,elim
+645497,258645,11,ENVY,G2 Esports,atk,elim
+645497,258645,12,ENVY,G2 Esports,atk,elim
+645497,258645,13,G2 Esports,ENVY,atk,elim
+645497,258645,14,G2 Esports,ENVY,atk,elim
+645497,258645,15,ENVY,G2 Esports,def,elim
+645497,258645,16,G2 Esports,ENVY,atk,elim
+645497,258645,17,G2 Esports,ENVY,atk,elim
+645497,258645,18,G2 Esports,ENVY,atk,elim
+645497,258645,19,G2 Esports,ENVY,atk,elim
+645498,258647,1,Evil Geniuses,KRÜ Esports,def,time
+645498,258647,2,Evil Geniuses,KRÜ Esports,def,defuse
+645498,258647,3,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258647,4,Evil Geniuses,KRÜ Esports,def,elim
+645498,258647,5,Evil Geniuses,KRÜ Esports,def,defuse
+645498,258647,6,KRÜ Esports,Evil Geniuses,atk,boom
+645498,258647,7,Evil Geniuses,KRÜ Esports,def,defuse
+645498,258647,8,Evil Geniuses,KRÜ Esports,def,elim
+645498,258647,9,KRÜ Esports,Evil Geniuses,atk,boom
+645498,258647,10,Evil Geniuses,KRÜ Esports,def,defuse
+645498,258647,11,KRÜ Esports,Evil Geniuses,atk,boom
+645498,258647,12,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258647,13,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258647,14,Evil Geniuses,KRÜ Esports,atk,boom
+645498,258647,15,KRÜ Esports,Evil Geniuses,def,defuse
+645498,258647,16,KRÜ Esports,Evil Geniuses,def,defuse
+645498,258647,17,KRÜ Esports,Evil Geniuses,def,elim
+645498,258647,18,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258647,19,KRÜ Esports,Evil Geniuses,def,defuse
+645498,258647,20,KRÜ Esports,Evil Geniuses,def,elim
+645498,258647,21,KRÜ Esports,Evil Geniuses,def,defuse
+645498,258647,22,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258647,23,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258647,24,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258648,1,KRÜ Esports,Evil Geniuses,def,elim
+645498,258648,2,KRÜ Esports,Evil Geniuses,def,elim
+645498,258648,3,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258648,4,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258648,5,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258648,6,Evil Geniuses,KRÜ Esports,atk,boom
+645498,258648,7,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258648,8,KRÜ Esports,Evil Geniuses,def,elim
+645498,258648,9,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258648,10,KRÜ Esports,Evil Geniuses,def,elim
+645498,258648,11,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258648,12,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258648,13,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258648,14,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258648,15,Evil Geniuses,KRÜ Esports,def,defuse
+645498,258648,16,Evil Geniuses,KRÜ Esports,def,defuse
+645498,258648,17,Evil Geniuses,KRÜ Esports,def,elim
+645498,258648,18,KRÜ Esports,Evil Geniuses,atk,boom
+645498,258648,19,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258648,20,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258648,21,KRÜ Esports,Evil Geniuses,atk,boom
+645498,258648,22,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258648,23,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258648,24,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258649,1,KRÜ Esports,Evil Geniuses,def,elim
+645498,258649,2,KRÜ Esports,Evil Geniuses,def,defuse
+645498,258649,3,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258649,4,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258649,5,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258649,6,KRÜ Esports,Evil Geniuses,def,elim
+645498,258649,7,Evil Geniuses,KRÜ Esports,atk,elim
+645498,258649,8,KRÜ Esports,Evil Geniuses,def,elim
+645498,258649,9,Evil Geniuses,KRÜ Esports,atk,boom
+645498,258649,10,KRÜ Esports,Evil Geniuses,def,elim
+645498,258649,11,KRÜ Esports,Evil Geniuses,def,defuse
+645498,258649,12,KRÜ Esports,Evil Geniuses,def,defuse
+645498,258649,13,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258649,14,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258649,15,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258649,16,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258649,17,Evil Geniuses,KRÜ Esports,def,defuse
+645498,258649,18,KRÜ Esports,Evil Geniuses,atk,elim
+645498,258649,19,KRÜ Esports,Evil Geniuses,atk,elim
+645499,258650,1,100 Thieves,FURIA,atk,elim
+645499,258650,2,100 Thieves,FURIA,atk,elim
+645499,258650,3,FURIA,100 Thieves,def,elim
+645499,258650,4,100 Thieves,FURIA,atk,elim
+645499,258650,5,100 Thieves,FURIA,atk,elim
+645499,258650,6,FURIA,100 Thieves,def,elim
+645499,258650,7,FURIA,100 Thieves,def,elim
+645499,258650,8,FURIA,100 Thieves,def,elim
+645499,258650,9,100 Thieves,FURIA,atk,elim
+645499,258650,10,100 Thieves,FURIA,atk,boom
+645499,258650,11,FURIA,100 Thieves,def,elim
+645499,258650,12,100 Thieves,FURIA,atk,elim
+645499,258650,13,100 Thieves,FURIA,def,elim
+645499,258650,14,100 Thieves,FURIA,def,defuse
+645499,258650,15,FURIA,100 Thieves,atk,boom
+645499,258650,16,FURIA,100 Thieves,atk,elim
+645499,258650,17,FURIA,100 Thieves,atk,elim
+645499,258650,18,FURIA,100 Thieves,atk,boom
+645499,258650,19,FURIA,100 Thieves,atk,elim
+645499,258650,20,FURIA,100 Thieves,atk,elim
+645499,258650,21,FURIA,100 Thieves,atk,elim
+645499,258650,22,FURIA,100 Thieves,atk,elim
+645499,258651,1,100 Thieves,FURIA,atk,elim
+645499,258651,2,100 Thieves,FURIA,atk,elim
+645499,258651,3,FURIA,100 Thieves,def,elim
+645499,258651,4,FURIA,100 Thieves,def,defuse
+645499,258651,5,FURIA,100 Thieves,def,elim
+645499,258651,6,100 Thieves,FURIA,atk,elim
+645499,258651,7,100 Thieves,FURIA,atk,elim
+645499,258651,8,100 Thieves,FURIA,atk,elim
+645499,258651,9,100 Thieves,FURIA,atk,elim
+645499,258651,10,100 Thieves,FURIA,atk,boom
+645499,258651,11,FURIA,100 Thieves,def,elim
+645499,258651,12,100 Thieves,FURIA,atk,elim
+645499,258651,13,FURIA,100 Thieves,atk,elim
+645499,258651,14,FURIA,100 Thieves,atk,boom
+645499,258651,15,FURIA,100 Thieves,atk,elim
+645499,258651,16,FURIA,100 Thieves,atk,elim
+645499,258651,17,100 Thieves,FURIA,def,elim
+645499,258651,18,100 Thieves,FURIA,def,defuse
+645499,258651,19,100 Thieves,FURIA,def,elim
+645499,258651,20,100 Thieves,FURIA,def,defuse
+645499,258651,21,100 Thieves,FURIA,def,elim
+645499,258652,1,FURIA,100 Thieves,def,defuse
+645499,258652,2,FURIA,100 Thieves,def,defuse
+645499,258652,3,100 Thieves,FURIA,atk,elim
+645499,258652,4,100 Thieves,FURIA,atk,elim
+645499,258652,5,100 Thieves,FURIA,atk,elim
+645499,258652,6,100 Thieves,FURIA,atk,elim
+645499,258652,7,100 Thieves,FURIA,atk,elim
+645499,258652,8,FURIA,100 Thieves,def,elim
+645499,258652,9,100 Thieves,FURIA,atk,elim
+645499,258652,10,100 Thieves,FURIA,atk,elim
+645499,258652,11,100 Thieves,FURIA,atk,elim
+645499,258652,12,FURIA,100 Thieves,def,elim
+645499,258652,13,100 Thieves,FURIA,def,elim
+645499,258652,14,100 Thieves,FURIA,def,elim
+645499,258652,15,100 Thieves,FURIA,def,defuse
+645499,258652,16,FURIA,100 Thieves,atk,elim
+645499,258652,17,FURIA,100 Thieves,atk,elim
+645499,258652,18,100 Thieves,FURIA,def,time
+645499,258652,19,100 Thieves,FURIA,def,elim
+645500,258653,1,G2 Esports,Cloud9,def,defuse
+645500,258653,2,G2 Esports,Cloud9,def,defuse
+645500,258653,3,Cloud9,G2 Esports,atk,elim
+645500,258653,4,G2 Esports,Cloud9,def,elim
+645500,258653,5,G2 Esports,Cloud9,def,defuse
+645500,258653,6,Cloud9,G2 Esports,atk,elim
+645500,258653,7,G2 Esports,Cloud9,def,elim
+645500,258653,8,G2 Esports,Cloud9,def,elim
+645500,258653,9,Cloud9,G2 Esports,atk,elim
+645500,258653,10,Cloud9,G2 Esports,atk,elim
+645500,258653,11,G2 Esports,Cloud9,def,defuse
+645500,258653,12,G2 Esports,Cloud9,def,elim
+645500,258653,13,G2 Esports,Cloud9,atk,elim
+645500,258653,14,G2 Esports,Cloud9,atk,boom
+645500,258653,15,Cloud9,G2 Esports,def,elim
+645500,258653,16,Cloud9,G2 Esports,def,defuse
+645500,258653,17,G2 Esports,Cloud9,atk,elim
+645500,258653,18,G2 Esports,Cloud9,atk,elim
+645500,258653,19,G2 Esports,Cloud9,atk,elim
+645500,258654,1,G2 Esports,Cloud9,def,elim
+645500,258654,2,G2 Esports,Cloud9,def,elim
+645500,258654,3,G2 Esports,Cloud9,def,defuse
+645500,258654,4,G2 Esports,Cloud9,def,elim
+645500,258654,5,G2 Esports,Cloud9,def,time
+645500,258654,6,G2 Esports,Cloud9,def,time
+645500,258654,7,G2 Esports,Cloud9,def,elim
+645500,258654,8,Cloud9,G2 Esports,atk,elim
+645500,258654,9,Cloud9,G2 Esports,atk,elim
+645500,258654,10,G2 Esports,Cloud9,def,elim
+645500,258654,11,Cloud9,G2 Esports,atk,boom
+645500,258654,12,Cloud9,G2 Esports,atk,elim
+645500,258654,13,G2 Esports,Cloud9,atk,elim
+645500,258654,14,G2 Esports,Cloud9,atk,elim
+645500,258654,15,Cloud9,G2 Esports,def,defuse
+645500,258654,16,G2 Esports,Cloud9,atk,boom
+645500,258654,17,Cloud9,G2 Esports,def,elim
+645500,258654,18,Cloud9,G2 Esports,def,defuse
+645500,258654,19,Cloud9,G2 Esports,def,defuse
+645500,258654,20,Cloud9,G2 Esports,def,defuse
+645500,258654,21,G2 Esports,Cloud9,atk,elim
+645500,258654,22,G2 Esports,Cloud9,atk,elim
+645501,258656,1,ENVY,MIBR,atk,elim
+645501,258656,2,ENVY,MIBR,atk,elim
+645501,258656,3,ENVY,MIBR,atk,elim
+645501,258656,4,ENVY,MIBR,atk,boom
+645501,258656,5,ENVY,MIBR,atk,elim
+645501,258656,6,ENVY,MIBR,atk,elim
+645501,258656,7,ENVY,MIBR,atk,elim
+645501,258656,8,ENVY,MIBR,atk,elim
+645501,258656,9,ENVY,MIBR,atk,boom
+645501,258656,10,MIBR,ENVY,def,elim
+645501,258656,11,ENVY,MIBR,atk,elim
+645501,258656,12,ENVY,MIBR,atk,elim
+645501,258656,13,ENVY,MIBR,def,defuse
+645501,258656,14,ENVY,MIBR,def,elim
+645501,258657,1,ENVY,MIBR,def,defuse
+645501,258657,2,MIBR,ENVY,atk,elim
+645501,258657,3,ENVY,MIBR,def,defuse
+645501,258657,4,ENVY,MIBR,def,elim
+645501,258657,5,ENVY,MIBR,def,elim
+645501,258657,6,MIBR,ENVY,atk,elim
+645501,258657,7,ENVY,MIBR,def,defuse
+645501,258657,8,ENVY,MIBR,def,elim
+645501,258657,9,ENVY,MIBR,def,defuse
+645501,258657,10,MIBR,ENVY,atk,elim
+645501,258657,11,ENVY,MIBR,def,elim
+645501,258657,12,ENVY,MIBR,def,defuse
+645501,258657,13,ENVY,MIBR,atk,elim
+645501,258657,14,ENVY,MIBR,atk,elim
+645501,258657,15,ENVY,MIBR,atk,elim
+645501,258657,16,ENVY,MIBR,atk,elim
+645502,258659,1,LEVIATÁN,LOUD,def,defuse
+645502,258659,2,LEVIATÁN,LOUD,def,elim
+645502,258659,3,LEVIATÁN,LOUD,def,elim
+645502,258659,4,LEVIATÁN,LOUD,def,elim
+645502,258659,5,LOUD,LEVIATÁN,atk,elim
+645502,258659,6,LEVIATÁN,LOUD,def,elim
+645502,258659,7,LEVIATÁN,LOUD,def,defuse
+645502,258659,8,LEVIATÁN,LOUD,def,elim
+645502,258659,9,LEVIATÁN,LOUD,def,elim
+645502,258659,10,LOUD,LEVIATÁN,atk,elim
+645502,258659,11,LOUD,LEVIATÁN,atk,boom
+645502,258659,12,LEVIATÁN,LOUD,def,defuse
+645502,258659,13,LEVIATÁN,LOUD,atk,elim
+645502,258659,14,LEVIATÁN,LOUD,atk,elim
+645502,258659,15,LEVIATÁN,LOUD,atk,elim
+645502,258659,16,LEVIATÁN,LOUD,atk,elim
+645502,258660,1,LOUD,LEVIATÁN,def,defuse
+645502,258660,2,LEVIATÁN,LOUD,atk,elim
+645502,258660,3,LEVIATÁN,LOUD,atk,elim
+645502,258660,4,LEVIATÁN,LOUD,atk,elim
+645502,258660,5,LOUD,LEVIATÁN,def,time
+645502,258660,6,LEVIATÁN,LOUD,atk,elim
+645502,258660,7,LEVIATÁN,LOUD,atk,elim
+645502,258660,8,LOUD,LEVIATÁN,def,defuse
+645502,258660,9,LEVIATÁN,LOUD,atk,elim
+645502,258660,10,LOUD,LEVIATÁN,def,defuse
+645502,258660,11,LEVIATÁN,LOUD,atk,elim
+645502,258660,12,LEVIATÁN,LOUD,atk,elim
+645502,258660,13,LOUD,LEVIATÁN,atk,elim
+645502,258660,14,LOUD,LEVIATÁN,atk,elim
+645502,258660,15,LOUD,LEVIATÁN,atk,elim
+645502,258660,16,LOUD,LEVIATÁN,atk,boom
+645502,258660,17,LEVIATÁN,LOUD,def,elim
+645502,258660,18,LOUD,LEVIATÁN,atk,elim
+645502,258660,19,LEVIATÁN,LOUD,def,defuse
+645502,258660,20,LEVIATÁN,LOUD,def,defuse
+645502,258660,21,LOUD,LEVIATÁN,atk,elim
+645502,258660,22,LEVIATÁN,LOUD,def,defuse
+645502,258660,23,LOUD,LEVIATÁN,atk,elim
+645502,258660,24,LOUD,LEVIATÁN,atk,elim
+645502,258660,25,LOUD,LEVIATÁN,def,elim
+645502,258660,26,LOUD,LEVIATÁN,atk,elim
+645502,258661,1,LEVIATÁN,LOUD,atk,elim
+645502,258661,2,LEVIATÁN,LOUD,atk,elim
+645502,258661,3,LEVIATÁN,LOUD,atk,boom
+645502,258661,4,LEVIATÁN,LOUD,atk,elim
+645502,258661,5,LEVIATÁN,LOUD,atk,elim
+645502,258661,6,LOUD,LEVIATÁN,def,elim
+645502,258661,7,LEVIATÁN,LOUD,atk,elim
+645502,258661,8,LOUD,LEVIATÁN,def,defuse
+645502,258661,9,LEVIATÁN,LOUD,atk,elim
+645502,258661,10,LEVIATÁN,LOUD,atk,elim
+645502,258661,11,LEVIATÁN,LOUD,atk,elim
+645502,258661,12,LOUD,LEVIATÁN,def,elim
+645502,258661,13,LOUD,LEVIATÁN,atk,elim
+645502,258661,14,LOUD,LEVIATÁN,atk,elim
+645502,258661,15,LOUD,LEVIATÁN,atk,elim
+645502,258661,16,LOUD,LEVIATÁN,atk,boom
+645502,258661,17,LOUD,LEVIATÁN,atk,elim
+645502,258661,18,LOUD,LEVIATÁN,atk,elim
+645502,258661,19,LEVIATÁN,LOUD,def,defuse
+645502,258661,20,LOUD,LEVIATÁN,atk,boom
+645502,258661,21,LOUD,LEVIATÁN,atk,boom
+645502,258661,22,LOUD,LEVIATÁN,atk,elim
+645502,258661,23,LOUD,LEVIATÁN,atk,elim
+645503,258662,1,Sentinels,NRG,atk,elim
+645503,258662,2,Sentinels,NRG,atk,boom
+645503,258662,3,NRG,Sentinels,def,elim
+645503,258662,4,NRG,Sentinels,def,time
+645503,258662,5,NRG,Sentinels,def,elim
+645503,258662,6,Sentinels,NRG,atk,elim
+645503,258662,7,NRG,Sentinels,def,defuse
+645503,258662,8,Sentinels,NRG,atk,elim
+645503,258662,9,Sentinels,NRG,atk,elim
+645503,258662,10,Sentinels,NRG,atk,elim
+645503,258662,11,Sentinels,NRG,atk,boom
+645503,258662,12,Sentinels,NRG,atk,elim
+645503,258662,13,Sentinels,NRG,def,defuse
+645503,258662,14,NRG,Sentinels,atk,elim
+645503,258662,15,NRG,Sentinels,atk,boom
+645503,258662,16,NRG,Sentinels,atk,boom
+645503,258662,17,NRG,Sentinels,atk,elim
+645503,258662,18,NRG,Sentinels,atk,elim
+645503,258662,19,NRG,Sentinels,atk,boom
+645503,258662,20,Sentinels,NRG,def,defuse
+645503,258662,21,NRG,Sentinels,atk,elim
+645503,258662,22,NRG,Sentinels,atk,boom
+645503,258662,23,Sentinels,NRG,def,elim
+645503,258662,24,NRG,Sentinels,atk,elim
+645503,258663,1,Sentinels,NRG,def,defuse
+645503,258663,2,Sentinels,NRG,def,elim
+645503,258663,3,Sentinels,NRG,def,elim
+645503,258663,4,Sentinels,NRG,def,defuse
+645503,258663,5,NRG,Sentinels,atk,boom
+645503,258663,6,Sentinels,NRG,def,defuse
+645503,258663,7,NRG,Sentinels,atk,elim
+645503,258663,8,Sentinels,NRG,def,defuse
+645503,258663,9,NRG,Sentinels,atk,elim
+645503,258663,10,Sentinels,NRG,def,elim
+645503,258663,11,Sentinels,NRG,def,defuse
+645503,258663,12,Sentinels,NRG,def,defuse
+645503,258663,13,NRG,Sentinels,def,defuse
+645503,258663,14,NRG,Sentinels,def,elim
+645503,258663,15,NRG,Sentinels,def,defuse
+645503,258663,16,NRG,Sentinels,def,defuse
+645503,258663,17,NRG,Sentinels,def,elim
+645503,258663,18,Sentinels,NRG,atk,elim
+645503,258663,19,Sentinels,NRG,atk,boom
+645503,258663,20,NRG,Sentinels,def,defuse
+645503,258663,21,NRG,Sentinels,def,defuse
+645503,258663,22,NRG,Sentinels,def,defuse
+645503,258663,23,Sentinels,NRG,atk,elim
+645503,258663,24,Sentinels,NRG,atk,elim
+645503,258664,1,Sentinels,NRG,def,defuse
+645503,258664,2,Sentinels,NRG,def,elim
+645503,258664,3,NRG,Sentinels,atk,elim
+645503,258664,4,Sentinels,NRG,def,defuse
+645503,258664,5,NRG,Sentinels,atk,elim
+645503,258664,6,NRG,Sentinels,atk,elim
+645503,258664,7,NRG,Sentinels,atk,elim
+645503,258664,8,Sentinels,NRG,def,defuse
+645503,258664,9,Sentinels,NRG,def,defuse
+645503,258664,10,Sentinels,NRG,def,defuse
+645503,258664,11,NRG,Sentinels,atk,boom
+645503,258664,12,Sentinels,NRG,def,defuse
+645503,258664,13,NRG,Sentinels,def,elim
+645503,258664,14,NRG,Sentinels,def,elim
+645503,258664,15,NRG,Sentinels,def,elim
+645503,258664,16,NRG,Sentinels,def,defuse
+645503,258664,17,NRG,Sentinels,def,defuse
+645503,258664,18,NRG,Sentinels,def,defuse
+645503,258664,19,Sentinels,NRG,atk,elim
+645503,258664,20,Sentinels,NRG,atk,boom
+645503,258664,21,Sentinels,NRG,atk,boom
+645503,258664,22,NRG,Sentinels,def,elim
+645503,258664,23,NRG,Sentinels,def,defuse
+660369,265422,1,LEVIATÁN,FURIA,def,elim
+660369,265422,2,LEVIATÁN,FURIA,def,defuse
+660369,265422,3,FURIA,LEVIATÁN,atk,elim
+660369,265422,4,FURIA,LEVIATÁN,atk,boom
+660369,265422,5,FURIA,LEVIATÁN,atk,elim
+660369,265422,6,FURIA,LEVIATÁN,atk,elim
+660369,265422,7,FURIA,LEVIATÁN,atk,elim
+660369,265422,8,FURIA,LEVIATÁN,atk,elim
+660369,265422,9,FURIA,LEVIATÁN,atk,elim
+660369,265422,10,LEVIATÁN,FURIA,def,elim
+660369,265422,11,LEVIATÁN,FURIA,def,elim
+660369,265422,12,LEVIATÁN,FURIA,def,defuse
+660369,265422,13,FURIA,LEVIATÁN,def,defuse
+660369,265422,14,FURIA,LEVIATÁN,def,elim
+660369,265422,15,LEVIATÁN,FURIA,atk,elim
+660369,265422,16,FURIA,LEVIATÁN,def,defuse
+660369,265422,17,FURIA,LEVIATÁN,def,elim
+660369,265422,18,LEVIATÁN,FURIA,atk,elim
+660369,265422,19,FURIA,LEVIATÁN,def,elim
+660369,265422,20,LEVIATÁN,FURIA,atk,boom
+660369,265422,21,FURIA,LEVIATÁN,def,defuse
+660369,265423,1,FURIA,LEVIATÁN,def,elim
+660369,265423,2,FURIA,LEVIATÁN,def,elim
+660369,265423,3,LEVIATÁN,FURIA,atk,boom
+660369,265423,4,LEVIATÁN,FURIA,atk,boom
+660369,265423,5,FURIA,LEVIATÁN,def,defuse
+660369,265423,6,FURIA,LEVIATÁN,def,time
+660369,265423,7,LEVIATÁN,FURIA,atk,elim
+660369,265423,8,LEVIATÁN,FURIA,atk,boom
+660369,265423,9,LEVIATÁN,FURIA,atk,elim
+660369,265423,10,LEVIATÁN,FURIA,atk,boom
+660369,265423,11,LEVIATÁN,FURIA,atk,elim
+660369,265423,12,LEVIATÁN,FURIA,atk,elim
+660369,265423,13,LEVIATÁN,FURIA,def,elim
+660369,265423,14,LEVIATÁN,FURIA,def,elim
+660369,265423,15,FURIA,LEVIATÁN,atk,boom
+660369,265423,16,LEVIATÁN,FURIA,def,defuse
+660369,265423,17,LEVIATÁN,FURIA,def,defuse
+660369,265423,18,LEVIATÁN,FURIA,def,defuse
+660369,265424,1,LEVIATÁN,FURIA,def,defuse
+660369,265424,2,LEVIATÁN,FURIA,def,defuse
+660369,265424,3,LEVIATÁN,FURIA,def,elim
+660369,265424,4,LEVIATÁN,FURIA,def,elim
+660369,265424,5,LEVIATÁN,FURIA,def,elim
+660369,265424,6,LEVIATÁN,FURIA,def,defuse
+660369,265424,7,LEVIATÁN,FURIA,def,defuse
+660369,265424,8,LEVIATÁN,FURIA,def,elim
+660369,265424,9,FURIA,LEVIATÁN,atk,elim
+660369,265424,10,LEVIATÁN,FURIA,def,elim
+660369,265424,11,LEVIATÁN,FURIA,def,elim
+660369,265424,12,LEVIATÁN,FURIA,def,defuse
+660369,265424,13,LEVIATÁN,FURIA,atk,elim
+660369,265424,14,LEVIATÁN,FURIA,atk,elim
+660370,265425,1,100 Thieves,G2 Esports,atk,elim
+660370,265425,2,100 Thieves,G2 Esports,atk,elim
+660370,265425,3,G2 Esports,100 Thieves,def,defuse
+660370,265425,4,G2 Esports,100 Thieves,def,defuse
+660370,265425,5,G2 Esports,100 Thieves,def,elim
+660370,265425,6,100 Thieves,G2 Esports,atk,elim
+660370,265425,7,G2 Esports,100 Thieves,def,elim
+660370,265425,8,G2 Esports,100 Thieves,def,defuse
+660370,265425,9,G2 Esports,100 Thieves,def,elim
+660370,265425,10,100 Thieves,G2 Esports,atk,elim
+660370,265425,11,G2 Esports,100 Thieves,def,elim
+660370,265425,12,G2 Esports,100 Thieves,def,elim
+660370,265425,13,G2 Esports,100 Thieves,atk,elim
+660370,265425,14,G2 Esports,100 Thieves,atk,elim
+660370,265425,15,G2 Esports,100 Thieves,atk,elim
+660370,265425,16,G2 Esports,100 Thieves,atk,elim
+660370,265425,17,G2 Esports,100 Thieves,atk,elim
+660370,265426,1,G2 Esports,100 Thieves,def,defuse
+660370,265426,2,G2 Esports,100 Thieves,def,elim
+660370,265426,3,100 Thieves,G2 Esports,atk,elim
+660370,265426,4,G2 Esports,100 Thieves,def,elim
+660370,265426,5,G2 Esports,100 Thieves,def,elim
+660370,265426,6,G2 Esports,100 Thieves,def,defuse
+660370,265426,7,G2 Esports,100 Thieves,def,elim
+660370,265426,8,G2 Esports,100 Thieves,def,elim
+660370,265426,9,100 Thieves,G2 Esports,atk,elim
+660370,265426,10,G2 Esports,100 Thieves,def,defuse
+660370,265426,11,100 Thieves,G2 Esports,atk,elim
+660370,265426,12,100 Thieves,G2 Esports,atk,elim
+660370,265426,13,100 Thieves,G2 Esports,def,defuse
+660370,265426,14,100 Thieves,G2 Esports,def,defuse
+660370,265426,15,G2 Esports,100 Thieves,atk,elim
+660370,265426,16,G2 Esports,100 Thieves,atk,elim
+660370,265426,17,G2 Esports,100 Thieves,atk,elim
+660370,265426,18,G2 Esports,100 Thieves,atk,elim
+660370,265426,19,100 Thieves,G2 Esports,def,elim
+660370,265426,20,G2 Esports,100 Thieves,atk,elim
+660371,265428,1,LEVIATÁN,MIBR,atk,elim
+660371,265428,2,LEVIATÁN,MIBR,atk,elim
+660371,265428,3,LEVIATÁN,MIBR,atk,boom
+660371,265428,4,LEVIATÁN,MIBR,atk,elim
+660371,265428,5,MIBR,LEVIATÁN,def,defuse
+660371,265428,6,MIBR,LEVIATÁN,def,defuse
+660371,265428,7,MIBR,LEVIATÁN,def,defuse
+660371,265428,8,MIBR,LEVIATÁN,def,defuse
+660371,265428,9,LEVIATÁN,MIBR,atk,elim
+660371,265428,10,LEVIATÁN,MIBR,atk,elim
+660371,265428,11,LEVIATÁN,MIBR,atk,boom
+660371,265428,12,LEVIATÁN,MIBR,atk,elim
+660371,265428,13,MIBR,LEVIATÁN,atk,elim
+660371,265428,14,MIBR,LEVIATÁN,atk,boom
+660371,265428,15,MIBR,LEVIATÁN,atk,boom
+660371,265428,16,MIBR,LEVIATÁN,atk,elim
+660371,265428,17,LEVIATÁN,MIBR,def,defuse
+660371,265428,18,LEVIATÁN,MIBR,def,defuse
+660371,265428,19,MIBR,LEVIATÁN,atk,boom
+660371,265428,20,MIBR,LEVIATÁN,atk,boom
+660371,265428,21,LEVIATÁN,MIBR,def,defuse
+660371,265428,22,LEVIATÁN,MIBR,def,elim
+660371,265428,23,LEVIATÁN,MIBR,def,elim
+660371,265429,1,MIBR,LEVIATÁN,atk,elim
+660371,265429,2,MIBR,LEVIATÁN,atk,elim
+660371,265429,3,MIBR,LEVIATÁN,atk,elim
+660371,265429,4,MIBR,LEVIATÁN,atk,elim
+660371,265429,5,MIBR,LEVIATÁN,atk,elim
+660371,265429,6,MIBR,LEVIATÁN,atk,boom
+660371,265429,7,MIBR,LEVIATÁN,atk,elim
+660371,265429,8,MIBR,LEVIATÁN,atk,elim
+660371,265429,9,LEVIATÁN,MIBR,def,defuse
+660371,265429,10,LEVIATÁN,MIBR,def,defuse
+660371,265429,11,LEVIATÁN,MIBR,def,defuse
+660371,265429,12,LEVIATÁN,MIBR,def,defuse
+660371,265429,13,MIBR,LEVIATÁN,def,defuse
+660371,265429,14,MIBR,LEVIATÁN,def,defuse
+660371,265429,15,MIBR,LEVIATÁN,def,elim
+660371,265429,16,MIBR,LEVIATÁN,def,elim
+660371,265429,17,MIBR,LEVIATÁN,def,elim
+660371,265430,1,LEVIATÁN,MIBR,atk,elim
+660371,265430,2,LEVIATÁN,MIBR,atk,elim
+660371,265430,3,MIBR,LEVIATÁN,def,time
+660371,265430,4,LEVIATÁN,MIBR,atk,boom
+660371,265430,5,MIBR,LEVIATÁN,def,time
+660371,265430,6,LEVIATÁN,MIBR,atk,elim
+660371,265430,7,LEVIATÁN,MIBR,atk,boom
+660371,265430,8,LEVIATÁN,MIBR,atk,boom
+660371,265430,9,LEVIATÁN,MIBR,atk,elim
+660371,265430,10,MIBR,LEVIATÁN,def,defuse
+660371,265430,11,MIBR,LEVIATÁN,def,defuse
+660371,265430,12,LEVIATÁN,MIBR,atk,elim
+660371,265430,13,MIBR,LEVIATÁN,atk,elim
+660371,265430,14,MIBR,LEVIATÁN,atk,boom
+660371,265430,15,LEVIATÁN,MIBR,def,defuse
+660371,265430,16,LEVIATÁN,MIBR,def,time
+660371,265430,17,LEVIATÁN,MIBR,def,elim
+660371,265430,18,MIBR,LEVIATÁN,atk,elim
+660371,265430,19,LEVIATÁN,MIBR,def,elim
+660371,265430,20,LEVIATÁN,MIBR,def,defuse
+660372,265431,1,G2 Esports,KRÜ Esports,def,defuse
+660372,265431,2,G2 Esports,KRÜ Esports,def,defuse
+660372,265431,3,KRÜ Esports,G2 Esports,atk,elim
+660372,265431,4,KRÜ Esports,G2 Esports,atk,boom
+660372,265431,5,KRÜ Esports,G2 Esports,atk,elim
+660372,265431,6,KRÜ Esports,G2 Esports,atk,elim
+660372,265431,7,KRÜ Esports,G2 Esports,atk,elim
+660372,265431,8,G2 Esports,KRÜ Esports,def,elim
+660372,265431,9,KRÜ Esports,G2 Esports,atk,elim
+660372,265431,10,G2 Esports,KRÜ Esports,def,elim
+660372,265431,11,G2 Esports,KRÜ Esports,def,defuse
+660372,265431,12,KRÜ Esports,G2 Esports,atk,elim
+660372,265431,13,G2 Esports,KRÜ Esports,atk,elim
+660372,265431,14,KRÜ Esports,G2 Esports,def,elim
+660372,265431,15,KRÜ Esports,G2 Esports,def,defuse
+660372,265431,16,G2 Esports,KRÜ Esports,atk,elim
+660372,265431,17,G2 Esports,KRÜ Esports,atk,elim
+660372,265431,18,G2 Esports,KRÜ Esports,atk,boom
+660372,265431,19,KRÜ Esports,G2 Esports,def,defuse
+660372,265431,20,G2 Esports,KRÜ Esports,atk,boom
+660372,265431,21,KRÜ Esports,G2 Esports,def,defuse
+660372,265431,22,G2 Esports,KRÜ Esports,atk,elim
+660372,265431,23,G2 Esports,KRÜ Esports,atk,elim
+660372,265431,24,G2 Esports,KRÜ Esports,atk,elim
+660372,265432,1,KRÜ Esports,G2 Esports,atk,elim
+660372,265432,2,KRÜ Esports,G2 Esports,atk,elim
+660372,265432,3,G2 Esports,KRÜ Esports,def,defuse
+660372,265432,4,G2 Esports,KRÜ Esports,def,elim
+660372,265432,5,KRÜ Esports,G2 Esports,atk,elim
+660372,265432,6,KRÜ Esports,G2 Esports,atk,elim
+660372,265432,7,G2 Esports,KRÜ Esports,def,defuse
+660372,265432,8,G2 Esports,KRÜ Esports,def,elim
+660372,265432,9,KRÜ Esports,G2 Esports,atk,elim
+660372,265432,10,KRÜ Esports,G2 Esports,atk,elim
+660372,265432,11,G2 Esports,KRÜ Esports,def,defuse
+660372,265432,12,G2 Esports,KRÜ Esports,def,defuse
+660372,265432,13,G2 Esports,KRÜ Esports,atk,elim
+660372,265432,14,G2 Esports,KRÜ Esports,atk,elim
+660372,265432,15,KRÜ Esports,G2 Esports,def,defuse
+660372,265432,16,G2 Esports,KRÜ Esports,atk,elim
+660372,265432,17,G2 Esports,KRÜ Esports,atk,elim
+660372,265432,18,G2 Esports,KRÜ Esports,atk,elim
+660372,265432,19,G2 Esports,KRÜ Esports,atk,elim
+660372,265432,20,G2 Esports,KRÜ Esports,atk,elim
+660373,265434,1,G2 Esports,LEVIATÁN,atk,elim
+660373,265434,2,G2 Esports,LEVIATÁN,atk,boom
+660373,265434,3,LEVIATÁN,G2 Esports,def,elim
+660373,265434,4,G2 Esports,LEVIATÁN,atk,boom
+660373,265434,5,LEVIATÁN,G2 Esports,def,elim
+660373,265434,6,LEVIATÁN,G2 Esports,def,elim
+660373,265434,7,LEVIATÁN,G2 Esports,def,elim
+660373,265434,8,G2 Esports,LEVIATÁN,atk,elim
+660373,265434,9,G2 Esports,LEVIATÁN,atk,boom
+660373,265434,10,LEVIATÁN,G2 Esports,def,defuse
+660373,265434,11,LEVIATÁN,G2 Esports,def,elim
+660373,265434,12,G2 Esports,LEVIATÁN,atk,elim
+660373,265434,13,LEVIATÁN,G2 Esports,atk,elim
+660373,265434,14,LEVIATÁN,G2 Esports,atk,elim
+660373,265434,15,G2 Esports,LEVIATÁN,def,defuse
+660373,265434,16,LEVIATÁN,G2 Esports,atk,elim
+660373,265434,17,LEVIATÁN,G2 Esports,atk,elim
+660373,265434,18,LEVIATÁN,G2 Esports,atk,elim
+660373,265434,19,LEVIATÁN,G2 Esports,atk,elim
+660373,265434,20,LEVIATÁN,G2 Esports,atk,elim
+660373,265435,1,LEVIATÁN,G2 Esports,atk,elim
+660373,265435,2,LEVIATÁN,G2 Esports,atk,boom
+660373,265435,3,G2 Esports,LEVIATÁN,def,defuse
+660373,265435,4,LEVIATÁN,G2 Esports,atk,boom
+660373,265435,5,LEVIATÁN,G2 Esports,atk,elim
+660373,265435,6,G2 Esports,LEVIATÁN,def,elim
+660373,265435,7,LEVIATÁN,G2 Esports,atk,boom
+660373,265435,8,LEVIATÁN,G2 Esports,atk,boom
+660373,265435,9,LEVIATÁN,G2 Esports,atk,elim
+660373,265435,10,G2 Esports,LEVIATÁN,def,elim
+660373,265435,11,G2 Esports,LEVIATÁN,def,elim
+660373,265435,12,G2 Esports,LEVIATÁN,def,elim
+660373,265435,13,G2 Esports,LEVIATÁN,atk,elim
+660373,265435,14,G2 Esports,LEVIATÁN,atk,boom
+660373,265435,15,G2 Esports,LEVIATÁN,atk,boom
+660373,265435,16,G2 Esports,LEVIATÁN,atk,elim
+660373,265435,17,G2 Esports,LEVIATÁN,atk,elim
+660373,265435,18,G2 Esports,LEVIATÁN,atk,elim
+660373,265435,19,LEVIATÁN,G2 Esports,def,defuse
+660373,265435,20,G2 Esports,LEVIATÁN,atk,boom
+660373,265435,21,LEVIATÁN,G2 Esports,def,elim
+660373,265435,22,G2 Esports,LEVIATÁN,atk,elim
+660373,265436,1,LEVIATÁN,G2 Esports,atk,elim
+660373,265436,2,LEVIATÁN,G2 Esports,atk,elim
+660373,265436,3,G2 Esports,LEVIATÁN,def,elim
+660373,265436,4,G2 Esports,LEVIATÁN,def,elim
+660373,265436,5,G2 Esports,LEVIATÁN,def,elim
+660373,265436,6,G2 Esports,LEVIATÁN,def,elim
+660373,265436,7,LEVIATÁN,G2 Esports,atk,elim
+660373,265436,8,LEVIATÁN,G2 Esports,atk,boom
+660373,265436,9,LEVIATÁN,G2 Esports,atk,elim
+660373,265436,10,LEVIATÁN,G2 Esports,atk,elim
+660373,265436,11,LEVIATÁN,G2 Esports,atk,elim
+660373,265436,12,G2 Esports,LEVIATÁN,def,elim
+660373,265436,13,LEVIATÁN,G2 Esports,def,defuse
+660373,265436,14,LEVIATÁN,G2 Esports,def,defuse
+660373,265436,15,LEVIATÁN,G2 Esports,def,elim
+660373,265436,16,LEVIATÁN,G2 Esports,def,elim
+660373,265436,17,LEVIATÁN,G2 Esports,def,elim
+660373,265436,18,LEVIATÁN,G2 Esports,def,elim
+660374,265437,1,G2 Esports,LEVIATÁN,atk,elim
+660374,265437,2,LEVIATÁN,G2 Esports,def,defuse
+660374,265437,3,LEVIATÁN,G2 Esports,def,elim
+660374,265437,4,LEVIATÁN,G2 Esports,def,elim
+660374,265437,5,LEVIATÁN,G2 Esports,def,defuse
+660374,265437,6,G2 Esports,LEVIATÁN,atk,boom
+660374,265437,7,G2 Esports,LEVIATÁN,atk,elim
+660374,265437,8,LEVIATÁN,G2 Esports,def,defuse
+660374,265437,9,G2 Esports,LEVIATÁN,atk,boom
+660374,265437,10,LEVIATÁN,G2 Esports,def,defuse
+660374,265437,11,G2 Esports,LEVIATÁN,atk,elim
+660374,265437,12,G2 Esports,LEVIATÁN,atk,elim
+660374,265437,13,G2 Esports,LEVIATÁN,def,elim
+660374,265437,14,G2 Esports,LEVIATÁN,def,defuse
+660374,265437,15,G2 Esports,LEVIATÁN,def,elim
+660374,265437,16,LEVIATÁN,G2 Esports,atk,boom
+660374,265437,17,LEVIATÁN,G2 Esports,atk,elim
+660374,265437,18,G2 Esports,LEVIATÁN,def,elim
+660374,265437,19,LEVIATÁN,G2 Esports,atk,boom
+660374,265437,20,G2 Esports,LEVIATÁN,def,defuse
+660374,265437,21,LEVIATÁN,G2 Esports,atk,elim
+660374,265437,22,LEVIATÁN,G2 Esports,atk,elim
+660374,265437,23,G2 Esports,LEVIATÁN,def,time
+660374,265437,24,LEVIATÁN,G2 Esports,atk,elim
+660374,265437,25,G2 Esports,LEVIATÁN,atk,elim
+660374,265437,26,G2 Esports,LEVIATÁN,def,defuse
+660374,265438,1,G2 Esports,LEVIATÁN,def,defuse
+660374,265438,2,G2 Esports,LEVIATÁN,def,elim
+660374,265438,3,G2 Esports,LEVIATÁN,def,defuse
+660374,265438,4,LEVIATÁN,G2 Esports,atk,elim
+660374,265438,5,G2 Esports,LEVIATÁN,def,defuse
+660374,265438,6,LEVIATÁN,G2 Esports,atk,elim
+660374,265438,7,LEVIATÁN,G2 Esports,atk,elim
+660374,265438,8,LEVIATÁN,G2 Esports,atk,elim
+660374,265438,9,LEVIATÁN,G2 Esports,atk,elim
+660374,265438,10,LEVIATÁN,G2 Esports,atk,elim
+660374,265438,11,G2 Esports,LEVIATÁN,def,elim
+660374,265438,12,G2 Esports,LEVIATÁN,def,elim
+660374,265438,13,LEVIATÁN,G2 Esports,def,defuse
+660374,265438,14,LEVIATÁN,G2 Esports,def,defuse
+660374,265438,15,G2 Esports,LEVIATÁN,atk,boom
+660374,265438,16,LEVIATÁN,G2 Esports,def,defuse
+660374,265438,17,G2 Esports,LEVIATÁN,atk,elim
+660374,265438,18,LEVIATÁN,G2 Esports,def,elim
+660374,265438,19,G2 Esports,LEVIATÁN,atk,boom
+660374,265438,20,LEVIATÁN,G2 Esports,def,defuse
+660374,265438,21,G2 Esports,LEVIATÁN,atk,elim
+660374,265438,22,G2 Esports,LEVIATÁN,atk,boom
+660374,265438,23,LEVIATÁN,G2 Esports,def,defuse
+660374,265438,24,LEVIATÁN,G2 Esports,def,elim
+660374,265439,1,G2 Esports,LEVIATÁN,atk,elim
+660374,265439,2,G2 Esports,LEVIATÁN,atk,elim
+660374,265439,3,G2 Esports,LEVIATÁN,atk,boom
+660374,265439,4,LEVIATÁN,G2 Esports,def,time
+660374,265439,5,LEVIATÁN,G2 Esports,def,elim
+660374,265439,6,G2 Esports,LEVIATÁN,atk,elim
+660374,265439,7,LEVIATÁN,G2 Esports,def,defuse
+660374,265439,8,LEVIATÁN,G2 Esports,def,elim
+660374,265439,9,LEVIATÁN,G2 Esports,def,defuse
+660374,265439,10,LEVIATÁN,G2 Esports,def,elim
+660374,265439,11,G2 Esports,LEVIATÁN,atk,elim
+660374,265439,12,LEVIATÁN,G2 Esports,def,elim
+660374,265439,13,LEVIATÁN,G2 Esports,atk,elim
+660374,265439,14,LEVIATÁN,G2 Esports,atk,elim
+660374,265439,15,G2 Esports,LEVIATÁN,def,defuse
+660374,265439,16,G2 Esports,LEVIATÁN,def,defuse
+660374,265439,17,G2 Esports,LEVIATÁN,def,defuse
+660374,265439,18,LEVIATÁN,G2 Esports,atk,elim
+660374,265439,19,LEVIATÁN,G2 Esports,atk,elim
+660374,265439,20,G2 Esports,LEVIATÁN,def,elim
+660374,265439,21,LEVIATÁN,G2 Esports,atk,elim
+660374,265439,22,LEVIATÁN,G2 Esports,atk,elim
+660374,265440,1,LEVIATÁN,G2 Esports,atk,elim
+660374,265440,2,LEVIATÁN,G2 Esports,atk,elim
+660374,265440,3,G2 Esports,LEVIATÁN,def,time
+660374,265440,4,G2 Esports,LEVIATÁN,def,defuse
+660374,265440,5,LEVIATÁN,G2 Esports,atk,boom
+660374,265440,6,G2 Esports,LEVIATÁN,def,defuse
+660374,265440,7,G2 Esports,LEVIATÁN,def,time
+660374,265440,8,G2 Esports,LEVIATÁN,def,defuse
+660374,265440,9,G2 Esports,LEVIATÁN,def,defuse
+660374,265440,10,G2 Esports,LEVIATÁN,def,defuse
+660374,265440,11,G2 Esports,LEVIATÁN,def,time
+660374,265440,12,G2 Esports,LEVIATÁN,def,defuse
+660374,265440,13,G2 Esports,LEVIATÁN,atk,elim
+660374,265440,14,G2 Esports,LEVIATÁN,atk,boom
+660374,265440,15,LEVIATÁN,G2 Esports,def,elim
+660374,265440,16,LEVIATÁN,G2 Esports,def,defuse
+660374,265440,17,LEVIATÁN,G2 Esports,def,defuse
+660374,265440,18,LEVIATÁN,G2 Esports,def,elim
+660374,265440,19,LEVIATÁN,G2 Esports,def,defuse
+660374,265440,20,LEVIATÁN,G2 Esports,def,defuse
+660374,265440,21,LEVIATÁN,G2 Esports,def,elim
+660374,265440,22,G2 Esports,LEVIATÁN,atk,elim
+660374,265440,23,G2 Esports,LEVIATÁN,atk,elim
+660374,265441,1,G2 Esports,LEVIATÁN,atk,elim
+660374,265441,2,G2 Esports,LEVIATÁN,atk,boom
+660374,265441,3,G2 Esports,LEVIATÁN,atk,boom
+660374,265441,4,LEVIATÁN,G2 Esports,def,defuse
+660374,265441,5,LEVIATÁN,G2 Esports,def,defuse
+660374,265441,6,LEVIATÁN,G2 Esports,def,elim
+660374,265441,7,G2 Esports,LEVIATÁN,atk,elim
+660374,265441,8,LEVIATÁN,G2 Esports,def,defuse
+660374,265441,9,LEVIATÁN,G2 Esports,def,defuse
+660374,265441,10,G2 Esports,LEVIATÁN,atk,elim
+660374,265441,11,LEVIATÁN,G2 Esports,def,time
+660374,265441,12,LEVIATÁN,G2 Esports,def,defuse
+660374,265441,13,G2 Esports,LEVIATÁN,def,elim
+660374,265441,14,G2 Esports,LEVIATÁN,def,elim
+660374,265441,15,LEVIATÁN,G2 Esports,atk,elim
+660374,265441,16,G2 Esports,LEVIATÁN,def,defuse
+660374,265441,17,LEVIATÁN,G2 Esports,atk,elim
+660374,265441,18,LEVIATÁN,G2 Esports,atk,elim
+660374,265441,19,G2 Esports,LEVIATÁN,def,defuse
+660374,265441,20,G2 Esports,LEVIATÁN,def,defuse
+660374,265441,21,G2 Esports,LEVIATÁN,def,elim
+660374,265441,22,G2 Esports,LEVIATÁN,def,time
+660374,265441,23,LEVIATÁN,G2 Esports,atk,boom
+660374,265441,24,G2 Esports,LEVIATÁN,def,elim
+660375,265442,1,NRG,FURIA,def,elim
+660375,265442,2,NRG,FURIA,def,elim
+660375,265442,3,FURIA,NRG,atk,boom
+660375,265442,4,NRG,FURIA,def,elim
+660375,265442,5,FURIA,NRG,atk,boom
+660375,265442,6,NRG,FURIA,def,elim
+660375,265442,7,NRG,FURIA,def,elim
+660375,265442,8,NRG,FURIA,def,elim
+660375,265442,9,NRG,FURIA,def,elim
+660375,265442,10,FURIA,NRG,atk,elim
+660375,265442,11,FURIA,NRG,atk,elim
+660375,265442,12,NRG,FURIA,def,elim
+660375,265442,13,NRG,FURIA,atk,elim
+660375,265442,14,NRG,FURIA,atk,boom
+660375,265442,15,NRG,FURIA,atk,elim
+660375,265442,16,NRG,FURIA,atk,elim
+660375,265442,17,NRG,FURIA,atk,elim
+660375,265443,1,NRG,FURIA,atk,elim
+660375,265443,2,NRG,FURIA,atk,boom
+660375,265443,3,FURIA,NRG,def,elim
+660375,265443,4,NRG,FURIA,atk,boom
+660375,265443,5,NRG,FURIA,atk,elim
+660375,265443,6,FURIA,NRG,def,elim
+660375,265443,7,FURIA,NRG,def,elim
+660375,265443,8,FURIA,NRG,def,elim
+660375,265443,9,FURIA,NRG,def,defuse
+660375,265443,10,NRG,FURIA,atk,boom
+660375,265443,11,FURIA,NRG,def,defuse
+660375,265443,12,NRG,FURIA,atk,elim
+660375,265443,13,NRG,FURIA,def,defuse
+660375,265443,14,NRG,FURIA,def,elim
+660375,265443,15,NRG,FURIA,def,elim
+660375,265443,16,NRG,FURIA,def,defuse
+660375,265443,17,FURIA,NRG,atk,boom
+660375,265443,18,NRG,FURIA,def,defuse
+660375,265443,19,FURIA,NRG,atk,elim
+660375,265443,20,NRG,FURIA,def,defuse
+660375,265443,21,NRG,FURIA,def,defuse
+660376,265445,1,100 Thieves,LOUD,atk,elim
+660376,265445,2,100 Thieves,LOUD,atk,elim
+660376,265445,3,100 Thieves,LOUD,atk,elim
+660376,265445,4,100 Thieves,LOUD,atk,elim
+660376,265445,5,LOUD,100 Thieves,def,defuse
+660376,265445,6,100 Thieves,LOUD,atk,elim
+660376,265445,7,100 Thieves,LOUD,atk,elim
+660376,265445,8,LOUD,100 Thieves,def,defuse
+660376,265445,9,LOUD,100 Thieves,def,defuse
+660376,265445,10,100 Thieves,LOUD,atk,elim
+660376,265445,11,100 Thieves,LOUD,atk,elim
+660376,265445,12,100 Thieves,LOUD,atk,elim
+660376,265445,13,LOUD,100 Thieves,atk,elim
+660376,265445,14,LOUD,100 Thieves,atk,elim
+660376,265445,15,100 Thieves,LOUD,def,elim
+660376,265445,16,100 Thieves,LOUD,def,time
+660376,265445,17,100 Thieves,LOUD,def,defuse
+660376,265445,18,100 Thieves,LOUD,def,elim
+660376,265446,1,LOUD,100 Thieves,atk,elim
+660376,265446,2,LOUD,100 Thieves,atk,elim
+660376,265446,3,100 Thieves,LOUD,def,elim
+660376,265446,4,100 Thieves,LOUD,def,time
+660376,265446,5,100 Thieves,LOUD,def,elim
+660376,265446,6,100 Thieves,LOUD,def,elim
+660376,265446,7,LOUD,100 Thieves,atk,boom
+660376,265446,8,100 Thieves,LOUD,def,elim
+660376,265446,9,100 Thieves,LOUD,def,defuse
+660376,265446,10,100 Thieves,LOUD,def,elim
+660376,265446,11,LOUD,100 Thieves,atk,elim
+660376,265446,12,100 Thieves,LOUD,def,elim
+660376,265446,13,100 Thieves,LOUD,atk,elim
+660376,265446,14,100 Thieves,LOUD,atk,elim
+660376,265446,15,100 Thieves,LOUD,atk,elim
+660376,265446,16,100 Thieves,LOUD,atk,elim
+660376,265446,17,100 Thieves,LOUD,atk,elim
+660377,265448,1,KRÜ Esports,NRG,atk,elim
+660377,265448,2,KRÜ Esports,NRG,atk,elim
+660377,265448,3,NRG,KRÜ Esports,def,elim
+660377,265448,4,NRG,KRÜ Esports,def,defuse
+660377,265448,5,NRG,KRÜ Esports,def,elim
+660377,265448,6,NRG,KRÜ Esports,def,elim
+660377,265448,7,KRÜ Esports,NRG,atk,elim
+660377,265448,8,NRG,KRÜ Esports,def,defuse
+660377,265448,9,KRÜ Esports,NRG,atk,elim
+660377,265448,10,NRG,KRÜ Esports,def,defuse
+660377,265448,11,NRG,KRÜ Esports,def,elim
+660377,265448,12,NRG,KRÜ Esports,def,elim
+660377,265448,13,KRÜ Esports,NRG,def,elim
+660377,265448,14,KRÜ Esports,NRG,def,elim
+660377,265448,15,NRG,KRÜ Esports,atk,elim
+660377,265448,16,KRÜ Esports,NRG,def,elim
+660377,265448,17,NRG,KRÜ Esports,atk,boom
+660377,265448,18,KRÜ Esports,NRG,def,defuse
+660377,265448,19,NRG,KRÜ Esports,atk,boom
+660377,265448,20,NRG,KRÜ Esports,atk,boom
+660377,265448,21,NRG,KRÜ Esports,atk,elim
+660377,265449,1,NRG,KRÜ Esports,def,defuse
+660377,265449,2,NRG,KRÜ Esports,def,defuse
+660377,265449,3,NRG,KRÜ Esports,def,defuse
+660377,265449,4,NRG,KRÜ Esports,def,elim
+660377,265449,5,NRG,KRÜ Esports,def,defuse
+660377,265449,6,NRG,KRÜ Esports,def,defuse
+660377,265449,7,NRG,KRÜ Esports,def,defuse
+660377,265449,8,NRG,KRÜ Esports,def,elim
+660377,265449,9,NRG,KRÜ Esports,def,elim
+660377,265449,10,KRÜ Esports,NRG,atk,elim
+660377,265449,11,NRG,KRÜ Esports,def,elim
+660377,265449,12,NRG,KRÜ Esports,def,defuse
+660377,265449,13,KRÜ Esports,NRG,def,elim
+660377,265449,14,KRÜ Esports,NRG,def,elim
+660377,265449,15,NRG,KRÜ Esports,atk,elim
+660377,265449,16,KRÜ Esports,NRG,def,elim
+660377,265449,17,NRG,KRÜ Esports,atk,elim
+660378,265451,1,100 Thieves,MIBR,atk,elim
+660378,265451,2,100 Thieves,MIBR,atk,elim
+660378,265451,3,100 Thieves,MIBR,atk,boom
+660378,265451,4,MIBR,100 Thieves,def,defuse
+660378,265451,5,MIBR,100 Thieves,def,defuse
+660378,265451,6,100 Thieves,MIBR,atk,elim
+660378,265451,7,MIBR,100 Thieves,def,elim
+660378,265451,8,100 Thieves,MIBR,atk,elim
+660378,265451,9,100 Thieves,MIBR,atk,elim
+660378,265451,10,100 Thieves,MIBR,atk,boom
+660378,265451,11,MIBR,100 Thieves,def,defuse
+660378,265451,12,MIBR,100 Thieves,def,defuse
+660378,265451,13,100 Thieves,MIBR,def,elim
+660378,265451,14,100 Thieves,MIBR,def,elim
+660378,265451,15,MIBR,100 Thieves,atk,elim
+660378,265451,16,MIBR,100 Thieves,atk,elim
+660378,265451,17,MIBR,100 Thieves,atk,elim
+660378,265451,18,MIBR,100 Thieves,atk,elim
+660378,265451,19,MIBR,100 Thieves,atk,elim
+660378,265451,20,100 Thieves,MIBR,def,elim
+660378,265451,21,100 Thieves,MIBR,def,elim
+660378,265451,22,MIBR,100 Thieves,atk,elim
+660378,265451,23,100 Thieves,MIBR,def,elim
+660378,265451,24,100 Thieves,MIBR,def,defuse
+660378,265452,1,100 Thieves,MIBR,atk,boom
+660378,265452,2,100 Thieves,MIBR,atk,elim
+660378,265452,3,100 Thieves,MIBR,atk,elim
+660378,265452,4,100 Thieves,MIBR,atk,elim
+660378,265452,5,MIBR,100 Thieves,def,elim
+660378,265452,6,MIBR,100 Thieves,def,defuse
+660378,265452,7,MIBR,100 Thieves,def,elim
+660378,265452,8,100 Thieves,MIBR,atk,boom
+660378,265452,9,100 Thieves,MIBR,atk,elim
+660378,265452,10,100 Thieves,MIBR,atk,boom
+660378,265452,11,100 Thieves,MIBR,atk,boom
+660378,265452,12,100 Thieves,MIBR,atk,boom
+660378,265452,13,100 Thieves,MIBR,def,elim
+660378,265452,14,100 Thieves,MIBR,def,elim
+660378,265452,15,MIBR,100 Thieves,atk,elim
+660378,265452,16,MIBR,100 Thieves,atk,elim
+660378,265452,17,MIBR,100 Thieves,atk,elim
+660378,265452,18,100 Thieves,MIBR,def,elim
+660378,265452,19,MIBR,100 Thieves,atk,elim
+660378,265452,20,100 Thieves,MIBR,def,elim
+660379,265454,1,NRG,100 Thieves,def,elim
+660379,265454,2,NRG,100 Thieves,def,elim
+660379,265454,3,100 Thieves,NRG,atk,elim
+660379,265454,4,100 Thieves,NRG,atk,elim
+660379,265454,5,100 Thieves,NRG,atk,elim
+660379,265454,6,NRG,100 Thieves,def,elim
+660379,265454,7,100 Thieves,NRG,atk,boom
+660379,265454,8,NRG,100 Thieves,def,elim
+660379,265454,9,NRG,100 Thieves,def,defuse
+660379,265454,10,NRG,100 Thieves,def,defuse
+660379,265454,11,NRG,100 Thieves,def,elim
+660379,265454,12,NRG,100 Thieves,def,defuse
+660379,265454,13,100 Thieves,NRG,def,defuse
+660379,265454,14,100 Thieves,NRG,def,elim
+660379,265454,15,NRG,100 Thieves,atk,elim
+660379,265454,16,100 Thieves,NRG,def,defuse
+660379,265454,17,NRG,100 Thieves,atk,elim
+660379,265454,18,100 Thieves,NRG,def,defuse
+660379,265454,19,100 Thieves,NRG,def,time
+660379,265454,20,NRG,100 Thieves,atk,elim
+660379,265454,21,NRG,100 Thieves,atk,elim
+660379,265454,22,NRG,100 Thieves,atk,elim
+660379,265455,1,NRG,100 Thieves,atk,elim
+660379,265455,2,NRG,100 Thieves,atk,boom
+660379,265455,3,100 Thieves,NRG,def,elim
+660379,265455,4,NRG,100 Thieves,atk,elim
+660379,265455,5,NRG,100 Thieves,atk,elim
+660379,265455,6,100 Thieves,NRG,def,time
+660379,265455,7,NRG,100 Thieves,atk,elim
+660379,265455,8,NRG,100 Thieves,atk,boom
+660379,265455,9,100 Thieves,NRG,def,elim
+660379,265455,10,100 Thieves,NRG,def,elim
+660379,265455,11,NRG,100 Thieves,atk,elim
+660379,265455,12,100 Thieves,NRG,def,elim
+660379,265455,13,100 Thieves,NRG,atk,elim
+660379,265455,14,100 Thieves,NRG,atk,boom
+660379,265455,15,100 Thieves,NRG,atk,boom
+660379,265455,16,100 Thieves,NRG,atk,elim
+660379,265455,17,NRG,100 Thieves,def,elim
+660379,265455,18,NRG,100 Thieves,def,elim
+660379,265455,19,100 Thieves,NRG,atk,elim
+660379,265455,20,100 Thieves,NRG,atk,boom
+660379,265455,21,NRG,100 Thieves,def,defuse
+660379,265455,22,NRG,100 Thieves,def,elim
+660379,265455,23,NRG,100 Thieves,def,defuse
+660379,265455,24,NRG,100 Thieves,def,elim
+660380,265457,1,G2 Esports,NRG,atk,elim
+660380,265457,2,G2 Esports,NRG,atk,elim
+660380,265457,3,NRG,G2 Esports,def,elim
+660380,265457,4,G2 Esports,NRG,atk,boom
+660380,265457,5,G2 Esports,NRG,atk,elim
+660380,265457,6,NRG,G2 Esports,def,defuse
+660380,265457,7,NRG,G2 Esports,def,elim
+660380,265457,8,NRG,G2 Esports,def,defuse
+660380,265457,9,G2 Esports,NRG,atk,elim
+660380,265457,10,G2 Esports,NRG,atk,boom
+660380,265457,11,G2 Esports,NRG,atk,elim
+660380,265457,12,G2 Esports,NRG,atk,elim
+660380,265457,13,NRG,G2 Esports,atk,elim
+660380,265457,14,NRG,G2 Esports,atk,boom
+660380,265457,15,NRG,G2 Esports,atk,boom
+660380,265457,16,G2 Esports,NRG,def,elim
+660380,265457,17,NRG,G2 Esports,atk,boom
+660380,265457,18,G2 Esports,NRG,def,time
+660380,265457,19,G2 Esports,NRG,def,time
+660380,265457,20,G2 Esports,NRG,def,defuse
+660380,265457,21,G2 Esports,NRG,def,defuse
+660380,265458,1,G2 Esports,NRG,atk,boom
+660380,265458,2,G2 Esports,NRG,atk,boom
+660380,265458,3,NRG,G2 Esports,def,defuse
+660380,265458,4,NRG,G2 Esports,def,defuse
+660380,265458,5,NRG,G2 Esports,def,defuse
+660380,265458,6,G2 Esports,NRG,atk,elim
+660380,265458,7,G2 Esports,NRG,atk,elim
+660380,265458,8,G2 Esports,NRG,atk,elim
+660380,265458,9,NRG,G2 Esports,def,defuse
+660380,265458,10,G2 Esports,NRG,atk,elim
+660380,265458,11,NRG,G2 Esports,def,defuse
+660380,265458,12,NRG,G2 Esports,def,time
+660380,265458,13,NRG,G2 Esports,atk,elim
+660380,265458,14,NRG,G2 Esports,atk,boom
+660380,265458,15,NRG,G2 Esports,atk,elim
+660380,265458,16,NRG,G2 Esports,atk,boom
+660380,265458,17,NRG,G2 Esports,atk,boom
+660380,265458,18,NRG,G2 Esports,atk,boom
+660380,265458,19,NRG,G2 Esports,atk,elim
+660380,265459,1,NRG,G2 Esports,atk,elim
+660380,265459,2,NRG,G2 Esports,atk,elim
+660380,265459,3,G2 Esports,NRG,def,elim
+660380,265459,4,G2 Esports,NRG,def,elim
+660380,265459,5,G2 Esports,NRG,def,elim
+660380,265459,6,G2 Esports,NRG,def,elim
+660380,265459,7,G2 Esports,NRG,def,elim
+660380,265459,8,G2 Esports,NRG,def,time
+660380,265459,9,G2 Esports,NRG,def,defuse
+660380,265459,10,NRG,G2 Esports,atk,elim
+660380,265459,11,G2 Esports,NRG,def,time
+660380,265459,12,NRG,G2 Esports,atk,elim
+660380,265459,13,NRG,G2 Esports,def,defuse
+660380,265459,14,NRG,G2 Esports,def,defuse
+660380,265459,15,G2 Esports,NRG,atk,boom
+660380,265459,16,G2 Esports,NRG,atk,boom
+660380,265459,17,G2 Esports,NRG,atk,elim
+660380,265459,18,G2 Esports,NRG,atk,elim
+660380,265459,19,NRG,G2 Esports,def,elim
+660380,265459,20,G2 Esports,NRG,atk,elim
+660380,265460,1,NRG,G2 Esports,atk,elim
+660380,265460,2,NRG,G2 Esports,atk,elim
+660380,265460,3,G2 Esports,NRG,def,elim
+660380,265460,4,G2 Esports,NRG,def,time
+660380,265460,5,NRG,G2 Esports,atk,elim
+660380,265460,6,G2 Esports,NRG,def,defuse
+660380,265460,7,NRG,G2 Esports,atk,elim
+660380,265460,8,G2 Esports,NRG,def,elim
+660380,265460,9,G2 Esports,NRG,def,elim
+660380,265460,10,NRG,G2 Esports,atk,elim
+660380,265460,11,G2 Esports,NRG,def,elim
+660380,265460,12,NRG,G2 Esports,atk,elim
+660380,265460,13,NRG,G2 Esports,def,elim
+660380,265460,14,NRG,G2 Esports,def,defuse
+660380,265460,15,G2 Esports,NRG,atk,elim
+660380,265460,16,G2 Esports,NRG,atk,elim
+660380,265460,17,G2 Esports,NRG,atk,elim
+660380,265460,18,NRG,G2 Esports,def,elim
+660380,265460,19,G2 Esports,NRG,atk,elim
+660380,265460,20,NRG,G2 Esports,def,defuse
+660380,265460,21,NRG,G2 Esports,def,elim
+660380,265460,22,NRG,G2 Esports,def,defuse
+660380,265460,23,NRG,G2 Esports,def,defuse
+660380,265461,1,NRG,G2 Esports,def,defuse
+660380,265461,2,NRG,G2 Esports,def,elim
+660380,265461,3,G2 Esports,NRG,atk,elim
+660380,265461,4,G2 Esports,NRG,atk,boom
+660380,265461,5,G2 Esports,NRG,atk,elim
+660380,265461,6,G2 Esports,NRG,atk,elim
+660380,265461,7,NRG,G2 Esports,def,defuse
+660380,265461,8,NRG,G2 Esports,def,defuse
+660380,265461,9,NRG,G2 Esports,def,defuse
+660380,265461,10,NRG,G2 Esports,def,defuse
+660380,265461,11,G2 Esports,NRG,atk,elim
+660380,265461,12,NRG,G2 Esports,def,defuse
+660380,265461,13,G2 Esports,NRG,def,elim
+660380,265461,14,G2 Esports,NRG,def,elim
+660380,265461,15,G2 Esports,NRG,def,elim
+660380,265461,16,G2 Esports,NRG,def,defuse
+660380,265461,17,G2 Esports,NRG,def,elim
+660380,265461,18,NRG,G2 Esports,atk,elim
+660380,265461,19,NRG,G2 Esports,atk,elim
+660380,265461,20,G2 Esports,NRG,def,defuse
+660380,265461,21,G2 Esports,NRG,def,defuse
+660380,265461,22,NRG,G2 Esports,atk,boom
+660380,265461,23,G2 Esports,NRG,def,defuse

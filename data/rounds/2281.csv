@@ -1,0 +1,939 @@
+match_id,game_id,round,winner,loser,win_side,how
+448597,202492,1,Trace Esports,G2 Esports,def,elim
+448597,202492,2,Trace Esports,G2 Esports,def,defuse
+448597,202492,3,G2 Esports,Trace Esports,atk,elim
+448597,202492,4,G2 Esports,Trace Esports,atk,boom
+448597,202492,5,Trace Esports,G2 Esports,def,elim
+448597,202492,6,G2 Esports,Trace Esports,atk,elim
+448597,202492,7,Trace Esports,G2 Esports,def,defuse
+448597,202492,8,G2 Esports,Trace Esports,atk,elim
+448597,202492,9,G2 Esports,Trace Esports,atk,elim
+448597,202492,10,G2 Esports,Trace Esports,atk,elim
+448597,202492,11,Trace Esports,G2 Esports,def,defuse
+448597,202492,12,G2 Esports,Trace Esports,atk,boom
+448597,202492,13,G2 Esports,Trace Esports,def,defuse
+448597,202492,14,G2 Esports,Trace Esports,def,defuse
+448597,202492,15,Trace Esports,G2 Esports,atk,elim
+448597,202492,16,G2 Esports,Trace Esports,def,elim
+448597,202492,17,Trace Esports,G2 Esports,atk,elim
+448597,202492,18,G2 Esports,Trace Esports,def,elim
+448597,202492,19,Trace Esports,G2 Esports,atk,elim
+448597,202492,20,G2 Esports,Trace Esports,def,elim
+448597,202492,21,G2 Esports,Trace Esports,def,elim
+448597,202493,1,G2 Esports,Trace Esports,def,elim
+448597,202493,2,G2 Esports,Trace Esports,def,elim
+448597,202493,3,Trace Esports,G2 Esports,atk,elim
+448597,202493,4,Trace Esports,G2 Esports,atk,boom
+448597,202493,5,Trace Esports,G2 Esports,atk,elim
+448597,202493,6,G2 Esports,Trace Esports,def,defuse
+448597,202493,7,G2 Esports,Trace Esports,def,elim
+448597,202493,8,G2 Esports,Trace Esports,def,elim
+448597,202493,9,G2 Esports,Trace Esports,def,defuse
+448597,202493,10,G2 Esports,Trace Esports,def,elim
+448597,202493,11,G2 Esports,Trace Esports,def,elim
+448597,202493,12,G2 Esports,Trace Esports,def,defuse
+448597,202493,13,G2 Esports,Trace Esports,atk,elim
+448597,202493,14,G2 Esports,Trace Esports,atk,elim
+448597,202493,15,G2 Esports,Trace Esports,atk,boom
+448597,202493,16,G2 Esports,Trace Esports,atk,elim
+448598,202495,1,Team Liquid,EDward Gaming,def,elim
+448598,202495,2,Team Liquid,EDward Gaming,def,defuse
+448598,202495,3,EDward Gaming,Team Liquid,atk,elim
+448598,202495,4,EDward Gaming,Team Liquid,atk,elim
+448598,202495,5,EDward Gaming,Team Liquid,atk,elim
+448598,202495,6,Team Liquid,EDward Gaming,def,defuse
+448598,202495,7,Team Liquid,EDward Gaming,def,elim
+448598,202495,8,EDward Gaming,Team Liquid,atk,boom
+448598,202495,9,Team Liquid,EDward Gaming,def,elim
+448598,202495,10,Team Liquid,EDward Gaming,def,elim
+448598,202495,11,EDward Gaming,Team Liquid,atk,elim
+448598,202495,12,EDward Gaming,Team Liquid,atk,elim
+448598,202495,13,EDward Gaming,Team Liquid,def,defuse
+448598,202495,14,EDward Gaming,Team Liquid,def,elim
+448598,202495,15,EDward Gaming,Team Liquid,def,elim
+448598,202495,16,Team Liquid,EDward Gaming,atk,elim
+448598,202495,17,Team Liquid,EDward Gaming,atk,elim
+448598,202495,18,Team Liquid,EDward Gaming,atk,elim
+448598,202495,19,EDward Gaming,Team Liquid,def,defuse
+448598,202495,20,EDward Gaming,Team Liquid,def,elim
+448598,202495,21,Team Liquid,EDward Gaming,atk,elim
+448598,202495,22,Team Liquid,EDward Gaming,atk,elim
+448598,202495,23,EDward Gaming,Team Liquid,def,defuse
+448598,202495,24,Team Liquid,EDward Gaming,atk,elim
+448598,202495,25,EDward Gaming,Team Liquid,atk,elim
+448598,202495,26,Team Liquid,EDward Gaming,atk,elim
+448598,202495,27,Team Liquid,EDward Gaming,def,elim
+448598,202495,28,EDward Gaming,Team Liquid,def,elim
+448598,202495,29,EDward Gaming,Team Liquid,atk,elim
+448598,202495,30,Team Liquid,EDward Gaming,atk,elim
+448598,202495,31,EDward Gaming,Team Liquid,atk,elim
+448598,202495,32,Team Liquid,EDward Gaming,atk,elim
+448598,202495,33,EDward Gaming,Team Liquid,atk,elim
+448598,202495,34,EDward Gaming,Team Liquid,def,defuse
+448598,202496,1,Team Liquid,EDward Gaming,def,defuse
+448598,202496,2,Team Liquid,EDward Gaming,def,elim
+448598,202496,3,EDward Gaming,Team Liquid,atk,elim
+448598,202496,4,Team Liquid,EDward Gaming,def,elim
+448598,202496,5,EDward Gaming,Team Liquid,atk,elim
+448598,202496,6,EDward Gaming,Team Liquid,atk,elim
+448598,202496,7,Team Liquid,EDward Gaming,def,time
+448598,202496,8,Team Liquid,EDward Gaming,def,elim
+448598,202496,9,EDward Gaming,Team Liquid,atk,boom
+448598,202496,10,EDward Gaming,Team Liquid,atk,elim
+448598,202496,11,EDward Gaming,Team Liquid,atk,elim
+448598,202496,12,EDward Gaming,Team Liquid,atk,elim
+448598,202496,13,EDward Gaming,Team Liquid,def,defuse
+448598,202496,14,EDward Gaming,Team Liquid,def,elim
+448598,202496,15,EDward Gaming,Team Liquid,def,elim
+448598,202496,16,EDward Gaming,Team Liquid,def,time
+448598,202496,17,EDward Gaming,Team Liquid,def,defuse
+448598,202496,18,Team Liquid,EDward Gaming,atk,boom
+448598,202496,19,EDward Gaming,Team Liquid,def,elim
+448599,202498,1,Team Vitality,T1,atk,elim
+448599,202498,2,Team Vitality,T1,atk,elim
+448599,202498,3,T1,Team Vitality,def,elim
+448599,202498,4,T1,Team Vitality,def,time
+448599,202498,5,T1,Team Vitality,def,elim
+448599,202498,6,Team Vitality,T1,atk,elim
+448599,202498,7,T1,Team Vitality,def,time
+448599,202498,8,Team Vitality,T1,atk,elim
+448599,202498,9,Team Vitality,T1,atk,elim
+448599,202498,10,T1,Team Vitality,def,time
+448599,202498,11,T1,Team Vitality,def,elim
+448599,202498,12,T1,Team Vitality,def,elim
+448599,202498,13,T1,Team Vitality,atk,elim
+448599,202498,14,T1,Team Vitality,atk,elim
+448599,202498,15,Team Vitality,T1,def,elim
+448599,202498,16,Team Vitality,T1,def,elim
+448599,202498,17,T1,Team Vitality,atk,elim
+448599,202498,18,Team Vitality,T1,def,elim
+448599,202498,19,Team Vitality,T1,def,defuse
+448599,202498,20,Team Vitality,T1,def,defuse
+448599,202498,21,Team Vitality,T1,def,time
+448599,202498,22,Team Vitality,T1,def,elim
+448599,202498,23,Team Vitality,T1,def,defuse
+448599,202499,1,Team Vitality,T1,atk,elim
+448599,202499,2,Team Vitality,T1,atk,elim
+448599,202499,3,Team Vitality,T1,atk,boom
+448599,202499,4,Team Vitality,T1,atk,elim
+448599,202499,5,T1,Team Vitality,def,elim
+448599,202499,6,Team Vitality,T1,atk,elim
+448599,202499,7,T1,Team Vitality,def,defuse
+448599,202499,8,T1,Team Vitality,def,time
+448599,202499,9,T1,Team Vitality,def,elim
+448599,202499,10,Team Vitality,T1,atk,elim
+448599,202499,11,T1,Team Vitality,def,elim
+448599,202499,12,Team Vitality,T1,atk,elim
+448599,202499,13,T1,Team Vitality,atk,elim
+448599,202499,14,T1,Team Vitality,atk,elim
+448599,202499,15,Team Vitality,T1,def,defuse
+448599,202499,16,T1,Team Vitality,atk,elim
+448599,202499,17,Team Vitality,T1,def,defuse
+448599,202499,18,Team Vitality,T1,def,elim
+448599,202499,19,Team Vitality,T1,def,elim
+448599,202499,20,Team Vitality,T1,def,elim
+448599,202499,21,T1,Team Vitality,atk,boom
+448599,202499,22,Team Vitality,T1,def,elim
+448600,202501,1,KIWOOM DRX,Sentinels,atk,elim
+448600,202501,2,KIWOOM DRX,Sentinels,atk,boom
+448600,202501,3,Sentinels,KIWOOM DRX,def,defuse
+448600,202501,4,KIWOOM DRX,Sentinels,atk,boom
+448600,202501,5,KIWOOM DRX,Sentinels,atk,elim
+448600,202501,6,KIWOOM DRX,Sentinels,atk,elim
+448600,202501,7,Sentinels,KIWOOM DRX,def,defuse
+448600,202501,8,Sentinels,KIWOOM DRX,def,defuse
+448600,202501,9,KIWOOM DRX,Sentinels,atk,boom
+448600,202501,10,KIWOOM DRX,Sentinels,atk,boom
+448600,202501,11,KIWOOM DRX,Sentinels,atk,elim
+448600,202501,12,KIWOOM DRX,Sentinels,atk,elim
+448600,202501,13,KIWOOM DRX,Sentinels,def,elim
+448600,202501,14,KIWOOM DRX,Sentinels,def,elim
+448600,202501,15,KIWOOM DRX,Sentinels,def,time
+448600,202501,16,KIWOOM DRX,Sentinels,def,elim
+448600,202502,1,Sentinels,KIWOOM DRX,atk,elim
+448600,202502,2,Sentinels,KIWOOM DRX,atk,elim
+448600,202502,3,KIWOOM DRX,Sentinels,def,elim
+448600,202502,4,KIWOOM DRX,Sentinels,def,elim
+448600,202502,5,KIWOOM DRX,Sentinels,def,elim
+448600,202502,6,Sentinels,KIWOOM DRX,atk,elim
+448600,202502,7,Sentinels,KIWOOM DRX,atk,elim
+448600,202502,8,Sentinels,KIWOOM DRX,atk,elim
+448600,202502,9,KIWOOM DRX,Sentinels,def,defuse
+448600,202502,10,KIWOOM DRX,Sentinels,def,elim
+448600,202502,11,KIWOOM DRX,Sentinels,def,defuse
+448600,202502,12,Sentinels,KIWOOM DRX,atk,elim
+448600,202502,13,KIWOOM DRX,Sentinels,atk,elim
+448600,202502,14,KIWOOM DRX,Sentinels,atk,elim
+448600,202502,15,KIWOOM DRX,Sentinels,atk,elim
+448600,202502,16,KIWOOM DRX,Sentinels,atk,boom
+448600,202502,17,Sentinels,KIWOOM DRX,def,elim
+448600,202502,18,Sentinels,KIWOOM DRX,def,defuse
+448600,202502,19,KIWOOM DRX,Sentinels,atk,elim
+448600,202502,20,Sentinels,KIWOOM DRX,def,defuse
+448600,202502,21,Sentinels,KIWOOM DRX,def,elim
+448600,202502,22,KIWOOM DRX,Sentinels,atk,elim
+448600,202502,23,KIWOOM DRX,Sentinels,atk,elim
+449000,202765,1,Team Vitality,KIWOOM DRX,def,defuse
+449000,202765,2,Team Vitality,KIWOOM DRX,def,defuse
+449000,202765,3,Team Vitality,KIWOOM DRX,def,elim
+449000,202765,4,KIWOOM DRX,Team Vitality,atk,boom
+449000,202765,5,Team Vitality,KIWOOM DRX,def,defuse
+449000,202765,6,KIWOOM DRX,Team Vitality,atk,boom
+449000,202765,7,Team Vitality,KIWOOM DRX,def,defuse
+449000,202765,8,Team Vitality,KIWOOM DRX,def,elim
+449000,202765,9,KIWOOM DRX,Team Vitality,atk,elim
+449000,202765,10,Team Vitality,KIWOOM DRX,def,elim
+449000,202765,11,Team Vitality,KIWOOM DRX,def,elim
+449000,202765,12,KIWOOM DRX,Team Vitality,atk,elim
+449000,202765,13,KIWOOM DRX,Team Vitality,def,elim
+449000,202765,14,KIWOOM DRX,Team Vitality,def,defuse
+449000,202765,15,KIWOOM DRX,Team Vitality,def,defuse
+449000,202765,16,Team Vitality,KIWOOM DRX,atk,elim
+449000,202765,17,Team Vitality,KIWOOM DRX,atk,elim
+449000,202765,18,Team Vitality,KIWOOM DRX,atk,elim
+449000,202765,19,Team Vitality,KIWOOM DRX,atk,elim
+449000,202765,20,KIWOOM DRX,Team Vitality,def,defuse
+449000,202765,21,Team Vitality,KIWOOM DRX,atk,elim
+449000,202766,1,KIWOOM DRX,Team Vitality,def,defuse
+449000,202766,2,Team Vitality,KIWOOM DRX,atk,elim
+449000,202766,3,Team Vitality,KIWOOM DRX,atk,elim
+449000,202766,4,KIWOOM DRX,Team Vitality,def,defuse
+449000,202766,5,Team Vitality,KIWOOM DRX,atk,elim
+449000,202766,6,Team Vitality,KIWOOM DRX,atk,elim
+449000,202766,7,KIWOOM DRX,Team Vitality,def,elim
+449000,202766,8,Team Vitality,KIWOOM DRX,atk,elim
+449000,202766,9,KIWOOM DRX,Team Vitality,def,elim
+449000,202766,10,KIWOOM DRX,Team Vitality,def,time
+449000,202766,11,Team Vitality,KIWOOM DRX,atk,boom
+449000,202766,12,KIWOOM DRX,Team Vitality,def,elim
+449000,202766,13,Team Vitality,KIWOOM DRX,def,elim
+449000,202766,14,Team Vitality,KIWOOM DRX,def,defuse
+449000,202766,15,Team Vitality,KIWOOM DRX,def,defuse
+449000,202766,16,KIWOOM DRX,Team Vitality,atk,elim
+449000,202766,17,KIWOOM DRX,Team Vitality,atk,elim
+449000,202766,18,KIWOOM DRX,Team Vitality,atk,boom
+449000,202766,19,Team Vitality,KIWOOM DRX,def,defuse
+449000,202766,20,KIWOOM DRX,Team Vitality,atk,elim
+449000,202766,21,KIWOOM DRX,Team Vitality,atk,elim
+449000,202766,22,Team Vitality,KIWOOM DRX,def,time
+449000,202766,23,KIWOOM DRX,Team Vitality,atk,elim
+449000,202766,24,KIWOOM DRX,Team Vitality,atk,elim
+449000,202767,1,KIWOOM DRX,Team Vitality,atk,elim
+449000,202767,2,KIWOOM DRX,Team Vitality,atk,elim
+449000,202767,3,Team Vitality,KIWOOM DRX,def,time
+449000,202767,4,Team Vitality,KIWOOM DRX,def,elim
+449000,202767,5,KIWOOM DRX,Team Vitality,atk,boom
+449000,202767,6,KIWOOM DRX,Team Vitality,atk,elim
+449000,202767,7,KIWOOM DRX,Team Vitality,atk,boom
+449000,202767,8,KIWOOM DRX,Team Vitality,atk,elim
+449000,202767,9,Team Vitality,KIWOOM DRX,def,defuse
+449000,202767,10,Team Vitality,KIWOOM DRX,def,elim
+449000,202767,11,Team Vitality,KIWOOM DRX,def,defuse
+449000,202767,12,Team Vitality,KIWOOM DRX,def,defuse
+449000,202767,13,Team Vitality,KIWOOM DRX,atk,elim
+449000,202767,14,Team Vitality,KIWOOM DRX,atk,elim
+449000,202767,15,Team Vitality,KIWOOM DRX,atk,boom
+449000,202767,16,Team Vitality,KIWOOM DRX,atk,elim
+449000,202767,17,KIWOOM DRX,Team Vitality,def,defuse
+449000,202767,18,KIWOOM DRX,Team Vitality,def,elim
+449000,202767,19,Team Vitality,KIWOOM DRX,atk,elim
+449000,202767,20,Team Vitality,KIWOOM DRX,atk,elim
+449000,202767,21,KIWOOM DRX,Team Vitality,def,time
+449000,202767,22,KIWOOM DRX,Team Vitality,def,elim
+449000,202767,23,KIWOOM DRX,Team Vitality,def,elim
+449000,202767,24,Team Vitality,KIWOOM DRX,atk,elim
+449001,202768,1,EDward Gaming,G2 Esports,atk,elim
+449001,202768,2,EDward Gaming,G2 Esports,atk,elim
+449001,202768,3,G2 Esports,EDward Gaming,def,defuse
+449001,202768,4,EDward Gaming,G2 Esports,atk,elim
+449001,202768,5,EDward Gaming,G2 Esports,atk,elim
+449001,202768,6,EDward Gaming,G2 Esports,atk,elim
+449001,202768,7,G2 Esports,EDward Gaming,def,defuse
+449001,202768,8,EDward Gaming,G2 Esports,atk,elim
+449001,202768,9,G2 Esports,EDward Gaming,def,elim
+449001,202768,10,G2 Esports,EDward Gaming,def,defuse
+449001,202768,11,G2 Esports,EDward Gaming,def,elim
+449001,202768,12,G2 Esports,EDward Gaming,def,defuse
+449001,202768,13,EDward Gaming,G2 Esports,def,elim
+449001,202768,14,EDward Gaming,G2 Esports,def,elim
+449001,202768,15,G2 Esports,EDward Gaming,atk,elim
+449001,202768,16,G2 Esports,EDward Gaming,atk,boom
+449001,202768,17,G2 Esports,EDward Gaming,atk,elim
+449001,202768,18,EDward Gaming,G2 Esports,def,elim
+449001,202768,19,EDward Gaming,G2 Esports,def,defuse
+449001,202768,20,G2 Esports,EDward Gaming,atk,elim
+449001,202768,21,EDward Gaming,G2 Esports,def,defuse
+449001,202768,22,G2 Esports,EDward Gaming,atk,elim
+449001,202768,23,G2 Esports,EDward Gaming,atk,elim
+449001,202768,24,EDward Gaming,G2 Esports,def,defuse
+449001,202768,25,G2 Esports,EDward Gaming,def,elim
+449001,202768,26,EDward Gaming,G2 Esports,def,elim
+449001,202768,27,EDward Gaming,G2 Esports,atk,elim
+449001,202768,28,G2 Esports,EDward Gaming,atk,elim
+449001,202768,29,EDward Gaming,G2 Esports,atk,elim
+449001,202768,30,G2 Esports,EDward Gaming,atk,elim
+449001,202768,31,G2 Esports,EDward Gaming,def,defuse
+449001,202768,32,EDward Gaming,G2 Esports,def,defuse
+449001,202768,33,G2 Esports,EDward Gaming,def,elim
+449001,202768,34,G2 Esports,EDward Gaming,atk,elim
+449001,202769,1,EDward Gaming,G2 Esports,def,elim
+449001,202769,2,EDward Gaming,G2 Esports,def,time
+449001,202769,3,G2 Esports,EDward Gaming,atk,boom
+449001,202769,4,EDward Gaming,G2 Esports,def,elim
+449001,202769,5,EDward Gaming,G2 Esports,def,elim
+449001,202769,6,G2 Esports,EDward Gaming,atk,elim
+449001,202769,7,G2 Esports,EDward Gaming,atk,elim
+449001,202769,8,EDward Gaming,G2 Esports,def,elim
+449001,202769,9,EDward Gaming,G2 Esports,def,defuse
+449001,202769,10,EDward Gaming,G2 Esports,def,elim
+449001,202769,11,EDward Gaming,G2 Esports,def,elim
+449001,202769,12,G2 Esports,EDward Gaming,atk,elim
+449001,202769,13,EDward Gaming,G2 Esports,atk,elim
+449001,202769,14,G2 Esports,EDward Gaming,def,defuse
+449001,202769,15,G2 Esports,EDward Gaming,def,elim
+449001,202769,16,G2 Esports,EDward Gaming,def,elim
+449001,202769,17,G2 Esports,EDward Gaming,def,defuse
+449001,202769,18,EDward Gaming,G2 Esports,atk,boom
+449001,202769,19,EDward Gaming,G2 Esports,atk,elim
+449001,202769,20,EDward Gaming,G2 Esports,atk,elim
+449001,202769,21,EDward Gaming,G2 Esports,atk,elim
+449001,202770,1,EDward Gaming,G2 Esports,def,defuse
+449001,202770,2,EDward Gaming,G2 Esports,def,elim
+449001,202770,3,EDward Gaming,G2 Esports,def,elim
+449001,202770,4,EDward Gaming,G2 Esports,def,elim
+449001,202770,5,EDward Gaming,G2 Esports,def,defuse
+449001,202770,6,EDward Gaming,G2 Esports,def,defuse
+449001,202770,7,G2 Esports,EDward Gaming,atk,elim
+449001,202770,8,EDward Gaming,G2 Esports,def,elim
+449001,202770,9,EDward Gaming,G2 Esports,def,defuse
+449001,202770,10,EDward Gaming,G2 Esports,def,elim
+449001,202770,11,EDward Gaming,G2 Esports,def,time
+449001,202770,12,EDward Gaming,G2 Esports,def,defuse
+449001,202770,13,EDward Gaming,G2 Esports,atk,elim
+449001,202770,14,G2 Esports,EDward Gaming,def,elim
+449001,202770,15,G2 Esports,EDward Gaming,def,elim
+449001,202770,16,G2 Esports,EDward Gaming,def,defuse
+449001,202770,17,EDward Gaming,G2 Esports,atk,elim
+449002,202771,1,Trace Esports,T1,atk,elim
+449002,202771,2,T1,Trace Esports,def,elim
+449002,202771,3,T1,Trace Esports,def,elim
+449002,202771,4,Trace Esports,T1,atk,elim
+449002,202771,5,T1,Trace Esports,def,defuse
+449002,202771,6,T1,Trace Esports,def,elim
+449002,202771,7,T1,Trace Esports,def,elim
+449002,202771,8,T1,Trace Esports,def,defuse
+449002,202771,9,Trace Esports,T1,atk,elim
+449002,202771,10,T1,Trace Esports,def,elim
+449002,202771,11,T1,Trace Esports,def,elim
+449002,202771,12,T1,Trace Esports,def,elim
+449002,202771,13,T1,Trace Esports,atk,elim
+449002,202771,14,T1,Trace Esports,atk,elim
+449002,202771,15,T1,Trace Esports,atk,elim
+449002,202771,16,T1,Trace Esports,atk,elim
+449002,202772,1,T1,Trace Esports,def,elim
+449002,202772,2,T1,Trace Esports,def,defuse
+449002,202772,3,T1,Trace Esports,def,elim
+449002,202772,4,T1,Trace Esports,def,elim
+449002,202772,5,Trace Esports,T1,atk,elim
+449002,202772,6,Trace Esports,T1,atk,boom
+449002,202772,7,T1,Trace Esports,def,elim
+449002,202772,8,Trace Esports,T1,atk,boom
+449002,202772,9,T1,Trace Esports,def,defuse
+449002,202772,10,Trace Esports,T1,atk,elim
+449002,202772,11,Trace Esports,T1,atk,boom
+449002,202772,12,Trace Esports,T1,atk,elim
+449002,202772,13,T1,Trace Esports,atk,elim
+449002,202772,14,Trace Esports,T1,def,elim
+449002,202772,15,T1,Trace Esports,atk,boom
+449002,202772,16,T1,Trace Esports,atk,elim
+449002,202772,17,Trace Esports,T1,def,defuse
+449002,202772,18,T1,Trace Esports,atk,elim
+449002,202772,19,T1,Trace Esports,atk,elim
+449002,202772,20,T1,Trace Esports,atk,elim
+449002,202772,21,T1,Trace Esports,atk,elim
+449003,202774,1,Sentinels,Team Liquid,def,elim
+449003,202774,2,Sentinels,Team Liquid,def,defuse
+449003,202774,3,Team Liquid,Sentinels,atk,elim
+449003,202774,4,Sentinels,Team Liquid,def,defuse
+449003,202774,5,Team Liquid,Sentinels,atk,elim
+449003,202774,6,Team Liquid,Sentinels,atk,elim
+449003,202774,7,Sentinels,Team Liquid,def,defuse
+449003,202774,8,Team Liquid,Sentinels,atk,elim
+449003,202774,9,Sentinels,Team Liquid,def,elim
+449003,202774,10,Sentinels,Team Liquid,def,defuse
+449003,202774,11,Team Liquid,Sentinels,atk,elim
+449003,202774,12,Sentinels,Team Liquid,def,defuse
+449003,202774,13,Team Liquid,Sentinels,def,defuse
+449003,202774,14,Team Liquid,Sentinels,def,elim
+449003,202774,15,Sentinels,Team Liquid,atk,elim
+449003,202774,16,Sentinels,Team Liquid,atk,boom
+449003,202774,17,Sentinels,Team Liquid,atk,elim
+449003,202774,18,Sentinels,Team Liquid,atk,elim
+449003,202774,19,Sentinels,Team Liquid,atk,boom
+449003,202774,20,Sentinels,Team Liquid,atk,elim
+449003,202775,1,Team Liquid,Sentinels,def,elim
+449003,202775,2,Team Liquid,Sentinels,def,defuse
+449003,202775,3,Sentinels,Team Liquid,atk,elim
+449003,202775,4,Sentinels,Team Liquid,atk,boom
+449003,202775,5,Sentinels,Team Liquid,atk,elim
+449003,202775,6,Team Liquid,Sentinels,def,elim
+449003,202775,7,Team Liquid,Sentinels,def,defuse
+449003,202775,8,Team Liquid,Sentinels,def,elim
+449003,202775,9,Sentinels,Team Liquid,atk,elim
+449003,202775,10,Team Liquid,Sentinels,def,defuse
+449003,202775,11,Team Liquid,Sentinels,def,elim
+449003,202775,12,Sentinels,Team Liquid,atk,elim
+449003,202775,13,Team Liquid,Sentinels,atk,elim
+449003,202775,14,Team Liquid,Sentinels,atk,boom
+449003,202775,15,Sentinels,Team Liquid,def,defuse
+449003,202775,16,Sentinels,Team Liquid,def,defuse
+449003,202775,17,Sentinels,Team Liquid,def,elim
+449003,202775,18,Team Liquid,Sentinels,atk,elim
+449003,202775,19,Sentinels,Team Liquid,def,elim
+449003,202775,20,Sentinels,Team Liquid,def,defuse
+449003,202775,21,Team Liquid,Sentinels,atk,elim
+449003,202775,22,Sentinels,Team Liquid,def,defuse
+449003,202775,23,Team Liquid,Sentinels,atk,boom
+449003,202775,24,Sentinels,Team Liquid,def,elim
+449003,202775,25,Team Liquid,Sentinels,def,elim
+449003,202775,26,Sentinels,Team Liquid,def,defuse
+449003,202775,27,Team Liquid,Sentinels,def,defuse
+449003,202775,28,Sentinels,Team Liquid,def,defuse
+449003,202775,29,Team Liquid,Sentinels,def,defuse
+449003,202775,30,Team Liquid,Sentinels,atk,elim
+449003,202776,1,Team Liquid,Sentinels,def,elim
+449003,202776,2,Team Liquid,Sentinels,def,elim
+449003,202776,3,Team Liquid,Sentinels,def,defuse
+449003,202776,4,Team Liquid,Sentinels,def,elim
+449003,202776,5,Team Liquid,Sentinels,def,time
+449003,202776,6,Team Liquid,Sentinels,def,defuse
+449003,202776,7,Team Liquid,Sentinels,def,elim
+449003,202776,8,Team Liquid,Sentinels,def,elim
+449003,202776,9,Team Liquid,Sentinels,def,elim
+449003,202776,10,Team Liquid,Sentinels,def,elim
+449003,202776,11,Sentinels,Team Liquid,atk,elim
+449003,202776,12,Team Liquid,Sentinels,def,defuse
+449003,202776,13,Team Liquid,Sentinels,atk,elim
+449003,202776,14,Team Liquid,Sentinels,atk,elim
+449004,202777,1,KIWOOM DRX,T1,atk,elim
+449004,202777,2,KIWOOM DRX,T1,atk,boom
+449004,202777,3,KIWOOM DRX,T1,atk,elim
+449004,202777,4,KIWOOM DRX,T1,atk,elim
+449004,202777,5,T1,KIWOOM DRX,def,elim
+449004,202777,6,T1,KIWOOM DRX,def,elim
+449004,202777,7,KIWOOM DRX,T1,atk,elim
+449004,202777,8,KIWOOM DRX,T1,atk,elim
+449004,202777,9,T1,KIWOOM DRX,def,defuse
+449004,202777,10,T1,KIWOOM DRX,def,elim
+449004,202777,11,T1,KIWOOM DRX,def,time
+449004,202777,12,KIWOOM DRX,T1,atk,elim
+449004,202777,13,T1,KIWOOM DRX,atk,elim
+449004,202777,14,T1,KIWOOM DRX,atk,elim
+449004,202777,15,KIWOOM DRX,T1,def,defuse
+449004,202777,16,T1,KIWOOM DRX,atk,boom
+449004,202777,17,T1,KIWOOM DRX,atk,boom
+449004,202777,18,T1,KIWOOM DRX,atk,boom
+449004,202777,19,KIWOOM DRX,T1,def,defuse
+449004,202777,20,T1,KIWOOM DRX,atk,boom
+449004,202777,21,KIWOOM DRX,T1,def,elim
+449004,202777,22,T1,KIWOOM DRX,atk,boom
+449004,202777,23,KIWOOM DRX,T1,def,elim
+449004,202777,24,T1,KIWOOM DRX,atk,elim
+449004,202778,1,T1,KIWOOM DRX,def,elim
+449004,202778,2,T1,KIWOOM DRX,def,elim
+449004,202778,3,KIWOOM DRX,T1,atk,elim
+449004,202778,4,T1,KIWOOM DRX,def,elim
+449004,202778,5,KIWOOM DRX,T1,atk,boom
+449004,202778,6,KIWOOM DRX,T1,atk,elim
+449004,202778,7,KIWOOM DRX,T1,atk,boom
+449004,202778,8,T1,KIWOOM DRX,def,elim
+449004,202778,9,T1,KIWOOM DRX,def,defuse
+449004,202778,10,T1,KIWOOM DRX,def,elim
+449004,202778,11,T1,KIWOOM DRX,def,defuse
+449004,202778,12,T1,KIWOOM DRX,def,elim
+449004,202778,13,T1,KIWOOM DRX,atk,elim
+449004,202778,14,T1,KIWOOM DRX,atk,elim
+449004,202778,15,T1,KIWOOM DRX,atk,boom
+449004,202778,16,T1,KIWOOM DRX,atk,elim
+449004,202778,17,T1,KIWOOM DRX,atk,elim
+449005,202780,1,Team Liquid,G2 Esports,atk,elim
+449005,202780,2,Team Liquid,G2 Esports,atk,elim
+449005,202780,3,G2 Esports,Team Liquid,def,elim
+449005,202780,4,Team Liquid,G2 Esports,atk,elim
+449005,202780,5,G2 Esports,Team Liquid,def,defuse
+449005,202780,6,Team Liquid,G2 Esports,atk,elim
+449005,202780,7,G2 Esports,Team Liquid,def,elim
+449005,202780,8,G2 Esports,Team Liquid,def,defuse
+449005,202780,9,G2 Esports,Team Liquid,def,defuse
+449005,202780,10,G2 Esports,Team Liquid,def,time
+449005,202780,11,G2 Esports,Team Liquid,def,elim
+449005,202780,12,G2 Esports,Team Liquid,def,defuse
+449005,202780,13,G2 Esports,Team Liquid,atk,elim
+449005,202780,14,G2 Esports,Team Liquid,atk,elim
+449005,202780,15,G2 Esports,Team Liquid,atk,boom
+449005,202780,16,Team Liquid,G2 Esports,def,elim
+449005,202780,17,G2 Esports,Team Liquid,atk,elim
+449005,202780,18,G2 Esports,Team Liquid,atk,elim
+449005,202781,1,Team Liquid,G2 Esports,def,elim
+449005,202781,2,Team Liquid,G2 Esports,def,elim
+449005,202781,3,Team Liquid,G2 Esports,def,elim
+449005,202781,4,G2 Esports,Team Liquid,atk,elim
+449005,202781,5,Team Liquid,G2 Esports,def,defuse
+449005,202781,6,G2 Esports,Team Liquid,atk,elim
+449005,202781,7,G2 Esports,Team Liquid,atk,elim
+449005,202781,8,G2 Esports,Team Liquid,atk,elim
+449005,202781,9,G2 Esports,Team Liquid,atk,elim
+449005,202781,10,Team Liquid,G2 Esports,def,elim
+449005,202781,11,Team Liquid,G2 Esports,def,elim
+449005,202781,12,G2 Esports,Team Liquid,atk,elim
+449005,202781,13,G2 Esports,Team Liquid,def,defuse
+449005,202781,14,G2 Esports,Team Liquid,def,defuse
+449005,202781,15,Team Liquid,G2 Esports,atk,elim
+449005,202781,16,G2 Esports,Team Liquid,def,defuse
+449005,202781,17,G2 Esports,Team Liquid,def,elim
+449005,202781,18,G2 Esports,Team Liquid,def,defuse
+449005,202781,19,G2 Esports,Team Liquid,def,defuse
+449005,202781,20,G2 Esports,Team Liquid,def,elim
+449008,202783,1,EDward Gaming,T1,atk,elim
+449008,202783,2,EDward Gaming,T1,atk,elim
+449008,202783,3,EDward Gaming,T1,atk,boom
+449008,202783,4,EDward Gaming,T1,atk,elim
+449008,202783,5,EDward Gaming,T1,atk,elim
+449008,202783,6,EDward Gaming,T1,atk,elim
+449008,202783,7,EDward Gaming,T1,atk,boom
+449008,202783,8,EDward Gaming,T1,atk,elim
+449008,202783,9,EDward Gaming,T1,atk,elim
+449008,202783,10,EDward Gaming,T1,atk,elim
+449008,202783,11,T1,EDward Gaming,def,defuse
+449008,202783,12,T1,EDward Gaming,def,elim
+449008,202783,13,EDward Gaming,T1,def,defuse
+449008,202783,14,EDward Gaming,T1,def,defuse
+449008,202783,15,T1,EDward Gaming,atk,elim
+449008,202783,16,T1,EDward Gaming,atk,elim
+449008,202783,17,T1,EDward Gaming,atk,boom
+449008,202783,18,T1,EDward Gaming,atk,elim
+449008,202783,19,T1,EDward Gaming,atk,elim
+449008,202783,20,EDward Gaming,T1,def,elim
+449008,202784,1,T1,EDward Gaming,def,elim
+449008,202784,2,T1,EDward Gaming,def,elim
+449008,202784,3,EDward Gaming,T1,atk,elim
+449008,202784,4,EDward Gaming,T1,atk,elim
+449008,202784,5,T1,EDward Gaming,def,elim
+449008,202784,6,EDward Gaming,T1,atk,elim
+449008,202784,7,T1,EDward Gaming,def,elim
+449008,202784,8,EDward Gaming,T1,atk,boom
+449008,202784,9,EDward Gaming,T1,atk,elim
+449008,202784,10,T1,EDward Gaming,def,elim
+449008,202784,11,T1,EDward Gaming,def,time
+449008,202784,12,T1,EDward Gaming,def,elim
+449008,202784,13,T1,EDward Gaming,atk,elim
+449008,202784,14,T1,EDward Gaming,atk,elim
+449008,202784,15,T1,EDward Gaming,atk,boom
+449008,202784,16,T1,EDward Gaming,atk,elim
+449008,202784,17,T1,EDward Gaming,atk,elim
+449008,202784,18,EDward Gaming,T1,def,defuse
+449008,202784,19,T1,EDward Gaming,atk,elim
+449008,202785,1,T1,EDward Gaming,def,defuse
+449008,202785,2,T1,EDward Gaming,def,defuse
+449008,202785,3,EDward Gaming,T1,atk,elim
+449008,202785,4,EDward Gaming,T1,atk,elim
+449008,202785,5,T1,EDward Gaming,def,defuse
+449008,202785,6,EDward Gaming,T1,atk,elim
+449008,202785,7,EDward Gaming,T1,atk,elim
+449008,202785,8,T1,EDward Gaming,def,elim
+449008,202785,9,EDward Gaming,T1,atk,elim
+449008,202785,10,T1,EDward Gaming,def,defuse
+449008,202785,11,T1,EDward Gaming,def,elim
+449008,202785,12,EDward Gaming,T1,atk,elim
+449008,202785,13,T1,EDward Gaming,atk,elim
+449008,202785,14,T1,EDward Gaming,atk,elim
+449008,202785,15,EDward Gaming,T1,def,elim
+449008,202785,16,T1,EDward Gaming,atk,elim
+449008,202785,17,T1,EDward Gaming,atk,elim
+449008,202785,18,EDward Gaming,T1,def,elim
+449008,202785,19,EDward Gaming,T1,def,defuse
+449008,202785,20,T1,EDward Gaming,atk,elim
+449008,202785,21,EDward Gaming,T1,def,elim
+449008,202785,22,EDward Gaming,T1,def,elim
+449008,202785,23,EDward Gaming,T1,def,elim
+449008,202785,24,EDward Gaming,T1,def,elim
+449009,202786,1,Team Vitality,G2 Esports,atk,elim
+449009,202786,2,Team Vitality,G2 Esports,atk,elim
+449009,202786,3,Team Vitality,G2 Esports,atk,boom
+449009,202786,4,G2 Esports,Team Vitality,def,elim
+449009,202786,5,G2 Esports,Team Vitality,def,defuse
+449009,202786,6,G2 Esports,Team Vitality,def,defuse
+449009,202786,7,G2 Esports,Team Vitality,def,elim
+449009,202786,8,Team Vitality,G2 Esports,atk,elim
+449009,202786,9,Team Vitality,G2 Esports,atk,elim
+449009,202786,10,Team Vitality,G2 Esports,atk,elim
+449009,202786,11,G2 Esports,Team Vitality,def,defuse
+449009,202786,12,Team Vitality,G2 Esports,atk,elim
+449009,202786,13,Team Vitality,G2 Esports,def,defuse
+449009,202786,14,Team Vitality,G2 Esports,def,defuse
+449009,202786,15,Team Vitality,G2 Esports,def,elim
+449009,202786,16,G2 Esports,Team Vitality,atk,elim
+449009,202786,17,G2 Esports,Team Vitality,atk,boom
+449009,202786,18,G2 Esports,Team Vitality,atk,elim
+449009,202786,19,Team Vitality,G2 Esports,def,defuse
+449009,202786,20,Team Vitality,G2 Esports,def,elim
+449009,202786,21,G2 Esports,Team Vitality,atk,elim
+449009,202786,22,G2 Esports,Team Vitality,atk,elim
+449009,202786,23,G2 Esports,Team Vitality,atk,boom
+449009,202786,24,G2 Esports,Team Vitality,atk,elim
+449009,202786,25,G2 Esports,Team Vitality,def,defuse
+449009,202786,26,Team Vitality,G2 Esports,def,defuse
+449009,202786,27,G2 Esports,Team Vitality,def,elim
+449009,202786,28,G2 Esports,Team Vitality,atk,elim
+449009,202787,1,G2 Esports,Team Vitality,atk,boom
+449009,202787,2,G2 Esports,Team Vitality,atk,elim
+449009,202787,3,G2 Esports,Team Vitality,atk,boom
+449009,202787,4,G2 Esports,Team Vitality,atk,elim
+449009,202787,5,Team Vitality,G2 Esports,def,elim
+449009,202787,6,G2 Esports,Team Vitality,atk,elim
+449009,202787,7,G2 Esports,Team Vitality,atk,elim
+449009,202787,8,Team Vitality,G2 Esports,def,defuse
+449009,202787,9,Team Vitality,G2 Esports,def,time
+449009,202787,10,Team Vitality,G2 Esports,def,defuse
+449009,202787,11,Team Vitality,G2 Esports,def,elim
+449009,202787,12,Team Vitality,G2 Esports,def,defuse
+449009,202787,13,G2 Esports,Team Vitality,def,defuse
+449009,202787,14,G2 Esports,Team Vitality,def,elim
+449009,202787,15,G2 Esports,Team Vitality,def,defuse
+449009,202787,16,G2 Esports,Team Vitality,def,elim
+449009,202787,17,Team Vitality,G2 Esports,atk,boom
+449009,202787,18,Team Vitality,G2 Esports,atk,elim
+449009,202787,19,G2 Esports,Team Vitality,def,defuse
+449009,202787,20,G2 Esports,Team Vitality,def,defuse
+449009,202787,21,Team Vitality,G2 Esports,atk,elim
+449009,202787,22,G2 Esports,Team Vitality,def,elim
+449010,202789,1,EDward Gaming,G2 Esports,atk,elim
+449010,202789,2,EDward Gaming,G2 Esports,atk,elim
+449010,202789,3,G2 Esports,EDward Gaming,def,defuse
+449010,202789,4,G2 Esports,EDward Gaming,def,defuse
+449010,202789,5,EDward Gaming,G2 Esports,atk,elim
+449010,202789,6,EDward Gaming,G2 Esports,atk,elim
+449010,202789,7,G2 Esports,EDward Gaming,def,elim
+449010,202789,8,G2 Esports,EDward Gaming,def,elim
+449010,202789,9,G2 Esports,EDward Gaming,def,elim
+449010,202789,10,G2 Esports,EDward Gaming,def,defuse
+449010,202789,11,G2 Esports,EDward Gaming,def,defuse
+449010,202789,12,EDward Gaming,G2 Esports,atk,elim
+449010,202789,13,G2 Esports,EDward Gaming,atk,elim
+449010,202789,14,G2 Esports,EDward Gaming,atk,elim
+449010,202789,15,EDward Gaming,G2 Esports,def,defuse
+449010,202789,16,G2 Esports,EDward Gaming,atk,boom
+449010,202789,17,G2 Esports,EDward Gaming,atk,elim
+449010,202789,18,G2 Esports,EDward Gaming,atk,elim
+449010,202789,19,EDward Gaming,G2 Esports,def,elim
+449010,202789,20,EDward Gaming,G2 Esports,def,elim
+449010,202789,21,G2 Esports,EDward Gaming,atk,elim
+449010,202790,1,EDward Gaming,G2 Esports,atk,elim
+449010,202790,2,EDward Gaming,G2 Esports,atk,elim
+449010,202790,3,G2 Esports,EDward Gaming,def,elim
+449010,202790,4,EDward Gaming,G2 Esports,atk,elim
+449010,202790,5,G2 Esports,EDward Gaming,def,elim
+449010,202790,6,G2 Esports,EDward Gaming,def,elim
+449010,202790,7,EDward Gaming,G2 Esports,atk,elim
+449010,202790,8,G2 Esports,EDward Gaming,def,elim
+449010,202790,9,G2 Esports,EDward Gaming,def,defuse
+449010,202790,10,G2 Esports,EDward Gaming,def,defuse
+449010,202790,11,G2 Esports,EDward Gaming,def,time
+449010,202790,12,G2 Esports,EDward Gaming,def,elim
+449010,202790,13,G2 Esports,EDward Gaming,atk,elim
+449010,202790,14,G2 Esports,EDward Gaming,atk,elim
+449010,202790,15,EDward Gaming,G2 Esports,def,elim
+449010,202790,16,G2 Esports,EDward Gaming,atk,elim
+449010,202790,17,G2 Esports,EDward Gaming,atk,elim
+449010,202790,18,EDward Gaming,G2 Esports,def,elim
+449010,202790,19,EDward Gaming,G2 Esports,def,elim
+449010,202790,20,G2 Esports,EDward Gaming,atk,boom
+449011,202792,1,T1,G2 Esports,def,defuse
+449011,202792,2,G2 Esports,T1,atk,elim
+449011,202792,3,G2 Esports,T1,atk,elim
+449011,202792,4,G2 Esports,T1,atk,boom
+449011,202792,5,T1,G2 Esports,def,elim
+449011,202792,6,G2 Esports,T1,atk,elim
+449011,202792,7,G2 Esports,T1,atk,elim
+449011,202792,8,T1,G2 Esports,def,elim
+449011,202792,9,T1,G2 Esports,def,time
+449011,202792,10,G2 Esports,T1,atk,elim
+449011,202792,11,G2 Esports,T1,atk,boom
+449011,202792,12,G2 Esports,T1,atk,elim
+449011,202792,13,G2 Esports,T1,def,elim
+449011,202792,14,G2 Esports,T1,def,defuse
+449011,202792,15,G2 Esports,T1,def,time
+449011,202792,16,G2 Esports,T1,def,elim
+449011,202792,17,T1,G2 Esports,atk,elim
+449011,202792,18,G2 Esports,T1,def,elim
+449011,202793,1,G2 Esports,T1,atk,elim
+449011,202793,2,G2 Esports,T1,atk,elim
+449011,202793,3,T1,G2 Esports,def,elim
+449011,202793,4,G2 Esports,T1,atk,boom
+449011,202793,5,G2 Esports,T1,atk,elim
+449011,202793,6,T1,G2 Esports,def,elim
+449011,202793,7,T1,G2 Esports,def,defuse
+449011,202793,8,T1,G2 Esports,def,defuse
+449011,202793,9,T1,G2 Esports,def,elim
+449011,202793,10,G2 Esports,T1,atk,boom
+449011,202793,11,T1,G2 Esports,def,defuse
+449011,202793,12,G2 Esports,T1,atk,elim
+449011,202793,13,T1,G2 Esports,atk,elim
+449011,202793,14,T1,G2 Esports,atk,elim
+449011,202793,15,G2 Esports,T1,def,elim
+449011,202793,16,G2 Esports,T1,def,defuse
+449011,202793,17,T1,G2 Esports,atk,elim
+449011,202793,18,T1,G2 Esports,atk,elim
+449011,202793,19,T1,G2 Esports,atk,elim
+449011,202793,20,T1,G2 Esports,atk,boom
+449011,202793,21,G2 Esports,T1,def,defuse
+449011,202793,22,T1,G2 Esports,atk,elim
+449011,202794,1,T1,G2 Esports,atk,elim
+449011,202794,2,T1,G2 Esports,atk,elim
+449011,202794,3,T1,G2 Esports,atk,elim
+449011,202794,4,T1,G2 Esports,atk,elim
+449011,202794,5,T1,G2 Esports,atk,elim
+449011,202794,6,T1,G2 Esports,atk,elim
+449011,202794,7,G2 Esports,T1,def,elim
+449011,202794,8,T1,G2 Esports,atk,elim
+449011,202794,9,G2 Esports,T1,def,elim
+449011,202794,10,G2 Esports,T1,def,defuse
+449011,202794,11,T1,G2 Esports,atk,elim
+449011,202794,12,G2 Esports,T1,def,defuse
+449011,202794,13,G2 Esports,T1,atk,elim
+449011,202794,14,G2 Esports,T1,atk,elim
+449011,202794,15,T1,G2 Esports,def,elim
+449011,202794,16,T1,G2 Esports,def,defuse
+449011,202794,17,G2 Esports,T1,atk,elim
+449011,202794,18,G2 Esports,T1,atk,elim
+449011,202794,19,T1,G2 Esports,def,time
+449011,202794,20,G2 Esports,T1,atk,elim
+449011,202794,21,G2 Esports,T1,atk,elim
+449011,202794,22,G2 Esports,T1,atk,boom
+449011,202794,23,G2 Esports,T1,atk,elim
+449011,202794,24,G2 Esports,T1,atk,elim
+449011,202795,1,T1,G2 Esports,atk,elim
+449011,202795,2,T1,G2 Esports,atk,elim
+449011,202795,3,G2 Esports,T1,def,defuse
+449011,202795,4,G2 Esports,T1,def,defuse
+449011,202795,5,G2 Esports,T1,def,elim
+449011,202795,6,G2 Esports,T1,def,elim
+449011,202795,7,G2 Esports,T1,def,elim
+449011,202795,8,G2 Esports,T1,def,defuse
+449011,202795,9,G2 Esports,T1,def,defuse
+449011,202795,10,T1,G2 Esports,atk,elim
+449011,202795,11,T1,G2 Esports,atk,elim
+449011,202795,12,G2 Esports,T1,def,defuse
+449011,202795,13,T1,G2 Esports,def,elim
+449011,202795,14,T1,G2 Esports,def,elim
+449011,202795,15,T1,G2 Esports,def,elim
+449011,202795,16,T1,G2 Esports,def,elim
+449011,202795,17,T1,G2 Esports,def,elim
+449011,202795,18,T1,G2 Esports,def,elim
+449011,202795,19,G2 Esports,T1,atk,boom
+449011,202795,20,G2 Esports,T1,atk,elim
+449011,202795,21,G2 Esports,T1,atk,elim
+449011,202795,22,T1,G2 Esports,def,elim
+449011,202795,23,T1,G2 Esports,def,elim
+449011,202795,24,G2 Esports,T1,atk,elim
+449011,202795,25,G2 Esports,T1,def,defuse
+449011,202795,26,T1,G2 Esports,def,defuse
+449011,202795,27,T1,G2 Esports,atk,elim
+449011,202795,28,T1,G2 Esports,def,elim
+449011,202796,1,T1,G2 Esports,def,elim
+449011,202796,2,T1,G2 Esports,def,elim
+449011,202796,3,T1,G2 Esports,def,defuse
+449011,202796,4,T1,G2 Esports,def,elim
+449011,202796,5,G2 Esports,T1,atk,elim
+449011,202796,6,T1,G2 Esports,def,elim
+449011,202796,7,G2 Esports,T1,atk,elim
+449011,202796,8,G2 Esports,T1,atk,elim
+449011,202796,9,G2 Esports,T1,atk,elim
+449011,202796,10,T1,G2 Esports,def,defuse
+449011,202796,11,T1,G2 Esports,def,defuse
+449011,202796,12,T1,G2 Esports,def,elim
+449011,202796,13,G2 Esports,T1,def,elim
+449011,202796,14,G2 Esports,T1,def,defuse
+449011,202796,15,T1,G2 Esports,atk,elim
+449011,202796,16,G2 Esports,T1,def,defuse
+449011,202796,17,G2 Esports,T1,def,defuse
+449011,202796,18,G2 Esports,T1,def,defuse
+449011,202796,19,G2 Esports,T1,def,defuse
+449011,202796,20,G2 Esports,T1,def,defuse
+449011,202796,21,T1,G2 Esports,atk,boom
+449011,202796,22,G2 Esports,T1,def,defuse
+449011,202796,23,T1,G2 Esports,atk,elim
+449011,202796,24,T1,G2 Esports,atk,elim
+449011,202796,25,T1,G2 Esports,def,defuse
+449011,202796,26,G2 Esports,T1,def,defuse
+449011,202796,27,T1,G2 Esports,def,elim
+449011,202796,28,G2 Esports,T1,def,elim
+449011,202796,29,T1,G2 Esports,def,elim
+449011,202796,30,T1,G2 Esports,atk,elim
+449012,202797,1,Team Vitality,T1,def,elim
+449012,202797,2,T1,Team Vitality,atk,elim
+449012,202797,3,T1,Team Vitality,atk,elim
+449012,202797,4,T1,Team Vitality,atk,boom
+449012,202797,5,T1,Team Vitality,atk,boom
+449012,202797,6,T1,Team Vitality,atk,elim
+449012,202797,7,T1,Team Vitality,atk,elim
+449012,202797,8,T1,Team Vitality,atk,boom
+449012,202797,9,Team Vitality,T1,def,defuse
+449012,202797,10,Team Vitality,T1,def,defuse
+449012,202797,11,Team Vitality,T1,def,defuse
+449012,202797,12,T1,Team Vitality,atk,elim
+449012,202797,13,T1,Team Vitality,def,defuse
+449012,202797,14,T1,Team Vitality,def,elim
+449012,202797,15,Team Vitality,T1,atk,elim
+449012,202797,16,Team Vitality,T1,atk,boom
+449012,202797,17,Team Vitality,T1,atk,elim
+449012,202797,18,Team Vitality,T1,atk,elim
+449012,202797,19,Team Vitality,T1,atk,elim
+449012,202797,20,Team Vitality,T1,atk,elim
+449012,202797,21,T1,Team Vitality,def,elim
+449012,202797,22,Team Vitality,T1,atk,boom
+449012,202797,23,T1,Team Vitality,def,defuse
+449012,202797,24,Team Vitality,T1,atk,elim
+449012,202797,25,Team Vitality,T1,def,defuse
+449012,202797,26,Team Vitality,T1,atk,elim
+449012,202798,1,T1,Team Vitality,def,defuse
+449012,202798,2,T1,Team Vitality,def,elim
+449012,202798,3,T1,Team Vitality,def,defuse
+449012,202798,4,T1,Team Vitality,def,elim
+449012,202798,5,Team Vitality,T1,atk,boom
+449012,202798,6,T1,Team Vitality,def,elim
+449012,202798,7,Team Vitality,T1,atk,boom
+449012,202798,8,T1,Team Vitality,def,defuse
+449012,202798,9,Team Vitality,T1,atk,elim
+449012,202798,10,T1,Team Vitality,def,defuse
+449012,202798,11,T1,Team Vitality,def,elim
+449012,202798,12,Team Vitality,T1,atk,elim
+449012,202798,13,T1,Team Vitality,atk,elim
+449012,202798,14,T1,Team Vitality,atk,elim
+449012,202798,15,T1,Team Vitality,atk,boom
+449012,202798,16,T1,Team Vitality,atk,boom
+449012,202798,17,T1,Team Vitality,atk,elim
+449012,202799,1,Team Vitality,T1,atk,elim
+449012,202799,2,T1,Team Vitality,def,defuse
+449012,202799,3,T1,Team Vitality,def,elim
+449012,202799,4,Team Vitality,T1,atk,elim
+449012,202799,5,T1,Team Vitality,def,elim
+449012,202799,6,T1,Team Vitality,def,elim
+449012,202799,7,T1,Team Vitality,def,elim
+449012,202799,8,T1,Team Vitality,def,defuse
+449012,202799,9,T1,Team Vitality,def,time
+449012,202799,10,T1,Team Vitality,def,defuse
+449012,202799,11,Team Vitality,T1,atk,elim
+449012,202799,12,T1,Team Vitality,def,elim
+449012,202799,13,T1,Team Vitality,atk,elim
+449012,202799,14,Team Vitality,T1,def,defuse
+449012,202799,15,Team Vitality,T1,def,defuse
+449012,202799,16,T1,Team Vitality,atk,boom
+449012,202799,17,T1,Team Vitality,atk,elim
+449012,202799,18,T1,Team Vitality,atk,elim
+449013,202800,1,T1,EDward Gaming,def,elim
+449013,202800,2,T1,EDward Gaming,def,elim
+449013,202800,3,T1,EDward Gaming,def,defuse
+449013,202800,4,T1,EDward Gaming,def,elim
+449013,202800,5,T1,EDward Gaming,def,elim
+449013,202800,6,T1,EDward Gaming,def,elim
+449013,202800,7,T1,EDward Gaming,def,elim
+449013,202800,8,EDward Gaming,T1,atk,boom
+449013,202800,9,T1,EDward Gaming,def,time
+449013,202800,10,T1,EDward Gaming,def,defuse
+449013,202800,11,EDward Gaming,T1,atk,elim
+449013,202800,12,EDward Gaming,T1,atk,elim
+449013,202800,13,EDward Gaming,T1,def,defuse
+449013,202800,14,T1,EDward Gaming,atk,elim
+449013,202800,15,T1,EDward Gaming,atk,elim
+449013,202800,16,T1,EDward Gaming,atk,elim
+449013,202800,17,T1,EDward Gaming,atk,elim
+449013,202801,1,T1,EDward Gaming,def,elim
+449013,202801,2,EDward Gaming,T1,atk,boom
+449013,202801,3,EDward Gaming,T1,atk,elim
+449013,202801,4,EDward Gaming,T1,atk,elim
+449013,202801,5,EDward Gaming,T1,atk,elim
+449013,202801,6,T1,EDward Gaming,def,elim
+449013,202801,7,T1,EDward Gaming,def,elim
+449013,202801,8,EDward Gaming,T1,atk,elim
+449013,202801,9,EDward Gaming,T1,atk,elim
+449013,202801,10,EDward Gaming,T1,atk,elim
+449013,202801,11,EDward Gaming,T1,atk,elim
+449013,202801,12,T1,EDward Gaming,def,elim
+449013,202801,13,EDward Gaming,T1,def,defuse
+449013,202801,14,T1,EDward Gaming,atk,elim
+449013,202801,15,T1,EDward Gaming,atk,boom
+449013,202801,16,EDward Gaming,T1,def,defuse
+449013,202801,17,T1,EDward Gaming,atk,elim
+449013,202801,18,T1,EDward Gaming,atk,elim
+449013,202801,19,T1,EDward Gaming,atk,boom
+449013,202801,20,T1,EDward Gaming,atk,boom
+449013,202801,21,T1,EDward Gaming,atk,elim
+449013,202801,22,T1,EDward Gaming,atk,elim
+449013,202801,23,T1,EDward Gaming,atk,elim
+449013,202802,1,EDward Gaming,T1,atk,elim
+449013,202802,2,EDward Gaming,T1,atk,elim
+449013,202802,3,T1,EDward Gaming,def,elim
+449013,202802,4,EDward Gaming,T1,atk,boom
+449013,202802,5,EDward Gaming,T1,atk,elim
+449013,202802,6,EDward Gaming,T1,atk,boom
+449013,202802,7,EDward Gaming,T1,atk,elim
+449013,202802,8,EDward Gaming,T1,atk,elim
+449013,202802,9,T1,EDward Gaming,def,elim
+449013,202802,10,T1,EDward Gaming,def,defuse
+449013,202802,11,T1,EDward Gaming,def,elim
+449013,202802,12,T1,EDward Gaming,def,defuse
+449013,202802,13,EDward Gaming,T1,def,defuse
+449013,202802,14,EDward Gaming,T1,def,defuse
+449013,202802,15,T1,EDward Gaming,atk,elim
+449013,202802,16,T1,EDward Gaming,atk,elim
+449013,202802,17,EDward Gaming,T1,def,defuse
+449013,202802,18,T1,EDward Gaming,atk,elim
+449013,202802,19,EDward Gaming,T1,def,defuse
+449013,202802,20,T1,EDward Gaming,atk,elim
+449013,202802,21,T1,EDward Gaming,atk,elim
+449013,202802,22,T1,EDward Gaming,atk,elim
+449013,202802,23,T1,EDward Gaming,atk,boom
+449013,202802,24,EDward Gaming,T1,def,elim
+449013,202802,25,EDward Gaming,T1,atk,elim
+449013,202802,26,EDward Gaming,T1,def,elim
+449013,202803,1,T1,EDward Gaming,def,elim
+449013,202803,2,T1,EDward Gaming,def,elim
+449013,202803,3,EDward Gaming,T1,atk,elim
+449013,202803,4,T1,EDward Gaming,def,elim
+449013,202803,5,EDward Gaming,T1,atk,boom
+449013,202803,6,EDward Gaming,T1,atk,elim
+449013,202803,7,T1,EDward Gaming,def,elim
+449013,202803,8,T1,EDward Gaming,def,elim
+449013,202803,9,T1,EDward Gaming,def,elim
+449013,202803,10,EDward Gaming,T1,atk,elim
+449013,202803,11,T1,EDward Gaming,def,elim
+449013,202803,12,EDward Gaming,T1,atk,elim
+449013,202803,13,T1,EDward Gaming,atk,elim
+449013,202803,14,T1,EDward Gaming,atk,elim
+449013,202803,15,T1,EDward Gaming,atk,boom
+449013,202803,16,T1,EDward Gaming,atk,elim
+449013,202803,17,T1,EDward Gaming,atk,boom
+449013,202803,18,T1,EDward Gaming,atk,elim
+450589,203837,1,Team International,Team Thailand,atk,elim
+450589,203837,2,Team International,Team Thailand,atk,elim
+450589,203837,3,Team Thailand,Team International,def,elim
+450589,203837,4,Team Thailand,Team International,def,defuse
+450589,203837,5,Team Thailand,Team International,def,defuse
+450589,203837,6,Team Thailand,Team International,def,elim
+450589,203837,7,Team International,Team Thailand,atk,elim
+450589,203837,8,Team International,Team Thailand,atk,elim
+450589,203837,9,Team Thailand,Team International,def,defuse
+450589,203837,10,Team International,Team Thailand,atk,elim
+450589,203837,11,Team International,Team Thailand,atk,elim
+450589,203837,12,Team Thailand,Team International,def,elim
+450589,203837,13,Team International,Team Thailand,def,defuse
+450589,203837,14,Team Thailand,Team International,atk,elim
+450589,203837,15,Team Thailand,Team International,atk,elim
+450589,203837,16,Team International,Team Thailand,def,defuse
+450589,203837,17,Team Thailand,Team International,atk,elim
+450589,203837,18,Team Thailand,Team International,atk,elim
+450589,203837,19,Team Thailand,Team International,atk,elim
+450589,203837,20,Team Thailand,Team International,atk,elim
+450589,203837,21,Team International,Team Thailand,def,elim
+450589,203837,22,Team Thailand,Team International,atk,elim

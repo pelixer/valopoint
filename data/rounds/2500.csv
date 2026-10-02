@@ -1,0 +1,2182 @@
+match_id,game_id,round,winner,loser,win_side,how
+508815,223654,1,TALON,BOOM Esports,atk,elim
+508815,223654,2,TALON,BOOM Esports,atk,boom
+508815,223654,3,TALON,BOOM Esports,atk,elim
+508815,223654,4,TALON,BOOM Esports,atk,elim
+508815,223654,5,BOOM Esports,TALON,def,defuse
+508815,223654,6,BOOM Esports,TALON,def,elim
+508815,223654,7,TALON,BOOM Esports,atk,elim
+508815,223654,8,TALON,BOOM Esports,atk,elim
+508815,223654,9,BOOM Esports,TALON,def,elim
+508815,223654,10,TALON,BOOM Esports,atk,boom
+508815,223654,11,TALON,BOOM Esports,atk,boom
+508815,223654,12,TALON,BOOM Esports,atk,elim
+508815,223654,13,TALON,BOOM Esports,def,elim
+508815,223654,14,TALON,BOOM Esports,def,defuse
+508815,223654,15,BOOM Esports,TALON,atk,elim
+508815,223654,16,BOOM Esports,TALON,atk,boom
+508815,223654,17,TALON,BOOM Esports,def,elim
+508815,223654,18,BOOM Esports,TALON,atk,boom
+508815,223654,19,BOOM Esports,TALON,atk,elim
+508815,223654,20,BOOM Esports,TALON,atk,elim
+508815,223654,21,TALON,BOOM Esports,def,defuse
+508815,223655,1,TALON,BOOM Esports,def,defuse
+508815,223655,2,TALON,BOOM Esports,def,elim
+508815,223655,3,TALON,BOOM Esports,def,defuse
+508815,223655,4,TALON,BOOM Esports,def,defuse
+508815,223655,5,TALON,BOOM Esports,def,elim
+508815,223655,6,TALON,BOOM Esports,def,elim
+508815,223655,7,BOOM Esports,TALON,atk,elim
+508815,223655,8,TALON,BOOM Esports,def,defuse
+508815,223655,9,TALON,BOOM Esports,def,defuse
+508815,223655,10,TALON,BOOM Esports,def,elim
+508815,223655,11,BOOM Esports,TALON,atk,elim
+508815,223655,12,TALON,BOOM Esports,def,defuse
+508815,223655,13,TALON,BOOM Esports,atk,elim
+508815,223655,14,TALON,BOOM Esports,atk,elim
+508815,223655,15,BOOM Esports,TALON,def,elim
+508815,223655,16,TALON,BOOM Esports,atk,elim
+508816,223657,1,Team Secret,Nongshim RedForce,def,defuse
+508816,223657,2,Team Secret,Nongshim RedForce,def,defuse
+508816,223657,3,Nongshim RedForce,Team Secret,atk,elim
+508816,223657,4,Team Secret,Nongshim RedForce,def,elim
+508816,223657,5,Team Secret,Nongshim RedForce,def,elim
+508816,223657,6,Team Secret,Nongshim RedForce,def,defuse
+508816,223657,7,Nongshim RedForce,Team Secret,atk,elim
+508816,223657,8,Nongshim RedForce,Team Secret,atk,boom
+508816,223657,9,Nongshim RedForce,Team Secret,atk,elim
+508816,223657,10,Nongshim RedForce,Team Secret,atk,elim
+508816,223657,11,Team Secret,Nongshim RedForce,def,defuse
+508816,223657,12,Team Secret,Nongshim RedForce,def,defuse
+508816,223657,13,Team Secret,Nongshim RedForce,atk,elim
+508816,223657,14,Team Secret,Nongshim RedForce,atk,elim
+508816,223657,15,Team Secret,Nongshim RedForce,atk,elim
+508816,223657,16,Team Secret,Nongshim RedForce,atk,elim
+508816,223657,17,Nongshim RedForce,Team Secret,def,elim
+508816,223657,18,Nongshim RedForce,Team Secret,def,defuse
+508816,223657,19,Nongshim RedForce,Team Secret,def,elim
+508816,223657,20,Team Secret,Nongshim RedForce,atk,elim
+508816,223657,21,Team Secret,Nongshim RedForce,atk,elim
+508816,223658,1,Team Secret,Nongshim RedForce,atk,elim
+508816,223658,2,Team Secret,Nongshim RedForce,atk,elim
+508816,223658,3,Nongshim RedForce,Team Secret,def,defuse
+508816,223658,4,Nongshim RedForce,Team Secret,def,time
+508816,223658,5,Nongshim RedForce,Team Secret,def,elim
+508816,223658,6,Team Secret,Nongshim RedForce,atk,elim
+508816,223658,7,Team Secret,Nongshim RedForce,atk,boom
+508816,223658,8,Team Secret,Nongshim RedForce,atk,elim
+508816,223658,9,Team Secret,Nongshim RedForce,atk,elim
+508816,223658,10,Nongshim RedForce,Team Secret,def,elim
+508816,223658,11,Nongshim RedForce,Team Secret,def,elim
+508816,223658,12,Nongshim RedForce,Team Secret,def,elim
+508816,223658,13,Team Secret,Nongshim RedForce,def,elim
+508816,223658,14,Team Secret,Nongshim RedForce,def,defuse
+508816,223658,15,Nongshim RedForce,Team Secret,atk,elim
+508816,223658,16,Nongshim RedForce,Team Secret,atk,elim
+508816,223658,17,Nongshim RedForce,Team Secret,atk,elim
+508816,223658,18,Team Secret,Nongshim RedForce,def,defuse
+508816,223658,19,Nongshim RedForce,Team Secret,atk,boom
+508816,223658,20,Nongshim RedForce,Team Secret,atk,elim
+508816,223658,21,Team Secret,Nongshim RedForce,def,defuse
+508816,223658,22,Nongshim RedForce,Team Secret,atk,boom
+508816,223658,23,Nongshim RedForce,Team Secret,atk,elim
+508816,223659,1,Nongshim RedForce,Team Secret,def,elim
+508816,223659,2,Nongshim RedForce,Team Secret,def,defuse
+508816,223659,3,Nongshim RedForce,Team Secret,def,elim
+508816,223659,4,Nongshim RedForce,Team Secret,def,elim
+508816,223659,5,Team Secret,Nongshim RedForce,atk,boom
+508816,223659,6,Team Secret,Nongshim RedForce,atk,boom
+508816,223659,7,Team Secret,Nongshim RedForce,atk,boom
+508816,223659,8,Nongshim RedForce,Team Secret,def,defuse
+508816,223659,9,Nongshim RedForce,Team Secret,def,elim
+508816,223659,10,Nongshim RedForce,Team Secret,def,time
+508816,223659,11,Nongshim RedForce,Team Secret,def,elim
+508816,223659,12,Nongshim RedForce,Team Secret,def,elim
+508816,223659,13,Nongshim RedForce,Team Secret,atk,elim
+508816,223659,14,Nongshim RedForce,Team Secret,atk,elim
+508816,223659,15,Nongshim RedForce,Team Secret,atk,elim
+508816,223659,16,Nongshim RedForce,Team Secret,atk,elim
+508817,223660,1,Paper Rex,T1,def,defuse
+508817,223660,2,Paper Rex,T1,def,elim
+508817,223660,3,Paper Rex,T1,def,elim
+508817,223660,4,Paper Rex,T1,def,elim
+508817,223660,5,T1,Paper Rex,atk,elim
+508817,223660,6,T1,Paper Rex,atk,elim
+508817,223660,7,Paper Rex,T1,def,elim
+508817,223660,8,Paper Rex,T1,def,elim
+508817,223660,9,Paper Rex,T1,def,defuse
+508817,223660,10,Paper Rex,T1,def,elim
+508817,223660,11,Paper Rex,T1,def,defuse
+508817,223660,12,Paper Rex,T1,def,defuse
+508817,223660,13,T1,Paper Rex,def,defuse
+508817,223660,14,T1,Paper Rex,def,elim
+508817,223660,15,T1,Paper Rex,def,defuse
+508817,223660,16,T1,Paper Rex,def,elim
+508817,223660,17,T1,Paper Rex,def,defuse
+508817,223660,18,Paper Rex,T1,atk,elim
+508817,223660,19,T1,Paper Rex,def,elim
+508817,223660,20,T1,Paper Rex,def,defuse
+508817,223660,21,Paper Rex,T1,atk,elim
+508817,223660,22,T1,Paper Rex,def,elim
+508817,223660,23,T1,Paper Rex,def,elim
+508817,223660,24,T1,Paper Rex,def,defuse
+508817,223660,25,Paper Rex,T1,def,defuse
+508817,223660,26,T1,Paper Rex,def,elim
+508817,223660,27,Paper Rex,T1,def,defuse
+508817,223660,28,T1,Paper Rex,def,elim
+508817,223660,29,Paper Rex,T1,def,elim
+508817,223660,30,T1,Paper Rex,def,elim
+508817,223660,31,Paper Rex,T1,def,defuse
+508817,223660,32,Paper Rex,T1,atk,elim
+508817,223661,1,T1,Paper Rex,atk,elim
+508817,223661,2,T1,Paper Rex,atk,elim
+508817,223661,3,Paper Rex,T1,def,elim
+508817,223661,4,T1,Paper Rex,atk,elim
+508817,223661,5,Paper Rex,T1,def,defuse
+508817,223661,6,Paper Rex,T1,def,elim
+508817,223661,7,T1,Paper Rex,atk,elim
+508817,223661,8,Paper Rex,T1,def,elim
+508817,223661,9,Paper Rex,T1,def,elim
+508817,223661,10,T1,Paper Rex,atk,boom
+508817,223661,11,T1,Paper Rex,atk,elim
+508817,223661,12,Paper Rex,T1,def,elim
+508817,223661,13,T1,Paper Rex,def,defuse
+508817,223661,14,T1,Paper Rex,def,elim
+508817,223661,15,T1,Paper Rex,def,defuse
+508817,223661,16,Paper Rex,T1,atk,elim
+508817,223661,17,T1,Paper Rex,def,elim
+508817,223661,18,T1,Paper Rex,def,defuse
+508817,223661,19,Paper Rex,T1,atk,boom
+508817,223661,20,Paper Rex,T1,atk,elim
+508817,223661,21,Paper Rex,T1,atk,elim
+508817,223661,22,T1,Paper Rex,def,elim
+508817,223661,23,Paper Rex,T1,atk,elim
+508817,223661,24,Paper Rex,T1,atk,elim
+508817,223661,25,Paper Rex,T1,def,defuse
+508817,223661,26,Paper Rex,T1,atk,elim
+508818,223664,1,Gen.G,KIWOOM DRX,atk,elim
+508818,223664,2,Gen.G,KIWOOM DRX,atk,elim
+508818,223664,3,Gen.G,KIWOOM DRX,atk,boom
+508818,223664,4,KIWOOM DRX,Gen.G,def,defuse
+508818,223664,5,Gen.G,KIWOOM DRX,atk,boom
+508818,223664,6,Gen.G,KIWOOM DRX,atk,elim
+508818,223664,7,KIWOOM DRX,Gen.G,def,elim
+508818,223664,8,KIWOOM DRX,Gen.G,def,time
+508818,223664,9,Gen.G,KIWOOM DRX,atk,elim
+508818,223664,10,Gen.G,KIWOOM DRX,atk,elim
+508818,223664,11,Gen.G,KIWOOM DRX,atk,elim
+508818,223664,12,Gen.G,KIWOOM DRX,atk,elim
+508818,223664,13,KIWOOM DRX,Gen.G,atk,elim
+508818,223664,14,KIWOOM DRX,Gen.G,atk,elim
+508818,223664,15,KIWOOM DRX,Gen.G,atk,boom
+508818,223664,16,Gen.G,KIWOOM DRX,def,defuse
+508818,223664,17,KIWOOM DRX,Gen.G,atk,elim
+508818,223664,18,Gen.G,KIWOOM DRX,def,elim
+508818,223664,19,KIWOOM DRX,Gen.G,atk,elim
+508818,223664,20,Gen.G,KIWOOM DRX,def,defuse
+508818,223664,21,Gen.G,KIWOOM DRX,def,defuse
+508818,227727,1,Gen.G,KIWOOM DRX,def,time
+508818,227727,2,Gen.G,KIWOOM DRX,def,elim
+508818,227727,3,KIWOOM DRX,Gen.G,atk,elim
+508818,227727,4,Gen.G,KIWOOM DRX,def,time
+508818,227727,5,Gen.G,KIWOOM DRX,def,time
+508818,227727,6,Gen.G,KIWOOM DRX,def,defuse
+508818,227727,7,Gen.G,KIWOOM DRX,def,elim
+508818,227727,8,Gen.G,KIWOOM DRX,def,elim
+508818,227727,9,Gen.G,KIWOOM DRX,def,elim
+508818,227727,10,Gen.G,KIWOOM DRX,def,defuse
+508818,227727,11,KIWOOM DRX,Gen.G,atk,elim
+508818,227727,12,Gen.G,KIWOOM DRX,def,elim
+508818,227727,13,KIWOOM DRX,Gen.G,def,defuse
+508818,227727,14,Gen.G,KIWOOM DRX,atk,boom
+508818,227727,15,Gen.G,KIWOOM DRX,atk,boom
+508818,227727,16,KIWOOM DRX,Gen.G,def,defuse
+508818,227727,17,KIWOOM DRX,Gen.G,def,elim
+508818,227727,18,KIWOOM DRX,Gen.G,def,elim
+508818,227727,19,Gen.G,KIWOOM DRX,atk,elim
+508819,223667,1,Rex Regum Qeon,Global Esports,atk,elim
+508819,223667,2,Rex Regum Qeon,Global Esports,atk,boom
+508819,223667,3,Global Esports,Rex Regum Qeon,def,elim
+508819,223667,4,Global Esports,Rex Regum Qeon,def,elim
+508819,223667,5,Global Esports,Rex Regum Qeon,def,elim
+508819,223667,6,Global Esports,Rex Regum Qeon,def,defuse
+508819,223667,7,Rex Regum Qeon,Global Esports,atk,boom
+508819,223667,8,Global Esports,Rex Regum Qeon,def,defuse
+508819,223667,9,Global Esports,Rex Regum Qeon,def,elim
+508819,223667,10,Global Esports,Rex Regum Qeon,def,elim
+508819,223667,11,Global Esports,Rex Regum Qeon,def,defuse
+508819,223667,12,Global Esports,Rex Regum Qeon,def,elim
+508819,223667,13,Global Esports,Rex Regum Qeon,atk,elim
+508819,223667,14,Global Esports,Rex Regum Qeon,atk,elim
+508819,223667,15,Rex Regum Qeon,Global Esports,def,defuse
+508819,223667,16,Global Esports,Rex Regum Qeon,atk,elim
+508819,223667,17,Rex Regum Qeon,Global Esports,def,elim
+508819,223667,18,Rex Regum Qeon,Global Esports,def,defuse
+508819,223667,19,Rex Regum Qeon,Global Esports,def,defuse
+508819,223667,20,Global Esports,Rex Regum Qeon,atk,elim
+508819,227752,1,Global Esports,Rex Regum Qeon,def,elim
+508819,227752,2,Rex Regum Qeon,Global Esports,atk,elim
+508819,227752,3,Global Esports,Rex Regum Qeon,def,defuse
+508819,227752,4,Global Esports,Rex Regum Qeon,def,defuse
+508819,227752,5,Rex Regum Qeon,Global Esports,atk,elim
+508819,227752,6,Global Esports,Rex Regum Qeon,def,defuse
+508819,227752,7,Global Esports,Rex Regum Qeon,def,defuse
+508819,227752,8,Global Esports,Rex Regum Qeon,def,defuse
+508819,227752,9,Global Esports,Rex Regum Qeon,def,defuse
+508819,227752,10,Rex Regum Qeon,Global Esports,atk,elim
+508819,227752,11,Global Esports,Rex Regum Qeon,def,time
+508819,227752,12,Global Esports,Rex Regum Qeon,def,elim
+508819,227752,13,Rex Regum Qeon,Global Esports,def,defuse
+508819,227752,14,Rex Regum Qeon,Global Esports,def,elim
+508819,227752,15,Global Esports,Rex Regum Qeon,atk,elim
+508819,227752,16,Global Esports,Rex Regum Qeon,atk,elim
+508819,227752,17,Global Esports,Rex Regum Qeon,atk,elim
+508819,227752,18,Global Esports,Rex Regum Qeon,atk,elim
+508820,223669,1,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223669,2,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223669,3,ZETA DIVISION,DetonatioN FocusMe,def,elim
+508820,223669,4,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223669,5,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223669,6,DetonatioN FocusMe,ZETA DIVISION,atk,boom
+508820,223669,7,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223669,8,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223669,9,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223669,10,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223669,11,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223669,12,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223669,13,DetonatioN FocusMe,ZETA DIVISION,def,elim
+508820,223669,14,DetonatioN FocusMe,ZETA DIVISION,def,elim
+508820,223670,1,ZETA DIVISION,DetonatioN FocusMe,atk,elim
+508820,223670,2,ZETA DIVISION,DetonatioN FocusMe,atk,elim
+508820,223670,3,ZETA DIVISION,DetonatioN FocusMe,atk,boom
+508820,223670,4,ZETA DIVISION,DetonatioN FocusMe,atk,elim
+508820,223670,5,ZETA DIVISION,DetonatioN FocusMe,atk,boom
+508820,223670,6,ZETA DIVISION,DetonatioN FocusMe,atk,elim
+508820,223670,7,ZETA DIVISION,DetonatioN FocusMe,atk,boom
+508820,223670,8,DetonatioN FocusMe,ZETA DIVISION,def,time
+508820,223670,9,ZETA DIVISION,DetonatioN FocusMe,atk,elim
+508820,223670,10,ZETA DIVISION,DetonatioN FocusMe,atk,elim
+508820,223670,11,ZETA DIVISION,DetonatioN FocusMe,atk,elim
+508820,223670,12,ZETA DIVISION,DetonatioN FocusMe,atk,elim
+508820,223670,13,ZETA DIVISION,DetonatioN FocusMe,def,elim
+508820,223670,14,ZETA DIVISION,DetonatioN FocusMe,def,elim
+508820,223671,1,ZETA DIVISION,DetonatioN FocusMe,def,defuse
+508820,223671,2,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223671,3,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223671,4,ZETA DIVISION,DetonatioN FocusMe,def,time
+508820,223671,5,ZETA DIVISION,DetonatioN FocusMe,def,defuse
+508820,223671,6,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223671,7,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223671,8,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223671,9,DetonatioN FocusMe,ZETA DIVISION,atk,boom
+508820,223671,10,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223671,11,DetonatioN FocusMe,ZETA DIVISION,atk,elim
+508820,223671,12,ZETA DIVISION,DetonatioN FocusMe,def,elim
+508820,223671,13,ZETA DIVISION,DetonatioN FocusMe,atk,boom
+508820,223671,14,ZETA DIVISION,DetonatioN FocusMe,atk,elim
+508820,223671,15,DetonatioN FocusMe,ZETA DIVISION,def,defuse
+508820,223671,16,DetonatioN FocusMe,ZETA DIVISION,def,elim
+508820,223671,17,DetonatioN FocusMe,ZETA DIVISION,def,time
+508820,223671,18,DetonatioN FocusMe,ZETA DIVISION,def,elim
+508820,223671,19,ZETA DIVISION,DetonatioN FocusMe,atk,elim
+508820,223671,20,DetonatioN FocusMe,ZETA DIVISION,def,defuse
+508821,223672,1,Nongshim RedForce,KIWOOM DRX,atk,elim
+508821,223672,2,KIWOOM DRX,Nongshim RedForce,def,elim
+508821,223672,3,KIWOOM DRX,Nongshim RedForce,def,defuse
+508821,223672,4,KIWOOM DRX,Nongshim RedForce,def,defuse
+508821,223672,5,KIWOOM DRX,Nongshim RedForce,def,time
+508821,223672,6,Nongshim RedForce,KIWOOM DRX,atk,boom
+508821,223672,7,KIWOOM DRX,Nongshim RedForce,def,time
+508821,223672,8,KIWOOM DRX,Nongshim RedForce,def,defuse
+508821,223672,9,Nongshim RedForce,KIWOOM DRX,atk,boom
+508821,223672,10,Nongshim RedForce,KIWOOM DRX,atk,elim
+508821,223672,11,Nongshim RedForce,KIWOOM DRX,atk,elim
+508821,223672,12,KIWOOM DRX,Nongshim RedForce,def,defuse
+508821,223672,13,KIWOOM DRX,Nongshim RedForce,atk,elim
+508821,223672,14,KIWOOM DRX,Nongshim RedForce,atk,elim
+508821,223672,15,KIWOOM DRX,Nongshim RedForce,atk,elim
+508821,223672,16,KIWOOM DRX,Nongshim RedForce,atk,elim
+508821,223672,17,KIWOOM DRX,Nongshim RedForce,atk,elim
+508821,223672,18,KIWOOM DRX,Nongshim RedForce,atk,elim
+508821,227984,1,Nongshim RedForce,KIWOOM DRX,def,elim
+508821,227984,2,Nongshim RedForce,KIWOOM DRX,def,defuse
+508821,227984,3,Nongshim RedForce,KIWOOM DRX,def,defuse
+508821,227984,4,Nongshim RedForce,KIWOOM DRX,def,elim
+508821,227984,5,Nongshim RedForce,KIWOOM DRX,def,defuse
+508821,227984,6,Nongshim RedForce,KIWOOM DRX,def,elim
+508821,227984,7,KIWOOM DRX,Nongshim RedForce,atk,boom
+508821,227984,8,KIWOOM DRX,Nongshim RedForce,atk,boom
+508821,227984,9,Nongshim RedForce,KIWOOM DRX,def,defuse
+508821,227984,10,KIWOOM DRX,Nongshim RedForce,atk,elim
+508821,227984,11,KIWOOM DRX,Nongshim RedForce,atk,elim
+508821,227984,12,Nongshim RedForce,KIWOOM DRX,def,elim
+508821,227984,13,Nongshim RedForce,KIWOOM DRX,atk,elim
+508821,227984,14,Nongshim RedForce,KIWOOM DRX,atk,elim
+508821,227984,15,Nongshim RedForce,KIWOOM DRX,atk,elim
+508821,227984,16,Nongshim RedForce,KIWOOM DRX,atk,boom
+508821,227984,17,Nongshim RedForce,KIWOOM DRX,atk,elim
+508821,227985,1,KIWOOM DRX,Nongshim RedForce,atk,elim
+508821,227985,2,KIWOOM DRX,Nongshim RedForce,atk,boom
+508821,227985,3,KIWOOM DRX,Nongshim RedForce,atk,elim
+508821,227985,4,KIWOOM DRX,Nongshim RedForce,atk,elim
+508821,227985,5,KIWOOM DRX,Nongshim RedForce,atk,elim
+508821,227985,6,Nongshim RedForce,KIWOOM DRX,def,defuse
+508821,227985,7,Nongshim RedForce,KIWOOM DRX,def,elim
+508821,227985,8,Nongshim RedForce,KIWOOM DRX,def,time
+508821,227985,9,Nongshim RedForce,KIWOOM DRX,def,defuse
+508821,227985,10,KIWOOM DRX,Nongshim RedForce,atk,boom
+508821,227985,11,Nongshim RedForce,KIWOOM DRX,def,defuse
+508821,227985,12,Nongshim RedForce,KIWOOM DRX,def,elim
+508821,227985,13,Nongshim RedForce,KIWOOM DRX,atk,elim
+508821,227985,14,Nongshim RedForce,KIWOOM DRX,atk,elim
+508821,227985,15,KIWOOM DRX,Nongshim RedForce,def,defuse
+508821,227985,16,Nongshim RedForce,KIWOOM DRX,atk,boom
+508821,227985,17,KIWOOM DRX,Nongshim RedForce,def,defuse
+508821,227985,18,KIWOOM DRX,Nongshim RedForce,def,defuse
+508821,227985,19,KIWOOM DRX,Nongshim RedForce,def,elim
+508821,227985,20,Nongshim RedForce,KIWOOM DRX,atk,boom
+508821,227985,21,KIWOOM DRX,Nongshim RedForce,def,defuse
+508821,227985,22,Nongshim RedForce,KIWOOM DRX,atk,elim
+508821,227985,23,KIWOOM DRX,Nongshim RedForce,def,defuse
+508821,227985,24,KIWOOM DRX,Nongshim RedForce,def,elim
+508822,223673,1,BOOM Esports,T1,def,defuse
+508822,223673,2,BOOM Esports,T1,def,elim
+508822,223673,3,T1,BOOM Esports,atk,elim
+508822,223673,4,T1,BOOM Esports,atk,elim
+508822,223673,5,T1,BOOM Esports,atk,elim
+508822,223673,6,T1,BOOM Esports,atk,boom
+508822,223673,7,T1,BOOM Esports,atk,elim
+508822,223673,8,T1,BOOM Esports,atk,boom
+508822,223673,9,BOOM Esports,T1,def,elim
+508822,223673,10,T1,BOOM Esports,atk,elim
+508822,223673,11,BOOM Esports,T1,def,defuse
+508822,223673,12,T1,BOOM Esports,atk,elim
+508822,223673,13,T1,BOOM Esports,def,elim
+508822,223673,14,T1,BOOM Esports,def,elim
+508822,223673,15,BOOM Esports,T1,atk,elim
+508822,223673,16,BOOM Esports,T1,atk,boom
+508822,223673,17,BOOM Esports,T1,atk,elim
+508822,223673,18,T1,BOOM Esports,def,elim
+508822,223673,19,BOOM Esports,T1,atk,elim
+508822,223673,20,BOOM Esports,T1,atk,elim
+508822,223673,21,T1,BOOM Esports,def,elim
+508822,223673,22,T1,BOOM Esports,def,elim
+508822,223674,1,BOOM Esports,T1,def,elim
+508822,223674,2,BOOM Esports,T1,def,elim
+508822,223674,3,T1,BOOM Esports,atk,elim
+508822,223674,4,BOOM Esports,T1,def,defuse
+508822,223674,5,BOOM Esports,T1,def,elim
+508822,223674,6,T1,BOOM Esports,atk,boom
+508822,223674,7,T1,BOOM Esports,atk,elim
+508822,223674,8,BOOM Esports,T1,def,elim
+508822,223674,9,BOOM Esports,T1,def,elim
+508822,223674,10,T1,BOOM Esports,atk,boom
+508822,223674,11,T1,BOOM Esports,atk,boom
+508822,223674,12,T1,BOOM Esports,atk,elim
+508822,223674,13,BOOM Esports,T1,atk,elim
+508822,223674,14,BOOM Esports,T1,atk,elim
+508822,223674,15,T1,BOOM Esports,def,elim
+508822,223674,16,BOOM Esports,T1,atk,boom
+508822,223674,17,BOOM Esports,T1,atk,elim
+508822,223674,18,T1,BOOM Esports,def,elim
+508822,223674,19,T1,BOOM Esports,def,elim
+508822,223674,20,T1,BOOM Esports,def,time
+508822,223674,21,T1,BOOM Esports,def,elim
+508822,223674,22,T1,BOOM Esports,def,elim
+508822,223674,23,T1,BOOM Esports,def,defuse
+508823,223676,1,Team Secret,Global Esports,def,defuse
+508823,223676,2,Team Secret,Global Esports,def,elim
+508823,223676,3,Team Secret,Global Esports,def,time
+508823,223676,4,Global Esports,Team Secret,atk,elim
+508823,223676,5,Global Esports,Team Secret,atk,boom
+508823,223676,6,Global Esports,Team Secret,atk,boom
+508823,223676,7,Team Secret,Global Esports,def,time
+508823,223676,8,Team Secret,Global Esports,def,elim
+508823,223676,9,Global Esports,Team Secret,atk,boom
+508823,223676,10,Team Secret,Global Esports,def,defuse
+508823,223676,11,Team Secret,Global Esports,def,defuse
+508823,223676,12,Team Secret,Global Esports,def,elim
+508823,223676,13,Team Secret,Global Esports,atk,elim
+508823,223676,14,Team Secret,Global Esports,atk,elim
+508823,223676,15,Team Secret,Global Esports,atk,elim
+508823,223676,16,Global Esports,Team Secret,def,defuse
+508823,223676,17,Team Secret,Global Esports,atk,boom
+508823,223676,18,Team Secret,Global Esports,atk,elim
+508823,223677,1,Global Esports,Team Secret,def,defuse
+508823,223677,2,Global Esports,Team Secret,def,defuse
+508823,223677,3,Global Esports,Team Secret,def,elim
+508823,223677,4,Global Esports,Team Secret,def,elim
+508823,223677,5,Global Esports,Team Secret,def,elim
+508823,223677,6,Team Secret,Global Esports,atk,elim
+508823,223677,7,Global Esports,Team Secret,def,defuse
+508823,223677,8,Global Esports,Team Secret,def,defuse
+508823,223677,9,Global Esports,Team Secret,def,defuse
+508823,223677,10,Team Secret,Global Esports,atk,elim
+508823,223677,11,Team Secret,Global Esports,atk,boom
+508823,223677,12,Global Esports,Team Secret,def,elim
+508823,223677,13,Team Secret,Global Esports,def,defuse
+508823,223677,14,Team Secret,Global Esports,def,elim
+508823,223677,15,Global Esports,Team Secret,atk,elim
+508823,223677,16,Global Esports,Team Secret,atk,elim
+508823,223677,17,Global Esports,Team Secret,atk,elim
+508823,223677,18,Team Secret,Global Esports,def,elim
+508823,223677,19,Team Secret,Global Esports,def,elim
+508823,223677,20,Team Secret,Global Esports,def,elim
+508823,223677,21,Team Secret,Global Esports,def,elim
+508823,223677,22,Global Esports,Team Secret,atk,elim
+508823,223678,1,Team Secret,Global Esports,atk,elim
+508823,223678,2,Team Secret,Global Esports,atk,elim
+508823,223678,3,Global Esports,Team Secret,def,elim
+508823,223678,4,Team Secret,Global Esports,atk,elim
+508823,223678,5,Team Secret,Global Esports,atk,boom
+508823,223678,6,Team Secret,Global Esports,atk,elim
+508823,223678,7,Team Secret,Global Esports,atk,boom
+508823,223678,8,Team Secret,Global Esports,atk,elim
+508823,223678,9,Team Secret,Global Esports,atk,elim
+508823,223678,10,Global Esports,Team Secret,def,defuse
+508823,223678,11,Team Secret,Global Esports,atk,elim
+508823,223678,12,Team Secret,Global Esports,atk,elim
+508823,223678,13,Team Secret,Global Esports,def,elim
+508823,223678,14,Global Esports,Team Secret,atk,elim
+508823,223678,15,Global Esports,Team Secret,atk,boom
+508823,223678,16,Global Esports,Team Secret,atk,boom
+508823,223678,17,Global Esports,Team Secret,atk,elim
+508823,223678,18,Global Esports,Team Secret,atk,elim
+508823,223678,19,Global Esports,Team Secret,atk,elim
+508823,223678,20,Team Secret,Global Esports,def,defuse
+508823,223678,21,Global Esports,Team Secret,atk,elim
+508823,223678,22,Global Esports,Team Secret,atk,elim
+508823,223678,23,Global Esports,Team Secret,atk,elim
+508823,223678,24,Team Secret,Global Esports,def,defuse
+508824,223680,1,Paper Rex,DetonatioN FocusMe,def,defuse
+508824,223680,2,Paper Rex,DetonatioN FocusMe,def,elim
+508824,223680,3,DetonatioN FocusMe,Paper Rex,atk,elim
+508824,223680,4,Paper Rex,DetonatioN FocusMe,def,defuse
+508824,223680,5,Paper Rex,DetonatioN FocusMe,def,elim
+508824,223680,6,Paper Rex,DetonatioN FocusMe,def,elim
+508824,223680,7,Paper Rex,DetonatioN FocusMe,def,elim
+508824,223680,8,Paper Rex,DetonatioN FocusMe,def,elim
+508824,223680,9,DetonatioN FocusMe,Paper Rex,atk,elim
+508824,223680,10,DetonatioN FocusMe,Paper Rex,atk,boom
+508824,223680,11,DetonatioN FocusMe,Paper Rex,atk,elim
+508824,223680,12,Paper Rex,DetonatioN FocusMe,def,defuse
+508824,223680,13,Paper Rex,DetonatioN FocusMe,atk,elim
+508824,223680,14,Paper Rex,DetonatioN FocusMe,atk,elim
+508824,223680,15,DetonatioN FocusMe,Paper Rex,def,defuse
+508824,223680,16,DetonatioN FocusMe,Paper Rex,def,elim
+508824,223680,17,Paper Rex,DetonatioN FocusMe,atk,elim
+508824,223680,18,Paper Rex,DetonatioN FocusMe,atk,elim
+508824,223680,19,DetonatioN FocusMe,Paper Rex,def,defuse
+508824,223680,20,Paper Rex,DetonatioN FocusMe,atk,elim
+508824,228042,1,Paper Rex,DetonatioN FocusMe,def,elim
+508824,228042,2,Paper Rex,DetonatioN FocusMe,def,elim
+508824,228042,3,Paper Rex,DetonatioN FocusMe,def,elim
+508824,228042,4,Paper Rex,DetonatioN FocusMe,def,elim
+508824,228042,5,DetonatioN FocusMe,Paper Rex,atk,elim
+508824,228042,6,Paper Rex,DetonatioN FocusMe,def,defuse
+508824,228042,7,Paper Rex,DetonatioN FocusMe,def,elim
+508824,228042,8,DetonatioN FocusMe,Paper Rex,atk,elim
+508824,228042,9,DetonatioN FocusMe,Paper Rex,atk,boom
+508824,228042,10,DetonatioN FocusMe,Paper Rex,atk,boom
+508824,228042,11,DetonatioN FocusMe,Paper Rex,atk,elim
+508824,228042,12,DetonatioN FocusMe,Paper Rex,atk,elim
+508824,228042,13,Paper Rex,DetonatioN FocusMe,atk,elim
+508824,228042,14,Paper Rex,DetonatioN FocusMe,atk,elim
+508824,228042,15,Paper Rex,DetonatioN FocusMe,atk,boom
+508824,228042,16,DetonatioN FocusMe,Paper Rex,def,defuse
+508824,228042,17,Paper Rex,DetonatioN FocusMe,atk,boom
+508824,228042,18,Paper Rex,DetonatioN FocusMe,atk,elim
+508824,228042,19,Paper Rex,DetonatioN FocusMe,atk,elim
+508824,228042,20,Paper Rex,DetonatioN FocusMe,atk,elim
+508825,223682,1,TALON,ZETA DIVISION,atk,elim
+508825,223682,2,TALON,ZETA DIVISION,atk,elim
+508825,223682,3,TALON,ZETA DIVISION,atk,boom
+508825,223682,4,TALON,ZETA DIVISION,atk,boom
+508825,223682,5,TALON,ZETA DIVISION,atk,elim
+508825,223682,6,TALON,ZETA DIVISION,atk,elim
+508825,223682,7,TALON,ZETA DIVISION,atk,elim
+508825,223682,8,ZETA DIVISION,TALON,def,elim
+508825,223682,9,ZETA DIVISION,TALON,def,elim
+508825,223682,10,ZETA DIVISION,TALON,def,defuse
+508825,223682,11,ZETA DIVISION,TALON,def,elim
+508825,223682,12,TALON,ZETA DIVISION,atk,elim
+508825,223682,13,TALON,ZETA DIVISION,def,elim
+508825,223682,14,TALON,ZETA DIVISION,def,defuse
+508825,223682,15,TALON,ZETA DIVISION,def,defuse
+508825,223682,16,TALON,ZETA DIVISION,def,elim
+508825,223682,17,ZETA DIVISION,TALON,atk,elim
+508825,223682,18,TALON,ZETA DIVISION,def,elim
+508825,223683,1,TALON,ZETA DIVISION,atk,elim
+508825,223683,2,TALON,ZETA DIVISION,atk,elim
+508825,223683,3,TALON,ZETA DIVISION,atk,elim
+508825,223683,4,TALON,ZETA DIVISION,atk,elim
+508825,223683,5,TALON,ZETA DIVISION,atk,elim
+508825,223683,6,TALON,ZETA DIVISION,atk,elim
+508825,223683,7,ZETA DIVISION,TALON,def,defuse
+508825,223683,8,ZETA DIVISION,TALON,def,defuse
+508825,223683,9,ZETA DIVISION,TALON,def,defuse
+508825,223683,10,TALON,ZETA DIVISION,atk,elim
+508825,223683,11,TALON,ZETA DIVISION,atk,elim
+508825,223683,12,ZETA DIVISION,TALON,def,elim
+508825,223683,13,ZETA DIVISION,TALON,atk,elim
+508825,223683,14,TALON,ZETA DIVISION,def,elim
+508825,223683,15,TALON,ZETA DIVISION,def,defuse
+508825,223683,16,TALON,ZETA DIVISION,def,elim
+508825,223683,17,TALON,ZETA DIVISION,def,elim
+508825,223683,18,ZETA DIVISION,TALON,atk,elim
+508825,223683,19,TALON,ZETA DIVISION,def,defuse
+508826,223686,1,Gen.G,Rex Regum Qeon,def,elim
+508826,223686,2,Gen.G,Rex Regum Qeon,def,defuse
+508826,223686,3,Rex Regum Qeon,Gen.G,atk,elim
+508826,223686,4,Gen.G,Rex Regum Qeon,def,elim
+508826,223686,5,Gen.G,Rex Regum Qeon,def,elim
+508826,223686,6,Gen.G,Rex Regum Qeon,def,time
+508826,223686,7,Gen.G,Rex Regum Qeon,def,elim
+508826,223686,8,Gen.G,Rex Regum Qeon,def,time
+508826,223686,9,Rex Regum Qeon,Gen.G,atk,boom
+508826,223686,10,Gen.G,Rex Regum Qeon,def,elim
+508826,223686,11,Gen.G,Rex Regum Qeon,def,elim
+508826,223686,12,Gen.G,Rex Regum Qeon,def,elim
+508826,223686,13,Rex Regum Qeon,Gen.G,def,elim
+508826,223686,14,Rex Regum Qeon,Gen.G,def,elim
+508826,223686,15,Rex Regum Qeon,Gen.G,def,time
+508826,223686,16,Gen.G,Rex Regum Qeon,atk,elim
+508826,223686,17,Gen.G,Rex Regum Qeon,atk,boom
+508826,223686,18,Rex Regum Qeon,Gen.G,def,elim
+508826,223686,19,Gen.G,Rex Regum Qeon,atk,elim
+508826,223687,1,Gen.G,Rex Regum Qeon,def,elim
+508826,223687,2,Gen.G,Rex Regum Qeon,def,elim
+508826,223687,3,Gen.G,Rex Regum Qeon,def,time
+508826,223687,4,Gen.G,Rex Regum Qeon,def,elim
+508826,223687,5,Gen.G,Rex Regum Qeon,def,elim
+508826,223687,6,Rex Regum Qeon,Gen.G,atk,boom
+508826,223687,7,Rex Regum Qeon,Gen.G,atk,boom
+508826,223687,8,Rex Regum Qeon,Gen.G,atk,elim
+508826,223687,9,Gen.G,Rex Regum Qeon,def,elim
+508826,223687,10,Gen.G,Rex Regum Qeon,def,elim
+508826,223687,11,Rex Regum Qeon,Gen.G,atk,elim
+508826,223687,12,Gen.G,Rex Regum Qeon,def,elim
+508826,223687,13,Rex Regum Qeon,Gen.G,def,defuse
+508826,223687,14,Rex Regum Qeon,Gen.G,def,defuse
+508826,223687,15,Rex Regum Qeon,Gen.G,def,defuse
+508826,223687,16,Rex Regum Qeon,Gen.G,def,elim
+508826,223687,17,Gen.G,Rex Regum Qeon,atk,elim
+508826,223687,18,Gen.G,Rex Regum Qeon,atk,boom
+508826,223687,19,Rex Regum Qeon,Gen.G,def,defuse
+508826,223687,20,Rex Regum Qeon,Gen.G,def,elim
+508826,223687,21,Gen.G,Rex Regum Qeon,atk,boom
+508826,223687,22,Rex Regum Qeon,Gen.G,def,defuse
+508826,223687,23,Rex Regum Qeon,Gen.G,def,defuse
+508826,223687,24,Rex Regum Qeon,Gen.G,def,elim
+508826,228313,1,Rex Regum Qeon,Gen.G,def,elim
+508826,228313,2,Rex Regum Qeon,Gen.G,def,defuse
+508826,228313,3,Gen.G,Rex Regum Qeon,atk,elim
+508826,228313,4,Gen.G,Rex Regum Qeon,atk,boom
+508826,228313,5,Rex Regum Qeon,Gen.G,def,defuse
+508826,228313,6,Rex Regum Qeon,Gen.G,def,defuse
+508826,228313,7,Rex Regum Qeon,Gen.G,def,defuse
+508826,228313,8,Rex Regum Qeon,Gen.G,def,elim
+508826,228313,9,Gen.G,Rex Regum Qeon,atk,boom
+508826,228313,10,Rex Regum Qeon,Gen.G,def,defuse
+508826,228313,11,Gen.G,Rex Regum Qeon,atk,elim
+508826,228313,12,Gen.G,Rex Regum Qeon,atk,elim
+508826,228313,13,Rex Regum Qeon,Gen.G,atk,elim
+508826,228313,14,Rex Regum Qeon,Gen.G,atk,boom
+508826,228313,15,Rex Regum Qeon,Gen.G,atk,elim
+508826,228313,16,Rex Regum Qeon,Gen.G,atk,elim
+508826,228313,17,Gen.G,Rex Regum Qeon,def,defuse
+508826,228313,18,Rex Regum Qeon,Gen.G,atk,elim
+508826,228313,19,Rex Regum Qeon,Gen.G,atk,elim
+508828,223688,1,Global Esports,Gen.G,atk,elim
+508828,223688,2,Global Esports,Gen.G,atk,elim
+508828,223688,3,Global Esports,Gen.G,atk,elim
+508828,223688,4,Global Esports,Gen.G,atk,elim
+508828,223688,5,Global Esports,Gen.G,atk,elim
+508828,223688,6,Gen.G,Global Esports,def,elim
+508828,223688,7,Global Esports,Gen.G,atk,elim
+508828,223688,8,Global Esports,Gen.G,atk,elim
+508828,223688,9,Global Esports,Gen.G,atk,elim
+508828,223688,10,Global Esports,Gen.G,atk,elim
+508828,223688,11,Global Esports,Gen.G,atk,boom
+508828,223688,12,Global Esports,Gen.G,atk,elim
+508828,223688,13,Global Esports,Gen.G,def,elim
+508828,223688,14,Gen.G,Global Esports,atk,elim
+508828,223688,15,Gen.G,Global Esports,atk,boom
+508828,223688,16,Global Esports,Gen.G,def,defuse
+508828,223689,1,Gen.G,Global Esports,atk,elim
+508828,223689,2,Gen.G,Global Esports,atk,elim
+508828,223689,3,Gen.G,Global Esports,atk,elim
+508828,223689,4,Gen.G,Global Esports,atk,elim
+508828,223689,5,Gen.G,Global Esports,atk,boom
+508828,223689,6,Gen.G,Global Esports,atk,boom
+508828,223689,7,Gen.G,Global Esports,atk,elim
+508828,223689,8,Global Esports,Gen.G,def,elim
+508828,223689,9,Gen.G,Global Esports,atk,elim
+508828,223689,10,Gen.G,Global Esports,atk,elim
+508828,223689,11,Gen.G,Global Esports,atk,elim
+508828,223689,12,Gen.G,Global Esports,atk,elim
+508828,223689,13,Global Esports,Gen.G,atk,elim
+508828,223689,14,Global Esports,Gen.G,atk,elim
+508828,223689,15,Gen.G,Global Esports,def,elim
+508828,223689,16,Gen.G,Global Esports,def,elim
+508828,223690,1,Global Esports,Gen.G,def,defuse
+508828,223690,2,Global Esports,Gen.G,def,elim
+508828,223690,3,Gen.G,Global Esports,atk,elim
+508828,223690,4,Gen.G,Global Esports,atk,boom
+508828,223690,5,Gen.G,Global Esports,atk,elim
+508828,223690,6,Global Esports,Gen.G,def,defuse
+508828,223690,7,Gen.G,Global Esports,atk,boom
+508828,223690,8,Gen.G,Global Esports,atk,elim
+508828,223690,9,Gen.G,Global Esports,atk,elim
+508828,223690,10,Gen.G,Global Esports,atk,boom
+508828,223690,11,Gen.G,Global Esports,atk,elim
+508828,223690,12,Gen.G,Global Esports,atk,elim
+508828,223690,13,Gen.G,Global Esports,def,defuse
+508828,223690,14,Global Esports,Gen.G,atk,elim
+508828,223690,15,Global Esports,Gen.G,atk,elim
+508828,223690,16,Gen.G,Global Esports,def,defuse
+508828,223690,17,Global Esports,Gen.G,atk,boom
+508828,223690,18,Gen.G,Global Esports,def,elim
+508828,223690,19,Global Esports,Gen.G,atk,boom
+508828,223690,20,Gen.G,Global Esports,def,elim
+508829,223692,1,DetonatioN FocusMe,TALON,def,elim
+508829,223692,2,DetonatioN FocusMe,TALON,def,defuse
+508829,223692,3,TALON,DetonatioN FocusMe,atk,elim
+508829,223692,4,DetonatioN FocusMe,TALON,def,defuse
+508829,223692,5,DetonatioN FocusMe,TALON,def,defuse
+508829,223692,6,DetonatioN FocusMe,TALON,def,elim
+508829,223692,7,DetonatioN FocusMe,TALON,def,elim
+508829,223692,8,DetonatioN FocusMe,TALON,def,elim
+508829,223692,9,TALON,DetonatioN FocusMe,atk,elim
+508829,223692,10,TALON,DetonatioN FocusMe,atk,boom
+508829,223692,11,TALON,DetonatioN FocusMe,atk,elim
+508829,223692,12,TALON,DetonatioN FocusMe,atk,elim
+508829,223692,13,DetonatioN FocusMe,TALON,atk,elim
+508829,223692,14,DetonatioN FocusMe,TALON,atk,boom
+508829,223692,15,TALON,DetonatioN FocusMe,def,elim
+508829,223692,16,TALON,DetonatioN FocusMe,def,time
+508829,223692,17,TALON,DetonatioN FocusMe,def,defuse
+508829,223692,18,TALON,DetonatioN FocusMe,def,elim
+508829,223692,19,TALON,DetonatioN FocusMe,def,defuse
+508829,223692,20,TALON,DetonatioN FocusMe,def,time
+508829,223692,21,TALON,DetonatioN FocusMe,def,defuse
+508829,223692,22,TALON,DetonatioN FocusMe,def,elim
+508829,223693,1,TALON,DetonatioN FocusMe,atk,elim
+508829,223693,2,TALON,DetonatioN FocusMe,atk,elim
+508829,223693,3,DetonatioN FocusMe,TALON,def,elim
+508829,223693,4,TALON,DetonatioN FocusMe,atk,elim
+508829,223693,5,TALON,DetonatioN FocusMe,atk,elim
+508829,223693,6,DetonatioN FocusMe,TALON,def,elim
+508829,223693,7,TALON,DetonatioN FocusMe,atk,boom
+508829,223693,8,DetonatioN FocusMe,TALON,def,time
+508829,223693,9,TALON,DetonatioN FocusMe,atk,boom
+508829,223693,10,TALON,DetonatioN FocusMe,atk,boom
+508829,223693,11,DetonatioN FocusMe,TALON,def,defuse
+508829,223693,12,DetonatioN FocusMe,TALON,def,defuse
+508829,223693,13,DetonatioN FocusMe,TALON,atk,elim
+508829,223693,14,DetonatioN FocusMe,TALON,atk,elim
+508829,223693,15,DetonatioN FocusMe,TALON,atk,elim
+508829,223693,16,DetonatioN FocusMe,TALON,atk,elim
+508829,223693,17,DetonatioN FocusMe,TALON,atk,elim
+508829,223693,18,TALON,DetonatioN FocusMe,def,defuse
+508829,223693,19,DetonatioN FocusMe,TALON,atk,elim
+508829,223693,20,DetonatioN FocusMe,TALON,atk,elim
+508829,223693,21,DetonatioN FocusMe,TALON,atk,elim
+508829,229069,1,TALON,DetonatioN FocusMe,def,elim
+508829,229069,2,TALON,DetonatioN FocusMe,def,elim
+508829,229069,3,DetonatioN FocusMe,TALON,atk,elim
+508829,229069,4,TALON,DetonatioN FocusMe,def,defuse
+508829,229069,5,DetonatioN FocusMe,TALON,atk,elim
+508829,229069,6,DetonatioN FocusMe,TALON,atk,elim
+508829,229069,7,DetonatioN FocusMe,TALON,atk,boom
+508829,229069,8,TALON,DetonatioN FocusMe,def,elim
+508829,229069,9,TALON,DetonatioN FocusMe,def,defuse
+508829,229069,10,TALON,DetonatioN FocusMe,def,defuse
+508829,229069,11,DetonatioN FocusMe,TALON,atk,boom
+508829,229069,12,DetonatioN FocusMe,TALON,atk,elim
+508829,229069,13,DetonatioN FocusMe,TALON,def,defuse
+508829,229069,14,DetonatioN FocusMe,TALON,def,elim
+508829,229069,15,DetonatioN FocusMe,TALON,def,elim
+508829,229069,16,TALON,DetonatioN FocusMe,atk,elim
+508829,229069,17,DetonatioN FocusMe,TALON,def,elim
+508829,229069,18,DetonatioN FocusMe,TALON,def,elim
+508829,229069,19,TALON,DetonatioN FocusMe,atk,elim
+508829,229069,20,DetonatioN FocusMe,TALON,def,defuse
+508829,229069,21,TALON,DetonatioN FocusMe,atk,elim
+508829,229069,22,DetonatioN FocusMe,TALON,def,defuse
+508830,223694,1,T1,ZETA DIVISION,atk,elim
+508830,223694,2,T1,ZETA DIVISION,atk,elim
+508830,223694,3,ZETA DIVISION,T1,def,elim
+508830,223694,4,ZETA DIVISION,T1,def,defuse
+508830,223694,5,ZETA DIVISION,T1,def,elim
+508830,223694,6,T1,ZETA DIVISION,atk,elim
+508830,223694,7,T1,ZETA DIVISION,atk,elim
+508830,223694,8,T1,ZETA DIVISION,atk,elim
+508830,223694,9,T1,ZETA DIVISION,atk,elim
+508830,223694,10,T1,ZETA DIVISION,atk,elim
+508830,223694,11,ZETA DIVISION,T1,def,defuse
+508830,223694,12,T1,ZETA DIVISION,atk,elim
+508830,223694,13,ZETA DIVISION,T1,atk,elim
+508830,223694,14,ZETA DIVISION,T1,atk,elim
+508830,223694,15,T1,ZETA DIVISION,def,elim
+508830,223694,16,T1,ZETA DIVISION,def,elim
+508830,223694,17,T1,ZETA DIVISION,def,elim
+508830,223694,18,T1,ZETA DIVISION,def,defuse
+508830,223694,19,ZETA DIVISION,T1,atk,elim
+508830,223694,20,ZETA DIVISION,T1,atk,elim
+508830,223694,21,T1,ZETA DIVISION,def,elim
+508830,223695,1,T1,ZETA DIVISION,def,defuse
+508830,223695,2,ZETA DIVISION,T1,atk,elim
+508830,223695,3,ZETA DIVISION,T1,atk,elim
+508830,223695,4,T1,ZETA DIVISION,def,elim
+508830,223695,5,T1,ZETA DIVISION,def,elim
+508830,223695,6,ZETA DIVISION,T1,atk,elim
+508830,223695,7,T1,ZETA DIVISION,def,elim
+508830,223695,8,T1,ZETA DIVISION,def,elim
+508830,223695,9,T1,ZETA DIVISION,def,defuse
+508830,223695,10,T1,ZETA DIVISION,def,elim
+508830,223695,11,T1,ZETA DIVISION,def,elim
+508830,223695,12,T1,ZETA DIVISION,def,elim
+508830,223695,13,ZETA DIVISION,T1,def,elim
+508830,223695,14,ZETA DIVISION,T1,def,elim
+508830,223695,15,T1,ZETA DIVISION,atk,elim
+508830,223695,16,ZETA DIVISION,T1,def,elim
+508830,223695,17,T1,ZETA DIVISION,atk,elim
+508830,223695,18,T1,ZETA DIVISION,atk,elim
+508830,223695,19,T1,ZETA DIVISION,atk,elim
+508831,223697,1,Rex Regum Qeon,Nongshim RedForce,def,defuse
+508831,223697,2,Rex Regum Qeon,Nongshim RedForce,def,elim
+508831,223697,3,Rex Regum Qeon,Nongshim RedForce,def,defuse
+508831,223697,4,Rex Regum Qeon,Nongshim RedForce,def,elim
+508831,223697,5,Nongshim RedForce,Rex Regum Qeon,atk,boom
+508831,223697,6,Nongshim RedForce,Rex Regum Qeon,atk,boom
+508831,223697,7,Nongshim RedForce,Rex Regum Qeon,atk,boom
+508831,223697,8,Rex Regum Qeon,Nongshim RedForce,def,time
+508831,223697,9,Nongshim RedForce,Rex Regum Qeon,atk,elim
+508831,223697,10,Nongshim RedForce,Rex Regum Qeon,atk,boom
+508831,223697,11,Rex Regum Qeon,Nongshim RedForce,def,elim
+508831,223697,12,Nongshim RedForce,Rex Regum Qeon,atk,elim
+508831,223697,13,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223697,14,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223697,15,Nongshim RedForce,Rex Regum Qeon,def,elim
+508831,223697,16,Nongshim RedForce,Rex Regum Qeon,def,elim
+508831,223697,17,Nongshim RedForce,Rex Regum Qeon,def,defuse
+508831,223697,18,Nongshim RedForce,Rex Regum Qeon,def,elim
+508831,223697,19,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223697,20,Nongshim RedForce,Rex Regum Qeon,def,defuse
+508831,223697,21,Rex Regum Qeon,Nongshim RedForce,atk,boom
+508831,223697,22,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223697,23,Nongshim RedForce,Rex Regum Qeon,def,elim
+508831,223697,24,Nongshim RedForce,Rex Regum Qeon,def,elim
+508831,223698,1,Nongshim RedForce,Rex Regum Qeon,atk,elim
+508831,223698,2,Nongshim RedForce,Rex Regum Qeon,atk,boom
+508831,223698,3,Rex Regum Qeon,Nongshim RedForce,def,elim
+508831,223698,4,Rex Regum Qeon,Nongshim RedForce,def,elim
+508831,223698,5,Rex Regum Qeon,Nongshim RedForce,def,elim
+508831,223698,6,Rex Regum Qeon,Nongshim RedForce,def,defuse
+508831,223698,7,Rex Regum Qeon,Nongshim RedForce,def,elim
+508831,223698,8,Rex Regum Qeon,Nongshim RedForce,def,time
+508831,223698,9,Rex Regum Qeon,Nongshim RedForce,def,defuse
+508831,223698,10,Rex Regum Qeon,Nongshim RedForce,def,defuse
+508831,223698,11,Nongshim RedForce,Rex Regum Qeon,atk,elim
+508831,223698,12,Nongshim RedForce,Rex Regum Qeon,atk,elim
+508831,223698,13,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223698,14,Rex Regum Qeon,Nongshim RedForce,atk,boom
+508831,223698,15,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223698,16,Nongshim RedForce,Rex Regum Qeon,def,elim
+508831,223698,17,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223698,18,Nongshim RedForce,Rex Regum Qeon,def,elim
+508831,223698,19,Nongshim RedForce,Rex Regum Qeon,def,elim
+508831,223698,20,Nongshim RedForce,Rex Regum Qeon,def,elim
+508831,223698,21,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223699,1,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223699,2,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223699,3,Rex Regum Qeon,Nongshim RedForce,atk,boom
+508831,223699,4,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223699,5,Nongshim RedForce,Rex Regum Qeon,def,elim
+508831,223699,6,Nongshim RedForce,Rex Regum Qeon,def,defuse
+508831,223699,7,Rex Regum Qeon,Nongshim RedForce,atk,boom
+508831,223699,8,Rex Regum Qeon,Nongshim RedForce,atk,boom
+508831,223699,9,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223699,10,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223699,11,Nongshim RedForce,Rex Regum Qeon,def,defuse
+508831,223699,12,Rex Regum Qeon,Nongshim RedForce,atk,elim
+508831,223699,13,Rex Regum Qeon,Nongshim RedForce,def,elim
+508831,223699,14,Rex Regum Qeon,Nongshim RedForce,def,defuse
+508831,223699,15,Rex Regum Qeon,Nongshim RedForce,def,elim
+508831,223699,16,Rex Regum Qeon,Nongshim RedForce,def,elim
+508832,223701,1,KIWOOM DRX,Team Secret,def,defuse
+508832,223701,2,KIWOOM DRX,Team Secret,def,elim
+508832,223701,3,KIWOOM DRX,Team Secret,def,defuse
+508832,223701,4,KIWOOM DRX,Team Secret,def,elim
+508832,223701,5,KIWOOM DRX,Team Secret,def,defuse
+508832,223701,6,KIWOOM DRX,Team Secret,def,elim
+508832,223701,7,Team Secret,KIWOOM DRX,atk,elim
+508832,223701,8,Team Secret,KIWOOM DRX,atk,boom
+508832,223701,9,KIWOOM DRX,Team Secret,def,time
+508832,223701,10,KIWOOM DRX,Team Secret,def,elim
+508832,223701,11,KIWOOM DRX,Team Secret,def,elim
+508832,223701,12,KIWOOM DRX,Team Secret,def,elim
+508832,223701,13,Team Secret,KIWOOM DRX,def,elim
+508832,223701,14,Team Secret,KIWOOM DRX,def,defuse
+508832,223701,15,KIWOOM DRX,Team Secret,atk,elim
+508832,223701,16,KIWOOM DRX,Team Secret,atk,elim
+508832,223701,17,KIWOOM DRX,Team Secret,atk,elim
+508832,229399,1,Team Secret,KIWOOM DRX,def,defuse
+508832,229399,2,KIWOOM DRX,Team Secret,atk,elim
+508832,229399,3,KIWOOM DRX,Team Secret,atk,elim
+508832,229399,4,KIWOOM DRX,Team Secret,atk,elim
+508832,229399,5,KIWOOM DRX,Team Secret,atk,elim
+508832,229399,6,KIWOOM DRX,Team Secret,atk,elim
+508832,229399,7,KIWOOM DRX,Team Secret,atk,elim
+508832,229399,8,KIWOOM DRX,Team Secret,atk,boom
+508832,229399,9,KIWOOM DRX,Team Secret,atk,elim
+508832,229399,10,KIWOOM DRX,Team Secret,atk,elim
+508832,229399,11,Team Secret,KIWOOM DRX,def,defuse
+508832,229399,12,Team Secret,KIWOOM DRX,def,defuse
+508832,229399,13,Team Secret,KIWOOM DRX,atk,elim
+508832,229399,14,KIWOOM DRX,Team Secret,def,elim
+508832,229399,15,KIWOOM DRX,Team Secret,def,defuse
+508832,229399,16,KIWOOM DRX,Team Secret,def,time
+508832,229399,17,KIWOOM DRX,Team Secret,def,elim
+508833,223703,1,BOOM Esports,Paper Rex,atk,elim
+508833,223703,2,BOOM Esports,Paper Rex,atk,boom
+508833,223703,3,Paper Rex,BOOM Esports,def,defuse
+508833,223703,4,BOOM Esports,Paper Rex,atk,boom
+508833,223703,5,Paper Rex,BOOM Esports,def,defuse
+508833,223703,6,Paper Rex,BOOM Esports,def,elim
+508833,223703,7,Paper Rex,BOOM Esports,def,elim
+508833,223703,8,Paper Rex,BOOM Esports,def,elim
+508833,223703,9,Paper Rex,BOOM Esports,def,time
+508833,223703,10,Paper Rex,BOOM Esports,def,defuse
+508833,223703,11,Paper Rex,BOOM Esports,def,defuse
+508833,223703,12,Paper Rex,BOOM Esports,def,elim
+508833,223703,13,BOOM Esports,Paper Rex,def,defuse
+508833,223703,14,BOOM Esports,Paper Rex,def,elim
+508833,223703,15,BOOM Esports,Paper Rex,def,defuse
+508833,223703,16,BOOM Esports,Paper Rex,def,elim
+508833,223703,17,Paper Rex,BOOM Esports,atk,boom
+508833,223703,18,Paper Rex,BOOM Esports,atk,elim
+508833,223703,19,Paper Rex,BOOM Esports,atk,boom
+508833,223703,20,BOOM Esports,Paper Rex,def,elim
+508833,223703,21,Paper Rex,BOOM Esports,atk,elim
+508833,223704,1,Paper Rex,BOOM Esports,atk,elim
+508833,223704,2,Paper Rex,BOOM Esports,atk,elim
+508833,223704,3,Paper Rex,BOOM Esports,atk,boom
+508833,223704,4,Paper Rex,BOOM Esports,atk,elim
+508833,223704,5,Paper Rex,BOOM Esports,atk,elim
+508833,223704,6,Paper Rex,BOOM Esports,atk,elim
+508833,223704,7,BOOM Esports,Paper Rex,def,defuse
+508833,223704,8,BOOM Esports,Paper Rex,def,defuse
+508833,223704,9,Paper Rex,BOOM Esports,atk,elim
+508833,223704,10,Paper Rex,BOOM Esports,atk,boom
+508833,223704,11,BOOM Esports,Paper Rex,def,elim
+508833,223704,12,Paper Rex,BOOM Esports,atk,elim
+508833,223704,13,BOOM Esports,Paper Rex,atk,elim
+508833,223704,14,BOOM Esports,Paper Rex,atk,elim
+508833,223704,15,Paper Rex,BOOM Esports,def,elim
+508833,223704,16,BOOM Esports,Paper Rex,atk,elim
+508833,223704,17,Paper Rex,BOOM Esports,def,elim
+508833,223704,18,BOOM Esports,Paper Rex,atk,elim
+508833,223704,19,BOOM Esports,Paper Rex,atk,elim
+508833,223704,20,Paper Rex,BOOM Esports,def,elim
+508833,223704,21,BOOM Esports,Paper Rex,atk,elim
+508833,223704,22,BOOM Esports,Paper Rex,atk,elim
+508833,223704,23,Paper Rex,BOOM Esports,def,elim
+508834,223706,1,Team Secret,Gen.G,def,elim
+508834,223706,2,Gen.G,Team Secret,atk,elim
+508834,223706,3,Gen.G,Team Secret,atk,elim
+508834,223706,4,Gen.G,Team Secret,atk,boom
+508834,223706,5,Gen.G,Team Secret,atk,elim
+508834,223706,6,Gen.G,Team Secret,atk,elim
+508834,223706,7,Gen.G,Team Secret,atk,elim
+508834,223706,8,Gen.G,Team Secret,atk,elim
+508834,223706,9,Gen.G,Team Secret,atk,boom
+508834,223706,10,Gen.G,Team Secret,atk,elim
+508834,223706,11,Gen.G,Team Secret,atk,elim
+508834,223706,12,Team Secret,Gen.G,def,defuse
+508834,223706,13,Gen.G,Team Secret,def,elim
+508834,223706,14,Gen.G,Team Secret,def,elim
+508834,223706,15,Team Secret,Gen.G,atk,boom
+508834,223706,16,Gen.G,Team Secret,def,elim
+508834,223707,1,Team Secret,Gen.G,atk,elim
+508834,223707,2,Gen.G,Team Secret,def,elim
+508834,223707,3,Gen.G,Team Secret,def,elim
+508834,223707,4,Team Secret,Gen.G,atk,boom
+508834,223707,5,Gen.G,Team Secret,def,elim
+508834,223707,6,Gen.G,Team Secret,def,elim
+508834,223707,7,Team Secret,Gen.G,atk,elim
+508834,223707,8,Gen.G,Team Secret,def,elim
+508834,223707,9,Gen.G,Team Secret,def,elim
+508834,223707,10,Gen.G,Team Secret,def,elim
+508834,223707,11,Gen.G,Team Secret,def,elim
+508834,223707,12,Gen.G,Team Secret,def,defuse
+508834,223707,13,Team Secret,Gen.G,def,elim
+508834,223707,14,Team Secret,Gen.G,def,elim
+508834,223707,15,Gen.G,Team Secret,atk,elim
+508834,223707,16,Team Secret,Gen.G,def,elim
+508834,223707,17,Gen.G,Team Secret,atk,elim
+508834,223707,18,Team Secret,Gen.G,def,defuse
+508834,223707,19,Team Secret,Gen.G,def,defuse
+508834,223707,20,Gen.G,Team Secret,atk,elim
+508834,223707,21,Gen.G,Team Secret,atk,elim
+508835,223709,1,TALON,T1,def,elim
+508835,223709,2,TALON,T1,def,elim
+508835,223709,3,TALON,T1,def,elim
+508835,223709,4,TALON,T1,def,elim
+508835,223709,5,T1,TALON,atk,boom
+508835,223709,6,TALON,T1,def,defuse
+508835,223709,7,TALON,T1,def,defuse
+508835,223709,8,T1,TALON,atk,elim
+508835,223709,9,TALON,T1,def,defuse
+508835,223709,10,TALON,T1,def,defuse
+508835,223709,11,TALON,T1,def,elim
+508835,223709,12,T1,TALON,atk,elim
+508835,223709,13,T1,TALON,def,defuse
+508835,223709,14,T1,TALON,def,elim
+508835,223709,15,T1,TALON,def,defuse
+508835,223709,16,T1,TALON,def,elim
+508835,223709,17,TALON,T1,atk,elim
+508835,223709,18,TALON,T1,atk,elim
+508835,223709,19,TALON,T1,atk,boom
+508835,223709,20,T1,TALON,def,elim
+508835,223709,21,T1,TALON,def,defuse
+508835,223709,22,T1,TALON,def,elim
+508835,223709,23,TALON,T1,atk,elim
+508835,223710,1,TALON,T1,atk,elim
+508835,223710,2,TALON,T1,atk,elim
+508835,223710,3,T1,TALON,def,time
+508835,223710,4,TALON,T1,atk,elim
+508835,223710,5,T1,TALON,def,defuse
+508835,223710,6,TALON,T1,atk,elim
+508835,223710,7,TALON,T1,atk,elim
+508835,223710,8,T1,TALON,def,elim
+508835,223710,9,T1,TALON,def,elim
+508835,223710,10,TALON,T1,atk,elim
+508835,223710,11,TALON,T1,atk,elim
+508835,223710,12,TALON,T1,atk,elim
+508835,223710,13,TALON,T1,def,defuse
+508835,223710,14,TALON,T1,def,defuse
+508835,223710,15,T1,TALON,atk,boom
+508835,223710,16,TALON,T1,def,time
+508835,223710,17,TALON,T1,def,defuse
+508835,223710,18,T1,TALON,atk,boom
+508835,223710,19,TALON,T1,def,elim
+508836,223712,1,DetonatioN FocusMe,BOOM Esports,atk,elim
+508836,223712,2,BOOM Esports,DetonatioN FocusMe,def,elim
+508836,223712,3,BOOM Esports,DetonatioN FocusMe,def,defuse
+508836,223712,4,BOOM Esports,DetonatioN FocusMe,def,time
+508836,223712,5,BOOM Esports,DetonatioN FocusMe,def,elim
+508836,223712,6,DetonatioN FocusMe,BOOM Esports,atk,elim
+508836,223712,7,DetonatioN FocusMe,BOOM Esports,atk,elim
+508836,223712,8,DetonatioN FocusMe,BOOM Esports,atk,boom
+508836,223712,9,BOOM Esports,DetonatioN FocusMe,def,defuse
+508836,223712,10,DetonatioN FocusMe,BOOM Esports,atk,boom
+508836,223712,11,DetonatioN FocusMe,BOOM Esports,atk,elim
+508836,223712,12,BOOM Esports,DetonatioN FocusMe,def,defuse
+508836,223712,13,BOOM Esports,DetonatioN FocusMe,atk,elim
+508836,223712,14,BOOM Esports,DetonatioN FocusMe,atk,elim
+508836,223712,15,DetonatioN FocusMe,BOOM Esports,def,elim
+508836,223712,16,BOOM Esports,DetonatioN FocusMe,atk,elim
+508836,223712,17,DetonatioN FocusMe,BOOM Esports,def,defuse
+508836,223712,18,DetonatioN FocusMe,BOOM Esports,def,defuse
+508836,223712,19,DetonatioN FocusMe,BOOM Esports,def,defuse
+508836,223712,20,DetonatioN FocusMe,BOOM Esports,def,elim
+508836,223712,21,DetonatioN FocusMe,BOOM Esports,def,defuse
+508836,223712,22,BOOM Esports,DetonatioN FocusMe,atk,elim
+508836,223712,23,DetonatioN FocusMe,BOOM Esports,def,defuse
+508836,223713,1,DetonatioN FocusMe,BOOM Esports,atk,elim
+508836,223713,2,DetonatioN FocusMe,BOOM Esports,atk,elim
+508836,223713,3,DetonatioN FocusMe,BOOM Esports,atk,boom
+508836,223713,4,DetonatioN FocusMe,BOOM Esports,atk,boom
+508836,223713,5,DetonatioN FocusMe,BOOM Esports,atk,elim
+508836,223713,6,DetonatioN FocusMe,BOOM Esports,atk,boom
+508836,223713,7,DetonatioN FocusMe,BOOM Esports,atk,elim
+508836,223713,8,DetonatioN FocusMe,BOOM Esports,atk,elim
+508836,223713,9,DetonatioN FocusMe,BOOM Esports,atk,elim
+508836,223713,10,DetonatioN FocusMe,BOOM Esports,atk,elim
+508836,223713,11,BOOM Esports,DetonatioN FocusMe,def,elim
+508836,223713,12,DetonatioN FocusMe,BOOM Esports,atk,elim
+508836,223713,13,DetonatioN FocusMe,BOOM Esports,def,elim
+508836,223713,14,BOOM Esports,DetonatioN FocusMe,atk,elim
+508836,223713,15,DetonatioN FocusMe,BOOM Esports,def,defuse
+508837,223715,1,KIWOOM DRX,Rex Regum Qeon,def,time
+508837,223715,2,KIWOOM DRX,Rex Regum Qeon,def,defuse
+508837,223715,3,Rex Regum Qeon,KIWOOM DRX,atk,boom
+508837,223715,4,KIWOOM DRX,Rex Regum Qeon,def,defuse
+508837,223715,5,Rex Regum Qeon,KIWOOM DRX,atk,elim
+508837,223715,6,Rex Regum Qeon,KIWOOM DRX,atk,elim
+508837,223715,7,Rex Regum Qeon,KIWOOM DRX,atk,boom
+508837,223715,8,KIWOOM DRX,Rex Regum Qeon,def,defuse
+508837,223715,9,Rex Regum Qeon,KIWOOM DRX,atk,elim
+508837,223715,10,Rex Regum Qeon,KIWOOM DRX,atk,boom
+508837,223715,11,KIWOOM DRX,Rex Regum Qeon,def,defuse
+508837,223715,12,KIWOOM DRX,Rex Regum Qeon,def,elim
+508837,223715,13,KIWOOM DRX,Rex Regum Qeon,atk,elim
+508837,223715,14,KIWOOM DRX,Rex Regum Qeon,atk,boom
+508837,223715,15,KIWOOM DRX,Rex Regum Qeon,atk,boom
+508837,223715,16,Rex Regum Qeon,KIWOOM DRX,def,elim
+508837,223715,17,Rex Regum Qeon,KIWOOM DRX,def,defuse
+508837,223715,18,Rex Regum Qeon,KIWOOM DRX,def,defuse
+508837,223715,19,KIWOOM DRX,Rex Regum Qeon,atk,elim
+508837,223715,20,KIWOOM DRX,Rex Regum Qeon,atk,boom
+508837,223715,21,KIWOOM DRX,Rex Regum Qeon,atk,boom
+508837,223715,22,Rex Regum Qeon,KIWOOM DRX,def,elim
+508837,223715,23,Rex Regum Qeon,KIWOOM DRX,def,defuse
+508837,223715,24,Rex Regum Qeon,KIWOOM DRX,def,defuse
+508837,223715,25,KIWOOM DRX,Rex Regum Qeon,def,elim
+508837,223715,26,KIWOOM DRX,Rex Regum Qeon,atk,elim
+508837,223716,1,Rex Regum Qeon,KIWOOM DRX,def,elim
+508837,223716,2,KIWOOM DRX,Rex Regum Qeon,atk,elim
+508837,223716,3,KIWOOM DRX,Rex Regum Qeon,atk,boom
+508837,223716,4,Rex Regum Qeon,KIWOOM DRX,def,time
+508837,223716,5,KIWOOM DRX,Rex Regum Qeon,atk,boom
+508837,223716,6,KIWOOM DRX,Rex Regum Qeon,atk,elim
+508837,223716,7,KIWOOM DRX,Rex Regum Qeon,atk,elim
+508837,223716,8,Rex Regum Qeon,KIWOOM DRX,def,elim
+508837,223716,9,Rex Regum Qeon,KIWOOM DRX,def,elim
+508837,223716,10,Rex Regum Qeon,KIWOOM DRX,def,defuse
+508837,223716,11,KIWOOM DRX,Rex Regum Qeon,atk,elim
+508837,223716,12,KIWOOM DRX,Rex Regum Qeon,atk,elim
+508837,223716,13,Rex Regum Qeon,KIWOOM DRX,atk,elim
+508837,223716,14,Rex Regum Qeon,KIWOOM DRX,atk,elim
+508837,223716,15,KIWOOM DRX,Rex Regum Qeon,def,defuse
+508837,223716,16,KIWOOM DRX,Rex Regum Qeon,def,elim
+508837,223716,17,KIWOOM DRX,Rex Regum Qeon,def,elim
+508837,223716,18,KIWOOM DRX,Rex Regum Qeon,def,elim
+508837,223716,19,KIWOOM DRX,Rex Regum Qeon,def,elim
+508837,223716,20,KIWOOM DRX,Rex Regum Qeon,def,defuse
+508838,223718,1,Nongshim RedForce,Global Esports,atk,elim
+508838,223718,2,Nongshim RedForce,Global Esports,atk,elim
+508838,223718,3,Global Esports,Nongshim RedForce,def,elim
+508838,223718,4,Nongshim RedForce,Global Esports,atk,elim
+508838,223718,5,Global Esports,Nongshim RedForce,def,elim
+508838,223718,6,Nongshim RedForce,Global Esports,atk,elim
+508838,223718,7,Nongshim RedForce,Global Esports,atk,elim
+508838,223718,8,Nongshim RedForce,Global Esports,atk,elim
+508838,223718,9,Nongshim RedForce,Global Esports,atk,boom
+508838,223718,10,Nongshim RedForce,Global Esports,atk,elim
+508838,223718,11,Global Esports,Nongshim RedForce,def,elim
+508838,223718,12,Nongshim RedForce,Global Esports,atk,elim
+508838,223718,13,Nongshim RedForce,Global Esports,def,elim
+508838,223718,14,Nongshim RedForce,Global Esports,def,elim
+508838,223718,15,Nongshim RedForce,Global Esports,def,defuse
+508838,223718,16,Global Esports,Nongshim RedForce,atk,elim
+508838,223718,17,Global Esports,Nongshim RedForce,atk,elim
+508838,223718,18,Global Esports,Nongshim RedForce,atk,boom
+508838,223718,19,Global Esports,Nongshim RedForce,atk,elim
+508838,223718,20,Nongshim RedForce,Global Esports,def,defuse
+508838,223719,1,Nongshim RedForce,Global Esports,atk,elim
+508838,223719,2,Nongshim RedForce,Global Esports,atk,elim
+508838,223719,3,Nongshim RedForce,Global Esports,atk,elim
+508838,223719,4,Nongshim RedForce,Global Esports,atk,elim
+508838,223719,5,Nongshim RedForce,Global Esports,atk,boom
+508838,223719,6,Nongshim RedForce,Global Esports,atk,elim
+508838,223719,7,Nongshim RedForce,Global Esports,atk,boom
+508838,223719,8,Global Esports,Nongshim RedForce,def,elim
+508838,223719,9,Nongshim RedForce,Global Esports,atk,elim
+508838,223719,10,Global Esports,Nongshim RedForce,def,elim
+508838,223719,11,Global Esports,Nongshim RedForce,def,defuse
+508838,223719,12,Global Esports,Nongshim RedForce,def,defuse
+508838,223719,13,Nongshim RedForce,Global Esports,def,elim
+508838,223719,14,Nongshim RedForce,Global Esports,def,elim
+508838,223719,15,Global Esports,Nongshim RedForce,atk,boom
+508838,223719,16,Global Esports,Nongshim RedForce,atk,boom
+508838,223719,17,Global Esports,Nongshim RedForce,atk,elim
+508838,223719,18,Nongshim RedForce,Global Esports,def,elim
+508838,223719,19,Global Esports,Nongshim RedForce,atk,elim
+508838,223719,20,Nongshim RedForce,Global Esports,def,defuse
+508838,223719,21,Nongshim RedForce,Global Esports,def,defuse
+508839,223721,1,ZETA DIVISION,Paper Rex,atk,elim
+508839,223721,2,ZETA DIVISION,Paper Rex,atk,elim
+508839,223721,3,Paper Rex,ZETA DIVISION,def,elim
+508839,223721,4,Paper Rex,ZETA DIVISION,def,defuse
+508839,223721,5,ZETA DIVISION,Paper Rex,atk,elim
+508839,223721,6,Paper Rex,ZETA DIVISION,def,elim
+508839,223721,7,Paper Rex,ZETA DIVISION,def,elim
+508839,223721,8,Paper Rex,ZETA DIVISION,def,elim
+508839,223721,9,ZETA DIVISION,Paper Rex,atk,elim
+508839,223721,10,ZETA DIVISION,Paper Rex,atk,elim
+508839,223721,11,ZETA DIVISION,Paper Rex,atk,elim
+508839,223721,12,ZETA DIVISION,Paper Rex,atk,elim
+508839,223721,13,ZETA DIVISION,Paper Rex,def,elim
+508839,223721,14,ZETA DIVISION,Paper Rex,def,elim
+508839,223721,15,ZETA DIVISION,Paper Rex,def,defuse
+508839,223721,16,ZETA DIVISION,Paper Rex,def,elim
+508839,223721,17,Paper Rex,ZETA DIVISION,atk,elim
+508839,223721,18,Paper Rex,ZETA DIVISION,atk,elim
+508839,223721,19,ZETA DIVISION,Paper Rex,def,time
+508839,223721,20,Paper Rex,ZETA DIVISION,atk,boom
+508839,223721,21,Paper Rex,ZETA DIVISION,atk,elim
+508839,223721,22,ZETA DIVISION,Paper Rex,def,defuse
+508839,223722,1,ZETA DIVISION,Paper Rex,atk,elim
+508839,223722,2,ZETA DIVISION,Paper Rex,atk,elim
+508839,223722,3,ZETA DIVISION,Paper Rex,atk,elim
+508839,223722,4,ZETA DIVISION,Paper Rex,atk,elim
+508839,223722,5,ZETA DIVISION,Paper Rex,atk,elim
+508839,223722,6,Paper Rex,ZETA DIVISION,def,elim
+508839,223722,7,Paper Rex,ZETA DIVISION,def,time
+508839,223722,8,ZETA DIVISION,Paper Rex,atk,elim
+508839,223722,9,ZETA DIVISION,Paper Rex,atk,elim
+508839,223722,10,ZETA DIVISION,Paper Rex,atk,elim
+508839,223722,11,ZETA DIVISION,Paper Rex,atk,boom
+508839,223722,12,Paper Rex,ZETA DIVISION,def,elim
+508839,223722,13,ZETA DIVISION,Paper Rex,def,elim
+508839,223722,14,ZETA DIVISION,Paper Rex,def,elim
+508839,223722,15,Paper Rex,ZETA DIVISION,atk,elim
+508839,223722,16,Paper Rex,ZETA DIVISION,atk,elim
+508839,223722,17,Paper Rex,ZETA DIVISION,atk,elim
+508839,223722,18,Paper Rex,ZETA DIVISION,atk,boom
+508839,223722,19,ZETA DIVISION,Paper Rex,def,elim
+508839,223722,20,ZETA DIVISION,Paper Rex,def,defuse
+508840,223724,1,Gen.G,Nongshim RedForce,def,elim
+508840,223724,2,Gen.G,Nongshim RedForce,def,elim
+508840,223724,3,Nongshim RedForce,Gen.G,atk,elim
+508840,223724,4,Gen.G,Nongshim RedForce,def,elim
+508840,223724,5,Gen.G,Nongshim RedForce,def,defuse
+508840,223724,6,Nongshim RedForce,Gen.G,atk,boom
+508840,223724,7,Nongshim RedForce,Gen.G,atk,elim
+508840,223724,8,Nongshim RedForce,Gen.G,atk,elim
+508840,223724,9,Nongshim RedForce,Gen.G,atk,boom
+508840,223724,10,Nongshim RedForce,Gen.G,atk,elim
+508840,223724,11,Gen.G,Nongshim RedForce,def,elim
+508840,223724,12,Nongshim RedForce,Gen.G,atk,elim
+508840,223724,13,Nongshim RedForce,Gen.G,def,elim
+508840,223724,14,Nongshim RedForce,Gen.G,def,elim
+508840,223724,15,Gen.G,Nongshim RedForce,atk,elim
+508840,223724,16,Nongshim RedForce,Gen.G,def,defuse
+508840,223724,17,Nongshim RedForce,Gen.G,def,elim
+508840,223724,18,Gen.G,Nongshim RedForce,atk,boom
+508840,223724,19,Gen.G,Nongshim RedForce,atk,boom
+508840,223724,20,Gen.G,Nongshim RedForce,atk,elim
+508840,223724,21,Nongshim RedForce,Gen.G,def,defuse
+508840,223724,22,Nongshim RedForce,Gen.G,def,defuse
+508840,223725,1,Nongshim RedForce,Gen.G,atk,elim
+508840,223725,2,Gen.G,Nongshim RedForce,def,time
+508840,223725,3,Gen.G,Nongshim RedForce,def,defuse
+508840,223725,4,Nongshim RedForce,Gen.G,atk,elim
+508840,223725,5,Gen.G,Nongshim RedForce,def,elim
+508840,223725,6,Gen.G,Nongshim RedForce,def,elim
+508840,223725,7,Nongshim RedForce,Gen.G,atk,elim
+508840,223725,8,Nongshim RedForce,Gen.G,atk,boom
+508840,223725,9,Nongshim RedForce,Gen.G,atk,elim
+508840,223725,10,Gen.G,Nongshim RedForce,def,elim
+508840,223725,11,Nongshim RedForce,Gen.G,atk,boom
+508840,223725,12,Nongshim RedForce,Gen.G,atk,elim
+508840,223725,13,Gen.G,Nongshim RedForce,atk,elim
+508840,223725,14,Gen.G,Nongshim RedForce,atk,boom
+508840,223725,15,Nongshim RedForce,Gen.G,def,elim
+508840,223725,16,Gen.G,Nongshim RedForce,atk,elim
+508840,223725,17,Gen.G,Nongshim RedForce,atk,boom
+508840,223725,18,Nongshim RedForce,Gen.G,def,defuse
+508840,223725,19,Gen.G,Nongshim RedForce,atk,elim
+508840,223725,20,Gen.G,Nongshim RedForce,atk,elim
+508840,223725,21,Nongshim RedForce,Gen.G,def,time
+508840,223725,22,Nongshim RedForce,Gen.G,def,elim
+508840,223725,23,Nongshim RedForce,Gen.G,def,defuse
+508840,223725,24,Gen.G,Nongshim RedForce,atk,elim
+508840,223725,25,Nongshim RedForce,Gen.G,atk,elim
+508840,223725,26,Nongshim RedForce,Gen.G,def,defuse
+508841,223727,1,TALON,Paper Rex,atk,elim
+508841,223727,2,Paper Rex,TALON,def,elim
+508841,223727,3,Paper Rex,TALON,def,elim
+508841,223727,4,Paper Rex,TALON,def,time
+508841,223727,5,Paper Rex,TALON,def,elim
+508841,223727,6,Paper Rex,TALON,def,elim
+508841,223727,7,TALON,Paper Rex,atk,boom
+508841,223727,8,TALON,Paper Rex,atk,elim
+508841,223727,9,Paper Rex,TALON,def,time
+508841,223727,10,TALON,Paper Rex,atk,boom
+508841,223727,11,TALON,Paper Rex,atk,boom
+508841,223727,12,TALON,Paper Rex,atk,elim
+508841,223727,13,TALON,Paper Rex,def,defuse
+508841,223727,14,TALON,Paper Rex,def,elim
+508841,223727,15,Paper Rex,TALON,atk,elim
+508841,223727,16,Paper Rex,TALON,atk,elim
+508841,223727,17,Paper Rex,TALON,atk,elim
+508841,223727,18,TALON,Paper Rex,def,elim
+508841,223727,19,Paper Rex,TALON,atk,elim
+508841,223727,20,TALON,Paper Rex,def,defuse
+508841,223727,21,Paper Rex,TALON,atk,elim
+508841,223727,22,Paper Rex,TALON,atk,elim
+508841,223727,23,TALON,Paper Rex,def,defuse
+508841,223727,24,Paper Rex,TALON,atk,elim
+508841,223728,1,Paper Rex,TALON,def,defuse
+508841,223728,2,Paper Rex,TALON,def,elim
+508841,223728,3,TALON,Paper Rex,atk,boom
+508841,223728,4,TALON,Paper Rex,atk,elim
+508841,223728,5,TALON,Paper Rex,atk,elim
+508841,223728,6,TALON,Paper Rex,atk,boom
+508841,223728,7,TALON,Paper Rex,atk,elim
+508841,223728,8,TALON,Paper Rex,atk,elim
+508841,223728,9,Paper Rex,TALON,def,elim
+508841,223728,10,TALON,Paper Rex,atk,elim
+508841,223728,11,Paper Rex,TALON,def,defuse
+508841,223728,12,Paper Rex,TALON,def,elim
+508841,223728,13,TALON,Paper Rex,def,elim
+508841,223728,14,TALON,Paper Rex,def,defuse
+508841,223728,15,Paper Rex,TALON,atk,elim
+508841,223728,16,TALON,Paper Rex,def,defuse
+508841,223728,17,Paper Rex,TALON,atk,elim
+508841,223728,18,Paper Rex,TALON,atk,elim
+508841,223728,19,Paper Rex,TALON,atk,elim
+508841,223728,20,TALON,Paper Rex,def,defuse
+508841,223728,21,TALON,Paper Rex,def,defuse
+508841,223728,22,Paper Rex,TALON,atk,elim
+508841,223728,23,Paper Rex,TALON,atk,elim
+508841,223728,24,Paper Rex,TALON,atk,elim
+508841,223728,25,TALON,Paper Rex,atk,elim
+508841,223728,26,Paper Rex,TALON,atk,elim
+508841,223728,27,TALON,Paper Rex,atk,elim
+508841,223728,28,Paper Rex,TALON,atk,elim
+508841,223728,29,Paper Rex,TALON,def,defuse
+508841,223728,30,Paper Rex,TALON,atk,elim
+508842,223730,1,KIWOOM DRX,Global Esports,def,defuse
+508842,223730,2,Global Esports,KIWOOM DRX,atk,elim
+508842,223730,3,Global Esports,KIWOOM DRX,atk,elim
+508842,223730,4,Global Esports,KIWOOM DRX,atk,elim
+508842,223730,5,Global Esports,KIWOOM DRX,atk,elim
+508842,223730,6,Global Esports,KIWOOM DRX,atk,boom
+508842,223730,7,KIWOOM DRX,Global Esports,def,elim
+508842,223730,8,Global Esports,KIWOOM DRX,atk,boom
+508842,223730,9,Global Esports,KIWOOM DRX,atk,elim
+508842,223730,10,KIWOOM DRX,Global Esports,def,elim
+508842,223730,11,KIWOOM DRX,Global Esports,def,elim
+508842,223730,12,KIWOOM DRX,Global Esports,def,elim
+508842,223730,13,Global Esports,KIWOOM DRX,def,elim
+508842,223730,14,Global Esports,KIWOOM DRX,def,elim
+508842,223730,15,KIWOOM DRX,Global Esports,atk,boom
+508842,223730,16,KIWOOM DRX,Global Esports,atk,boom
+508842,223730,17,KIWOOM DRX,Global Esports,atk,elim
+508842,223730,18,Global Esports,KIWOOM DRX,def,defuse
+508842,223730,19,KIWOOM DRX,Global Esports,atk,boom
+508842,223730,20,KIWOOM DRX,Global Esports,atk,elim
+508842,223730,21,KIWOOM DRX,Global Esports,atk,boom
+508842,223730,22,KIWOOM DRX,Global Esports,atk,elim
+508842,223730,23,KIWOOM DRX,Global Esports,atk,elim
+508842,223731,1,KIWOOM DRX,Global Esports,atk,elim
+508842,223731,2,KIWOOM DRX,Global Esports,atk,elim
+508842,223731,3,Global Esports,KIWOOM DRX,def,defuse
+508842,223731,4,KIWOOM DRX,Global Esports,atk,boom
+508842,223731,5,KIWOOM DRX,Global Esports,atk,elim
+508842,223731,6,KIWOOM DRX,Global Esports,atk,boom
+508842,223731,7,Global Esports,KIWOOM DRX,def,elim
+508842,223731,8,KIWOOM DRX,Global Esports,atk,boom
+508842,223731,9,Global Esports,KIWOOM DRX,def,elim
+508842,223731,10,Global Esports,KIWOOM DRX,def,defuse
+508842,223731,11,KIWOOM DRX,Global Esports,atk,boom
+508842,223731,12,Global Esports,KIWOOM DRX,def,time
+508842,223731,13,KIWOOM DRX,Global Esports,def,defuse
+508842,223731,14,Global Esports,KIWOOM DRX,atk,elim
+508842,223731,15,Global Esports,KIWOOM DRX,atk,boom
+508842,223731,16,Global Esports,KIWOOM DRX,atk,boom
+508842,223731,17,KIWOOM DRX,Global Esports,def,defuse
+508842,223731,18,KIWOOM DRX,Global Esports,def,elim
+508842,223731,19,Global Esports,KIWOOM DRX,atk,elim
+508842,223731,20,KIWOOM DRX,Global Esports,def,defuse
+508842,223731,21,Global Esports,KIWOOM DRX,atk,elim
+508842,223731,22,KIWOOM DRX,Global Esports,def,elim
+508842,223731,23,KIWOOM DRX,Global Esports,def,defuse
+508843,223733,1,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223733,2,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223733,3,BOOM Esports,ZETA DIVISION,def,defuse
+508843,223733,4,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223733,5,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223733,6,BOOM Esports,ZETA DIVISION,def,elim
+508843,223733,7,BOOM Esports,ZETA DIVISION,def,elim
+508843,223733,8,BOOM Esports,ZETA DIVISION,def,elim
+508843,223733,9,BOOM Esports,ZETA DIVISION,def,elim
+508843,223733,10,BOOM Esports,ZETA DIVISION,def,elim
+508843,223733,11,ZETA DIVISION,BOOM Esports,atk,boom
+508843,223733,12,BOOM Esports,ZETA DIVISION,def,elim
+508843,223733,13,BOOM Esports,ZETA DIVISION,atk,elim
+508843,223733,14,BOOM Esports,ZETA DIVISION,atk,boom
+508843,223733,15,BOOM Esports,ZETA DIVISION,atk,boom
+508843,223733,16,BOOM Esports,ZETA DIVISION,atk,elim
+508843,223733,17,ZETA DIVISION,BOOM Esports,def,defuse
+508843,223733,18,ZETA DIVISION,BOOM Esports,def,elim
+508843,223733,19,ZETA DIVISION,BOOM Esports,def,defuse
+508843,223733,20,ZETA DIVISION,BOOM Esports,def,defuse
+508843,223733,21,BOOM Esports,ZETA DIVISION,atk,elim
+508843,223733,22,ZETA DIVISION,BOOM Esports,def,elim
+508843,223733,23,ZETA DIVISION,BOOM Esports,def,elim
+508843,223733,24,ZETA DIVISION,BOOM Esports,def,elim
+508843,223733,25,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223733,26,BOOM Esports,ZETA DIVISION,atk,elim
+508843,223733,27,BOOM Esports,ZETA DIVISION,def,elim
+508843,223733,28,BOOM Esports,ZETA DIVISION,atk,elim
+508843,223734,1,BOOM Esports,ZETA DIVISION,def,elim
+508843,223734,2,BOOM Esports,ZETA DIVISION,def,elim
+508843,223734,3,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223734,4,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223734,5,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223734,6,ZETA DIVISION,BOOM Esports,atk,boom
+508843,223734,7,BOOM Esports,ZETA DIVISION,def,elim
+508843,223734,8,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223734,9,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223734,10,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223734,11,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223734,12,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223734,13,BOOM Esports,ZETA DIVISION,atk,elim
+508843,223734,14,BOOM Esports,ZETA DIVISION,atk,elim
+508843,223734,15,ZETA DIVISION,BOOM Esports,def,time
+508843,223734,16,ZETA DIVISION,BOOM Esports,def,defuse
+508843,223734,17,BOOM Esports,ZETA DIVISION,atk,elim
+508843,223734,18,BOOM Esports,ZETA DIVISION,atk,boom
+508843,223734,19,ZETA DIVISION,BOOM Esports,def,defuse
+508843,223734,20,BOOM Esports,ZETA DIVISION,atk,boom
+508843,223734,21,BOOM Esports,ZETA DIVISION,atk,boom
+508843,223734,22,ZETA DIVISION,BOOM Esports,def,defuse
+508843,223735,1,BOOM Esports,ZETA DIVISION,def,elim
+508843,223735,2,BOOM Esports,ZETA DIVISION,def,defuse
+508843,223735,3,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223735,4,ZETA DIVISION,BOOM Esports,atk,boom
+508843,223735,5,BOOM Esports,ZETA DIVISION,def,defuse
+508843,223735,6,BOOM Esports,ZETA DIVISION,def,elim
+508843,223735,7,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223735,8,BOOM Esports,ZETA DIVISION,def,defuse
+508843,223735,9,BOOM Esports,ZETA DIVISION,def,elim
+508843,223735,10,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223735,11,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223735,12,ZETA DIVISION,BOOM Esports,atk,elim
+508843,223735,13,ZETA DIVISION,BOOM Esports,def,defuse
+508843,223735,14,BOOM Esports,ZETA DIVISION,atk,elim
+508843,223735,15,BOOM Esports,ZETA DIVISION,atk,boom
+508843,223735,16,ZETA DIVISION,BOOM Esports,def,elim
+508843,223735,17,ZETA DIVISION,BOOM Esports,def,elim
+508843,223735,18,ZETA DIVISION,BOOM Esports,def,defuse
+508843,223735,19,ZETA DIVISION,BOOM Esports,def,defuse
+508843,223735,20,ZETA DIVISION,BOOM Esports,def,elim
+508843,223735,21,ZETA DIVISION,BOOM Esports,def,defuse
+508844,223736,1,Team Secret,Rex Regum Qeon,atk,elim
+508844,223736,2,Team Secret,Rex Regum Qeon,atk,elim
+508844,223736,3,Rex Regum Qeon,Team Secret,def,elim
+508844,223736,4,Rex Regum Qeon,Team Secret,def,defuse
+508844,223736,5,Rex Regum Qeon,Team Secret,def,elim
+508844,223736,6,Rex Regum Qeon,Team Secret,def,defuse
+508844,223736,7,Team Secret,Rex Regum Qeon,atk,elim
+508844,223736,8,Rex Regum Qeon,Team Secret,def,elim
+508844,223736,9,Rex Regum Qeon,Team Secret,def,elim
+508844,223736,10,Rex Regum Qeon,Team Secret,def,elim
+508844,223736,11,Rex Regum Qeon,Team Secret,def,elim
+508844,223736,12,Rex Regum Qeon,Team Secret,def,elim
+508844,223736,13,Rex Regum Qeon,Team Secret,atk,elim
+508844,223736,14,Rex Regum Qeon,Team Secret,atk,boom
+508844,223736,15,Rex Regum Qeon,Team Secret,atk,boom
+508844,223736,16,Team Secret,Rex Regum Qeon,def,defuse
+508844,223736,17,Team Secret,Rex Regum Qeon,def,elim
+508844,223736,18,Team Secret,Rex Regum Qeon,def,elim
+508844,223736,19,Team Secret,Rex Regum Qeon,def,elim
+508844,223736,20,Team Secret,Rex Regum Qeon,def,elim
+508844,223736,21,Team Secret,Rex Regum Qeon,def,defuse
+508844,223736,22,Team Secret,Rex Regum Qeon,def,elim
+508844,223736,23,Team Secret,Rex Regum Qeon,def,elim
+508844,223736,24,Team Secret,Rex Regum Qeon,def,defuse
+508844,223736,25,Rex Regum Qeon,Team Secret,def,time
+508844,223736,26,Team Secret,Rex Regum Qeon,def,defuse
+508844,223736,27,Team Secret,Rex Regum Qeon,atk,elim
+508844,223736,28,Team Secret,Rex Regum Qeon,def,elim
+508844,223737,1,Rex Regum Qeon,Team Secret,def,defuse
+508844,223737,2,Rex Regum Qeon,Team Secret,def,elim
+508844,223737,3,Rex Regum Qeon,Team Secret,def,elim
+508844,223737,4,Rex Regum Qeon,Team Secret,def,time
+508844,223737,5,Rex Regum Qeon,Team Secret,def,elim
+508844,223737,6,Rex Regum Qeon,Team Secret,def,defuse
+508844,223737,7,Rex Regum Qeon,Team Secret,def,defuse
+508844,223737,8,Rex Regum Qeon,Team Secret,def,defuse
+508844,223737,9,Rex Regum Qeon,Team Secret,def,elim
+508844,223737,10,Rex Regum Qeon,Team Secret,def,defuse
+508844,223737,11,Rex Regum Qeon,Team Secret,def,defuse
+508844,223737,12,Rex Regum Qeon,Team Secret,def,elim
+508844,223737,13,Team Secret,Rex Regum Qeon,def,defuse
+508844,223737,14,Team Secret,Rex Regum Qeon,def,defuse
+508844,223737,15,Team Secret,Rex Regum Qeon,def,elim
+508844,223737,16,Team Secret,Rex Regum Qeon,def,elim
+508844,223737,17,Rex Regum Qeon,Team Secret,atk,boom
+508844,223738,1,Rex Regum Qeon,Team Secret,def,elim
+508844,223738,2,Rex Regum Qeon,Team Secret,def,elim
+508844,223738,3,Rex Regum Qeon,Team Secret,def,defuse
+508844,223738,4,Rex Regum Qeon,Team Secret,def,defuse
+508844,223738,5,Rex Regum Qeon,Team Secret,def,elim
+508844,223738,6,Rex Regum Qeon,Team Secret,def,elim
+508844,223738,7,Team Secret,Rex Regum Qeon,atk,elim
+508844,223738,8,Rex Regum Qeon,Team Secret,def,elim
+508844,223738,9,Rex Regum Qeon,Team Secret,def,elim
+508844,223738,10,Rex Regum Qeon,Team Secret,def,elim
+508844,223738,11,Team Secret,Rex Regum Qeon,atk,elim
+508844,223738,12,Team Secret,Rex Regum Qeon,atk,elim
+508844,223738,13,Rex Regum Qeon,Team Secret,atk,elim
+508844,223738,14,Rex Regum Qeon,Team Secret,atk,elim
+508844,223738,15,Rex Regum Qeon,Team Secret,atk,elim
+508844,223738,16,Rex Regum Qeon,Team Secret,atk,boom
+508845,223739,1,DetonatioN FocusMe,T1,def,elim
+508845,223739,2,DetonatioN FocusMe,T1,def,elim
+508845,223739,3,T1,DetonatioN FocusMe,atk,elim
+508845,223739,4,T1,DetonatioN FocusMe,atk,elim
+508845,223739,5,T1,DetonatioN FocusMe,atk,elim
+508845,223739,6,DetonatioN FocusMe,T1,def,defuse
+508845,223739,7,T1,DetonatioN FocusMe,atk,boom
+508845,223739,8,T1,DetonatioN FocusMe,atk,elim
+508845,223739,9,T1,DetonatioN FocusMe,atk,elim
+508845,223739,10,T1,DetonatioN FocusMe,atk,elim
+508845,223739,11,T1,DetonatioN FocusMe,atk,elim
+508845,223739,12,T1,DetonatioN FocusMe,atk,elim
+508845,223739,13,T1,DetonatioN FocusMe,def,defuse
+508845,223739,14,T1,DetonatioN FocusMe,def,defuse
+508845,223739,15,T1,DetonatioN FocusMe,def,elim
+508845,223739,16,DetonatioN FocusMe,T1,atk,elim
+508845,223739,17,DetonatioN FocusMe,T1,atk,elim
+508845,223739,18,DetonatioN FocusMe,T1,atk,elim
+508845,223739,19,T1,DetonatioN FocusMe,def,elim
+508845,223740,1,DetonatioN FocusMe,T1,atk,elim
+508845,223740,2,DetonatioN FocusMe,T1,atk,elim
+508845,223740,3,T1,DetonatioN FocusMe,def,elim
+508845,223740,4,T1,DetonatioN FocusMe,def,time
+508845,223740,5,T1,DetonatioN FocusMe,def,defuse
+508845,223740,6,DetonatioN FocusMe,T1,atk,elim
+508845,223740,7,T1,DetonatioN FocusMe,def,elim
+508845,223740,8,T1,DetonatioN FocusMe,def,defuse
+508845,223740,9,T1,DetonatioN FocusMe,def,time
+508845,223740,10,T1,DetonatioN FocusMe,def,elim
+508845,223740,11,T1,DetonatioN FocusMe,def,elim
+508845,223740,12,DetonatioN FocusMe,T1,atk,elim
+508845,223740,13,DetonatioN FocusMe,T1,def,elim
+508845,223740,14,DetonatioN FocusMe,T1,def,defuse
+508845,223740,15,DetonatioN FocusMe,T1,def,defuse
+508845,223740,16,DetonatioN FocusMe,T1,def,defuse
+508845,223740,17,T1,DetonatioN FocusMe,atk,elim
+508845,223740,18,T1,DetonatioN FocusMe,atk,elim
+508845,223740,19,T1,DetonatioN FocusMe,atk,elim
+508845,223740,20,DetonatioN FocusMe,T1,def,elim
+508845,223740,21,T1,DetonatioN FocusMe,atk,boom
+508845,223740,22,T1,DetonatioN FocusMe,atk,elim
+530354,231305,1,TALON,Nongshim RedForce,atk,boom
+530354,231305,2,TALON,Nongshim RedForce,atk,boom
+530354,231305,3,TALON,Nongshim RedForce,atk,boom
+530354,231305,4,Nongshim RedForce,TALON,def,defuse
+530354,231305,5,TALON,Nongshim RedForce,atk,boom
+530354,231305,6,TALON,Nongshim RedForce,atk,elim
+530354,231305,7,TALON,Nongshim RedForce,atk,elim
+530354,231305,8,TALON,Nongshim RedForce,atk,elim
+530354,231305,9,Nongshim RedForce,TALON,def,defuse
+530354,231305,10,TALON,Nongshim RedForce,atk,elim
+530354,231305,11,TALON,Nongshim RedForce,atk,boom
+530354,231305,12,TALON,Nongshim RedForce,atk,elim
+530354,231305,13,Nongshim RedForce,TALON,atk,elim
+530354,231305,14,Nongshim RedForce,TALON,atk,boom
+530354,231305,15,TALON,Nongshim RedForce,def,elim
+530354,231305,16,Nongshim RedForce,TALON,atk,boom
+530354,231305,17,TALON,Nongshim RedForce,def,elim
+530354,231305,18,TALON,Nongshim RedForce,def,elim
+530354,231306,1,Nongshim RedForce,TALON,def,defuse
+530354,231306,2,Nongshim RedForce,TALON,def,elim
+530354,231306,3,Nongshim RedForce,TALON,def,elim
+530354,231306,4,Nongshim RedForce,TALON,def,elim
+530354,231306,5,TALON,Nongshim RedForce,atk,boom
+530354,231306,6,TALON,Nongshim RedForce,atk,boom
+530354,231306,7,TALON,Nongshim RedForce,atk,elim
+530354,231306,8,Nongshim RedForce,TALON,def,defuse
+530354,231306,9,Nongshim RedForce,TALON,def,elim
+530354,231306,10,TALON,Nongshim RedForce,atk,elim
+530354,231306,11,TALON,Nongshim RedForce,atk,elim
+530354,231306,12,Nongshim RedForce,TALON,def,defuse
+530354,231306,13,TALON,Nongshim RedForce,def,defuse
+530354,231306,14,TALON,Nongshim RedForce,def,elim
+530354,231306,15,TALON,Nongshim RedForce,def,defuse
+530354,231306,16,TALON,Nongshim RedForce,def,defuse
+530354,231306,17,TALON,Nongshim RedForce,def,elim
+530354,231306,18,Nongshim RedForce,TALON,atk,elim
+530354,231306,19,Nongshim RedForce,TALON,atk,elim
+530354,231306,20,Nongshim RedForce,TALON,atk,elim
+530354,231306,21,Nongshim RedForce,TALON,atk,elim
+530354,231306,22,Nongshim RedForce,TALON,atk,elim
+530354,231306,23,TALON,Nongshim RedForce,def,defuse
+530354,231306,24,TALON,Nongshim RedForce,def,defuse
+530354,231306,25,Nongshim RedForce,TALON,def,elim
+530354,231306,26,TALON,Nongshim RedForce,def,defuse
+530354,231306,27,Nongshim RedForce,TALON,def,elim
+530354,231306,28,TALON,Nongshim RedForce,def,elim
+530354,231306,29,TALON,Nongshim RedForce,atk,elim
+530354,231306,30,TALON,Nongshim RedForce,def,defuse
+530355,231308,1,T1,Rex Regum Qeon,atk,elim
+530355,231308,2,Rex Regum Qeon,T1,def,elim
+530355,231308,3,Rex Regum Qeon,T1,def,elim
+530355,231308,4,Rex Regum Qeon,T1,def,defuse
+530355,231308,5,Rex Regum Qeon,T1,def,elim
+530355,231308,6,T1,Rex Regum Qeon,atk,elim
+530355,231308,7,Rex Regum Qeon,T1,def,elim
+530355,231308,8,T1,Rex Regum Qeon,atk,elim
+530355,231308,9,T1,Rex Regum Qeon,atk,boom
+530355,231308,10,T1,Rex Regum Qeon,atk,elim
+530355,231308,11,T1,Rex Regum Qeon,atk,elim
+530355,231308,12,T1,Rex Regum Qeon,atk,elim
+530355,231308,13,T1,Rex Regum Qeon,def,elim
+530355,231308,14,T1,Rex Regum Qeon,def,elim
+530355,231308,15,Rex Regum Qeon,T1,atk,elim
+530355,231308,16,T1,Rex Regum Qeon,def,defuse
+530355,231308,17,T1,Rex Regum Qeon,def,elim
+530355,231308,18,T1,Rex Regum Qeon,def,defuse
+530355,231308,19,Rex Regum Qeon,T1,atk,boom
+530355,231308,20,Rex Regum Qeon,T1,atk,elim
+530355,231308,21,Rex Regum Qeon,T1,atk,elim
+530355,231308,22,T1,Rex Regum Qeon,def,defuse
+530355,231309,1,Rex Regum Qeon,T1,def,defuse
+530355,231309,2,T1,Rex Regum Qeon,atk,elim
+530355,231309,3,T1,Rex Regum Qeon,atk,boom
+530355,231309,4,Rex Regum Qeon,T1,def,time
+530355,231309,5,Rex Regum Qeon,T1,def,defuse
+530355,231309,6,Rex Regum Qeon,T1,def,defuse
+530355,231309,7,T1,Rex Regum Qeon,atk,elim
+530355,231309,8,Rex Regum Qeon,T1,def,defuse
+530355,231309,9,Rex Regum Qeon,T1,def,elim
+530355,231309,10,Rex Regum Qeon,T1,def,elim
+530355,231309,11,T1,Rex Regum Qeon,atk,elim
+530355,231309,12,T1,Rex Regum Qeon,atk,elim
+530355,231309,13,Rex Regum Qeon,T1,atk,elim
+530355,231309,14,Rex Regum Qeon,T1,atk,boom
+530355,231309,15,T1,Rex Regum Qeon,def,elim
+530355,231309,16,T1,Rex Regum Qeon,def,time
+530355,231309,17,Rex Regum Qeon,T1,atk,elim
+530355,231309,18,Rex Regum Qeon,T1,atk,elim
+530355,231309,19,Rex Regum Qeon,T1,atk,elim
+530355,231309,20,Rex Regum Qeon,T1,atk,elim
+530355,231310,1,T1,Rex Regum Qeon,atk,elim
+530355,231310,2,T1,Rex Regum Qeon,atk,boom
+530355,231310,3,Rex Regum Qeon,T1,def,defuse
+530355,231310,4,Rex Regum Qeon,T1,def,elim
+530355,231310,5,Rex Regum Qeon,T1,def,elim
+530355,231310,6,Rex Regum Qeon,T1,def,defuse
+530355,231310,7,T1,Rex Regum Qeon,atk,elim
+530355,231310,8,T1,Rex Regum Qeon,atk,elim
+530355,231310,9,T1,Rex Regum Qeon,atk,elim
+530355,231310,10,Rex Regum Qeon,T1,def,elim
+530355,231310,11,Rex Regum Qeon,T1,def,elim
+530355,231310,12,T1,Rex Regum Qeon,atk,elim
+530355,231310,13,T1,Rex Regum Qeon,def,elim
+530355,231310,14,T1,Rex Regum Qeon,def,defuse
+530355,231310,15,T1,Rex Regum Qeon,def,elim
+530355,231310,16,T1,Rex Regum Qeon,def,elim
+530355,231310,17,T1,Rex Regum Qeon,def,elim
+530355,231310,18,Rex Regum Qeon,T1,atk,elim
+530355,231310,19,Rex Regum Qeon,T1,atk,elim
+530355,231310,20,T1,Rex Regum Qeon,def,elim
+530355,231310,21,T1,Rex Regum Qeon,def,elim
+530356,231311,1,TALON,KIWOOM DRX,atk,elim
+530356,231311,2,TALON,KIWOOM DRX,atk,elim
+530356,231311,3,TALON,KIWOOM DRX,atk,boom
+530356,231311,4,TALON,KIWOOM DRX,atk,elim
+530356,231311,5,KIWOOM DRX,TALON,def,elim
+530356,231311,6,KIWOOM DRX,TALON,def,time
+530356,231311,7,KIWOOM DRX,TALON,def,elim
+530356,231311,8,KIWOOM DRX,TALON,def,defuse
+530356,231311,9,KIWOOM DRX,TALON,def,defuse
+530356,231311,10,KIWOOM DRX,TALON,def,elim
+530356,231311,11,KIWOOM DRX,TALON,def,elim
+530356,231311,12,KIWOOM DRX,TALON,def,elim
+530356,231311,13,TALON,KIWOOM DRX,def,defuse
+530356,231311,14,KIWOOM DRX,TALON,atk,elim
+530356,231311,15,KIWOOM DRX,TALON,atk,elim
+530356,231311,16,TALON,KIWOOM DRX,def,elim
+530356,231311,17,TALON,KIWOOM DRX,def,elim
+530356,231311,18,TALON,KIWOOM DRX,def,defuse
+530356,231311,19,KIWOOM DRX,TALON,atk,boom
+530356,231311,20,TALON,KIWOOM DRX,def,time
+530356,231311,21,TALON,KIWOOM DRX,def,defuse
+530356,231311,22,KIWOOM DRX,TALON,atk,elim
+530356,231311,23,TALON,KIWOOM DRX,def,elim
+530356,231311,24,KIWOOM DRX,TALON,atk,elim
+530356,231312,1,TALON,KIWOOM DRX,atk,elim
+530356,231312,2,TALON,KIWOOM DRX,atk,boom
+530356,231312,3,KIWOOM DRX,TALON,def,elim
+530356,231312,4,KIWOOM DRX,TALON,def,elim
+530356,231312,5,TALON,KIWOOM DRX,atk,elim
+530356,231312,6,TALON,KIWOOM DRX,atk,boom
+530356,231312,7,TALON,KIWOOM DRX,atk,elim
+530356,231312,8,TALON,KIWOOM DRX,atk,elim
+530356,231312,9,TALON,KIWOOM DRX,atk,boom
+530356,231312,10,TALON,KIWOOM DRX,atk,elim
+530356,231312,11,TALON,KIWOOM DRX,atk,elim
+530356,231312,12,KIWOOM DRX,TALON,def,elim
+530356,231312,13,KIWOOM DRX,TALON,atk,elim
+530356,231312,14,KIWOOM DRX,TALON,atk,elim
+530356,231312,15,TALON,KIWOOM DRX,def,elim
+530356,231312,16,TALON,KIWOOM DRX,def,defuse
+530356,231312,17,TALON,KIWOOM DRX,def,elim
+530356,231312,18,KIWOOM DRX,TALON,atk,elim
+530356,231312,19,KIWOOM DRX,TALON,atk,elim
+530356,231312,20,KIWOOM DRX,TALON,atk,elim
+530356,231312,21,KIWOOM DRX,TALON,atk,elim
+530356,231312,22,TALON,KIWOOM DRX,def,elim
+530356,231313,1,TALON,KIWOOM DRX,atk,elim
+530356,231313,2,TALON,KIWOOM DRX,atk,elim
+530356,231313,3,TALON,KIWOOM DRX,atk,elim
+530356,231313,4,TALON,KIWOOM DRX,atk,elim
+530356,231313,5,TALON,KIWOOM DRX,atk,boom
+530356,231313,6,TALON,KIWOOM DRX,atk,elim
+530356,231313,7,KIWOOM DRX,TALON,def,defuse
+530356,231313,8,TALON,KIWOOM DRX,atk,elim
+530356,231313,9,TALON,KIWOOM DRX,atk,elim
+530356,231313,10,KIWOOM DRX,TALON,def,elim
+530356,231313,11,KIWOOM DRX,TALON,def,elim
+530356,231313,12,KIWOOM DRX,TALON,def,elim
+530356,231313,13,TALON,KIWOOM DRX,def,elim
+530356,231313,14,KIWOOM DRX,TALON,atk,elim
+530356,231313,15,KIWOOM DRX,TALON,atk,boom
+530356,231313,16,TALON,KIWOOM DRX,def,elim
+530356,231313,17,TALON,KIWOOM DRX,def,defuse
+530356,231313,18,TALON,KIWOOM DRX,def,defuse
+530356,231313,19,KIWOOM DRX,TALON,atk,elim
+530356,231313,20,TALON,KIWOOM DRX,def,defuse
+530357,231314,1,Paper Rex,T1,def,defuse
+530357,231314,2,Paper Rex,T1,def,elim
+530357,231314,3,T1,Paper Rex,atk,elim
+530357,231314,4,T1,Paper Rex,atk,elim
+530357,231314,5,T1,Paper Rex,atk,elim
+530357,231314,6,T1,Paper Rex,atk,elim
+530357,231314,7,T1,Paper Rex,atk,elim
+530357,231314,8,Paper Rex,T1,def,elim
+530357,231314,9,Paper Rex,T1,def,elim
+530357,231314,10,Paper Rex,T1,def,defuse
+530357,231314,11,Paper Rex,T1,def,elim
+530357,231314,12,Paper Rex,T1,def,defuse
+530357,231314,13,T1,Paper Rex,def,defuse
+530357,231314,14,T1,Paper Rex,def,defuse
+530357,231314,15,T1,Paper Rex,def,elim
+530357,231314,16,Paper Rex,T1,atk,elim
+530357,231314,17,Paper Rex,T1,atk,boom
+530357,231314,18,Paper Rex,T1,atk,boom
+530357,231314,19,Paper Rex,T1,atk,elim
+530357,231314,20,Paper Rex,T1,atk,elim
+530357,231314,21,Paper Rex,T1,atk,elim
+530357,231315,1,Paper Rex,T1,def,defuse
+530357,231315,2,Paper Rex,T1,def,defuse
+530357,231315,3,Paper Rex,T1,def,elim
+530357,231315,4,Paper Rex,T1,def,elim
+530357,231315,5,T1,Paper Rex,atk,elim
+530357,231315,6,Paper Rex,T1,def,elim
+530357,231315,7,T1,Paper Rex,atk,boom
+530357,231315,8,T1,Paper Rex,atk,boom
+530357,231315,9,Paper Rex,T1,def,elim
+530357,231315,10,Paper Rex,T1,def,elim
+530357,231315,11,T1,Paper Rex,atk,elim
+530357,231315,12,Paper Rex,T1,def,defuse
+530357,231315,13,Paper Rex,T1,atk,elim
+530357,231315,14,Paper Rex,T1,atk,elim
+530357,231315,15,T1,Paper Rex,def,defuse
+530357,231315,16,Paper Rex,T1,atk,elim
+530357,231315,17,T1,Paper Rex,def,elim
+530357,231315,18,Paper Rex,T1,atk,elim
+530357,231315,19,Paper Rex,T1,atk,elim
+530358,231317,1,Nongshim RedForce,DetonatioN FocusMe,atk,elim
+530358,231317,2,Nongshim RedForce,DetonatioN FocusMe,atk,boom
+530358,231317,3,Nongshim RedForce,DetonatioN FocusMe,atk,boom
+530358,231317,4,DetonatioN FocusMe,Nongshim RedForce,def,elim
+530358,231317,5,Nongshim RedForce,DetonatioN FocusMe,atk,boom
+530358,231317,6,Nongshim RedForce,DetonatioN FocusMe,atk,elim
+530358,231317,7,Nongshim RedForce,DetonatioN FocusMe,atk,elim
+530358,231317,8,Nongshim RedForce,DetonatioN FocusMe,atk,elim
+530358,231317,9,Nongshim RedForce,DetonatioN FocusMe,atk,elim
+530358,231317,10,DetonatioN FocusMe,Nongshim RedForce,def,elim
+530358,231317,11,DetonatioN FocusMe,Nongshim RedForce,def,elim
+530358,231317,12,DetonatioN FocusMe,Nongshim RedForce,def,elim
+530358,231317,13,Nongshim RedForce,DetonatioN FocusMe,def,defuse
+530358,231317,14,Nongshim RedForce,DetonatioN FocusMe,def,elim
+530358,231317,15,DetonatioN FocusMe,Nongshim RedForce,atk,elim
+530358,231317,16,Nongshim RedForce,DetonatioN FocusMe,def,elim
+530358,231317,17,Nongshim RedForce,DetonatioN FocusMe,def,elim
+530358,231317,18,DetonatioN FocusMe,Nongshim RedForce,atk,elim
+530358,231317,19,Nongshim RedForce,DetonatioN FocusMe,def,elim
+530358,231318,1,DetonatioN FocusMe,Nongshim RedForce,atk,elim
+530358,231318,2,DetonatioN FocusMe,Nongshim RedForce,atk,elim
+530358,231318,3,Nongshim RedForce,DetonatioN FocusMe,def,elim
+530358,231318,4,DetonatioN FocusMe,Nongshim RedForce,atk,elim
+530358,231318,5,DetonatioN FocusMe,Nongshim RedForce,atk,elim
+530358,231318,6,Nongshim RedForce,DetonatioN FocusMe,def,elim
+530358,231318,7,DetonatioN FocusMe,Nongshim RedForce,atk,elim
+530358,231318,8,DetonatioN FocusMe,Nongshim RedForce,atk,elim
+530358,231318,9,Nongshim RedForce,DetonatioN FocusMe,def,time
+530358,231318,10,DetonatioN FocusMe,Nongshim RedForce,atk,boom
+530358,231318,11,DetonatioN FocusMe,Nongshim RedForce,atk,elim
+530358,231318,12,DetonatioN FocusMe,Nongshim RedForce,atk,elim
+530358,231318,13,Nongshim RedForce,DetonatioN FocusMe,atk,elim
+530358,231318,14,Nongshim RedForce,DetonatioN FocusMe,atk,elim
+530358,231318,15,Nongshim RedForce,DetonatioN FocusMe,atk,elim
+530358,231318,16,Nongshim RedForce,DetonatioN FocusMe,atk,elim
+530358,231318,17,Nongshim RedForce,DetonatioN FocusMe,atk,boom
+530358,231318,18,Nongshim RedForce,DetonatioN FocusMe,atk,boom
+530358,231318,19,Nongshim RedForce,DetonatioN FocusMe,atk,elim
+530358,231318,20,DetonatioN FocusMe,Nongshim RedForce,def,elim
+530358,231318,21,Nongshim RedForce,DetonatioN FocusMe,atk,elim
+530358,231318,22,Nongshim RedForce,DetonatioN FocusMe,atk,elim
+530358,231318,23,Nongshim RedForce,DetonatioN FocusMe,atk,elim
+530359,231320,1,Rex Regum Qeon,Gen.G,def,elim
+530359,231320,2,Rex Regum Qeon,Gen.G,def,defuse
+530359,231320,3,Gen.G,Rex Regum Qeon,atk,elim
+530359,231320,4,Gen.G,Rex Regum Qeon,atk,boom
+530359,231320,5,Gen.G,Rex Regum Qeon,atk,elim
+530359,231320,6,Gen.G,Rex Regum Qeon,atk,boom
+530359,231320,7,Rex Regum Qeon,Gen.G,def,elim
+530359,231320,8,Gen.G,Rex Regum Qeon,atk,boom
+530359,231320,9,Rex Regum Qeon,Gen.G,def,defuse
+530359,231320,10,Rex Regum Qeon,Gen.G,def,defuse
+530359,231320,11,Gen.G,Rex Regum Qeon,atk,elim
+530359,231320,12,Gen.G,Rex Regum Qeon,atk,elim
+530359,231320,13,Gen.G,Rex Regum Qeon,def,elim
+530359,231320,14,Gen.G,Rex Regum Qeon,def,elim
+530359,231320,15,Gen.G,Rex Regum Qeon,def,defuse
+530359,231320,16,Gen.G,Rex Regum Qeon,def,elim
+530359,231320,17,Rex Regum Qeon,Gen.G,atk,boom
+530359,231320,18,Rex Regum Qeon,Gen.G,atk,boom
+530359,231320,19,Rex Regum Qeon,Gen.G,atk,elim
+530359,231320,20,Gen.G,Rex Regum Qeon,def,time
+530359,231320,21,Rex Regum Qeon,Gen.G,atk,boom
+530359,231320,22,Rex Regum Qeon,Gen.G,atk,boom
+530359,231320,23,Gen.G,Rex Regum Qeon,def,elim
+530359,231321,1,Gen.G,Rex Regum Qeon,atk,elim
+530359,231321,2,Gen.G,Rex Regum Qeon,atk,boom
+530359,231321,3,Gen.G,Rex Regum Qeon,atk,boom
+530359,231321,4,Gen.G,Rex Regum Qeon,atk,elim
+530359,231321,5,Gen.G,Rex Regum Qeon,atk,elim
+530359,231321,6,Gen.G,Rex Regum Qeon,atk,elim
+530359,231321,7,Rex Regum Qeon,Gen.G,def,elim
+530359,231321,8,Gen.G,Rex Regum Qeon,atk,boom
+530359,231321,9,Gen.G,Rex Regum Qeon,atk,boom
+530359,231321,10,Gen.G,Rex Regum Qeon,atk,boom
+530359,231321,11,Gen.G,Rex Regum Qeon,atk,elim
+530359,231321,12,Rex Regum Qeon,Gen.G,def,defuse
+530359,231321,13,Rex Regum Qeon,Gen.G,atk,elim
+530359,231321,14,Rex Regum Qeon,Gen.G,atk,elim
+530359,231321,15,Rex Regum Qeon,Gen.G,atk,boom
+530359,231321,16,Rex Regum Qeon,Gen.G,atk,elim
+530359,231321,17,Gen.G,Rex Regum Qeon,def,elim
+530359,231321,18,Rex Regum Qeon,Gen.G,atk,boom
+530359,231321,19,Rex Regum Qeon,Gen.G,atk,elim
+530359,231321,20,Rex Regum Qeon,Gen.G,atk,elim
+530359,231321,21,Rex Regum Qeon,Gen.G,atk,elim
+530359,231321,22,Rex Regum Qeon,Gen.G,atk,elim
+530359,231321,23,Rex Regum Qeon,Gen.G,atk,elim
+530359,231321,24,Rex Regum Qeon,Gen.G,atk,elim
+530359,231322,1,Gen.G,Rex Regum Qeon,atk,elim
+530359,231322,2,Rex Regum Qeon,Gen.G,def,elim
+530359,231322,3,Gen.G,Rex Regum Qeon,atk,elim
+530359,231322,4,Gen.G,Rex Regum Qeon,atk,boom
+530359,231322,5,Rex Regum Qeon,Gen.G,def,elim
+530359,231322,6,Rex Regum Qeon,Gen.G,def,elim
+530359,231322,7,Rex Regum Qeon,Gen.G,def,elim
+530359,231322,8,Rex Regum Qeon,Gen.G,def,elim
+530359,231322,9,Gen.G,Rex Regum Qeon,atk,elim
+530359,231322,10,Rex Regum Qeon,Gen.G,def,elim
+530359,231322,11,Rex Regum Qeon,Gen.G,def,elim
+530359,231322,12,Gen.G,Rex Regum Qeon,atk,elim
+530359,231322,13,Rex Regum Qeon,Gen.G,atk,elim
+530359,231322,14,Rex Regum Qeon,Gen.G,atk,elim
+530359,231322,15,Gen.G,Rex Regum Qeon,def,elim
+530359,231322,16,Rex Regum Qeon,Gen.G,atk,elim
+530359,231322,17,Rex Regum Qeon,Gen.G,atk,elim
+530359,231322,18,Rex Regum Qeon,Gen.G,atk,elim
+530359,231322,19,Rex Regum Qeon,Gen.G,atk,elim
+530360,231324,1,Nongshim RedForce,T1,def,defuse
+530360,231324,2,Nongshim RedForce,T1,def,elim
+530360,231324,3,T1,Nongshim RedForce,atk,elim
+530360,231324,4,T1,Nongshim RedForce,atk,elim
+530360,231324,5,Nongshim RedForce,T1,def,elim
+530360,231324,6,T1,Nongshim RedForce,atk,elim
+530360,231324,7,T1,Nongshim RedForce,atk,elim
+530360,231324,8,Nongshim RedForce,T1,def,time
+530360,231324,9,Nongshim RedForce,T1,def,elim
+530360,231324,10,Nongshim RedForce,T1,def,elim
+530360,231324,11,T1,Nongshim RedForce,atk,elim
+530360,231324,12,Nongshim RedForce,T1,def,defuse
+530360,231324,13,T1,Nongshim RedForce,def,elim
+530360,231324,14,T1,Nongshim RedForce,def,elim
+530360,231324,15,Nongshim RedForce,T1,atk,elim
+530360,231324,16,T1,Nongshim RedForce,def,elim
+530360,231324,17,T1,Nongshim RedForce,def,elim
+530360,231324,18,T1,Nongshim RedForce,def,elim
+530360,231324,19,T1,Nongshim RedForce,def,elim
+530360,231324,20,Nongshim RedForce,T1,atk,elim
+530360,231324,21,T1,Nongshim RedForce,def,defuse
+530360,231324,22,T1,Nongshim RedForce,def,defuse
+530360,231894,1,T1,Nongshim RedForce,atk,elim
+530360,231894,2,T1,Nongshim RedForce,atk,elim
+530360,231894,3,T1,Nongshim RedForce,atk,elim
+530360,231894,4,Nongshim RedForce,T1,def,defuse
+530360,231894,5,T1,Nongshim RedForce,atk,elim
+530360,231894,6,T1,Nongshim RedForce,atk,elim
+530360,231894,7,T1,Nongshim RedForce,atk,elim
+530360,231894,8,T1,Nongshim RedForce,atk,elim
+530360,231894,9,Nongshim RedForce,T1,def,defuse
+530360,231894,10,T1,Nongshim RedForce,atk,elim
+530360,231894,11,T1,Nongshim RedForce,atk,elim
+530360,231894,12,T1,Nongshim RedForce,atk,elim
+530360,231894,13,T1,Nongshim RedForce,def,defuse
+530360,231894,14,Nongshim RedForce,T1,atk,boom
+530360,231894,15,Nongshim RedForce,T1,atk,elim
+530360,231894,16,Nongshim RedForce,T1,atk,elim
+530360,231894,17,Nongshim RedForce,T1,atk,elim
+530360,231894,18,T1,Nongshim RedForce,def,defuse
+530360,231894,19,T1,Nongshim RedForce,def,elim
+530361,231326,1,Rex Regum Qeon,KIWOOM DRX,def,defuse
+530361,231326,2,Rex Regum Qeon,KIWOOM DRX,def,elim
+530361,231326,3,KIWOOM DRX,Rex Regum Qeon,atk,boom
+530361,231326,4,KIWOOM DRX,Rex Regum Qeon,atk,boom
+530361,231326,5,Rex Regum Qeon,KIWOOM DRX,def,defuse
+530361,231326,6,KIWOOM DRX,Rex Regum Qeon,atk,elim
+530361,231326,7,Rex Regum Qeon,KIWOOM DRX,def,defuse
+530361,231326,8,Rex Regum Qeon,KIWOOM DRX,def,defuse
+530361,231326,9,Rex Regum Qeon,KIWOOM DRX,def,defuse
+530361,231326,10,Rex Regum Qeon,KIWOOM DRX,def,elim
+530361,231326,11,Rex Regum Qeon,KIWOOM DRX,def,elim
+530361,231326,12,KIWOOM DRX,Rex Regum Qeon,atk,elim
+530361,231326,13,Rex Regum Qeon,KIWOOM DRX,atk,elim
+530361,231326,14,Rex Regum Qeon,KIWOOM DRX,atk,boom
+530361,231326,15,KIWOOM DRX,Rex Regum Qeon,def,defuse
+530361,231326,16,KIWOOM DRX,Rex Regum Qeon,def,defuse
+530361,231326,17,Rex Regum Qeon,KIWOOM DRX,atk,boom
+530361,231326,18,Rex Regum Qeon,KIWOOM DRX,atk,elim
+530361,231326,19,KIWOOM DRX,Rex Regum Qeon,def,elim
+530361,231326,20,Rex Regum Qeon,KIWOOM DRX,atk,elim
+530361,231327,1,KIWOOM DRX,Rex Regum Qeon,atk,elim
+530361,231327,2,Rex Regum Qeon,KIWOOM DRX,def,elim
+530361,231327,3,KIWOOM DRX,Rex Regum Qeon,atk,elim
+530361,231327,4,Rex Regum Qeon,KIWOOM DRX,def,elim
+530361,231327,5,KIWOOM DRX,Rex Regum Qeon,atk,elim
+530361,231327,6,KIWOOM DRX,Rex Regum Qeon,atk,boom
+530361,231327,7,Rex Regum Qeon,KIWOOM DRX,def,defuse
+530361,231327,8,Rex Regum Qeon,KIWOOM DRX,def,defuse
+530361,231327,9,Rex Regum Qeon,KIWOOM DRX,def,defuse
+530361,231327,10,KIWOOM DRX,Rex Regum Qeon,atk,elim
+530361,231327,11,KIWOOM DRX,Rex Regum Qeon,atk,elim
+530361,231327,12,Rex Regum Qeon,KIWOOM DRX,def,elim
+530361,231327,13,Rex Regum Qeon,KIWOOM DRX,atk,elim
+530361,231327,14,Rex Regum Qeon,KIWOOM DRX,atk,boom
+530361,231327,15,KIWOOM DRX,Rex Regum Qeon,def,defuse
+530361,231327,16,Rex Regum Qeon,KIWOOM DRX,atk,boom
+530361,231327,17,KIWOOM DRX,Rex Regum Qeon,def,defuse
+530361,231327,18,Rex Regum Qeon,KIWOOM DRX,atk,boom
+530361,231327,19,Rex Regum Qeon,KIWOOM DRX,atk,elim
+530361,231327,20,Rex Regum Qeon,KIWOOM DRX,atk,elim
+530361,231327,21,KIWOOM DRX,Rex Regum Qeon,def,defuse
+530361,231327,22,Rex Regum Qeon,KIWOOM DRX,atk,elim
+530362,231329,1,TALON,Paper Rex,atk,boom
+530362,231329,2,TALON,Paper Rex,atk,elim
+530362,231329,3,Paper Rex,TALON,def,elim
+530362,231329,4,TALON,Paper Rex,atk,boom
+530362,231329,5,Paper Rex,TALON,def,defuse
+530362,231329,6,Paper Rex,TALON,def,defuse
+530362,231329,7,Paper Rex,TALON,def,elim
+530362,231329,8,TALON,Paper Rex,atk,boom
+530362,231329,9,Paper Rex,TALON,def,elim
+530362,231329,10,TALON,Paper Rex,atk,elim
+530362,231329,11,TALON,Paper Rex,atk,elim
+530362,231329,12,Paper Rex,TALON,def,defuse
+530362,231329,13,TALON,Paper Rex,def,elim
+530362,231329,14,TALON,Paper Rex,def,defuse
+530362,231329,15,Paper Rex,TALON,atk,elim
+530362,231329,16,TALON,Paper Rex,def,defuse
+530362,231329,17,TALON,Paper Rex,def,defuse
+530362,231329,18,Paper Rex,TALON,atk,elim
+530362,231329,19,Paper Rex,TALON,atk,boom
+530362,231329,20,Paper Rex,TALON,atk,elim
+530362,231329,21,Paper Rex,TALON,atk,elim
+530362,231329,22,Paper Rex,TALON,atk,elim
+530362,231329,23,TALON,Paper Rex,def,elim
+530362,231329,24,Paper Rex,TALON,atk,elim
+530362,231330,1,Paper Rex,TALON,def,elim
+530362,231330,2,Paper Rex,TALON,def,elim
+530362,231330,3,TALON,Paper Rex,atk,elim
+530362,231330,4,TALON,Paper Rex,atk,boom
+530362,231330,5,Paper Rex,TALON,def,elim
+530362,231330,6,Paper Rex,TALON,def,elim
+530362,231330,7,Paper Rex,TALON,def,defuse
+530362,231330,8,Paper Rex,TALON,def,elim
+530362,231330,9,Paper Rex,TALON,def,elim
+530362,231330,10,Paper Rex,TALON,def,elim
+530362,231330,11,TALON,Paper Rex,atk,elim
+530362,231330,12,TALON,Paper Rex,atk,elim
+530362,231330,13,TALON,Paper Rex,def,elim
+530362,231330,14,TALON,Paper Rex,def,elim
+530362,231330,15,Paper Rex,TALON,atk,elim
+530362,231330,16,Paper Rex,TALON,atk,elim
+530362,231330,17,Paper Rex,TALON,atk,elim
+530362,231330,18,TALON,Paper Rex,def,elim
+530362,231330,19,Paper Rex,TALON,atk,elim
+530362,231330,20,Paper Rex,TALON,atk,elim
+530363,231333,1,T1,Rex Regum Qeon,atk,elim
+530363,231333,2,T1,Rex Regum Qeon,atk,boom
+530363,231333,3,Rex Regum Qeon,T1,def,defuse
+530363,231333,4,T1,Rex Regum Qeon,atk,boom
+530363,231333,5,T1,Rex Regum Qeon,atk,boom
+530363,231333,6,T1,Rex Regum Qeon,atk,elim
+530363,231333,7,Rex Regum Qeon,T1,def,defuse
+530363,231333,8,T1,Rex Regum Qeon,atk,elim
+530363,231333,9,T1,Rex Regum Qeon,atk,boom
+530363,231333,10,Rex Regum Qeon,T1,def,elim
+530363,231333,11,T1,Rex Regum Qeon,atk,elim
+530363,231333,12,T1,Rex Regum Qeon,atk,boom
+530363,231333,13,Rex Regum Qeon,T1,atk,boom
+530363,231333,14,Rex Regum Qeon,T1,atk,elim
+530363,231333,15,Rex Regum Qeon,T1,atk,boom
+530363,231333,16,T1,Rex Regum Qeon,def,elim
+530363,231333,17,Rex Regum Qeon,T1,atk,elim
+530363,231333,18,Rex Regum Qeon,T1,atk,elim
+530363,231333,19,Rex Regum Qeon,T1,atk,elim
+530363,231333,20,T1,Rex Regum Qeon,def,elim
+530363,231333,21,T1,Rex Regum Qeon,def,defuse
+530363,231333,22,Rex Regum Qeon,T1,atk,elim
+530363,231333,23,Rex Regum Qeon,T1,atk,elim
+530363,231333,24,T1,Rex Regum Qeon,def,defuse
+530363,231334,1,T1,Rex Regum Qeon,atk,elim
+530363,231334,2,T1,Rex Regum Qeon,atk,elim
+530363,231334,3,T1,Rex Regum Qeon,atk,boom
+530363,231334,4,T1,Rex Regum Qeon,atk,elim
+530363,231334,5,Rex Regum Qeon,T1,def,defuse
+530363,231334,6,Rex Regum Qeon,T1,def,defuse
+530363,231334,7,T1,Rex Regum Qeon,atk,elim
+530363,231334,8,Rex Regum Qeon,T1,def,defuse
+530363,231334,9,T1,Rex Regum Qeon,atk,elim
+530363,231334,10,T1,Rex Regum Qeon,atk,elim
+530363,231334,11,Rex Regum Qeon,T1,def,defuse
+530363,231334,12,Rex Regum Qeon,T1,def,elim
+530363,231334,13,Rex Regum Qeon,T1,atk,elim
+530363,231334,14,Rex Regum Qeon,T1,atk,elim
+530363,231334,15,T1,Rex Regum Qeon,def,elim
+530363,231334,16,T1,Rex Regum Qeon,def,elim
+530363,231334,17,T1,Rex Regum Qeon,def,defuse
+530363,231334,18,Rex Regum Qeon,T1,atk,elim
+530363,231334,19,Rex Regum Qeon,T1,atk,boom
+530363,231334,20,Rex Regum Qeon,T1,atk,boom
+530363,231334,21,Rex Regum Qeon,T1,atk,elim
+530363,231334,22,Rex Regum Qeon,T1,atk,boom
+530363,231334,23,T1,Rex Regum Qeon,def,elim
+530363,231334,24,T1,Rex Regum Qeon,def,elim
+530363,231334,25,T1,Rex Regum Qeon,atk,elim
+530363,231334,26,Rex Regum Qeon,T1,atk,elim
+530363,231334,27,Rex Regum Qeon,T1,def,defuse
+530363,231334,28,Rex Regum Qeon,T1,atk,elim
+530363,232077,1,T1,Rex Regum Qeon,atk,elim
+530363,232077,2,T1,Rex Regum Qeon,atk,elim
+530363,232077,3,Rex Regum Qeon,T1,def,elim
+530363,232077,4,Rex Regum Qeon,T1,def,defuse
+530363,232077,5,Rex Regum Qeon,T1,def,elim
+530363,232077,6,Rex Regum Qeon,T1,def,defuse
+530363,232077,7,Rex Regum Qeon,T1,def,elim
+530363,232077,8,Rex Regum Qeon,T1,def,defuse
+530363,232077,9,Rex Regum Qeon,T1,def,elim
+530363,232077,10,T1,Rex Regum Qeon,atk,elim
+530363,232077,11,Rex Regum Qeon,T1,def,elim
+530363,232077,12,Rex Regum Qeon,T1,def,elim
+530363,232077,13,T1,Rex Regum Qeon,def,defuse
+530363,232077,14,T1,Rex Regum Qeon,def,elim
+530363,232077,15,T1,Rex Regum Qeon,def,defuse
+530363,232077,16,T1,Rex Regum Qeon,def,elim
+530363,232077,17,Rex Regum Qeon,T1,atk,boom
+530363,232077,18,Rex Regum Qeon,T1,atk,elim
+530363,232077,19,Rex Regum Qeon,T1,atk,elim
+530363,232077,20,Rex Regum Qeon,T1,atk,elim
+530364,231335,1,TALON,Rex Regum Qeon,def,elim
+530364,231335,2,TALON,Rex Regum Qeon,def,elim
+530364,231335,3,TALON,Rex Regum Qeon,def,defuse
+530364,231335,4,Rex Regum Qeon,TALON,atk,elim
+530364,231335,5,Rex Regum Qeon,TALON,atk,elim
+530364,231335,6,Rex Regum Qeon,TALON,atk,elim
+530364,231335,7,TALON,Rex Regum Qeon,def,defuse
+530364,231335,8,TALON,Rex Regum Qeon,def,elim
+530364,231335,9,TALON,Rex Regum Qeon,def,elim
+530364,231335,10,TALON,Rex Regum Qeon,def,time
+530364,231335,11,TALON,Rex Regum Qeon,def,defuse
+530364,231335,12,TALON,Rex Regum Qeon,def,defuse
+530364,231335,13,TALON,Rex Regum Qeon,atk,elim
+530364,231335,14,TALON,Rex Regum Qeon,atk,elim
+530364,231335,15,Rex Regum Qeon,TALON,def,defuse
+530364,231335,16,TALON,Rex Regum Qeon,atk,boom
+530364,231335,17,TALON,Rex Regum Qeon,atk,elim
+530364,231336,1,TALON,Rex Regum Qeon,atk,elim
+530364,231336,2,TALON,Rex Regum Qeon,atk,elim
+530364,231336,3,Rex Regum Qeon,TALON,def,defuse
+530364,231336,4,TALON,Rex Regum Qeon,atk,boom
+530364,231336,5,TALON,Rex Regum Qeon,atk,boom
+530364,231336,6,TALON,Rex Regum Qeon,atk,boom
+530364,231336,7,Rex Regum Qeon,TALON,def,defuse
+530364,231336,8,TALON,Rex Regum Qeon,atk,boom
+530364,231336,9,Rex Regum Qeon,TALON,def,elim
+530364,231336,10,TALON,Rex Regum Qeon,atk,elim
+530364,231336,11,TALON,Rex Regum Qeon,atk,boom
+530364,231336,12,Rex Regum Qeon,TALON,def,defuse
+530364,231336,13,TALON,Rex Regum Qeon,def,elim
+530364,231336,14,TALON,Rex Regum Qeon,def,elim
+530364,231336,15,Rex Regum Qeon,TALON,atk,elim
+530364,231336,16,TALON,Rex Regum Qeon,def,elim
+530364,231336,17,Rex Regum Qeon,TALON,atk,elim
+530364,231336,18,Rex Regum Qeon,TALON,atk,elim
+530364,231336,19,TALON,Rex Regum Qeon,def,defuse
+530364,231336,20,TALON,Rex Regum Qeon,def,elim
+530364,231337,1,Rex Regum Qeon,TALON,def,defuse
+530364,231337,2,Rex Regum Qeon,TALON,def,elim
+530364,231337,3,TALON,Rex Regum Qeon,atk,elim
+530364,231337,4,Rex Regum Qeon,TALON,def,defuse
+530364,231337,5,TALON,Rex Regum Qeon,atk,elim
+530364,231337,6,TALON,Rex Regum Qeon,atk,elim
+530364,231337,7,Rex Regum Qeon,TALON,def,defuse
+530364,231337,8,TALON,Rex Regum Qeon,atk,elim
+530364,231337,9,TALON,Rex Regum Qeon,atk,elim
+530364,231337,10,Rex Regum Qeon,TALON,def,defuse
+530364,231337,11,TALON,Rex Regum Qeon,atk,boom
+530364,231337,12,TALON,Rex Regum Qeon,atk,boom
+530364,231337,13,Rex Regum Qeon,TALON,atk,elim
+530364,231337,14,Rex Regum Qeon,TALON,atk,boom
+530364,231337,15,Rex Regum Qeon,TALON,atk,boom
+530364,231337,16,Rex Regum Qeon,TALON,atk,elim
+530364,231337,17,Rex Regum Qeon,TALON,atk,boom
+530364,231337,18,TALON,Rex Regum Qeon,def,defuse
+530364,231337,19,Rex Regum Qeon,TALON,atk,elim
+530364,231337,20,TALON,Rex Regum Qeon,def,defuse
+530364,231337,21,TALON,Rex Regum Qeon,def,elim
+530364,231337,22,Rex Regum Qeon,TALON,atk,elim
+530364,231337,23,Rex Regum Qeon,TALON,atk,elim
+530364,231338,1,TALON,Rex Regum Qeon,atk,elim
+530364,231338,2,TALON,Rex Regum Qeon,atk,elim
+530364,231338,3,Rex Regum Qeon,TALON,def,defuse
+530364,231338,4,Rex Regum Qeon,TALON,def,time
+530364,231338,5,TALON,Rex Regum Qeon,atk,elim
+530364,231338,6,Rex Regum Qeon,TALON,def,elim
+530364,231338,7,Rex Regum Qeon,TALON,def,defuse
+530364,231338,8,Rex Regum Qeon,TALON,def,defuse
+530364,231338,9,Rex Regum Qeon,TALON,def,defuse
+530364,231338,10,TALON,Rex Regum Qeon,atk,boom
+530364,231338,11,TALON,Rex Regum Qeon,atk,elim
+530364,231338,12,Rex Regum Qeon,TALON,def,defuse
+530364,231338,13,Rex Regum Qeon,TALON,atk,elim
+530364,231338,14,Rex Regum Qeon,TALON,atk,elim
+530364,231338,15,Rex Regum Qeon,TALON,atk,boom
+530364,231338,16,Rex Regum Qeon,TALON,atk,elim
+530364,231338,17,Rex Regum Qeon,TALON,atk,elim
+530364,231338,18,TALON,Rex Regum Qeon,def,defuse
+530364,231338,19,Rex Regum Qeon,TALON,atk,elim
+530364,231339,1,Rex Regum Qeon,TALON,atk,elim
+530364,231339,2,Rex Regum Qeon,TALON,atk,boom
+530364,231339,3,Rex Regum Qeon,TALON,atk,elim
+530364,231339,4,Rex Regum Qeon,TALON,atk,boom
+530364,231339,5,Rex Regum Qeon,TALON,atk,elim
+530364,231339,6,TALON,Rex Regum Qeon,def,elim
+530364,231339,7,TALON,Rex Regum Qeon,def,elim
+530364,231339,8,Rex Regum Qeon,TALON,atk,elim
+530364,231339,9,Rex Regum Qeon,TALON,atk,elim
+530364,231339,10,TALON,Rex Regum Qeon,def,defuse
+530364,231339,11,Rex Regum Qeon,TALON,atk,elim
+530364,231339,12,TALON,Rex Regum Qeon,def,defuse
+530364,231339,13,TALON,Rex Regum Qeon,atk,elim
+530364,231339,14,TALON,Rex Regum Qeon,atk,elim
+530364,231339,15,TALON,Rex Regum Qeon,atk,elim
+530364,231339,16,Rex Regum Qeon,TALON,def,defuse
+530364,231339,17,TALON,Rex Regum Qeon,atk,elim
+530364,231339,18,TALON,Rex Regum Qeon,atk,boom
+530364,231339,19,TALON,Rex Regum Qeon,atk,elim
+530364,231339,20,TALON,Rex Regum Qeon,atk,boom
+530364,231339,21,TALON,Rex Regum Qeon,atk,elim
+530364,231339,22,Rex Regum Qeon,TALON,def,elim
+530364,231339,23,Rex Regum Qeon,TALON,def,defuse
+530364,231339,24,Rex Regum Qeon,TALON,def,defuse
+530364,231339,25,Rex Regum Qeon,TALON,atk,elim
+530364,231339,26,Rex Regum Qeon,TALON,def,elim
+530365,231341,1,Paper Rex,Rex Regum Qeon,def,defuse
+530365,231341,2,Paper Rex,Rex Regum Qeon,def,elim
+530365,231341,3,Paper Rex,Rex Regum Qeon,def,elim
+530365,231341,4,Paper Rex,Rex Regum Qeon,def,elim
+530365,231341,5,Paper Rex,Rex Regum Qeon,def,elim
+530365,231341,6,Paper Rex,Rex Regum Qeon,def,elim
+530365,231341,7,Paper Rex,Rex Regum Qeon,def,elim
+530365,231341,8,Paper Rex,Rex Regum Qeon,def,elim
+530365,231341,9,Paper Rex,Rex Regum Qeon,def,elim
+530365,231341,10,Paper Rex,Rex Regum Qeon,def,elim
+530365,231341,11,Rex Regum Qeon,Paper Rex,atk,elim
+530365,231341,12,Paper Rex,Rex Regum Qeon,def,elim
+530365,231341,13,Paper Rex,Rex Regum Qeon,atk,elim
+530365,231341,14,Rex Regum Qeon,Paper Rex,def,defuse
+530365,231341,15,Rex Regum Qeon,Paper Rex,def,time
+530365,231341,16,Rex Regum Qeon,Paper Rex,def,time
+530365,231341,17,Rex Regum Qeon,Paper Rex,def,elim
+530365,231341,18,Rex Regum Qeon,Paper Rex,def,defuse
+530365,231341,19,Rex Regum Qeon,Paper Rex,def,elim
+530365,231341,20,Paper Rex,Rex Regum Qeon,atk,elim
+530365,231342,1,Paper Rex,Rex Regum Qeon,def,defuse
+530365,231342,2,Paper Rex,Rex Regum Qeon,def,elim
+530365,231342,3,Rex Regum Qeon,Paper Rex,atk,elim
+530365,231342,4,Paper Rex,Rex Regum Qeon,def,elim
+530365,231342,5,Rex Regum Qeon,Paper Rex,atk,boom
+530365,231342,6,Paper Rex,Rex Regum Qeon,def,time
+530365,231342,7,Paper Rex,Rex Regum Qeon,def,defuse
+530365,231342,8,Rex Regum Qeon,Paper Rex,atk,elim
+530365,231342,9,Rex Regum Qeon,Paper Rex,atk,elim
+530365,231342,10,Rex Regum Qeon,Paper Rex,atk,elim
+530365,231342,11,Paper Rex,Rex Regum Qeon,def,defuse
+530365,231342,12,Rex Regum Qeon,Paper Rex,atk,elim
+530365,231342,13,Rex Regum Qeon,Paper Rex,def,defuse
+530365,231342,14,Rex Regum Qeon,Paper Rex,def,defuse
+530365,231342,15,Rex Regum Qeon,Paper Rex,def,defuse
+530365,231342,16,Rex Regum Qeon,Paper Rex,def,elim
+530365,231342,17,Rex Regum Qeon,Paper Rex,def,elim
+530365,231342,18,Rex Regum Qeon,Paper Rex,def,defuse
+530365,231342,19,Rex Regum Qeon,Paper Rex,def,defuse
+530365,231343,1,Paper Rex,Rex Regum Qeon,def,elim
+530365,231343,2,Paper Rex,Rex Regum Qeon,def,defuse
+530365,231343,3,Rex Regum Qeon,Paper Rex,atk,elim
+530365,231343,4,Paper Rex,Rex Regum Qeon,def,elim
+530365,231343,5,Paper Rex,Rex Regum Qeon,def,time
+530365,231343,6,Paper Rex,Rex Regum Qeon,def,elim
+530365,231343,7,Rex Regum Qeon,Paper Rex,atk,boom
+530365,231343,8,Paper Rex,Rex Regum Qeon,def,elim
+530365,231343,9,Rex Regum Qeon,Paper Rex,atk,elim
+530365,231343,10,Paper Rex,Rex Regum Qeon,def,elim
+530365,231343,11,Paper Rex,Rex Regum Qeon,def,defuse
+530365,231343,12,Rex Regum Qeon,Paper Rex,atk,elim
+530365,231343,13,Paper Rex,Rex Regum Qeon,atk,elim
+530365,231343,14,Paper Rex,Rex Regum Qeon,atk,elim
+530365,231343,15,Paper Rex,Rex Regum Qeon,atk,boom
+530365,231343,16,Rex Regum Qeon,Paper Rex,def,defuse
+530365,231343,17,Paper Rex,Rex Regum Qeon,atk,elim
+530365,231343,18,Rex Regum Qeon,Paper Rex,def,defuse
+530365,231343,19,Rex Regum Qeon,Paper Rex,def,elim
+530365,231343,20,Paper Rex,Rex Regum Qeon,atk,elim
+530365,233353,1,Paper Rex,Rex Regum Qeon,atk,elim
+530365,233353,2,Paper Rex,Rex Regum Qeon,atk,elim
+530365,233353,3,Rex Regum Qeon,Paper Rex,def,defuse
+530365,233353,4,Rex Regum Qeon,Paper Rex,def,defuse
+530365,233353,5,Paper Rex,Rex Regum Qeon,atk,elim
+530365,233353,6,Paper Rex,Rex Regum Qeon,atk,boom
+530365,233353,7,Paper Rex,Rex Regum Qeon,atk,boom
+530365,233353,8,Paper Rex,Rex Regum Qeon,atk,elim
+530365,233353,9,Rex Regum Qeon,Paper Rex,def,defuse
+530365,233353,10,Paper Rex,Rex Regum Qeon,atk,elim
+530365,233353,11,Paper Rex,Rex Regum Qeon,atk,elim
+530365,233353,12,Paper Rex,Rex Regum Qeon,atk,elim
+530365,233353,13,Paper Rex,Rex Regum Qeon,def,defuse
+530365,233353,14,Paper Rex,Rex Regum Qeon,def,elim
+530365,233353,15,Rex Regum Qeon,Paper Rex,atk,boom
+530365,233353,16,Rex Regum Qeon,Paper Rex,atk,boom
+530365,233353,17,Paper Rex,Rex Regum Qeon,def,defuse
+530365,233353,18,Rex Regum Qeon,Paper Rex,atk,elim
+530365,233353,19,Rex Regum Qeon,Paper Rex,atk,boom
+530365,233353,20,Rex Regum Qeon,Paper Rex,atk,elim
+530365,233353,21,Paper Rex,Rex Regum Qeon,def,elim
+530514,231345,1,Team World,Glory Once Again,atk,elim
+530514,231345,2,Team World,Glory Once Again,atk,elim
+530514,231345,3,Team World,Glory Once Again,atk,elim
+530514,231345,4,Team World,Glory Once Again,atk,elim
+530514,231345,5,Team World,Glory Once Again,atk,elim
+530514,231345,6,Team World,Glory Once Again,atk,elim
+530514,231345,7,Team World,Glory Once Again,atk,elim
+530514,231345,8,Team World,Glory Once Again,atk,elim
+530514,231345,9,Glory Once Again,Team World,def,defuse
+530514,231345,10,Glory Once Again,Team World,def,elim
+530514,231345,11,Team World,Glory Once Again,atk,elim
+530514,231345,12,Glory Once Again,Team World,def,elim
+530514,231345,13,Team World,Glory Once Again,def,elim
+530514,231345,14,Team World,Glory Once Again,def,defuse
+530514,231345,15,Glory Once Again,Team World,atk,elim
+530514,231345,16,Glory Once Again,Team World,atk,elim
+530514,231345,17,Team World,Glory Once Again,def,elim
+530514,231345,18,Glory Once Again,Team World,atk,elim
+530514,231345,19,Glory Once Again,Team World,atk,elim
+530514,231345,20,Glory Once Again,Team World,atk,elim
+530514,231345,21,Team World,Glory Once Again,def,elim

@@ -1,0 +1,1328 @@
+match_id,game_id,round,winner,loser,win_side,how
+670464,267798,1,Xi Lai Gaming,G2 Esports,atk,elim
+670464,267798,2,Xi Lai Gaming,G2 Esports,atk,elim
+670464,267798,3,Xi Lai Gaming,G2 Esports,atk,elim
+670464,267798,4,G2 Esports,Xi Lai Gaming,def,elim
+670464,267798,5,Xi Lai Gaming,G2 Esports,atk,elim
+670464,267798,6,Xi Lai Gaming,G2 Esports,atk,boom
+670464,267798,7,G2 Esports,Xi Lai Gaming,def,elim
+670464,267798,8,G2 Esports,Xi Lai Gaming,def,defuse
+670464,267798,9,G2 Esports,Xi Lai Gaming,def,defuse
+670464,267798,10,G2 Esports,Xi Lai Gaming,def,defuse
+670464,267798,11,G2 Esports,Xi Lai Gaming,def,elim
+670464,267798,12,G2 Esports,Xi Lai Gaming,def,defuse
+670464,267798,13,Xi Lai Gaming,G2 Esports,def,defuse
+670464,267798,14,G2 Esports,Xi Lai Gaming,atk,elim
+670464,267798,15,G2 Esports,Xi Lai Gaming,atk,elim
+670464,267798,16,Xi Lai Gaming,G2 Esports,def,defuse
+670464,267798,17,G2 Esports,Xi Lai Gaming,atk,boom
+670464,267798,18,G2 Esports,Xi Lai Gaming,atk,boom
+670464,267798,19,G2 Esports,Xi Lai Gaming,atk,elim
+670464,267798,20,G2 Esports,Xi Lai Gaming,atk,elim
+670464,267799,1,Xi Lai Gaming,G2 Esports,def,elim
+670464,267799,2,Xi Lai Gaming,G2 Esports,def,elim
+670464,267799,3,Xi Lai Gaming,G2 Esports,def,defuse
+670464,267799,4,G2 Esports,Xi Lai Gaming,atk,elim
+670464,267799,5,Xi Lai Gaming,G2 Esports,def,elim
+670464,267799,6,Xi Lai Gaming,G2 Esports,def,elim
+670464,267799,7,G2 Esports,Xi Lai Gaming,atk,elim
+670464,267799,8,Xi Lai Gaming,G2 Esports,def,defuse
+670464,267799,9,Xi Lai Gaming,G2 Esports,def,elim
+670464,267799,10,Xi Lai Gaming,G2 Esports,def,defuse
+670464,267799,11,G2 Esports,Xi Lai Gaming,atk,elim
+670464,267799,12,G2 Esports,Xi Lai Gaming,atk,elim
+670464,267799,13,Xi Lai Gaming,G2 Esports,atk,elim
+670464,267799,14,Xi Lai Gaming,G2 Esports,atk,elim
+670464,267799,15,Xi Lai Gaming,G2 Esports,atk,elim
+670464,267799,16,Xi Lai Gaming,G2 Esports,atk,elim
+670464,267799,17,Xi Lai Gaming,G2 Esports,atk,elim
+670464,267800,1,Xi Lai Gaming,G2 Esports,def,elim
+670464,267800,2,Xi Lai Gaming,G2 Esports,def,elim
+670464,267800,3,G2 Esports,Xi Lai Gaming,atk,boom
+670464,267800,4,Xi Lai Gaming,G2 Esports,def,time
+670464,267800,5,G2 Esports,Xi Lai Gaming,atk,elim
+670464,267800,6,G2 Esports,Xi Lai Gaming,atk,elim
+670464,267800,7,G2 Esports,Xi Lai Gaming,atk,elim
+670464,267800,8,Xi Lai Gaming,G2 Esports,def,elim
+670464,267800,9,G2 Esports,Xi Lai Gaming,atk,boom
+670464,267800,10,Xi Lai Gaming,G2 Esports,def,defuse
+670464,267800,11,Xi Lai Gaming,G2 Esports,def,elim
+670464,267800,12,Xi Lai Gaming,G2 Esports,def,elim
+670464,267800,13,Xi Lai Gaming,G2 Esports,atk,elim
+670464,267800,14,Xi Lai Gaming,G2 Esports,atk,elim
+670464,267800,15,G2 Esports,Xi Lai Gaming,def,defuse
+670464,267800,16,G2 Esports,Xi Lai Gaming,def,defuse
+670464,267800,17,Xi Lai Gaming,G2 Esports,atk,boom
+670464,267800,18,Xi Lai Gaming,G2 Esports,atk,elim
+670464,267800,19,G2 Esports,Xi Lai Gaming,def,defuse
+670464,267800,20,G2 Esports,Xi Lai Gaming,def,defuse
+670464,267800,21,Xi Lai Gaming,G2 Esports,atk,elim
+670464,267800,22,Xi Lai Gaming,G2 Esports,atk,elim
+670465,267801,1,FUT Esports,EDward Gaming,atk,elim
+670465,267801,2,FUT Esports,EDward Gaming,atk,boom
+670465,267801,3,EDward Gaming,FUT Esports,def,elim
+670465,267801,4,FUT Esports,EDward Gaming,atk,elim
+670465,267801,5,FUT Esports,EDward Gaming,atk,boom
+670465,267801,6,FUT Esports,EDward Gaming,atk,boom
+670465,267801,7,FUT Esports,EDward Gaming,atk,elim
+670465,267801,8,FUT Esports,EDward Gaming,atk,elim
+670465,267801,9,FUT Esports,EDward Gaming,atk,elim
+670465,267801,10,EDward Gaming,FUT Esports,def,elim
+670465,267801,11,FUT Esports,EDward Gaming,atk,boom
+670465,267801,12,FUT Esports,EDward Gaming,atk,elim
+670465,267801,13,EDward Gaming,FUT Esports,atk,elim
+670465,267801,14,EDward Gaming,FUT Esports,atk,elim
+670465,267801,15,FUT Esports,EDward Gaming,def,defuse
+670465,267801,16,FUT Esports,EDward Gaming,def,elim
+670465,267801,17,FUT Esports,EDward Gaming,def,defuse
+670465,267802,1,FUT Esports,EDward Gaming,def,elim
+670465,267802,2,FUT Esports,EDward Gaming,def,defuse
+670465,267802,3,EDward Gaming,FUT Esports,atk,elim
+670465,267802,4,FUT Esports,EDward Gaming,def,defuse
+670465,267802,5,FUT Esports,EDward Gaming,def,elim
+670465,267802,6,FUT Esports,EDward Gaming,def,elim
+670465,267802,7,EDward Gaming,FUT Esports,atk,elim
+670465,267802,8,FUT Esports,EDward Gaming,def,defuse
+670465,267802,9,EDward Gaming,FUT Esports,atk,elim
+670465,267802,10,EDward Gaming,FUT Esports,atk,elim
+670465,267802,11,FUT Esports,EDward Gaming,def,defuse
+670465,267802,12,FUT Esports,EDward Gaming,def,elim
+670465,267802,13,EDward Gaming,FUT Esports,def,elim
+670465,267802,14,EDward Gaming,FUT Esports,def,time
+670465,267802,15,FUT Esports,EDward Gaming,atk,elim
+670465,267802,16,EDward Gaming,FUT Esports,def,elim
+670465,267802,17,EDward Gaming,FUT Esports,def,elim
+670465,267802,18,FUT Esports,EDward Gaming,atk,elim
+670465,267802,19,EDward Gaming,FUT Esports,def,defuse
+670465,267802,20,EDward Gaming,FUT Esports,def,elim
+670465,267802,21,EDward Gaming,FUT Esports,def,elim
+670465,267802,22,EDward Gaming,FUT Esports,def,elim
+670465,267802,23,FUT Esports,EDward Gaming,atk,elim
+670465,267802,24,FUT Esports,EDward Gaming,atk,elim
+670465,267802,25,EDward Gaming,FUT Esports,atk,elim
+670465,267802,26,EDward Gaming,FUT Esports,def,defuse
+670465,267803,1,EDward Gaming,FUT Esports,def,elim
+670465,267803,2,EDward Gaming,FUT Esports,def,elim
+670465,267803,3,EDward Gaming,FUT Esports,def,elim
+670465,267803,4,EDward Gaming,FUT Esports,def,defuse
+670465,267803,5,EDward Gaming,FUT Esports,def,elim
+670465,267803,6,FUT Esports,EDward Gaming,atk,elim
+670465,267803,7,EDward Gaming,FUT Esports,def,elim
+670465,267803,8,EDward Gaming,FUT Esports,def,elim
+670465,267803,9,EDward Gaming,FUT Esports,def,elim
+670465,267803,10,EDward Gaming,FUT Esports,def,elim
+670465,267803,11,FUT Esports,EDward Gaming,atk,elim
+670465,267803,12,FUT Esports,EDward Gaming,atk,elim
+670465,267803,13,FUT Esports,EDward Gaming,def,elim
+670465,267803,14,FUT Esports,EDward Gaming,def,elim
+670465,267803,15,EDward Gaming,FUT Esports,atk,elim
+670465,267803,16,EDward Gaming,FUT Esports,atk,elim
+670465,267803,17,EDward Gaming,FUT Esports,atk,elim
+670465,267803,18,EDward Gaming,FUT Esports,atk,elim
+670466,267804,1,Paper Rex,LEVIATÁN,def,defuse
+670466,267804,2,Paper Rex,LEVIATÁN,def,elim
+670466,267804,3,LEVIATÁN,Paper Rex,atk,elim
+670466,267804,4,Paper Rex,LEVIATÁN,def,defuse
+670466,267804,5,Paper Rex,LEVIATÁN,def,elim
+670466,267804,6,Paper Rex,LEVIATÁN,def,elim
+670466,267804,7,Paper Rex,LEVIATÁN,def,elim
+670466,267804,8,Paper Rex,LEVIATÁN,def,elim
+670466,267804,9,Paper Rex,LEVIATÁN,def,elim
+670466,267804,10,Paper Rex,LEVIATÁN,def,elim
+670466,267804,11,Paper Rex,LEVIATÁN,def,elim
+670466,267804,12,Paper Rex,LEVIATÁN,def,elim
+670466,267804,13,Paper Rex,LEVIATÁN,atk,elim
+670466,267804,14,Paper Rex,LEVIATÁN,atk,elim
+670466,267805,1,LEVIATÁN,Paper Rex,atk,elim
+670466,267805,2,LEVIATÁN,Paper Rex,atk,elim
+670466,267805,3,Paper Rex,LEVIATÁN,def,elim
+670466,267805,4,LEVIATÁN,Paper Rex,atk,elim
+670466,267805,5,Paper Rex,LEVIATÁN,def,elim
+670466,267805,6,Paper Rex,LEVIATÁN,def,defuse
+670466,267805,7,Paper Rex,LEVIATÁN,def,defuse
+670466,267805,8,LEVIATÁN,Paper Rex,atk,boom
+670466,267805,9,LEVIATÁN,Paper Rex,atk,boom
+670466,267805,10,LEVIATÁN,Paper Rex,atk,elim
+670466,267805,11,LEVIATÁN,Paper Rex,atk,elim
+670466,267805,12,Paper Rex,LEVIATÁN,def,defuse
+670466,267805,13,Paper Rex,LEVIATÁN,atk,elim
+670466,267805,14,Paper Rex,LEVIATÁN,atk,elim
+670466,267805,15,LEVIATÁN,Paper Rex,def,defuse
+670466,267805,16,Paper Rex,LEVIATÁN,atk,elim
+670466,267805,17,Paper Rex,LEVIATÁN,atk,elim
+670466,267805,18,Paper Rex,LEVIATÁN,atk,elim
+670466,267805,19,LEVIATÁN,Paper Rex,def,elim
+670466,267805,20,LEVIATÁN,Paper Rex,def,elim
+670466,267805,21,Paper Rex,LEVIATÁN,atk,elim
+670466,267805,22,Paper Rex,LEVIATÁN,atk,elim
+670466,267805,23,Paper Rex,LEVIATÁN,atk,elim
+670467,267807,1,Team Vitality,Team Heretics,atk,elim
+670467,267807,2,Team Vitality,Team Heretics,atk,boom
+670467,267807,3,Team Vitality,Team Heretics,atk,elim
+670467,267807,4,Team Vitality,Team Heretics,atk,boom
+670467,267807,5,Team Heretics,Team Vitality,def,elim
+670467,267807,6,Team Vitality,Team Heretics,atk,boom
+670467,267807,7,Team Heretics,Team Vitality,def,defuse
+670467,267807,8,Team Vitality,Team Heretics,atk,elim
+670467,267807,9,Team Heretics,Team Vitality,def,time
+670467,267807,10,Team Vitality,Team Heretics,atk,elim
+670467,267807,11,Team Vitality,Team Heretics,atk,elim
+670467,267807,12,Team Heretics,Team Vitality,def,elim
+670467,267807,13,Team Vitality,Team Heretics,def,elim
+670467,267807,14,Team Vitality,Team Heretics,def,elim
+670467,267807,15,Team Heretics,Team Vitality,atk,boom
+670467,267807,16,Team Vitality,Team Heretics,def,defuse
+670467,267807,17,Team Vitality,Team Heretics,def,elim
+670467,267807,18,Team Heretics,Team Vitality,atk,elim
+670467,267807,19,Team Vitality,Team Heretics,def,defuse
+670467,267808,1,Team Vitality,Team Heretics,atk,elim
+670467,267808,2,Team Vitality,Team Heretics,atk,elim
+670467,267808,3,Team Vitality,Team Heretics,atk,elim
+670467,267808,4,Team Vitality,Team Heretics,atk,elim
+670467,267808,5,Team Heretics,Team Vitality,def,defuse
+670467,267808,6,Team Heretics,Team Vitality,def,defuse
+670467,267808,7,Team Heretics,Team Vitality,def,elim
+670467,267808,8,Team Vitality,Team Heretics,atk,elim
+670467,267808,9,Team Vitality,Team Heretics,atk,elim
+670467,267808,10,Team Vitality,Team Heretics,atk,elim
+670467,267808,11,Team Vitality,Team Heretics,atk,boom
+670467,267808,12,Team Heretics,Team Vitality,def,defuse
+670467,267808,13,Team Vitality,Team Heretics,def,defuse
+670467,267808,14,Team Vitality,Team Heretics,def,elim
+670467,267808,15,Team Heretics,Team Vitality,atk,boom
+670467,267808,16,Team Heretics,Team Vitality,atk,elim
+670467,267808,17,Team Vitality,Team Heretics,def,elim
+670467,267808,18,Team Heretics,Team Vitality,atk,elim
+670467,267808,19,Team Vitality,Team Heretics,def,elim
+670467,267808,20,Team Vitality,Team Heretics,def,defuse
+670468,267810,1,Xi Lai Gaming,EDward Gaming,def,elim
+670468,267810,2,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267810,3,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267810,4,EDward Gaming,Xi Lai Gaming,atk,boom
+670468,267810,5,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267810,6,EDward Gaming,Xi Lai Gaming,atk,boom
+670468,267810,7,EDward Gaming,Xi Lai Gaming,atk,boom
+670468,267810,8,Xi Lai Gaming,EDward Gaming,def,elim
+670468,267810,9,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267810,10,Xi Lai Gaming,EDward Gaming,def,defuse
+670468,267810,11,Xi Lai Gaming,EDward Gaming,def,elim
+670468,267810,12,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267810,13,Xi Lai Gaming,EDward Gaming,atk,elim
+670468,267810,14,Xi Lai Gaming,EDward Gaming,atk,elim
+670468,267810,15,Xi Lai Gaming,EDward Gaming,atk,elim
+670468,267810,16,Xi Lai Gaming,EDward Gaming,atk,elim
+670468,267810,17,EDward Gaming,Xi Lai Gaming,def,elim
+670468,267810,18,EDward Gaming,Xi Lai Gaming,def,defuse
+670468,267810,19,EDward Gaming,Xi Lai Gaming,def,defuse
+670468,267810,20,Xi Lai Gaming,EDward Gaming,atk,boom
+670468,267810,21,Xi Lai Gaming,EDward Gaming,atk,boom
+670468,267810,22,EDward Gaming,Xi Lai Gaming,def,defuse
+670468,267810,23,EDward Gaming,Xi Lai Gaming,def,elim
+670468,267811,1,Xi Lai Gaming,EDward Gaming,atk,elim
+670468,267811,2,Xi Lai Gaming,EDward Gaming,atk,boom
+670468,267811,3,EDward Gaming,Xi Lai Gaming,def,elim
+670468,267811,4,Xi Lai Gaming,EDward Gaming,atk,boom
+670468,267811,5,EDward Gaming,Xi Lai Gaming,def,defuse
+670468,267811,6,Xi Lai Gaming,EDward Gaming,atk,boom
+670468,267811,7,EDward Gaming,Xi Lai Gaming,def,defuse
+670468,267811,8,EDward Gaming,Xi Lai Gaming,def,defuse
+670468,267811,9,EDward Gaming,Xi Lai Gaming,def,defuse
+670468,267811,10,EDward Gaming,Xi Lai Gaming,def,elim
+670468,267811,11,EDward Gaming,Xi Lai Gaming,def,elim
+670468,267811,12,Xi Lai Gaming,EDward Gaming,atk,elim
+670468,267811,13,Xi Lai Gaming,EDward Gaming,def,defuse
+670468,267811,14,Xi Lai Gaming,EDward Gaming,def,defuse
+670468,267811,15,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267811,16,Xi Lai Gaming,EDward Gaming,def,defuse
+670468,267811,17,Xi Lai Gaming,EDward Gaming,def,time
+670468,267811,18,Xi Lai Gaming,EDward Gaming,def,defuse
+670468,267811,19,Xi Lai Gaming,EDward Gaming,def,elim
+670468,267811,20,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267811,21,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267811,22,Xi Lai Gaming,EDward Gaming,def,defuse
+670468,267811,23,Xi Lai Gaming,EDward Gaming,def,elim
+670468,267812,1,Xi Lai Gaming,EDward Gaming,def,elim
+670468,267812,2,Xi Lai Gaming,EDward Gaming,def,elim
+670468,267812,3,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267812,4,EDward Gaming,Xi Lai Gaming,atk,boom
+670468,267812,5,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267812,6,EDward Gaming,Xi Lai Gaming,atk,boom
+670468,267812,7,EDward Gaming,Xi Lai Gaming,atk,boom
+670468,267812,8,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267812,9,Xi Lai Gaming,EDward Gaming,def,elim
+670468,267812,10,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267812,11,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267812,12,EDward Gaming,Xi Lai Gaming,atk,elim
+670468,267812,13,EDward Gaming,Xi Lai Gaming,def,defuse
+670468,267812,14,EDward Gaming,Xi Lai Gaming,def,elim
+670468,267812,15,EDward Gaming,Xi Lai Gaming,def,elim
+670468,267812,16,EDward Gaming,Xi Lai Gaming,def,elim
+670469,267813,1,Paper Rex,Team Vitality,def,elim
+670469,267813,2,Paper Rex,Team Vitality,def,elim
+670469,267813,3,Team Vitality,Paper Rex,atk,elim
+670469,267813,4,Paper Rex,Team Vitality,def,elim
+670469,267813,5,Paper Rex,Team Vitality,def,defuse
+670469,267813,6,Paper Rex,Team Vitality,def,elim
+670469,267813,7,Paper Rex,Team Vitality,def,defuse
+670469,267813,8,Paper Rex,Team Vitality,def,defuse
+670469,267813,9,Paper Rex,Team Vitality,def,elim
+670469,267813,10,Team Vitality,Paper Rex,atk,elim
+670469,267813,11,Team Vitality,Paper Rex,atk,elim
+670469,267813,12,Paper Rex,Team Vitality,def,defuse
+670469,267813,13,Paper Rex,Team Vitality,atk,elim
+670469,267813,14,Paper Rex,Team Vitality,atk,elim
+670469,267813,15,Paper Rex,Team Vitality,atk,elim
+670469,267813,16,Paper Rex,Team Vitality,atk,elim
+670469,267814,1,Paper Rex,Team Vitality,def,defuse
+670469,267814,2,Paper Rex,Team Vitality,def,elim
+670469,267814,3,Team Vitality,Paper Rex,atk,elim
+670469,267814,4,Team Vitality,Paper Rex,atk,elim
+670469,267814,5,Team Vitality,Paper Rex,atk,elim
+670469,267814,6,Paper Rex,Team Vitality,def,elim
+670469,267814,7,Team Vitality,Paper Rex,atk,boom
+670469,267814,8,Team Vitality,Paper Rex,atk,elim
+670469,267814,9,Team Vitality,Paper Rex,atk,elim
+670469,267814,10,Team Vitality,Paper Rex,atk,boom
+670469,267814,11,Team Vitality,Paper Rex,atk,elim
+670469,267814,12,Paper Rex,Team Vitality,def,defuse
+670469,267814,13,Team Vitality,Paper Rex,def,defuse
+670469,267814,14,Team Vitality,Paper Rex,def,elim
+670469,267814,15,Paper Rex,Team Vitality,atk,elim
+670469,267814,16,Team Vitality,Paper Rex,def,time
+670469,267814,17,Team Vitality,Paper Rex,def,defuse
+670469,267814,18,Paper Rex,Team Vitality,atk,elim
+670469,267814,19,Team Vitality,Paper Rex,def,defuse
+670469,267815,1,Team Vitality,Paper Rex,atk,elim
+670469,267815,2,Team Vitality,Paper Rex,atk,boom
+670469,267815,3,Paper Rex,Team Vitality,def,defuse
+670469,267815,4,Paper Rex,Team Vitality,def,time
+670469,267815,5,Paper Rex,Team Vitality,def,elim
+670469,267815,6,Team Vitality,Paper Rex,atk,boom
+670469,267815,7,Paper Rex,Team Vitality,def,elim
+670469,267815,8,Paper Rex,Team Vitality,def,defuse
+670469,267815,9,Paper Rex,Team Vitality,def,elim
+670469,267815,10,Team Vitality,Paper Rex,atk,boom
+670469,267815,11,Paper Rex,Team Vitality,def,defuse
+670469,267815,12,Paper Rex,Team Vitality,def,elim
+670469,267815,13,Paper Rex,Team Vitality,atk,elim
+670469,267815,14,Team Vitality,Paper Rex,def,defuse
+670469,267815,15,Paper Rex,Team Vitality,atk,elim
+670469,267815,16,Paper Rex,Team Vitality,atk,elim
+670469,267815,17,Paper Rex,Team Vitality,atk,elim
+670469,267815,18,Team Vitality,Paper Rex,def,elim
+670469,267815,19,Paper Rex,Team Vitality,atk,elim
+670470,267816,1,Paper Rex,EDward Gaming,def,elim
+670470,267816,2,Paper Rex,EDward Gaming,def,elim
+670470,267816,3,EDward Gaming,Paper Rex,atk,elim
+670470,267816,4,EDward Gaming,Paper Rex,atk,boom
+670470,267816,5,Paper Rex,EDward Gaming,def,elim
+670470,267816,6,EDward Gaming,Paper Rex,atk,elim
+670470,267816,7,EDward Gaming,Paper Rex,atk,elim
+670470,267816,8,EDward Gaming,Paper Rex,atk,elim
+670470,267816,9,EDward Gaming,Paper Rex,atk,boom
+670470,267816,10,EDward Gaming,Paper Rex,atk,elim
+670470,267816,11,Paper Rex,EDward Gaming,def,defuse
+670470,267816,12,Paper Rex,EDward Gaming,def,elim
+670470,267816,13,Paper Rex,EDward Gaming,atk,elim
+670470,267816,14,Paper Rex,EDward Gaming,atk,elim
+670470,267816,15,EDward Gaming,Paper Rex,def,elim
+670470,267816,16,Paper Rex,EDward Gaming,atk,boom
+670470,267816,17,Paper Rex,EDward Gaming,atk,elim
+670470,267816,18,Paper Rex,EDward Gaming,atk,elim
+670470,267816,19,Paper Rex,EDward Gaming,atk,elim
+670470,267816,20,EDward Gaming,Paper Rex,def,defuse
+670470,267816,21,Paper Rex,EDward Gaming,atk,boom
+670470,267816,22,EDward Gaming,Paper Rex,def,elim
+670470,267816,23,EDward Gaming,Paper Rex,def,defuse
+670470,267816,24,EDward Gaming,Paper Rex,def,elim
+670470,267816,25,Paper Rex,EDward Gaming,def,elim
+670470,267816,26,EDward Gaming,Paper Rex,def,elim
+670470,267816,27,EDward Gaming,Paper Rex,atk,elim
+670470,267816,28,EDward Gaming,Paper Rex,def,defuse
+670470,267817,1,Paper Rex,EDward Gaming,def,defuse
+670470,267817,2,Paper Rex,EDward Gaming,def,elim
+670470,267817,3,EDward Gaming,Paper Rex,atk,elim
+670470,267817,4,Paper Rex,EDward Gaming,def,defuse
+670470,267817,5,Paper Rex,EDward Gaming,def,elim
+670470,267817,6,Paper Rex,EDward Gaming,def,defuse
+670470,267817,7,EDward Gaming,Paper Rex,atk,elim
+670470,267817,8,EDward Gaming,Paper Rex,atk,elim
+670470,267817,9,EDward Gaming,Paper Rex,atk,elim
+670470,267817,10,EDward Gaming,Paper Rex,atk,boom
+670470,267817,11,EDward Gaming,Paper Rex,atk,elim
+670470,267817,12,EDward Gaming,Paper Rex,atk,boom
+670470,267817,13,Paper Rex,EDward Gaming,atk,elim
+670470,267817,14,Paper Rex,EDward Gaming,atk,elim
+670470,267817,15,Paper Rex,EDward Gaming,atk,boom
+670470,267817,16,Paper Rex,EDward Gaming,atk,elim
+670470,267817,17,Paper Rex,EDward Gaming,atk,elim
+670470,267817,18,Paper Rex,EDward Gaming,atk,boom
+670470,267817,19,EDward Gaming,Paper Rex,def,defuse
+670470,267817,20,EDward Gaming,Paper Rex,def,defuse
+670470,267817,21,Paper Rex,EDward Gaming,atk,elim
+670470,267817,22,EDward Gaming,Paper Rex,def,time
+670470,267817,23,EDward Gaming,Paper Rex,def,elim
+670470,267817,24,EDward Gaming,Paper Rex,def,elim
+670470,267817,25,Paper Rex,EDward Gaming,def,elim
+670470,267817,26,Paper Rex,EDward Gaming,atk,elim
+670470,267818,1,Paper Rex,EDward Gaming,def,elim
+670470,267818,2,Paper Rex,EDward Gaming,def,elim
+670470,267818,3,EDward Gaming,Paper Rex,atk,elim
+670470,267818,4,EDward Gaming,Paper Rex,atk,boom
+670470,267818,5,EDward Gaming,Paper Rex,atk,boom
+670470,267818,6,Paper Rex,EDward Gaming,def,defuse
+670470,267818,7,Paper Rex,EDward Gaming,def,defuse
+670470,267818,8,Paper Rex,EDward Gaming,def,defuse
+670470,267818,9,Paper Rex,EDward Gaming,def,time
+670470,267818,10,Paper Rex,EDward Gaming,def,elim
+670470,267818,11,Paper Rex,EDward Gaming,def,defuse
+670470,267818,12,EDward Gaming,Paper Rex,atk,elim
+670470,267818,13,EDward Gaming,Paper Rex,def,elim
+670470,267818,14,EDward Gaming,Paper Rex,def,elim
+670470,267818,15,Paper Rex,EDward Gaming,atk,elim
+670470,267818,16,Paper Rex,EDward Gaming,atk,boom
+670470,267818,17,Paper Rex,EDward Gaming,atk,elim
+670470,267818,18,Paper Rex,EDward Gaming,atk,elim
+670470,267818,19,Paper Rex,EDward Gaming,atk,elim
+670471,267819,1,Paper Rex,LEVIATÁN,def,defuse
+670471,267819,2,Paper Rex,LEVIATÁN,def,elim
+670471,267819,3,Paper Rex,LEVIATÁN,def,defuse
+670471,267819,4,Paper Rex,LEVIATÁN,def,defuse
+670471,267819,5,Paper Rex,LEVIATÁN,def,defuse
+670471,267819,6,Paper Rex,LEVIATÁN,def,elim
+670471,267819,7,LEVIATÁN,Paper Rex,atk,elim
+670471,267819,8,LEVIATÁN,Paper Rex,atk,elim
+670471,267819,9,Paper Rex,LEVIATÁN,def,elim
+670471,267819,10,Paper Rex,LEVIATÁN,def,defuse
+670471,267819,11,Paper Rex,LEVIATÁN,def,elim
+670471,267819,12,Paper Rex,LEVIATÁN,def,elim
+670471,267819,13,Paper Rex,LEVIATÁN,atk,elim
+670471,267819,14,Paper Rex,LEVIATÁN,atk,elim
+670471,267819,15,Paper Rex,LEVIATÁN,atk,elim
+670471,267820,1,Paper Rex,LEVIATÁN,def,elim
+670471,267820,2,Paper Rex,LEVIATÁN,def,elim
+670471,267820,3,LEVIATÁN,Paper Rex,atk,elim
+670471,267820,4,Paper Rex,LEVIATÁN,def,defuse
+670471,267820,5,LEVIATÁN,Paper Rex,atk,elim
+670471,267820,6,LEVIATÁN,Paper Rex,atk,elim
+670471,267820,7,LEVIATÁN,Paper Rex,atk,boom
+670471,267820,8,Paper Rex,LEVIATÁN,def,defuse
+670471,267820,9,LEVIATÁN,Paper Rex,atk,elim
+670471,267820,10,Paper Rex,LEVIATÁN,def,elim
+670471,267820,11,LEVIATÁN,Paper Rex,atk,boom
+670471,267820,12,Paper Rex,LEVIATÁN,def,defuse
+670471,267820,13,LEVIATÁN,Paper Rex,def,elim
+670471,267820,14,LEVIATÁN,Paper Rex,def,elim
+670471,267820,15,LEVIATÁN,Paper Rex,def,elim
+670471,267820,16,LEVIATÁN,Paper Rex,def,defuse
+670471,267820,17,LEVIATÁN,Paper Rex,def,defuse
+670471,267820,18,LEVIATÁN,Paper Rex,def,defuse
+670471,267820,19,LEVIATÁN,Paper Rex,def,defuse
+670471,267821,1,Paper Rex,LEVIATÁN,def,elim
+670471,267821,2,Paper Rex,LEVIATÁN,def,elim
+670471,267821,3,LEVIATÁN,Paper Rex,atk,boom
+670471,267821,4,LEVIATÁN,Paper Rex,atk,boom
+670471,267821,5,LEVIATÁN,Paper Rex,atk,boom
+670471,267821,6,LEVIATÁN,Paper Rex,atk,elim
+670471,267821,7,LEVIATÁN,Paper Rex,atk,boom
+670471,267821,8,Paper Rex,LEVIATÁN,def,elim
+670471,267821,9,LEVIATÁN,Paper Rex,atk,elim
+670471,267821,10,Paper Rex,LEVIATÁN,def,elim
+670471,267821,11,LEVIATÁN,Paper Rex,atk,elim
+670471,267821,12,LEVIATÁN,Paper Rex,atk,elim
+670471,267821,13,Paper Rex,LEVIATÁN,atk,elim
+670471,267821,14,Paper Rex,LEVIATÁN,atk,elim
+670471,267821,15,LEVIATÁN,Paper Rex,def,elim
+670471,267821,16,Paper Rex,LEVIATÁN,atk,elim
+670471,267821,17,Paper Rex,LEVIATÁN,atk,elim
+670471,267821,18,Paper Rex,LEVIATÁN,atk,elim
+670471,267821,19,Paper Rex,LEVIATÁN,atk,elim
+670471,267821,20,Paper Rex,LEVIATÁN,atk,elim
+670471,267821,21,Paper Rex,LEVIATÁN,atk,boom
+670471,267821,22,LEVIATÁN,Paper Rex,def,elim
+670471,267821,23,LEVIATÁN,Paper Rex,def,elim
+670471,267821,24,Paper Rex,LEVIATÁN,atk,elim
+670471,267822,1,LEVIATÁN,Paper Rex,atk,elim
+670471,267822,2,Paper Rex,LEVIATÁN,def,elim
+670471,267822,3,Paper Rex,LEVIATÁN,def,defuse
+670471,267822,4,Paper Rex,LEVIATÁN,def,elim
+670471,267822,5,Paper Rex,LEVIATÁN,def,elim
+670471,267822,6,LEVIATÁN,Paper Rex,atk,elim
+670471,267822,7,LEVIATÁN,Paper Rex,atk,boom
+670471,267822,8,Paper Rex,LEVIATÁN,def,time
+670471,267822,9,LEVIATÁN,Paper Rex,atk,boom
+670471,267822,10,LEVIATÁN,Paper Rex,atk,elim
+670471,267822,11,Paper Rex,LEVIATÁN,def,elim
+670471,267822,12,Paper Rex,LEVIATÁN,def,defuse
+670471,267822,13,Paper Rex,LEVIATÁN,atk,elim
+670471,267822,14,Paper Rex,LEVIATÁN,atk,elim
+670471,267822,15,LEVIATÁN,Paper Rex,def,elim
+670471,267822,16,LEVIATÁN,Paper Rex,def,time
+670471,267822,17,LEVIATÁN,Paper Rex,def,defuse
+670471,267822,18,Paper Rex,LEVIATÁN,atk,elim
+670471,267822,19,LEVIATÁN,Paper Rex,def,defuse
+670471,267822,20,LEVIATÁN,Paper Rex,def,elim
+670471,267822,21,LEVIATÁN,Paper Rex,def,elim
+670471,267822,22,LEVIATÁN,Paper Rex,def,defuse
+670471,267822,23,LEVIATÁN,Paper Rex,def,elim
+670471,267823,1,LEVIATÁN,Paper Rex,atk,elim
+670471,267823,2,LEVIATÁN,Paper Rex,atk,elim
+670471,267823,3,Paper Rex,LEVIATÁN,def,elim
+670471,267823,4,LEVIATÁN,Paper Rex,atk,boom
+670471,267823,5,LEVIATÁN,Paper Rex,atk,elim
+670471,267823,6,LEVIATÁN,Paper Rex,atk,boom
+670471,267823,7,LEVIATÁN,Paper Rex,atk,elim
+670471,267823,8,LEVIATÁN,Paper Rex,atk,elim
+670471,267823,9,LEVIATÁN,Paper Rex,atk,boom
+670471,267823,10,LEVIATÁN,Paper Rex,atk,elim
+670471,267823,11,LEVIATÁN,Paper Rex,atk,elim
+670471,267823,12,LEVIATÁN,Paper Rex,atk,elim
+670471,267823,13,LEVIATÁN,Paper Rex,def,elim
+670471,267823,14,Paper Rex,LEVIATÁN,atk,elim
+670471,267823,15,Paper Rex,LEVIATÁN,atk,boom
+670471,267823,16,Paper Rex,LEVIATÁN,atk,boom
+670471,267823,17,Paper Rex,LEVIATÁN,atk,boom
+670471,267823,18,LEVIATÁN,Paper Rex,def,defuse
+670472,267824,1,FUT Esports,G2 Esports,atk,boom
+670472,267824,2,FUT Esports,G2 Esports,atk,elim
+670472,267824,3,FUT Esports,G2 Esports,atk,elim
+670472,267824,4,FUT Esports,G2 Esports,atk,elim
+670472,267824,5,FUT Esports,G2 Esports,atk,elim
+670472,267824,6,FUT Esports,G2 Esports,atk,boom
+670472,267824,7,G2 Esports,FUT Esports,def,elim
+670472,267824,8,FUT Esports,G2 Esports,atk,elim
+670472,267824,9,FUT Esports,G2 Esports,atk,elim
+670472,267824,10,G2 Esports,FUT Esports,def,defuse
+670472,267824,11,G2 Esports,FUT Esports,def,time
+670472,267824,12,FUT Esports,G2 Esports,atk,elim
+670472,267824,13,G2 Esports,FUT Esports,atk,elim
+670472,267824,14,G2 Esports,FUT Esports,atk,elim
+670472,267824,15,FUT Esports,G2 Esports,def,elim
+670472,267824,16,G2 Esports,FUT Esports,atk,elim
+670472,267824,17,FUT Esports,G2 Esports,def,defuse
+670472,267824,18,FUT Esports,G2 Esports,def,elim
+670472,267824,19,FUT Esports,G2 Esports,def,elim
+670472,267825,1,FUT Esports,G2 Esports,def,elim
+670472,267825,2,FUT Esports,G2 Esports,def,elim
+670472,267825,3,G2 Esports,FUT Esports,atk,elim
+670472,267825,4,G2 Esports,FUT Esports,atk,elim
+670472,267825,5,G2 Esports,FUT Esports,atk,elim
+670472,267825,6,G2 Esports,FUT Esports,atk,elim
+670472,267825,7,FUT Esports,G2 Esports,def,defuse
+670472,267825,8,G2 Esports,FUT Esports,atk,elim
+670472,267825,9,FUT Esports,G2 Esports,def,defuse
+670472,267825,10,G2 Esports,FUT Esports,atk,elim
+670472,267825,11,G2 Esports,FUT Esports,atk,boom
+670472,267825,12,FUT Esports,G2 Esports,def,defuse
+670472,267825,13,FUT Esports,G2 Esports,atk,elim
+670472,267825,14,G2 Esports,FUT Esports,def,defuse
+670472,267825,15,G2 Esports,FUT Esports,def,elim
+670472,267825,16,FUT Esports,G2 Esports,atk,elim
+670472,267825,17,FUT Esports,G2 Esports,atk,elim
+670472,267825,18,FUT Esports,G2 Esports,atk,elim
+670472,267825,19,G2 Esports,FUT Esports,def,time
+670472,267825,20,FUT Esports,G2 Esports,atk,elim
+670472,267825,21,FUT Esports,G2 Esports,atk,elim
+670472,267825,22,G2 Esports,FUT Esports,def,defuse
+670472,267825,23,G2 Esports,FUT Esports,def,elim
+670472,267825,24,FUT Esports,G2 Esports,atk,elim
+670472,267825,25,FUT Esports,G2 Esports,def,defuse
+670472,267825,26,G2 Esports,FUT Esports,def,defuse
+670472,267825,27,FUT Esports,G2 Esports,def,defuse
+670472,267825,28,FUT Esports,G2 Esports,atk,elim
+670473,267827,1,LEVIATÁN,Team Heretics,def,defuse
+670473,267827,2,LEVIATÁN,Team Heretics,def,elim
+670473,267827,3,Team Heretics,LEVIATÁN,atk,boom
+670473,267827,4,LEVIATÁN,Team Heretics,def,elim
+670473,267827,5,Team Heretics,LEVIATÁN,atk,elim
+670473,267827,6,LEVIATÁN,Team Heretics,def,elim
+670473,267827,7,LEVIATÁN,Team Heretics,def,defuse
+670473,267827,8,LEVIATÁN,Team Heretics,def,defuse
+670473,267827,9,LEVIATÁN,Team Heretics,def,defuse
+670473,267827,10,LEVIATÁN,Team Heretics,def,elim
+670473,267827,11,LEVIATÁN,Team Heretics,def,elim
+670473,267827,12,Team Heretics,LEVIATÁN,atk,elim
+670473,267827,13,LEVIATÁN,Team Heretics,atk,elim
+670473,267827,14,LEVIATÁN,Team Heretics,atk,elim
+670473,267827,15,LEVIATÁN,Team Heretics,atk,elim
+670473,267827,16,LEVIATÁN,Team Heretics,atk,elim
+670473,267828,1,Team Heretics,LEVIATÁN,def,elim
+670473,267828,2,Team Heretics,LEVIATÁN,def,elim
+670473,267828,3,LEVIATÁN,Team Heretics,atk,elim
+670473,267828,4,LEVIATÁN,Team Heretics,atk,elim
+670473,267828,5,LEVIATÁN,Team Heretics,atk,elim
+670473,267828,6,Team Heretics,LEVIATÁN,def,time
+670473,267828,7,LEVIATÁN,Team Heretics,atk,boom
+670473,267828,8,LEVIATÁN,Team Heretics,atk,elim
+670473,267828,9,Team Heretics,LEVIATÁN,def,defuse
+670473,267828,10,Team Heretics,LEVIATÁN,def,elim
+670473,267828,11,Team Heretics,LEVIATÁN,def,elim
+670473,267828,12,Team Heretics,LEVIATÁN,def,elim
+670473,267828,13,LEVIATÁN,Team Heretics,def,defuse
+670473,267828,14,LEVIATÁN,Team Heretics,def,defuse
+670473,267828,15,Team Heretics,LEVIATÁN,atk,elim
+670473,267828,16,Team Heretics,LEVIATÁN,atk,elim
+670473,267828,17,LEVIATÁN,Team Heretics,def,defuse
+670473,267828,18,Team Heretics,LEVIATÁN,atk,elim
+670473,267828,19,Team Heretics,LEVIATÁN,atk,elim
+670473,267828,20,Team Heretics,LEVIATÁN,atk,elim
+670473,267828,21,LEVIATÁN,Team Heretics,def,elim
+670473,267828,22,LEVIATÁN,Team Heretics,def,defuse
+670473,267828,23,LEVIATÁN,Team Heretics,def,elim
+670473,267828,24,Team Heretics,LEVIATÁN,atk,elim
+670473,273204,1,LEVIATÁN,Team Heretics,def,defuse
+670473,273204,2,LEVIATÁN,Team Heretics,def,elim
+670473,273204,3,Team Heretics,LEVIATÁN,atk,boom
+670473,273204,4,LEVIATÁN,Team Heretics,def,defuse
+670473,273204,5,LEVIATÁN,Team Heretics,def,elim
+670473,273204,6,Team Heretics,LEVIATÁN,atk,boom
+670473,273204,7,LEVIATÁN,Team Heretics,def,elim
+670473,273204,8,LEVIATÁN,Team Heretics,def,elim
+670473,273204,9,Team Heretics,LEVIATÁN,atk,boom
+670473,273204,10,Team Heretics,LEVIATÁN,atk,elim
+670473,273204,11,LEVIATÁN,Team Heretics,def,defuse
+670473,273204,12,LEVIATÁN,Team Heretics,def,time
+670473,273204,13,LEVIATÁN,Team Heretics,atk,elim
+670473,273204,14,LEVIATÁN,Team Heretics,atk,elim
+670473,273204,15,Team Heretics,LEVIATÁN,def,elim
+670473,273204,16,LEVIATÁN,Team Heretics,atk,elim
+670473,273204,17,LEVIATÁN,Team Heretics,atk,elim
+670473,273204,18,Team Heretics,LEVIATÁN,def,time
+670473,273204,19,LEVIATÁN,Team Heretics,atk,elim
+670474,267830,1,FUT Esports,Team Vitality,def,elim
+670474,267830,2,FUT Esports,Team Vitality,def,elim
+670474,267830,3,Team Vitality,FUT Esports,atk,elim
+670474,267830,4,FUT Esports,Team Vitality,def,time
+670474,267830,5,Team Vitality,FUT Esports,atk,boom
+670474,267830,6,Team Vitality,FUT Esports,atk,elim
+670474,267830,7,Team Vitality,FUT Esports,atk,elim
+670474,267830,8,FUT Esports,Team Vitality,def,elim
+670474,267830,9,FUT Esports,Team Vitality,def,defuse
+670474,267830,10,Team Vitality,FUT Esports,atk,elim
+670474,267830,11,Team Vitality,FUT Esports,atk,elim
+670474,267830,12,Team Vitality,FUT Esports,atk,elim
+670474,267830,13,Team Vitality,FUT Esports,def,defuse
+670474,267830,14,Team Vitality,FUT Esports,def,defuse
+670474,267830,15,FUT Esports,Team Vitality,atk,elim
+670474,267830,16,Team Vitality,FUT Esports,def,defuse
+670474,267830,17,Team Vitality,FUT Esports,def,defuse
+670474,267830,18,FUT Esports,Team Vitality,atk,elim
+670474,267830,19,Team Vitality,FUT Esports,def,defuse
+670474,267830,20,Team Vitality,FUT Esports,def,defuse
+670474,267831,1,Team Vitality,FUT Esports,def,defuse
+670474,267831,2,Team Vitality,FUT Esports,def,elim
+670474,267831,3,Team Vitality,FUT Esports,def,elim
+670474,267831,4,Team Vitality,FUT Esports,def,elim
+670474,267831,5,Team Vitality,FUT Esports,def,time
+670474,267831,6,FUT Esports,Team Vitality,atk,boom
+670474,267831,7,FUT Esports,Team Vitality,atk,elim
+670474,267831,8,Team Vitality,FUT Esports,def,elim
+670474,267831,9,Team Vitality,FUT Esports,def,elim
+670474,267831,10,Team Vitality,FUT Esports,def,elim
+670474,267831,11,Team Vitality,FUT Esports,def,elim
+670474,267831,12,Team Vitality,FUT Esports,def,defuse
+670474,267831,13,Team Vitality,FUT Esports,atk,elim
+670474,267831,14,Team Vitality,FUT Esports,atk,elim
+670474,267831,15,Team Vitality,FUT Esports,atk,elim
+670475,267833,1,Xi Lai Gaming,LEVIATÁN,atk,elim
+670475,267833,2,Xi Lai Gaming,LEVIATÁN,atk,elim
+670475,267833,3,LEVIATÁN,Xi Lai Gaming,def,elim
+670475,267833,4,LEVIATÁN,Xi Lai Gaming,def,defuse
+670475,267833,5,LEVIATÁN,Xi Lai Gaming,def,elim
+670475,267833,6,LEVIATÁN,Xi Lai Gaming,def,defuse
+670475,267833,7,LEVIATÁN,Xi Lai Gaming,def,defuse
+670475,267833,8,Xi Lai Gaming,LEVIATÁN,atk,boom
+670475,267833,9,Xi Lai Gaming,LEVIATÁN,atk,boom
+670475,267833,10,LEVIATÁN,Xi Lai Gaming,def,elim
+670475,267833,11,LEVIATÁN,Xi Lai Gaming,def,defuse
+670475,267833,12,LEVIATÁN,Xi Lai Gaming,def,elim
+670475,267833,13,Xi Lai Gaming,LEVIATÁN,def,elim
+670475,267833,14,Xi Lai Gaming,LEVIATÁN,def,defuse
+670475,267833,15,LEVIATÁN,Xi Lai Gaming,atk,elim
+670475,267833,16,LEVIATÁN,Xi Lai Gaming,atk,boom
+670475,267833,17,LEVIATÁN,Xi Lai Gaming,atk,boom
+670475,267833,18,Xi Lai Gaming,LEVIATÁN,def,time
+670475,267833,19,LEVIATÁN,Xi Lai Gaming,atk,elim
+670475,267833,20,LEVIATÁN,Xi Lai Gaming,atk,elim
+670475,267834,1,LEVIATÁN,Xi Lai Gaming,atk,elim
+670475,267834,2,LEVIATÁN,Xi Lai Gaming,atk,elim
+670475,267834,3,LEVIATÁN,Xi Lai Gaming,atk,elim
+670475,267834,4,LEVIATÁN,Xi Lai Gaming,atk,elim
+670475,267834,5,LEVIATÁN,Xi Lai Gaming,atk,boom
+670475,267834,6,LEVIATÁN,Xi Lai Gaming,atk,elim
+670475,267834,7,LEVIATÁN,Xi Lai Gaming,atk,elim
+670475,267834,8,LEVIATÁN,Xi Lai Gaming,atk,elim
+670475,267834,9,LEVIATÁN,Xi Lai Gaming,atk,elim
+670475,267834,10,LEVIATÁN,Xi Lai Gaming,atk,elim
+670475,267834,11,Xi Lai Gaming,LEVIATÁN,def,defuse
+670475,267834,12,LEVIATÁN,Xi Lai Gaming,atk,elim
+670475,267834,13,LEVIATÁN,Xi Lai Gaming,def,defuse
+670475,267834,14,Xi Lai Gaming,LEVIATÁN,atk,boom
+670475,267834,15,Xi Lai Gaming,LEVIATÁN,atk,boom
+670475,267834,16,LEVIATÁN,Xi Lai Gaming,def,defuse
+670476,267836,1,Team Vitality,LEVIATÁN,def,defuse
+670476,267836,2,Team Vitality,LEVIATÁN,def,defuse
+670476,267836,3,Team Vitality,LEVIATÁN,def,time
+670476,267836,4,LEVIATÁN,Team Vitality,atk,elim
+670476,267836,5,LEVIATÁN,Team Vitality,atk,elim
+670476,267836,6,Team Vitality,LEVIATÁN,def,elim
+670476,267836,7,LEVIATÁN,Team Vitality,atk,elim
+670476,267836,8,LEVIATÁN,Team Vitality,atk,boom
+670476,267836,9,LEVIATÁN,Team Vitality,atk,boom
+670476,267836,10,LEVIATÁN,Team Vitality,atk,boom
+670476,267836,11,LEVIATÁN,Team Vitality,atk,elim
+670476,267836,12,LEVIATÁN,Team Vitality,atk,elim
+670476,267836,13,LEVIATÁN,Team Vitality,def,defuse
+670476,267836,14,LEVIATÁN,Team Vitality,def,defuse
+670476,267836,15,LEVIATÁN,Team Vitality,def,defuse
+670476,267836,16,LEVIATÁN,Team Vitality,def,elim
+670476,267836,17,LEVIATÁN,Team Vitality,def,elim
+670476,267837,1,LEVIATÁN,Team Vitality,def,defuse
+670476,267837,2,LEVIATÁN,Team Vitality,def,elim
+670476,267837,3,LEVIATÁN,Team Vitality,def,time
+670476,267837,4,LEVIATÁN,Team Vitality,def,defuse
+670476,267837,5,LEVIATÁN,Team Vitality,def,elim
+670476,267837,6,LEVIATÁN,Team Vitality,def,defuse
+670476,267837,7,LEVIATÁN,Team Vitality,def,defuse
+670476,267837,8,LEVIATÁN,Team Vitality,def,defuse
+670476,267837,9,Team Vitality,LEVIATÁN,atk,elim
+670476,267837,10,Team Vitality,LEVIATÁN,atk,elim
+670476,267837,11,LEVIATÁN,Team Vitality,def,defuse
+670476,267837,12,Team Vitality,LEVIATÁN,atk,elim
+670476,267837,13,LEVIATÁN,Team Vitality,atk,elim
+670476,267837,14,LEVIATÁN,Team Vitality,atk,elim
+670476,267837,15,Team Vitality,LEVIATÁN,def,defuse
+670476,267837,16,LEVIATÁN,Team Vitality,atk,boom
+670476,267837,17,LEVIATÁN,Team Vitality,atk,elim
+670477,267839,1,LEVIATÁN,EDward Gaming,def,elim
+670477,267839,2,LEVIATÁN,EDward Gaming,def,elim
+670477,267839,3,EDward Gaming,LEVIATÁN,atk,elim
+670477,267839,4,EDward Gaming,LEVIATÁN,atk,boom
+670477,267839,5,LEVIATÁN,EDward Gaming,def,defuse
+670477,267839,6,LEVIATÁN,EDward Gaming,def,defuse
+670477,267839,7,LEVIATÁN,EDward Gaming,def,elim
+670477,267839,8,LEVIATÁN,EDward Gaming,def,defuse
+670477,267839,9,LEVIATÁN,EDward Gaming,def,elim
+670477,267839,10,LEVIATÁN,EDward Gaming,def,defuse
+670477,267839,11,LEVIATÁN,EDward Gaming,def,elim
+670477,267839,12,LEVIATÁN,EDward Gaming,def,defuse
+670477,267839,13,LEVIATÁN,EDward Gaming,atk,elim
+670477,267839,14,LEVIATÁN,EDward Gaming,atk,boom
+670477,267839,15,EDward Gaming,LEVIATÁN,def,defuse
+670477,267839,16,EDward Gaming,LEVIATÁN,def,elim
+670477,267839,17,EDward Gaming,LEVIATÁN,def,elim
+670477,267839,18,LEVIATÁN,EDward Gaming,atk,elim
+670477,267840,1,EDward Gaming,LEVIATÁN,atk,elim
+670477,267840,2,EDward Gaming,LEVIATÁN,atk,elim
+670477,267840,3,LEVIATÁN,EDward Gaming,def,defuse
+670477,267840,4,EDward Gaming,LEVIATÁN,atk,elim
+670477,267840,5,EDward Gaming,LEVIATÁN,atk,elim
+670477,267840,6,EDward Gaming,LEVIATÁN,atk,elim
+670477,267840,7,EDward Gaming,LEVIATÁN,atk,elim
+670477,267840,8,LEVIATÁN,EDward Gaming,def,elim
+670477,267840,9,LEVIATÁN,EDward Gaming,def,defuse
+670477,267840,10,LEVIATÁN,EDward Gaming,def,elim
+670477,267840,11,EDward Gaming,LEVIATÁN,atk,elim
+670477,267840,12,LEVIATÁN,EDward Gaming,def,elim
+670477,267840,13,LEVIATÁN,EDward Gaming,atk,elim
+670477,267840,14,EDward Gaming,LEVIATÁN,def,defuse
+670477,267840,15,LEVIATÁN,EDward Gaming,atk,elim
+670477,267840,16,EDward Gaming,LEVIATÁN,def,elim
+670477,267840,17,LEVIATÁN,EDward Gaming,atk,elim
+670477,267840,18,LEVIATÁN,EDward Gaming,atk,boom
+670477,267840,19,LEVIATÁN,EDward Gaming,atk,elim
+670477,267840,20,LEVIATÁN,EDward Gaming,atk,elim
+670477,267840,21,LEVIATÁN,EDward Gaming,atk,elim
+670477,267840,22,LEVIATÁN,EDward Gaming,atk,elim
+670477,267841,1,LEVIATÁN,EDward Gaming,atk,elim
+670477,267841,2,LEVIATÁN,EDward Gaming,atk,boom
+670477,267841,3,LEVIATÁN,EDward Gaming,atk,elim
+670477,267841,4,EDward Gaming,LEVIATÁN,def,defuse
+670477,267841,5,LEVIATÁN,EDward Gaming,atk,elim
+670477,267841,6,LEVIATÁN,EDward Gaming,atk,elim
+670477,267841,7,LEVIATÁN,EDward Gaming,atk,elim
+670477,267841,8,EDward Gaming,LEVIATÁN,def,elim
+670477,267841,9,EDward Gaming,LEVIATÁN,def,time
+670477,267841,10,EDward Gaming,LEVIATÁN,def,elim
+670477,267841,11,LEVIATÁN,EDward Gaming,atk,boom
+670477,267841,12,EDward Gaming,LEVIATÁN,def,elim
+670477,267841,13,EDward Gaming,LEVIATÁN,atk,elim
+670477,267841,14,EDward Gaming,LEVIATÁN,atk,boom
+670477,267841,15,EDward Gaming,LEVIATÁN,atk,boom
+670477,267841,16,EDward Gaming,LEVIATÁN,atk,elim
+670477,267841,17,EDward Gaming,LEVIATÁN,atk,boom
+670477,267841,18,LEVIATÁN,EDward Gaming,def,elim
+670477,267841,19,EDward Gaming,LEVIATÁN,atk,boom
+670477,267841,20,LEVIATÁN,EDward Gaming,def,time
+670477,267841,21,LEVIATÁN,EDward Gaming,def,time
+670477,267841,22,LEVIATÁN,EDward Gaming,def,elim
+670477,267841,23,LEVIATÁN,EDward Gaming,def,elim
+670477,267841,24,LEVIATÁN,EDward Gaming,def,elim
+684610,270737,1,Team Vitality,Dragon Ranger Gaming,def,defuse
+684610,270737,2,Team Vitality,Dragon Ranger Gaming,def,elim
+684610,270737,3,Team Vitality,Dragon Ranger Gaming,def,elim
+684610,270737,4,Team Vitality,Dragon Ranger Gaming,def,defuse
+684610,270737,5,Dragon Ranger Gaming,Team Vitality,atk,elim
+684610,270737,6,Dragon Ranger Gaming,Team Vitality,atk,elim
+684610,270737,7,Dragon Ranger Gaming,Team Vitality,atk,boom
+684610,270737,8,Team Vitality,Dragon Ranger Gaming,def,elim
+684610,270737,9,Team Vitality,Dragon Ranger Gaming,def,time
+684610,270737,10,Team Vitality,Dragon Ranger Gaming,def,elim
+684610,270737,11,Dragon Ranger Gaming,Team Vitality,atk,elim
+684610,270737,12,Team Vitality,Dragon Ranger Gaming,def,elim
+684610,270737,13,Team Vitality,Dragon Ranger Gaming,atk,elim
+684610,270737,14,Team Vitality,Dragon Ranger Gaming,atk,boom
+684610,270737,15,Team Vitality,Dragon Ranger Gaming,atk,elim
+684610,270737,16,Dragon Ranger Gaming,Team Vitality,def,defuse
+684610,270737,17,Team Vitality,Dragon Ranger Gaming,atk,elim
+684610,270737,18,Team Vitality,Dragon Ranger Gaming,atk,elim
+684610,270738,1,Team Vitality,Dragon Ranger Gaming,atk,elim
+684610,270738,2,Team Vitality,Dragon Ranger Gaming,atk,elim
+684610,270738,3,Team Vitality,Dragon Ranger Gaming,atk,elim
+684610,270738,4,Team Vitality,Dragon Ranger Gaming,atk,elim
+684610,270738,5,Team Vitality,Dragon Ranger Gaming,atk,elim
+684610,270738,6,Team Vitality,Dragon Ranger Gaming,atk,elim
+684610,270738,7,Team Vitality,Dragon Ranger Gaming,atk,boom
+684610,270738,8,Team Vitality,Dragon Ranger Gaming,atk,elim
+684610,270738,9,Team Vitality,Dragon Ranger Gaming,atk,elim
+684610,270738,10,Dragon Ranger Gaming,Team Vitality,def,time
+684610,270738,11,Dragon Ranger Gaming,Team Vitality,def,elim
+684610,270738,12,Dragon Ranger Gaming,Team Vitality,def,elim
+684610,270738,13,Team Vitality,Dragon Ranger Gaming,def,defuse
+684610,270738,14,Team Vitality,Dragon Ranger Gaming,def,defuse
+684610,270738,15,Team Vitality,Dragon Ranger Gaming,def,elim
+684610,270738,16,Team Vitality,Dragon Ranger Gaming,def,elim
+684611,270740,1,FUT Esports,FULL SENSE,def,elim
+684611,270740,2,FUT Esports,FULL SENSE,def,defuse
+684611,270740,3,FULL SENSE,FUT Esports,atk,elim
+684611,270740,4,FULL SENSE,FUT Esports,atk,elim
+684611,270740,5,FUT Esports,FULL SENSE,def,defuse
+684611,270740,6,FULL SENSE,FUT Esports,atk,elim
+684611,270740,7,FUT Esports,FULL SENSE,def,elim
+684611,270740,8,FUT Esports,FULL SENSE,def,elim
+684611,270740,9,FUT Esports,FULL SENSE,def,defuse
+684611,270740,10,FUT Esports,FULL SENSE,def,elim
+684611,270740,11,FUT Esports,FULL SENSE,def,elim
+684611,270740,12,FUT Esports,FULL SENSE,def,defuse
+684611,270740,13,FUT Esports,FULL SENSE,atk,elim
+684611,270740,14,FUT Esports,FULL SENSE,atk,elim
+684611,270740,15,FUT Esports,FULL SENSE,atk,elim
+684611,270740,16,FUT Esports,FULL SENSE,atk,elim
+684611,270741,1,FUT Esports,FULL SENSE,def,elim
+684611,270741,2,FULL SENSE,FUT Esports,atk,elim
+684611,270741,3,FULL SENSE,FUT Esports,atk,elim
+684611,270741,4,FUT Esports,FULL SENSE,def,defuse
+684611,270741,5,FUT Esports,FULL SENSE,def,elim
+684611,270741,6,FUT Esports,FULL SENSE,def,elim
+684611,270741,7,FUT Esports,FULL SENSE,def,defuse
+684611,270741,8,FUT Esports,FULL SENSE,def,elim
+684611,270741,9,FUT Esports,FULL SENSE,def,defuse
+684611,270741,10,FUT Esports,FULL SENSE,def,time
+684611,270741,11,FUT Esports,FULL SENSE,def,elim
+684611,270741,12,FUT Esports,FULL SENSE,def,elim
+684611,270741,13,FULL SENSE,FUT Esports,def,defuse
+684611,270741,14,FULL SENSE,FUT Esports,def,defuse
+684611,270741,15,FUT Esports,FULL SENSE,atk,elim
+684611,270741,16,FULL SENSE,FUT Esports,def,elim
+684611,270741,17,FUT Esports,FULL SENSE,atk,elim
+684611,270741,18,FULL SENSE,FUT Esports,def,defuse
+684611,270741,19,FULL SENSE,FUT Esports,def,elim
+684611,270741,20,FUT Esports,FULL SENSE,atk,elim
+684612,270743,1,Global Esports,LEVIATÁN,atk,elim
+684612,270743,2,Global Esports,LEVIATÁN,atk,elim
+684612,270743,3,Global Esports,LEVIATÁN,atk,boom
+684612,270743,4,Global Esports,LEVIATÁN,atk,elim
+684612,270743,5,Global Esports,LEVIATÁN,atk,boom
+684612,270743,6,Global Esports,LEVIATÁN,atk,elim
+684612,270743,7,Global Esports,LEVIATÁN,atk,boom
+684612,270743,8,LEVIATÁN,Global Esports,def,defuse
+684612,270743,9,LEVIATÁN,Global Esports,def,defuse
+684612,270743,10,Global Esports,LEVIATÁN,atk,elim
+684612,270743,11,Global Esports,LEVIATÁN,atk,boom
+684612,270743,12,LEVIATÁN,Global Esports,def,defuse
+684612,270743,13,Global Esports,LEVIATÁN,def,defuse
+684612,270743,14,Global Esports,LEVIATÁN,def,elim
+684612,270743,15,LEVIATÁN,Global Esports,atk,boom
+684612,270743,16,Global Esports,LEVIATÁN,def,defuse
+684612,270743,17,Global Esports,LEVIATÁN,def,defuse
+684612,270744,1,LEVIATÁN,Global Esports,def,defuse
+684612,270744,2,LEVIATÁN,Global Esports,def,defuse
+684612,270744,3,Global Esports,LEVIATÁN,atk,boom
+684612,270744,4,LEVIATÁN,Global Esports,def,elim
+684612,270744,5,LEVIATÁN,Global Esports,def,defuse
+684612,270744,6,LEVIATÁN,Global Esports,def,time
+684612,270744,7,Global Esports,LEVIATÁN,atk,elim
+684612,270744,8,Global Esports,LEVIATÁN,atk,boom
+684612,270744,9,Global Esports,LEVIATÁN,atk,boom
+684612,270744,10,Global Esports,LEVIATÁN,atk,elim
+684612,270744,11,LEVIATÁN,Global Esports,def,defuse
+684612,270744,12,Global Esports,LEVIATÁN,atk,elim
+684612,270744,13,LEVIATÁN,Global Esports,atk,elim
+684612,270744,14,LEVIATÁN,Global Esports,atk,elim
+684612,270744,15,Global Esports,LEVIATÁN,def,elim
+684612,270744,16,Global Esports,LEVIATÁN,def,elim
+684612,270744,17,LEVIATÁN,Global Esports,atk,elim
+684612,270744,18,LEVIATÁN,Global Esports,atk,elim
+684612,270744,19,Global Esports,LEVIATÁN,def,elim
+684612,270744,20,LEVIATÁN,Global Esports,atk,elim
+684612,270744,21,Global Esports,LEVIATÁN,def,elim
+684612,270744,22,Global Esports,LEVIATÁN,def,elim
+684612,270744,23,LEVIATÁN,Global Esports,atk,elim
+684612,270744,24,LEVIATÁN,Global Esports,atk,elim
+684612,270745,1,LEVIATÁN,Global Esports,def,elim
+684612,270745,2,LEVIATÁN,Global Esports,def,elim
+684612,270745,3,Global Esports,LEVIATÁN,atk,elim
+684612,270745,4,Global Esports,LEVIATÁN,atk,boom
+684612,270745,5,Global Esports,LEVIATÁN,atk,elim
+684612,270745,6,Global Esports,LEVIATÁN,atk,boom
+684612,270745,7,LEVIATÁN,Global Esports,def,elim
+684612,270745,8,Global Esports,LEVIATÁN,atk,elim
+684612,270745,9,Global Esports,LEVIATÁN,atk,elim
+684612,270745,10,Global Esports,LEVIATÁN,atk,elim
+684612,270745,11,LEVIATÁN,Global Esports,def,defuse
+684612,270745,12,Global Esports,LEVIATÁN,atk,elim
+684612,270745,13,LEVIATÁN,Global Esports,atk,elim
+684612,270745,14,LEVIATÁN,Global Esports,atk,boom
+684612,270745,15,LEVIATÁN,Global Esports,atk,boom
+684612,270745,16,LEVIATÁN,Global Esports,atk,boom
+684612,270745,17,LEVIATÁN,Global Esports,atk,boom
+684612,270745,18,LEVIATÁN,Global Esports,atk,elim
+684612,270745,19,Global Esports,LEVIATÁN,def,elim
+684612,270745,20,LEVIATÁN,Global Esports,atk,elim
+684612,270745,21,LEVIATÁN,Global Esports,atk,boom
+684612,270745,22,LEVIATÁN,Global Esports,atk,elim
+684613,270746,1,NRG,Xi Lai Gaming,atk,elim
+684613,270746,2,Xi Lai Gaming,NRG,def,elim
+684613,270746,3,NRG,Xi Lai Gaming,atk,elim
+684613,270746,4,NRG,Xi Lai Gaming,atk,elim
+684613,270746,5,NRG,Xi Lai Gaming,atk,boom
+684613,270746,6,Xi Lai Gaming,NRG,def,defuse
+684613,270746,7,Xi Lai Gaming,NRG,def,defuse
+684613,270746,8,NRG,Xi Lai Gaming,atk,boom
+684613,270746,9,NRG,Xi Lai Gaming,atk,elim
+684613,270746,10,NRG,Xi Lai Gaming,atk,elim
+684613,270746,11,Xi Lai Gaming,NRG,def,elim
+684613,270746,12,Xi Lai Gaming,NRG,def,defuse
+684613,270746,13,NRG,Xi Lai Gaming,def,elim
+684613,270746,14,NRG,Xi Lai Gaming,def,defuse
+684613,270746,15,NRG,Xi Lai Gaming,def,defuse
+684613,270746,16,NRG,Xi Lai Gaming,def,defuse
+684613,270746,17,Xi Lai Gaming,NRG,atk,elim
+684613,270746,18,NRG,Xi Lai Gaming,def,time
+684613,270746,19,NRG,Xi Lai Gaming,def,defuse
+684613,270747,1,Xi Lai Gaming,NRG,def,elim
+684613,270747,2,Xi Lai Gaming,NRG,def,elim
+684613,270747,3,Xi Lai Gaming,NRG,def,time
+684613,270747,4,Xi Lai Gaming,NRG,def,elim
+684613,270747,5,Xi Lai Gaming,NRG,def,elim
+684613,270747,6,Xi Lai Gaming,NRG,def,elim
+684613,270747,7,NRG,Xi Lai Gaming,atk,elim
+684613,270747,8,NRG,Xi Lai Gaming,atk,elim
+684613,270747,9,NRG,Xi Lai Gaming,atk,elim
+684613,270747,10,NRG,Xi Lai Gaming,atk,boom
+684613,270747,11,NRG,Xi Lai Gaming,atk,boom
+684613,270747,12,Xi Lai Gaming,NRG,def,defuse
+684613,270747,13,Xi Lai Gaming,NRG,atk,elim
+684613,270747,14,Xi Lai Gaming,NRG,atk,boom
+684613,270747,15,Xi Lai Gaming,NRG,atk,elim
+684613,270747,16,Xi Lai Gaming,NRG,atk,elim
+684613,270747,17,NRG,Xi Lai Gaming,def,defuse
+684613,270747,18,NRG,Xi Lai Gaming,def,elim
+684613,270747,19,NRG,Xi Lai Gaming,def,elim
+684613,270747,20,NRG,Xi Lai Gaming,def,elim
+684613,270747,21,NRG,Xi Lai Gaming,def,defuse
+684613,270747,22,NRG,Xi Lai Gaming,def,defuse
+684613,270747,23,NRG,Xi Lai Gaming,def,elim
+684613,270747,24,NRG,Xi Lai Gaming,def,defuse
+684614,270749,1,FUT Esports,Team Vitality,def,defuse
+684614,270749,2,Team Vitality,FUT Esports,atk,elim
+684614,270749,3,Team Vitality,FUT Esports,atk,boom
+684614,270749,4,FUT Esports,Team Vitality,def,elim
+684614,270749,5,Team Vitality,FUT Esports,atk,elim
+684614,270749,6,FUT Esports,Team Vitality,def,elim
+684614,270749,7,Team Vitality,FUT Esports,atk,boom
+684614,270749,8,FUT Esports,Team Vitality,def,elim
+684614,270749,9,Team Vitality,FUT Esports,atk,elim
+684614,270749,10,Team Vitality,FUT Esports,atk,elim
+684614,270749,11,FUT Esports,Team Vitality,def,defuse
+684614,270749,12,Team Vitality,FUT Esports,atk,elim
+684614,270749,13,FUT Esports,Team Vitality,atk,elim
+684614,270749,14,FUT Esports,Team Vitality,atk,elim
+684614,270749,15,FUT Esports,Team Vitality,atk,elim
+684614,270749,16,FUT Esports,Team Vitality,atk,elim
+684614,270749,17,FUT Esports,Team Vitality,atk,boom
+684614,270749,18,Team Vitality,FUT Esports,def,defuse
+684614,270749,19,Team Vitality,FUT Esports,def,defuse
+684614,270749,20,Team Vitality,FUT Esports,def,elim
+684614,270749,21,FUT Esports,Team Vitality,atk,elim
+684614,270749,22,Team Vitality,FUT Esports,def,defuse
+684614,270749,23,Team Vitality,FUT Esports,def,elim
+684614,270749,24,Team Vitality,FUT Esports,def,defuse
+684614,270750,1,FUT Esports,Team Vitality,atk,elim
+684614,270750,2,FUT Esports,Team Vitality,atk,elim
+684614,270750,3,FUT Esports,Team Vitality,atk,elim
+684614,270750,4,FUT Esports,Team Vitality,atk,elim
+684614,270750,5,Team Vitality,FUT Esports,def,elim
+684614,270750,6,FUT Esports,Team Vitality,atk,boom
+684614,270750,7,FUT Esports,Team Vitality,atk,elim
+684614,270750,8,FUT Esports,Team Vitality,atk,boom
+684614,270750,9,FUT Esports,Team Vitality,atk,boom
+684614,270750,10,Team Vitality,FUT Esports,def,elim
+684614,270750,11,FUT Esports,Team Vitality,atk,elim
+684614,270750,12,FUT Esports,Team Vitality,atk,elim
+684614,270750,13,Team Vitality,FUT Esports,atk,elim
+684614,270750,14,Team Vitality,FUT Esports,atk,elim
+684614,270750,15,FUT Esports,Team Vitality,def,defuse
+684614,270750,16,FUT Esports,Team Vitality,def,elim
+684614,270750,17,FUT Esports,Team Vitality,def,defuse
+684614,270751,1,FUT Esports,Team Vitality,def,defuse
+684614,270751,2,FUT Esports,Team Vitality,def,elim
+684614,270751,3,FUT Esports,Team Vitality,def,elim
+684614,270751,4,Team Vitality,FUT Esports,atk,elim
+684614,270751,5,Team Vitality,FUT Esports,atk,elim
+684614,270751,6,FUT Esports,Team Vitality,def,defuse
+684614,270751,7,Team Vitality,FUT Esports,atk,elim
+684614,270751,8,Team Vitality,FUT Esports,atk,elim
+684614,270751,9,Team Vitality,FUT Esports,atk,elim
+684614,270751,10,Team Vitality,FUT Esports,atk,elim
+684614,270751,11,Team Vitality,FUT Esports,atk,boom
+684614,270751,12,Team Vitality,FUT Esports,atk,elim
+684614,270751,13,FUT Esports,Team Vitality,atk,elim
+684614,270751,14,FUT Esports,Team Vitality,atk,elim
+684614,270751,15,FUT Esports,Team Vitality,atk,elim
+684614,270751,16,FUT Esports,Team Vitality,atk,elim
+684614,270751,17,Team Vitality,FUT Esports,def,elim
+684614,270751,18,FUT Esports,Team Vitality,atk,elim
+684614,270751,19,Team Vitality,FUT Esports,def,defuse
+684614,270751,20,Team Vitality,FUT Esports,def,defuse
+684614,270751,21,FUT Esports,Team Vitality,atk,boom
+684614,270751,22,Team Vitality,FUT Esports,def,elim
+684614,270751,23,Team Vitality,FUT Esports,def,defuse
+684615,270752,1,LEVIATÁN,NRG,atk,elim
+684615,270752,2,LEVIATÁN,NRG,atk,elim
+684615,270752,3,LEVIATÁN,NRG,atk,elim
+684615,270752,4,LEVIATÁN,NRG,atk,elim
+684615,270752,5,NRG,LEVIATÁN,def,defuse
+684615,270752,6,LEVIATÁN,NRG,atk,elim
+684615,270752,7,NRG,LEVIATÁN,def,elim
+684615,270752,8,NRG,LEVIATÁN,def,time
+684615,270752,9,NRG,LEVIATÁN,def,elim
+684615,270752,10,LEVIATÁN,NRG,atk,elim
+684615,270752,11,LEVIATÁN,NRG,atk,boom
+684615,270752,12,NRG,LEVIATÁN,def,time
+684615,270752,13,LEVIATÁN,NRG,def,elim
+684615,270752,14,LEVIATÁN,NRG,def,elim
+684615,270752,15,NRG,LEVIATÁN,atk,boom
+684615,270752,16,LEVIATÁN,NRG,def,elim
+684615,270752,17,LEVIATÁN,NRG,def,elim
+684615,270752,18,LEVIATÁN,NRG,def,elim
+684615,270752,19,NRG,LEVIATÁN,atk,boom
+684615,270752,20,LEVIATÁN,NRG,def,defuse
+684615,270753,1,NRG,LEVIATÁN,def,defuse
+684615,270753,2,NRG,LEVIATÁN,def,defuse
+684615,270753,3,LEVIATÁN,NRG,atk,elim
+684615,270753,4,LEVIATÁN,NRG,atk,elim
+684615,270753,5,LEVIATÁN,NRG,atk,elim
+684615,270753,6,NRG,LEVIATÁN,def,elim
+684615,270753,7,NRG,LEVIATÁN,def,elim
+684615,270753,8,NRG,LEVIATÁN,def,defuse
+684615,270753,9,LEVIATÁN,NRG,atk,elim
+684615,270753,10,NRG,LEVIATÁN,def,elim
+684615,270753,11,NRG,LEVIATÁN,def,elim
+684615,270753,12,NRG,LEVIATÁN,def,elim
+684615,270753,13,NRG,LEVIATÁN,atk,elim
+684615,270753,14,NRG,LEVIATÁN,atk,elim
+684615,270753,15,LEVIATÁN,NRG,def,defuse
+684615,270753,16,NRG,LEVIATÁN,atk,elim
+684615,270753,17,NRG,LEVIATÁN,atk,elim
+684615,270753,18,NRG,LEVIATÁN,atk,elim
+684615,270754,1,NRG,LEVIATÁN,atk,boom
+684615,270754,2,NRG,LEVIATÁN,atk,elim
+684615,270754,3,LEVIATÁN,NRG,def,time
+684615,270754,4,LEVIATÁN,NRG,def,elim
+684615,270754,5,LEVIATÁN,NRG,def,defuse
+684615,270754,6,LEVIATÁN,NRG,def,elim
+684615,270754,7,NRG,LEVIATÁN,atk,boom
+684615,270754,8,NRG,LEVIATÁN,atk,elim
+684615,270754,9,LEVIATÁN,NRG,def,defuse
+684615,270754,10,LEVIATÁN,NRG,def,defuse
+684615,270754,11,LEVIATÁN,NRG,def,defuse
+684615,270754,12,NRG,LEVIATÁN,atk,elim
+684615,270754,13,LEVIATÁN,NRG,atk,elim
+684615,270754,14,LEVIATÁN,NRG,atk,elim
+684615,270754,15,NRG,LEVIATÁN,def,elim
+684615,270754,16,LEVIATÁN,NRG,atk,elim
+684615,270754,17,LEVIATÁN,NRG,atk,elim
+684615,270754,18,NRG,LEVIATÁN,def,elim
+684615,270754,19,NRG,LEVIATÁN,def,defuse
+684615,270754,20,LEVIATÁN,NRG,atk,elim
+684615,270754,21,LEVIATÁN,NRG,atk,elim
+684616,270755,1,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+684616,270755,2,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270755,3,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270755,4,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+684616,270755,5,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+684616,270755,6,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+684616,270755,7,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+684616,270755,8,Dragon Ranger Gaming,Xi Lai Gaming,def,time
+684616,270755,9,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270755,10,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+684616,270755,11,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+684616,270755,12,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+684616,270755,13,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+684616,270755,14,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+684616,270755,15,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+684616,270755,16,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+684616,270755,17,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+684616,270756,1,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+684616,270756,2,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+684616,270756,3,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+684616,270756,4,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+684616,270756,5,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+684616,270756,6,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+684616,270756,7,Dragon Ranger Gaming,Xi Lai Gaming,atk,boom
+684616,270756,8,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+684616,270756,9,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+684616,270756,10,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+684616,270756,11,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+684616,270756,12,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+684616,270756,13,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+684616,270756,14,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+684616,270756,15,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270756,16,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270756,17,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270756,18,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270756,19,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270756,20,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+684616,270756,21,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+684616,270756,22,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270757,1,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270757,2,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270757,3,Xi Lai Gaming,Dragon Ranger Gaming,atk,boom
+684616,270757,4,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+684616,270757,5,Xi Lai Gaming,Dragon Ranger Gaming,atk,boom
+684616,270757,6,Xi Lai Gaming,Dragon Ranger Gaming,atk,boom
+684616,270757,7,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270757,8,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+684616,270757,9,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+684616,270757,10,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270757,11,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+684616,270757,12,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+684616,270757,13,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+684616,270757,14,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+684616,270757,15,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+684616,270757,16,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+684616,270757,17,Dragon Ranger Gaming,Xi Lai Gaming,atk,boom
+684616,270757,18,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+684616,270757,19,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+684616,270757,20,Dragon Ranger Gaming,Xi Lai Gaming,atk,boom
+684616,270757,21,Dragon Ranger Gaming,Xi Lai Gaming,atk,boom
+684616,270757,22,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+684616,270757,23,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+684616,270757,24,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+684617,270758,1,Global Esports,FULL SENSE,atk,elim
+684617,270758,2,Global Esports,FULL SENSE,atk,boom
+684617,270758,3,Global Esports,FULL SENSE,atk,boom
+684617,270758,4,Global Esports,FULL SENSE,atk,elim
+684617,270758,5,FULL SENSE,Global Esports,def,defuse
+684617,270758,6,FULL SENSE,Global Esports,def,time
+684617,270758,7,FULL SENSE,Global Esports,def,elim
+684617,270758,8,FULL SENSE,Global Esports,def,elim
+684617,270758,9,FULL SENSE,Global Esports,def,defuse
+684617,270758,10,Global Esports,FULL SENSE,atk,elim
+684617,270758,11,FULL SENSE,Global Esports,def,defuse
+684617,270758,12,FULL SENSE,Global Esports,def,defuse
+684617,270758,13,Global Esports,FULL SENSE,def,defuse
+684617,270758,14,Global Esports,FULL SENSE,def,elim
+684617,270758,15,FULL SENSE,Global Esports,atk,elim
+684617,270758,16,FULL SENSE,Global Esports,atk,boom
+684617,270758,17,FULL SENSE,Global Esports,atk,elim
+684617,270758,18,FULL SENSE,Global Esports,atk,boom
+684617,270758,19,FULL SENSE,Global Esports,atk,boom
+684617,270758,20,Global Esports,FULL SENSE,def,defuse
+684617,270758,21,Global Esports,FULL SENSE,def,defuse
+684617,270758,22,FULL SENSE,Global Esports,atk,elim
+684617,270759,1,FULL SENSE,Global Esports,def,defuse
+684617,270759,2,FULL SENSE,Global Esports,def,elim
+684617,270759,3,Global Esports,FULL SENSE,atk,elim
+684617,270759,4,Global Esports,FULL SENSE,atk,boom
+684617,270759,5,Global Esports,FULL SENSE,atk,elim
+684617,270759,6,FULL SENSE,Global Esports,def,defuse
+684617,270759,7,Global Esports,FULL SENSE,atk,boom
+684617,270759,8,FULL SENSE,Global Esports,def,elim
+684617,270759,9,FULL SENSE,Global Esports,def,defuse
+684617,270759,10,Global Esports,FULL SENSE,atk,elim
+684617,270759,11,Global Esports,FULL SENSE,atk,elim
+684617,270759,12,Global Esports,FULL SENSE,atk,elim
+684617,270759,13,Global Esports,FULL SENSE,def,defuse
+684617,270759,14,Global Esports,FULL SENSE,def,defuse
+684617,270759,15,FULL SENSE,Global Esports,atk,boom
+684617,270759,16,FULL SENSE,Global Esports,atk,boom
+684617,270759,17,FULL SENSE,Global Esports,atk,elim
+684617,270759,18,Global Esports,FULL SENSE,def,elim
+684617,270759,19,Global Esports,FULL SENSE,def,elim
+684617,270759,20,Global Esports,FULL SENSE,def,defuse
+684617,270759,21,Global Esports,FULL SENSE,def,elim
+684617,270760,1,Global Esports,FULL SENSE,atk,elim
+684617,270760,2,Global Esports,FULL SENSE,atk,boom
+684617,270760,3,Global Esports,FULL SENSE,atk,elim
+684617,270760,4,Global Esports,FULL SENSE,atk,elim
+684617,270760,5,Global Esports,FULL SENSE,atk,elim
+684617,270760,6,FULL SENSE,Global Esports,def,elim
+684617,270760,7,Global Esports,FULL SENSE,atk,boom
+684617,270760,8,Global Esports,FULL SENSE,atk,elim
+684617,270760,9,Global Esports,FULL SENSE,atk,elim
+684617,270760,10,Global Esports,FULL SENSE,atk,elim
+684617,270760,11,Global Esports,FULL SENSE,atk,elim
+684617,270760,12,FULL SENSE,Global Esports,def,defuse
+684617,270760,13,Global Esports,FULL SENSE,def,defuse
+684617,270760,14,FULL SENSE,Global Esports,atk,boom
+684617,270760,15,FULL SENSE,Global Esports,atk,boom
+684617,270760,16,Global Esports,FULL SENSE,def,defuse
+684617,270760,17,FULL SENSE,Global Esports,atk,elim
+684617,270760,18,FULL SENSE,Global Esports,atk,elim
+684617,270760,19,FULL SENSE,Global Esports,atk,elim
+684617,270760,20,FULL SENSE,Global Esports,atk,elim
+684617,270760,21,Global Esports,FULL SENSE,def,elim
+684618,270761,1,Xi Lai Gaming,Global Esports,atk,elim
+684618,270761,2,Xi Lai Gaming,Global Esports,atk,elim
+684618,270761,3,Global Esports,Xi Lai Gaming,def,defuse
+684618,270761,4,Global Esports,Xi Lai Gaming,def,elim
+684618,270761,5,Global Esports,Xi Lai Gaming,def,elim
+684618,270761,6,Global Esports,Xi Lai Gaming,def,defuse
+684618,270761,7,Global Esports,Xi Lai Gaming,def,defuse
+684618,270761,8,Xi Lai Gaming,Global Esports,atk,elim
+684618,270761,9,Xi Lai Gaming,Global Esports,atk,boom
+684618,270761,10,Xi Lai Gaming,Global Esports,atk,boom
+684618,270761,11,Xi Lai Gaming,Global Esports,atk,elim
+684618,270761,12,Xi Lai Gaming,Global Esports,atk,elim
+684618,270761,13,Global Esports,Xi Lai Gaming,atk,elim
+684618,270761,14,Global Esports,Xi Lai Gaming,atk,elim
+684618,270761,15,Xi Lai Gaming,Global Esports,def,defuse
+684618,270761,16,Global Esports,Xi Lai Gaming,atk,elim
+684618,270761,17,Global Esports,Xi Lai Gaming,atk,elim
+684618,270761,18,Global Esports,Xi Lai Gaming,atk,boom
+684618,270761,19,Global Esports,Xi Lai Gaming,atk,elim
+684618,270761,20,Xi Lai Gaming,Global Esports,def,elim
+684618,270761,21,Global Esports,Xi Lai Gaming,atk,elim
+684618,270761,22,Xi Lai Gaming,Global Esports,def,defuse
+684618,270761,23,Global Esports,Xi Lai Gaming,atk,elim
+684618,270762,1,Xi Lai Gaming,Global Esports,def,defuse
+684618,270762,2,Xi Lai Gaming,Global Esports,def,elim
+684618,270762,3,Global Esports,Xi Lai Gaming,atk,elim
+684618,270762,4,Global Esports,Xi Lai Gaming,atk,elim
+684618,270762,5,Global Esports,Xi Lai Gaming,atk,elim
+684618,270762,6,Global Esports,Xi Lai Gaming,atk,elim
+684618,270762,7,Global Esports,Xi Lai Gaming,atk,elim
+684618,270762,8,Xi Lai Gaming,Global Esports,def,elim
+684618,270762,9,Xi Lai Gaming,Global Esports,def,defuse
+684618,270762,10,Global Esports,Xi Lai Gaming,atk,boom
+684618,270762,11,Xi Lai Gaming,Global Esports,def,defuse
+684618,270762,12,Global Esports,Xi Lai Gaming,atk,elim
+684618,270762,13,Global Esports,Xi Lai Gaming,def,defuse
+684618,270762,14,Global Esports,Xi Lai Gaming,def,elim
+684618,270762,15,Xi Lai Gaming,Global Esports,atk,elim
+684618,270762,16,Xi Lai Gaming,Global Esports,atk,boom
+684618,270762,17,Xi Lai Gaming,Global Esports,atk,boom
+684618,270762,18,Xi Lai Gaming,Global Esports,atk,boom
+684618,270762,19,Xi Lai Gaming,Global Esports,atk,boom
+684618,270762,20,Xi Lai Gaming,Global Esports,atk,elim
+684618,270762,21,Xi Lai Gaming,Global Esports,atk,elim
+684618,270762,22,Xi Lai Gaming,Global Esports,atk,elim
+684618,270763,1,Global Esports,Xi Lai Gaming,def,elim
+684618,270763,2,Global Esports,Xi Lai Gaming,def,elim
+684618,270763,3,Global Esports,Xi Lai Gaming,def,defuse
+684618,270763,4,Xi Lai Gaming,Global Esports,atk,elim
+684618,270763,5,Xi Lai Gaming,Global Esports,atk,elim
+684618,270763,6,Xi Lai Gaming,Global Esports,atk,elim
+684618,270763,7,Global Esports,Xi Lai Gaming,def,defuse
+684618,270763,8,Xi Lai Gaming,Global Esports,atk,elim
+684618,270763,9,Xi Lai Gaming,Global Esports,atk,elim
+684618,270763,10,Xi Lai Gaming,Global Esports,atk,elim
+684618,270763,11,Xi Lai Gaming,Global Esports,atk,elim
+684618,270763,12,Xi Lai Gaming,Global Esports,atk,elim
+684618,270763,13,Global Esports,Xi Lai Gaming,atk,elim
+684618,270763,14,Global Esports,Xi Lai Gaming,atk,elim
+684618,270763,15,Xi Lai Gaming,Global Esports,def,elim
+684618,270763,16,Global Esports,Xi Lai Gaming,atk,elim
+684618,270763,17,Global Esports,Xi Lai Gaming,atk,boom
+684618,270763,18,Global Esports,Xi Lai Gaming,atk,elim
+684618,270763,19,Xi Lai Gaming,Global Esports,def,elim
+684618,270763,20,Global Esports,Xi Lai Gaming,atk,elim
+684618,270763,21,Xi Lai Gaming,Global Esports,def,defuse
+684618,270763,22,Xi Lai Gaming,Global Esports,def,elim
+684618,270763,23,Xi Lai Gaming,Global Esports,def,elim
+684619,270764,1,NRG,FUT Esports,def,elim
+684619,270764,2,NRG,FUT Esports,def,elim
+684619,270764,3,FUT Esports,NRG,atk,elim
+684619,270764,4,FUT Esports,NRG,atk,elim
+684619,270764,5,FUT Esports,NRG,atk,elim
+684619,270764,6,FUT Esports,NRG,atk,boom
+684619,270764,7,FUT Esports,NRG,atk,elim
+684619,270764,8,FUT Esports,NRG,atk,elim
+684619,270764,9,NRG,FUT Esports,def,elim
+684619,270764,10,NRG,FUT Esports,def,elim
+684619,270764,11,NRG,FUT Esports,def,elim
+684619,270764,12,NRG,FUT Esports,def,defuse
+684619,270764,13,FUT Esports,NRG,def,elim
+684619,270764,14,FUT Esports,NRG,def,elim
+684619,270764,15,NRG,FUT Esports,atk,elim
+684619,270764,16,NRG,FUT Esports,atk,boom
+684619,270764,17,NRG,FUT Esports,atk,elim
+684619,270764,18,FUT Esports,NRG,def,defuse
+684619,270764,19,NRG,FUT Esports,atk,elim
+684619,270764,20,NRG,FUT Esports,atk,elim
+684619,270764,21,FUT Esports,NRG,def,elim
+684619,270764,22,FUT Esports,NRG,def,time
+684619,270764,23,NRG,FUT Esports,atk,boom
+684619,270764,24,NRG,FUT Esports,atk,elim
+684619,270765,1,FUT Esports,NRG,atk,elim
+684619,270765,2,FUT Esports,NRG,atk,elim
+684619,270765,3,NRG,FUT Esports,def,defuse
+684619,270765,4,FUT Esports,NRG,atk,boom
+684619,270765,5,NRG,FUT Esports,def,defuse
+684619,270765,6,FUT Esports,NRG,atk,elim
+684619,270765,7,FUT Esports,NRG,atk,elim
+684619,270765,8,NRG,FUT Esports,def,defuse
+684619,270765,9,FUT Esports,NRG,atk,elim
+684619,270765,10,FUT Esports,NRG,atk,elim
+684619,270765,11,NRG,FUT Esports,def,elim
+684619,270765,12,NRG,FUT Esports,def,defuse
+684619,270765,13,NRG,FUT Esports,atk,elim
+684619,270765,14,FUT Esports,NRG,def,defuse
+684619,270765,15,NRG,FUT Esports,atk,elim
+684619,270765,16,NRG,FUT Esports,atk,boom
+684619,270765,17,FUT Esports,NRG,def,elim
+684619,270765,18,NRG,FUT Esports,atk,elim
+684619,270765,19,NRG,FUT Esports,atk,boom
+684619,270765,20,FUT Esports,NRG,def,elim
+684619,270765,21,NRG,FUT Esports,atk,boom
+684619,270765,22,FUT Esports,NRG,def,defuse
+684619,270765,23,NRG,FUT Esports,atk,elim
+684619,270765,24,FUT Esports,NRG,def,elim
+684619,270765,25,FUT Esports,NRG,atk,elim
+684619,270765,26,FUT Esports,NRG,def,elim
+684619,270766,1,FUT Esports,NRG,def,elim
+684619,270766,2,FUT Esports,NRG,def,elim
+684619,270766,3,FUT Esports,NRG,def,elim
+684619,270766,4,FUT Esports,NRG,def,defuse
+684619,270766,5,NRG,FUT Esports,atk,elim
+684619,270766,6,NRG,FUT Esports,atk,boom
+684619,270766,7,NRG,FUT Esports,atk,elim
+684619,270766,8,FUT Esports,NRG,def,elim
+684619,270766,9,NRG,FUT Esports,atk,elim
+684619,270766,10,FUT Esports,NRG,def,defuse
+684619,270766,11,FUT Esports,NRG,def,elim
+684619,270766,12,NRG,FUT Esports,atk,elim
+684619,270766,13,FUT Esports,NRG,atk,elim
+684619,270766,14,FUT Esports,NRG,atk,boom
+684619,270766,15,FUT Esports,NRG,atk,elim
+684619,270766,16,FUT Esports,NRG,atk,elim
+684619,270766,17,FUT Esports,NRG,atk,boom
+684619,270766,18,NRG,FUT Esports,def,defuse
+684619,270766,19,NRG,FUT Esports,def,time
+684619,270766,20,NRG,FUT Esports,def,time
+684619,270766,21,NRG,FUT Esports,def,elim
+684619,270766,22,NRG,FUT Esports,def,time
+684619,270766,23,NRG,FUT Esports,def,defuse
+684619,270766,24,FUT Esports,NRG,atk,elim

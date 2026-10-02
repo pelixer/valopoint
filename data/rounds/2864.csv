@@ -1,0 +1,2532 @@
+match_id,game_id,round,winner,loser,win_side,how
+642914,257925,1,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257925,2,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257925,3,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,defuse
+642914,257925,4,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257925,5,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257925,6,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,defuse
+642914,257925,7,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257925,8,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642914,257925,9,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,defuse
+642914,257925,10,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,elim
+642914,257925,11,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,elim
+642914,257925,12,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257925,13,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642914,257925,14,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642914,257925,15,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257925,16,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642914,257925,17,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,time
+642914,257925,18,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257925,19,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642914,257925,20,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642914,257926,1,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257926,2,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257926,3,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642914,257926,4,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257926,5,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,boom
+642914,257926,6,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642914,257926,7,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257926,8,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,boom
+642914,257926,9,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642914,257926,10,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257926,11,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257926,12,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642914,257926,13,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257926,14,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,elim
+642914,257926,15,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,defuse
+642914,257926,16,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,elim
+642914,257926,17,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,defuse
+642914,257926,18,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257926,19,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642914,257926,20,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257926,21,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,defuse
+642914,257927,1,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,time
+642914,257927,2,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642914,257927,3,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,boom
+642914,257927,4,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257927,5,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257927,6,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642914,257927,7,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257927,8,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,boom
+642914,257927,9,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257927,10,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257927,11,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642914,257927,12,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,atk,elim
+642914,257927,13,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257927,14,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,defuse
+642914,257927,15,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257927,16,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,elim
+642914,257927,17,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257927,18,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257927,19,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,elim
+642914,257927,20,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642914,257927,21,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,time
+642914,257927,22,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257927,23,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257927,24,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642914,257927,25,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642914,257927,26,Wuxi Titan Esports Club (Titan Esports Club),All Gamers,def,defuse
+642914,257927,27,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642914,257927,28,All Gamers,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642915,257928,1,EDward Gaming,Nova Esports,def,elim
+642915,257928,2,EDward Gaming,Nova Esports,def,elim
+642915,257928,3,EDward Gaming,Nova Esports,def,elim
+642915,257928,4,EDward Gaming,Nova Esports,def,elim
+642915,257928,5,EDward Gaming,Nova Esports,def,elim
+642915,257928,6,EDward Gaming,Nova Esports,def,elim
+642915,257928,7,EDward Gaming,Nova Esports,def,elim
+642915,257928,8,EDward Gaming,Nova Esports,def,defuse
+642915,257928,9,EDward Gaming,Nova Esports,def,elim
+642915,257928,10,EDward Gaming,Nova Esports,def,elim
+642915,257928,11,Nova Esports,EDward Gaming,atk,elim
+642915,257928,12,EDward Gaming,Nova Esports,def,defuse
+642915,257928,13,EDward Gaming,Nova Esports,atk,elim
+642915,257928,14,Nova Esports,EDward Gaming,def,defuse
+642915,257928,15,EDward Gaming,Nova Esports,atk,elim
+642915,257929,1,EDward Gaming,Nova Esports,def,defuse
+642915,257929,2,EDward Gaming,Nova Esports,def,defuse
+642915,257929,3,EDward Gaming,Nova Esports,def,elim
+642915,257929,4,EDward Gaming,Nova Esports,def,defuse
+642915,257929,5,EDward Gaming,Nova Esports,def,defuse
+642915,257929,6,Nova Esports,EDward Gaming,atk,elim
+642915,257929,7,EDward Gaming,Nova Esports,def,defuse
+642915,257929,8,EDward Gaming,Nova Esports,def,defuse
+642915,257929,9,EDward Gaming,Nova Esports,def,elim
+642915,257929,10,EDward Gaming,Nova Esports,def,elim
+642915,257929,11,EDward Gaming,Nova Esports,def,elim
+642915,257929,12,EDward Gaming,Nova Esports,def,elim
+642915,257929,13,Nova Esports,EDward Gaming,def,elim
+642915,257929,14,Nova Esports,EDward Gaming,def,defuse
+642915,257929,15,EDward Gaming,Nova Esports,atk,elim
+642915,257929,16,EDward Gaming,Nova Esports,atk,elim
+642916,257931,1,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,elim
+642916,257931,2,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,elim
+642916,257931,3,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,elim
+642916,257931,4,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,defuse
+642916,257931,5,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,elim
+642916,257931,6,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,elim
+642916,257931,7,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,defuse
+642916,257931,8,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,boom
+642916,257931,9,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,elim
+642916,257931,10,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,elim
+642916,257931,11,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,defuse
+642916,257931,12,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,defuse
+642916,257931,13,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,atk,elim
+642916,257931,14,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,atk,elim
+642916,257931,15,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,atk,boom
+642916,257931,16,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,atk,elim
+642916,257931,17,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),def,elim
+642916,257931,18,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),def,elim
+642916,257931,19,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,atk,elim
+642916,257931,20,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,atk,elim
+642916,257931,21,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,atk,elim
+642916,257933,1,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,elim
+642916,257933,2,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,elim
+642916,257933,3,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,boom
+642916,257933,4,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,elim
+642916,257933,5,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,elim
+642916,257933,6,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,time
+642916,257933,7,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,elim
+642916,257933,8,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,defuse
+642916,257933,9,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,elim
+642916,257933,10,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,elim
+642916,257933,11,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,defuse
+642916,257933,12,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,elim
+642916,257933,13,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),def,elim
+642916,257933,14,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),def,defuse
+642916,257933,15,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),def,time
+642916,257933,16,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),def,defuse
+642916,257933,17,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,atk,elim
+642916,257933,18,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,atk,elim
+642916,257933,19,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,atk,elim
+642916,257933,20,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,atk,elim
+642916,260852,1,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,elim
+642916,260852,2,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,boom
+642916,260852,3,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,boom
+642916,260852,4,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,elim
+642916,260852,5,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,defuse
+642916,260852,6,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,defuse
+642916,260852,7,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,elim
+642916,260852,8,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,boom
+642916,260852,9,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,elim
+642916,260852,10,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,defuse
+642916,260852,11,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),atk,boom
+642916,260852,12,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,def,defuse
+642916,260852,13,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),def,defuse
+642916,260852,14,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),def,defuse
+642916,260852,15,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),def,elim
+642916,260852,16,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,atk,elim
+642916,260852,17,JD Mall JDG Esports (JD Gaming),FunPlus Phoenix,atk,elim
+642916,260852,18,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),def,elim
+642916,260852,19,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),def,elim
+642916,260852,20,FunPlus Phoenix,JD Mall JDG Esports (JD Gaming),def,elim
+642917,257934,1,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+642917,257934,2,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257934,3,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257934,4,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+642917,257934,5,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257934,6,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257934,7,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257934,8,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257934,9,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257934,10,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257934,11,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+642917,257934,12,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+642917,257934,13,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+642917,257934,14,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+642917,257934,15,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+642917,257934,16,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+642917,257934,17,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+642917,257935,1,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257935,2,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257935,3,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257935,4,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257935,5,Xi Lai Gaming,Dragon Ranger Gaming,atk,boom
+642917,257935,6,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257935,7,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+642917,257935,8,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257935,9,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+642917,257935,10,Xi Lai Gaming,Dragon Ranger Gaming,atk,boom
+642917,257935,11,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+642917,257935,12,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+642917,257935,13,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+642917,257935,14,Dragon Ranger Gaming,Xi Lai Gaming,atk,boom
+642917,257935,15,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+642917,257935,16,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+642917,257935,17,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+642917,257935,18,Dragon Ranger Gaming,Xi Lai Gaming,atk,boom
+642917,257935,19,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+642917,257935,20,Dragon Ranger Gaming,Xi Lai Gaming,atk,boom
+642917,257935,21,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+642917,257935,22,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+642917,257935,23,Dragon Ranger Gaming,Xi Lai Gaming,atk,boom
+642917,257935,24,Xi Lai Gaming,Dragon Ranger Gaming,def,time
+642918,257937,1,Trace Esports,Wolves Esports,atk,elim
+642918,257937,2,Trace Esports,Wolves Esports,atk,elim
+642918,257937,3,Trace Esports,Wolves Esports,atk,elim
+642918,257937,4,Trace Esports,Wolves Esports,atk,elim
+642918,257937,5,Trace Esports,Wolves Esports,atk,boom
+642918,257937,6,Wolves Esports,Trace Esports,def,defuse
+642918,257937,7,Wolves Esports,Trace Esports,def,time
+642918,257937,8,Trace Esports,Wolves Esports,atk,boom
+642918,257937,9,Wolves Esports,Trace Esports,def,defuse
+642918,257937,10,Wolves Esports,Trace Esports,def,defuse
+642918,257937,11,Wolves Esports,Trace Esports,def,elim
+642918,257937,12,Trace Esports,Wolves Esports,atk,elim
+642918,257937,13,Wolves Esports,Trace Esports,atk,elim
+642918,257937,14,Trace Esports,Wolves Esports,def,defuse
+642918,257937,15,Trace Esports,Wolves Esports,def,defuse
+642918,257937,16,Trace Esports,Wolves Esports,def,defuse
+642918,257937,17,Wolves Esports,Trace Esports,atk,elim
+642918,257937,18,Trace Esports,Wolves Esports,def,elim
+642918,257937,19,Wolves Esports,Trace Esports,atk,boom
+642918,257937,20,Wolves Esports,Trace Esports,atk,elim
+642918,257937,21,Trace Esports,Wolves Esports,def,elim
+642918,257937,22,Trace Esports,Wolves Esports,def,elim
+642918,257938,1,Trace Esports,Wolves Esports,def,defuse
+642918,257938,2,Wolves Esports,Trace Esports,atk,elim
+642918,257938,3,Wolves Esports,Trace Esports,atk,boom
+642918,257938,4,Trace Esports,Wolves Esports,def,elim
+642918,257938,5,Trace Esports,Wolves Esports,def,time
+642918,257938,6,Trace Esports,Wolves Esports,def,defuse
+642918,257938,7,Trace Esports,Wolves Esports,def,elim
+642918,257938,8,Trace Esports,Wolves Esports,def,elim
+642918,257938,9,Trace Esports,Wolves Esports,def,elim
+642918,257938,10,Trace Esports,Wolves Esports,def,elim
+642918,257938,11,Trace Esports,Wolves Esports,def,elim
+642918,257938,12,Wolves Esports,Trace Esports,atk,elim
+642918,257938,13,Wolves Esports,Trace Esports,def,elim
+642918,257938,14,Wolves Esports,Trace Esports,def,defuse
+642918,257938,15,Trace Esports,Wolves Esports,atk,elim
+642918,257938,16,Wolves Esports,Trace Esports,def,time
+642918,257938,17,Trace Esports,Wolves Esports,atk,boom
+642918,257938,18,Wolves Esports,Trace Esports,def,elim
+642918,257938,19,Wolves Esports,Trace Esports,def,defuse
+642918,257938,20,Trace Esports,Wolves Esports,atk,elim
+642918,257938,21,Trace Esports,Wolves Esports,atk,elim
+642919,257940,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257940,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257940,3,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,time
+642919,257940,4,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642919,257940,5,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642919,257940,6,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642919,257940,7,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642919,257940,8,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,time
+642919,257940,9,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642919,257940,10,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257940,11,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,time
+642919,257940,12,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,boom
+642919,257940,13,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,def,elim
+642919,257940,14,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642919,257940,15,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642919,257940,16,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,def,time
+642919,257940,17,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,def,elim
+642919,257940,18,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642919,257940,19,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,boom
+642919,257940,20,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642919,257941,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257941,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257941,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257941,4,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642919,257941,5,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257941,6,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257941,7,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257941,8,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642919,257941,9,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,boom
+642919,257941,10,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257941,11,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257941,12,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642919,257941,13,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,def,elim
+642919,257941,14,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,def,defuse
+642919,257941,15,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,def,elim
+642919,257941,16,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,def,elim
+642919,257942,1,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642919,257942,2,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,boom
+642919,257942,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,def,defuse
+642919,257942,4,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,boom
+642919,257942,5,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,def,defuse
+642919,257942,6,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642919,257942,7,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,boom
+642919,257942,8,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642919,257942,9,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,def,defuse
+642919,257942,10,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642919,257942,11,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642919,257942,12,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,def,elim
+642919,257942,13,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642919,257942,14,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642919,257942,15,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,boom
+642919,257942,16,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257942,17,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257942,18,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642919,257942,19,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642919,257942,20,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),TYLOO,atk,elim
+642919,257942,21,TYLOO,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642920,257943,1,Nova Esports,Dragon Ranger Gaming,def,elim
+642920,257943,2,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257943,3,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257943,4,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257943,5,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257943,6,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257943,7,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257943,8,Nova Esports,Dragon Ranger Gaming,def,defuse
+642920,257943,9,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257943,10,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257943,11,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257943,12,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257943,13,Nova Esports,Dragon Ranger Gaming,atk,elim
+642920,257943,14,Nova Esports,Dragon Ranger Gaming,atk,boom
+642920,257943,15,Nova Esports,Dragon Ranger Gaming,atk,boom
+642920,257943,16,Dragon Ranger Gaming,Nova Esports,def,defuse
+642920,257943,17,Dragon Ranger Gaming,Nova Esports,def,elim
+642920,257943,18,Dragon Ranger Gaming,Nova Esports,def,defuse
+642920,257944,1,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257944,2,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257944,3,Nova Esports,Dragon Ranger Gaming,def,elim
+642920,257944,4,Nova Esports,Dragon Ranger Gaming,def,defuse
+642920,257944,5,Nova Esports,Dragon Ranger Gaming,def,elim
+642920,257944,6,Nova Esports,Dragon Ranger Gaming,def,time
+642920,257944,7,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257944,8,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257944,9,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257944,10,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257944,11,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257944,12,Dragon Ranger Gaming,Nova Esports,atk,elim
+642920,257944,13,Dragon Ranger Gaming,Nova Esports,def,elim
+642920,257944,14,Dragon Ranger Gaming,Nova Esports,def,defuse
+642920,257944,15,Dragon Ranger Gaming,Nova Esports,def,elim
+642920,257944,16,Nova Esports,Dragon Ranger Gaming,atk,elim
+642920,257944,17,Nova Esports,Dragon Ranger Gaming,atk,elim
+642920,257944,18,Dragon Ranger Gaming,Nova Esports,def,defuse
+642920,257944,19,Nova Esports,Dragon Ranger Gaming,atk,elim
+642920,257944,20,Dragon Ranger Gaming,Nova Esports,def,elim
+642921,257946,1,All Gamers,FunPlus Phoenix,def,defuse
+642921,257946,2,All Gamers,FunPlus Phoenix,def,defuse
+642921,257946,3,FunPlus Phoenix,All Gamers,atk,elim
+642921,257946,4,FunPlus Phoenix,All Gamers,atk,boom
+642921,257946,5,FunPlus Phoenix,All Gamers,atk,elim
+642921,257946,6,All Gamers,FunPlus Phoenix,def,time
+642921,257946,7,FunPlus Phoenix,All Gamers,atk,boom
+642921,257946,8,All Gamers,FunPlus Phoenix,def,defuse
+642921,257946,9,FunPlus Phoenix,All Gamers,atk,boom
+642921,257946,10,FunPlus Phoenix,All Gamers,atk,elim
+642921,257946,11,FunPlus Phoenix,All Gamers,atk,elim
+642921,257946,12,All Gamers,FunPlus Phoenix,def,elim
+642921,257946,13,FunPlus Phoenix,All Gamers,def,elim
+642921,257946,14,FunPlus Phoenix,All Gamers,def,elim
+642921,257946,15,FunPlus Phoenix,All Gamers,def,time
+642921,257946,16,FunPlus Phoenix,All Gamers,def,elim
+642921,257946,17,FunPlus Phoenix,All Gamers,def,defuse
+642921,257946,18,FunPlus Phoenix,All Gamers,def,elim
+642921,257947,1,FunPlus Phoenix,All Gamers,def,elim
+642921,257947,2,FunPlus Phoenix,All Gamers,def,elim
+642921,257947,3,FunPlus Phoenix,All Gamers,def,defuse
+642921,257947,4,FunPlus Phoenix,All Gamers,def,defuse
+642921,257947,5,FunPlus Phoenix,All Gamers,def,elim
+642921,257947,6,FunPlus Phoenix,All Gamers,def,elim
+642921,257947,7,FunPlus Phoenix,All Gamers,def,time
+642921,257947,8,All Gamers,FunPlus Phoenix,atk,boom
+642921,257947,9,FunPlus Phoenix,All Gamers,def,elim
+642921,257947,10,FunPlus Phoenix,All Gamers,def,defuse
+642921,257947,11,All Gamers,FunPlus Phoenix,atk,elim
+642921,257947,12,FunPlus Phoenix,All Gamers,def,defuse
+642921,257947,13,FunPlus Phoenix,All Gamers,atk,elim
+642921,257947,14,All Gamers,FunPlus Phoenix,def,time
+642921,257947,15,All Gamers,FunPlus Phoenix,def,defuse
+642921,257947,16,FunPlus Phoenix,All Gamers,atk,elim
+642921,257947,17,All Gamers,FunPlus Phoenix,def,elim
+642921,257947,18,All Gamers,FunPlus Phoenix,def,elim
+642921,257947,19,FunPlus Phoenix,All Gamers,atk,elim
+642922,257949,1,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642922,257949,2,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642922,257949,3,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+642922,257949,4,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+642922,257949,5,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+642922,257949,6,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642922,257949,7,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642922,257949,8,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+642922,257949,9,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642922,257949,10,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642922,257949,11,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642922,257949,12,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642922,257949,13,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+642922,257949,14,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,boom
+642922,257949,15,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642922,257949,16,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642922,257949,17,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642922,257949,18,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,boom
+642922,257949,19,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+642922,257949,20,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642922,257949,21,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+642922,257949,22,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+642922,257949,23,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+642922,257949,24,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+642922,257949,25,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642922,257949,26,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+642922,257949,27,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642922,257949,28,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642922,257950,1,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+642922,257950,2,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+642922,257950,3,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642922,257950,4,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642922,257950,5,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642922,257950,6,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,defuse
+642922,257950,7,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642922,257950,8,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642922,257950,9,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642922,257950,10,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642922,257950,11,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642922,257950,12,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642922,257950,13,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+642922,257950,14,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+642922,257950,15,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642922,257950,16,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642922,257950,17,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642922,257950,18,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642923,257952,1,EDward Gaming,Wolves Esports,def,elim
+642923,257952,2,EDward Gaming,Wolves Esports,def,elim
+642923,257952,3,Wolves Esports,EDward Gaming,atk,elim
+642923,257952,4,EDward Gaming,Wolves Esports,def,elim
+642923,257952,5,EDward Gaming,Wolves Esports,def,elim
+642923,257952,6,EDward Gaming,Wolves Esports,def,elim
+642923,257952,7,Wolves Esports,EDward Gaming,atk,elim
+642923,257952,8,EDward Gaming,Wolves Esports,def,defuse
+642923,257952,9,EDward Gaming,Wolves Esports,def,defuse
+642923,257952,10,EDward Gaming,Wolves Esports,def,elim
+642923,257952,11,EDward Gaming,Wolves Esports,def,defuse
+642923,257952,12,EDward Gaming,Wolves Esports,def,elim
+642923,257952,13,Wolves Esports,EDward Gaming,def,defuse
+642923,257952,14,Wolves Esports,EDward Gaming,def,elim
+642923,257952,15,Wolves Esports,EDward Gaming,def,defuse
+642923,257952,16,Wolves Esports,EDward Gaming,def,elim
+642923,257952,17,EDward Gaming,Wolves Esports,atk,elim
+642923,257952,18,Wolves Esports,EDward Gaming,def,elim
+642923,257952,19,Wolves Esports,EDward Gaming,def,elim
+642923,257952,20,Wolves Esports,EDward Gaming,def,elim
+642923,257952,21,EDward Gaming,Wolves Esports,atk,elim
+642923,257952,22,EDward Gaming,Wolves Esports,atk,elim
+642923,257953,1,Wolves Esports,EDward Gaming,def,elim
+642923,257953,2,Wolves Esports,EDward Gaming,def,defuse
+642923,257953,3,EDward Gaming,Wolves Esports,atk,elim
+642923,257953,4,Wolves Esports,EDward Gaming,def,defuse
+642923,257953,5,EDward Gaming,Wolves Esports,atk,elim
+642923,257953,6,EDward Gaming,Wolves Esports,atk,elim
+642923,257953,7,EDward Gaming,Wolves Esports,atk,elim
+642923,257953,8,EDward Gaming,Wolves Esports,atk,elim
+642923,257953,9,EDward Gaming,Wolves Esports,atk,elim
+642923,257953,10,EDward Gaming,Wolves Esports,atk,elim
+642923,257953,11,Wolves Esports,EDward Gaming,def,elim
+642923,257953,12,Wolves Esports,EDward Gaming,def,defuse
+642923,257953,13,Wolves Esports,EDward Gaming,atk,elim
+642923,257953,14,Wolves Esports,EDward Gaming,atk,elim
+642923,257953,15,Wolves Esports,EDward Gaming,atk,boom
+642923,257953,16,EDward Gaming,Wolves Esports,def,elim
+642923,257953,17,EDward Gaming,Wolves Esports,def,defuse
+642923,257953,18,EDward Gaming,Wolves Esports,def,elim
+642923,257953,19,Wolves Esports,EDward Gaming,atk,boom
+642923,257953,20,EDward Gaming,Wolves Esports,def,elim
+642923,257953,21,Wolves Esports,EDward Gaming,atk,boom
+642923,257953,22,EDward Gaming,Wolves Esports,def,elim
+642923,257953,23,EDward Gaming,Wolves Esports,def,elim
+642924,257955,1,Xi Lai Gaming,Trace Esports,def,defuse
+642924,257955,2,Xi Lai Gaming,Trace Esports,def,defuse
+642924,257955,3,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257955,4,Xi Lai Gaming,Trace Esports,def,elim
+642924,257955,5,Xi Lai Gaming,Trace Esports,def,elim
+642924,257955,6,Xi Lai Gaming,Trace Esports,def,defuse
+642924,257955,7,Xi Lai Gaming,Trace Esports,def,elim
+642924,257955,8,Xi Lai Gaming,Trace Esports,def,elim
+642924,257955,9,Trace Esports,Xi Lai Gaming,atk,boom
+642924,257955,10,Xi Lai Gaming,Trace Esports,def,elim
+642924,257955,11,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257955,12,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257955,13,Trace Esports,Xi Lai Gaming,def,defuse
+642924,257955,14,Trace Esports,Xi Lai Gaming,def,elim
+642924,257955,15,Trace Esports,Xi Lai Gaming,def,defuse
+642924,257955,16,Trace Esports,Xi Lai Gaming,def,elim
+642924,257955,17,Xi Lai Gaming,Trace Esports,atk,elim
+642924,257955,18,Trace Esports,Xi Lai Gaming,def,elim
+642924,257955,19,Trace Esports,Xi Lai Gaming,def,defuse
+642924,257955,20,Trace Esports,Xi Lai Gaming,def,elim
+642924,257955,21,Trace Esports,Xi Lai Gaming,def,time
+642924,257955,22,Trace Esports,Xi Lai Gaming,def,elim
+642924,257956,1,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257956,2,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257956,3,Xi Lai Gaming,Trace Esports,def,elim
+642924,257956,4,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257956,5,Xi Lai Gaming,Trace Esports,def,elim
+642924,257956,6,Xi Lai Gaming,Trace Esports,def,time
+642924,257956,7,Xi Lai Gaming,Trace Esports,def,elim
+642924,257956,8,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257956,9,Xi Lai Gaming,Trace Esports,def,defuse
+642924,257956,10,Xi Lai Gaming,Trace Esports,def,elim
+642924,257956,11,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257956,12,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257956,13,Trace Esports,Xi Lai Gaming,def,defuse
+642924,257956,14,Xi Lai Gaming,Trace Esports,atk,elim
+642924,257956,15,Xi Lai Gaming,Trace Esports,atk,elim
+642924,257956,16,Xi Lai Gaming,Trace Esports,atk,boom
+642924,257956,17,Xi Lai Gaming,Trace Esports,atk,boom
+642924,257956,18,Xi Lai Gaming,Trace Esports,atk,elim
+642924,257956,19,Xi Lai Gaming,Trace Esports,atk,elim
+642924,257956,20,Xi Lai Gaming,Trace Esports,atk,elim
+642924,257957,1,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257957,2,Trace Esports,Xi Lai Gaming,atk,boom
+642924,257957,3,Xi Lai Gaming,Trace Esports,def,defuse
+642924,257957,4,Trace Esports,Xi Lai Gaming,atk,boom
+642924,257957,5,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257957,6,Xi Lai Gaming,Trace Esports,def,defuse
+642924,257957,7,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257957,8,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257957,9,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257957,10,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257957,11,Xi Lai Gaming,Trace Esports,def,defuse
+642924,257957,12,Trace Esports,Xi Lai Gaming,atk,elim
+642924,257957,13,Xi Lai Gaming,Trace Esports,atk,elim
+642924,257957,14,Xi Lai Gaming,Trace Esports,atk,elim
+642924,257957,15,Xi Lai Gaming,Trace Esports,atk,elim
+642924,257957,16,Xi Lai Gaming,Trace Esports,atk,boom
+642924,257957,17,Xi Lai Gaming,Trace Esports,atk,boom
+642924,257957,18,Xi Lai Gaming,Trace Esports,atk,elim
+642924,257957,19,Xi Lai Gaming,Trace Esports,atk,boom
+642924,257957,20,Xi Lai Gaming,Trace Esports,atk,elim
+642924,257957,21,Xi Lai Gaming,Trace Esports,atk,elim
+642924,257957,22,Trace Esports,Xi Lai Gaming,def,elim
+642924,257957,23,Xi Lai Gaming,Trace Esports,atk,elim
+642925,257958,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),atk,elim
+642925,257958,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),atk,elim
+642925,257958,3,JD Mall JDG Esports (JD Gaming),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642925,257958,4,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),atk,elim
+642925,257958,5,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),atk,elim
+642925,257958,6,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),atk,elim
+642925,257958,7,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),atk,elim
+642925,257958,8,JD Mall JDG Esports (JD Gaming),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642925,257958,9,JD Mall JDG Esports (JD Gaming),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642925,257958,10,JD Mall JDG Esports (JD Gaming),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642925,257958,11,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),atk,elim
+642925,257958,12,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),atk,elim
+642925,257958,13,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),def,defuse
+642925,257958,14,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),def,defuse
+642925,257958,15,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),def,defuse
+642925,257958,16,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),def,elim
+642925,257958,17,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),def,defuse
+642925,257959,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),def,defuse
+642925,257959,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),def,elim
+642925,257959,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),def,defuse
+642925,257959,4,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),def,elim
+642925,257959,5,JD Mall JDG Esports (JD Gaming),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642925,257959,6,JD Mall JDG Esports (JD Gaming),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642925,257959,7,JD Mall JDG Esports (JD Gaming),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642925,257959,8,JD Mall JDG Esports (JD Gaming),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642925,257959,9,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),def,elim
+642925,257959,10,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),def,elim
+642925,257959,11,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),def,defuse
+642925,257959,12,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),def,elim
+642925,257959,13,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),atk,elim
+642925,257959,14,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),atk,elim
+642925,257959,15,JD Mall JDG Esports (JD Gaming),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642925,257959,16,JD Mall JDG Esports (JD Gaming),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642925,257959,17,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),atk,elim
+642925,257959,18,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),atk,elim
+642925,257959,19,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),JD Mall JDG Esports (JD Gaming),atk,elim
+642927,257961,1,FunPlus Phoenix,TYLOO,atk,elim
+642927,257961,2,FunPlus Phoenix,TYLOO,atk,elim
+642927,257961,3,TYLOO,FunPlus Phoenix,def,defuse
+642927,257961,4,FunPlus Phoenix,TYLOO,atk,elim
+642927,257961,5,TYLOO,FunPlus Phoenix,def,defuse
+642927,257961,6,TYLOO,FunPlus Phoenix,def,elim
+642927,257961,7,TYLOO,FunPlus Phoenix,def,defuse
+642927,257961,8,TYLOO,FunPlus Phoenix,def,defuse
+642927,257961,9,TYLOO,FunPlus Phoenix,def,defuse
+642927,257961,10,TYLOO,FunPlus Phoenix,def,defuse
+642927,257961,11,FunPlus Phoenix,TYLOO,atk,elim
+642927,257961,12,TYLOO,FunPlus Phoenix,def,elim
+642927,257961,13,TYLOO,FunPlus Phoenix,atk,elim
+642927,257961,14,TYLOO,FunPlus Phoenix,atk,elim
+642927,257961,15,FunPlus Phoenix,TYLOO,def,defuse
+642927,257961,16,TYLOO,FunPlus Phoenix,atk,boom
+642927,257961,17,TYLOO,FunPlus Phoenix,atk,elim
+642927,257961,18,TYLOO,FunPlus Phoenix,atk,elim
+642927,257963,1,FunPlus Phoenix,TYLOO,def,elim
+642927,257963,2,FunPlus Phoenix,TYLOO,def,elim
+642927,257963,3,TYLOO,FunPlus Phoenix,atk,elim
+642927,257963,4,TYLOO,FunPlus Phoenix,atk,elim
+642927,257963,5,TYLOO,FunPlus Phoenix,atk,elim
+642927,257963,6,TYLOO,FunPlus Phoenix,atk,elim
+642927,257963,7,TYLOO,FunPlus Phoenix,atk,elim
+642927,257963,8,FunPlus Phoenix,TYLOO,def,defuse
+642927,257963,9,FunPlus Phoenix,TYLOO,def,elim
+642927,257963,10,TYLOO,FunPlus Phoenix,atk,elim
+642927,257963,11,FunPlus Phoenix,TYLOO,def,defuse
+642927,257963,12,FunPlus Phoenix,TYLOO,def,elim
+642927,257963,13,FunPlus Phoenix,TYLOO,atk,elim
+642927,257963,14,FunPlus Phoenix,TYLOO,atk,elim
+642927,257963,15,TYLOO,FunPlus Phoenix,def,elim
+642927,257963,16,TYLOO,FunPlus Phoenix,def,defuse
+642927,257963,17,FunPlus Phoenix,TYLOO,atk,elim
+642927,257963,18,TYLOO,FunPlus Phoenix,def,elim
+642927,257963,19,FunPlus Phoenix,TYLOO,atk,elim
+642927,257963,20,FunPlus Phoenix,TYLOO,atk,elim
+642927,257963,21,TYLOO,FunPlus Phoenix,def,elim
+642927,257963,22,FunPlus Phoenix,TYLOO,atk,elim
+642927,257963,23,TYLOO,FunPlus Phoenix,def,elim
+642927,257963,24,TYLOO,FunPlus Phoenix,def,defuse
+642927,257963,25,FunPlus Phoenix,TYLOO,def,elim
+642927,257963,26,FunPlus Phoenix,TYLOO,atk,elim
+642927,262074,1,FunPlus Phoenix,TYLOO,atk,elim
+642927,262074,2,TYLOO,FunPlus Phoenix,def,elim
+642927,262074,3,TYLOO,FunPlus Phoenix,def,elim
+642927,262074,4,TYLOO,FunPlus Phoenix,def,defuse
+642927,262074,5,FunPlus Phoenix,TYLOO,atk,elim
+642927,262074,6,FunPlus Phoenix,TYLOO,atk,boom
+642927,262074,7,TYLOO,FunPlus Phoenix,def,defuse
+642927,262074,8,FunPlus Phoenix,TYLOO,atk,elim
+642927,262074,9,FunPlus Phoenix,TYLOO,atk,boom
+642927,262074,10,FunPlus Phoenix,TYLOO,atk,elim
+642927,262074,11,TYLOO,FunPlus Phoenix,def,defuse
+642927,262074,12,FunPlus Phoenix,TYLOO,atk,elim
+642927,262074,13,FunPlus Phoenix,TYLOO,def,defuse
+642927,262074,14,FunPlus Phoenix,TYLOO,def,elim
+642927,262074,15,TYLOO,FunPlus Phoenix,atk,elim
+642927,262074,16,FunPlus Phoenix,TYLOO,def,elim
+642927,262074,17,FunPlus Phoenix,TYLOO,def,defuse
+642927,262074,18,TYLOO,FunPlus Phoenix,atk,boom
+642927,262074,19,FunPlus Phoenix,TYLOO,def,elim
+642927,262074,20,TYLOO,FunPlus Phoenix,atk,boom
+642927,262074,21,TYLOO,FunPlus Phoenix,atk,elim
+642927,262074,22,TYLOO,FunPlus Phoenix,atk,elim
+642927,262074,23,TYLOO,FunPlus Phoenix,atk,elim
+642927,262074,24,FunPlus Phoenix,TYLOO,def,defuse
+642928,257964,1,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257964,2,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257964,3,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257964,4,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257964,5,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257964,6,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257964,7,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642928,257964,8,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257964,9,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257964,10,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257964,11,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642928,257964,12,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642928,257964,13,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642928,257964,14,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642928,257964,15,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642928,257964,16,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642928,257964,17,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642928,257964,18,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642928,257964,19,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642928,257964,20,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642928,257964,21,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642928,257964,22,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642928,257964,23,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642928,257965,1,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642928,257965,2,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642928,257965,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642928,257965,4,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642928,257965,5,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642928,257965,6,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642928,257965,7,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642928,257965,8,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,time
+642928,257965,9,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642928,257965,10,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642928,257965,11,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642928,257965,12,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642928,257965,13,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257965,14,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257965,15,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642928,257965,16,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257965,17,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642928,257965,18,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642928,257965,19,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642928,257965,20,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,time
+642928,257965,21,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,time
+642928,257965,22,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642928,257965,23,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257965,24,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257965,25,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642928,257965,26,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642928,257965,27,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642928,257965,28,Wuxi Titan Esports Club (Titan Esports Club),Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642929,257967,1,Xi Lai Gaming,Nova Esports,atk,elim
+642929,257967,2,Xi Lai Gaming,Nova Esports,atk,boom
+642929,257967,3,Xi Lai Gaming,Nova Esports,atk,elim
+642929,257967,4,Xi Lai Gaming,Nova Esports,atk,elim
+642929,257967,5,Nova Esports,Xi Lai Gaming,def,defuse
+642929,257967,6,Nova Esports,Xi Lai Gaming,def,defuse
+642929,257967,7,Xi Lai Gaming,Nova Esports,atk,boom
+642929,257967,8,Nova Esports,Xi Lai Gaming,def,defuse
+642929,257967,9,Xi Lai Gaming,Nova Esports,atk,elim
+642929,257967,10,Xi Lai Gaming,Nova Esports,atk,boom
+642929,257967,11,Xi Lai Gaming,Nova Esports,atk,elim
+642929,257967,12,Nova Esports,Xi Lai Gaming,def,defuse
+642929,257967,13,Xi Lai Gaming,Nova Esports,def,elim
+642929,257967,14,Xi Lai Gaming,Nova Esports,def,elim
+642929,257967,15,Xi Lai Gaming,Nova Esports,def,elim
+642929,257967,16,Xi Lai Gaming,Nova Esports,def,elim
+642929,257967,17,Nova Esports,Xi Lai Gaming,atk,elim
+642929,257967,18,Nova Esports,Xi Lai Gaming,atk,elim
+642929,257967,19,Nova Esports,Xi Lai Gaming,atk,elim
+642929,257967,20,Nova Esports,Xi Lai Gaming,atk,elim
+642929,257967,21,Xi Lai Gaming,Nova Esports,def,elim
+642929,257968,1,Xi Lai Gaming,Nova Esports,def,elim
+642929,257968,2,Xi Lai Gaming,Nova Esports,def,elim
+642929,257968,3,Xi Lai Gaming,Nova Esports,def,time
+642929,257968,4,Xi Lai Gaming,Nova Esports,def,elim
+642929,257968,5,Nova Esports,Xi Lai Gaming,atk,elim
+642929,257968,6,Xi Lai Gaming,Nova Esports,def,elim
+642929,257968,7,Xi Lai Gaming,Nova Esports,def,elim
+642929,257968,8,Nova Esports,Xi Lai Gaming,atk,elim
+642929,257968,9,Nova Esports,Xi Lai Gaming,atk,boom
+642929,257968,10,Nova Esports,Xi Lai Gaming,atk,boom
+642929,257968,11,Xi Lai Gaming,Nova Esports,def,defuse
+642929,257968,12,Xi Lai Gaming,Nova Esports,def,elim
+642929,257968,13,Nova Esports,Xi Lai Gaming,def,defuse
+642929,257968,14,Nova Esports,Xi Lai Gaming,def,elim
+642929,257968,15,Nova Esports,Xi Lai Gaming,def,elim
+642929,257968,16,Nova Esports,Xi Lai Gaming,def,defuse
+642929,257968,17,Xi Lai Gaming,Nova Esports,atk,elim
+642929,257968,18,Xi Lai Gaming,Nova Esports,atk,boom
+642929,257968,19,Nova Esports,Xi Lai Gaming,def,elim
+642929,257968,20,Xi Lai Gaming,Nova Esports,atk,elim
+642929,257968,21,Nova Esports,Xi Lai Gaming,def,elim
+642929,257968,22,Nova Esports,Xi Lai Gaming,def,elim
+642929,257968,23,Xi Lai Gaming,Nova Esports,atk,elim
+642929,257968,24,Xi Lai Gaming,Nova Esports,atk,elim
+642930,257970,1,EDward Gaming,Trace Esports,atk,elim
+642930,257970,2,EDward Gaming,Trace Esports,atk,elim
+642930,257970,3,EDward Gaming,Trace Esports,atk,boom
+642930,257970,4,EDward Gaming,Trace Esports,atk,elim
+642930,257970,5,EDward Gaming,Trace Esports,atk,elim
+642930,257970,6,Trace Esports,EDward Gaming,def,elim
+642930,257970,7,EDward Gaming,Trace Esports,atk,elim
+642930,257970,8,Trace Esports,EDward Gaming,def,elim
+642930,257970,9,EDward Gaming,Trace Esports,atk,elim
+642930,257970,10,EDward Gaming,Trace Esports,atk,elim
+642930,257970,11,Trace Esports,EDward Gaming,def,defuse
+642930,257970,12,Trace Esports,EDward Gaming,def,defuse
+642930,257970,13,EDward Gaming,Trace Esports,def,defuse
+642930,257970,14,EDward Gaming,Trace Esports,def,defuse
+642930,257970,15,EDward Gaming,Trace Esports,def,elim
+642930,257970,16,EDward Gaming,Trace Esports,def,elim
+642930,257970,17,EDward Gaming,Trace Esports,def,elim
+642930,257971,1,Trace Esports,EDward Gaming,atk,elim
+642930,257971,2,Trace Esports,EDward Gaming,atk,elim
+642930,257971,3,EDward Gaming,Trace Esports,def,elim
+642930,257971,4,EDward Gaming,Trace Esports,def,elim
+642930,257971,5,EDward Gaming,Trace Esports,def,elim
+642930,257971,6,Trace Esports,EDward Gaming,atk,elim
+642930,257971,7,Trace Esports,EDward Gaming,atk,boom
+642930,257971,8,EDward Gaming,Trace Esports,def,defuse
+642930,257971,9,Trace Esports,EDward Gaming,atk,boom
+642930,257971,10,Trace Esports,EDward Gaming,atk,elim
+642930,257971,11,Trace Esports,EDward Gaming,atk,elim
+642930,257971,12,Trace Esports,EDward Gaming,atk,elim
+642930,257971,13,EDward Gaming,Trace Esports,atk,elim
+642930,257971,14,EDward Gaming,Trace Esports,atk,boom
+642930,257971,15,Trace Esports,EDward Gaming,def,elim
+642930,257971,16,EDward Gaming,Trace Esports,atk,boom
+642930,257971,17,EDward Gaming,Trace Esports,atk,boom
+642930,257971,18,EDward Gaming,Trace Esports,atk,boom
+642930,257971,19,EDward Gaming,Trace Esports,atk,elim
+642930,257971,20,Trace Esports,EDward Gaming,def,defuse
+642930,257971,21,EDward Gaming,Trace Esports,atk,elim
+642930,257971,22,EDward Gaming,Trace Esports,atk,elim
+642930,257971,23,Trace Esports,EDward Gaming,def,elim
+642930,257971,24,Trace Esports,EDward Gaming,def,defuse
+642930,257971,25,EDward Gaming,Trace Esports,def,elim
+642930,257971,26,EDward Gaming,Trace Esports,atk,elim
+642931,257973,1,JD Mall JDG Esports (JD Gaming),All Gamers,def,defuse
+642931,257973,2,JD Mall JDG Esports (JD Gaming),All Gamers,def,defuse
+642931,257973,3,All Gamers,JD Mall JDG Esports (JD Gaming),atk,elim
+642931,257973,4,All Gamers,JD Mall JDG Esports (JD Gaming),atk,boom
+642931,257973,5,All Gamers,JD Mall JDG Esports (JD Gaming),atk,elim
+642931,257973,6,All Gamers,JD Mall JDG Esports (JD Gaming),atk,elim
+642931,257973,7,All Gamers,JD Mall JDG Esports (JD Gaming),atk,elim
+642931,257973,8,JD Mall JDG Esports (JD Gaming),All Gamers,def,defuse
+642931,257973,9,JD Mall JDG Esports (JD Gaming),All Gamers,def,elim
+642931,257973,10,JD Mall JDG Esports (JD Gaming),All Gamers,def,defuse
+642931,257973,11,All Gamers,JD Mall JDG Esports (JD Gaming),atk,elim
+642931,257973,12,All Gamers,JD Mall JDG Esports (JD Gaming),atk,elim
+642931,257973,13,All Gamers,JD Mall JDG Esports (JD Gaming),def,elim
+642931,257973,14,All Gamers,JD Mall JDG Esports (JD Gaming),def,elim
+642931,257973,15,All Gamers,JD Mall JDG Esports (JD Gaming),def,elim
+642931,257973,16,All Gamers,JD Mall JDG Esports (JD Gaming),def,defuse
+642931,257973,17,All Gamers,JD Mall JDG Esports (JD Gaming),def,elim
+642931,257973,18,All Gamers,JD Mall JDG Esports (JD Gaming),def,elim
+642931,257974,1,All Gamers,JD Mall JDG Esports (JD Gaming),def,elim
+642931,257974,2,All Gamers,JD Mall JDG Esports (JD Gaming),def,elim
+642931,257974,3,All Gamers,JD Mall JDG Esports (JD Gaming),def,elim
+642931,257974,4,All Gamers,JD Mall JDG Esports (JD Gaming),def,defuse
+642931,257974,5,JD Mall JDG Esports (JD Gaming),All Gamers,atk,boom
+642931,257974,6,JD Mall JDG Esports (JD Gaming),All Gamers,atk,elim
+642931,257974,7,JD Mall JDG Esports (JD Gaming),All Gamers,atk,boom
+642931,257974,8,JD Mall JDG Esports (JD Gaming),All Gamers,atk,elim
+642931,257974,9,All Gamers,JD Mall JDG Esports (JD Gaming),def,defuse
+642931,257974,10,JD Mall JDG Esports (JD Gaming),All Gamers,atk,elim
+642931,257974,11,JD Mall JDG Esports (JD Gaming),All Gamers,atk,boom
+642931,257974,12,JD Mall JDG Esports (JD Gaming),All Gamers,atk,elim
+642931,257974,13,JD Mall JDG Esports (JD Gaming),All Gamers,def,defuse
+642931,257974,14,JD Mall JDG Esports (JD Gaming),All Gamers,def,defuse
+642931,257974,15,All Gamers,JD Mall JDG Esports (JD Gaming),atk,elim
+642931,257974,16,All Gamers,JD Mall JDG Esports (JD Gaming),atk,elim
+642931,257974,17,JD Mall JDG Esports (JD Gaming),All Gamers,def,elim
+642931,257974,18,All Gamers,JD Mall JDG Esports (JD Gaming),atk,boom
+642931,257974,19,All Gamers,JD Mall JDG Esports (JD Gaming),atk,elim
+642931,257974,20,All Gamers,JD Mall JDG Esports (JD Gaming),atk,elim
+642931,257974,21,All Gamers,JD Mall JDG Esports (JD Gaming),atk,elim
+642931,257974,22,All Gamers,JD Mall JDG Esports (JD Gaming),atk,elim
+642931,257974,23,All Gamers,JD Mall JDG Esports (JD Gaming),atk,elim
+642932,257976,1,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257976,2,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257976,3,Dragon Ranger Gaming,Wolves Esports,atk,boom
+642932,257976,4,Wolves Esports,Dragon Ranger Gaming,def,elim
+642932,257976,5,Dragon Ranger Gaming,Wolves Esports,atk,boom
+642932,257976,6,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257976,7,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257976,8,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257976,9,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257976,10,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257976,11,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257976,12,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257976,13,Dragon Ranger Gaming,Wolves Esports,def,defuse
+642932,257976,14,Dragon Ranger Gaming,Wolves Esports,def,elim
+642932,257977,1,Wolves Esports,Dragon Ranger Gaming,def,defuse
+642932,257977,2,Wolves Esports,Dragon Ranger Gaming,def,defuse
+642932,257977,3,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257977,4,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257977,5,Dragon Ranger Gaming,Wolves Esports,atk,boom
+642932,257977,6,Wolves Esports,Dragon Ranger Gaming,def,defuse
+642932,257977,7,Dragon Ranger Gaming,Wolves Esports,atk,boom
+642932,257977,8,Wolves Esports,Dragon Ranger Gaming,def,elim
+642932,257977,9,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257977,10,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257977,11,Wolves Esports,Dragon Ranger Gaming,def,defuse
+642932,257977,12,Wolves Esports,Dragon Ranger Gaming,def,elim
+642932,257977,13,Wolves Esports,Dragon Ranger Gaming,atk,elim
+642932,257977,14,Wolves Esports,Dragon Ranger Gaming,atk,elim
+642932,257977,15,Wolves Esports,Dragon Ranger Gaming,atk,elim
+642932,257977,16,Wolves Esports,Dragon Ranger Gaming,atk,boom
+642932,257977,17,Wolves Esports,Dragon Ranger Gaming,atk,elim
+642932,257977,18,Wolves Esports,Dragon Ranger Gaming,atk,elim
+642932,257977,19,Wolves Esports,Dragon Ranger Gaming,atk,elim
+642932,257978,1,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257978,2,Dragon Ranger Gaming,Wolves Esports,atk,boom
+642932,257978,3,Wolves Esports,Dragon Ranger Gaming,def,elim
+642932,257978,4,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257978,5,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257978,6,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257978,7,Wolves Esports,Dragon Ranger Gaming,def,elim
+642932,257978,8,Wolves Esports,Dragon Ranger Gaming,def,defuse
+642932,257978,9,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257978,10,Wolves Esports,Dragon Ranger Gaming,def,defuse
+642932,257978,11,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257978,12,Dragon Ranger Gaming,Wolves Esports,atk,elim
+642932,257978,13,Wolves Esports,Dragon Ranger Gaming,atk,elim
+642932,257978,14,Wolves Esports,Dragon Ranger Gaming,atk,elim
+642932,257978,15,Dragon Ranger Gaming,Wolves Esports,def,defuse
+642932,257978,16,Dragon Ranger Gaming,Wolves Esports,def,defuse
+642932,257978,17,Dragon Ranger Gaming,Wolves Esports,def,elim
+642932,257978,18,Dragon Ranger Gaming,Wolves Esports,def,defuse
+642932,257978,19,Wolves Esports,Dragon Ranger Gaming,atk,elim
+642932,257978,20,Wolves Esports,Dragon Ranger Gaming,atk,elim
+642932,257978,21,Wolves Esports,Dragon Ranger Gaming,atk,boom
+642932,257978,22,Dragon Ranger Gaming,Wolves Esports,def,defuse
+642933,257979,1,Nova Esports,Trace Esports,def,elim
+642933,257979,2,Nova Esports,Trace Esports,def,defuse
+642933,257979,3,Nova Esports,Trace Esports,def,elim
+642933,257979,4,Nova Esports,Trace Esports,def,elim
+642933,257979,5,Trace Esports,Nova Esports,atk,elim
+642933,257979,6,Trace Esports,Nova Esports,atk,boom
+642933,257979,7,Nova Esports,Trace Esports,def,defuse
+642933,257979,8,Nova Esports,Trace Esports,def,defuse
+642933,257979,9,Nova Esports,Trace Esports,def,elim
+642933,257979,10,Trace Esports,Nova Esports,atk,elim
+642933,257979,11,Trace Esports,Nova Esports,atk,elim
+642933,257979,12,Trace Esports,Nova Esports,atk,elim
+642933,257979,13,Trace Esports,Nova Esports,def,elim
+642933,257979,14,Trace Esports,Nova Esports,def,elim
+642933,257979,15,Nova Esports,Trace Esports,atk,elim
+642933,257979,16,Nova Esports,Trace Esports,atk,elim
+642933,257979,17,Nova Esports,Trace Esports,atk,elim
+642933,257979,18,Nova Esports,Trace Esports,atk,elim
+642933,257979,19,Trace Esports,Nova Esports,def,elim
+642933,257979,20,Trace Esports,Nova Esports,def,elim
+642933,257979,21,Nova Esports,Trace Esports,atk,boom
+642933,257979,22,Trace Esports,Nova Esports,def,elim
+642933,257979,23,Trace Esports,Nova Esports,def,elim
+642933,257979,24,Trace Esports,Nova Esports,def,elim
+642933,257979,25,Trace Esports,Nova Esports,atk,elim
+642933,257979,26,Trace Esports,Nova Esports,def,elim
+642933,257980,1,Nova Esports,Trace Esports,def,elim
+642933,257980,2,Trace Esports,Nova Esports,atk,elim
+642933,257980,3,Trace Esports,Nova Esports,atk,elim
+642933,257980,4,Nova Esports,Trace Esports,def,time
+642933,257980,5,Trace Esports,Nova Esports,atk,boom
+642933,257980,6,Trace Esports,Nova Esports,atk,boom
+642933,257980,7,Nova Esports,Trace Esports,def,elim
+642933,257980,8,Trace Esports,Nova Esports,atk,elim
+642933,257980,9,Trace Esports,Nova Esports,atk,elim
+642933,257980,10,Trace Esports,Nova Esports,atk,elim
+642933,257980,11,Nova Esports,Trace Esports,def,elim
+642933,257980,12,Nova Esports,Trace Esports,def,elim
+642933,257980,13,Trace Esports,Nova Esports,def,elim
+642933,257980,14,Trace Esports,Nova Esports,def,elim
+642933,257980,15,Nova Esports,Trace Esports,atk,elim
+642933,257980,16,Nova Esports,Trace Esports,atk,elim
+642933,257980,17,Nova Esports,Trace Esports,atk,boom
+642933,257980,18,Nova Esports,Trace Esports,atk,elim
+642933,257980,19,Nova Esports,Trace Esports,atk,elim
+642933,257980,20,Trace Esports,Nova Esports,def,elim
+642933,257980,21,Trace Esports,Nova Esports,def,defuse
+642933,257980,22,Trace Esports,Nova Esports,def,time
+642933,257980,23,Trace Esports,Nova Esports,def,elim
+642934,257982,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,def,defuse
+642934,257982,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,def,elim
+642934,257982,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,def,defuse
+642934,257982,4,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,def,elim
+642934,257982,5,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,def,defuse
+642934,257982,6,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,def,elim
+642934,257982,7,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,def,elim
+642934,257982,8,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,boom
+642934,257982,9,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642934,257982,10,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642934,257982,11,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,boom
+642934,257982,12,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642934,257982,13,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642934,257982,14,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257982,15,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257982,16,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642934,257982,17,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642934,257982,18,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257982,19,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257982,20,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257982,21,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257983,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257983,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,boom
+642934,257983,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,boom
+642934,257983,4,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257983,5,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642934,257983,6,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642934,257983,7,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642934,257983,8,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257983,9,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642934,257983,10,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,boom
+642934,257983,11,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257983,12,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642934,257983,13,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642934,257983,14,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642934,257983,15,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642934,257983,16,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,def,defuse
+642934,257983,17,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642934,257983,18,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642934,257983,19,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,def,defuse
+642934,257983,20,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642934,257983,21,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642934,257983,22,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642934,257984,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257984,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,boom
+642934,257984,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257984,4,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257984,5,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,boom
+642934,257984,6,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,boom
+642934,257984,7,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257984,8,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642934,257984,9,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257984,10,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,time
+642934,257984,11,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257984,12,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,atk,elim
+642934,257984,13,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,def,defuse
+642934,257984,14,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,def,elim
+642934,257984,15,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),FunPlus Phoenix,def,defuse
+642935,257985,1,TYLOO,All Gamers,def,elim
+642935,257985,2,TYLOO,All Gamers,def,defuse
+642935,257985,3,TYLOO,All Gamers,def,elim
+642935,257985,4,All Gamers,TYLOO,atk,boom
+642935,257985,5,TYLOO,All Gamers,def,defuse
+642935,257985,6,TYLOO,All Gamers,def,defuse
+642935,257985,7,TYLOO,All Gamers,def,elim
+642935,257985,8,All Gamers,TYLOO,atk,elim
+642935,257985,9,TYLOO,All Gamers,def,elim
+642935,257985,10,All Gamers,TYLOO,atk,elim
+642935,257985,11,All Gamers,TYLOO,atk,boom
+642935,257985,12,TYLOO,All Gamers,def,elim
+642935,257985,13,TYLOO,All Gamers,atk,elim
+642935,257985,14,TYLOO,All Gamers,atk,boom
+642935,257985,15,TYLOO,All Gamers,atk,boom
+642935,257985,16,All Gamers,TYLOO,def,defuse
+642935,257985,17,TYLOO,All Gamers,atk,elim
+642935,257985,18,TYLOO,All Gamers,atk,elim
+642935,257986,1,All Gamers,TYLOO,def,defuse
+642935,257986,2,TYLOO,All Gamers,atk,elim
+642935,257986,3,TYLOO,All Gamers,atk,elim
+642935,257986,4,TYLOO,All Gamers,atk,elim
+642935,257986,5,All Gamers,TYLOO,def,elim
+642935,257986,6,TYLOO,All Gamers,atk,elim
+642935,257986,7,All Gamers,TYLOO,def,defuse
+642935,257986,8,TYLOO,All Gamers,atk,elim
+642935,257986,9,TYLOO,All Gamers,atk,elim
+642935,257986,10,All Gamers,TYLOO,def,defuse
+642935,257986,11,TYLOO,All Gamers,atk,boom
+642935,257986,12,All Gamers,TYLOO,def,elim
+642935,257986,13,All Gamers,TYLOO,atk,elim
+642935,257986,14,All Gamers,TYLOO,atk,elim
+642935,257986,15,All Gamers,TYLOO,atk,elim
+642935,257986,16,All Gamers,TYLOO,atk,elim
+642935,257986,17,All Gamers,TYLOO,atk,elim
+642935,257986,18,All Gamers,TYLOO,atk,elim
+642935,257986,19,TYLOO,All Gamers,def,elim
+642935,257986,20,TYLOO,All Gamers,def,defuse
+642935,257986,21,All Gamers,TYLOO,atk,elim
+642935,257986,22,All Gamers,TYLOO,atk,elim
+642935,257987,1,TYLOO,All Gamers,atk,elim
+642935,257987,2,TYLOO,All Gamers,atk,elim
+642935,257987,3,All Gamers,TYLOO,def,elim
+642935,257987,4,TYLOO,All Gamers,atk,elim
+642935,257987,5,TYLOO,All Gamers,atk,boom
+642935,257987,6,All Gamers,TYLOO,def,elim
+642935,257987,7,TYLOO,All Gamers,atk,elim
+642935,257987,8,TYLOO,All Gamers,atk,elim
+642935,257987,9,TYLOO,All Gamers,atk,elim
+642935,257987,10,All Gamers,TYLOO,def,defuse
+642935,257987,11,TYLOO,All Gamers,atk,boom
+642935,257987,12,All Gamers,TYLOO,def,defuse
+642935,257987,13,TYLOO,All Gamers,def,defuse
+642935,257987,14,TYLOO,All Gamers,def,elim
+642935,257987,15,All Gamers,TYLOO,atk,elim
+642935,257987,16,All Gamers,TYLOO,atk,boom
+642935,257987,17,TYLOO,All Gamers,def,defuse
+642935,257987,18,TYLOO,All Gamers,def,defuse
+642935,257987,19,TYLOO,All Gamers,def,elim
+642936,257988,1,EDward Gaming,Dragon Ranger Gaming,atk,elim
+642936,257988,2,EDward Gaming,Dragon Ranger Gaming,atk,elim
+642936,257988,3,Dragon Ranger Gaming,EDward Gaming,def,elim
+642936,257988,4,EDward Gaming,Dragon Ranger Gaming,atk,elim
+642936,257988,5,EDward Gaming,Dragon Ranger Gaming,atk,boom
+642936,257988,6,EDward Gaming,Dragon Ranger Gaming,atk,elim
+642936,257988,7,Dragon Ranger Gaming,EDward Gaming,def,time
+642936,257988,8,Dragon Ranger Gaming,EDward Gaming,def,elim
+642936,257988,9,EDward Gaming,Dragon Ranger Gaming,atk,boom
+642936,257988,10,EDward Gaming,Dragon Ranger Gaming,atk,boom
+642936,257988,11,Dragon Ranger Gaming,EDward Gaming,def,elim
+642936,257988,12,Dragon Ranger Gaming,EDward Gaming,def,elim
+642936,257988,13,EDward Gaming,Dragon Ranger Gaming,def,defuse
+642936,257988,14,EDward Gaming,Dragon Ranger Gaming,def,elim
+642936,257988,15,EDward Gaming,Dragon Ranger Gaming,def,elim
+642936,257988,16,EDward Gaming,Dragon Ranger Gaming,def,defuse
+642936,257988,17,EDward Gaming,Dragon Ranger Gaming,def,time
+642936,257988,18,EDward Gaming,Dragon Ranger Gaming,def,defuse
+642936,257989,1,Dragon Ranger Gaming,EDward Gaming,atk,elim
+642936,257989,2,Dragon Ranger Gaming,EDward Gaming,atk,boom
+642936,257989,3,EDward Gaming,Dragon Ranger Gaming,def,defuse
+642936,257989,4,Dragon Ranger Gaming,EDward Gaming,atk,elim
+642936,257989,5,Dragon Ranger Gaming,EDward Gaming,atk,elim
+642936,257989,6,Dragon Ranger Gaming,EDward Gaming,atk,elim
+642936,257989,7,Dragon Ranger Gaming,EDward Gaming,atk,elim
+642936,257989,8,Dragon Ranger Gaming,EDward Gaming,atk,elim
+642936,257989,9,EDward Gaming,Dragon Ranger Gaming,def,defuse
+642936,257989,10,EDward Gaming,Dragon Ranger Gaming,def,elim
+642936,257989,11,Dragon Ranger Gaming,EDward Gaming,atk,elim
+642936,257989,12,Dragon Ranger Gaming,EDward Gaming,atk,elim
+642936,257989,13,Dragon Ranger Gaming,EDward Gaming,def,defuse
+642936,257989,14,Dragon Ranger Gaming,EDward Gaming,def,elim
+642936,257989,15,EDward Gaming,Dragon Ranger Gaming,atk,elim
+642936,257989,16,Dragon Ranger Gaming,EDward Gaming,def,elim
+642936,257989,17,EDward Gaming,Dragon Ranger Gaming,atk,elim
+642936,257989,18,EDward Gaming,Dragon Ranger Gaming,atk,elim
+642936,257989,19,Dragon Ranger Gaming,EDward Gaming,def,defuse
+642936,257990,1,EDward Gaming,Dragon Ranger Gaming,atk,elim
+642936,257990,2,EDward Gaming,Dragon Ranger Gaming,atk,elim
+642936,257990,3,Dragon Ranger Gaming,EDward Gaming,def,elim
+642936,257990,4,EDward Gaming,Dragon Ranger Gaming,atk,elim
+642936,257990,5,Dragon Ranger Gaming,EDward Gaming,def,elim
+642936,257990,6,Dragon Ranger Gaming,EDward Gaming,def,defuse
+642936,257990,7,EDward Gaming,Dragon Ranger Gaming,atk,elim
+642936,257990,8,Dragon Ranger Gaming,EDward Gaming,def,elim
+642936,257990,9,EDward Gaming,Dragon Ranger Gaming,atk,elim
+642936,257990,10,EDward Gaming,Dragon Ranger Gaming,atk,elim
+642936,257990,11,Dragon Ranger Gaming,EDward Gaming,def,defuse
+642936,257990,12,Dragon Ranger Gaming,EDward Gaming,def,defuse
+642936,257990,13,EDward Gaming,Dragon Ranger Gaming,def,defuse
+642936,257990,14,EDward Gaming,Dragon Ranger Gaming,def,elim
+642936,257990,15,Dragon Ranger Gaming,EDward Gaming,atk,boom
+642936,257990,16,Dragon Ranger Gaming,EDward Gaming,atk,boom
+642936,257990,17,Dragon Ranger Gaming,EDward Gaming,atk,elim
+642936,257990,18,EDward Gaming,Dragon Ranger Gaming,def,elim
+642936,257990,19,EDward Gaming,Dragon Ranger Gaming,def,elim
+642936,257990,20,EDward Gaming,Dragon Ranger Gaming,def,elim
+642936,257990,21,EDward Gaming,Dragon Ranger Gaming,def,defuse
+642936,257990,22,EDward Gaming,Dragon Ranger Gaming,def,defuse
+642937,257991,1,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642937,257991,2,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642937,257991,3,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),def,elim
+642937,257991,4,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642937,257991,5,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642937,257991,6,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642937,257991,7,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642937,257991,8,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),def,defuse
+642937,257991,9,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),def,defuse
+642937,257991,10,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),def,elim
+642937,257991,11,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),def,defuse
+642937,257991,12,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),def,elim
+642937,257991,13,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),atk,elim
+642937,257991,14,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),atk,elim
+642937,257991,15,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642937,257991,16,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),atk,elim
+642937,257991,17,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),atk,elim
+642937,257991,18,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642937,257991,19,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642937,257991,20,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,time
+642937,257991,21,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642937,257991,22,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),atk,elim
+642937,257991,23,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),atk,elim
+642937,257991,24,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642937,257991,25,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642937,257991,26,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642937,257992,1,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642937,257992,2,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642937,257992,3,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),atk,elim
+642937,257992,4,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642937,257992,5,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642937,257992,6,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),atk,elim
+642937,257992,7,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),atk,elim
+642937,257992,8,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),atk,elim
+642937,257992,9,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642937,257992,10,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642937,257992,11,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),atk,boom
+642937,257992,12,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642937,257992,13,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),def,defuse
+642937,257992,14,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642937,257992,15,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642937,257992,16,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642937,257992,17,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642937,257992,18,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),def,elim
+642937,257992,19,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642937,257992,20,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),def,elim
+642937,257992,21,Wuxi Titan Esports Club (Titan Esports Club),JD Mall JDG Esports (JD Gaming),def,elim
+642937,257992,22,JD Mall JDG Esports (JD Gaming),Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642938,257994,1,Wolves Esports,Xi Lai Gaming,def,defuse
+642938,257994,2,Wolves Esports,Xi Lai Gaming,def,elim
+642938,257994,3,Wolves Esports,Xi Lai Gaming,def,defuse
+642938,257994,4,Xi Lai Gaming,Wolves Esports,atk,boom
+642938,257994,5,Xi Lai Gaming,Wolves Esports,atk,elim
+642938,257994,6,Wolves Esports,Xi Lai Gaming,def,defuse
+642938,257994,7,Xi Lai Gaming,Wolves Esports,atk,boom
+642938,257994,8,Wolves Esports,Xi Lai Gaming,def,defuse
+642938,257994,9,Wolves Esports,Xi Lai Gaming,def,elim
+642938,257994,10,Wolves Esports,Xi Lai Gaming,def,defuse
+642938,257994,11,Wolves Esports,Xi Lai Gaming,def,elim
+642938,257994,12,Wolves Esports,Xi Lai Gaming,def,defuse
+642938,257994,13,Wolves Esports,Xi Lai Gaming,atk,elim
+642938,257994,14,Wolves Esports,Xi Lai Gaming,atk,boom
+642938,257994,15,Xi Lai Gaming,Wolves Esports,def,defuse
+642938,257994,16,Xi Lai Gaming,Wolves Esports,def,elim
+642938,257994,17,Xi Lai Gaming,Wolves Esports,def,defuse
+642938,257994,18,Xi Lai Gaming,Wolves Esports,def,time
+642938,257994,19,Xi Lai Gaming,Wolves Esports,def,elim
+642938,257994,20,Xi Lai Gaming,Wolves Esports,def,elim
+642938,257994,21,Xi Lai Gaming,Wolves Esports,def,elim
+642938,257994,22,Wolves Esports,Xi Lai Gaming,atk,boom
+642938,257994,23,Wolves Esports,Xi Lai Gaming,atk,elim
+642938,257995,1,Xi Lai Gaming,Wolves Esports,def,defuse
+642938,257995,2,Xi Lai Gaming,Wolves Esports,def,defuse
+642938,257995,3,Xi Lai Gaming,Wolves Esports,def,defuse
+642938,257995,4,Xi Lai Gaming,Wolves Esports,def,time
+642938,257995,5,Wolves Esports,Xi Lai Gaming,atk,elim
+642938,257995,6,Wolves Esports,Xi Lai Gaming,atk,boom
+642938,257995,7,Wolves Esports,Xi Lai Gaming,atk,elim
+642938,257995,8,Wolves Esports,Xi Lai Gaming,atk,elim
+642938,257995,9,Xi Lai Gaming,Wolves Esports,def,defuse
+642938,257995,10,Xi Lai Gaming,Wolves Esports,def,defuse
+642938,257995,11,Xi Lai Gaming,Wolves Esports,def,elim
+642938,257995,12,Xi Lai Gaming,Wolves Esports,def,defuse
+642938,257995,13,Wolves Esports,Xi Lai Gaming,def,defuse
+642938,257995,14,Wolves Esports,Xi Lai Gaming,def,elim
+642938,257995,15,Wolves Esports,Xi Lai Gaming,def,elim
+642938,257995,16,Wolves Esports,Xi Lai Gaming,def,elim
+642938,257995,17,Wolves Esports,Xi Lai Gaming,def,elim
+642938,257995,18,Wolves Esports,Xi Lai Gaming,def,elim
+642938,257995,19,Xi Lai Gaming,Wolves Esports,atk,elim
+642938,257995,20,Xi Lai Gaming,Wolves Esports,atk,elim
+642938,257995,21,Xi Lai Gaming,Wolves Esports,atk,boom
+642938,257995,22,Xi Lai Gaming,Wolves Esports,atk,boom
+642938,257995,23,Xi Lai Gaming,Wolves Esports,atk,elim
+642938,257996,1,Xi Lai Gaming,Wolves Esports,def,elim
+642938,257996,2,Xi Lai Gaming,Wolves Esports,def,defuse
+642938,257996,3,Wolves Esports,Xi Lai Gaming,atk,elim
+642938,257996,4,Wolves Esports,Xi Lai Gaming,atk,elim
+642938,257996,5,Xi Lai Gaming,Wolves Esports,def,time
+642938,257996,6,Xi Lai Gaming,Wolves Esports,def,time
+642938,257996,7,Xi Lai Gaming,Wolves Esports,def,defuse
+642938,257996,8,Wolves Esports,Xi Lai Gaming,atk,elim
+642938,257996,9,Wolves Esports,Xi Lai Gaming,atk,elim
+642938,257996,10,Xi Lai Gaming,Wolves Esports,def,time
+642938,257996,11,Wolves Esports,Xi Lai Gaming,atk,elim
+642938,257996,12,Xi Lai Gaming,Wolves Esports,def,elim
+642938,257996,13,Wolves Esports,Xi Lai Gaming,def,defuse
+642938,257996,14,Wolves Esports,Xi Lai Gaming,def,elim
+642938,257996,15,Xi Lai Gaming,Wolves Esports,atk,elim
+642938,257996,16,Xi Lai Gaming,Wolves Esports,atk,elim
+642938,257996,17,Xi Lai Gaming,Wolves Esports,atk,elim
+642938,257996,18,Xi Lai Gaming,Wolves Esports,atk,boom
+642938,257996,19,Xi Lai Gaming,Wolves Esports,atk,elim
+642938,257996,20,Xi Lai Gaming,Wolves Esports,atk,elim
+642939,257997,1,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+642939,257997,2,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+642939,257997,3,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+642939,257997,4,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+642939,257997,5,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+642939,257997,6,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+642939,257997,7,TYLOO,JD Mall JDG Esports (JD Gaming),def,defuse
+642939,257997,8,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+642939,257997,9,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+642939,257997,10,TYLOO,JD Mall JDG Esports (JD Gaming),def,defuse
+642939,257997,11,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+642939,257997,12,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+642939,257997,13,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+642939,257997,14,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+642939,257997,15,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+642939,257997,16,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+642939,257997,17,JD Mall JDG Esports (JD Gaming),TYLOO,def,time
+642939,257997,18,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+642939,257997,19,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+642939,257997,20,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+642939,257997,21,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+642939,257997,22,TYLOO,JD Mall JDG Esports (JD Gaming),atk,boom
+642939,257997,23,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+642939,257997,24,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+642939,257997,25,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+642939,257997,26,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+642939,257997,27,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+642939,257997,28,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+642939,257997,29,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+642939,257997,30,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+642939,257997,31,JD Mall JDG Esports (JD Gaming),TYLOO,atk,boom
+642939,257997,32,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+642939,257998,1,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+642939,257998,2,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+642939,257998,3,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+642939,257998,4,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+642939,257998,5,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+642939,257998,6,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+642939,257998,7,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+642939,257998,8,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+642939,257998,9,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+642939,257998,10,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+642939,257998,11,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+642939,257998,12,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+642939,257998,13,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+642939,257998,14,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+642939,257998,15,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+642939,257998,16,TYLOO,JD Mall JDG Esports (JD Gaming),def,defuse
+642939,257998,17,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+642939,257998,18,JD Mall JDG Esports (JD Gaming),TYLOO,atk,boom
+642939,257998,19,TYLOO,JD Mall JDG Esports (JD Gaming),def,defuse
+642939,257998,20,JD Mall JDG Esports (JD Gaming),TYLOO,atk,boom
+642939,257998,21,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+642940,258000,1,Dragon Ranger Gaming,Trace Esports,def,defuse
+642940,258000,2,Dragon Ranger Gaming,Trace Esports,def,elim
+642940,258000,3,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258000,4,Trace Esports,Dragon Ranger Gaming,atk,boom
+642940,258000,5,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258000,6,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258000,7,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258000,8,Trace Esports,Dragon Ranger Gaming,atk,boom
+642940,258000,9,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258000,10,Dragon Ranger Gaming,Trace Esports,def,defuse
+642940,258000,11,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258000,12,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258000,13,Dragon Ranger Gaming,Trace Esports,atk,elim
+642940,258000,14,Dragon Ranger Gaming,Trace Esports,atk,elim
+642940,258000,15,Trace Esports,Dragon Ranger Gaming,def,elim
+642940,258000,16,Trace Esports,Dragon Ranger Gaming,def,defuse
+642940,258000,17,Trace Esports,Dragon Ranger Gaming,def,defuse
+642940,258000,18,Trace Esports,Dragon Ranger Gaming,def,defuse
+642940,258001,1,Dragon Ranger Gaming,Trace Esports,atk,elim
+642940,258001,2,Dragon Ranger Gaming,Trace Esports,atk,boom
+642940,258001,3,Trace Esports,Dragon Ranger Gaming,def,elim
+642940,258001,4,Dragon Ranger Gaming,Trace Esports,atk,elim
+642940,258001,5,Dragon Ranger Gaming,Trace Esports,atk,elim
+642940,258001,6,Dragon Ranger Gaming,Trace Esports,atk,elim
+642940,258001,7,Dragon Ranger Gaming,Trace Esports,atk,boom
+642940,258001,8,Dragon Ranger Gaming,Trace Esports,atk,elim
+642940,258001,9,Trace Esports,Dragon Ranger Gaming,def,elim
+642940,258001,10,Trace Esports,Dragon Ranger Gaming,def,elim
+642940,258001,11,Dragon Ranger Gaming,Trace Esports,atk,boom
+642940,258001,12,Dragon Ranger Gaming,Trace Esports,atk,elim
+642940,258001,13,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258001,14,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258001,15,Dragon Ranger Gaming,Trace Esports,def,elim
+642940,258001,16,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258001,17,Trace Esports,Dragon Ranger Gaming,atk,boom
+642940,258001,18,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258001,19,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258001,20,Dragon Ranger Gaming,Trace Esports,def,defuse
+642940,258001,21,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258001,22,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258001,23,Dragon Ranger Gaming,Trace Esports,def,defuse
+642940,258001,24,Dragon Ranger Gaming,Trace Esports,def,elim
+642940,258002,1,Dragon Ranger Gaming,Trace Esports,atk,elim
+642940,258002,2,Dragon Ranger Gaming,Trace Esports,atk,elim
+642940,258002,3,Trace Esports,Dragon Ranger Gaming,def,defuse
+642940,258002,4,Trace Esports,Dragon Ranger Gaming,def,elim
+642940,258002,5,Trace Esports,Dragon Ranger Gaming,def,defuse
+642940,258002,6,Trace Esports,Dragon Ranger Gaming,def,defuse
+642940,258002,7,Trace Esports,Dragon Ranger Gaming,def,elim
+642940,258002,8,Trace Esports,Dragon Ranger Gaming,def,defuse
+642940,258002,9,Dragon Ranger Gaming,Trace Esports,atk,elim
+642940,258002,10,Trace Esports,Dragon Ranger Gaming,def,defuse
+642940,258002,11,Dragon Ranger Gaming,Trace Esports,atk,elim
+642940,258002,12,Dragon Ranger Gaming,Trace Esports,atk,elim
+642940,258002,13,Dragon Ranger Gaming,Trace Esports,def,defuse
+642940,258002,14,Dragon Ranger Gaming,Trace Esports,def,elim
+642940,258002,15,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258002,16,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258002,17,Dragon Ranger Gaming,Trace Esports,def,defuse
+642940,258002,18,Trace Esports,Dragon Ranger Gaming,atk,elim
+642940,258002,19,Dragon Ranger Gaming,Trace Esports,def,defuse
+642940,258002,20,Dragon Ranger Gaming,Trace Esports,def,elim
+642940,258002,21,Dragon Ranger Gaming,Trace Esports,def,elim
+642940,258002,22,Dragon Ranger Gaming,Trace Esports,def,elim
+642940,258002,23,Dragon Ranger Gaming,Trace Esports,def,defuse
+642941,258003,1,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258003,2,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258003,3,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258003,4,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258003,5,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258003,6,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258003,7,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258003,8,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258003,9,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,boom
+642941,258003,10,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258003,11,FunPlus Phoenix,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642941,258003,12,FunPlus Phoenix,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642941,258003,13,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,def,elim
+642941,258003,14,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,def,elim
+642941,258003,15,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,def,elim
+642941,258004,1,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,def,elim
+642941,258004,2,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,def,defuse
+642941,258004,3,FunPlus Phoenix,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642941,258004,4,FunPlus Phoenix,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642941,258004,5,FunPlus Phoenix,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642941,258004,6,FunPlus Phoenix,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642941,258004,7,FunPlus Phoenix,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642941,258004,8,FunPlus Phoenix,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642941,258004,9,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,def,defuse
+642941,258004,10,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,def,time
+642941,258004,11,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,def,time
+642941,258004,12,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,def,elim
+642941,258004,13,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,boom
+642941,258004,14,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258004,15,FunPlus Phoenix,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642941,258004,16,FunPlus Phoenix,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642941,258004,17,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258004,18,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258004,19,FunPlus Phoenix,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642941,258004,20,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258004,21,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642941,258004,22,FunPlus Phoenix,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642941,258004,23,Wuxi Titan Esports Club (Titan Esports Club),FunPlus Phoenix,atk,elim
+642942,258006,1,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642942,258006,2,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642942,258006,3,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258006,4,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,boom
+642942,258006,5,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642942,258006,6,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642942,258006,7,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,boom
+642942,258006,8,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642942,258006,9,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,boom
+642942,258006,10,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258006,11,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258006,12,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258006,13,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258006,14,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258006,15,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258006,16,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,boom
+642942,258006,17,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258006,18,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258006,19,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258006,20,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258007,1,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258007,2,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258007,3,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642942,258007,4,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,time
+642942,258007,5,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,time
+642942,258007,6,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258007,7,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258007,8,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258007,9,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258007,10,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258007,11,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,boom
+642942,258007,12,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258007,13,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,def,defuse
+642942,258007,14,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,def,elim
+642942,258007,15,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,def,defuse
+642942,258007,16,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,def,elim
+642942,258008,1,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258008,2,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258008,3,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258008,4,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258008,5,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,def,elim
+642942,258008,6,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,boom
+642942,258008,7,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,def,defuse
+642942,258008,8,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,def,defuse
+642942,258008,9,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258008,10,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258008,11,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258008,12,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),atk,elim
+642942,258008,13,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642942,258008,14,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258008,15,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,boom
+642942,258008,16,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642942,258008,17,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,defuse
+642942,258008,18,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,elim
+642942,258008,19,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),All Gamers,atk,boom
+642942,258008,20,All Gamers,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),def,elim
+642943,258009,1,Wolves Esports,Nova Esports,atk,elim
+642943,258009,2,Wolves Esports,Nova Esports,atk,elim
+642943,258009,3,Wolves Esports,Nova Esports,atk,elim
+642943,258009,4,Wolves Esports,Nova Esports,atk,elim
+642943,258009,5,Wolves Esports,Nova Esports,atk,boom
+642943,258009,6,Nova Esports,Wolves Esports,def,defuse
+642943,258009,7,Wolves Esports,Nova Esports,atk,boom
+642943,258009,8,Wolves Esports,Nova Esports,atk,elim
+642943,258009,9,Nova Esports,Wolves Esports,def,elim
+642943,258009,10,Nova Esports,Wolves Esports,def,elim
+642943,258009,11,Nova Esports,Wolves Esports,def,defuse
+642943,258009,12,Wolves Esports,Nova Esports,atk,elim
+642943,258009,13,Nova Esports,Wolves Esports,atk,elim
+642943,258009,14,Nova Esports,Wolves Esports,atk,elim
+642943,258009,15,Nova Esports,Wolves Esports,atk,elim
+642943,258009,16,Nova Esports,Wolves Esports,atk,elim
+642943,258009,17,Nova Esports,Wolves Esports,atk,boom
+642943,258009,18,Nova Esports,Wolves Esports,atk,boom
+642943,258009,19,Wolves Esports,Nova Esports,def,elim
+642943,258009,20,Nova Esports,Wolves Esports,atk,boom
+642943,258009,21,Wolves Esports,Nova Esports,def,elim
+642943,258009,22,Nova Esports,Wolves Esports,atk,elim
+642943,258009,23,Nova Esports,Wolves Esports,atk,elim
+642943,258010,1,Wolves Esports,Nova Esports,def,elim
+642943,258010,2,Wolves Esports,Nova Esports,def,elim
+642943,258010,3,Nova Esports,Wolves Esports,atk,elim
+642943,258010,4,Wolves Esports,Nova Esports,def,elim
+642943,258010,5,Wolves Esports,Nova Esports,def,defuse
+642943,258010,6,Nova Esports,Wolves Esports,atk,elim
+642943,258010,7,Nova Esports,Wolves Esports,atk,elim
+642943,258010,8,Nova Esports,Wolves Esports,atk,elim
+642943,258010,9,Wolves Esports,Nova Esports,def,defuse
+642943,258010,10,Wolves Esports,Nova Esports,def,elim
+642943,258010,11,Nova Esports,Wolves Esports,atk,elim
+642943,258010,12,Wolves Esports,Nova Esports,def,defuse
+642943,258010,13,Nova Esports,Wolves Esports,def,defuse
+642943,258010,14,Wolves Esports,Nova Esports,atk,elim
+642943,258010,15,Nova Esports,Wolves Esports,def,elim
+642943,258010,16,Nova Esports,Wolves Esports,def,elim
+642943,258010,17,Nova Esports,Wolves Esports,def,elim
+642943,258010,18,Nova Esports,Wolves Esports,def,elim
+642943,258010,19,Nova Esports,Wolves Esports,def,elim
+642943,258010,20,Nova Esports,Wolves Esports,def,elim
+642943,258010,21,Nova Esports,Wolves Esports,def,elim
+642944,258012,1,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258012,2,Xi Lai Gaming,EDward Gaming,def,defuse
+642944,258012,3,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258012,4,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258012,5,EDward Gaming,Xi Lai Gaming,atk,boom
+642944,258012,6,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258012,7,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258012,8,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258012,9,Xi Lai Gaming,EDward Gaming,def,elim
+642944,258012,10,Xi Lai Gaming,EDward Gaming,def,defuse
+642944,258012,11,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258012,12,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258012,13,EDward Gaming,Xi Lai Gaming,def,elim
+642944,258012,14,EDward Gaming,Xi Lai Gaming,def,elim
+642944,258012,15,Xi Lai Gaming,EDward Gaming,atk,elim
+642944,258012,16,Xi Lai Gaming,EDward Gaming,atk,elim
+642944,258012,17,Xi Lai Gaming,EDward Gaming,atk,elim
+642944,258012,18,Xi Lai Gaming,EDward Gaming,atk,boom
+642944,258012,19,Xi Lai Gaming,EDward Gaming,atk,boom
+642944,258012,20,EDward Gaming,Xi Lai Gaming,def,elim
+642944,258012,21,EDward Gaming,Xi Lai Gaming,def,defuse
+642944,258013,1,EDward Gaming,Xi Lai Gaming,def,elim
+642944,258013,2,EDward Gaming,Xi Lai Gaming,def,elim
+642944,258013,3,Xi Lai Gaming,EDward Gaming,atk,elim
+642944,258013,4,Xi Lai Gaming,EDward Gaming,atk,elim
+642944,258013,5,Xi Lai Gaming,EDward Gaming,atk,elim
+642944,258013,6,Xi Lai Gaming,EDward Gaming,atk,elim
+642944,258013,7,Xi Lai Gaming,EDward Gaming,atk,boom
+642944,258013,8,Xi Lai Gaming,EDward Gaming,atk,boom
+642944,258013,9,EDward Gaming,Xi Lai Gaming,def,defuse
+642944,258013,10,Xi Lai Gaming,EDward Gaming,atk,elim
+642944,258013,11,Xi Lai Gaming,EDward Gaming,atk,elim
+642944,258013,12,EDward Gaming,Xi Lai Gaming,def,elim
+642944,258013,13,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258013,14,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258013,15,Xi Lai Gaming,EDward Gaming,def,elim
+642944,258013,16,Xi Lai Gaming,EDward Gaming,def,defuse
+642944,258013,17,Xi Lai Gaming,EDward Gaming,def,elim
+642944,258013,18,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258013,19,EDward Gaming,Xi Lai Gaming,atk,boom
+642944,258013,20,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258013,21,Xi Lai Gaming,EDward Gaming,def,defuse
+642944,258013,22,Xi Lai Gaming,EDward Gaming,def,defuse
+642944,258014,1,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258014,2,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258014,3,Xi Lai Gaming,EDward Gaming,def,elim
+642944,258014,4,Xi Lai Gaming,EDward Gaming,def,elim
+642944,258014,5,Xi Lai Gaming,EDward Gaming,def,elim
+642944,258014,6,EDward Gaming,Xi Lai Gaming,atk,boom
+642944,258014,7,Xi Lai Gaming,EDward Gaming,def,defuse
+642944,258014,8,Xi Lai Gaming,EDward Gaming,def,elim
+642944,258014,9,Xi Lai Gaming,EDward Gaming,def,elim
+642944,258014,10,Xi Lai Gaming,EDward Gaming,def,elim
+642944,258014,11,EDward Gaming,Xi Lai Gaming,atk,elim
+642944,258014,12,Xi Lai Gaming,EDward Gaming,def,elim
+642944,258014,13,Xi Lai Gaming,EDward Gaming,atk,elim
+642944,258014,14,Xi Lai Gaming,EDward Gaming,atk,elim
+642944,258014,15,Xi Lai Gaming,EDward Gaming,atk,elim
+642944,258014,16,Xi Lai Gaming,EDward Gaming,atk,boom
+642944,258014,17,EDward Gaming,Xi Lai Gaming,def,elim
+642944,258014,18,Xi Lai Gaming,EDward Gaming,atk,elim
+642945,258015,1,All Gamers,Xi Lai Gaming,def,defuse
+642945,258015,2,All Gamers,Xi Lai Gaming,def,defuse
+642945,258015,3,Xi Lai Gaming,All Gamers,atk,elim
+642945,258015,4,All Gamers,Xi Lai Gaming,def,defuse
+642945,258015,5,Xi Lai Gaming,All Gamers,atk,elim
+642945,258015,6,All Gamers,Xi Lai Gaming,def,defuse
+642945,258015,7,All Gamers,Xi Lai Gaming,def,elim
+642945,258015,8,Xi Lai Gaming,All Gamers,atk,elim
+642945,258015,9,All Gamers,Xi Lai Gaming,def,elim
+642945,258015,10,Xi Lai Gaming,All Gamers,atk,boom
+642945,258015,11,Xi Lai Gaming,All Gamers,atk,boom
+642945,258015,12,Xi Lai Gaming,All Gamers,atk,elim
+642945,258015,13,All Gamers,Xi Lai Gaming,atk,elim
+642945,258015,14,All Gamers,Xi Lai Gaming,atk,elim
+642945,258015,15,Xi Lai Gaming,All Gamers,def,elim
+642945,258015,16,All Gamers,Xi Lai Gaming,atk,boom
+642945,258015,17,All Gamers,Xi Lai Gaming,atk,elim
+642945,258015,18,All Gamers,Xi Lai Gaming,atk,elim
+642945,258015,19,All Gamers,Xi Lai Gaming,atk,elim
+642945,258015,20,Xi Lai Gaming,All Gamers,def,elim
+642945,258015,21,All Gamers,Xi Lai Gaming,atk,boom
+642945,258016,1,Xi Lai Gaming,All Gamers,def,elim
+642945,258016,2,Xi Lai Gaming,All Gamers,def,defuse
+642945,258016,3,All Gamers,Xi Lai Gaming,atk,boom
+642945,258016,4,Xi Lai Gaming,All Gamers,def,elim
+642945,258016,5,Xi Lai Gaming,All Gamers,def,defuse
+642945,258016,6,Xi Lai Gaming,All Gamers,def,elim
+642945,258016,7,Xi Lai Gaming,All Gamers,def,defuse
+642945,258016,8,Xi Lai Gaming,All Gamers,def,defuse
+642945,258016,9,Xi Lai Gaming,All Gamers,def,elim
+642945,258016,10,Xi Lai Gaming,All Gamers,def,elim
+642945,258016,11,All Gamers,Xi Lai Gaming,atk,elim
+642945,258016,12,Xi Lai Gaming,All Gamers,def,defuse
+642945,258016,13,Xi Lai Gaming,All Gamers,atk,elim
+642945,258016,14,All Gamers,Xi Lai Gaming,def,elim
+642945,258016,15,All Gamers,Xi Lai Gaming,def,elim
+642945,258016,16,Xi Lai Gaming,All Gamers,atk,boom
+642945,258016,17,All Gamers,Xi Lai Gaming,def,elim
+642945,258016,18,Xi Lai Gaming,All Gamers,atk,elim
+642945,258017,1,All Gamers,Xi Lai Gaming,atk,elim
+642945,258017,2,All Gamers,Xi Lai Gaming,atk,boom
+642945,258017,3,Xi Lai Gaming,All Gamers,def,elim
+642945,258017,4,Xi Lai Gaming,All Gamers,def,defuse
+642945,258017,5,Xi Lai Gaming,All Gamers,def,elim
+642945,258017,6,Xi Lai Gaming,All Gamers,def,defuse
+642945,258017,7,All Gamers,Xi Lai Gaming,atk,elim
+642945,258017,8,Xi Lai Gaming,All Gamers,def,time
+642945,258017,9,Xi Lai Gaming,All Gamers,def,defuse
+642945,258017,10,All Gamers,Xi Lai Gaming,atk,elim
+642945,258017,11,All Gamers,Xi Lai Gaming,atk,elim
+642945,258017,12,All Gamers,Xi Lai Gaming,atk,elim
+642945,258017,13,Xi Lai Gaming,All Gamers,atk,elim
+642945,258017,14,Xi Lai Gaming,All Gamers,atk,elim
+642945,258017,15,All Gamers,Xi Lai Gaming,def,elim
+642945,258017,16,All Gamers,Xi Lai Gaming,def,defuse
+642945,258017,17,Xi Lai Gaming,All Gamers,atk,boom
+642945,258017,18,Xi Lai Gaming,All Gamers,atk,elim
+642945,258017,19,Xi Lai Gaming,All Gamers,atk,elim
+642945,258017,20,Xi Lai Gaming,All Gamers,atk,elim
+642945,258017,21,Xi Lai Gaming,All Gamers,atk,elim
+642946,258018,1,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,elim
+642946,258018,2,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,elim
+642946,258018,3,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,elim
+642946,258018,4,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+642946,258018,5,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,elim
+642946,258018,6,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,elim
+642946,258018,7,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,boom
+642946,258018,8,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,elim
+642946,258018,9,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,elim
+642946,258018,10,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,elim
+642946,258018,11,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+642946,258018,12,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+642946,258018,13,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,defuse
+642946,258018,14,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,defuse
+642946,258018,15,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258018,16,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,boom
+642946,258018,17,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258018,18,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258018,19,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258018,20,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258018,21,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,elim
+642946,258018,22,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,elim
+642946,258019,1,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,elim
+642946,258019,2,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,elim
+642946,258019,3,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,elim
+642946,258019,4,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,time
+642946,258019,5,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258019,6,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,defuse
+642946,258019,7,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258019,8,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258019,9,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,elim
+642946,258019,10,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258019,11,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258019,12,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258019,13,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+642946,258019,14,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+642946,258019,15,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,elim
+642946,258019,16,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+642946,258019,17,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+642946,258019,18,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+642946,258019,19,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+642946,258019,20,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,boom
+642946,258019,21,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+642946,258020,1,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,elim
+642946,258020,2,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,elim
+642946,258020,3,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258020,4,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258020,5,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,boom
+642946,258020,6,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,defuse
+642946,258020,7,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,time
+642946,258020,8,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,defuse
+642946,258020,9,JD Mall JDG Esports (JD Gaming),EDward Gaming,def,elim
+642946,258020,10,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258020,11,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258020,12,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+642946,258020,13,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,elim
+642946,258020,14,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,boom
+642946,258020,15,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+642946,258020,16,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+642946,258020,17,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+642946,258020,18,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,boom
+642946,258020,19,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,boom
+642946,258020,20,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,elim
+642946,258020,21,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+642946,258020,22,JD Mall JDG Esports (JD Gaming),EDward Gaming,atk,boom
+642946,258020,23,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+642946,258020,24,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+642946,258020,25,EDward Gaming,JD Mall JDG Esports (JD Gaming),atk,boom
+642946,258020,26,EDward Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+642947,258021,1,Dragon Ranger Gaming,TYLOO,def,elim
+642947,258021,2,TYLOO,Dragon Ranger Gaming,atk,elim
+642947,258021,3,TYLOO,Dragon Ranger Gaming,atk,boom
+642947,258021,4,Dragon Ranger Gaming,TYLOO,def,defuse
+642947,258021,5,TYLOO,Dragon Ranger Gaming,atk,boom
+642947,258021,6,TYLOO,Dragon Ranger Gaming,atk,elim
+642947,258021,7,TYLOO,Dragon Ranger Gaming,atk,elim
+642947,258021,8,TYLOO,Dragon Ranger Gaming,atk,elim
+642947,258021,9,Dragon Ranger Gaming,TYLOO,def,defuse
+642947,258021,10,TYLOO,Dragon Ranger Gaming,atk,elim
+642947,258021,11,Dragon Ranger Gaming,TYLOO,def,defuse
+642947,258021,12,TYLOO,Dragon Ranger Gaming,atk,elim
+642947,258021,13,Dragon Ranger Gaming,TYLOO,atk,elim
+642947,258021,14,Dragon Ranger Gaming,TYLOO,atk,elim
+642947,258021,15,TYLOO,Dragon Ranger Gaming,def,defuse
+642947,258021,16,TYLOO,Dragon Ranger Gaming,def,elim
+642947,258021,17,Dragon Ranger Gaming,TYLOO,atk,elim
+642947,258021,18,TYLOO,Dragon Ranger Gaming,def,defuse
+642947,258021,19,Dragon Ranger Gaming,TYLOO,atk,boom
+642947,258021,20,Dragon Ranger Gaming,TYLOO,atk,elim
+642947,258021,21,TYLOO,Dragon Ranger Gaming,def,defuse
+642947,258021,22,Dragon Ranger Gaming,TYLOO,atk,boom
+642947,258021,23,TYLOO,Dragon Ranger Gaming,def,elim
+642947,258022,1,Dragon Ranger Gaming,TYLOO,atk,elim
+642947,258022,2,Dragon Ranger Gaming,TYLOO,atk,elim
+642947,258022,3,TYLOO,Dragon Ranger Gaming,def,defuse
+642947,258022,4,TYLOO,Dragon Ranger Gaming,def,defuse
+642947,258022,5,TYLOO,Dragon Ranger Gaming,def,elim
+642947,258022,6,Dragon Ranger Gaming,TYLOO,atk,elim
+642947,258022,7,TYLOO,Dragon Ranger Gaming,def,elim
+642947,258022,8,TYLOO,Dragon Ranger Gaming,def,elim
+642947,258022,9,TYLOO,Dragon Ranger Gaming,def,elim
+642947,258022,10,TYLOO,Dragon Ranger Gaming,def,defuse
+642947,258022,11,Dragon Ranger Gaming,TYLOO,atk,boom
+642947,258022,12,Dragon Ranger Gaming,TYLOO,atk,elim
+642947,258022,13,Dragon Ranger Gaming,TYLOO,def,defuse
+642947,258022,14,Dragon Ranger Gaming,TYLOO,def,elim
+642947,258022,15,TYLOO,Dragon Ranger Gaming,atk,elim
+642947,258022,16,TYLOO,Dragon Ranger Gaming,atk,elim
+642947,258022,17,TYLOO,Dragon Ranger Gaming,atk,elim
+642947,258022,18,TYLOO,Dragon Ranger Gaming,atk,elim
+642947,258022,19,TYLOO,Dragon Ranger Gaming,atk,elim
+642947,258022,20,TYLOO,Dragon Ranger Gaming,atk,elim
+642948,258024,1,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,elim
+642948,258024,2,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,defuse
+642948,258024,3,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642948,258024,4,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,defuse
+642948,258024,5,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,elim
+642948,258024,6,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,defuse
+642948,258024,7,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642948,258024,8,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642948,258024,9,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,defuse
+642948,258024,10,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,elim
+642948,258024,11,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,defuse
+642948,258024,12,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,elim
+642948,258024,13,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,atk,elim
+642948,258024,14,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,atk,boom
+642948,258024,15,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642948,258024,16,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642948,258024,17,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642948,258024,18,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,atk,elim
+642948,258024,19,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,time
+642948,258024,20,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642948,258024,21,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,atk,elim
+642948,258025,1,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,elim
+642948,258025,2,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,defuse
+642948,258025,3,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,elim
+642948,258025,4,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642948,258025,5,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,defuse
+642948,258025,6,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642948,258025,7,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642948,258025,8,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642948,258025,9,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642948,258025,10,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+642948,258025,11,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,elim
+642948,258025,12,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,elim
+642948,258025,13,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642948,258025,14,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642948,258025,15,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,atk,boom
+642948,258025,16,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642948,258025,17,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642948,258025,18,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,atk,elim
+642948,258025,19,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642948,258025,20,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642948,258025,21,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,atk,elim
+642948,258025,22,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642948,258026,1,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642948,258026,2,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642948,258026,3,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,atk,elim
+642948,258026,4,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642948,258026,5,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642948,258026,6,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642948,258026,7,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642948,258026,8,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+642948,258026,9,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,atk,elim
+642948,258026,10,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,atk,elim
+642948,258026,11,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+642948,258026,12,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,atk,elim
+642948,258026,13,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,elim
+642948,258026,14,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,defuse
+642948,258026,15,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642948,258026,16,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642948,258026,17,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642948,258026,18,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,defuse
+642948,258026,19,Wuxi Titan Esports Club (Titan Esports Club),Trace Esports,def,elim
+642948,258026,20,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+642948,258026,21,Trace Esports,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659474,265283,1,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659474,265283,2,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659474,265283,3,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,def,elim
+659474,265283,4,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659474,265283,5,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659474,265283,6,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,def,elim
+659474,265283,7,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659474,265283,8,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659474,265283,9,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,def,defuse
+659474,265283,10,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,def,elim
+659474,265283,11,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659474,265283,12,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,def,elim
+659474,265283,13,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,atk,elim
+659474,265283,14,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,atk,elim
+659474,265283,15,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659474,265283,16,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,atk,elim
+659474,265283,17,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,atk,elim
+659474,265283,18,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659474,265283,19,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659474,265283,20,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659474,265283,21,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659474,265283,22,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659474,265284,1,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659474,265284,2,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659474,265284,3,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,atk,elim
+659474,265284,4,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659474,265284,5,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,atk,elim
+659474,265284,6,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659474,265284,7,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659474,265284,8,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659474,265284,9,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659474,265284,10,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659474,265284,11,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659474,265284,12,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,atk,elim
+659474,265284,13,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,def,defuse
+659474,265284,14,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,def,elim
+659474,265284,15,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659474,265284,16,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659474,265284,17,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659474,265284,18,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,def,elim
+659474,265284,19,Wuxi Titan Esports Club (Titan Esports Club),Xi Lai Gaming,def,elim
+659474,265284,20,Xi Lai Gaming,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659475,265286,1,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+659475,265286,2,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+659475,265286,3,JD Mall JDG Esports (JD Gaming),TYLOO,def,time
+659475,265286,4,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+659475,265286,5,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+659475,265286,6,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+659475,265286,7,JD Mall JDG Esports (JD Gaming),TYLOO,def,time
+659475,265286,8,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+659475,265286,9,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+659475,265286,10,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265286,11,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+659475,265286,12,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265286,13,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+659475,265286,14,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+659475,265286,15,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+659475,265287,1,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+659475,265287,2,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+659475,265287,3,TYLOO,JD Mall JDG Esports (JD Gaming),def,defuse
+659475,265287,4,JD Mall JDG Esports (JD Gaming),TYLOO,atk,boom
+659475,265287,5,JD Mall JDG Esports (JD Gaming),TYLOO,atk,boom
+659475,265287,6,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+659475,265287,7,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+659475,265287,8,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+659475,265287,9,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+659475,265287,10,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+659475,265287,11,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+659475,265287,12,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+659475,265287,13,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265287,14,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265287,15,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265287,16,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265287,17,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265287,18,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265287,19,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265287,20,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265287,21,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265287,22,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265288,1,TYLOO,JD Mall JDG Esports (JD Gaming),def,defuse
+659475,265288,2,JD Mall JDG Esports (JD Gaming),TYLOO,atk,boom
+659475,265288,3,TYLOO,JD Mall JDG Esports (JD Gaming),def,defuse
+659475,265288,4,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+659475,265288,5,TYLOO,JD Mall JDG Esports (JD Gaming),def,defuse
+659475,265288,6,JD Mall JDG Esports (JD Gaming),TYLOO,atk,boom
+659475,265288,7,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+659475,265288,8,JD Mall JDG Esports (JD Gaming),TYLOO,atk,boom
+659475,265288,9,TYLOO,JD Mall JDG Esports (JD Gaming),def,time
+659475,265288,10,JD Mall JDG Esports (JD Gaming),TYLOO,atk,elim
+659475,265288,11,TYLOO,JD Mall JDG Esports (JD Gaming),def,defuse
+659475,265288,12,TYLOO,JD Mall JDG Esports (JD Gaming),def,elim
+659475,265288,13,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+659475,265288,14,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+659475,265288,15,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+659475,265288,16,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+659475,265288,17,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+659475,265288,18,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+659475,265288,19,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265288,20,JD Mall JDG Esports (JD Gaming),TYLOO,def,elim
+659475,265288,21,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265288,22,TYLOO,JD Mall JDG Esports (JD Gaming),atk,elim
+659475,265288,23,JD Mall JDG Esports (JD Gaming),TYLOO,def,defuse
+659476,265289,1,All Gamers,Trace Esports,def,elim
+659476,265289,2,All Gamers,Trace Esports,def,elim
+659476,265289,3,All Gamers,Trace Esports,def,defuse
+659476,265289,4,All Gamers,Trace Esports,def,defuse
+659476,265289,5,All Gamers,Trace Esports,def,defuse
+659476,265289,6,All Gamers,Trace Esports,def,elim
+659476,265289,7,Trace Esports,All Gamers,atk,elim
+659476,265289,8,All Gamers,Trace Esports,def,defuse
+659476,265289,9,Trace Esports,All Gamers,atk,elim
+659476,265289,10,Trace Esports,All Gamers,atk,elim
+659476,265289,11,Trace Esports,All Gamers,atk,elim
+659476,265289,12,Trace Esports,All Gamers,atk,elim
+659476,265289,13,All Gamers,Trace Esports,atk,elim
+659476,265289,14,All Gamers,Trace Esports,atk,elim
+659476,265289,15,Trace Esports,All Gamers,def,defuse
+659476,265289,16,All Gamers,Trace Esports,atk,boom
+659476,265289,17,All Gamers,Trace Esports,atk,elim
+659476,265289,18,All Gamers,Trace Esports,atk,elim
+659476,265289,19,All Gamers,Trace Esports,atk,elim
+659476,265290,1,Trace Esports,All Gamers,atk,elim
+659476,265290,2,Trace Esports,All Gamers,atk,elim
+659476,265290,3,All Gamers,Trace Esports,def,elim
+659476,265290,4,Trace Esports,All Gamers,atk,elim
+659476,265290,5,All Gamers,Trace Esports,def,elim
+659476,265290,6,All Gamers,Trace Esports,def,defuse
+659476,265290,7,Trace Esports,All Gamers,atk,elim
+659476,265290,8,All Gamers,Trace Esports,def,elim
+659476,265290,9,All Gamers,Trace Esports,def,elim
+659476,265290,10,All Gamers,Trace Esports,def,defuse
+659476,265290,11,All Gamers,Trace Esports,def,defuse
+659476,265290,12,All Gamers,Trace Esports,def,defuse
+659476,265290,13,Trace Esports,All Gamers,def,elim
+659476,265290,14,Trace Esports,All Gamers,def,elim
+659476,265290,15,All Gamers,Trace Esports,atk,elim
+659476,265290,16,All Gamers,Trace Esports,atk,elim
+659476,265290,17,All Gamers,Trace Esports,atk,elim
+659476,265290,18,All Gamers,Trace Esports,atk,elim
+659476,265290,19,All Gamers,Trace Esports,atk,elim
+659477,265292,1,Dragon Ranger Gaming,EDward Gaming,def,defuse
+659477,265292,2,Dragon Ranger Gaming,EDward Gaming,def,defuse
+659477,265292,3,Dragon Ranger Gaming,EDward Gaming,def,elim
+659477,265292,4,Dragon Ranger Gaming,EDward Gaming,def,defuse
+659477,265292,5,EDward Gaming,Dragon Ranger Gaming,atk,elim
+659477,265292,6,EDward Gaming,Dragon Ranger Gaming,atk,boom
+659477,265292,7,Dragon Ranger Gaming,EDward Gaming,def,defuse
+659477,265292,8,Dragon Ranger Gaming,EDward Gaming,def,elim
+659477,265292,9,EDward Gaming,Dragon Ranger Gaming,atk,elim
+659477,265292,10,EDward Gaming,Dragon Ranger Gaming,atk,elim
+659477,265292,11,Dragon Ranger Gaming,EDward Gaming,def,elim
+659477,265292,12,EDward Gaming,Dragon Ranger Gaming,atk,elim
+659477,265292,13,Dragon Ranger Gaming,EDward Gaming,atk,elim
+659477,265292,14,Dragon Ranger Gaming,EDward Gaming,atk,elim
+659477,265292,15,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265292,16,EDward Gaming,Dragon Ranger Gaming,def,defuse
+659477,265292,17,Dragon Ranger Gaming,EDward Gaming,atk,elim
+659477,265292,18,Dragon Ranger Gaming,EDward Gaming,atk,elim
+659477,265292,19,Dragon Ranger Gaming,EDward Gaming,atk,elim
+659477,265292,20,Dragon Ranger Gaming,EDward Gaming,atk,elim
+659477,265293,1,EDward Gaming,Dragon Ranger Gaming,def,defuse
+659477,265293,2,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265293,3,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265293,4,Dragon Ranger Gaming,EDward Gaming,atk,elim
+659477,265293,5,EDward Gaming,Dragon Ranger Gaming,def,time
+659477,265293,6,EDward Gaming,Dragon Ranger Gaming,def,defuse
+659477,265293,7,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265293,8,EDward Gaming,Dragon Ranger Gaming,def,time
+659477,265293,9,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265293,10,Dragon Ranger Gaming,EDward Gaming,atk,elim
+659477,265293,11,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265293,12,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265293,13,Dragon Ranger Gaming,EDward Gaming,def,defuse
+659477,265293,14,Dragon Ranger Gaming,EDward Gaming,def,elim
+659477,265293,15,EDward Gaming,Dragon Ranger Gaming,atk,elim
+659477,265293,16,Dragon Ranger Gaming,EDward Gaming,def,time
+659477,265293,17,Dragon Ranger Gaming,EDward Gaming,def,defuse
+659477,265293,18,Dragon Ranger Gaming,EDward Gaming,def,elim
+659477,265293,19,EDward Gaming,Dragon Ranger Gaming,atk,elim
+659477,265293,20,EDward Gaming,Dragon Ranger Gaming,atk,elim
+659477,265294,1,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265294,2,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265294,3,Dragon Ranger Gaming,EDward Gaming,atk,elim
+659477,265294,4,Dragon Ranger Gaming,EDward Gaming,atk,boom
+659477,265294,5,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265294,6,Dragon Ranger Gaming,EDward Gaming,atk,elim
+659477,265294,7,EDward Gaming,Dragon Ranger Gaming,def,defuse
+659477,265294,8,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265294,9,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265294,10,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265294,11,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265294,12,EDward Gaming,Dragon Ranger Gaming,def,elim
+659477,265294,13,Dragon Ranger Gaming,EDward Gaming,def,defuse
+659477,265294,14,Dragon Ranger Gaming,EDward Gaming,def,elim
+659477,265294,15,EDward Gaming,Dragon Ranger Gaming,atk,elim
+659477,265294,16,Dragon Ranger Gaming,EDward Gaming,def,elim
+659477,265294,17,Dragon Ranger Gaming,EDward Gaming,def,elim
+659477,265294,18,EDward Gaming,Dragon Ranger Gaming,atk,elim
+659477,265294,19,EDward Gaming,Dragon Ranger Gaming,atk,elim
+659477,265294,20,EDward Gaming,Dragon Ranger Gaming,atk,elim
+659478,265295,1,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265295,2,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265295,3,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,boom
+659478,265295,4,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265295,5,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265295,6,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265295,7,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265295,8,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265295,9,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,boom
+659478,265295,10,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265295,11,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265295,12,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265295,13,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+659478,265296,1,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+659478,265296,2,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+659478,265296,3,JD Mall JDG Esports (JD Gaming),Xi Lai Gaming,atk,elim
+659478,265296,4,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+659478,265296,5,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+659478,265296,6,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+659478,265296,7,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+659478,265296,8,JD Mall JDG Esports (JD Gaming),Xi Lai Gaming,atk,elim
+659478,265296,9,JD Mall JDG Esports (JD Gaming),Xi Lai Gaming,atk,elim
+659478,265296,10,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+659478,265296,11,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+659478,265296,12,JD Mall JDG Esports (JD Gaming),Xi Lai Gaming,atk,elim
+659478,265296,13,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265296,14,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265296,15,JD Mall JDG Esports (JD Gaming),Xi Lai Gaming,def,elim
+659478,265296,16,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265296,17,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659478,265296,18,Xi Lai Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659479,265298,1,All Gamers,EDward Gaming,atk,elim
+659479,265298,2,All Gamers,EDward Gaming,atk,elim
+659479,265298,3,All Gamers,EDward Gaming,atk,elim
+659479,265298,4,All Gamers,EDward Gaming,atk,elim
+659479,265298,5,EDward Gaming,All Gamers,def,elim
+659479,265298,6,EDward Gaming,All Gamers,def,elim
+659479,265298,7,EDward Gaming,All Gamers,def,elim
+659479,265298,8,All Gamers,EDward Gaming,atk,elim
+659479,265298,9,EDward Gaming,All Gamers,def,elim
+659479,265298,10,EDward Gaming,All Gamers,def,elim
+659479,265298,11,All Gamers,EDward Gaming,atk,boom
+659479,265298,12,All Gamers,EDward Gaming,atk,elim
+659479,265298,13,EDward Gaming,All Gamers,atk,elim
+659479,265298,14,EDward Gaming,All Gamers,atk,boom
+659479,265298,15,EDward Gaming,All Gamers,atk,boom
+659479,265298,16,EDward Gaming,All Gamers,atk,elim
+659479,265298,17,EDward Gaming,All Gamers,atk,elim
+659479,265298,18,EDward Gaming,All Gamers,atk,boom
+659479,265298,19,EDward Gaming,All Gamers,atk,elim
+659479,265298,20,EDward Gaming,All Gamers,atk,elim
+659479,265299,1,EDward Gaming,All Gamers,atk,elim
+659479,265299,2,EDward Gaming,All Gamers,atk,elim
+659479,265299,3,EDward Gaming,All Gamers,atk,boom
+659479,265299,4,EDward Gaming,All Gamers,atk,elim
+659479,265299,5,EDward Gaming,All Gamers,atk,elim
+659479,265299,6,EDward Gaming,All Gamers,atk,boom
+659479,265299,7,All Gamers,EDward Gaming,def,defuse
+659479,265299,8,EDward Gaming,All Gamers,atk,elim
+659479,265299,9,All Gamers,EDward Gaming,def,defuse
+659479,265299,10,EDward Gaming,All Gamers,atk,elim
+659479,265299,11,EDward Gaming,All Gamers,atk,elim
+659479,265299,12,EDward Gaming,All Gamers,atk,elim
+659479,265299,13,EDward Gaming,All Gamers,def,defuse
+659479,265299,14,All Gamers,EDward Gaming,atk,elim
+659479,265299,15,All Gamers,EDward Gaming,atk,elim
+659479,265299,16,All Gamers,EDward Gaming,atk,elim
+659479,265299,17,All Gamers,EDward Gaming,atk,boom
+659479,265299,18,EDward Gaming,All Gamers,def,elim
+659479,265299,19,EDward Gaming,All Gamers,def,elim
+659480,265301,1,Xi Lai Gaming,EDward Gaming,def,elim
+659480,265301,2,Xi Lai Gaming,EDward Gaming,def,elim
+659480,265301,3,EDward Gaming,Xi Lai Gaming,atk,elim
+659480,265301,4,EDward Gaming,Xi Lai Gaming,atk,elim
+659480,265301,5,EDward Gaming,Xi Lai Gaming,atk,elim
+659480,265301,6,EDward Gaming,Xi Lai Gaming,atk,boom
+659480,265301,7,EDward Gaming,Xi Lai Gaming,atk,elim
+659480,265301,8,EDward Gaming,Xi Lai Gaming,atk,boom
+659480,265301,9,Xi Lai Gaming,EDward Gaming,def,time
+659480,265301,10,Xi Lai Gaming,EDward Gaming,def,elim
+659480,265301,11,EDward Gaming,Xi Lai Gaming,atk,elim
+659480,265301,12,Xi Lai Gaming,EDward Gaming,def,elim
+659480,265301,13,Xi Lai Gaming,EDward Gaming,atk,elim
+659480,265301,14,Xi Lai Gaming,EDward Gaming,atk,elim
+659480,265301,15,EDward Gaming,Xi Lai Gaming,def,defuse
+659480,265301,16,Xi Lai Gaming,EDward Gaming,atk,boom
+659480,265301,17,EDward Gaming,Xi Lai Gaming,def,defuse
+659480,265301,18,EDward Gaming,Xi Lai Gaming,def,elim
+659480,265301,19,EDward Gaming,Xi Lai Gaming,def,elim
+659480,265301,20,Xi Lai Gaming,EDward Gaming,atk,elim
+659480,265301,21,EDward Gaming,Xi Lai Gaming,def,elim
+659480,265301,22,EDward Gaming,Xi Lai Gaming,def,elim
+659480,265302,1,Xi Lai Gaming,EDward Gaming,atk,elim
+659480,265302,2,Xi Lai Gaming,EDward Gaming,atk,boom
+659480,265302,3,EDward Gaming,Xi Lai Gaming,def,defuse
+659480,265302,4,EDward Gaming,Xi Lai Gaming,def,elim
+659480,265302,5,EDward Gaming,Xi Lai Gaming,def,elim
+659480,265302,6,EDward Gaming,Xi Lai Gaming,def,defuse
+659480,265302,7,EDward Gaming,Xi Lai Gaming,def,elim
+659480,265302,8,EDward Gaming,Xi Lai Gaming,def,elim
+659480,265302,9,Xi Lai Gaming,EDward Gaming,atk,elim
+659480,265302,10,EDward Gaming,Xi Lai Gaming,def,elim
+659480,265302,11,EDward Gaming,Xi Lai Gaming,def,elim
+659480,265302,12,Xi Lai Gaming,EDward Gaming,atk,elim
+659480,265302,13,Xi Lai Gaming,EDward Gaming,def,defuse
+659480,265302,14,Xi Lai Gaming,EDward Gaming,def,defuse
+659480,265302,15,EDward Gaming,Xi Lai Gaming,atk,elim
+659480,265302,16,Xi Lai Gaming,EDward Gaming,def,defuse
+659480,265302,17,Xi Lai Gaming,EDward Gaming,def,elim
+659480,265302,18,EDward Gaming,Xi Lai Gaming,atk,boom
+659480,265302,19,EDward Gaming,Xi Lai Gaming,atk,elim
+659480,265302,20,EDward Gaming,Xi Lai Gaming,atk,elim
+659480,265302,21,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265304,1,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265304,2,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265304,3,Xi Lai Gaming,EDward Gaming,atk,boom
+659481,265304,4,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265304,5,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265304,6,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265304,7,EDward Gaming,Xi Lai Gaming,def,elim
+659481,265304,8,EDward Gaming,Xi Lai Gaming,def,time
+659481,265304,9,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265304,10,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265304,11,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265304,12,EDward Gaming,Xi Lai Gaming,def,elim
+659481,265304,13,Xi Lai Gaming,EDward Gaming,def,time
+659481,265304,14,Xi Lai Gaming,EDward Gaming,def,elim
+659481,265304,15,Xi Lai Gaming,EDward Gaming,def,defuse
+659481,265304,16,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265304,17,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265304,18,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265304,19,Xi Lai Gaming,EDward Gaming,def,defuse
+659481,265305,1,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265305,2,EDward Gaming,Xi Lai Gaming,atk,boom
+659481,265305,3,Xi Lai Gaming,EDward Gaming,def,defuse
+659481,265305,4,Xi Lai Gaming,EDward Gaming,def,elim
+659481,265305,5,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265305,6,EDward Gaming,Xi Lai Gaming,atk,boom
+659481,265305,7,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265305,8,EDward Gaming,Xi Lai Gaming,atk,boom
+659481,265305,9,Xi Lai Gaming,EDward Gaming,def,time
+659481,265305,10,EDward Gaming,Xi Lai Gaming,atk,boom
+659481,265305,11,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265305,12,Xi Lai Gaming,EDward Gaming,def,elim
+659481,265305,13,EDward Gaming,Xi Lai Gaming,def,elim
+659481,265305,14,EDward Gaming,Xi Lai Gaming,def,defuse
+659481,265305,15,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265305,16,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265305,17,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265305,18,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265305,19,Xi Lai Gaming,EDward Gaming,atk,boom
+659481,265305,20,EDward Gaming,Xi Lai Gaming,def,defuse
+659481,265305,21,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265305,22,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265305,23,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265305,24,EDward Gaming,Xi Lai Gaming,def,defuse
+659481,265305,25,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265305,26,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265305,27,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265305,28,EDward Gaming,Xi Lai Gaming,def,elim
+659481,265306,1,EDward Gaming,Xi Lai Gaming,def,elim
+659481,265306,2,EDward Gaming,Xi Lai Gaming,def,elim
+659481,265306,3,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265306,4,EDward Gaming,Xi Lai Gaming,def,time
+659481,265306,5,EDward Gaming,Xi Lai Gaming,def,elim
+659481,265306,6,EDward Gaming,Xi Lai Gaming,def,elim
+659481,265306,7,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265306,8,EDward Gaming,Xi Lai Gaming,def,defuse
+659481,265306,9,Xi Lai Gaming,EDward Gaming,atk,boom
+659481,265306,10,EDward Gaming,Xi Lai Gaming,def,elim
+659481,265306,11,EDward Gaming,Xi Lai Gaming,def,defuse
+659481,265306,12,EDward Gaming,Xi Lai Gaming,def,elim
+659481,265306,13,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265306,14,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265306,15,Xi Lai Gaming,EDward Gaming,def,elim
+659481,265306,16,Xi Lai Gaming,EDward Gaming,def,defuse
+659481,265306,17,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265306,18,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265307,1,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265307,2,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265307,3,Xi Lai Gaming,EDward Gaming,def,elim
+659481,265307,4,Xi Lai Gaming,EDward Gaming,def,defuse
+659481,265307,5,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265307,6,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265307,7,Xi Lai Gaming,EDward Gaming,def,elim
+659481,265307,8,Xi Lai Gaming,EDward Gaming,def,defuse
+659481,265307,9,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265307,10,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265307,11,Xi Lai Gaming,EDward Gaming,def,time
+659481,265307,12,Xi Lai Gaming,EDward Gaming,def,elim
+659481,265307,13,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265307,14,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265307,15,Xi Lai Gaming,EDward Gaming,atk,boom
+659481,265307,16,Xi Lai Gaming,EDward Gaming,atk,boom
+659481,265307,17,EDward Gaming,Xi Lai Gaming,def,defuse
+659481,265307,18,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265307,19,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265307,20,EDward Gaming,Xi Lai Gaming,def,defuse
+659481,265307,21,EDward Gaming,Xi Lai Gaming,def,defuse
+659481,265307,22,Xi Lai Gaming,EDward Gaming,atk,elim
+659481,265308,1,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265308,2,Xi Lai Gaming,EDward Gaming,def,elim
+659481,265308,3,Xi Lai Gaming,EDward Gaming,def,elim
+659481,265308,4,Xi Lai Gaming,EDward Gaming,def,elim
+659481,265308,5,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265308,6,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265308,7,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265308,8,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265308,9,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265308,10,EDward Gaming,Xi Lai Gaming,atk,elim
+659481,265308,11,EDward Gaming,Xi Lai Gaming,atk,boom
+659481,265308,12,Xi Lai Gaming,EDward Gaming,def,defuse
+659481,265308,13,EDward Gaming,Xi Lai Gaming,def,elim
+659481,265308,14,EDward Gaming,Xi Lai Gaming,def,elim
+659481,265308,15,EDward Gaming,Xi Lai Gaming,def,defuse
+659481,265308,16,EDward Gaming,Xi Lai Gaming,def,defuse
+659481,265308,17,EDward Gaming,Xi Lai Gaming,def,elim
+659482,265309,1,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659482,265309,2,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+659482,265309,3,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659482,265309,4,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659482,265309,5,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659482,265309,6,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,boom
+659482,265309,7,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+659482,265309,8,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+659482,265309,9,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+659482,265309,10,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659482,265309,11,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+659482,265309,12,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+659482,265309,13,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659482,265309,14,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659482,265309,15,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,defuse
+659482,265309,16,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+659482,265309,17,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+659482,265309,18,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,defuse
+659482,265309,19,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659482,265309,20,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,time
+659482,265309,21,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+659482,265310,1,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+659482,265310,2,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659482,265310,3,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659482,265310,4,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659482,265310,5,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659482,265310,6,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659482,265310,7,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+659482,265310,8,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659482,265310,9,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659482,265310,10,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+659482,265310,11,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659482,265310,12,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659482,265310,13,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659482,265310,14,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+659482,265310,15,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659482,265310,16,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,defuse
+659482,265310,17,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+659482,265310,18,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,defuse
+659482,265310,19,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+659482,265310,20,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,time
+659482,265310,21,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+659482,265310,22,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+659482,265311,1,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659482,265311,2,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659482,265311,3,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+659482,265311,4,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659482,265311,5,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659482,265311,6,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659482,265311,7,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659482,265311,8,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+659482,265311,9,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659482,265311,10,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,defuse
+659482,265311,11,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,atk,elim
+659482,265311,12,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),def,elim
+659482,265311,13,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,defuse
+659482,265311,14,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+659482,265311,15,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+659482,265311,16,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,boom
+659482,265311,17,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+659482,265311,18,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+659482,265311,19,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+659482,265311,20,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659482,265311,21,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,defuse
+659482,265311,22,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+659482,265311,23,Wuxi Titan Esports Club (Titan Esports Club),TYLOO,def,elim
+659482,265311,24,TYLOO,Wuxi Titan Esports Club (Titan Esports Club),atk,elim
+659483,265312,1,Dragon Ranger Gaming,Trace Esports,def,defuse
+659483,265312,2,Dragon Ranger Gaming,Trace Esports,def,elim
+659483,265312,3,Dragon Ranger Gaming,Trace Esports,def,defuse
+659483,265312,4,Dragon Ranger Gaming,Trace Esports,def,elim
+659483,265312,5,Trace Esports,Dragon Ranger Gaming,atk,elim
+659483,265312,6,Dragon Ranger Gaming,Trace Esports,def,elim
+659483,265312,7,Dragon Ranger Gaming,Trace Esports,def,elim
+659483,265312,8,Trace Esports,Dragon Ranger Gaming,atk,elim
+659483,265312,9,Dragon Ranger Gaming,Trace Esports,def,elim
+659483,265312,10,Dragon Ranger Gaming,Trace Esports,def,elim
+659483,265312,11,Dragon Ranger Gaming,Trace Esports,def,elim
+659483,265312,12,Dragon Ranger Gaming,Trace Esports,def,defuse
+659483,265312,13,Trace Esports,Dragon Ranger Gaming,def,elim
+659483,265312,14,Trace Esports,Dragon Ranger Gaming,def,elim
+659483,265312,15,Trace Esports,Dragon Ranger Gaming,def,defuse
+659483,265312,16,Dragon Ranger Gaming,Trace Esports,atk,elim
+659483,265312,17,Trace Esports,Dragon Ranger Gaming,def,elim
+659483,265312,18,Trace Esports,Dragon Ranger Gaming,def,elim
+659483,265312,19,Dragon Ranger Gaming,Trace Esports,atk,boom
+659483,265312,20,Dragon Ranger Gaming,Trace Esports,atk,elim
+659483,265313,1,Dragon Ranger Gaming,Trace Esports,def,elim
+659483,265313,2,Dragon Ranger Gaming,Trace Esports,def,elim
+659483,265313,3,Trace Esports,Dragon Ranger Gaming,atk,elim
+659483,265313,4,Trace Esports,Dragon Ranger Gaming,atk,elim
+659483,265313,5,Dragon Ranger Gaming,Trace Esports,def,defuse
+659483,265313,6,Trace Esports,Dragon Ranger Gaming,atk,boom
+659483,265313,7,Trace Esports,Dragon Ranger Gaming,atk,elim
+659483,265313,8,Trace Esports,Dragon Ranger Gaming,atk,elim
+659483,265313,9,Trace Esports,Dragon Ranger Gaming,atk,elim
+659483,265313,10,Dragon Ranger Gaming,Trace Esports,def,defuse
+659483,265313,11,Dragon Ranger Gaming,Trace Esports,def,defuse
+659483,265313,12,Dragon Ranger Gaming,Trace Esports,def,defuse
+659483,265313,13,Dragon Ranger Gaming,Trace Esports,atk,elim
+659483,265313,14,Dragon Ranger Gaming,Trace Esports,atk,elim
+659483,265313,15,Dragon Ranger Gaming,Trace Esports,atk,elim
+659483,265313,16,Dragon Ranger Gaming,Trace Esports,atk,elim
+659483,265313,17,Dragon Ranger Gaming,Trace Esports,atk,elim
+659483,265313,18,Dragon Ranger Gaming,Trace Esports,atk,elim
+659483,265313,19,Dragon Ranger Gaming,Trace Esports,atk,elim
+659484,265315,1,TYLOO,All Gamers,def,elim
+659484,265315,2,TYLOO,All Gamers,def,defuse
+659484,265315,3,All Gamers,TYLOO,atk,elim
+659484,265315,4,TYLOO,All Gamers,def,defuse
+659484,265315,5,All Gamers,TYLOO,atk,elim
+659484,265315,6,All Gamers,TYLOO,atk,elim
+659484,265315,7,All Gamers,TYLOO,atk,elim
+659484,265315,8,All Gamers,TYLOO,atk,elim
+659484,265315,9,All Gamers,TYLOO,atk,elim
+659484,265315,10,TYLOO,All Gamers,def,defuse
+659484,265315,11,All Gamers,TYLOO,atk,elim
+659484,265315,12,All Gamers,TYLOO,atk,elim
+659484,265315,13,All Gamers,TYLOO,def,defuse
+659484,265315,14,All Gamers,TYLOO,def,elim
+659484,265315,15,All Gamers,TYLOO,def,elim
+659484,265315,16,All Gamers,TYLOO,def,defuse
+659484,265315,17,All Gamers,TYLOO,def,elim
+659484,265316,1,TYLOO,All Gamers,atk,elim
+659484,265316,2,TYLOO,All Gamers,atk,boom
+659484,265316,3,TYLOO,All Gamers,atk,elim
+659484,265316,4,All Gamers,TYLOO,def,defuse
+659484,265316,5,TYLOO,All Gamers,atk,boom
+659484,265316,6,TYLOO,All Gamers,atk,boom
+659484,265316,7,All Gamers,TYLOO,def,elim
+659484,265316,8,TYLOO,All Gamers,atk,boom
+659484,265316,9,All Gamers,TYLOO,def,defuse
+659484,265316,10,All Gamers,TYLOO,def,defuse
+659484,265316,11,TYLOO,All Gamers,atk,elim
+659484,265316,12,TYLOO,All Gamers,atk,elim
+659484,265316,13,All Gamers,TYLOO,atk,elim
+659484,265316,14,All Gamers,TYLOO,atk,boom
+659484,265316,15,TYLOO,All Gamers,def,elim
+659484,265316,16,TYLOO,All Gamers,def,defuse
+659484,265316,17,TYLOO,All Gamers,def,defuse
+659484,265316,18,All Gamers,TYLOO,atk,elim
+659484,265316,19,All Gamers,TYLOO,atk,elim
+659484,265316,20,All Gamers,TYLOO,atk,boom
+659484,265316,21,All Gamers,TYLOO,atk,elim
+659484,265316,22,TYLOO,All Gamers,def,elim
+659484,265316,23,TYLOO,All Gamers,def,elim
+659484,265317,1,All Gamers,TYLOO,def,defuse
+659484,265317,2,All Gamers,TYLOO,def,elim
+659484,265317,3,TYLOO,All Gamers,atk,boom
+659484,265317,4,TYLOO,All Gamers,atk,boom
+659484,265317,5,All Gamers,TYLOO,def,defuse
+659484,265317,6,TYLOO,All Gamers,atk,elim
+659484,265317,7,TYLOO,All Gamers,atk,elim
+659484,265317,8,All Gamers,TYLOO,def,defuse
+659484,265317,9,TYLOO,All Gamers,atk,boom
+659484,265317,10,All Gamers,TYLOO,def,time
+659484,265317,11,All Gamers,TYLOO,def,defuse
+659484,265317,12,TYLOO,All Gamers,atk,elim
+659484,265317,13,All Gamers,TYLOO,atk,elim
+659484,265317,14,All Gamers,TYLOO,atk,elim
+659484,265317,15,All Gamers,TYLOO,atk,elim
+659484,265317,16,All Gamers,TYLOO,atk,elim
+659484,265317,17,All Gamers,TYLOO,atk,elim
+659484,265317,18,All Gamers,TYLOO,atk,elim
+659484,265317,19,TYLOO,All Gamers,def,defuse
+659484,265317,20,TYLOO,All Gamers,def,time
+659484,265317,21,TYLOO,All Gamers,def,elim
+659484,265317,22,TYLOO,All Gamers,def,defuse
+659484,265317,23,All Gamers,TYLOO,atk,elim
+659485,265318,1,JD Mall JDG Esports (JD Gaming),Dragon Ranger Gaming,atk,elim
+659485,265318,2,JD Mall JDG Esports (JD Gaming),Dragon Ranger Gaming,atk,elim
+659485,265318,3,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+659485,265318,4,JD Mall JDG Esports (JD Gaming),Dragon Ranger Gaming,atk,elim
+659485,265318,5,JD Mall JDG Esports (JD Gaming),Dragon Ranger Gaming,atk,elim
+659485,265318,6,JD Mall JDG Esports (JD Gaming),Dragon Ranger Gaming,atk,elim
+659485,265318,7,JD Mall JDG Esports (JD Gaming),Dragon Ranger Gaming,atk,elim
+659485,265318,8,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+659485,265318,9,JD Mall JDG Esports (JD Gaming),Dragon Ranger Gaming,atk,elim
+659485,265318,10,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+659485,265318,11,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+659485,265318,12,JD Mall JDG Esports (JD Gaming),Dragon Ranger Gaming,atk,elim
+659485,265318,13,JD Mall JDG Esports (JD Gaming),Dragon Ranger Gaming,def,defuse
+659485,265318,14,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659485,265318,15,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659485,265318,16,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659485,265318,17,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659485,265318,18,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),atk,boom
+659485,265318,19,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),atk,boom
+659485,265318,20,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659485,265318,21,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659485,265318,22,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659485,265319,1,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+659485,265319,2,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+659485,265319,3,JD Mall JDG Esports (JD Gaming),Dragon Ranger Gaming,atk,elim
+659485,265319,4,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+659485,265319,5,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+659485,265319,6,JD Mall JDG Esports (JD Gaming),Dragon Ranger Gaming,atk,elim
+659485,265319,7,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+659485,265319,8,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),def,elim
+659485,265319,9,JD Mall JDG Esports (JD Gaming),Dragon Ranger Gaming,atk,boom
+659485,265319,10,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+659485,265319,11,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+659485,265319,12,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),def,defuse
+659485,265319,13,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659485,265319,14,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659485,265319,15,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659485,265319,16,JD Mall JDG Esports (JD Gaming),Dragon Ranger Gaming,def,defuse
+659485,265319,17,Dragon Ranger Gaming,JD Mall JDG Esports (JD Gaming),atk,elim
+659486,265321,1,Dragon Ranger Gaming,All Gamers,def,defuse
+659486,265321,2,Dragon Ranger Gaming,All Gamers,def,defuse
+659486,265321,3,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265321,4,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265321,5,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265321,6,Dragon Ranger Gaming,All Gamers,def,elim
+659486,265321,7,Dragon Ranger Gaming,All Gamers,def,elim
+659486,265321,8,Dragon Ranger Gaming,All Gamers,def,defuse
+659486,265321,9,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265321,10,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265321,11,Dragon Ranger Gaming,All Gamers,def,defuse
+659486,265321,12,Dragon Ranger Gaming,All Gamers,def,elim
+659486,265321,13,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265321,14,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265321,15,All Gamers,Dragon Ranger Gaming,def,defuse
+659486,265321,16,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265321,17,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265321,18,All Gamers,Dragon Ranger Gaming,def,defuse
+659486,265321,19,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265321,20,All Gamers,Dragon Ranger Gaming,def,elim
+659486,265321,21,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265322,1,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265322,2,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265322,3,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265322,4,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265322,5,Dragon Ranger Gaming,All Gamers,def,elim
+659486,265322,6,All Gamers,Dragon Ranger Gaming,atk,boom
+659486,265322,7,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265322,8,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265322,9,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265322,10,Dragon Ranger Gaming,All Gamers,def,elim
+659486,265322,11,Dragon Ranger Gaming,All Gamers,def,elim
+659486,265322,12,Dragon Ranger Gaming,All Gamers,def,elim
+659486,265322,13,All Gamers,Dragon Ranger Gaming,def,defuse
+659486,265322,14,All Gamers,Dragon Ranger Gaming,def,defuse
+659486,265322,15,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265322,16,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265322,17,All Gamers,Dragon Ranger Gaming,def,defuse
+659486,265322,18,Dragon Ranger Gaming,All Gamers,atk,boom
+659486,265322,19,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265322,20,All Gamers,Dragon Ranger Gaming,def,elim
+659486,265322,21,All Gamers,Dragon Ranger Gaming,def,defuse
+659486,265323,1,All Gamers,Dragon Ranger Gaming,def,defuse
+659486,265323,2,All Gamers,Dragon Ranger Gaming,def,defuse
+659486,265323,3,All Gamers,Dragon Ranger Gaming,def,defuse
+659486,265323,4,All Gamers,Dragon Ranger Gaming,def,elim
+659486,265323,5,Dragon Ranger Gaming,All Gamers,atk,boom
+659486,265323,6,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265323,7,Dragon Ranger Gaming,All Gamers,atk,boom
+659486,265323,8,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265323,9,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265323,10,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265323,11,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265323,12,Dragon Ranger Gaming,All Gamers,atk,elim
+659486,265323,13,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265323,14,All Gamers,Dragon Ranger Gaming,atk,elim
+659486,265323,15,Dragon Ranger Gaming,All Gamers,def,defuse
+659486,265323,16,Dragon Ranger Gaming,All Gamers,def,elim
+659486,265323,17,Dragon Ranger Gaming,All Gamers,def,elim
+659486,265323,18,Dragon Ranger Gaming,All Gamers,def,defuse
+659486,265323,19,Dragon Ranger Gaming,All Gamers,def,elim
+659487,265324,1,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265324,2,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265324,3,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265324,4,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265324,5,Xi Lai Gaming,Dragon Ranger Gaming,atk,boom
+659487,265324,6,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265324,7,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265324,8,Xi Lai Gaming,Dragon Ranger Gaming,atk,boom
+659487,265324,9,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+659487,265324,10,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+659487,265324,11,Xi Lai Gaming,Dragon Ranger Gaming,atk,boom
+659487,265324,12,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265324,13,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+659487,265324,14,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+659487,265324,15,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+659487,265325,1,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+659487,265325,2,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265325,3,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265325,4,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265325,5,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265325,6,Xi Lai Gaming,Dragon Ranger Gaming,atk,boom
+659487,265325,7,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265325,8,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265325,9,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265325,10,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+659487,265325,11,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+659487,265325,12,Xi Lai Gaming,Dragon Ranger Gaming,atk,boom
+659487,265325,13,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+659487,265325,14,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+659487,265325,15,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+659487,265325,16,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+659487,265325,17,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+659487,265325,18,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+659487,265325,19,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+659487,265326,1,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+659487,265326,2,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+659487,265326,3,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265326,4,Xi Lai Gaming,Dragon Ranger Gaming,atk,boom
+659487,265326,5,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+659487,265326,6,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+659487,265326,7,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+659487,265326,8,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265326,9,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+659487,265326,10,Dragon Ranger Gaming,Xi Lai Gaming,def,time
+659487,265326,11,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+659487,265326,12,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+659487,265326,13,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+659487,265326,14,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+659487,265326,15,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+659487,265326,16,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+659487,265326,17,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+659487,265326,18,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+659487,265326,19,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+659487,265326,20,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+659487,265326,21,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+659487,265326,22,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+659487,265326,23,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+659487,265327,1,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+659487,265327,2,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+659487,265327,3,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+659487,265327,4,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265327,5,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265327,6,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265327,7,Xi Lai Gaming,Dragon Ranger Gaming,atk,boom
+659487,265327,8,Dragon Ranger Gaming,Xi Lai Gaming,def,defuse
+659487,265327,9,Dragon Ranger Gaming,Xi Lai Gaming,def,elim
+659487,265327,10,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265327,11,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265327,12,Xi Lai Gaming,Dragon Ranger Gaming,atk,elim
+659487,265327,13,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+659487,265327,14,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+659487,265327,15,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+659487,265327,16,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+659487,265327,17,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+659487,265327,18,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+659487,265327,19,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+659487,265327,20,Dragon Ranger Gaming,Xi Lai Gaming,atk,elim
+659487,265327,21,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
+659487,265327,22,Dragon Ranger Gaming,Xi Lai Gaming,atk,boom
+659487,265327,23,Xi Lai Gaming,Dragon Ranger Gaming,def,defuse
+659487,265327,24,Xi Lai Gaming,Dragon Ranger Gaming,def,elim
