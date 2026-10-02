@@ -37,7 +37,7 @@ class Fetcher:
             "Accept-Language": "en-US,en;q=0.9",
         })
 
-    def get(self, path: str, refresh: bool = False) -> str:
+    def get(self, path: str, refresh: bool = False, store: bool = True) -> str:
         url = path if path.startswith("http") else BASE + path
         f = self.cache / (hashlib.sha1(url.encode()).hexdigest() + ".html")
         if f.exists() and not refresh:
@@ -61,7 +61,8 @@ class Fetcher:
             if status == 200:
                 if "cf-mitigated" in headers or "<title>Just a moment" in text[:2000]:
                     raise RuntimeError(f"Cloudflare challenge blocked {url}")
-                f.write_text(text, encoding="utf-8")
+                if store:
+                    f.write_text(text, encoding="utf-8")
                 return text
             last_err = RuntimeError(f"HTTP {status} for {url}")
             if status in (429, 500, 502, 503, 504):
