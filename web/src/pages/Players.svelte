@@ -6,6 +6,8 @@
   let role = $state('ALL');
   let map = $state('');
   let agent = $state('');
+  let q = $state('');
+  const norm = (x) => (x ?? '').toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '');
 
   const all = Object.entries(app.model.players).map(([id, p]) => ({ id, ...p }));
   const agents = [...new Set(all.flatMap((p) => Object.keys(p.agents)))].sort();
@@ -20,6 +22,7 @@
   let rows = $derived(
     all
       .filter((p) => (region === 'ALL' || p.region === region) && (role === 'ALL' || p.role === role))
+      .filter((p) => !q.trim() || norm(p.name).includes(norm(q.trim())) || norm(p.team).includes(norm(q.trim())))
       .map((p) => ({ p, v: value(p) }))
       .filter((r) => r.v)
       .sort((a, b) => b.v.pp - a.v.pp),
@@ -27,6 +30,7 @@
 </script>
 
 <h1>선수 파워포인트</h1>
+<input class="search" type="search" placeholder="선수 또는 팀 검색" bind:value={q} id="player-search" autocomplete="off" />
 <div class="chips">
   {#each ['ALL', 'AMER', 'EMEA', 'PAC', 'CN'] as r}
     <button class="chip" class:on={region === r} onclick={() => (region = r)}>{r === 'ALL' ? '전체' : REGION_LABEL[r]}</button>

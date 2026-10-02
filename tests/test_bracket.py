@@ -101,3 +101,10 @@ def test_playoff_labels_are_matched_by_shape():
             .replace("Lower Semifinal", "Lower Bracket Semifinals").replace("Lower Final", "LB Final"))
     br = build_bracket({"event_id": 1, "name": "x"}, {"/g": parse_bracket_page(_group_html()), "/p": parse_bracket_page(html)})
     assert br["kind"] == "full" and len(br["matches"]) == 34
+
+
+def test_parse_veto():
+    from valopoint.scrape.bracket import parse_veto
+    v = parse_veto("PRX ban Abyss; TL ban Sunset; PRX pick Ascent; TL pick Haven; PRX ban Summit; TL ban Split; Lotus remains")
+    assert v["order"] == ["Ascent", "Haven", "Lotus"] and v["steps"][2] == ["PRX", "pick", "Ascent"]
+    assert parse_veto("no veto here") is None

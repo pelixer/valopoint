@@ -143,3 +143,23 @@ export function simulateBracket(engine, bracket, locked = {}, n = 20000, seed = 
     wins: Object.fromEntries(Object.entries(wins).map(([k, v]) => [k, norm(v)])),
   };
 }
+
+/** Probability of each final score for team A, given ordered per-map win probs. */
+export function scorelines(ps) {
+  const need = Math.floor(ps.length / 2) + 1;
+  let dist = new Map([['0,0', 1]]);
+  const done = {};
+  for (const p of ps) {
+    const nd = new Map();
+    for (const [k, pr] of dist) {
+      const [a, b] = k.split(',').map(Number);
+      for (const [a2, b2, q] of [[a + 1, b, p], [a, b + 1, 1 - p]]) {
+        const key = `${a2}-${b2}`;
+        if (a2 === need || b2 === need) done[key] = (done[key] ?? 0) + pr * q;
+        else nd.set(`${a2},${b2}`, (nd.get(`${a2},${b2}`) ?? 0) + pr * q);
+      }
+    }
+    dist = nd;
+  }
+  return done;
+}

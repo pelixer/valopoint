@@ -7,6 +7,7 @@
   import Match from './pages/Match.svelte';
   import Bracket from './pages/Bracket.svelte';
   import Model from './pages/Model.svelte';
+  import Game from './pages/Game.svelte';
 
   loadModel();
 
@@ -17,7 +18,7 @@
     { id: 'bracket', label: '대진', icon: 'M4 5h5v5H4zM4 14h5v5H4zM9 7.5h3v9H9M12 12h4M16 9.5h4v5h-4z' },
     { id: 'model', label: '모델', icon: 'M4 19V9m6 10V5m6 14v-7m4 7H3' },
   ];
-  const tabOf = { team: 'teams', player: 'players' };
+  const tabOf = { team: 'teams', player: 'players', game: 'bracket' };
   let active = $derived(tabOf[app.route.page] ?? app.route.page);
 </script>
 
@@ -37,6 +38,7 @@
     {:else if app.route.page === 'match'}<Match />
     {:else if app.route.page === 'bracket'}<Bracket />
     {:else if app.route.page === 'model'}<Model />
+    {:else if app.route.page === 'game'}<Game arg={app.route.arg} />
     {:else}<Teams />{/if}
   {/if}
 </main>
