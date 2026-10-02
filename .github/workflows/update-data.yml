@@ -41,6 +41,10 @@ jobs:
         timeout-minutes: 60
         continue-on-error: true
         run: valopoint veto
+      - name: Round / side / clutch / economy data (new matches)
+        timeout-minutes: 40
+        continue-on-error: true
+        run: valopoint extras --max-minutes 30
       - name: Bracket
         timeout-minutes: 10
         continue-on-error: true
@@ -50,7 +54,7 @@ jobs:
         run: |
           git config user.name "valopoint-bot"
           git config user.email "actions@users.noreply.github.com"
-          for f in data/events.json data/rows data/veto web/public/data/brackets.json; do if [ -e "$f" ]; then git add "$f"; fi; done
+          for f in data/events.json data/rows data/veto data/rounds data/sides data/adv data/econ web/public/data/brackets.json; do if [ -e "$f" ]; then git add "$f"; fi; done
           git diff --cached --quiet && echo "no new rows" && exit 0
           git commit -m "data: scrape $(TZ=Asia/Seoul date +%Y-%m-%d\ %H:%M\ KST)"
           git pull --rebase -q origin main && git push

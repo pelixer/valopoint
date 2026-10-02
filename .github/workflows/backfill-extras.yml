@@ -1,0 +1,43 @@
+# One-off / resumable backfill of round, side, clutch, multi-kill and economy data.
+# Each run collects up to ~200 minutes (newest events first) and commits what it got.
+name: backfill-extras
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+
+jobs:
+  extras:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    env:
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -e .
+      - uses: actions/cache@v4
+        with:
+          path: data/cache
+          key: vlr-cache-${{ github.run_id }}
+          restore-keys: vlr-cache-
+      - name: Collect extras
+        timeout-minutes: 215
+        run: valopoint extras --max-minutes 200
+      - name: Commit
+        if: always()
+        run: |
+          git config user.name "valopoint-bot"
+          git config user.email "actions@users.noreply.github.com"
+          for f in data/rounds data/sides data/adv data/econ; do if [ -e "$f" ]; then git add "$f"; fi; done
+          git diff --cached --quiet && echo "nothing new" && exit 0
+          git commit -m "data: extras $(TZ=Asia/Seoul date +%Y-%m-%d\ %H:%M\ KST)"
+          git pull --rebase -q origin main && git push
