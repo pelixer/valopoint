@@ -6,6 +6,7 @@ from dataclasses import replace
 from datetime import datetime, timezone
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
 
 from .agents import AGENT_ROLE, role_of
@@ -112,7 +113,7 @@ def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: st
                  "as_of": str(as_of.date()), "source": source,
                  "data_from": str(since.date()), "params": p.to_dict(), "diag": m.diag,
                  "backtest_map": bt, "live_events": sorted(int(e) for e in live)},
-        "calib": {"beta": beta},
+        "calib": {"beta": beta, "reliability": reliability_bins(rec["p"], rec["win"]) if len(rec) else []},
         "regions": {r: {"offset_pp": round(float(m.region.get(r, 0.0) * 1000), 2),
                         "gamma": round(gamma.get(r, 0.0), 4)} for r in MAIN_REGIONS},
         "maps": pool,
@@ -123,6 +124,20 @@ def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: st
         "brackets": brackets,
         "event_eval": event_eval,
     }
+
+
+def reliability_bins(p, win, edges=(0.5, 0.55, 0.6, 0.65, 0.7, 0.8, 1.0001)) -> list[dict]:
+    """Out-of-sample reliability, folded to the favourite: predicted vs actual win rate per bin."""
+    p = np.asarray(p, float); y = np.asarray(win, float)
+    fav = np.where(p >= 0.5, p, 1 - p)
+    won = np.where(p >= 0.5, y, 1 - y)
+    out = []
+    for lo, hi in zip(edges[:-1], edges[1:]):
+        k = (fav >= lo) & (fav < hi)
+        if k.sum():
+            out.append({"lo": lo, "hi": min(hi, 1.0), "n": int(k.sum()),
+                        "pred": round(float(fav[k].mean()), 4), "actual": round(float(won[k].mean()), 4)})
+    return out
 
 
 def write(model_json: dict, path: str | Path) -> None:

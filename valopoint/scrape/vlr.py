@@ -273,8 +273,41 @@ def parse_match(html: str, match_id: int, event_id: int, event: str) -> list[Map
     return rows
 
 
-def scrape_event(f: Fetcher, event_id: int, log=print, name: str | None = None) -> tuple[list[dict], bool]:
-    """Returns (rows, complete). complete = every listed match is finished."""
+def parse_match_veto(html: str, match_id: int, event_id: int) -> dict | None:
+    """Map veto of a match with team tags resolved to team names.
+
+    The header note uses team tags ("PRX ban Abyss; TL pick Haven; ..."); the
+    player rows of the same page carry the tag of each side, which links tag ->
+    team name.
+    """
+    from .bracket import parse_veto
+    soup = BeautifulSoup(html, "html.parser")
+    teams = [_txt(x) for x in soup.select(".match-header-link-name .wf-title-med")][:2]
+    note = _txt(soup.select_one(".match-header-note"))
+    v = parse_veto(note) if note else None
+    if len(teams) < 2 or not v:
+        return None
+    tag_team = {}
+    for game in soup.select(".vm-stats-game"):
+        if game.get("data-game-id") in (None, "", "all"):
+            continue
+        tags = [_txt(t) for t in game.select(".ovw-row .ovw-player-tag")]
+        uniq = [t for t in dict.fromkeys(tags) if t]
+        if len(uniq) == 2:
+            tag_team = {uniq[0]: teams[0], uniq[1]: teams[1]}
+            break
+    date_el = soup.select_one(".moment-tz-convert[data-utc-ts]")
+    bo = re.search(r"Bo(\d)", " ".join(_txt(x) for x in soup.select(".match-header-vs-note")))
+    steps = [[tag_team.get(t, t) if t else None, a, m] for t, a, m in v["steps"]]
+    return {"match_id": match_id, "event_id": event_id, "date": date_el["data-utc-ts"][:10] if date_el else "",
+            "team1": teams[0], "team2": teams[1], "best_of": int(bo.group(1)) if bo else 3,
+            "tags_resolved": bool(tag_team), "steps": steps, "order": v["order"]}
+
+
+def scrape_event(f: Fetcher, event_id: int, log=print, name: str | None = None,
+                 vetoes: list | None = None) -> tuple[list[dict], bool]:
+    """Returns (rows, complete). complete = every listed match is finished.
+    If `vetoes` is a list, the map veto of every finished match is appended to it."""
     meta = {"event_id": event_id, "event": name} if name else event_meta(f, event_id)
     ids = event_match_ids(f, event_id)
     log(f"  {meta['event']}: {len(ids)} matches")
@@ -288,6 +321,10 @@ def scrape_event(f: Fetcher, event_id: int, log=print, name: str | None = None) 
             complete = False
             continue
         rows = parse_match(html, mid, event_id, meta["event"])
+        if vetoes is not None and rows and rows[0].completed:
+            v = parse_match_veto(html, mid, event_id)
+            if v:
+                vetoes.append(v)
         if not rows or not rows[0].completed:
             complete = False
         if rows and not rows[0].completed:
