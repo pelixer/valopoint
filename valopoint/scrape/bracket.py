@@ -222,12 +222,33 @@ def parse_veto(note: str) -> dict | None:
     return {"order": picks + ([decider] if decider else []), "steps": steps}
 
 
+def resolve_teams(br: dict) -> dict[str, tuple]:
+    """match id -> (team a, team b), W:/L: refs resolved from played results (None if unknown)."""
+    res, out = {}, {}
+
+    def known(ref):
+        mm = re.match(r"^([WL]):(.+)$", ref or "")
+        if mm:
+            r = res.get(mm.group(2))
+            return None if r is None else r[0 if mm.group(1) == "W" else 1]
+        return ref
+
+    for m in br["matches"]:
+        a, b = known(m["a"]), known(m["b"])
+        out[m["id"]] = (a, b)
+        w = br.get("results", {}).get(m["id"])
+        if a and b and w in (a, b):
+            res[m["id"]] = (w, b if w == a else a)
+    return out
+
+
 def scrape_bracket(f: Fetcher, event: dict) -> dict:
     pages = {p: parse_bracket_page(f.get(p, refresh=True)) for p in stage_pages(f, event["event_id"])}
     br = build_bracket(event, pages)
-    # actual veto (map order) for every match whose teams are known
+    # actual veto (map order) for every match whose teams are known (refs resolved by results)
+    teams = resolve_teams(br)
     for m in br["matches"]:
-        if re.match(r"^[WL]:", m["a"]) or re.match(r"^[WL]:", m["b"]):
+        if not all(teams.get(m["id"], (None, None))):
             continue
         try:
             soup = BeautifulSoup(f.get(f"/{m['vlr_id']}", refresh=m["id"] not in br["results"]), "html.parser")

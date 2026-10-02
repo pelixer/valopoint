@@ -164,7 +164,7 @@ def main(argv=None):
         print(tune(df, json.loads(a.grid)).to_string())
     elif a.cmd == "export":
         from .export import build, write
-        mj = build(df, as_of=a.as_of, source=a.source, brackets_dir=data / "brackets")
+        mj = build(df, as_of=a.as_of, source=a.source, brackets_dir=data / "brackets", data_dir=data)
         write(mj, a.out)
         print(f"wrote {a.out}: {len(mj['teams'])} teams, {len(mj['players'])} players")
 
