@@ -35,10 +35,20 @@ def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: st
               and reg.get(t) in MAIN_REGIONS and len(ros[t]) == 5]
 
     teams = []
+    # descriptive team context for match pages: per-map record (last 365 days) and recent maps
+    from .dataset import games as _games
+    gm = _games(df[(df["date"] < as_of) & (df["date"] >= as_of - pd.Timedelta(days=365))])
+    all_maps = sorted(set(pool) | set(gm["map"].unique()))
     for t in active:
-        by_map = {mp: m.team_strength(ros[t], mp, reg[t]) for mp in pool}
+        by_map = {mp: m.team_strength(ros[t], mp, reg[t]) for mp in all_maps}
+        tg = gm[gm["team"] == t].sort_values(["date", "match_id", "map_order"])
+        map_rec = {mp: [int(len(x)), int(x["win"].sum()), int(x["team_rounds"].sum()), int((x["team_rounds"] + x["opp_rounds"]).sum())]
+               for mp, x in tg.groupby("map")}
+        recent = [[str(r.date.date()), r.opp, r.map, int(r.team_rounds), int(r.opp_rounds)]
+                  for r in tg.tail(40).itertuples()]
         teams.append({"name": t, "region": reg[t], "roster": ros[t],
-                      "theta": by_map, "pp": float(pp(sum(by_map.values()) / len(pool) / 5) * 5)})
+                      "theta": by_map, "pp": float(pp(sum(by_map[mp] for mp in pool) / len(pool) / 5) * 5),
+                      "map_record": map_rec, "recent": recent})
     teams.sort(key=lambda x: -x["pp"])
 
     wanted = {pk for t in active for pk in ros[t]}

@@ -13,6 +13,14 @@
   --r-emea: #b784ff;
   --r-pac: #3ecf8e;
   --r-cn: #ffb547;
+  --g-a: #4aa3ff;
+  --g-b: #b784ff;
+  --g-c: #3ecf8e;
+  --g-d: #ffb547;
+  --g-e: #ff8fb1;
+  --g-f: #6fd3e8;
+  --g-up: #f0f0f5;
+  --g-low: #9aa3b5;
   --radius: 12px;
   --tabbar-h: 58px;
   color-scheme: dark;
@@ -119,3 +127,35 @@ nav.tabbar svg { width: 22px; height: 22px; }
 
 .back { color: var(--accent); text-decoration: none; font-size: 15px; display: inline-block; margin-bottom: 6px; }
 .banner { background: #3a2a10; color: #ffcf7a; border-radius: 10px; padding: 8px 10px; font-size: 12px; margin-bottom: 12px; }
+
+/* search box */
+.search {
+  width: 100%; background: var(--surface); color: var(--text); border: 1px solid var(--border);
+  border-radius: 10px; padding: 10px 12px; margin-bottom: 10px; font: inherit; -webkit-appearance: none; appearance: none;
+}
+.search:focus { outline: 2px solid var(--accent); outline-offset: 0; }
+
+/* bracket grouping */
+.gchip {
+  display: inline-flex; align-items: center; gap: 5px; font-size: 11px; font-weight: 700;
+  padding: 2px 7px; border-radius: 6px; background: var(--surface-2); letter-spacing: 0.02em;
+}
+.gchip::before { content: ""; width: 8px; height: 8px; border-radius: 2px; background: var(--gc, var(--muted)); }
+.mcard { border-left: 4px solid var(--gc, var(--border)); }
+.dayhead {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--bg);
+  margin: 14px -16px 8px; padding: 8px 16px; font-weight: 700; font-size: 14px; border-bottom: 1px solid var(--border);
+}
+.gsection { border: 1px solid var(--border); border-top: 4px solid var(--gc, var(--border)); border-radius: var(--radius); padding: 10px; margin-bottom: 14px; }
+.gsection > .gtitle {
+  font-weight: 800; font-size: 17px; margin: -10px -10px 8px; padding: 10px 12px;
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 4;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border); border-radius: var(--radius) var(--radius) 0 0;
+}
+.gsection > .gtitle::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 3px; background: var(--gc); margin-right: 8px; }
+.seg { display: inline-flex; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 2px; }
+.seg button { border: 0; background: transparent; color: var(--muted); padding: 6px 12px; border-radius: 8px; font: inherit; font-size: 13px; }
+.seg button.on { background: var(--surface-2); color: var(--text); font-weight: 600; }
+.detail-link { display: block; margin-top: 8px; font-size: 13px; color: var(--accent); text-decoration: none; }

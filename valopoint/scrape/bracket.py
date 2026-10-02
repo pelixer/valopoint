@@ -198,6 +198,43 @@ def build_bracket(event: dict, pages: dict[str, list[dict]]) -> dict:
             "final": final, "results": results, "assumed": assumed}
 
 
+VETO_RE = re.compile(r"(\S+)\s+(ban|pick)\s+([A-Za-z]+)|([A-Za-z]+)\s+remains", re.I)
+
+
+def parse_veto(note: str) -> dict | None:
+    """'PRX ban Abyss; TL ban Sunset; PRX pick Ascent; TL pick Haven; ...; Lotus remains'
+    -> {"order": [maps in play order], "steps": [[tag, action, map], ...]}"""
+    steps, picks, decider = [], [], None
+    for part in note.split(";"):
+        m = VETO_RE.search(part.strip())
+        if not m:
+            continue
+        if m.group(4):
+            decider = m.group(4).title()
+            steps.append([None, "remains", decider])
+        else:
+            tag, act, mp = m.group(1), m.group(2).lower(), m.group(3).title()
+            steps.append([tag, act, mp])
+            if act == "pick":
+                picks.append(mp)
+    if not steps:
+        return None
+    return {"order": picks + ([decider] if decider else []), "steps": steps}
+
+
 def scrape_bracket(f: Fetcher, event: dict) -> dict:
     pages = {p: parse_bracket_page(f.get(p, refresh=True)) for p in stage_pages(f, event["event_id"])}
-    return build_bracket(event, pages)
+    br = build_bracket(event, pages)
+    # actual veto (map order) for every match whose teams are known
+    for m in br["matches"]:
+        if re.match(r"^[WL]:", m["a"]) or re.match(r"^[WL]:", m["b"]):
+            continue
+        try:
+            soup = BeautifulSoup(f.get(f"/{m['vlr_id']}", refresh=m["id"] not in br["results"]), "html.parser")
+        except Exception:
+            continue
+        note = _txt(soup.select_one(".match-header-note"))
+        v = parse_veto(note) if note else None
+        if v:
+            m["veto"] = v
+    return br

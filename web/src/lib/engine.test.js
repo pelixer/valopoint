@@ -42,3 +42,12 @@ test('bracket probabilities sum to 1 and locks are respected', () => {
   const out2 = simulateBracket(eng, br, { [br.matches[0].id]: lockTeam }, 3000);
   close(out2.wins[br.matches[0].id][lockTeam], 1);
 });
+
+test('scorelines sum to 1 and match the series probability', async () => {
+  const { scorelines, seriesOrdered } = await import('./engine.js');
+  const ps = [0.6, 0.55, 0.4];
+  const s = scorelines(ps);
+  close(Object.values(s).reduce((a, b) => a + b, 0), 1);
+  close((s['2-0'] ?? 0) + (s['2-1'] ?? 0), seriesOrdered(ps));
+  close(s['2-0'], 0.6 * 0.55);
+});

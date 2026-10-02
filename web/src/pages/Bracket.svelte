@@ -2,6 +2,7 @@
   import { app, persisted } from '../lib/store.svelte.js';
   import { simulateBracket } from '../lib/engine.js';
   import { fx, kst, kstShort, pct } from '../lib/format.js';
+  import { groupOf, groupTable, resolveTeams } from '../lib/bracket.js';
 
   const store = persisted('bracket-locks', {});
   let idx = $state(0);
@@ -20,27 +21,22 @@
     return team === e.team_a ? e.p : 1 - e.p;
   }
 
-  function known(ref, res) {
-    if (ref.startsWith('W:')) return res[ref.slice(2)]?.[0];
-    if (ref.startsWith('L:')) return res[ref.slice(2)]?.[1];
-    const m = /^S(\d+)$/.exec(ref);
-    return m ? br.teams[Number(m[1]) - 1] : ref;
-  }
-  let fixed = $derived.by(() => {
-    if (!br) return {};
-    const res = {}, out = {};
-    for (const m of br.matches) {
-      const a = known(m.a, res), b = known(m.b, res);
-      out[m.id] = { a, b };
-      const w = locked[m.id];
-      if (a && b && (w === a || w === b)) res[m.id] = [w, w === a ? b : a];
-    }
-    return out;
+  let fixed = $derived(br ? resolveTeams(br, locked) : {});
+  const view = persisted('bracket-view', { mode: 'time', filter: 'ALL' });
+  let mode = $state(view.get().mode);
+  let filter = $state(view.get().filter);
+  $effect(() => view.set({ mode, filter }));
+  let groups = $derived.by(() => {
+    const seen = new Map();
+    for (const m of br?.matches ?? []) { const g = groupOf(m); if (!seen.has(g.key)) seen.set(g.key, g); }
+    return [...seen.values()];
   });
+  let visible = $derived((br?.matches ?? []).filter((m) => filter === 'ALL' || groupOf(m).key === filter));
+
   // matches in the order they are (or were) played, grouped by KST date
   const dayKey = (iso) => iso ? new Intl.DateTimeFormat('ko-KR', { timeZone: 'Asia/Seoul', month: 'long', day: 'numeric', weekday: 'short' }).format(new Date(iso)) : '일정 미정';
   let rounds = $derived.by(() => {
-    const ms = [...(br?.matches ?? [])].sort((x, y) => (x.time ?? '9999').localeCompare(y.time ?? '9999'));
+    const ms = [...visible].sort((x, y) => (x.time ?? '9999').localeCompare(y.time ?? '9999'));
     const g = [];
     for (const m of ms) {
       const d = dayKey(m.time);
@@ -96,37 +92,75 @@
   {/if}
 
   <h2>경기 <button class="btn small" style="float:right" onclick={reset}>내 가정 초기화</button></h2>
-  <p class="muted small">경기를 탭하면 그 팀이 이긴다고 가정하고 이후 확률을 다시 계산합니다(내 기기에만 저장).</p>
-  {#each rounds as r}
-    <div class="muted small" style="margin:14px 2px 6px; font-weight:600">{r.round}</div>
-    {#each r.items as m}
-      {@const f = fixed[m.id]}
-      <div class="card">
-        <div class="muted small">{kstShort(m.time)} · {m.round} · Bo{m.best_of ?? 3}{played(m) ? ' · 종료' : ''}</div>
-        {#if f.a && f.b}
-          {@const p = app.engine.series(f.a, f.b, m.best_of ?? 3).p}
-          <div style="display:flex; gap:8px; margin-top:6px">
-            {#each [[f.a, p], [f.b, 1 - p]] as [t, q]}
-              <button class="btn" style="flex:1; text-align:left; {locked[m.id] === t ? 'border-color:var(--accent); background:#3a1f25' : ''}"
-                onclick={() => lock(m.id, t)} disabled={played(m)}>
-                <div style="font-weight:600">{t}</div>
-                <div class="muted small">
-                  {#if played(m)}{locked[m.id] === t ? '승' : '패'}{#if preP(m, t) != null} · 경기 전 예측 {pct(preP(m, t))}{/if}
-                  {:else if locked[m.id]}{locked[m.id] === t ? '승 (가정)' : '패 (가정)'}
-                  {:else}{pct(q)}{/if}
-                </div>
-              </button>
-            {/each}
-          </div>
-        {:else if sim}
-          <div class="small" style="margin-top:6px">
-            <span class="muted">진출 예상:</span>
-            {#each top(sim.slot[m.id], 4) as [t, q], i}{i ? ', ' : ' '}{t} {pct(q)}{/each}
+  <div style="display:flex; gap:8px; align-items:center; margin-bottom:8px; flex-wrap:wrap">
+    <div class="seg">
+      <button class:on={mode === 'time'} onclick={() => (mode = 'time')}>시간순</button>
+      <button class:on={mode === 'group'} onclick={() => (mode = 'group')}>그룹별</button>
+    </div>
+  </div>
+  <div class="chips">
+    <button class="chip" class:on={filter === 'ALL'} onclick={() => (filter = 'ALL')}>전체</button>
+    {#each groups as g}
+      <button class="chip" class:on={filter === g.key} style="--gc:{g.color}" onclick={() => (filter = g.key)}>
+        <span class="gchip" style="background:transparent; padding:0">{g.label}</span>
+      </button>
+    {/each}
+  </div>
+  <p class="muted small">팀 버튼을 누르면 그 팀이 이긴다고 가정해 이후 확률을 다시 계산합니다(내 기기에만 저장). "세트별 예측"을 누르면 맵별 상세로 이동합니다.</p>
+
+  {#snippet matchCard(m)}
+    {@const f = fixed[m.id]}
+    {@const g = groupOf(m)}
+    <div class="card mcard" style="--gc:{g.color}">
+      <div class="small" style="display:flex; gap:6px; align-items:center; flex-wrap:wrap">
+        <span class="gchip">{g.label}</span>
+        <span class="muted">{kstShort(m.time)} · {m.round} · Bo{m.best_of ?? 3}{played(m) ? ' · 종료' : ''}</span>
+      </div>
+      {#if f.a && f.b}
+        {@const p = app.engine.series(f.a, f.b, m.best_of ?? 3).p}
+        <div style="display:flex; gap:8px; margin-top:6px">
+          {#each [[f.a, p], [f.b, 1 - p]] as [t, q]}
+            <button class="btn" style="flex:1; min-width:0; text-align:left; {locked[m.id] === t ? 'border-color:var(--accent); background:#3a1f25' : ''}"
+              onclick={() => lock(m.id, t)} disabled={played(m)}>
+              <div style="font-weight:600; overflow:hidden; text-overflow:ellipsis; white-space:nowrap">{t}</div>
+              <div class="muted small">
+                {#if played(m)}{locked[m.id] === t ? '승' : '패'}{#if preP(m, t) != null} · 경기 전 예측 {pct(preP(m, t))}{/if}
+                {:else if locked[m.id]}{locked[m.id] === t ? '승 (가정)' : '패 (가정)'}
+                {:else}{pct(q)}{/if}
+              </div>
+            </button>
+          {/each}
+        </div>
+      {:else if sim}
+        <div class="small" style="margin-top:6px">
+          <span class="muted">진출 예상:</span>
+          {#each top(sim.slot[m.id], 4) as [t, q], i}{i ? ', ' : ' '}{t} {pct(q)}{/each}
+        </div>
+      {/if}
+      <a class="detail-link" href={`#/game/${br.id}/${m.id}`}>세트별 예측 ›</a>
+    </div>
+  {/snippet}
+
+  {#if mode === 'time'}
+    {#each rounds as r}
+      <div class="dayhead">{r.round}</div>
+      {#each r.items as m}{@render matchCard(m)}{/each}
+    {/each}
+  {:else}
+    {#each groups.filter((g) => filter === 'ALL' || g.key === filter) as g}
+      {@const items = br.matches.filter((m) => groupOf(m).key === g.key).sort((x, y) => (x.time ?? '9999').localeCompare(y.time ?? '9999'))}
+      {@const table = /^[A-H]$/.test(g.key) ? groupTable(br, g.key) : []}
+      <section class="gsection" style="--gc:{g.color}">
+        <div class="gtitle">{g.label}</div>
+        {#if table.length}
+          <div class="small" style="display:flex; flex-wrap:wrap; gap:6px 14px; margin:0 2px 10px">
+            {#each table as [t, r]}<span><b>{t}</b> <span class="muted">{r.w}승 {r.l}패</span></span>{/each}
           </div>
         {/if}
-      </div>
+        {#each items as m}{@render matchCard(m)}{/each}
+      </section>
     {/each}
-  {/each}
+  {/if}
 {/if}
 
 {#if ev?.matches?.length}

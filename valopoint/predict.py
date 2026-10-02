@@ -28,8 +28,14 @@ def team_region(df: pd.DataFrame) -> dict[str, str]:
 
 
 def map_pool(df: pd.DataFrame, as_of=None, days: int = 120, size: int = 7) -> list[str]:
+    """Active map pool: the maps of the most recent event that already shows a full
+    pool (pools rotate between events), else the most played maps of the last `days`."""
     d = df if as_of is None else df[df["date"] < pd.Timestamp(as_of)]
     recent = d[d["date"] >= d["date"].max() - pd.Timedelta(days=days)]
+    for eid in recent.sort_values("date")["event_id"].unique()[::-1]:
+        ev_maps = recent[recent["event_id"] == eid].groupby("map")["game_id"].nunique()
+        if len(ev_maps) >= size:
+            return ev_maps.sort_values(ascending=False).index[:size].tolist()
     return recent.groupby("map")["game_id"].nunique().sort_values(ascending=False).index[:size].tolist()
 
 
