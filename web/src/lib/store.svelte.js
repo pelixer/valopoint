@@ -1,6 +1,6 @@
 import { createEngine } from './engine.js';
 
-export const app = $state({ model: null, engine: null, brackets: [], bracketsAt: null, error: null, route: parse() });
+export const app = $state({ model: null, engine: null, brackets: [], bracketsAt: null, ledger: [], error: null, route: parse() });
 
 function parse() {
   const h = location.hash.replace(/^#\/?/, '');
@@ -28,6 +28,11 @@ export async function loadModel() {
         const bj = await b.json();
         if (bj.brackets?.length) { app.brackets = bj.brackets; app.bracketsAt = bj.generated_at; }
       }
+    } catch {}
+    // append-only record of pre-match predictions
+    try {
+      const l = await fetch(`./data/ledger.json?t=${Date.now()}`);
+      if (l.ok) app.ledger = await l.json();
     } catch {}
   } catch (e) {
     app.error = String(e);

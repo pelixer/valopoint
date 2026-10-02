@@ -5,6 +5,7 @@
   import { groupOf, resolveTeams } from '../lib/bracket.js';
   import { cap, fx, kst, pct } from '../lib/format.js';
   import Radar from '../lib/Radar.svelte';
+  import { lockedFor } from '../lib/ledger.js';
 
   let { arg } = $props();
   let [bid, mid] = $derived((arg ?? '').split('/'));
@@ -35,6 +36,9 @@
     const flip = e.team_a !== A;
     return Object.fromEntries(e.maps.map((x) => [x.map, { p: flip ? 1 - x.p : x.p, win: flip ? 1 - x.win : x.win }]));
   });
+  // prediction locked in the append-only ledger before the match started
+  let ledgerEntry = $derived(br && m ? lockedFor(app.ledger, br.id, m) : null);
+  let ledgerP = $derived(ledgerEntry && A && B ? (ledgerEntry.team_a === A ? ledgerEntry.p : ledgerEntry.team_b === A ? 1 - ledgerEntry.p : null) : null);
   // for finished matches show what was predicted BEFORE the match (no hindsight)
   let shownSeries = $derived(preMatch ? (preMatch.team_a === A ? preMatch.p : 1 - preMatch.p) : pSeries);
 
@@ -74,6 +78,9 @@
         {#if played}종료 · 승자 <b>{br.results[m.id]}</b> · {preMatch ? '경기 전 예측' : '현재 모델 기준'}{:else}시리즈 승률{/if}
         · 맵 순서: {actualOrder ? '실제 밴픽' : '예상 밴픽(모델)'}
       </p>
+      {#if played && ledgerP != null}
+        <p class="small" style="margin:4px 0 0">🔒 기록된 예측 ({kst(ledgerEntry.recorded_at)}): {A} {pct(ledgerP)}</p>
+      {/if}
       <div style="display:flex; gap:6px; margin-top:10px; flex-wrap:wrap" hidden={played}>
         {#each lines as [s, q]}
           <span class="badge" style="color:{+s[0] > +s[2] ? 'var(--accent)' : 'var(--muted)'}">{A} {s} · {pct(q)}</span>

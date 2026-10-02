@@ -24,6 +24,14 @@ def main(argv=None):
     s.add_argument("--delay", type=float, default=1.5)
     s.add_argument("--force", action="store_true", help="re-scrape events already stored")
 
+    s = sub.add_parser("veto", help="backfill map vetoes for recent finished events (uses the page cache)")
+    s.add_argument("--periods", type=int, default=3, help="how many most recent event periods to cover")
+
+    s = sub.add_parser("ledger", help="append pre-match predictions to the append-only ledger")
+    s.add_argument("--model", default="web/public/data/model.json")
+    s.add_argument("--brackets", default="web/public/data/brackets.json")
+    s.add_argument("--out", default="web/public/data/ledger.json")
+
     s = sub.add_parser("synth", help="write a synthetic dataset (for testing)")
     s.add_argument("out")
 
@@ -88,13 +96,46 @@ def main(argv=None):
             if out.exists() and not a.force and e.get("complete"):
                 continue
             print(f"event {e['event_id']} {e['name']}")
-            rows, complete = scrape_event(f, e["event_id"], name=e["name"])
+            vetoes: list = []
+            rows, complete = scrape_event(f, e["event_id"], name=e["name"], vetoes=vetoes)
             total += len(rows)
             if rows:
                 pd.DataFrame(rows).to_csv(out, index=False)
+            if vetoes:
+                (data / "veto").mkdir(parents=True, exist_ok=True)
+                (data / "veto" / f"{e['event_id']}.json").write_text(json.dumps(vetoes, ensure_ascii=False), encoding="utf-8")
             e["complete"] = complete
             (data / "events.json").write_text(json.dumps(ev, indent=1, ensure_ascii=False), encoding="utf-8")
         print(f"scraped {total} player-map rows")
+        return
+    if a.cmd == "veto":
+        from .scrape.vlr import Fetcher, event_match_ids, parse_match_veto
+        from .veto import recent_periods
+        ev = json.loads((data / "events.json").read_text(encoding="utf-8"))
+        rows = pd.concat([pd.read_csv(p, usecols=["event_id", "date"]) for p in (data / "rows").glob("*.csv")])
+        starts = rows.groupby("event_id")["date"].min().to_dict()
+        target = [eid for per in recent_periods(ev, starts, a.periods + 1) for eid in per]
+        f = Fetcher(delay=1.0)
+        (data / "veto").mkdir(parents=True, exist_ok=True)
+        for eid in target:
+            out = data / "veto" / f"{eid}.json"
+            if out.exists():
+                continue
+            vs = []
+            for mid in event_match_ids(f, eid):
+                try:
+                    v = parse_match_veto(f.get(f"/{mid}"), mid, eid)
+                except Exception as e:
+                    print(f"  match {mid}: {e}"); continue
+                if v:
+                    vs.append(v)
+            out.write_text(json.dumps(vs, ensure_ascii=False), encoding="utf-8")
+            print(f"event {eid}: {len(vs)} vetoes")
+        return
+    if a.cmd == "ledger":
+        from .ledger import update
+        n = update(a.model, a.brackets, a.out)
+        print(f"ledger: {n} new snapshot(s)")
         return
     if a.cmd == "synth":
         from .synth import generate
