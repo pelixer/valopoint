@@ -1,11 +1,18 @@
 <script>
   import { app } from '../lib/store.svelte.js';
   import { ROLE_LABEL, cap, fx } from '../lib/format.js';
+  import Radar from '../lib/Radar.svelte';
 
   let { name } = $props();
   let t = $derived(app.engine.teams[name]);
   let roster = $derived(t ? t.roster.map((id) => ({ id, ...app.model.players[id] })).filter((p) => p.name) : []);
   let maps = $derived(t ? [...app.model.maps].sort((a, b) => t.theta[b] - t.theta[a]) : []);
+  let axes = $derived(app.model.style_axes ?? []);
+  let teamStyle = $derived.by(() => {
+    const ps = roster.filter((p) => p.style);
+    if (!ps.length) return null;
+    return Object.fromEntries(axes.map((a) => [a.key, ps.reduce((s, p) => s + p.style[a.key], 0) / ps.length]));
+  });
 </script>
 
 <a class="back" href="#/teams">‹ 팀</a>
@@ -27,6 +34,13 @@
       </a>
     {/each}
   </div>
+
+  {#if teamStyle}
+    <h2>팀 속성 (로스터 평균)</h2>
+    <div class="card">
+      <Radar {axes} series={[{ values: teamStyle, color: 'var(--accent)', label: t.name }, { values: Object.fromEntries(axes.map((a) => [a.key, 50])), color: 'var(--muted)', label: '평균', dashed: true }]} />
+    </div>
+  {/if}
 
   <h2>맵별 팀 PP</h2>
   <div class="card">
