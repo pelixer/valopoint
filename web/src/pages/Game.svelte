@@ -21,10 +21,14 @@
   // map order: actual veto if published, otherwise the model's predicted veto
   let pmap = $derived(A && B ? Object.fromEntries(app.model.maps.map((mp) => [mp, app.engine.mapProb(A, B, mp)])) : {});
   let actualOrder = $derived(m?.veto?.order?.length ? m.veto.order : null);
-  let order = $derived(actualOrder ?? (A && B ? vetoMaps(pmap, bo, true) : []));
+  let sv = $derived(A && B ? app.engine.series(A, B, bo) : null);
+  // most likely veto sequence from the teams' recent ban/pick tendencies (fallback: stat-greedy)
+  let order = $derived(actualOrder ?? sv?.seqs?.[0]?.[0] ?? (A && B ? vetoMaps(pmap, bo, true) : []));
   let ps = $derived(order.map((mp) => app.engine.mapProb(A, B, mp)));
-  let pSeries = $derived(ps.length ? (actualOrder ? seriesOrdered(ps) : app.engine.series(A, B, bo).p) : null);
-  let lines = $derived(ps.length ? Object.entries(scorelines(ps)) : []);
+  let pSeries = $derived(ps.length ? (actualOrder ? seriesOrdered(ps) : sv.p) : null);
+  let presence = $derived(sv?.presence ? Object.entries(sv.presence).sort((x, y) => y[1] - x[1]) : []);
+  // final-score odds: over all veto sequences (veto model) unless the actual maps are known
+  let lines = $derived(ps.length ? Object.entries(!actualOrder && sv?.lines ? sv.lines : scorelines(ps)).sort((x, y) => (+y[0][0] - +y[0][2]) - (+x[0][0] - +x[0][2])) : []);
 
   // who picked each map (veto steps carry team tags)
   let pickOf = $derived(Object.fromEntries((m?.veto?.steps ?? []).filter((s) => s[1] !== 'ban').map((s) => [s[2], s[1] === 'remains' ? '결정' : `${s[0]} 픽`])));
@@ -76,7 +80,7 @@
       </div>
       <p class="muted small" style="margin:8px 0 0">
         {#if played}종료 · 승자 <b>{br.results[m.id]}</b> · {preMatch ? '경기 전 예측' : '현재 모델 기준'}{:else}시리즈 승률{/if}
-        · 맵 순서: {actualOrder ? '실제 밴픽' : '예상 밴픽(모델)'}
+        · 맵 순서: {actualOrder ? '실제 밴픽' : sv?.basis === 'veto_model' ? '예상 밴픽(팀 밴픽 성향)' : '예상 밴픽(모델)'}
       </p>
       {#if played && ledgerP != null}
         <p class="small" style="margin:4px 0 0">🔒 기록된 예측 ({kst(ledgerEntry.recorded_at)}): {A} {pct(ledgerP)}</p>
@@ -87,6 +91,25 @@
         {/each}
       </div>
     </div>
+
+    {#if !actualOrder && presence.length}
+      <h2>예상 밴픽</h2>
+      <div class="card">
+        {#each presence as [mp, q]}
+          <div style="display:flex; align-items:center; gap:8px; margin:3px 0">
+            <div class="small" style="width:64px">{cap(mp)}</div>
+            <div style="flex:1"><div class="bar"><span style="width:{q * 100}%; background:var(--accent)"></span></div></div>
+            <span class="num small" style="width:40px; text-align:right">{pct(q)}</span>
+          </div>
+        {/each}
+        <div class="small" style="margin-top:8px">
+          {#each sv.seqs.slice(0, 3) as [seq, q], k}
+            <div>{k + 1}. {seq.map(cap).join(' → ')} <span class="muted">{pct(q, 1)}</span></div>
+          {/each}
+        </div>
+        <p class="muted small" style="margin-bottom:0">맵 등장 확률 = 두 팀의 최근 밴/픽 기록({(app.model.veto_model?.events ?? []).map((e) => e.replace(/^(VCT \d{4}: |Valorant )/, '')).join(', ')})으로 밴픽 순서를 모두 따져 계산(선밴 팀은 반반). 세트 순서는 가장 가능성 높은 경우이고, 시리즈 승률은 모든 경우를 확률 가중 평균했습니다.</p>
+      </div>
+    {/if}
 
     <h2>세트별 예측</h2>
     {#each order as mp, i}

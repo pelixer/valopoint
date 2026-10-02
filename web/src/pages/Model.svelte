@@ -132,6 +132,14 @@
   <p class="muted small">00시·12시(KST) 갱신 때마다 아직 시작 전인 경기의 예측을 시각과 함께 추가만 하는 파일(ledger.json)에 남깁니다. 경기가 끝나면 시작 직전 마지막 기록을 그 경기의 예측으로 채점합니다. 기존 기록은 수정하지 않으며, 저장소의 Git 이력이 그 증거입니다.</p>
 </div>
 
+{#if m.veto_model}
+  <h2>밴픽 모델</h2>
+  <div class="card small">
+    <div>반영 기간: {m.veto_model.events.join(', ')} · 밴픽 {m.veto_model.n}건</div>
+    <p class="muted">진행 중인 대회 + 직전 2개 시즌 구간(지역리그 같은 스테이지는 한 구간)만 사용합니다. 각 팀의 밴/픽 횟수를 리그 전체 경향 쪽으로 축소(사전 {m.veto_model.prior}회분)해 밴픽 순서를 모두 따집니다. 검증(스테이지 2·챔스 181경기): 실제 플레이된 맵이 예상 세트 순서에 든 비율 55%(스탯 기반 그리디 44%), 시리즈 log loss 0.6678 → 0.6671.</p>
+  </div>
+{/if}
+
 <h2>축소 강도 (라운드 환산)</h2>
 <div class="card small">
   {#each Object.entries(m.meta.diag?.shrinkage_k_rounds ?? {}) as [k, v]}

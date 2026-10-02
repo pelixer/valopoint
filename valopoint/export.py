@@ -16,7 +16,8 @@ from .predict import fit_gamma, map_pool, rosters, team_region
 
 
 def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: str = "vlr.gg",
-          brackets_dir: str | Path | None = None, active_days: int = 150, log=print) -> dict:
+          brackets_dir: str | Path | None = None, active_days: int = 150, log=print,
+          data_dir: str | Path | None = None) -> dict:
     p = params or Params()
     as_of = pd.Timestamp(as_of) if as_of else df["date"].max() + pd.Timedelta(days=1)
     since = as_of - pd.Timedelta(days=p.window_days)
@@ -107,6 +108,8 @@ def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: st
         event_eval = evaluate_event(df[df["date"] < as_of], eid, p)
         event_eval["name"] = str(df.loc[df["event_id"] == eid, "event"].iloc[0])
 
+    veto_model = _veto_model(data_dir, df, as_of, [t["name"] for t in teams], log) if data_dir else None
+
     bt = metrics(rec)
     return {
         "meta": {"generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -123,7 +126,28 @@ def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: st
         "style_axes": STYLE_AXES,
         "brackets": brackets,
         "event_eval": event_eval,
+        "veto_model": veto_model,
     }
+
+
+def _veto_model(data_dir, df, as_of, team_names, log=print) -> dict | None:
+    """Ban/pick tendencies over the event period in progress + the two before it
+    (e.g. during Champions: Champions so far, Stage 2, Masters London)."""
+    from .veto import VetoModel, load_vetoes, recent_periods
+    ev_path = Path(data_dir) / "events.json"
+    if not ev_path.exists():
+        return None
+    events = json.loads(ev_path.read_text(encoding="utf-8"))
+    starts = {int(k): str(v.date()) for k, v in df.groupby("event_id")["date"].min().items()}
+    names = {e["event_id"]: e["name"] for e in events}
+    ids = [e for per in recent_periods(events, starts, 3, before=as_of) for e in per]
+    recs = [r for r in load_vetoes(data_dir, ids) if r["date"] < str(as_of.date())]
+    if not recs:
+        return None
+    log(f"veto model: {len(recs)} vetoes from {len(ids)} events")
+    out = VetoModel(recs).to_json(team_names)
+    out["events"] = [names.get(e, str(e)) for e in ids]
+    return out
 
 
 def reliability_bins(p, win, edges=(0.5, 0.55, 0.6, 0.65, 0.7, 0.8, 1.0001)) -> list[dict]:

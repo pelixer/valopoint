@@ -15,6 +15,7 @@ Who bans first is not known in advance, so both orders are averaged.
 from __future__ import annotations
 
 import json
+import re
 from collections import defaultdict
 from pathlib import Path
 
@@ -23,21 +24,40 @@ import pandas as pd
 ORDER = {1: "ABABAB", 3: "ABabAB", 5: "ABabab"}   # upper = ban, lower = pick
 
 
+def _stage_key(e: dict):
+    """Regional events of the same split share a key (e.g. ('2026', 'stage 2'))."""
+    m = re.search(r"(kickoff|stage\s*\d)", e.get("name", ""), re.I)
+    y = re.search(r"20\d\d", e.get("name", ""))
+    return (y.group(0) if y else str(e.get("year", "")), re.sub(r"\s+", " ", m.group(1).lower())) if m else None
+
+
 def recent_periods(events: list[dict], starts: dict, n: int, before=None, gap_days: int = 21) -> list[list[int]]:
-    """Most recent `n` event periods (each a list of event ids) starting before `before`."""
-    rows = sorted(((pd.Timestamp(starts[e["event_id"]]), e["event_id"], e.get("tier", "league"))
-                   for e in events if e["event_id"] in starts), key=lambda x: x[0])
+    """Most recent `n` event periods (each a list of event ids) starting before `before`.
+
+    A period is one international event, or the regional leagues of one split
+    (same "Stage N"/"Kickoff" name; events without such a name are grouped when they
+    start within `gap_days` of each other)."""
+    rows = sorted(((pd.Timestamp(starts[e["event_id"]]), e) for e in events if e["event_id"] in starts),
+                  key=lambda x: x[0])
     if before is not None:
         rows = [r for r in rows if r[0] < pd.Timestamp(before)]
-    periods: list[list] = []
-    for start, eid, tier in rows:
-        intl = tier in ("masters", "champions")
-        last = periods[-1] if periods else None
-        if last and not intl and not last[0][2] and (start - last[0][0]).days <= gap_days:
-            last.append((start, eid, intl))
+    periods: list[dict] = []
+    for start, e in rows:
+        intl = e.get("tier", "league") in ("masters", "champions")
+        key = None if intl else _stage_key(e)
+        hit = None
+        if not intl:
+            for p in periods[::-1]:
+                if p["intl"]:
+                    continue
+                if (key and p["key"] == key) or (not key and not p["key"] and (start - p["start"]).days <= gap_days):
+                    hit = p
+                break
+        if hit:
+            hit["ids"].append(e["event_id"])
         else:
-            periods.append([(start, eid, intl)])
-    return [[eid for _, eid, _ in p] for p in periods[::-1][:n]]
+            periods.append({"start": start, "intl": intl, "key": key, "ids": [e["event_id"]]})
+    return [p["ids"] for p in periods[::-1][:n]]
 
 
 def load_vetoes(data_dir: str | Path, event_ids) -> list[dict]:

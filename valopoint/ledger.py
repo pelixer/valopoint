@@ -9,7 +9,6 @@ of web/public/data/ledger.json is the audit trail.
 from __future__ import annotations
 
 import json
-import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -57,20 +56,8 @@ class Snapshot:
 
 
 def resolve(br: dict) -> dict:
-    res, out = {}, {}
-    for m in br["matches"]:
-        def known(ref):
-            mm = re.match(r"^([WL]):(.+)$", ref)
-            if mm:
-                r = res.get(mm.group(2))
-                return None if r is None else r[0 if mm.group(1) == "W" else 1]
-            return ref
-        a, b = known(m["a"]), known(m["b"])
-        out[m["id"]] = (a, b)
-        w = br.get("results", {}).get(m["id"])
-        if a and b and w in (a, b):
-            res[m["id"]] = (w, b if w == a else a)
-    return out
+    from .scrape.bracket import resolve_teams
+    return resolve_teams(br)
 
 
 def update(model_path="web/public/data/model.json", brackets_path="web/public/data/brackets.json",

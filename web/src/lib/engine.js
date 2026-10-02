@@ -39,8 +39,25 @@ export function createEngine(model) {
     const pmap = Object.fromEntries(model.maps.map((m) => [m, mapProb(a, b, m)]));
     const vA = vetoMaps(pmap, bestOf, true);
     const vB = vetoMaps(pmap, bestOf, false);
-    const p = (seriesOrdered(vA.map((m) => pmap[m])) + seriesOrdered(vB.map((m) => pmap[m]))) / 2;
-    const out = { p, pmap, veto: { aFirst: vA, bFirst: vB } };
+    let out;
+    if (model.veto_model) {
+      // map order from the teams' recent ban/pick tendencies (veto model)
+      const seqs = vetoSequences(model.veto_model, a, b, model.maps, bestOf);
+      let p = 0, tot = 0;
+      const presence = {}, lines = {};
+      for (const [seq, pr] of seqs) {
+        const ps = seq.map((m) => pmap[m]);
+        p += pr * seriesOrdered(ps);
+        tot += pr;
+        for (const m of seq) presence[m] = (presence[m] ?? 0) + pr;
+        for (const [k, q] of Object.entries(scorelines(ps))) lines[k] = (lines[k] ?? 0) + pr * q;
+      }
+      for (const k in lines) lines[k] /= Math.max(tot, 1e-9);
+      out = { p: p / Math.max(tot, 1e-9), pmap, basis: 'veto_model', seqs: seqs.slice(0, 5), presence, lines, veto: { aFirst: vA, bFirst: vB } };
+    } else {
+      const p = (seriesOrdered(vA.map((m) => pmap[m])) + seriesOrdered(vB.map((m) => pmap[m]))) / 2;
+      out = { p, pmap, basis: 'greedy', seqs: [[vA, 0.5], [vB, 0.5]], presence: null, veto: { aFirst: vA, bFirst: vB } };
+    }
     cache.set(key, out);
     return out;
   }
@@ -67,6 +84,44 @@ export function vetoMaps(pmap, bestOf, aFirst = true) {
     if (ch !== ch.toUpperCase()) picks.push(best);
   }
   return [...picks, ...left.slice(0, 1)];
+}
+
+/**
+ * Veto model (mirrors valopoint/veto.py VetoModel.sequences): each ban / pick is drawn
+ * in proportion to the team's recent ban/pick counts, shrunk toward the league-wide
+ * tendency. Returns [[maps in play order], probability] sorted by probability,
+ * averaged over who bans first.
+ */
+export function vetoSequences(vm, a, b, pool, bestOf = 3) {
+  const order = VETO[bestOf] ?? VETO[3];
+  const acc = new Map();
+  const weights = (team, act, left) => {
+    const own = (act === 'ban' ? vm.ban : vm.pick)?.[team] ?? {};
+    const glob = (act === 'ban' ? vm.g_ban : vm.g_pick) ?? {};
+    const gtot = left.reduce((s, m) => s + (glob[m] ?? 0), 0) || 1;
+    return left.map((m) => (own[m] ?? 0) + (vm.prior * ((glob[m] ?? 0) + 0.5)) / (gtot + 0.5 * left.length));
+  };
+  function rec(i, left, picks, pr, first, second) {
+    if (pr < 1e-6) return;
+    if (i === order.length || left.length <= 1) {
+      const seq = [...picks, ...left.slice(0, 1)];
+      const k = seq.join('|');
+      acc.set(k, (acc.get(k) ?? 0) + pr);
+      return;
+    }
+    const ch = order[i];
+    const team = ch.toUpperCase() === 'A' ? first : second;
+    const act = ch === ch.toUpperCase() ? 'ban' : 'pick';
+    const w = weights(team, act, left);
+    const tot = w.reduce((s, x) => s + x, 0);
+    left.forEach((m, j) => {
+      const rest = left.filter((x) => x !== m);
+      rec(i + 1, rest, act === 'pick' ? [...picks, m] : picks, (pr * w[j]) / tot, first, second);
+    });
+  }
+  rec(0, [...pool], [], 0.5, a, b);
+  rec(0, [...pool], [], 0.5, b, a);
+  return [...acc.entries()].map(([k, p]) => [k.split('|'), p]).sort((x, y) => y[1] - x[1]);
 }
 
 export function seriesOrdered(ps) {

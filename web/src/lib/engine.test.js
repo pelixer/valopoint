@@ -51,3 +51,15 @@ test('scorelines sum to 1 and match the series probability', async () => {
   close((s['2-0'] ?? 0) + (s['2-1'] ?? 0), seriesOrdered(ps));
   close(s['2-0'], 0.6 * 0.55);
 });
+
+test('veto model sequences are a probability distribution', async () => {
+  const { vetoSequences } = await import('./engine.js');
+  const vm = { prior: 3, g_ban: { a: 5, b: 1 }, g_pick: { c: 4 }, ban: { X: { a: 3 } }, pick: { Y: { c: 2 } } };
+  const pool = ['a', 'b', 'c', 'd', 'e', 'f', 'g'];
+  for (const bo of [3, 5]) {
+    const seqs = vetoSequences(vm, 'X', 'Y', pool, bo);
+    const tot = seqs.reduce((s, [, p]) => s + p, 0);
+    assert.ok(Math.abs(tot - 1) < 1e-3, `sum ${tot}`);
+    assert.ok(seqs.every(([s]) => s.length === bo));
+  }
+});
