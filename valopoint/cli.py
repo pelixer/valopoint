@@ -27,6 +27,10 @@ def main(argv=None):
     s = sub.add_parser("veto", help="backfill map vetoes for recent finished events (uses the page cache)")
     s.add_argument("--periods", type=int, default=3, help="how many most recent event periods to cover")
 
+    s = sub.add_parser("extras", help="round / side / clutch / multi-kill / economy data per finished match")
+    s.add_argument("--event", type=int, nargs="*", help="only these event ids")
+    s.add_argument("--max-minutes", type=float, default=60.0, help="stop after this long (resumes next run)")
+
     s = sub.add_parser("ledger", help="append pre-match predictions to the append-only ledger")
     s.add_argument("--model", default="web/public/data/model.json")
     s.add_argument("--brackets", default="web/public/data/brackets.json")
@@ -131,6 +135,46 @@ def main(argv=None):
                     vs.append(v)
             out.write_text(json.dumps(vs, ensure_ascii=False), encoding="utf-8")
             print(f"event {eid}: {len(vs)} vetoes")
+        return
+    if a.cmd == "extras":
+        import time
+        from .scrape.extras import scrape_match_extras
+        from .scrape.vlr import Fetcher
+        f = Fetcher(delay=1.0)
+        t_end = time.time() + a.max_minutes * 60
+        ev_dates = {int(p.stem): pd.read_csv(p, usecols=["date"])["date"].max() for p in (data / "rows").glob("*.csv")}
+        done_all = True
+        for eid in sorted(ev_dates, key=lambda e: ev_dates[e], reverse=True):   # newest events first
+            if a.event and eid not in a.event:
+                continue
+            rows = pd.read_csv(data / "rows" / f"{eid}.csv", usecols=["match_id", "completed"])
+            mids = sorted(rows.loc[rows["completed"].astype(bool), "match_id"].unique())
+            outs = {k: data / k / f"{eid}.csv" for k in ("rounds", "sides", "adv", "econ")}
+            old = {k: pd.read_csv(p) if p.exists() else pd.DataFrame() for k, p in outs.items()}
+            have = set(old["sides"]["match_id"]) if "match_id" in old["sides"] else set()
+            todo = [m for m in mids if m not in have]
+            if not todo:
+                continue
+            print(f"event {eid}: {len(todo)} matches")
+            new = {k: [] for k in outs}
+            for mid in todo:
+                if time.time() > t_end:
+                    done_all = False
+                    break
+                try:
+                    ex = scrape_match_extras(f, int(mid))
+                except Exception as e:
+                    print(f"  match {mid}: {e}"); continue
+                for k in outs:
+                    new[k].extend(ex[k])
+            for k, p in outs.items():
+                if new[k]:
+                    p.parent.mkdir(parents=True, exist_ok=True)
+                    pd.concat([old[k], pd.DataFrame(new[k])], ignore_index=True).to_csv(p, index=False)
+            print(f"  +{len(new['sides'])} player-maps, +{len(new['rounds'])} rounds, +{len(new['adv'])} adv, +{len(new['econ'])} econ")
+            if not done_all:
+                print("time budget reached; resumes next run")
+                break
         return
     if a.cmd == "ledger":
         from .ledger import update

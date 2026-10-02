@@ -1,36 +1,24 @@
-"""Probe vlr.gg performance tab: every table after the kill matrices (multi-kills, clutches)."""
-import re
+"""Probe: run the round / side / performance / economy parsers on a real match."""
 import tempfile
 from pathlib import Path
 
-from bs4 import BeautifulSoup
+import pandas as pd
 
+from valopoint.scrape.extras import scrape_match_extras
 from valopoint.scrape.vlr import Fetcher
 
 f = Fetcher(delay=1.0, cache=Path(tempfile.mkdtemp()), max_seconds=30)
-MID = 753455  # Champions 2026, Team Liquid vs Paper Rex (finished, 3 maps)
-
-
-def sq(x, n):
-    return re.sub(r"\s+", " ", str(x))[:n]
-
-
-for tab in ["performance"]:
-    html = f.get(f"/{MID}/?game=all&tab={tab}")
-    s = BeautifulSoup(html, "html.parser")
-    print(f"\n######## tab={tab}  size={len(html)}")
-    games = s.select(".vm-stats-game")
-    print("games:", [g.get("data-game-id") for g in games])
-    g = next((g for g in games if g.get("data-game-id") not in (None, "all")), games[0] if games else None)
-    if g is None:
-        continue
-    tables = g.select("table")
-    print("tables:", [t.get("class") for t in tables])
-    for t in tables[3:]:
-        print("\n--- TABLE classes", t.get("class"))
-        print(sq(t.select_one("tr"), 1500))
-        rows = t.select("tr")
-        print("rows:", len(rows), "| row2:", sq(rows[1] if len(rows) > 1 else "", 2500))
-    if not g.select("table"):
-        print(sq(g, 5000))
-
+pd.set_option("display.width", 250, "display.max_columns", 40)
+for mid in (753455, 542275):   # Champions 2026 TL-PRX; an older 2025 match
+    try:
+        ex = scrape_match_extras(f, mid)
+    except Exception as e:
+        print(mid, "ERROR", e); continue
+    print(f"\n######## match {mid}")
+    for k, rows in ex.items():
+        d = pd.DataFrame(rows)
+        print(f"\n--- {k}: {len(d)} rows, null share:\n{d.isna().mean().round(2).to_dict() if len(d) else {}}")
+        print(d.head(6).to_string() if len(d) else "(empty)")
+    r = pd.DataFrame(ex["rounds"])
+    if len(r):
+        print("\nrounds per game / team:\n", r.groupby(["game_id", "winner", "win_side"]).size())
