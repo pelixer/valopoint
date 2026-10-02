@@ -48,6 +48,7 @@ class Params:
     k_mult: float = 1.0             # multiply estimated shrinkage (tuning knob)
     beta: float = 1.0               # calibration slope (fitted from intl results)
     gamma_l2: float = 20.0          # ridge on region result offsets
+    k_dev: float | None = 2000.0    # fixed shrinkage (rounds) for player x map / player x agent; None = estimated
 
     def to_dict(self):
         return asdict(self)
@@ -65,7 +66,8 @@ def _decay(dates: pd.Series, as_of: pd.Timestamp, half_life: float) -> np.ndarra
 
 
 def _eb_shrink(codes: np.ndarray, ng: int, resid: np.ndarray, w: np.ndarray, R: np.ndarray,
-               k_mult: float, min_w: float = 100.0):
+               k_mult: float, min_w: float = 100.0, half: np.ndarray | None = None,
+               k_fixed: float | None = None):
     """Precision-weighted group means shrunk toward 0 (empirical Bayes).
 
     One-way random-effects variance components: the per-round noise variance is
@@ -83,13 +85,30 @@ def _eb_shrink(codes: np.ndarray, ng: int, resid: np.ndarray, w: np.ndarray, R: 
     dof = max(len(resid) - int((n_obs > 0).sum()), 1)
     sigma2 = float(np.sum(dec * R * e * e) / np.sum(dec) * len(resid) / dof)
     ok = sw >= min_w
-    if ok.sum() >= 3:
+    if half is not None:
+        # Split-half variance components (no noise-model assumption): with the
+        # data split into two halves by MATCH, the two group means share only the
+        # true group effect, so their covariance estimates tau2; their difference
+        # measures sampling noise, giving the effective per-round-weight variance.
+        def gm(mask):
+            swh = np.bincount(codes[mask], weights=w[mask], minlength=ng)
+            return np.bincount(codes[mask], weights=(w * resid)[mask], minlength=ng) / np.maximum(swh, 1e-12), swh
+        a, swa = gm(half)
+        b, swb = gm(~half)
+        both = (swa > 0) & (swb > 0)
+        if both.sum() >= 10:
+            eff = 1.0 / (1.0 / swa[both] + 1.0 / swb[both])
+            tau2 = float(np.average(a[both] * b[both], weights=eff))
+            sigma2 = float(np.mean((a[both] - b[both]) ** 2 * eff))
+        else:
+            tau2 = 0.0
+    elif ok.sum() >= 3:
         var_mean = sigma2 * np.bincount(codes, weights=w * w / R, minlength=ng)[ok] / sw[ok] ** 2
         tau2 = float(np.mean(mean[ok] ** 2 - var_mean))
     else:
         tau2 = 0.0
     tau2 = max(tau2, 1e-7)
-    k = k_mult * sigma2 / tau2
+    k = k_mult * sigma2 / tau2 if k_fixed is None else k_fixed
     return swr / (sw + k), k, tau2
 
 
@@ -236,6 +255,8 @@ def fit(df: pd.DataFrame, params: Params | None = None, as_of=None,
 
     # codes
     pc, pk_uni = pd.factorize(df["pkey"])
+    # deterministic split of matches into two halves for variance components
+    half = (pd.util.hash_array(df["match_id"].to_numpy()) % 2 == 0)
     rc, reg_uni = pd.factorize(df["team_region"])
     pa_key = df["pkey"] + "|" + df["agent"]
     pac, pa_uni = pd.factorize(pa_key)
@@ -276,7 +297,7 @@ def fit(df: pd.DataFrame, params: Params | None = None, as_of=None,
         # player level, then centred within region: region level lives in delta only
         # (otherwise delta and the mean of u drift against each other, unidentified)
         res = t - delta[rc] - dpa[pac] - dpm[pmc]
-        u, ks["player"], _ = _eb_shrink(pc, len(pk_uni), res, w, R, p.k_mult)
+        u, ks["player"], _ = _eb_shrink(pc, len(pk_uni), res, w, R, p.k_mult, half=half)
         u -= _group_mean(u[pc], rc, w, len(reg_uni))[preg]
         # region offsets: identified by international maps only
         if intl.any():
@@ -287,10 +308,10 @@ def fit(df: pd.DataFrame, params: Params | None = None, as_of=None,
             delta = d_new
         # player x agent / player x map deviations, centred per player
         res = t - delta[rc] - u[pc] - dpm[pmc]
-        dpa, ks["player_agent"], _ = _eb_shrink(pac, len(pa_uni), res, w, R, p.k_mult, min_w=60)
+        dpa, ks["player_agent"], _ = _eb_shrink(pac, len(pa_uni), res, w, R, p.k_mult, min_w=60, half=half, k_fixed=p.k_dev)
         dpa -= _group_mean(dpa[pac], pc, w, len(pk_uni))[pa_player]
         res = t - delta[rc] - u[pc] - dpa[pac]
-        dpm, ks["player_map"], _ = _eb_shrink(pmc, len(pm_uni), res, w, R, p.k_mult, min_w=60)
+        dpm, ks["player_map"], _ = _eb_shrink(pmc, len(pm_uni), res, w, R, p.k_mult, min_w=60, half=half, k_fixed=p.k_dev)
         dpm -= _group_mean(dpm[pmc], pc, w, len(pk_uni))[pm_player]
 
     # ---- tables

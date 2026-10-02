@@ -73,6 +73,13 @@ def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: st
                     for mp, g in pmix.groupby(pmix["map"].fillna("*"))},
         }
 
+    # play-style attributes (descriptive only; not used for prediction — see docs/style_test_*.md)
+    from .styles import STYLE_AXES, style_percentiles
+    styles = style_percentiles(df[df["date"] < as_of], as_of)
+    for pk, pl in players.items():
+        if pk in styles:
+            pl["style"] = styles[pk]
+
     brackets = []
     if brackets_dir and Path(brackets_dir).exists():
         for f in sorted(Path(brackets_dir).glob("*.json")):
@@ -102,6 +109,7 @@ def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: st
         "roles": AGENT_ROLE,
         "teams": teams,
         "players": players,
+        "style_axes": STYLE_AXES,
         "brackets": brackets,
         "event_eval": event_eval,
     }

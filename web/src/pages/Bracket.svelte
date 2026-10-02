@@ -12,6 +12,13 @@
   let full = $derived(br?.kind === 'full' || br?.kind === undefined);
   let sim = $derived(br && br.matches.length ? simulateBracket(app.engine, br, locked, 20000) : null);
   let ev = $derived(app.model.event_eval);
+  // pre-match predictions (from the accuracy check) for matches already played
+  let preMatch = $derived(Object.fromEntries((ev?.matches ?? []).map((m) => [m.match_id, m])));
+  function preP(m, team) {
+    const e = preMatch[m.vlr_id];
+    if (!e) return null;
+    return team === e.team_a ? e.p : 1 - e.p;
+  }
 
   function known(ref, res) {
     if (ref.startsWith('W:')) return res[ref.slice(2)]?.[0];
@@ -30,12 +37,16 @@
     }
     return out;
   });
+  // matches in the order they are (or were) played, grouped by KST date
+  const dayKey = (iso) => iso ? new Intl.DateTimeFormat('ko-KR', { timeZone: 'Asia/Seoul', month: 'long', day: 'numeric', weekday: 'short' }).format(new Date(iso)) : '일정 미정';
   let rounds = $derived.by(() => {
+    const ms = [...(br?.matches ?? [])].sort((x, y) => (x.time ?? '9999').localeCompare(y.time ?? '9999'));
     const g = [];
-    for (const m of br?.matches ?? []) {
+    for (const m of ms) {
+      const d = dayKey(m.time);
       const last = g.at(-1);
-      if (last && last.round === m.round) last.items.push(m);
-      else g.push({ round: m.round, items: [m] });
+      if (last && last.round === d) last.items.push(m);
+      else g.push({ round: d, items: [m] });
     }
     return g;
   });
@@ -91,7 +102,7 @@
     {#each r.items as m}
       {@const f = fixed[m.id]}
       <div class="card">
-        <div class="muted small">{kstShort(m.time)} · Bo{m.best_of ?? 3}{played(m) ? ' · 종료' : ''}</div>
+        <div class="muted small">{kstShort(m.time)} · {m.round} · Bo{m.best_of ?? 3}{played(m) ? ' · 종료' : ''}</div>
         {#if f.a && f.b}
           {@const p = app.engine.series(f.a, f.b, m.best_of ?? 3).p}
           <div style="display:flex; gap:8px; margin-top:6px">
@@ -100,7 +111,7 @@
                 onclick={() => lock(m.id, t)} disabled={played(m)}>
                 <div style="font-weight:600">{t}</div>
                 <div class="muted small">
-                  {#if played(m)}{locked[m.id] === t ? '승' : '패'} · 예측 {pct(q)}
+                  {#if played(m)}{locked[m.id] === t ? '승' : '패'}{#if preP(m, t) != null} · 경기 전 예측 {pct(preP(m, t))}{/if}
                   {:else if locked[m.id]}{locked[m.id] === t ? '승 (가정)' : '패 (가정)'}
                   {:else}{pct(q)}{/if}
                 </div>

@@ -105,3 +105,38 @@ def reliability(m: pd.DataFrame, min_maps: int = 8, seed: int = 0) -> pd.Series:
         out.append(r)
     r = pd.DataFrame(out).mean()
     return (2 * r / (1 + r)).clip(lower=-1)
+
+
+# Axes shown in the app: only those that replicate as stable traits
+# (split-half reliability >= ~0.3). Psychological axes (pressure, decider,
+# bounce) do not replicate from per-map stats and are left out.
+STYLE_AXES = [
+    {"key": "entry", "label": "첫 교전", "desc": "첫 교전(선킬·선데스)에 나서는 빈도"},
+    {"key": "firepower", "label": "화력", "desc": "라운드당 피해량"},
+    {"key": "aim", "label": "조준", "desc": "헤드샷 비율"},
+    {"key": "survival", "label": "생존", "desc": "라운드당 데스가 적은 정도"},
+    {"key": "support", "label": "지원", "desc": "라운드당 어시스트"},
+    {"key": "steady", "label": "일관성", "desc": "맵마다 경기력 편차가 적은 정도"},
+]
+
+
+def style_percentiles(df: pd.DataFrame, as_of, days: int = 365, min_maps: int = 10) -> dict:
+    """{pkey: {axis: percentile 0-100}} among players with >= min_maps maps in the window.
+
+    Axes are role-relative, so 100 on 'entry' means the most first-duel-heavy
+    player *of his role*, not simply a duelist.
+    """
+    as_of = pd.Timestamp(as_of)
+    win = df[(df["date"] < as_of) & (df["date"] >= as_of - pd.Timedelta(days=days))]
+    if win.empty:
+        return {}
+    ax = player_axes(map_level(win), min_maps=min_maps)
+    if ax.empty:
+        return {}
+    ax["steady"] = -ax["volatility"].astype(float)
+    out = {}
+    pct = {a["key"]: ax[a["key"]].astype(float).rank(pct=True) * 100 for a in STYLE_AXES}
+    for pk in ax.index:
+        out[str(pk)] = {k: round(float(v[pk]), 0) for k, v in pct.items()}
+        out[str(pk)]["maps"] = int(ax.loc[pk, "maps"])
+    return out
