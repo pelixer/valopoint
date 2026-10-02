@@ -170,5 +170,205 @@
 }
 ],
 "model_generated_at": "2026-10-02T14:33:57+00:00"
+},
+{
+"recorded_at": "2026-10-02T14:46:42+00:00",
+"bracket": "vlr-2766",
+"match": "A-D",
+"vlr_id": 753448,
+"match_time": "2026-10-04T12:00:00+00:00",
+"team_a": "FUT Esports",
+"team_b": "T1",
+"best_of": 3,
+"p": 0.4189,
+"basis": "veto_model",
+"maps": [
+{
+"map": "Summit",
+"p": 0.4211,
+"presence": 0.15
+},
+{
+"map": "Lotus",
+"p": 0.4005,
+"presence": 0.435
+},
+{
+"map": "Ascent",
+"p": 0.4758,
+"presence": 0.516
+},
+{
+"map": "Split",
+"p": 0.4134,
+"presence": 0.32
+},
+{
+"map": "Haven",
+"p": 0.4703,
+"presence": 0.774
+},
+{
+"map": "Sunset",
+"p": 0.4612,
+"presence": 0.485
+},
+{
+"map": "Abyss",
+"p": 0.4196,
+"presence": 0.318
+}
+],
+"model_generated_at": "2026-10-02T14:46:42+00:00"
+},
+{
+"recorded_at": "2026-10-02T14:46:42+00:00",
+"bracket": "vlr-2766",
+"match": "B-D",
+"vlr_id": 753453,
+"match_time": "2026-10-04T09:00:00+00:00",
+"team_a": "LOUD",
+"team_b": "Global Esports",
+"best_of": 3,
+"p": 0.6485,
+"basis": "veto_model",
+"maps": [
+{
+"map": "Summit",
+"p": 0.6128,
+"presence": 0.7
+},
+{
+"map": "Lotus",
+"p": 0.6206,
+"presence": 0.258
+},
+{
+"map": "Ascent",
+"p": 0.5691,
+"presence": 0.463
+},
+{
+"map": "Split",
+"p": 0.6136,
+"presence": 0.203
+},
+{
+"map": "Haven",
+"p": 0.5888,
+"presence": 0.221
+},
+{
+"map": "Sunset",
+"p": 0.6156,
+"presence": 0.544
+},
+{
+"map": "Abyss",
+"p": 0.5873,
+"presence": 0.61
+}
+],
+"model_generated_at": "2026-10-02T14:46:42+00:00"
+},
+{
+"recorded_at": "2026-10-02T14:46:42+00:00",
+"bracket": "vlr-2766",
+"match": "C-D",
+"vlr_id": 753458,
+"match_time": "2026-10-03T09:00:00+00:00",
+"team_a": "G2 Esports",
+"team_b": "Team Liquid",
+"best_of": 3,
+"p": 0.5675,
+"basis": "veto_model",
+"maps": [
+{
+"map": "Summit",
+"p": 0.5385,
+"presence": 0.308
+},
+{
+"map": "Lotus",
+"p": 0.526,
+"presence": 0.656
+},
+{
+"map": "Ascent",
+"p": 0.5511,
+"presence": 0.335
+},
+{
+"map": "Split",
+"p": 0.5179,
+"presence": 0.379
+},
+{
+"map": "Haven",
+"p": 0.5499,
+"presence": 0.286
+},
+{
+"map": "Sunset",
+"p": 0.5761,
+"presence": 0.235
+},
+{
+"map": "Abyss",
+"p": 0.5629,
+"presence": 0.8
+}
+],
+"model_generated_at": "2026-10-02T14:46:42+00:00"
+},
+{
+"recorded_at": "2026-10-02T14:46:42+00:00",
+"bracket": "vlr-2766",
+"match": "D-D",
+"vlr_id": 753463,
+"match_time": "2026-10-03T12:00:00+00:00",
+"team_a": "Karmine Corp",
+"team_b": "Nongshim RedForce",
+"best_of": 3,
+"p": 0.6171,
+"basis": "veto_model",
+"maps": [
+{
+"map": "Summit",
+"p": 0.5826,
+"presence": 0.145
+},
+{
+"map": "Lotus",
+"p": 0.5947,
+"presence": 0.406
+},
+{
+"map": "Ascent",
+"p": 0.5978,
+"presence": 0.398
+},
+{
+"map": "Split",
+"p": 0.5489,
+"presence": 0.179
+},
+{
+"map": "Haven",
+"p": 0.5626,
+"presence": 0.558
+},
+{
+"map": "Sunset",
+"p": 0.5967,
+"presence": 0.587
+},
+{
+"map": "Abyss",
+"p": 0.5638,
+"presence": 0.727
+}
+],
+"model_generated_at": "2026-10-02T14:46:42+00:00"
 }
 ]
