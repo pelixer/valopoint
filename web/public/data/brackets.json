@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T09:15:10+00:00",
+ "generated_at": "2026-10-02T13:44:38+00:00",
  "brackets": [
   {
    "id": "vlr-2766",
@@ -33,7 +33,51 @@
      "best_of": 3,
      "round": "그룹 A 오프닝",
      "vlr_id": 753444,
-     "time": "2026-09-27T09:00:00+00:00"
+     "time": "2026-09-27T09:00:00+00:00",
+     "veto": {
+      "order": [
+       "Summit",
+       "Ascent",
+       "Sunset"
+      ],
+      "steps": [
+       [
+        "T1",
+        "ban",
+        "Split"
+       ],
+       [
+        "100T",
+        "ban",
+        "Lotus"
+       ],
+       [
+        "T1",
+        "pick",
+        "Summit"
+       ],
+       [
+        "100T",
+        "pick",
+        "Ascent"
+       ],
+       [
+        "T1",
+        "ban",
+        "Haven"
+       ],
+       [
+        "100T",
+        "ban",
+        "Abyss"
+       ],
+       [
+        null,
+        "remains",
+        "Sunset"
+       ]
+      ]
+     }
     },
     {
      "id": "A-O2",
@@ -42,7 +86,51 @@
      "best_of": 3,
      "round": "그룹 A 오프닝",
      "vlr_id": 753445,
-     "time": "2026-09-27T11:35:00+00:00"
+     "time": "2026-09-27T11:35:00+00:00",
+     "veto": {
+      "order": [
+       "Ascent",
+       "Summit",
+       "Split"
+      ],
+      "steps": [
+       [
+        "FUT",
+        "ban",
+        "Abyss"
+       ],
+       [
+        "JDG",
+        "ban",
+        "Haven"
+       ],
+       [
+        "FUT",
+        "pick",
+        "Ascent"
+       ],
+       [
+        "JDG",
+        "pick",
+        "Summit"
+       ],
+       [
+        "FUT",
+        "ban",
+        "Lotus"
+       ],
+       [
+        "JDG",
+        "ban",
+        "Sunset"
+       ],
+       [
+        null,
+        "remains",
+        "Split"
+       ]
+      ]
+     }
     },
     {
      "id": "A-W",
@@ -51,7 +139,51 @@
      "best_of": 3,
      "round": "그룹 A 승자전",
      "vlr_id": 753446,
-     "time": "2026-09-30T11:55:00+00:00"
+     "time": "2026-09-30T11:55:00+00:00",
+     "veto": {
+      "order": [
+       "Split",
+       "Lotus",
+       "Sunset"
+      ],
+      "steps": [
+       [
+        "FUT",
+        "ban",
+        "Abyss"
+       ],
+       [
+        "100T",
+        "ban",
+        "Haven"
+       ],
+       [
+        "FUT",
+        "pick",
+        "Split"
+       ],
+       [
+        "100T",
+        "pick",
+        "Lotus"
+       ],
+       [
+        "FUT",
+        "ban",
+        "Summit"
+       ],
+       [
+        "100T",
+        "ban",
+        "Ascent"
+       ],
+       [
+        null,
+        "remains",
+        "Sunset"
+       ]
+      ]
+     }
     },
     {
      "id": "A-E",
@@ -60,12 +192,56 @@
      "best_of": 3,
      "round": "그룹 A 패자전",
      "vlr_id": 753447,
-     "time": "2026-10-02T12:00:00+00:00"
+     "time": "2026-10-02T11:00:00+00:00",
+     "veto": {
+      "order": [
+       "Lotus",
+       "Abyss",
+       "Haven"
+      ],
+      "steps": [
+       [
+        "T1",
+        "ban",
+        "Split"
+       ],
+       [
+        "JDG",
+        "ban",
+        "Ascent"
+       ],
+       [
+        "T1",
+        "pick",
+        "Lotus"
+       ],
+       [
+        "JDG",
+        "pick",
+        "Abyss"
+       ],
+       [
+        "T1",
+        "ban",
+        "Summit"
+       ],
+       [
+        "JDG",
+        "ban",
+        "Sunset"
+       ],
+       [
+        null,
+        "remains",
+        "Haven"
+       ]
+      ]
+     }
     },
     {
      "id": "A-D",
-     "a": "L:A-W",
-     "b": "W:A-E",
+     "a": "FUT Esports",
+     "b": "T1",
      "best_of": 3,
      "round": "그룹 A 최종전",
      "vlr_id": 753448,
@@ -78,7 +254,51 @@
      "best_of": 3,
      "round": "그룹 B 오프닝",
      "vlr_id": 753449,
-     "time": "2026-09-26T09:00:00+00:00"
+     "time": "2026-09-26T09:00:00+00:00",
+     "veto": {
+      "order": [
+       "Abyss",
+       "Ascent",
+       "Summit"
+      ],
+      "steps": [
+       [
+        "VIT",
+        "ban",
+        "Sunset"
+       ],
+       [
+        "GE",
+        "ban",
+        "Split"
+       ],
+       [
+        "VIT",
+        "pick",
+        "Abyss"
+       ],
+       [
+        "GE",
+        "pick",
+        "Ascent"
+       ],
+       [
+        "VIT",
+        "ban",
+        "Haven"
+       ],
+       [
+        "GE",
+        "ban",
+        "Lotus"
+       ],
+       [
+        null,
+        "remains",
+        "Summit"
+       ]
+      ]
+     }
     },
     {
      "id": "B-O2",
@@ -87,7 +307,51 @@
      "best_of": 3,
      "round": "그룹 B 오프닝",
      "vlr_id": 753450,
-     "time": "2026-09-26T12:30:00+00:00"
+     "time": "2026-09-26T12:30:00+00:00",
+     "veto": {
+      "order": [
+       "Lotus",
+       "Summit",
+       "Sunset"
+      ],
+      "steps": [
+       [
+        "EDG",
+        "ban",
+        "Ascent"
+       ],
+       [
+        "LOUD",
+        "ban",
+        "Split"
+       ],
+       [
+        "EDG",
+        "pick",
+        "Lotus"
+       ],
+       [
+        "LOUD",
+        "pick",
+        "Summit"
+       ],
+       [
+        "EDG",
+        "ban",
+        "Abyss"
+       ],
+       [
+        "LOUD",
+        "ban",
+        "Haven"
+       ],
+       [
+        null,
+        "remains",
+        "Sunset"
+       ]
+      ]
+     }
     },
     {
      "id": "B-W",
@@ -96,7 +360,51 @@
      "best_of": 3,
      "round": "그룹 B 승자전",
      "vlr_id": 753451,
-     "time": "2026-09-30T09:00:00+00:00"
+     "time": "2026-09-30T09:00:00+00:00",
+     "veto": {
+      "order": [
+       "Ascent",
+       "Summit",
+       "Lotus"
+      ],
+      "steps": [
+       [
+        "VIT",
+        "ban",
+        "Sunset"
+       ],
+       [
+        "LOUD",
+        "ban",
+        "Split"
+       ],
+       [
+        "VIT",
+        "pick",
+        "Ascent"
+       ],
+       [
+        "LOUD",
+        "pick",
+        "Summit"
+       ],
+       [
+        "VIT",
+        "ban",
+        "Abyss"
+       ],
+       [
+        "LOUD",
+        "ban",
+        "Haven"
+       ],
+       [
+        null,
+        "remains",
+        "Lotus"
+       ]
+      ]
+     }
     },
     {
      "id": "B-E",
@@ -105,12 +413,56 @@
      "best_of": 3,
      "round": "그룹 B 패자전",
      "vlr_id": 753452,
-     "time": "2026-10-02T09:00:00+00:00"
+     "time": "2026-10-02T09:00:00+00:00",
+     "veto": {
+      "order": [
+       "Summit",
+       "Sunset",
+       "Lotus"
+      ],
+      "steps": [
+       [
+        "GE",
+        "ban",
+        "Split"
+       ],
+       [
+        "EDG",
+        "ban",
+        "Ascent"
+       ],
+       [
+        "GE",
+        "pick",
+        "Summit"
+       ],
+       [
+        "EDG",
+        "pick",
+        "Sunset"
+       ],
+       [
+        "GE",
+        "ban",
+        "Haven"
+       ],
+       [
+        "EDG",
+        "ban",
+        "Abyss"
+       ],
+       [
+        null,
+        "remains",
+        "Lotus"
+       ]
+      ]
+     }
     },
     {
      "id": "B-D",
-     "a": "L:B-W",
-     "b": "W:B-E",
+     "a": "LOUD",
+     "b": "Global Esports",
      "best_of": 3,
      "round": "그룹 B 최종전",
      "vlr_id": 753453,
@@ -123,7 +475,51 @@
      "best_of": 3,
      "round": "그룹 C 오프닝",
      "vlr_id": 753454,
-     "time": "2026-09-24T12:25:00+00:00"
+     "time": "2026-09-24T12:25:00+00:00",
+     "veto": {
+      "order": [
+       "Lotus",
+       "Sunset",
+       "Haven"
+      ],
+      "steps": [
+       [
+        "G2",
+        "ban",
+        "Summit"
+       ],
+       [
+        "TYL",
+        "ban",
+        "Abyss"
+       ],
+       [
+        "G2",
+        "pick",
+        "Lotus"
+       ],
+       [
+        "TYL",
+        "pick",
+        "Sunset"
+       ],
+       [
+        "G2",
+        "ban",
+        "Split"
+       ],
+       [
+        "TYL",
+        "ban",
+        "Ascent"
+       ],
+       [
+        null,
+        "remains",
+        "Haven"
+       ]
+      ]
+     }
     },
     {
      "id": "C-O2",
@@ -132,7 +528,51 @@
      "best_of": 3,
      "round": "그룹 C 오프닝",
      "vlr_id": 753455,
-     "time": "2026-09-24T09:00:00+00:00"
+     "time": "2026-09-24T09:00:00+00:00",
+     "veto": {
+      "order": [
+       "Ascent",
+       "Haven",
+       "Lotus"
+      ],
+      "steps": [
+       [
+        "PRX",
+        "ban",
+        "Abyss"
+       ],
+       [
+        "TL",
+        "ban",
+        "Sunset"
+       ],
+       [
+        "PRX",
+        "pick",
+        "Ascent"
+       ],
+       [
+        "TL",
+        "pick",
+        "Haven"
+       ],
+       [
+        "PRX",
+        "ban",
+        "Summit"
+       ],
+       [
+        "TL",
+        "ban",
+        "Split"
+       ],
+       [
+        null,
+        "remains",
+        "Lotus"
+       ]
+      ]
+     }
     },
     {
      "id": "C-W",
@@ -141,7 +581,51 @@
      "best_of": 3,
      "round": "그룹 C 승자전",
      "vlr_id": 753456,
-     "time": "2026-09-29T09:00:00+00:00"
+     "time": "2026-09-29T09:00:00+00:00",
+     "veto": {
+      "order": [
+       "Split",
+       "Haven",
+       "Lotus"
+      ],
+      "steps": [
+       [
+        "PRX",
+        "ban",
+        "Abyss"
+       ],
+       [
+        "G2",
+        "ban",
+        "Summit"
+       ],
+       [
+        "PRX",
+        "pick",
+        "Split"
+       ],
+       [
+        "G2",
+        "pick",
+        "Haven"
+       ],
+       [
+        "PRX",
+        "ban",
+        "Ascent"
+       ],
+       [
+        "G2",
+        "ban",
+        "Sunset"
+       ],
+       [
+        null,
+        "remains",
+        "Lotus"
+       ]
+      ]
+     }
     },
     {
      "id": "C-E",
@@ -150,7 +634,51 @@
      "best_of": 3,
      "round": "그룹 C 패자전",
      "vlr_id": 753457,
-     "time": "2026-10-01T09:00:00+00:00"
+     "time": "2026-10-01T09:00:00+00:00",
+     "veto": {
+      "order": [
+       "Split",
+       "Summit",
+       "Lotus"
+      ],
+      "steps": [
+       [
+        "TL",
+        "ban",
+        "Sunset"
+       ],
+       [
+        "TYL",
+        "ban",
+        "Haven"
+       ],
+       [
+        "TL",
+        "pick",
+        "Split"
+       ],
+       [
+        "TYL",
+        "pick",
+        "Summit"
+       ],
+       [
+        "TL",
+        "ban",
+        "Ascent"
+       ],
+       [
+        "TYL",
+        "ban",
+        "Abyss"
+       ],
+       [
+        null,
+        "remains",
+        "Lotus"
+       ]
+      ]
+     }
     },
     {
      "id": "C-D",
@@ -168,7 +696,51 @@
      "best_of": 3,
      "round": "그룹 D 오프닝",
      "vlr_id": 753459,
-     "time": "2026-09-25T11:25:00+00:00"
+     "time": "2026-09-25T11:25:00+00:00",
+     "veto": {
+      "order": [
+       "Sunset",
+       "Abyss",
+       "Ascent"
+      ],
+      "steps": [
+       [
+        "KC",
+        "ban",
+        "Split"
+       ],
+       [
+        "XLG",
+        "ban",
+        "Haven"
+       ],
+       [
+        "KC",
+        "pick",
+        "Sunset"
+       ],
+       [
+        "XLG",
+        "pick",
+        "Abyss"
+       ],
+       [
+        "KC",
+        "ban",
+        "Summit"
+       ],
+       [
+        "XLG",
+        "ban",
+        "Lotus"
+       ],
+       [
+        null,
+        "remains",
+        "Ascent"
+       ]
+      ]
+     }
     },
     {
      "id": "D-O2",
@@ -177,7 +749,51 @@
      "best_of": 3,
      "round": "그룹 D 오프닝",
      "vlr_id": 753460,
-     "time": "2026-09-25T09:00:00+00:00"
+     "time": "2026-09-25T09:00:00+00:00",
+     "veto": {
+      "order": [
+       "Lotus",
+       "Split",
+       "Sunset"
+      ],
+      "steps": [
+       [
+        "NRG",
+        "ban",
+        "Abyss"
+       ],
+       [
+        "NS",
+        "ban",
+        "Summit"
+       ],
+       [
+        "NRG",
+        "pick",
+        "Lotus"
+       ],
+       [
+        "NS",
+        "pick",
+        "Split"
+       ],
+       [
+        "NRG",
+        "ban",
+        "Ascent"
+       ],
+       [
+        "NS",
+        "ban",
+        "Haven"
+       ],
+       [
+        null,
+        "remains",
+        "Sunset"
+       ]
+      ]
+     }
     },
     {
      "id": "D-W",
@@ -186,7 +802,51 @@
      "best_of": 3,
      "round": "그룹 D 승자전",
      "vlr_id": 753461,
-     "time": "2026-09-29T12:30:00+00:00"
+     "time": "2026-09-29T12:30:00+00:00",
+     "veto": {
+      "order": [
+       "Ascent",
+       "Summit",
+       "Haven"
+      ],
+      "steps": [
+       [
+        "KC",
+        "ban",
+        "Split"
+       ],
+       [
+        "NRG",
+        "ban",
+        "Sunset"
+       ],
+       [
+        "KC",
+        "pick",
+        "Ascent"
+       ],
+       [
+        "NRG",
+        "pick",
+        "Summit"
+       ],
+       [
+        "KC",
+        "ban",
+        "Lotus"
+       ],
+       [
+        "NRG",
+        "ban",
+        "Abyss"
+       ],
+       [
+        null,
+        "remains",
+        "Haven"
+       ]
+      ]
+     }
     },
     {
      "id": "D-E",
@@ -195,7 +855,51 @@
      "best_of": 3,
      "round": "그룹 D 패자전",
      "vlr_id": 753462,
-     "time": "2026-10-01T12:05:00+00:00"
+     "time": "2026-10-01T12:05:00+00:00",
+     "veto": {
+      "order": [
+       "Summit",
+       "Sunset",
+       "Abyss"
+      ],
+      "steps": [
+       [
+        "XLG",
+        "ban",
+        "Haven"
+       ],
+       [
+        "NS",
+        "ban",
+        "Lotus"
+       ],
+       [
+        "XLG",
+        "pick",
+        "Summit"
+       ],
+       [
+        "NS",
+        "pick",
+        "Sunset"
+       ],
+       [
+        "XLG",
+        "ban",
+        "Ascent"
+       ],
+       [
+        "NS",
+        "ban",
+        "Split"
+       ],
+       [
+        null,
+        "remains",
+        "Abyss"
+       ]
+      ]
+     }
     },
     {
      "id": "D-D",
@@ -338,9 +1042,11 @@
     "A-O1": "100 Thieves",
     "A-O2": "FUT Esports",
     "A-W": "100 Thieves",
+    "A-E": "T1",
     "B-O1": "Team Vitality",
     "B-O2": "LOUD",
     "B-W": "Team Vitality",
+    "B-E": "Global Esports",
     "C-O1": "G2 Esports",
     "C-O2": "Paper Rex",
     "C-W": "Paper Rex",
