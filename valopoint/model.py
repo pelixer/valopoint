@@ -151,6 +151,7 @@ class PlayerModel:
     agent_mix: pd.DataFrame         # (pkey, map, agent) -> weight
     diag: dict = field(default_factory=dict)
     gamma: dict = field(default_factory=dict)   # region result offsets (logit units)
+    rows: pd.DataFrame | None = None            # per player-map opponent-adjusted performance (theta units)
 
     # ---- lookups
     def theta(self, pkey: str, map_: str | None = None, agent: str | None = None,
@@ -345,8 +346,11 @@ def fit(df: pd.DataFrame, params: Params | None = None, as_of=None,
     ov = overall.rename("weight").reset_index().assign(map=None)
     agent_mix = pd.concat([per_map[["pkey", "map", "agent", "weight"]], ov[["pkey", "map", "agent", "weight"]]])
 
+    perf_rows = df[["pkey", "date", "event_id", "event", "intl", "map", "agent", "team", "opp",
+                    "team_rounds", "opp_rounds", "match_id", "game_id"]].assign(R=R, perf=t)
+
     return PlayerModel(
-        params=p, as_of=as_of, std=std, w=wts,
+        params=p, as_of=as_of, std=std, w=wts, rows=perf_rows,
         region={r: float(d) for r, d in zip(reg_uni, delta)},
         player=player, p_agent=p_agent, p_map=p_map, agent_mix=agent_mix,
         diag={"shrinkage_k_rounds": {k: float(v) for k, v in ks.items()},

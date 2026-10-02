@@ -55,6 +55,7 @@ def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: st
 
     wanted = {pk for t in active for pk in ros[t]}
     players = {}
+    base_theta: dict = {}
     pa = m.p_agent.set_index(["pkey", "agent"])
     pm = m.p_map.set_index(["pkey", "map"])
     mix = m.agent_mix
@@ -72,6 +73,7 @@ def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: st
         for mp in sorted(set(pool) | set(maps.index)):
             dm = float(maps.loc[mp, "dev"]) if mp in maps.index else 0.0
             grid[mp] = {a: round(float(pp(base + dm + agents.loc[a, "dev"])), 1) for a in agents.index}
+        base_theta[pk] = float(base)
         players[pk] = {
             "name": row["name"], "team": next((t for t in active if pk in ros[t]), row["team"]),
             "region": treg, "role": role_of(main_agent),
@@ -91,6 +93,23 @@ def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: st
     for pk, pl in players.items():
         if pk in styles:
             pl["style"] = styles[pk]
+
+    # descriptive profiles: form, consistency, career, league season, current event
+    from .highlights import player_profiles
+    intl_recent = df[df["intl"] & (df["date"] < as_of) & (df["date"] >= as_of - pd.Timedelta(days=60))]
+    current_eid = int(intl_recent.sort_values("date")["event_id"].iloc[-1]) if len(intl_recent) else None
+    profiles = player_profiles(m, as_of, list(players), base_theta, current_eid)
+    for pk, pl in players.items():
+        if pk in profiles:
+            pl["profile"] = profiles[pk]
+    # map-to-map spread differs by role (duelists swing more): express it relative to the role median
+    sds = pd.DataFrame([(pl["role"], pl["profile"]["steady"]["sd"]) for pl in players.values()
+                        if "steady" in pl.get("profile", {})], columns=["role", "sd"])
+    med = sds.groupby("role")["sd"].median().to_dict() if len(sds) else {}
+    for pl in players.values():
+        st = pl.get("profile", {}).get("steady")
+        if st and med.get(pl["role"]):
+            st["rel"] = round(st["sd"] / med[pl["role"]], 3)
 
     brackets = []
     if brackets_dir and Path(brackets_dir).exists():
@@ -115,7 +134,9 @@ def build(df: pd.DataFrame, params: Params | None = None, as_of=None, source: st
         "meta": {"generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
                  "as_of": str(as_of.date()), "source": source,
                  "data_from": str(since.date()), "params": p.to_dict(), "diag": m.diag,
-                 "backtest_map": bt, "live_events": sorted(int(e) for e in live)},
+                 "backtest_map": bt, "live_events": sorted(int(e) for e in live),
+                 "current_event": ({"id": current_eid, "name": str(df.loc[df["event_id"] == current_eid, "event"].iloc[0])}
+                                   if current_eid else None)},
         "calib": {"beta": beta, "reliability": reliability_bins(rec["p"], rec["win"]) if len(rec) else []},
         "regions": {r: {"offset_pp": round(float(m.region.get(r, 0.0) * 1000), 2),
                         "gamma": round(gamma.get(r, 0.0), 4)} for r in MAIN_REGIONS},
