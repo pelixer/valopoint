@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T09:04:33+00:00",
+ "generated_at": "2026-10-03T18:37:14+00:00",
  "brackets": [
   {
    "id": "vlr-2766",
@@ -192,51 +192,7 @@
      "best_of": 3,
      "round": "그룹 A 패자전",
      "vlr_id": 753447,
-     "time": "2026-10-02T11:00:00+00:00",
-     "veto": {
-      "order": [
-       "Lotus",
-       "Abyss",
-       "Haven"
-      ],
-      "steps": [
-       [
-        "T1",
-        "ban",
-        "Split"
-       ],
-       [
-        "JDG",
-        "ban",
-        "Ascent"
-       ],
-       [
-        "T1",
-        "pick",
-        "Lotus"
-       ],
-       [
-        "JDG",
-        "pick",
-        "Abyss"
-       ],
-       [
-        "T1",
-        "ban",
-        "Summit"
-       ],
-       [
-        "JDG",
-        "ban",
-        "Sunset"
-       ],
-       [
-        null,
-        "remains",
-        "Haven"
-       ]
-      ]
-     }
+     "time": "2026-10-02T11:00:00+00:00"
     },
     {
      "id": "A-D",
@@ -413,51 +369,7 @@
      "best_of": 3,
      "round": "그룹 B 패자전",
      "vlr_id": 753452,
-     "time": "2026-10-02T09:00:00+00:00",
-     "veto": {
-      "order": [
-       "Summit",
-       "Sunset",
-       "Lotus"
-      ],
-      "steps": [
-       [
-        "GE",
-        "ban",
-        "Split"
-       ],
-       [
-        "EDG",
-        "ban",
-        "Ascent"
-       ],
-       [
-        "GE",
-        "pick",
-        "Summit"
-       ],
-       [
-        "EDG",
-        "pick",
-        "Sunset"
-       ],
-       [
-        "GE",
-        "ban",
-        "Haven"
-       ],
-       [
-        "EDG",
-        "ban",
-        "Abyss"
-       ],
-       [
-        null,
-        "remains",
-        "Lotus"
-       ]
-      ]
-     }
+     "time": "2026-10-02T09:00:00+00:00"
     },
     {
      "id": "B-D",
@@ -687,51 +599,7 @@
      "best_of": 3,
      "round": "그룹 C 최종전",
      "vlr_id": 753458,
-     "time": "2026-10-03T09:00:00+00:00",
-     "veto": {
-      "order": [
-       "Split",
-       "Abyss",
-       "Ascent"
-      ],
-      "steps": [
-       [
-        "TL",
-        "ban",
-        "Sunset"
-       ],
-       [
-        "G2",
-        "ban",
-        "Haven"
-       ],
-       [
-        "TL",
-        "pick",
-        "Split"
-       ],
-       [
-        "G2",
-        "pick",
-        "Abyss"
-       ],
-       [
-        "TL",
-        "ban",
-        "Summit"
-       ],
-       [
-        "G2",
-        "ban",
-        "Lotus"
-       ],
-       [
-        null,
-        "remains",
-        "Ascent"
-       ]
-      ]
-     }
+     "time": "2026-10-03T09:00:00+00:00"
     },
     {
      "id": "D-O1",
@@ -952,7 +820,7 @@
      "best_of": 3,
      "round": "그룹 D 최종전",
      "vlr_id": 753463,
-     "time": "2026-10-03T12:00:00+00:00"
+     "time": "2026-10-03T11:30:00+00:00"
     },
     {
      "id": "UQF1",
@@ -1095,10 +963,12 @@
     "C-O2": "Paper Rex",
     "C-W": "Paper Rex",
     "C-E": "Team Liquid",
+    "C-D": "G2 Esports",
     "D-O1": "Karmine Corp",
     "D-O2": "NRG",
     "D-W": "NRG",
-    "D-E": "Nongshim RedForce"
+    "D-E": "Nongshim RedForce",
+    "D-D": "Nongshim RedForce"
    },
    "assumed": [
     "UQF1",
