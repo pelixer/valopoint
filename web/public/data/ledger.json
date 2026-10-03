@@ -370,5 +370,105 @@
 }
 ],
 "model_generated_at": "2026-10-02T14:46:42+00:00"
+},
+{
+"recorded_at": "2026-10-03T18:37:41+00:00",
+"bracket": "vlr-2766",
+"match": "UQF3",
+"vlr_id": 754732,
+"match_time": "2026-10-08T09:00:00+00:00",
+"team_a": "Paper Rex",
+"team_b": "Nongshim RedForce",
+"best_of": 3,
+"p": 0.6679,
+"basis": "veto_model",
+"maps": [
+{
+"map": "Summit",
+"p": 0.6162,
+"presence": 0.324
+},
+{
+"map": "Lotus",
+"p": 0.6451,
+"presence": 0.36
+},
+{
+"map": "Ascent",
+"p": 0.6452,
+"presence": 0.419
+},
+{
+"map": "Split",
+"p": 0.6127,
+"presence": 0.488
+},
+{
+"map": "Haven",
+"p": 0.6052,
+"presence": 0.232
+},
+{
+"map": "Sunset",
+"p": 0.6088,
+"presence": 0.55
+},
+{
+"map": "Abyss",
+"p": 0.5822,
+"presence": 0.625
+}
+],
+"model_generated_at": "2026-10-03T18:37:41+00:00"
+},
+{
+"recorded_at": "2026-10-03T18:37:41+00:00",
+"bracket": "vlr-2766",
+"match": "UQF4",
+"vlr_id": 754733,
+"match_time": "2026-10-08T12:00:00+00:00",
+"team_a": "NRG",
+"team_b": "G2 Esports",
+"best_of": 3,
+"p": 0.529,
+"basis": "veto_model",
+"maps": [
+{
+"map": "Summit",
+"p": 0.5434,
+"presence": 0.302
+},
+{
+"map": "Lotus",
+"p": 0.5535,
+"presence": 0.85
+},
+{
+"map": "Ascent",
+"p": 0.5068,
+"presence": 0.227
+},
+{
+"map": "Split",
+"p": 0.5097,
+"presence": 0.155
+},
+{
+"map": "Haven",
+"p": 0.5213,
+"presence": 0.307
+},
+{
+"map": "Sunset",
+"p": 0.4992,
+"presence": 0.387
+},
+{
+"map": "Abyss",
+"p": 0.4872,
+"presence": 0.77
+}
+],
+"model_generated_at": "2026-10-03T18:37:41+00:00"
 }
 ]
