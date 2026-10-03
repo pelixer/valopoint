@@ -1,5 +1,7 @@
 # Build the Svelte app and publish it to GitHub Pages.
 # Runs on app changes, after every data refresh, or by hand.
+# Skipped once the repository is private (GitHub Free has no Pages for private
+# repositories); the app is then served by deploy-cloudflare.yml.
 name: deploy-pages
 
 on:
@@ -22,6 +24,7 @@ concurrency:
 
 jobs:
   build:
+    if: ${{ !github.event.repository.private }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
