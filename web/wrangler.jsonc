@@ -1,0 +1,11 @@
+// Cloudflare Workers (static assets only): serves the built app from ./dist.
+// The custom domain is passed at deploy time from the VALOPOINT_DOMAIN repository
+// variable (see .github/workflows/deploy-cloudflare.yml), so this file has no routes.
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "valopoint",
+  "compatibility_date": "2026-10-03",
+  "assets": {
+    "directory": "./dist"
+  }
+}

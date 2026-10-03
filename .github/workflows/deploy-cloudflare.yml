@@ -1,0 +1,57 @@
+# Build the Svelte app and deploy it to Cloudflare Workers (static assets).
+# Needs repository secrets CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID; without
+# them the deploy step is skipped. Repository variable VALOPOINT_DOMAIN (for example
+# valopoint.example.dev, on a zone in the same Cloudflare account) attaches the app to
+# that custom domain; without it the app is served on *.workers.dev only.
+name: deploy-cloudflare
+
+on:
+  push:
+    branches: [main]
+    paths: ["web/**", ".github/workflows/deploy-cloudflare.yml"]
+  workflow_run:
+    workflows: [update-data, update-bracket]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cloudflare
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      DOMAIN: ${{ vars.VALOPOINT_DOMAIN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # workflow_run would otherwise check out the pre-update commit
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm ci
+        working-directory: web
+      - run: npm test
+        working-directory: web
+      - run: npm run build
+        working-directory: web
+      - name: Deploy
+        working-directory: web
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "::notice::Cloudflare secrets not set; skipping deploy"; exit 0
+          fi
+          if [ -n "$DOMAIN" ]; then
+            npx --yes wrangler@4 deploy --domain "$DOMAIN"
+          else
+            npx --yes wrangler@4 deploy
+          fi
